@@ -292,7 +292,7 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیل📸instagram.com/yashar🐦x.com/yasharrapfa📺youtube.com/yasharrapfa⛑️paypal.com/paypalme/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-20 00:48:50</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-20 02:47:11</div>
 <hr>
 
 <div class="tg-post" id="msg-22837">
@@ -301,14 +301,14 @@
 <div class="tg-text">سازمان تجارت دریایی بریتانیا : دو شناور در تنگه هرمز، در حدود ۴ مایل دریایی غرب «خصب» عمان، مورد اصابت قرار گرفته‌اند.
 یکی از شناورها هم‌اکنون در آتش می‌سوزد، در حالی که وضعیت شناور دوم همچنان نامشخص است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/withyashar/22837" target="_blank">📅 00:33 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 72.2K · <a href="https://t.me/withyashar/22837" target="_blank">📅 00:33 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22836">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">رسانه های اسرائیلی : ده ها جسد تروریست های حزب الله در تونل ها پیدا شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 33.9K · <a href="https://t.me/withyashar/22836" target="_blank">📅 00:27 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 76.5K · <a href="https://t.me/withyashar/22836" target="_blank">📅 00:27 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22835">
@@ -316,7 +316,7 @@
 <div class="tg-text">نتانیاهو : امشب بزرگ‌ترین پایگاه برون‌مرزی ایران یعنی تونل‌های «علی طاهر» در لبنان را منهدم کردیم. مأموریت با موفقیت به پایان رسید. سال نو یهودی مبارک! @WarRoom یاشار : آتیش بازی سال نو به سبک بی بی
 💥
 😂</div>
-<div class="tg-footer">👁️ 39K · <a href="https://t.me/withyashar/22835" target="_blank">📅 00:22 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 78.4K · <a href="https://t.me/withyashar/22835" target="_blank">📅 00:22 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22834">
@@ -334,14 +334,14 @@
 یاشار : آتیش بازی سال نو به سبک بی بی
 💥
 😂</div>
-<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/withyashar/22834" target="_blank">📅 00:19 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 81.1K · <a href="https://t.me/withyashar/22834" target="_blank">📅 00:19 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22833">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">نیویورک تایمز: پشت پرده ونس ترامپ را دور زد؛ مستقیم از فرماندهان ارتش آمریکا ارزیابی های دقیق از جنگ گرفت
 @WarRoom</div>
-<div class="tg-footer">👁️ 48.2K · <a href="https://t.me/withyashar/22833" target="_blank">📅 00:13 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 82.5K · <a href="https://t.me/withyashar/22833" target="_blank">📅 00:13 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22832">
@@ -362,7 +362,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 تسویه یک پرونده به ارزش ۱ میلیون و ۴۲۷ هزار و ۲۳۰ دلار
 بابت ۳۹ مورد نقض تحریم‌های ایران خبر داد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 58.5K · <a href="https://t.me/withyashar/22832" target="_blank">📅 23:59 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 88.6K · <a href="https://t.me/withyashar/22832" target="_blank">📅 23:59 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22831">
@@ -376,7 +376,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 </div>
 <div class="tg-text">لحظه انفجار از دید سربازان اسرائیلی
 @WarRoom</div>
-<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/withyashar/22831" target="_blank">📅 23:58 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 87.2K · <a href="https://t.me/withyashar/22831" target="_blank">📅 23:58 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22830">
@@ -384,14 +384,14 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 <div class="tg-text">یک منبع آمریکایی به شبکه CNN گفت:
 تخمین زده می‌شود که صدها نفر از نیروهای سپاه پاسداران انقلاب اسلامی در داخل یمن حضور دارند تا به حوثی‌ها در مسدود کردن تنگه باب‌المندب کمک کنند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 64.7K · <a href="https://t.me/withyashar/22830" target="_blank">📅 23:47 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 89.4K · <a href="https://t.me/withyashar/22830" target="_blank">📅 23:47 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22829">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">وزارت دفاع : به زودی گوشه‌ای از کوه‌ یخ صنایع دفاعی ایران را می‌بینید.
 @WarRoom</div>
-<div class="tg-footer">👁️ 83.1K · <a href="https://t.me/withyashar/22829" target="_blank">📅 23:10 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/22829" target="_blank">📅 23:10 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22828">
@@ -405,14 +405,14 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 </div>
 <div class="tg-text">لرزش موج انفجار حاصل شده از انفجار تپه‌های علی طاهر از دوربین مداربسته یک خانه ،بنا بر گزارشها، این زلزله ۴.۱ ریشتر گزارش شده.
 @WarRoom</div>
-<div class="tg-footer">👁️ 84.2K · <a href="https://t.me/withyashar/22828" target="_blank">📅 23:08 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/22828" target="_blank">📅 23:08 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22827">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">نیروی هوایی اسرائیل شهرک‌های «المنصوری» و «زبقین» در جنوب لبنان را هدف قرار داد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 86.2K · <a href="https://t.me/withyashar/22827" target="_blank">📅 22:58 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/22827" target="_blank">📅 22:58 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22826">
@@ -420,7 +420,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 <div class="tg-text">به‌صدا درآمدن آژیرهای خطر در شهرهای ابها و خمیس مشیط عربستان
 سازمان دفاع مدنی عربستان سعودی از فعال‌سازی سامانه هشدار زودهنگام در برخی مناطق جنوبی این کشور خبر داد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 87.2K · <a href="https://t.me/withyashar/22826" target="_blank">📅 22:55 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/22826" target="_blank">📅 22:55 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22825">
@@ -428,7 +428,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 <div class="tg-text">وحیدی: خدای ما خدای زنده است، خدای غربی ها خدای مرده است
 .
 @WarRoom</div>
-<div class="tg-footer">👁️ 91.4K · <a href="https://t.me/withyashar/22825" target="_blank">📅 22:45 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/22825" target="_blank">📅 22:45 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22824">
@@ -441,12 +441,12 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 را معرفی کرده بود که طبق گزارش‌ها به چنین سامانه‌ای مجهز است؛ با این حال،
 استفاده قطعی از قاسم بصیر در حملات اخیر هنوز تأیید نشده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 91.4K · <a href="https://t.me/withyashar/22824" target="_blank">📅 22:43 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/22824" target="_blank">📅 22:43 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22823">
 <div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-footer">👁️ 91.3K · <a href="https://t.me/withyashar/22823" target="_blank">📅 22:38 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/22823" target="_blank">📅 22:38 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22822">
@@ -457,13 +457,13 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 94.4K · <a href="https://t.me/withyashar/22822" target="_blank">📅 22:33 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/22822" target="_blank">📅 22:33 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22821">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">توییت جدید سفارت ایران : سرآشپز رضائی در حال پخت و پز است. @WarRoom</div>
-<div class="tg-footer">👁️ 97.5K · <a href="https://t.me/withyashar/22821" target="_blank">📅 22:17 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/22821" target="_blank">📅 22:17 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22820">
@@ -474,19 +474,19 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 97.5K · <a href="https://t.me/withyashar/22820" target="_blank">📅 22:16 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/22820" target="_blank">📅 22:16 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22819">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DDmmOK8coYv5yAbEH5-30oJSBvK6XRhXeb9Wz0fTELRWp0VBLS9gYyBVvQth3IVFb-RKffCqgmkY1kmx6oP9-FI2uanVOHxHLjUYzFv1Dzu0Dtk8w5cAUGmt6DayIuOoZ4jEcDv29WJuvFRNu9SE-b2TswO9TFS9hPa_SUbv1Lzj550_seFF8rHBZ7TtONhlUD9V46djNg_r4DISajA3SHYzyc8DcoobxlcM7rBB2TBT8NYvkOmzra3RnQHqZlPqpvjuJBC9_xvmE5OtmEIqB2tCytBp6m8czsVYmWKAhN-CGUzd8voK7VeCTZZkpqbJjW6CGT4W3OgkbpmTEiks-Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دوستان رفتیم مرحله بعدی‌کمر بند ها رو بیندید ، آیا رژیم اشغالگر جمهوری اسلامی جواب میده ؟</div>
-<div class="tg-footer">👁️ 98.5K · <a href="https://t.me/withyashar/22819" target="_blank">📅 22:13 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/22819" target="_blank">📅 22:13 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22818">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-footer">👁️ 94.4K · <a href="https://t.me/withyashar/22818" target="_blank">📅 22:09 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/22818" target="_blank">📅 22:09 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22817">
@@ -507,12 +507,12 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/22817" target="_blank">📅 22:06 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/22817" target="_blank">📅 22:06 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22816">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/withyashar/22816" target="_blank">📅 22:03 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/22816" target="_blank">📅 22:03 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22815">
@@ -524,7 +524,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/withyashar/22815" target="_blank">📅 22:03 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/22815" target="_blank">📅 22:03 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22814">
@@ -538,7 +538,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 </div>
 <div class="tg-text">ارتش اسرائیل اعلام کرده است که بیش از ۱۱۰۰ تن مواد منفجره برای تخریب زیرساخت‌های تونل‌های واقع در زیر منطقه "علی طاهر" در جنوب لبنان استفاده شده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/22814" target="_blank">📅 22:02 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/22814" target="_blank">📅 22:02 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22813">
@@ -551,7 +551,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 <a href="https://cdn4.telesco.pe/file/646f9ab553.mp4?token=Pc8lD0mxBGdWSpB8umVER7KFk7OG_YaQnJHAtGgOBpkhwrc1diw7DfiCviHKaLVDBiNdJYtf5MWpMzX9rdcXBULC-YZnuImuXITfqqn4bBP8cF1Jb1mV88Ymym9A4k-afNGjzL1yAhoWgCG3ZzNR8TZBejFg-sIAhlY1AsL2Zy1W1-IGfmDl_gQQJm3z484qpuJoAl6NZd2P8ldH3G9viC_Ostf6VCYjOai2_WFQhlmXYf5NcA3lW4EjC0wQPjiLuhbHkJ1zYTqzVkZsp44ABjMEinDUP08AYI6N3QyBgpMPpbjRYBwteE28SLzOu_Mm8aCAOapz8evcO3nbsyd7wQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">کانال ۱۴ اسرائیل: آیا ایران واکنش نشان خواهد داد؟ پس از ماه‌ها عملیات، نیروهای اسرائیلی کنترل ارتفاعات علی طاهر را تکمیل و زیرساخت‌های تروریستی این منطقه را منهدم کردند و اکنون برای مرحله بعدی آماده می‌شوند. همزمان، با نزدیک شدن به سال نو یهودی، سطح آماده‌باش…</div>
-<div class="tg-footer">👁️ 93.4K · <a href="https://t.me/withyashar/22813" target="_blank">📅 21:54 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/22813" target="_blank">📅 21:54 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22812">
@@ -564,7 +564,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 92.5K · <a href="https://t.me/withyashar/22812" target="_blank">📅 21:50 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/22812" target="_blank">📅 21:50 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22811">
@@ -591,12 +591,12 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 92.5K · <a href="https://t.me/withyashar/22811" target="_blank">📅 21:49 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/22811" target="_blank">📅 21:49 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22810">
 <div class="tg-post-header">📌 پیام #73</div>
-<div class="tg-footer">👁️ 90.4K · <a href="https://t.me/withyashar/22810" target="_blank">📅 21:47 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 99.2K · <a href="https://t.me/withyashar/22810" target="_blank">📅 21:47 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22809">
@@ -609,13 +609,13 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 91.4K · <a href="https://t.me/withyashar/22809" target="_blank">📅 21:46 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 100K · <a href="https://t.me/withyashar/22809" target="_blank">📅 21:46 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22808">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">کانال ۱۴ اسرائیل: آیا ایران واکنش نشان خواهد داد؟ پس از ماه‌ها عملیات، نیروهای اسرائیلی کنترل ارتفاعات علی طاهر را تکمیل و زیرساخت‌های تروریستی این منطقه را منهدم کردند و اکنون برای مرحله بعدی آماده می‌شوند. همزمان، با نزدیک شدن به سال نو یهودی، سطح آماده‌باش…</div>
-<div class="tg-footer">👁️ 94.5K · <a href="https://t.me/withyashar/22808" target="_blank">📅 21:44 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/22808" target="_blank">📅 21:44 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22807">
@@ -625,14 +625,14 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 و اکنون برای مرحله بعدی آماده می‌شوند. همزمان، با نزدیک شدن به سال نو یهودی، سطح آماده‌باش اسرائیل در تمامی جبهه‌ها، از ایران و لبنان تا غزه و کرانه باختری، به بالاترین سطح رسیده است. در همین حال، مقام‌های ارشد اسرائیلی هشدار داده‌اند که
 اگر ایران حمله کند، اسرائیل وارد یک جنگ گسترده خواهد شد و پاسخ آن محدود نخواهد بود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 93.5K · <a href="https://t.me/withyashar/22807" target="_blank">📅 21:43 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/22807" target="_blank">📅 21:43 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22806">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">ترامپ به نیوزنیشن : هیچ هواپیما نظامی آمریکا در حمله موشکی جمهوری اسلامی به اردن آسیب ندید
 @WarRoom</div>
-<div class="tg-footer">👁️ 93.4K · <a href="https://t.me/withyashar/22806" target="_blank">📅 21:38 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/22806" target="_blank">📅 21:38 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22805">
@@ -645,7 +645,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 97.5K · <a href="https://t.me/withyashar/22805" target="_blank">📅 21:33 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/22805" target="_blank">📅 21:33 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22804">
@@ -659,7 +659,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 </div>
 <div class="tg-text">نتانیاهو: رئیس‌جمهور ترامپ امشب اعلام کرد که ایران در حال تسلیح مجدد خود با سلاح‌های هسته‌ای است. این درست است. پس از آنکه توانایی فوری آنها برای تولید بمب‌های هسته‌ای را ویران کردیم، آنها دوباره در حال تلاش هستند. من اینجا، در کنار دیوار غربی، پیش از روش هشانا به شما اطمینان می‌دهم: تا زمانی که من نخست‌وزیر هستم، ایران سلاح هسته‌ای نخواهد داشت. همزمان، ما به محور ایران ضربه می‌زنیم؛ نه‌تنها به‌شدت در نوار غزه، بلکه در لبنان نیز. ما ارتفاعات بوفورت را ویران کردیم و اکنون با ارتفاعات علی طاهر مقابله می‌کنیم. چیزهای بیشتری در راه است
 @WarRoom</div>
-<div class="tg-footer">👁️ 96.5K · <a href="https://t.me/withyashar/22804" target="_blank">📅 21:21 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/22804" target="_blank">📅 21:21 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22803">
@@ -673,14 +673,14 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 </div>
 <div class="tg-text">چنل های عراقی با فیلمی مدعی شدند چهار بالگرد آسیب‌دیده بلک هاوک که با حمله ایران در پایگاه هوایی موقر السلطی ، اردن آسیب دیده‌اند و منتقل می‌شوند
 @WarRoom</div>
-<div class="tg-footer">👁️ 96.5K · <a href="https://t.me/withyashar/22803" target="_blank">📅 21:01 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/22803" target="_blank">📅 21:01 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22802">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">مدیونی فک کنی‌ چنل رو میبینن
 😁</div>
-<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/22802" target="_blank">📅 20:45 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/22802" target="_blank">📅 20:45 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22801">
@@ -693,21 +693,21 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 <a href="https://cdn4.telesco.pe/file/80ca539957.mp4?token=oCesrjrMteyxeUawhvk68AAfquTAk2eViNjOpQXXeVJniYfhtfos_ierXzIXUdBggZw-EQzqhgDoMYBd_vdY0JGcoZm73C2trOFA8wovciwKW-oNtX_A_r5ustsEudZX91aV3BlnQjrQ83WASB0chLUBDYEir647WJdV902UceWQEWTmmiOJm4EwgPkJKUMHHIsdEy7f0_2Tivo7DQogIlG4xUB6SN1tFBoVV9p9WJnBl3Te0Uh9k2tvR_j_gFhkyhs-eEQ4l3nxVsOh7V-H70TKaJ5Mgf147lQrKYuOxCw20sFbcYWlP1ByqO_kwh4mv6nIGz6RJl_aV-sMDnjbtQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اتاق جنگ با یاشار : شهپادی که سپاه چندین سال به دنبالش بود و یک بار ۴ سال پیش اقدام به سرقت کرد ولی ناموفق ماند، توسط دیدبان اتاق جنگ شکار شد. این یک شناور سطحیِ بدون‌سرنشین از نوع «Saildrone Explorer» است که شرکت آمریکایی سیل‌درون آن را طراحی و تولید کرده…</div>
-<div class="tg-footer">👁️ 98.5K · <a href="https://t.me/withyashar/22801" target="_blank">📅 20:43 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/22801" target="_blank">📅 20:43 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22800">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">رویترز : پیشروی حوثی‌ها در سواحل دریای سرخ یمن با هدایت مستقیم سپاه انجام شده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 99.6K · <a href="https://t.me/withyashar/22800" target="_blank">📅 20:24 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/22800" target="_blank">📅 20:24 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22799">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">وال‌استریت ژورنال: ایران بار دیگر تولید و مونتاژ موشک‌های بالستیک را از سر گرفته است. بر اساس این گزارش، فعالیت‌های موشکی در چند سایت زیرزمینی از جمله مجتمع خجیر از سر گرفته شده و ایران در حال ایجاد مراکز جدید مونتاژ زیرزمینی است؛ هرچند تولید هنوز به سطح پیش از جنگ نرسیده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/22799" target="_blank">📅 20:21 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/22799" target="_blank">📅 20:21 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22798">
@@ -720,7 +720,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 ۹۶ کشتی تجاری را برای اطمینان از اجرای کامل محاصره تغییر مسیر داده‌اند
 .
 @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/22798" target="_blank">📅 20:01 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/22798" target="_blank">📅 20:01 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22797">
@@ -728,7 +728,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded from𝐠𝐮𝐚𝐫𝐝 𝐣𝐚𝐯𝐢𝐝𝐚𝐧</strong></div>
 <div class="tg-text">یاشار رفتم چسب قطره ای گرفتم هیچی توش نبود
 😂</div>
-<div class="tg-footer">👁️ 99.6K · <a href="https://t.me/withyashar/22797" target="_blank">📅 19:59 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/22797" target="_blank">📅 19:59 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22796">
@@ -736,13 +736,13 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 <div class="tg-text">شعبه آلمان بانک سپه ایران در پی اعمال تحریم‌های اتحادیه اروپا علیه این بانک، امروز وارد فرآیند ورشکستگی شده است.
 این شعبه که در فرانکفورت فعالیت می‌کند، سال‌هاست تحت محدودیت‌های مرتبط با تحریم‌های ایران قرار دارد. بانک سپه در سطح بین‌المللی نیز سابقه طولانی در فهرست تحریم‌های آمریکا دارد و آدرس شعبه فرانکفورت آن در اطلاعات تحریمی آمریکا ثبت شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/22796" target="_blank">📅 19:34 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22796" target="_blank">📅 19:34 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22795">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">نماینده چین: اصرار بر بازگشت تحریم‌ها علیه ایران صلح و امنیت بین‌المللی را به خطر می‌اندازد نماینده چین در نشست شورای امنیت سازمان ملل با موضوع ایران: ما از بیانیه روسیه حمایت می‌کنیم و معتقدیم اسنپ‌بک به پایان رسیده است و شاهد غروب برجام هستیم. از اینکه همچنان…</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/22795" target="_blank">📅 18:58 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/22795" target="_blank">📅 18:58 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22794">
@@ -750,13 +750,13 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 <div class="tg-text">وزیر دفاع اسرائیل ، کاتز خطاب به مردم ایران:
 سال اینده در تهرانی که از سرکوب و استبداد ازاد شده باشد
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/22794" target="_blank">📅 18:57 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/22794" target="_blank">📅 18:57 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22793">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">تایید برنامه جلسه امروز شورای امنیت برای بررسی برنامه هسته ای ایران با وجود مخالفت چین و روسیه 11 تایید 2 مخالف (روسیه و چین) 2 ممتنع  این رای گیری صرفا برای تعیین برنامه امروز شورای امنیت و تایید بررسی برنامه هسته ای ایران صورت گرفت و رای به پیش نویس قطعنامه…</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/22793" target="_blank">📅 18:26 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/22793" target="_blank">📅 18:26 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22792">
@@ -766,7 +766,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/22792" target="_blank">📅 18:24 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/22792" target="_blank">📅 18:24 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22791">
@@ -777,7 +777,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 2 ممتنع
 این رای گیری صرفا برای تعیین برنامه امروز شورای امنیت و تایید بررسی برنامه هسته ای ایران صورت گرفت و رای به پیش نویس قطعنامه نبود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/22791" target="_blank">📅 18:21 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22791" target="_blank">📅 18:21 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22790">
@@ -794,7 +794,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 تبدیل شده.
 مسئول مربوطه هم گفته این مرغ‌ها فاسد نشده بودن و فقط تاریخ مصرفشون گذشته بود و چون امکان توزیع مستقیم نداشتن، با مجوز قضایی برای مصرف صنعتی فرستاده شدن....
 @WarRoom</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22790" target="_blank">📅 17:33 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22790" target="_blank">📅 17:33 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22789">
@@ -803,7 +803,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 تضعیف بیشتر و در نهایت فروپاشی نظام جهانی منع اشاعه هسته‌ای
 خواهد شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/22789" target="_blank">📅 17:31 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22789" target="_blank">📅 17:31 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22788">
@@ -811,7 +811,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 <div class="tg-text">رویترز به نقل از دو منبع نظامی دولتی:
 انصارالله یمن به دو جزیره حنیـش بزرگ و حنیـش کوچک در دریای سرخ رسیده‌
 @WarRoom</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/22788" target="_blank">📅 17:28 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/22788" target="_blank">📅 17:28 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22786">
@@ -823,7 +823,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22786" target="_blank">📅 17:27 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22786" target="_blank">📅 17:27 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22785">
@@ -835,7 +835,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/22785" target="_blank">📅 17:23 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/22785" target="_blank">📅 17:23 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22784">
@@ -844,7 +844,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 به فایننشال تایمز گفت:
 «فکر می‌کنم این وضعیت چند ماه دیگر ادامه پیدا کند، اما در مقطعی فشارهای اقتصادی شروع می‌کنند به اثر گذاشتن بر حکومت ایران.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22784" target="_blank">📅 17:15 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22784" target="_blank">📅 17:15 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22783">
@@ -852,7 +852,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ca6SKt7rPS8M76Qg-PVPVQJEu4i_3pCr_OiynYierbBWDNjQl-gTi50J2tyNM4EenRKiDlCMC-lFO00ImlThyZhndlUHUnFBCoE6MgEJoxLujLdtl0NQRLiUOrPMhTJGiO93OAqTIm5o-bI4JuAQaFPpzTugTxpgOaC6wil6VSTtViVbAM31ymS_5sgAD1MyxBlVnYivEz9YdcuxoGigcoybQedcn59X6uRIdvQe2ipvQ1Vsbz67UFUeMmG_zWXn2NuWK6dzqoDyVjrQUqLtpAUCkaaL6BEj2hcThk33ivaeC8E4LxSGhvCgvFUzIfbB7mvh-mAS6MlnXd8jUTeXLw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نفت از ۱۰۵$ عبور کرد نرخ دلار تتر هم ۲۳۶،۰۰۰ تومان در این لحظه است
 @WarRoom</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22783" target="_blank">📅 16:41 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/22783" target="_blank">📅 16:41 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22782">
@@ -864,7 +864,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22782" target="_blank">📅 15:45 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/22782" target="_blank">📅 15:45 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22781">
@@ -872,7 +872,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ILA8ORtPrgXiMxvjym3fc3TLaacL9F6V9N7n4PhxDfO7ufikddCaXZJnSu-_S-W0M168z7-HzCqsJHVzfj9n06DrvrfsBYw6ZQSFmnT31uDmaoKVNGPDVk5kC0OiZUlXWndLhHqpKJz8zdsywFJEepkIgMg6wJWUc0WarIAFsDyKQaBZKKJ4dRVeeJRrPkIs-enoBL8CLyDl6DZ4zbtkvY_cYqybSrjISiTzsJ_t9bUZWrIERqwqqU7X54FiDbFcm3uWGgzbyyv3fYpb8ECMCSoTZ84XBO4kqbZvXUs7X2V8coYu2PwKQzUVuQLP9RNiSbZxVxQajA526hBz3V3J4Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ستون دود جزیره قشم
 @WarRoom</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/22781" target="_blank">📅 14:55 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22781" target="_blank">📅 14:55 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22780">
@@ -882,7 +882,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 😂
 دقت کنید جاده رو از وسط کوه اول میبینید که میره سمت  کوه دومی
 @WarRoom</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/22780" target="_blank">📅 14:46 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22780" target="_blank">📅 14:46 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22779">
@@ -893,14 +893,14 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 به ایران می‌آورند یا از ایران خارج می‌کنند
 ، متوقف کرده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22779" target="_blank">📅 14:34 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/22779" target="_blank">📅 14:34 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22778">
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">سازمان عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرد که یک شناور گزارش داده است یک قایق تندرو ناشناس به آن نزدیک شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22778" target="_blank">📅 14:33 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/22778" target="_blank">📅 14:33 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22777">
@@ -914,7 +914,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 </div>
 <div class="tg-text">نظر عراقی ها در مورد مجتبی خامنه‌ای
 @WarRoom</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/22777" target="_blank">📅 14:28 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22777" target="_blank">📅 14:28 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22776">
@@ -934,7 +934,7 @@ Al-Brouj For General Contracting، Ain Al-Iraq، Shams & Bahr Trading Company، 
 فصل سوم
 نیز دوباره ایران را وارد خط اصلی داستان کرده و یک مأمور ایرانی در ربوده‌شدن جو، شخصیت اصلی سریال، نقش دارد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22776" target="_blank">📅 14:16 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22776" target="_blank">📅 14:16 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22775">
@@ -950,7 +950,7 @@ i24NEWS
 زخمی شده ولی کشته نشده باشد
 .
 @WarRoom</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/22775" target="_blank">📅 13:53 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/22775" target="_blank">📅 13:53 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22774">
@@ -958,7 +958,7 @@ i24NEWS
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fFBqxAVgOXmn3L6fsnxMvXoWW-njfZmKRKX0SIOuRG23H4xnA23KufTZx60TbNuL7cm61cDBeRJNsGxI7pvpsQTWzzEnq4vM4dL5zA8N5l0moIj5hI4gmV4Eo6jbNnvflytwncKgkV5hGmoB3jI5SVOKIuWEIwArClFubfvwoYKUbM3Mz-lF0mdM_hub-EVwJ7gB9uS_Q4dkB6VJtuiGFCQJ0gsnwOTQazH_HsRWN9Z2Fe9kvlbXWhI-k4Yb-duJb5XGnZEs6DXTGJjkS5uLLolZ5zLlciW9VFOD3ZAIn-5X3JU8xEDN8KFJD5KIyFflf6CFGla-hhv3lpkGs8hgLg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">با بیشتر شدن فقر  در جامعه گوشت گاومیش هندی به سفره ایرانی‌ها وارد شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22774" target="_blank">📅 13:02 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/22774" target="_blank">📅 13:02 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22773">
@@ -975,26 +975,26 @@ i24NEWS
 ⚠️
 ⚠️
 ⚠️</div>
-<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/22773" target="_blank">📅 12:17 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/22773" target="_blank">📅 12:17 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22772">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">وال‌استریت ژورنال: دولت آمریکا خود را برای یک درگیری طولانی‌تر با ایران آماده می‌کند؛ از جمله با ادامه استقرار نیروها در منطقه و چرخش یگان‌های نظامی و دفاعی. هم‌زمان، طرح‌هایی برای تشدید فشار اقتصادی و منزوی کردن ایران نیز در دولت ترامپ مطرح شده است. بر اساس…</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22772" target="_blank">📅 11:48 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/22772" target="_blank">📅 11:48 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22770">
 <div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">وال‌استریت ژورنال: دولت آمریکا خود را برای یک درگیری طولانی‌تر با ایران آماده می‌کند؛ از جمله با ادامه استقرار نیروها در منطقه و چرخش یگان‌های نظامی و دفاعی. هم‌زمان، طرح‌هایی برای تشدید فشار اقتصادی و منزوی کردن ایران نیز در دولت ترامپ مطرح شده است. بر اساس این گزارش، جی‌دی ونس، معاون رئیس‌جمهور، و مارکو روبیو، وزیر خارجه آمریکا، در جلسات خصوصی درباره احتمال طولانی شدن جنگ با ترامپ گفت‌وگو کرده‌اند. نگرانی اصلی آنها این است که ایران بتواند در برابر فشار نظامی، اقتصادی و محاصره دریایی آمریکا مقاومت کند و در نتیجه، پایان سریع جنگ ممکن نباشد؛ به‌طوری‌که در بدترین سناریو، درگیری حتی تا پایان دوره ریاست‌جمهوری ترامپ و در ابتدا ۲۰۲۹ ادامه پیدا کند
 @WarRoom</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/22770" target="_blank">📅 11:45 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/22770" target="_blank">📅 11:45 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22769">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">پست جدید ترامپ در تروث : ترامپ : این رژیم به‌زودی خواهد فهمید که هیچ‌کس نباید قدرت و توان ایالات متحده را به چالش بکشد.  گوینده : او بار دیگر به جهان یادآوری کرد، همان‌طور که بارها و بارها گفته است، که آمریکایی بودن معنایی شکست‌ناپذیر دارد. اگر آمریکایی‌ها…</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/22769" target="_blank">📅 11:39 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22769" target="_blank">📅 11:39 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22768">
@@ -1005,7 +1005,7 @@ i24NEWS
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/22768" target="_blank">📅 11:03 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/22768" target="_blank">📅 11:03 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22767">
@@ -1020,7 +1020,7 @@ i24NEWS
 <div class="tg-text">ترامپ: «فکر می‌کنم باید نام تنگه هرمز را به «تنگه ترامپ» تغییر دهیم.
 خانم‌ها و آقایان، اعلامیه‌ای در این‌باره خواهم داشت. آن را تنگه ترامپ خواهیم نامید و مطمئنم رهبری ایران از این موضوع بسیار خوشحال خواهد شد.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/22767" target="_blank">📅 10:58 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/22767" target="_blank">📅 10:58 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22766">
@@ -1034,7 +1034,7 @@ i24NEWS
 </div>
 <div class="tg-text">دونالد ترامپ: «دو نکته وجود دارد. اگر من برجام را لغو نکرده بودم و اگر با بمب‌افکن‌های زیبای B-2 خود به تأسیسات هسته‌ای آنها حمله نکرده بودیم، آنها همین حالا سلاح هسته‌ای داشتند. اگر آنها سلاح هسته‌ای داشتند، من با رهبر عالی ایران تماس می‌گرفتم و می‌گفتم: «آقای رهبر، حال شما چطور است؟ کاری هست که بتوانیم برای شما انجام دهیم؟» نه اینکه مثل الان، حسابی آنها را بمباران کنیم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/22766" target="_blank">📅 10:55 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/22766" target="_blank">📅 10:55 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22765">
@@ -1046,7 +1046,7 @@ i24NEWS
 ، ما می‌توانیم همه‌چیز را ببینیم. حتی می‌توانیم نوشته روی لباس آنها را ببینیم؛ محمد الفیاض، محمد العزوری.
 می‌توانیم آن را از فضا بخوانیم؛ باور می‌کنید؟ از هزاران مایل دورتر.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/22765" target="_blank">📅 10:28 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22765" target="_blank">📅 10:28 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22764">
@@ -1054,7 +1054,7 @@ i24NEWS
 <div class="tg-text">اورشلیم پست: گزارش‌هایی از انفجار در جزیره قشم و مناطق جنوبی ایران
 اورشلیم پست بامداد امروز گزارش داد صدای انفجار در جزیره قشم شنیده شده و همچنین گزارش‌هایی از اصابت پرتابه‌ها به مناطقی در شهرستان سیریک در جنوب ایران منتشر شده است؛ جزئیات خسارت یا تلفات هنوز مشخص نیست
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/22764" target="_blank">📅 10:13 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/22764" target="_blank">📅 10:13 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22763">
@@ -1062,7 +1062,7 @@ i24NEWS
 <div class="tg-text">یورونیوز: آمریکا عملیات اقتصادی علیه ایران را تشدید کرده است
 همزمان با حملات نظامی، واشنگتن فشار اقتصادی علیه تهران را افزایش داده و تحریم‌های جدیدی علیه شرکت‌ها، افراد و شبکه‌های مرتبط با تجارت و حمل‌ونقل ایران اعمال کرده است. یورونیوز این اقدامات را بخشی از تلاش واشنگتن برای منزوی کردن اقتصادی ایران عنوان کرده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/22763" target="_blank">📅 10:12 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22763" target="_blank">📅 10:12 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22762">
@@ -1070,7 +1070,7 @@ i24NEWS
 <div class="tg-text">آسوشیتدپرس: نفت بالای ۱۰۰ دلار باقی ماند
 افزایش قیمت نفت ناشی از تشدید جنگ ایران و آمریکا باعث کاهش ارزش بازارهای سهام آسیا شده است. برنت روز گذشته برای نخستین‌بار از ژوئیه از ۱۰۰ دلار عبور کرد و نگرانی درباره تورم و هزینه انرژی در اقتصادهای جهان افزایش یافته است
 @WarRoom</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22762" target="_blank">📅 10:04 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/22762" target="_blank">📅 10:04 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22761">
@@ -1078,7 +1078,7 @@ i24NEWS
 <div class="tg-text">فاکس‌نیوز: حمله موشکی ایران به پایگاه‌های آمریکا در اردن ناکام ماند
 یک مقام آمریکایی به فاکس‌نیوز گفت حمله موشکی ایران به مواضع آمریکا در اردن «بی‌اثر» بوده و تمامی نیروهای آمریکایی مستقر در این کشور سالم هستند. اردن نیز اعلام کرده بود ۱۸ موشک از ۲۰ موشک شلیک‌شده را رهگیری کرده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/22761" target="_blank">📅 09:57 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/22761" target="_blank">📅 09:57 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22760">
@@ -1086,7 +1086,7 @@ i24NEWS
 <div class="tg-text">رویترز: تردد کشتی‌ها از تنگه هرمز به ۷ فروند کاهش یافت
 دیروز چهارشنبه تنها ۷ کشتی حامل کالا از تنگه هرمز عبور کردند؛ در حالی که میانگین ۱۰روزه ۱۴ کشتی بوده است. از میان این کشتی‌ها، تنها یک نفتکش بسیار بزرگ حامل نزدیک به دو میلیون بشکه نفت خام از تنگه خارج شد و هیچ نفتکش ال‌ان‌جی از تنگه عبور نکرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/22760" target="_blank">📅 09:55 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22760" target="_blank">📅 09:55 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22759">
@@ -1101,7 +1101,7 @@ i24NEWS
 <div class="tg-text">مجری فاکس نیوز : ۵۰۰۰ دلار برای هر شهروند برای هر رای؟ یعنی ۱.۳ تریلیون دلار. منتقدان می‌گویند رئیس‌جمهور در حال رشوه دادن به رأی‌دهندگان است و کشور را ورشکسته می‌کند
 جی دی ونس: رئیس جمهور ترامپ می‌خواهد شهروندان را در این ثروت عظیم ناشی از تعرفه ها سهیم کنند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22759" target="_blank">📅 09:46 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/22759" target="_blank">📅 09:46 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22758">
@@ -1117,14 +1117,14 @@ i24NEWS
 ۵۰۰۰ دلار
 پرداخت خواهم کرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22758" target="_blank">📅 09:43 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/22758" target="_blank">📅 09:43 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22757">
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">تتر ۲۳۷،۰۰۰تومان (سقف تاریخی)
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22757" target="_blank">📅 09:15 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/22757" target="_blank">📅 09:15 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22756">
@@ -1141,7 +1141,7 @@ i24NEWS
 <div class="tg-text">این حروم زاده ها کی میرن رفتم ۵ لیتر بنزین زدم شد ۵۰ تومن
 😐
 💔</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/22755" target="_blank">📅 04:50 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/22755" target="_blank">📅 04:50 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22754">
@@ -1153,7 +1153,7 @@ i24NEWS
 <br>
 <a href="https://cdn4.telesco.pe/file/e4a9d76473.mp4?token=MTBAPsDTR-6n_q_aCClY-o6OJEb3MG79U6sQ41x3kStivJy77-qaAaTOOh-b_E1BzWOmjy1WHxCwZAQLVD3VD3Unu0c73POuAWkbQvuY-XYlGpeTnGIbooOo4SLs1YhsboODJo26n6pYrvKlPp9NESomS2kn_WObZ4_0poW1-UH-wBVkgkhSxOaSgg60aZ0js-a2GS3xaxbzvPJ6p4PgjBahm48BTI0fKq5MMZgK2K4kiPAD2EMWwk4gPiUqom0lQnXr_eBYplmcAmmScT9Ow6IsyqP8WKQddeWQWGYjrPiLkQXwLbgk1HsGdvz9RCb-5TWu6Czh6_uRDnn1PD_Ehg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/22754" target="_blank">📅 03:58 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/22754" target="_blank">📅 03:58 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22753">
@@ -1161,38 +1161,38 @@ i24NEWS
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromabas</strong></div>
 <div class="tg-text">سلام
 یاشار من عصری از خستگی و بی بازاری و کلافگی خوابم برد بازارم نرفتم خداگواه خواب دیدم. مانوک اومد تو خوابم. اصلا بهش فکر نکرده بودم ها. گفت فقط ۱۲روز دیگه صبر کنین</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/22753" target="_blank">📅 03:53 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/22753" target="_blank">📅 03:53 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22752">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/22752" target="_blank">📅 03:30 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/22752" target="_blank">📅 03:30 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22751">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/22751" target="_blank">📅 03:25 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/22751" target="_blank">📅 03:25 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22750">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/22750" target="_blank">📅 03:14 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/22750" target="_blank">📅 03:14 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22749">
 <div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/22749" target="_blank">📅 03:13 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/22749" target="_blank">📅 03:13 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22748">
 <div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/22748" target="_blank">📅 03:08 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/22748" target="_blank">📅 03:08 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22747">
 <div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">فنر رو بکشید !</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/22747" target="_blank">📅 03:04 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/22747" target="_blank">📅 03:04 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22746">
@@ -1205,43 +1205,43 @@ i24NEWS
 <div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/f949e07910.mp4?token=oBjlC2d4vJydIwQxBK5n9g-Zmw5HDywfxyIETqcR3KsapSqPl0zuu-zjlAXyxf9fbMBoPsoy_tTtlyzXK6VrS5C2bEfTIotHTV4Q3dWhsjvArkqd5Cc55xPoFZy1RhBNL6mm5FHYE46EsTT_3jInpr_i2Qc449FVYmLMVDZaK7iXw-3X0lV1HL1CBVtvAADn-X-C2D1pa1jtAK8HmSREzo6Gz7K7BFoCP3Ef37asm9UP1cqlUjCjt-UG5XLZarZdu1JVnEU4_v2XYgiu4DUB5ygZGkwIMqXQqGwqX9p-zRDAEX9hVhC7q7EXO2JsOyT7HXWDfLYO-ZKwdyHzCj3Srw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/f949e07910.mp4?token=wBFd34g3jtMSio2d6-p1uD7UGcLnTXI8UhUx4M5raNiM4FSxOcBdLYUOiuad5-0MURGFfOXscdn661qY-YJ8nDP-J_vnT89-jtNYPelyWz0ghKzEag5zA0XM2vaKb3hhVMVmoeNBsGNCp9YSKm_W5XUgl9bJTnO8_DaAgqAaN4Ku38Je8icNuXuQ0mleNoCOi3hwbxZ6rFyayPlyZsVeTzShUPuWWdVcARrhd1UpDFrahHydTTTjfj5QrDyQKvxYT-GQ5K_vi96hvVsWLk4Ra1rys9s_d74vYA7vj2CL2jV95wrf_CvVU0g0G2zjAOntGXYbb9-bByEthOxYwQ97WA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/f949e07910.mp4?token=oBjlC2d4vJydIwQxBK5n9g-Zmw5HDywfxyIETqcR3KsapSqPl0zuu-zjlAXyxf9fbMBoPsoy_tTtlyzXK6VrS5C2bEfTIotHTV4Q3dWhsjvArkqd5Cc55xPoFZy1RhBNL6mm5FHYE46EsTT_3jInpr_i2Qc449FVYmLMVDZaK7iXw-3X0lV1HL1CBVtvAADn-X-C2D1pa1jtAK8HmSREzo6Gz7K7BFoCP3Ef37asm9UP1cqlUjCjt-UG5XLZarZdu1JVnEU4_v2XYgiu4DUB5ygZGkwIMqXQqGwqX9p-zRDAEX9hVhC7q7EXO2JsOyT7HXWDfLYO-ZKwdyHzCj3Srw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/f949e07910.mp4?token=wBFd34g3jtMSio2d6-p1uD7UGcLnTXI8UhUx4M5raNiM4FSxOcBdLYUOiuad5-0MURGFfOXscdn661qY-YJ8nDP-J_vnT89-jtNYPelyWz0ghKzEag5zA0XM2vaKb3hhVMVmoeNBsGNCp9YSKm_W5XUgl9bJTnO8_DaAgqAaN4Ku38Je8icNuXuQ0mleNoCOi3hwbxZ6rFyayPlyZsVeTzShUPuWWdVcARrhd1UpDFrahHydTTTjfj5QrDyQKvxYT-GQ5K_vi96hvVsWLk4Ra1rys9s_d74vYA7vj2CL2jV95wrf_CvVU0g0G2zjAOntGXYbb9-bByEthOxYwQ97WA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">راه فریدون فروخزاد و مانوک خدابخشیان را ادامه می‌دهم، نه کسی خرج من را می‌دهد، نه از کسی می‌ترسم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/22745" target="_blank">📅 02:45 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/22745" target="_blank">📅 02:45 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22744">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GHECFApheHrkHumeQa3lJ-omRl5otfQp4CApIHPJ5WU455GRWz2zb41TNyHbrbkcNeq7OvzRLiDUjr5EVZCB8fGa619CWvxjcVzZgGftrkT7nsHiGG8digcmZYCtpehANlpfdLFoswunwjWYMx8Q7EKlF0Ni4YoaozFVUea-LEnEbo0HCDvzw7qu_JmvOpToEZZWq-wpkEIVgaYvEJe6HhD_4WYPy8vHhKsH-JYTB2JgHxDhpSPiD-ipj4fV1zKe2mOjaccePjcz3RS_vxESE9Wo2I1K3CIy3ZBln4_e0KpDytV0lMHRY7hyKNljVuzGPh6_OqSx8-zvJ6j3IB0p0Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CD6piNMF2RuUWbNTCc_PNfLu0Hqc0cOwXu06mjUouMAd74tr6Tnt4ajAAZQfQTa8U8baEVa9zL_ebfuZLPDZH7I5pH_Nfxy98sqv9XDmZzcWEzGtt1TvLjolTe_7YpCSQK7seB4Jv8iynH049bnIZp5E1_qRwglWBqukypevxqhNfJekOfSeJxFOUH8FGxPdI7P8uJDyWD77dKl1I1a8xSS0gfeW19yj3o-AeklFBjeSbf0Zlq3UrTZZaHyL6lfdFstR8Xm5L4QFL1f22vUhSun6wgMon70jssc2llZWphRvLoh1yvlaWXTEQhpxXlq1aG6EHv9yJ9gukRAJ9ftNNQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وضعیت محدودی خلیج فارس حاکی از ، همچنان در جریان بودن عملیات دارد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/22744" target="_blank">📅 02:40 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/22744" target="_blank">📅 02:40 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22743">
 <div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">آیت الله بی بی سی دقایقی پیش گزارش انفجار از میناب و سیریک گزارش‌کرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/22743" target="_blank">📅 02:35 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/22743" target="_blank">📅 02:35 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22742">
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">لازم می‌دونم یه چیزی رو کاملاً کلیر و واضح بگم. من، اگر امثالی مثل نادان لینو کس ، بهشت هم برن، من می‌رم جهنم مستقیم. خیالتون راحت باشه.
 شما اگه جهنم رو هم انتخاب کنید من با مردمم و میام و بت نمیسازم از چیزی ، لطفاً به من دایرکت ندید که، امیدواریم که تو... تو زرد از آب در نیای. این اعصابم رو به هم می‌ریزه.</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/22742" target="_blank">📅 02:20 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/22742" target="_blank">📅 02:20 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22741">
 <div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">علت اینکه سنتکام امشب حمله را اعلام نکرده فقط می‌تواند قیمت نفت باشد چون جامپ میزنه
 @WarRoom</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/22741" target="_blank">📅 02:16 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/22741" target="_blank">📅 02:16 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22740">
@@ -1249,13 +1249,13 @@ i24NEWS
 <div class="tg-text">امشب بخوام نخوام بیدارم
 🤣
 😌</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/22740" target="_blank">📅 02:07 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/22740" target="_blank">📅 02:07 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22739">
 <div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">مهم اینه که بتونی ولی با مردم باشی وگرنه که عمه جان منم میتونه</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/22739" target="_blank">📅 02:00 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/22739" target="_blank">📅 02:00 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22738">
@@ -1274,13 +1274,13 @@ i24NEWS
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">https://www.instagram.com/reel/DdFPOr5xRMu/?comment_id=18007178039969398
 کامنت برای ترامپ</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/22737" target="_blank">📅 01:56 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/22737" target="_blank">📅 01:56 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22736">
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">شاید فیلم‌هاش بعدم بذارم. تاریخ ثبت بشه. ولی اگه بگم توی پنت که گم می‌شی دعوتم ، بیست نفر دارن می‌رقصن. من دارم برای خودم یه Grey Goose می‌زنم و اخبار جنگ می‌زنم ، فکر کنم با دمپایی بزنن تو سرم. حتماً مستندش رو بعد از آزادی می‌سازم.</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/22736" target="_blank">📅 01:52 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/22736" target="_blank">📅 01:52 · 19 Shahrivar 1405</a></div>
 </div>
 
 <hr>
