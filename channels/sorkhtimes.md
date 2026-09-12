@@ -292,7 +292,7 @@
 <a href="https://t.me/sorkhtimes" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽ورزشی نویس پرسپولیس👤🎗️«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس.⛔رسانه سرخ تایمز مسئولیتی در قبال تبلیغات ندارد.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-22 01:20:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-22 03:06:01</div>
 <hr>
 
 <div class="tg-post" id="msg-139972">
@@ -314,7 +314,7 @@ wincobet.com
 @Wincobet_bot
 🤖
 @Wincobet_bot</div>
-<div class="tg-footer">👁️ 1 · <a href="https://t.me/SorkhTimes/139972" target="_blank">📅 01:22 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 904 · <a href="https://t.me/SorkhTimes/139972" target="_blank">📅 01:22 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139971">
@@ -331,7 +331,7 @@ wincobet.com
 آرش فرزین: پرسپولیس خسته را پدرم به عشق پروین خواند  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 1.25K · <a href="https://t.me/SorkhTimes/139971" target="_blank">📅 00:38 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/SorkhTimes/139971" target="_blank">📅 00:38 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139970">
@@ -343,7 +343,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 1.47K · <a href="https://t.me/SorkhTimes/139970" target="_blank">📅 00:31 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/SorkhTimes/139970" target="_blank">📅 00:31 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139969">
@@ -354,7 +354,7 @@ wincobet.com
 🗣
 🗣
 لیگ برتر حدود ۲۵ روز تعطیل خواهد بود. بخشی از این تعطیلی نسبتاً طولانی به دلیل همکاری باشگاه‌ها با تیم ملی امید است و بخش دیگر نیز مربوط به روزهای فیفاست که از ۳۰ شهریور تا ۱۴ مهر است.  «سرخ تایمز» دریچه ای تازه به اخبار موثق…</div>
-<div class="tg-footer">👁️ 1.46K · <a href="https://t.me/SorkhTimes/139969" target="_blank">📅 00:30 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/SorkhTimes/139969" target="_blank">📅 00:30 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139968">
@@ -366,7 +366,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس 𝓣𝓲𝓶𝓮
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 1.46K · <a href="https://t.me/SorkhTimes/139968" target="_blank">📅 00:29 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/SorkhTimes/139968" target="_blank">📅 00:29 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139967">
@@ -382,7 +382,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/SorkhTimes/139967" target="_blank">📅 23:22 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.39K · <a href="https://t.me/SorkhTimes/139967" target="_blank">📅 23:22 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139966">
@@ -393,7 +393,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/SorkhTimes/139966" target="_blank">📅 23:19 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.35K · <a href="https://t.me/SorkhTimes/139966" target="_blank">📅 23:19 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139965">
@@ -404,7 +404,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.22K · <a href="https://t.me/SorkhTimes/139965" target="_blank">📅 23:09 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.64K · <a href="https://t.me/SorkhTimes/139965" target="_blank">📅 23:09 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139964">
@@ -417,7 +417,7 @@ wincobet.com
 ✔️
 ✔️
 از روز اول تاجرنیا به رابطه من و مدیرعامل وقت آقای نظری جویباری حسادت می‌کرد و انتظار داشت من مسائل تیم را با او…</div>
-<div class="tg-footer">👁️ 3.19K · <a href="https://t.me/SorkhTimes/139964" target="_blank">📅 23:08 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.58K · <a href="https://t.me/SorkhTimes/139964" target="_blank">📅 23:08 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139963">
@@ -432,7 +432,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.28K · <a href="https://t.me/SorkhTimes/139963" target="_blank">📅 23:06 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.66K · <a href="https://t.me/SorkhTimes/139963" target="_blank">📅 23:06 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139962">
@@ -443,7 +443,7 @@ wincobet.com
 ✔️
 ✔️
 ساپینتو مدعی شد تاجرنیا به او گفته قرار است سعید فتاحی به استقلال اضافه شود تا با توجه به ارتباطاتش با داوران، مدیران سازمان لیگ و فدراسیون، مشکلات داوری و برنامه‌ریزی مسابقات را به نفع استقلال حل کند و…</div>
-<div class="tg-footer">👁️ 3.28K · <a href="https://t.me/SorkhTimes/139962" target="_blank">📅 23:03 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/SorkhTimes/139962" target="_blank">📅 23:03 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139961">
@@ -454,7 +454,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/SorkhTimes/139961" target="_blank">📅 23:01 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.5K · <a href="https://t.me/SorkhTimes/139961" target="_blank">📅 23:01 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139960">
@@ -465,7 +465,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/SorkhTimes/139960" target="_blank">📅 23:01 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.5K · <a href="https://t.me/SorkhTimes/139960" target="_blank">📅 23:01 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139959">
@@ -477,7 +477,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/SorkhTimes/139959" target="_blank">📅 23:00 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.5K · <a href="https://t.me/SorkhTimes/139959" target="_blank">📅 23:00 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139958">
@@ -493,7 +493,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.16K · <a href="https://t.me/SorkhTimes/139958" target="_blank">📅 22:58 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.53K · <a href="https://t.me/SorkhTimes/139958" target="_blank">📅 22:58 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139956">
@@ -506,7 +506,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.86K · <a href="https://t.me/SorkhTimes/139956" target="_blank">📅 21:39 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.13K · <a href="https://t.me/SorkhTimes/139956" target="_blank">📅 21:39 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139955">
@@ -518,7 +518,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4K · <a href="https://t.me/SorkhTimes/139955" target="_blank">📅 21:24 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/SorkhTimes/139955" target="_blank">📅 21:24 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139954">
@@ -532,7 +532,7 @@ wincobet.com
 </div>
 <div class="tg-text">🔹
 صحبت های وحید هاشمیان علیه پیمان حدادی:  حداقل درویش از مدیریت الان مرام بیشتری داشت و به نظرم برکنار شد چون من را برکنار نکرد. چطور برای اوسمار این چنین مراسم بدرقه ای انجام دادید ولی با من این گونه برخورد شد؟  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی…</div>
-<div class="tg-footer">👁️ 4.02K · <a href="https://t.me/SorkhTimes/139954" target="_blank">📅 21:20 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SorkhTimes/139954" target="_blank">📅 21:20 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139953">
@@ -546,7 +546,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.99K · <a href="https://t.me/SorkhTimes/139953" target="_blank">📅 21:16 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SorkhTimes/139953" target="_blank">📅 21:16 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139952">
@@ -563,7 +563,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/SorkhTimes/139952" target="_blank">📅 21:08 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SorkhTimes/139952" target="_blank">📅 21:08 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139951">
@@ -577,7 +577,7 @@ wincobet.com
 دمت گرم با این تیمی که بستی، تا آخرش همینجوری وایسا.نیم فصل دو تا ضعف رو برطرف کن، بخدا تا آخر فصل ازت حمایت میکنیم.  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.03K · <a href="https://t.me/SorkhTimes/139951" target="_blank">📅 21:07 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SorkhTimes/139951" target="_blank">📅 21:07 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139950">
@@ -593,7 +593,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.08K · <a href="https://t.me/SorkhTimes/139950" target="_blank">📅 20:59 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SorkhTimes/139950" target="_blank">📅 20:59 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139949">
@@ -602,7 +602,7 @@ wincobet.com
 پرسپولیس فردا به حای بازی لغو شده با خیبر احتمالا تو یه دیدار دوستانه به مصاف تیم شهید قندی یزد میره و بعد از اون تمرینات مدتی کنسل و بازیکنان به استراحت میرن  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.02K · <a href="https://t.me/SorkhTimes/139949" target="_blank">📅 20:57 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/SorkhTimes/139949" target="_blank">📅 20:57 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139948">
@@ -613,7 +613,7 @@ wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.91K · <a href="https://t.me/SorkhTimes/139948" target="_blank">📅 20:54 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/SorkhTimes/139948" target="_blank">📅 20:54 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139947">
@@ -647,7 +647,7 @@ Wincobet.com
 @Wincobet_bot
 🤖
 @Wincobet_bot</div>
-<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/SorkhTimes/139947" target="_blank">📅 20:41 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/SorkhTimes/139947" target="_blank">📅 20:41 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139946">
@@ -659,7 +659,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SorkhTimes/139946" target="_blank">📅 18:34 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SorkhTimes/139946" target="_blank">📅 18:34 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139945">
@@ -677,7 +677,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/SorkhTimes/139945" target="_blank">📅 18:03 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SorkhTimes/139945" target="_blank">📅 18:03 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139944">
@@ -691,7 +691,7 @@ Wincobet.com
 با توجه به لغو بازی با خیبر، پرسپولیس فردا در دیداری دوستانه به مصاف تیم شهید قندی یزد خواهد رفت.   «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.9K · <a href="https://t.me/SorkhTimes/139944" target="_blank">📅 17:58 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SorkhTimes/139944" target="_blank">📅 17:58 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139943">
@@ -704,7 +704,7 @@ Wincobet.com
 با وجود لغو مسابقه پرسپولیس و خیبر، تمرینات پرسپولیس طبق برنامه امروز برگزار خواهد شد و سرخپوشان پایتخت یک جلسه تمرینی دیگر را پشت سر می‌گذارند.
 ⏺
 مهدی تارتار، سرمربی پرسپولیس، قصد دارد از فرصت به‌وجود آمده برای…</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SorkhTimes/139943" target="_blank">📅 17:57 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SorkhTimes/139943" target="_blank">📅 17:57 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139942">
@@ -719,7 +719,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SorkhTimes/139942" target="_blank">📅 17:56 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SorkhTimes/139942" target="_blank">📅 17:56 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139941">
@@ -730,7 +730,7 @@ Wincobet.com
 علیرضا بیرانوند دروازبان تیم تراکتور، دو دیدار آغازین مقابل شباب الاهلی امارات و الغرافه قطر را به دلیل محرومیت غایب خواهد بود  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SorkhTimes/139941" target="_blank">📅 17:54 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SorkhTimes/139941" target="_blank">📅 17:54 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139940">
@@ -761,7 +761,7 @@ Wincobet.com
 👇
 🔵
 @Sportnavad</div>
-<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SorkhTimes/139940" target="_blank">📅 16:48 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.07K · <a href="https://t.me/SorkhTimes/139940" target="_blank">📅 16:48 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139939">
@@ -773,7 +773,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SorkhTimes/139939" target="_blank">📅 16:08 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/SorkhTimes/139939" target="_blank">📅 16:08 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139938">
@@ -784,7 +784,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SorkhTimes/139938" target="_blank">📅 16:06 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SorkhTimes/139938" target="_blank">📅 16:06 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139937">
@@ -803,7 +803,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SorkhTimes/139937" target="_blank">📅 14:00 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SorkhTimes/139937" target="_blank">📅 14:00 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139936">
@@ -815,7 +815,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SorkhTimes/139936" target="_blank">📅 14:00 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SorkhTimes/139936" target="_blank">📅 14:00 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139935">
@@ -826,7 +826,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.23K · <a href="https://t.me/SorkhTimes/139935" target="_blank">📅 13:58 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/SorkhTimes/139935" target="_blank">📅 13:58 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139934">
@@ -838,7 +838,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SorkhTimes/139934" target="_blank">📅 13:58 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/SorkhTimes/139934" target="_blank">📅 13:58 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139933">
@@ -854,7 +854,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/SorkhTimes/139933" target="_blank">📅 11:18 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.47K · <a href="https://t.me/SorkhTimes/139933" target="_blank">📅 11:18 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139932">
@@ -866,7 +866,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/SorkhTimes/139932" target="_blank">📅 11:15 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/SorkhTimes/139932" target="_blank">📅 11:15 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139931">
@@ -880,7 +880,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SorkhTimes/139931" target="_blank">📅 11:13 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SorkhTimes/139931" target="_blank">📅 11:13 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139930">
@@ -891,7 +891,7 @@ Wincobet.com
 ✔️
 ✔️
 سخنگوی فدراسیون فوتبال: قطعا و حتما امید عالیشاه هم زمانی که خداداد به استرالیا گل زد از آن گل خوشحال شده. هم عالیشاه و هم خداداد عزیزی برای این فوتبال عزیز هستند!…</div>
-<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/SorkhTimes/139930" target="_blank">📅 11:10 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/SorkhTimes/139930" target="_blank">📅 11:10 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139929">
@@ -901,7 +901,7 @@ Wincobet.com
 ❌
 ❌
 درحالی‌که مدیر سازمان فوتبال استقلال دیشب گفته بود که اعضای این تیم امروز ساعت ۱۴ تهران را به‌مقصد بصره ترک می‌کنند، فرودگاه بین‌المللی این شهر تمام پروازهای با مبدأ و به‌مقصد ایران را تا اطلاع…</div>
-<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/SorkhTimes/139929" target="_blank">📅 10:00 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/SorkhTimes/139929" target="_blank">📅 10:00 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139928">
@@ -912,7 +912,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/SorkhTimes/139928" target="_blank">📅 09:59 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SorkhTimes/139928" target="_blank">📅 09:59 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139927">
@@ -926,7 +926,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.44K · <a href="https://t.me/SorkhTimes/139927" target="_blank">📅 09:41 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.51K · <a href="https://t.me/SorkhTimes/139927" target="_blank">📅 09:41 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139926">
@@ -942,7 +942,7 @@ Wincobet.com
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.47K · <a href="https://t.me/SorkhTimes/139926" target="_blank">📅 09:00 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.51K · <a href="https://t.me/SorkhTimes/139926" target="_blank">📅 09:00 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139925">
@@ -975,7 +975,7 @@ Sport90.bet
 👇
 🔵
 @Sportnavad</div>
-<div class="tg-footer">👁️ 5.71K · <a href="https://t.me/SorkhTimes/139925" target="_blank">📅 01:17 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.75K · <a href="https://t.me/SorkhTimes/139925" target="_blank">📅 01:17 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139924">
@@ -985,7 +985,7 @@ Sport90.bet
 محسن خلیلی مدیر پرسپولیس: چرا می خواهند ترمز پرسپولیس را بکشند؟ چرا می خواهند حق پرسپولیس را بخورند واقعا این شائبه برانگیز هست  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SorkhTimes/139924" target="_blank">📅 00:50 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SorkhTimes/139924" target="_blank">📅 00:50 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139923">
@@ -995,7 +995,7 @@ Sport90.bet
 تارتار قصد داره که به اورونوف تایم بیشتری بازی بده تا اعتماد به نفس رفته این بازیکن برگرده و این بازیکن رو دوباره احیا کنه  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.44K · <a href="https://t.me/SorkhTimes/139923" target="_blank">📅 00:49 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.46K · <a href="https://t.me/SorkhTimes/139923" target="_blank">📅 00:49 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139922">
@@ -1005,7 +1005,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.64K · <a href="https://t.me/SorkhTimes/139922" target="_blank">📅 23:51 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.65K · <a href="https://t.me/SorkhTimes/139922" target="_blank">📅 23:51 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139921">
@@ -1017,7 +1017,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.54K · <a href="https://t.me/SorkhTimes/139921" target="_blank">📅 23:50 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.55K · <a href="https://t.me/SorkhTimes/139921" target="_blank">📅 23:50 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139920">
@@ -1035,7 +1035,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.61K · <a href="https://t.me/SorkhTimes/139920" target="_blank">📅 23:38 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.65K · <a href="https://t.me/SorkhTimes/139920" target="_blank">📅 23:38 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139918">
@@ -1064,10 +1064,10 @@ Sport90.bet
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/4c45fdbb36.mp4?token=Z0ugaF21OMdv5hXEEA4PbNpfQgaIJtgq33y-xyWCRgc3_a3dinI3X4Kskx3cZanz1vYxVSDt-sLR10ZO3YX06IxGTIyQhnHy9p6M6WC3Vd43WERDm8dnG9Bl-php5ds7J7lzqGTwohTRhOhBWDgssG5GhuDROeNegcOqK9UIE77Nm0KiZzfGSO4qVJeLzPsineMTIIzr3XhNyGR1rJhicyc5x1WJSXkYG0rA0d3erHDv6O9uKkl8VO1Tcsl8o66sk4C2-y5Tq5zHjb4DbzFS9diXGR-FQUhF5ay3t3Tmgx-sUVdA_-hLAtbgpJvgib6miPidg8uxkjFmwHWZ950tiksTkak4L3AyLP_-F3Ca1cz-_H4UuCRZag9juYF4GX7uX7dCv3Hj6QqvWUk-rznjMOutHadTfl9txrPxgHBCOW7tMFZZ5Wbsiaogua3l0nCv81v9lFWfmmQfn62Jbi_I-16IvHmw2Pou3i68EAkNc16qVQfHUB19kaLQY3xBw2CXcY62AwQmL6KmANn2Fcxa_OjKBF4GuPeRNDijnNYP2wfOU5ncckTcMzV6USn8esAnLrXXnfkYX4YiXso7KnwM2fWpdik-38XSGbr6_WZ1q6aKoZTt4CvoD2gpWBvVnnv00QFBjFpIE2Aod4a3nlas-dkzGSqkXrrNDK_oqSbSqjA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/4c45fdbb36.mp4?token=W2GCVVDA-dkhbP3WhJ8FMLpdmoOc2n1tiWsdmdqp07yVY6J_AU2u-8pikSABZUrRim_AbS2Y03QZaRSBmccw98BTejPrhjWTD7qpzFwmu6BJDQCb5A8HH-CZsFb5kYd9G6nhte8-wo3ChVNWy7yXUU0-PM0FHWwu0hgzStqxRslIZ5kzIWW6_Yf_PCiaHaHXSAWjCk6CbtCl8sqB0HvKJRtuAa87jNxXm0kp4VUB5rzwdejX5Sg-B5YiX-6L0wtxSJdtac5Da0eTwjvk1WvWOHDDT1Ay4dg_FkFSOif3Q_L4Aoeh95L01XdfqpBUA1ir4b8yY_c3lNfQ8zjqCKT20YF9r0S8O6UcFpx1EaWjfd5zJWJxcN93S0_OvVdCV8ZmQj33lCj7yvwaWW1_ShbkXngnVm4ythjePYNktbGJIIbB3rVkUY73iNbFwBy1q7QCogmuvAelS7ltQSKeFh__wWnquFhiLfhvd1i_BvOT9IgNnrkD3xkSwxG-XFEq9kChAtfkBU2pZxoEQsZLp0OuidRu5fpaPfJr17QG0MXnFx_Ri3wMV9C7OgIJ3zkgBpFckm3dWPyvc_0GgmH4LZYXkOPyKwB7V-i09LJrNt2XBn9_Rz_3RNxxrYmB-hT4AyqIpzJEusDMrFdWkbXQJJ6cQAulJ1O9E1wCvkkuppNec5Q" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/4c45fdbb36.mp4?token=Z0ugaF21OMdv5hXEEA4PbNpfQgaIJtgq33y-xyWCRgc3_a3dinI3X4Kskx3cZanz1vYxVSDt-sLR10ZO3YX06IxGTIyQhnHy9p6M6WC3Vd43WERDm8dnG9Bl-php5ds7J7lzqGTwohTRhOhBWDgssG5GhuDROeNegcOqK9UIE77Nm0KiZzfGSO4qVJeLzPsineMTIIzr3XhNyGR1rJhicyc5x1WJSXkYG0rA0d3erHDv6O9uKkl8VO1Tcsl8o66sk4C2-y5Tq5zHjb4DbzFS9diXGR-FQUhF5ay3t3Tmgx-sUVdA_-hLAtbgpJvgib6miPidg8uxkjFmwHWZ950tiksTkak4L3AyLP_-F3Ca1cz-_H4UuCRZag9juYF4GX7uX7dCv3Hj6QqvWUk-rznjMOutHadTfl9txrPxgHBCOW7tMFZZ5Wbsiaogua3l0nCv81v9lFWfmmQfn62Jbi_I-16IvHmw2Pou3i68EAkNc16qVQfHUB19kaLQY3xBw2CXcY62AwQmL6KmANn2Fcxa_OjKBF4GuPeRNDijnNYP2wfOU5ncckTcMzV6USn8esAnLrXXnfkYX4YiXso7KnwM2fWpdik-38XSGbr6_WZ1q6aKoZTt4CvoD2gpWBvVnnv00QFBjFpIE2Aod4a3nlas-dkzGSqkXrrNDK_oqSbSqjA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/4c45fdbb36.mp4?token=W2GCVVDA-dkhbP3WhJ8FMLpdmoOc2n1tiWsdmdqp07yVY6J_AU2u-8pikSABZUrRim_AbS2Y03QZaRSBmccw98BTejPrhjWTD7qpzFwmu6BJDQCb5A8HH-CZsFb5kYd9G6nhte8-wo3ChVNWy7yXUU0-PM0FHWwu0hgzStqxRslIZ5kzIWW6_Yf_PCiaHaHXSAWjCk6CbtCl8sqB0HvKJRtuAa87jNxXm0kp4VUB5rzwdejX5Sg-B5YiX-6L0wtxSJdtac5Da0eTwjvk1WvWOHDDT1Ay4dg_FkFSOif3Q_L4Aoeh95L01XdfqpBUA1ir4b8yY_c3lNfQ8zjqCKT20YF9r0S8O6UcFpx1EaWjfd5zJWJxcN93S0_OvVdCV8ZmQj33lCj7yvwaWW1_ShbkXngnVm4ythjePYNktbGJIIbB3rVkUY73iNbFwBy1q7QCogmuvAelS7ltQSKeFh__wWnquFhiLfhvd1i_BvOT9IgNnrkD3xkSwxG-XFEq9kChAtfkBU2pZxoEQsZLp0OuidRu5fpaPfJr17QG0MXnFx_Ri3wMV9C7OgIJ3zkgBpFckm3dWPyvc_0GgmH4LZYXkOPyKwB7V-i09LJrNt2XBn9_Rz_3RNxxrYmB-hT4AyqIpzJEusDMrFdWkbXQJJ6cQAulJ1O9E1wCvkkuppNec5Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">⚽️
 ❤️
@@ -1078,7 +1078,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SorkhTimes/139917" target="_blank">📅 23:31 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/SorkhTimes/139917" target="_blank">📅 23:31 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139916">
@@ -1089,7 +1089,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.54K · <a href="https://t.me/SorkhTimes/139916" target="_blank">📅 22:19 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.55K · <a href="https://t.me/SorkhTimes/139916" target="_blank">📅 22:19 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139915">
@@ -1105,7 +1105,7 @@ Sport90.bet
 ✔️
 ✔️
 نمی دانم سازمان لیگ چه گناهی مرتکب…</div>
-<div class="tg-footer">👁️ 5.7K · <a href="https://t.me/SorkhTimes/139915" target="_blank">📅 22:16 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.71K · <a href="https://t.me/SorkhTimes/139915" target="_blank">📅 22:16 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139914">
@@ -1117,7 +1117,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.81K · <a href="https://t.me/SorkhTimes/139914" target="_blank">📅 22:08 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.82K · <a href="https://t.me/SorkhTimes/139914" target="_blank">📅 22:08 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139913">
@@ -1148,7 +1148,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.64K · <a href="https://t.me/SorkhTimes/139912" target="_blank">📅 20:44 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.68K · <a href="https://t.me/SorkhTimes/139912" target="_blank">📅 20:44 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139911">
@@ -1180,7 +1180,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.72K · <a href="https://t.me/SorkhTimes/139910" target="_blank">📅 20:33 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.73K · <a href="https://t.me/SorkhTimes/139910" target="_blank">📅 20:33 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139909">
@@ -1208,12 +1208,12 @@ Sport90.bet
 باشگاه پرسپولیس ابوذر صفرزاده را از ما خواسته و ما گفتیم در شرایطی این بازیکن را می‌دهیم که حسین ابرقویی را بگیریم. همچنان هم در حال مذاکره هستیم و به نتیجه نرسیده‌ایم.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار…</div>
-<div class="tg-footer">👁️ 5.53K · <a href="https://t.me/SorkhTimes/139908" target="_blank">📅 20:30 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.56K · <a href="https://t.me/SorkhTimes/139908" target="_blank">📅 20:30 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139907">
 <div class="tg-post-header">📌 پیام #37</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FJFDLCz1-v-jq2Fj48TQlzwRpl7BgXUNJt7Itzb4zfxJ2EYs5XvLTYA2kdUm-bQQkgxv14-xpc7OLrrwQHUH3l5I-hdcpkGqMJEZv1qiEoJQo-casL0ZfdkEeYGi-LhuNdEpaRNfc5sxNwEJ8mf7ubOmQ1qWOsiSNqbTIpixiDX5YULYMG2Q3v-c_VI2yD7W33pMw5WK8A7c6IzinrAS1SEO6RGwHxcffpVJbYAnEsH9V_h_zQulnDHDy7HVMi2C7AINKzryQdeWH5jPLMx21Iid4MLrlpl7DQLTVvfhD0IJ0fjpMXLf6YXz5kQZ7Swx-HH8FqQnxkvkeNEteiqpMQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/R-0tAZdbrY2B56Ul95s97GwvC-r2M5Zt_GtWYQ96ZSrCkgNpeDAasDpoLa1byBR7xBqhxMWfcrkfwiO4LHOCKeqCfEvCYR4KXwzfJtm2IBzN8GFpksTDNfN0AiX8vzpI_-pdCNoBe_ZW6ZYIdP6EJY8f6r2XI-OxHxbkIQV5k1Dp433LSPrr6gLXOjoyPkct4b-oCUIA6k2z1Qxc4Ks6hfmfsfeiEbryq5fIP5SZL64gEpigtOE7C8WZBlgVFyKDS9Fq4Jh4yTcragzjaowcOEQlVX7zKl3YLJXLcmVpd_3ykNwr-udvTu8l3avCNnT2BdCdS1-LkvYKlex4nJV8hg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 نبردی نزدیک و تاکتیکی؛ والنسیا با تکیه بر امتیاز میزبانی به‌دنبال فشار بیشتر است و سویا امیدوار به استفاده از فضاهای دفاعی حریف و ضربه در ضدحملات؛ دیداری که می‌تواند تا دقایق پایانی کاملاً پایاپای دنبال شود.
 [
@@ -1265,7 +1265,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.86K · <a href="https://t.me/SorkhTimes/139905" target="_blank">📅 18:01 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.87K · <a href="https://t.me/SorkhTimes/139905" target="_blank">📅 18:01 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139904">
@@ -1301,7 +1301,7 @@ Sport90.bet
 
 <div class="tg-post" id="msg-139901">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jn3h7iPgsHYBDo_xFFIyxvD2QVfexqYpfi3nS8HM97MEPTGbbaPjewMz-FTc_NsgENJLhj5qkkLhxUOVF9hpoy7IsvigJsVNIacs1MfrYkSnhWAySpfswE1GMsogeXECBwViMBL3__G79G9hId8wgq9WCTNp6jbOsuuRDcs2u4RXtXhuHkrF4dpUjIff_Ogj_qTNO6ZNoVwcrnBEaSCnL2kAZq7rzJdZQG5469qRbiwEj4WcwMS3i7sm65o5PShCUG4XuewYp9pLiW-OKklx6JCbooEyenWJ9N8oB_9zBF8FlnksKmD_-hagSFRb4Ams63rHrJHVEzlVOirvJ8wtMA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Z6l5XzU546mge7fK59Yufxt9tFpjxvPFxlsGuqeYSIsDSMTH80KFOpP4Nn9xRm2-g6nhdmbvCiJ9h7-gz302YC00yYBbhVmBZjZ_kTRdsazkV8kEFgoDPrikxYPmViJMXiG5Lm7HEM-n3QqerXYn77e9JffstQUtK7Xujv6kInTbp0hLFbkTT88tOPisIellN8PZ0547RmddTVEnuW5duKcYYlr09Xn-99PNpDq2cykyd3qK7j2KhJJ5D0aqfyCrCCNLXr863ivpme6kJA_N7I28VYptgrlmQp9kOgg11wYGqOrhgaEXjOdLI2en9fnCI_lU3TLdUKoWznyLZ3mPyw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 ⭕️
 پوریا شهرآبادی ۱۵۵ دقیقه ۲ گل
@@ -1327,7 +1327,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.59K · <a href="https://t.me/SorkhTimes/139900" target="_blank">📅 16:12 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.62K · <a href="https://t.me/SorkhTimes/139900" target="_blank">📅 16:12 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139899">
@@ -1341,7 +1341,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.62K · <a href="https://t.me/SorkhTimes/139899" target="_blank">📅 16:08 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/SorkhTimes/139899" target="_blank">📅 16:08 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139898">
@@ -1369,7 +1369,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.72K · <a href="https://t.me/SorkhTimes/139897" target="_blank">📅 16:05 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.73K · <a href="https://t.me/SorkhTimes/139897" target="_blank">📅 16:05 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139896">
@@ -1399,12 +1399,12 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.98K · <a href="https://t.me/SorkhTimes/139895" target="_blank">📅 15:33 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.01K · <a href="https://t.me/SorkhTimes/139895" target="_blank">📅 15:33 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139894">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i9Q26YwY8PxK32qxHgByF4Uz5h_E7ieU0VL9ZQ2K08Z-M4CVTpJoGkRLDVriIpn2Lv3D9_BPOHwbTSY9vA9ndqTVsgwZCL6FjJG0ptMl6BbnHZq3FmEuQl6SHS-bYFB3eODb4COH234kDQFYxkiDj41XjMIKgXMCk18JoxzubYzYZTDVGY4XnEMsO99yQTJJ0fXCDhIfVPMpT2dWbEcGEBpcmb0KLfS2g1lk9KLMssBlb9d4QIJoZ6XWXTUvEl_qAZzTGCDbTweWIkCwerZsUs3VG8zAdsr8RP64FKwrTkkSdjVgFE20S1rf8nvuerRguze8sGF4oFBU4cAXyP8xPA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d7h-NcOtPHsbzPdLk08yeZeHpJFqGyBO7D57NtuZAl6s7O-adGxZok9scTwvzONp5pNI_zUC7z2L0Vlgicz6HMOJosm7ogUf7rFgAG05OnL_kCqQAjsA4Q1YMYEd45MZIW6ZpovyL6tU5CkWw2L4VlhcazBMoQHtjS021S6n538AI8BNN7tz-QNfzxCW_riJVhDLNchhqWXv3MbmnVcXbF1mpYtqaOsmhNmRmd2oW8KBzdxBBR2OUN4QMcQhLz2FVpP9kMzaQ6aC1fSZr1UW5glsGo3J_TF3ofEkeu79gBPGSwkd3VBtNS-tH_Cjcz--t91t9GxiFka_tdczpeoWVg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🏅
 ❤️
@@ -1498,7 +1498,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.83K · <a href="https://t.me/SorkhTimes/139888" target="_blank">📅 11:39 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.87K · <a href="https://t.me/SorkhTimes/139888" target="_blank">📅 11:39 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139887">
@@ -1556,10 +1556,10 @@ Sport90.bet
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/b893ef9367.mp4?token=X6dS44CReQLTeQ1MoXFpXlRxniOVHxQaLH6-4Fc8I0s8NNp8F_baTDI3BnPvOybml2xianHodqdN3gymYhwkmQptY7Qhj-dzXgdDMU6jeSeLgtjL1jmCrjmVJyzXsmKJ--zotvl2QASkUYoYblC5HIgi1fmpLsXbClZtiIM5oTsEf5fCH5UeB-ebTL6MLPmArojGCAwsKE2jOFFCrqKjLL_kFYhlfRqZsNmdYiwQ08bOxJc-QSGqyyxfJr8HE5DUOQAKIQkiwaLv6xCLhaKhQF-VrxlFx8cskBh01xuNGB8Uzu7mZV_LAn68iNUKfnXmfbD7jgoyzAIe98EyMlTtQg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/b893ef9367.mp4?token=ipe2jUc5Es2Mn8Oj8rngIBjUqxnw6LkxPH7MuLIGDv37VtT-4DrfZy5ZMf18B_ipYJtUYWPkYno81rn0LXH3L_ZY9UwbPRacB5AQqCWeN68cJApDAOobBkPpIm1rPgV9YGuRV_SdUwbGbh7V2G75jbqolAVN9G-kgLdEnpL0mTMTsmSd1kbpn_N-qsy0mVo4zYT8Cu-FACZ-N6xUnJ7RxvinMQJ1ilr6wFQW0bd3ITEgt9KXQ3Zl_Z9PCAPjiiyAxzIVUdD4ww666jbAN0UhVhDpxPpXGecf-3Tnr8ATFRPvn0QL5a8Bahp3h69zA89WJpOy4dzfTkJTE4ILkNz1pA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/b893ef9367.mp4?token=X6dS44CReQLTeQ1MoXFpXlRxniOVHxQaLH6-4Fc8I0s8NNp8F_baTDI3BnPvOybml2xianHodqdN3gymYhwkmQptY7Qhj-dzXgdDMU6jeSeLgtjL1jmCrjmVJyzXsmKJ--zotvl2QASkUYoYblC5HIgi1fmpLsXbClZtiIM5oTsEf5fCH5UeB-ebTL6MLPmArojGCAwsKE2jOFFCrqKjLL_kFYhlfRqZsNmdYiwQ08bOxJc-QSGqyyxfJr8HE5DUOQAKIQkiwaLv6xCLhaKhQF-VrxlFx8cskBh01xuNGB8Uzu7mZV_LAn68iNUKfnXmfbD7jgoyzAIe98EyMlTtQg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/b893ef9367.mp4?token=ipe2jUc5Es2Mn8Oj8rngIBjUqxnw6LkxPH7MuLIGDv37VtT-4DrfZy5ZMf18B_ipYJtUYWPkYno81rn0LXH3L_ZY9UwbPRacB5AQqCWeN68cJApDAOobBkPpIm1rPgV9YGuRV_SdUwbGbh7V2G75jbqolAVN9G-kgLdEnpL0mTMTsmSd1kbpn_N-qsy0mVo4zYT8Cu-FACZ-N6xUnJ7RxvinMQJ1ilr6wFQW0bd3ITEgt9KXQ3Zl_Z9PCAPjiiyAxzIVUdD4ww666jbAN0UhVhDpxPpXGecf-3Tnr8ATFRPvn0QL5a8Bahp3h69zA89WJpOy4dzfTkJTE4ILkNz1pA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🔴
 حردانی: آقا سهراب جواب تماس هامو نمی‌ده
@@ -1570,7 +1570,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/SorkhTimes/139883" target="_blank">📅 10:37 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.75K · <a href="https://t.me/SorkhTimes/139883" target="_blank">📅 10:37 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139882">
@@ -1599,7 +1599,7 @@ Sport90.bet
 
 <div class="tg-post" id="msg-139880">
 <div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B-cQwhLi0NbzMbYBeq4kWdVXWp1MrmpaIvKEJC4uo0XD7iMJQPAtKWyVs2IgUUQ2B5aFRwTURh7djEwLsYX3OoCLq214JLVW14dp5TPgzZ6q7-SNtzK4zJRkXLA48CdV1oqwfqjDoUd4vK7S2G0XSYVKB4CUZ-q5ZRi_rYL3LCNaznxxAW8PpNq8AVkgdnJnSoGn07pEjQs65X2bwMSLANxHFAbr9IzbjDiz8dzmgiIt0ipASuEZMlawGSyQ-KRHJrENJuj_3uWTiNahMciDYX6SroRQfCNF0uxvKqDCYACbvqWHmxunCGL65oeocEtYv5p7pvUtq-rCx4HFDT0J3A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/P0DCaaj8rTutg20nD_-mRGCcl3t_pEc8lKR_VJAUnI1ed6FUme8iawP6kG4iATYLPR7PFwJoNwWCAyMzqyWt_7ty723SOB9-0GX0t3pH50WVgsPa3kbPrpizKDdFUsHq4Q7weL3EtugwFza8-FctNUYzwjEa_3Tbw9sxdknZaTyw3VRCVTvpJUi-BWnD-I79OEkk2r488aQpH6EAdis1QE9gK2vn0VF7mxCmkC8I3QK89xVvGfZ7RGKZh_IpvKHI_7mUfef54GXZRrsAzVlxavjtKIVKBbsb8lA-i9ABW-kVnFXBu-7g3Jb-0_KC6XGgavR_a50HhucP1rP4f1qYPQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🟡
 سابالانکا مقابل پگولا؛ قدرت سابالانکا برابر بازی حساب‌شده پگولا. ریباکینا در تقابل با گاف؛ نبرد سرویس‌های سنگین با سرعت و دفاع. دوئل‌هایی نزدیک که تمرکز در امتیازهای حساس تعیین‌کننده است.
 🎾
@@ -1641,10 +1641,10 @@ Rybakina
 <div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/fa7d8a9c3c.mp4?token=eBDypU9AoVZPnscWq4Cno9D0YBDwRLQh6-OYPwblXHwUUrptkCiDkDEglA5Uhm2OcLUWFBLGzIqzRUp39gFpvz5GOQ77H8qXUHksYy0q45FFoZTaqH9bmEvne0ktnCHtYm-U_0RCBCi9ajR2ckbF4-n8G_7j3pfI2l4ygn_s9MbjxCruavzFZIO3NGwriYz4AEqVKIm7lSYdcjwoJuXlUZaRnAqZbODhH8R6V5nbj-PGwRKJbtmewwl79L-NOw2kbwd4tFKk31QSEu4ahz_SEHFkDQ5-GBPiKYlVkgntenc1DPbW2THAIcE0UOJnuYAsyLUb7sgu5MYzxMiidpsXVTzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/fa7d8a9c3c.mp4?token=YnIOenQX8-FOyyDtTg7-4MisO9BXMK5qL8JLAO95bFECSR3oIfDCYJl0LX6Z_E4XmfsAwhBS5uUDCGMUgGPRtHDJGSw6cU6XYRr3g7JbwM-g7bxFxtySNPVgy9sSmLEqO2zIkz8lC2DeTHIPL3ZWAgJHx_OR8q7gdzo24LNP2ZhqZYPpbY5I0LSHDvux4v_wX-7PcRTSJa6NsctPdWzJfs9z12oGI4B1niz-sMWbm52hdGUvQF7werujkwdr2hui__e29O5CPSb1FKdFpiZ2wuWllBkCYCUJzFVy2Tnu9xPye4xl7HkywdMS1NX9pMhstAM7CYkSzrY4OAoDWXhguDzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/fa7d8a9c3c.mp4?token=eBDypU9AoVZPnscWq4Cno9D0YBDwRLQh6-OYPwblXHwUUrptkCiDkDEglA5Uhm2OcLUWFBLGzIqzRUp39gFpvz5GOQ77H8qXUHksYy0q45FFoZTaqH9bmEvne0ktnCHtYm-U_0RCBCi9ajR2ckbF4-n8G_7j3pfI2l4ygn_s9MbjxCruavzFZIO3NGwriYz4AEqVKIm7lSYdcjwoJuXlUZaRnAqZbODhH8R6V5nbj-PGwRKJbtmewwl79L-NOw2kbwd4tFKk31QSEu4ahz_SEHFkDQ5-GBPiKYlVkgntenc1DPbW2THAIcE0UOJnuYAsyLUb7sgu5MYzxMiidpsXVTzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/fa7d8a9c3c.mp4?token=YnIOenQX8-FOyyDtTg7-4MisO9BXMK5qL8JLAO95bFECSR3oIfDCYJl0LX6Z_E4XmfsAwhBS5uUDCGMUgGPRtHDJGSw6cU6XYRr3g7JbwM-g7bxFxtySNPVgy9sSmLEqO2zIkz8lC2DeTHIPL3ZWAgJHx_OR8q7gdzo24LNP2ZhqZYPpbY5I0LSHDvux4v_wX-7PcRTSJa6NsctPdWzJfs9z12oGI4B1niz-sMWbm52hdGUvQF7werujkwdr2hui__e29O5CPSb1FKdFpiZ2wuWllBkCYCUJzFVy2Tnu9xPye4xl7HkywdMS1NX9pMhstAM7CYkSzrY4OAoDWXhguDzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">✔️
 ✔️
@@ -1741,7 +1741,7 @@ Rybakina
 
 <div class="tg-post" id="msg-139871">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ePSjg381CaHDLkd21nIxNxYeZfWIZzCQHfqFyqYe2tAhC1XgeY2MmxOZDhRnYV0wcrwmXoM4qsil2t0XYtpfwLQS4Gy3PQH5kMRa5uB4ubjQPqEm1N0I1d5Zs0CfrXZudwfyyhGJ63Q2NHJSxnK4XYRz6eyw49ublaAieGV3ph5hZZnVE0Iqzyjr6foD-KWhr780NN-RiObf3tdn9OC8AoMQ_sIwku5Z4UsSeUo5lEEWB0l1TvGdSdXregK2uBN3llhuYmh2fWzttRIC4osrkurOofJ4FaXUq-SLeMvBIRz7tOvN6a6t8vZ3nSuUBW0WvBXgok-mJM3487arx_aiEw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Y6DKOB1JF5Zx2e5MOP3Sam-8Of2LCJp6-Vkl6ggVLNMlDrEoc-WssNJOujNHDEwwpMMyRAwjHlk53E2oZWwBBpuyQInUA1fckV92ymKxkszG80GKnAe5UwQu2WldIM9P8IyVQePJxvNoQ2VzNZkc_-tvxRkwL1TC3Yc-xazsFAwN4hFkb7xOnGVQcAQ4TY5AIeiObyAi2AOHd2OLOi7PauRJz_zgT9HKkVKwtFHx_hCgt-0yqIcXHPBqFYkRpKJInxJmRRsWC1te3GRmlYNOeA2C2wuswzOiJAGkBjgW2EaBrF_kKBUCGiZ6AC7F5XThfuLaXlGufLO3eNWsB2QXGw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❌
 پس میگفتید که استقلال خوزستان ضعیف بود که ما چهارتا زدیم؟
 😁
