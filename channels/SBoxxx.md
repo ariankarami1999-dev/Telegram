@@ -292,32 +292,32 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-21 02:56:55</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-21 04:50:25</div>
 <hr>
 
 <div class="tg-post" id="msg-20816">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">انفجار در استان خمیس مشیط عربستان سعودی</div>
-<div class="tg-footer">👁️ 1.52K · <a href="https://t.me/SBoxxx/20816" target="_blank">📅 00:57 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.7K · <a href="https://t.me/SBoxxx/20816" target="_blank">📅 00:57 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20815">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">باز سعودی ها دستکم کتک خوردن ترک‌ها در سوریه از اسراییل برای بار پنجم را محکوم کردند!  شهناز جوراب که کلا خودش را زده به کوچه علی چپ!   نه حملات یمنی ها به سعودی را محکوم کرد نه حملات اسراییلی ها به ترک‌ها را !  سبحان الله عجب پیمانی شد این پیمان ناتوی اسلامی…</div>
-<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SBoxxx/20815" target="_blank">📅 22:19 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/20815" target="_blank">📅 22:19 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20814">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aS4QtqTEoRaGpofpj4K9YmVypqb9pNo5BOKFryV0yBf7G229z1dae8OadX9D3zPiqHbEHSNYhIxGbf5rVNKoexuRHMoDanopq2CXNOHa6DHfm0eUCyW1y4ijnyepuiEjpFKZEADOVOFvo6guX_QKJm47hSQQ1y_vqErrfBdWFB4Rhh0NbNQfnXP6RVIXkMv9pzRgFrM_xQSW7NjmBNcdJhWQUvmQ4omCl07oeaQEi5t2exyhDTn1hbcI1eStYTSOYR5O0gcwBRkJx5JagHBIkWGBxtIoChlzmJVuw9AVSjZ86hj6lTgU3zGCUsjQY7mnir2doqURat-iRADkWr-Kpg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیره انشالله!</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/20814" target="_blank">📅 21:00 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SBoxxx/20814" target="_blank">📅 21:00 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20813">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">— ۱۰ دقیقه پیش، نیروی دریایی سپاه پاسداران ایران یک موشک کروز ضدکشتی به سمت تنگه هرمز شلیک کرد.</div>
-<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SBoxxx/20813" target="_blank">📅 20:42 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/20813" target="_blank">📅 20:42 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20812">
@@ -335,28 +335,28 @@
 ، خبرنگار صداوسیما در میانه گفتگو با مردم به مصاحبه شونده می‌گوید:
 «اگر قند و شکر کوپنی کافی نیست، باید کمتر بخوری» مصاحبه شونده هم می‌گوید: «اصلا ترک می‌کنیم، ضرر هم داره!»
 @PiknikAnalyst</div>
-<div class="tg-footer">👁️ 3.85K · <a href="https://t.me/SBoxxx/20812" target="_blank">📅 20:40 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.91K · <a href="https://t.me/SBoxxx/20812" target="_blank">📅 20:40 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20811">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t0SmKDilUM6J4zq0ewOpFCnRAV1e7IqCfySoAfmke0BSHRMnc-j4ZoZ1bF-jOm_9TVlR-5OLgsSWaaANMbee_xgZl49Up9Pc9FZRjBwcZPLJCZHV7qILdXZ9hvRqWLyomjelQUssDdn3M4MMdHqyntQ4ungM5HSleMltchUq0Y-_IdFbZtuzRql8EXLqP30cUVPYYm1MmxgBfJZ76zIURCh1LhkChhq6E1iL0EQPD47v6MmvGvpHRpG2TvWc-Lib1XZRcQfHwKUkk2ZFIN0KXEM1sCrtPZM0AG4NblYV3pbr-Z3eVOuFQcSNL1EmIWOIadsNZCAh4jO74A697-2-YQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI  شاخص ریسک ژئوپولیتیک + تقویم اقتصادی برای امروز هم در سطح بالایی قرار دارد.  نظر به رشد بامدادی طلا تا کنون، فروش با تارگت 4320 توصیه می شود.</div>
-<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/20811" target="_blank">📅 20:10 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/20811" target="_blank">📅 20:10 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20810">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">مرتضی محمودی نماینده مجلس:
 اکنون که قیمت نفت بار دیگر به 110 دلار رسیده از نیروهای امنیتی التماس میکنیم یک مدت کـوتاه هرگـونه وسایل ارتباطی و متصل به اینترنت را از دسترس عـراقچی و همتی و مشاوران و دستیاران پزشکیان و قالیباف‌دور نگهدارند تا قیمت ‌را در این جنگ اقتصادی کاهش ندهند</div>
-<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SBoxxx/20810" target="_blank">📅 18:56 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/20810" target="_blank">📅 18:56 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20809">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">ترامپ:
 ایران بزرگ‌ترین حامی تروریسم در جهان است</div>
-<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SBoxxx/20809" target="_blank">📅 18:33 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/20809" target="_blank">📅 18:33 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20808">
@@ -375,26 +375,26 @@
 📌
 کانال ما :
 @cyclicalwaves</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/20808" target="_blank">📅 18:16 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/20808" target="_blank">📅 18:16 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20807">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PA5PwIZqc6htFEyikZzzbzEtOpXCWZX4SnJ1ipZk0zdgHAvbBf8nk4eZSRfL_IMZkxUPlgFXOCUJlUiF2HUAB9XVINgZrUz_Wn84GmSFgaX-cCarZSheWwnwwRPJRAcFcynrVrW0pNx6kD5Q5V5VxlkyZjlwaovCBUm6Hp8tMhBwtbtJphfHuOCoWNAWZYuUiYXJ0fEsIzaNuykXL0I8uQbUBIpaczjy0AZLde5oeqIUIUVAepn-BJx_D9szTsduH2llYZnMfDynMtIsmktnBtbo3pVdgI0cnDlNirYWRDTGnKgBbJ3p9ovZiZq6H5KO7y_0WQ_JLpNEElSTgtuCDg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عکس یادگاری روسای کشورهای بریکص</div>
-<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/20807" target="_blank">📅 16:15 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/20807" target="_blank">📅 16:15 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20806">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">#GRI  شاخص ریسک ژئوپولیتیک + تقویم اقتصادی برای امروز هم در سطح بالایی قرار دارد.  نظر به رشد بامدادی طلا تا کنون، فروش با تارگت 4320 توصیه می شود.</div>
-<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/20806" target="_blank">📅 16:07 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/20806" target="_blank">📅 16:07 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20805">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">وزیر امور مالی اسرائیل، سموتریچ:   حکومت ایران در طول جنگ سقوط نخواهد کرد.  مردم عادی زمانی که هواپیماهای اسرائیلی و آمریکایی در آسمان بودند، به خیابان‌ها هجوم نمی‌آوردند. آن‌ها نمی‌توانستند طوری به نظر برسند که به دشمن می‌پیوندند.  تأکید باید بر این باشد:…</div>
-<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/20805" target="_blank">📅 13:35 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SBoxxx/20805" target="_blank">📅 13:35 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20804">
@@ -410,32 +410,32 @@
 <div class="tg-text">#پادکست_GeoMarkets
 شماره — 26
 جمعه 11 سپتامبر  2026</div>
-<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SBoxxx/20804" target="_blank">📅 13:28 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SBoxxx/20804" target="_blank">📅 13:28 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20803">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qffdl_VNT5dnH07sWWlFgBOrGwdbWhql33aFQ2hbS9hwcoLUNE3Qx6fmCS1m16rVM0MPDlG4oVn6J7TaHWqoCB9mjObBJp4Z4dOGtn9cNGezMF_RymDb8FBzAREGjxN2lpruSCC4MoJDVZiyvL_EdCUGp6j9HHDtY-6SmvnGKibzAgkLqu2GPNDYXF32ZirbgUfXDCxubZNfb-qWXs97Co0nf_n9tpMta2k2cDnw2xwmdmc1jJVwAAkSMA8mSAS9J1knKZmatKINbLV49ijLQ7cQIQ9YHCrpQz4m_HM2vc-YdQ3JGoOtGvBxzR2BLKog-pxEzazsGklUoCAsh5pyGA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پس از انتشار خبری در فایننشال تایمز مبنی بر برنامه ریزی دیدار عراقچی با وزرای خارجه کشورهای عربی خلیج فارس و مذاکره درباره موارد بین ایران و این کشورها قیمت نفت کاهش یافت</div>
-<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SBoxxx/20803" target="_blank">📅 12:42 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/20803" target="_blank">📅 12:42 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20802">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">پس از انتشار خبری در فایننشال تایمز مبنی بر برنامه ریزی دیدار عراقچی با وزرای خارجه کشورهای عربی خلیج فارس و مذاکره درباره موارد بین ایران و این کشورها قیمت نفت کاهش یافت</div>
-<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SBoxxx/20802" target="_blank">📅 12:15 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SBoxxx/20802" target="_blank">📅 12:15 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20801">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">وزیر مالی فرانسه، لسکیور: هزینه‌های مربوط به بازپرداخت بدهی‌ها در سال جاری، 65 میلیارد یورو پیش‌بینی می‌شود، که این رقم 4.5 میلیارد یورو بیشتر از میزان پیش‌بینی‌شده به دلیل بحران‌های ژئوپلیتیکی است.</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/20801" target="_blank">📅 12:13 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/20801" target="_blank">📅 12:13 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20800">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">وزیر مالی فرانسه، لسکیور: هزینه‌های مربوط به بازپرداخت بدهی‌ها در سال جاری، 65 میلیارد یورو پیش‌بینی می‌شود، که این رقم 4.5 میلیارد یورو بیشتر از میزان پیش‌بینی‌شده به دلیل بحران‌های ژئوپلیتیکی است.</div>
-<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/20800" target="_blank">📅 12:13 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/20800" target="_blank">📅 12:13 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20799">
@@ -444,7 +444,7 @@
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک + تقویم اقتصادی برای امروز هم در سطح بالایی قرار دارد.
 نظر به رشد بامدادی طلا تا کنون، فروش با تارگت 4320 توصیه می شود.</div>
-<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/20799" target="_blank">📅 11:52 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SBoxxx/20799" target="_blank">📅 11:52 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20798">
@@ -464,26 +464,26 @@
 📌
 کانال ما :
 @cyclicalwaves</div>
-<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/20798" target="_blank">📅 11:42 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/20798" target="_blank">📅 11:42 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20797">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">گویا امروز حوثی ها این خط لوله را هم در 6 نقطه هدف قرار داده اند!  با ادامه این وضعیت یعنی عربستان حتی از مسیرهای جایگزینی که طراحی کرده بود نیز نمی تواند نفت صادر کند!  به نظرم تشدید تنشی بسیار با اهمیت است و از دلایل جهش بی سابقه نفت در روز گذشته</div>
-<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SBoxxx/20797" target="_blank">📅 10:50 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SBoxxx/20797" target="_blank">📅 10:50 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20796">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Gi9-ik5qLBBztIq6IOz9qa_U5XYPtUmqorcOnVXNZYAXnzralAdEeHo4aeGIU0Y6XIrnLw4QCamDVHPi1Qci2qdFoIVpIMHusGyfchoIYHk_etVdEgCNSIB3nEbYJgI-tSq1ePLyE-Q_BtNzEO-jNGamPGZpFrnb0b5sHUD-bWLGLf8jFpA6eKfwEbsc3PqN4BVVP2QvgHMd4fw773l7bfQLRLxjasH80j8je26aG7Dd3A1twu709-wD-xpn29fPG-3gv8w2EhFEctqCi6k-54qi_NjAS6Qvnfa-ptukSjaZQh1lyZPaDSExI7U4R3gXlCqn-uOLn3zR3wnwAot_ag.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برای درک حجم و‌ عمق بی لیاقتی و بی عرضگی ارتش پفکی سعودی کافی است به این عکس یادگاری جنگجویان حوثی که پس از تصرف بندر راهبردی مخا گرفته شده نگاه کنید!</div>
-<div class="tg-footer">👁️ 5.42K · <a href="https://t.me/SBoxxx/20796" target="_blank">📅 10:47 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.43K · <a href="https://t.me/SBoxxx/20796" target="_blank">📅 10:47 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20795">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">حقوق ثابت نماینده‌های مجلس ۵۰درصد افزایش یافت و مزایای جانبی نیز افزایش پیدا کرد</div>
-<div class="tg-footer">👁️ 5.86K · <a href="https://t.me/SBoxxx/20795" target="_blank">📅 01:36 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.87K · <a href="https://t.me/SBoxxx/20795" target="_blank">📅 01:36 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20794">
@@ -502,7 +502,7 @@
 <div class="tg-post" id="msg-20791">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">علی الطاهر!</div>
-<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/SBoxxx/20791" target="_blank">📅 00:00 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/SBoxxx/20791" target="_blank">📅 00:00 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20790">
@@ -549,7 +549,7 @@
 <div class="tg-text">وال استریت ژورنال :
 ایران در حال ازسرگیری تولید محدود موشک‌های بالستیک در زیرزمین است و پس از آنکه حملات ایالات متحده و اسرائیل به تأسیسات تولیدی آن آسیب رساند و محاصره دریایی واردات سوخت را محدود کرد، در حال مونتاژ سلاح‌ها از قطعات ذخیره‌شده است.
 تولید همچنان به‌طور قابل‌توجهی پایین‌تر از سطح پیش از جنگ باقی مانده است، اما تهران هنوز یک زرادخانه قابل‌استفاده از موشک‌ها را در اختیار دارد و در حال ساخت تأسیسات جدید زیرزمینی است که برای محافظت از ظرفیت‌های تولید سلاح در برابر حملات آینده طراحی شده‌اند.</div>
-<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/20786" target="_blank">📅 21:48 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SBoxxx/20786" target="_blank">📅 21:48 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20785">
@@ -583,7 +583,7 @@
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">عربستان سعودی به اوپک گزارش داد که تولید نفت این کشور ماه گذشته به دلیل اختلالات ایجاد شده توسط حوثی‌ها به ۶.۲۴ میلیون بشکه در روز کاهش یافته است که پایین‌ترین سطح از سال ۱۹۹۰ است.
 احتمالاً این ماه، پس از حملات به جازان و ابها، این رقم حتی کمتر هم خواهد شد.</div>
-<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SBoxxx/20781" target="_blank">📅 17:55 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SBoxxx/20781" target="_blank">📅 17:55 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20780">
@@ -750,7 +750,7 @@
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک + تقویم اقتصادی برای امروز در بالاترین سطح ممکن قرار دارد.
 نظر به ساختار تکنیکالی طلا، بالای 4420 فروش دارد.</div>
-<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/SBoxxx/20759" target="_blank">📅 11:30 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/20759" target="_blank">📅 11:30 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20758">
