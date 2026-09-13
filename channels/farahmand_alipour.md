@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 63.3K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-22 03:06:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-22 05:45:24</div>
 <hr>
 
 <div class="tg-post" id="msg-6731">
@@ -308,7 +308,7 @@
 با صدایی بغض کرده
 از عمه‌اش یاد کرد که بعد از ۱۱ سپتامبر
 از مترو استفاده نکرد، به خاطر اینکه حجاب داشت و در مترو احساس امنیت نمی‌کرد!</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/farahmand_alipour/6731" target="_blank">📅 10:44 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/farahmand_alipour/6731" target="_blank">📅 10:44 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6730">
@@ -324,7 +324,7 @@
 عراق مرزهای شلمچه و چذابه را بست.
 اینهم وضع مرز بازرگان
 این چند روز ویدئوهای زیادی از وضعیت مرز پاکستان و کامیون‌دارها نیز منتشر شد.</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/farahmand_alipour/6730" target="_blank">📅 10:24 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/farahmand_alipour/6730" target="_blank">📅 10:24 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6729">
@@ -346,7 +346,7 @@
 <div class="tg-text">ولایتی - مشاور خامنه‌ای که در یک کاخ مصادره‌ای زندگی میکنه به مردم ایران میگفت :
 «مقاومت رو از یمنی‌ها یاد بگیرید، لنگ می‌پوشند و نان خشک میخورند و مقاومت میکنن»
 و البته نگفته بود همه‌شون قات میزنن و کلا توی هپروت به سر می‌برن.</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/6728" target="_blank">📅 11:20 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/farahmand_alipour/6728" target="_blank">📅 11:20 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6727">
@@ -492,7 +492,7 @@
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">دلار ۲۳۲ تومن!
 💸</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/farahmand_alipour/6718" target="_blank">📅 13:33 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/farahmand_alipour/6718" target="_blank">📅 13:33 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6717">
@@ -1110,7 +1110,7 @@
 خلیج فارس در ظرف یک ماه، دو برابر شد.
 جمهوری اسلامی تنگه رو بست و فروش
 نفت خودش متوقف شد.</div>
-<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/farahmand_alipour/6655" target="_blank">📅 07:43 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/farahmand_alipour/6655" target="_blank">📅 07:43 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6654">

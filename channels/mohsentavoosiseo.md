@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-22 03:06:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-22 05:45:24</div>
 <hr>
 
 <div class="tg-post" id="msg-970">
@@ -301,7 +301,7 @@
 چرا اول کار فقط وردپرس؟
 البته استثناهایی هم وجود داره. اگر تصمیم گیرنده از هیجان زدگی تصمیم بر غیر وردپرس نگرفته و از محتوای این ویس هم آگاه هست و پذیرفته و حاضره هزینه نقدی و زمانی و ریسک با اختلاف بیشتری کنه، ممکنه اختصاصی هم مناسب باشه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.41K · <a href="https://t.me/mohsentavoosiseo/970" target="_blank">📅 19:46 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.42K · <a href="https://t.me/mohsentavoosiseo/970" target="_blank">📅 19:46 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-968">
@@ -318,7 +318,7 @@
 این ویدیو یکی از مهمترین مواردی هست که تفکر کل زندگی و کسب و کار من هست.
 https://youtu.be/2cW1RJKfOao?si=_YEhZViKApY3Nygm
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.08K · <a href="https://t.me/mohsentavoosiseo/967" target="_blank">📅 14:24 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.09K · <a href="https://t.me/mohsentavoosiseo/967" target="_blank">📅 14:24 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-966">
@@ -332,7 +332,7 @@ https://youtu.be/2cW1RJKfOao?si=_YEhZViKApY3Nygm
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VOwvGur5RQ4pig7Li0kI_1CBpt4dOKwQ5fC9l0Z6Jp5Jrr7c36_m069PqiGnxCejT-TYeGc8ccHcfaT9Te6JSfNO1uMtyYVcAXJNEuz38d6se8lEWbShV6Osi9VbX4IyCRnIVT29Ix9uDFlpO0xlpnebpXmAj0-LQ7PK7Apbqc-rAYxFEtl0q0EZZ-VlYUyy2HWD2bMO3QkqVgGa70P4H0dJ-h_p_mz2_K8crg4zoK_cP_68Fj2gIdhuwXuXixt-Ei7dmYJrQbE_dF1dTiUTHAqKKo9RkbRbQkAjw13-Os_gDLTGBl2c8DYtP6UBG1qjeXUlh49D3pTACES8UZV75g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تو ویس پایین توضیح میدم این اشتباه فاحش هوش مصنوعی رو!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.23K · <a href="https://t.me/mohsentavoosiseo/965" target="_blank">📅 17:09 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.24K · <a href="https://t.me/mohsentavoosiseo/965" target="_blank">📅 17:09 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-964">
@@ -357,7 +357,7 @@ https://www.instagram.com/reel/DcqV0WHMZia/
 سپس میام یک پست میذارم و رایگان آموزشش میدم و میگم بچه ها! کلا دور خودمون میچرخیدیم! گوگل ادز و SEO/AEO و متاادز و گوگل بیزنس/مپ ادز(زیرمجموعه همون گوگل ادز) و تمام کانال های مارکتینگ بیخود و اشتباه بود. هممون اشتباه میکردیم. یه ابزار کافی بود ما رو سریع و ارزون و راحت به مشتری برسونه.
 بعد هم میزنم تو کار املاک و پاسپورت چند تا کشور رو از طریق خرید ملک میگیرم و بقیه زندگیمو به گردشگری، دوچرخه سواری در تابستان های سوئیس میگذرونم و یک صرافی بزرگ هم در مرکز امارات با شعب مختلف در سراسر جهان، تاسیس می کنم و میام میگم همون پستی که اون روز گذاشتم و exit کردم یادتونه؟ همه اینا رو از اون پست اینستاگرام و اون پلاگین یا ابزار بدست اوردم.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.37K · <a href="https://t.me/mohsentavoosiseo/963" target="_blank">📅 12:35 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.38K · <a href="https://t.me/mohsentavoosiseo/963" target="_blank">📅 12:35 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-962">
@@ -373,7 +373,7 @@ https://www.instagram.com/reel/DcqV0WHMZia/
 <div class="tg-text">تله دلسوزی برای شرکت
 تو ویس گفتم "خلق کن"
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.54K · <a href="https://t.me/mohsentavoosiseo/961" target="_blank">📅 15:42 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.55K · <a href="https://t.me/mohsentavoosiseo/961" target="_blank">📅 15:42 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-960">
@@ -402,7 +402,7 @@ Agent بالاسر Agent
 🟢
 اطلاعات بیشتر در info کانال(bio)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.63K · <a href="https://t.me/mohsentavoosiseo/956" target="_blank">📅 11:57 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.64K · <a href="https://t.me/mohsentavoosiseo/956" target="_blank">📅 11:57 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-955">

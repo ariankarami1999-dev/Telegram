@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-22 03:06:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-22 05:45:24</div>
 <hr>
 
 <div class="tg-post" id="msg-7732">
@@ -316,7 +316,7 @@ Kimi K2.6 | GPT 5 mini | DeepSeek V3.2
 بشید مدل موردنظر را انتخاب کنید و شروع کنید.
 🔥
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 663 · <a href="https://t.me/ArchiveTell/7732" target="_blank">📅 23:45 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 739 · <a href="https://t.me/ArchiveTell/7732" target="_blank">📅 23:45 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7731">
@@ -352,7 +352,7 @@ proxyma1.io
 ثبت‌نام آسان با تلگرام
 🔥
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 733 · <a href="https://t.me/ArchiveTell/7731" target="_blank">📅 23:35 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 799 · <a href="https://t.me/ArchiveTell/7731" target="_blank">📅 23:35 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7730">
@@ -387,7 +387,7 @@ base url:
 https://getunikey.ai/v1
 🔥
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 794 · <a href="https://t.me/ArchiveTell/7730" target="_blank">📅 23:08 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 852 · <a href="https://t.me/ArchiveTell/7730" target="_blank">📅 23:08 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7729">
@@ -423,7 +423,7 @@ github
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 902 · <a href="https://t.me/ArchiveTell/7729" target="_blank">📅 22:37 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 948 · <a href="https://t.me/ArchiveTell/7729" target="_blank">📅 22:37 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7727">
@@ -451,7 +451,7 @@ https://github.com/Qorvhex/Bifrost
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.11K · <a href="https://t.me/ArchiveTell/7727" target="_blank">📅 21:16 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.14K · <a href="https://t.me/ArchiveTell/7727" target="_blank">📅 21:16 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7726">
@@ -487,7 +487,7 @@ https://github.com/Qorvhex/Bifrost
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.06K · <a href="https://t.me/ArchiveTell/7726" target="_blank">📅 21:04 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.09K · <a href="https://t.me/ArchiveTell/7726" target="_blank">📅 21:04 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7725">
@@ -516,7 +516,7 @@ https://github.com/Qorvhex/Bifrost
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.04K · <a href="https://t.me/ArchiveTell/7725" target="_blank">📅 20:59 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.07K · <a href="https://t.me/ArchiveTell/7725" target="_blank">📅 20:59 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7723">
@@ -563,7 +563,7 @@ https://github.com/mbm110/MSN-GUARD
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.21K · <a href="https://t.me/ArchiveTell/7723" target="_blank">📅 18:35 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.23K · <a href="https://t.me/ArchiveTell/7723" target="_blank">📅 18:35 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7722">
@@ -588,7 +588,7 @@ https://mail.turbocenter.shop
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/ArchiveTell/7722" target="_blank">📅 18:12 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.2K · <a href="https://t.me/ArchiveTell/7722" target="_blank">📅 18:12 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7721">
@@ -617,7 +617,7 @@ https://mail.turbocenter.shop
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.26K · <a href="https://t.me/ArchiveTell/7721" target="_blank">📅 16:52 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.28K · <a href="https://t.me/ArchiveTell/7721" target="_blank">📅 16:52 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7720">
@@ -650,7 +650,7 @@ https://github.com/ArasTey/ArasClient
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.24K · <a href="https://t.me/ArchiveTell/7720" target="_blank">📅 15:57 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.25K · <a href="https://t.me/ArchiveTell/7720" target="_blank">📅 15:57 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7718">
@@ -672,7 +672,7 @@ https://netdad.vercel.app
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.22K · <a href="https://t.me/ArchiveTell/7718" target="_blank">📅 15:14 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.24K · <a href="https://t.me/ArchiveTell/7718" target="_blank">📅 15:14 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7717">
@@ -686,7 +686,7 @@ https://netdad.vercel.app
 قابل دسترسی است (در حال حاضر شامل ۱۰۰ میلیون توکن می‌شود)
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.34K · <a href="https://t.me/ArchiveTell/7717" target="_blank">📅 14:46 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.36K · <a href="https://t.me/ArchiveTell/7717" target="_blank">📅 14:46 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7716">
@@ -703,7 +703,7 @@ https://github.com/faithsaly5-stack/Keybeat
 ✈️
 @ArchiveTell
 | S</div>
-<div class="tg-footer">👁️ 1.5K · <a href="https://t.me/ArchiveTell/7716" target="_blank">📅 12:45 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.52K · <a href="https://t.me/ArchiveTell/7716" target="_blank">📅 12:45 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7715">
@@ -719,7 +719,7 @@ http://rainproxy.io
 ✈️
 @ArchiveTell
 | S</div>
-<div class="tg-footer">👁️ 1.62K · <a href="https://t.me/ArchiveTell/7715" target="_blank">📅 10:21 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.64K · <a href="https://t.me/ArchiveTell/7715" target="_blank">📅 10:21 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7712">
@@ -740,7 +740,7 @@ browser-use.com
 برای دریافت اعتبار بیشتر، از چندین حساب استفاده کنید.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.69K · <a href="https://t.me/ArchiveTell/7712" target="_blank">📅 21:20 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.7K · <a href="https://t.me/ArchiveTell/7712" target="_blank">📅 21:20 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7711">
@@ -796,7 +796,7 @@ browser-use.com
 مراحل: ① به https://arena.ai/ مراجعه کنید. ② حالت Direct Mode را انتخاب کنید. ③ در لیست مدل‌ها، GPT-Image-2.5 Sunburst را پیدا کنید. ④ به مدت 72 ساعت، این مدل به صورت رایگان در دسترس خواهد بود.
 ✈️
 …</div>
-<div class="tg-footer">👁️ 1.83K · <a href="https://t.me/ArchiveTell/7708" target="_blank">📅 14:25 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/ArchiveTell/7708" target="_blank">📅 14:25 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7707">
@@ -810,7 +810,7 @@ Opus 5 | GPT 5.6 Sol | GLM 5.3 | Opus 4.8 | Deepseek V4 Flash
 ✅
 🎁
 با هر رفرال شما 100 دلار و شخص دریافت کننده…</div>
-<div class="tg-footer">👁️ 1.88K · <a href="https://t.me/ArchiveTell/7707" target="_blank">📅 12:01 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/ArchiveTell/7707" target="_blank">📅 12:01 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7706">
@@ -917,7 +917,7 @@ https://kiraai.vn/api/v1
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/ArchiveTell/7701" target="_blank">📅 18:42 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/ArchiveTell/7701" target="_blank">📅 18:42 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7700">
@@ -958,7 +958,7 @@ https://kiraai.vn/api/v1
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.86K · <a href="https://t.me/ArchiveTell/7700" target="_blank">📅 17:57 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/ArchiveTell/7700" target="_blank">📅 17:57 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7698">
@@ -987,7 +987,7 @@ Opus 5 | GPT 5.6 sol | Sonnet 5 | Kimi k3 | Gemini 3.5 | Opus 4.8 | Grok 4.20 | 
 دسترسی به بهترین مدل‌های هوش مصنوعی به صورت رایگان    Mimo 2.5 Pro | Deepseek 4 Pro | Minimax m2.7 | Mistral Small 4 | Mistral Large 3 | Mistral Medium 3.5
 ✅
 برای فعال‌سازی فقط کافیه یک ایمیل داشته باشید و از طریق لبنو زیر وارد شید و سپس لینک ربات تلگرامی…</div>
-<div class="tg-footer">👁️ 1.63K · <a href="https://t.me/ArchiveTell/7696" target="_blank">📅 16:15 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.64K · <a href="https://t.me/ArchiveTell/7696" target="_blank">📅 16:15 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7695">
@@ -1195,7 +1195,7 @@ sk-3c3eb497a104328775de0ddb333c7c8d596c20a89e25bbe7e204318f35e2b050
 |
 #AI
 #API</div>
-<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/ArchiveTell/7686" target="_blank">📅 16:50 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/ArchiveTell/7686" target="_blank">📅 16:50 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7685">
@@ -1228,7 +1228,7 @@ sk-3c3eb497a104328775de0ddb333c7c8d596c20a89e25bbe7e204318f35e2b050
 @ArchiveTell
 |
 #NEWS</div>
-<div class="tg-footer">👁️ 1.71K · <a href="https://t.me/ArchiveTell/7685" target="_blank">📅 16:23 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/ArchiveTell/7685" target="_blank">📅 16:23 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7684">
@@ -1353,7 +1353,7 @@ Prompt (high effort): /dream-loop Build me a graphics demo: isometric camera, vo
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.59K · <a href="https://t.me/ArchiveTell/7681" target="_blank">📅 13:49 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.6K · <a href="https://t.me/ArchiveTell/7681" target="_blank">📅 13:49 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7680">
@@ -1446,7 +1446,7 @@ Portal
 |
 #TOOLS
 #AI</div>
-<div class="tg-footer">👁️ 1.88K · <a href="https://t.me/ArchiveTell/7678" target="_blank">📅 09:34 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/ArchiveTell/7678" target="_blank">📅 09:34 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7677">
@@ -1572,7 +1572,7 @@ DevToys
 👇
 1️⃣
 وارد این ربات رو استارت کنید…</div>
-<div class="tg-footer">👁️ 1.69K · <a href="https://t.me/ArchiveTell/7669" target="_blank">📅 20:00 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.7K · <a href="https://t.me/ArchiveTell/7669" target="_blank">📅 20:00 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7668">
@@ -1718,7 +1718,7 @@ OpenAIRE Explore
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.74K · <a href="https://t.me/ArchiveTell/7664" target="_blank">📅 14:38 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.75K · <a href="https://t.me/ArchiveTell/7664" target="_blank">📅 14:38 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7662">
@@ -1742,7 +1742,7 @@ M3E Canvas
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/ArchiveTell/7662" target="_blank">📅 22:17 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/ArchiveTell/7662" target="_blank">📅 22:17 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7661">
@@ -1890,7 +1890,7 @@ https://helyxai.space/v1
 @ArchiveTell
 |
 #METHOD</div>
-<div class="tg-footer">👁️ 2.28K · <a href="https://t.me/ArchiveTell/7654" target="_blank">📅 10:38 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/ArchiveTell/7654" target="_blank">📅 10:38 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7653">
@@ -1915,7 +1915,7 @@ https://helyxai.space/v1
 ✈️
 @ArchiveTell
 | S</div>
-<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/ArchiveTell/7653" target="_blank">📅 23:46 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/ArchiveTell/7653" target="_blank">📅 23:46 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7652">
@@ -1970,7 +1970,7 @@ Workspace و اجرای workflow ها
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.86K · <a href="https://t.me/ArchiveTell/7651" target="_blank">📅 22:45 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/ArchiveTell/7651" target="_blank">📅 22:45 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7650">
@@ -1996,7 +1996,7 @@ https://kiosapi.com
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 1.93K · <a href="https://t.me/ArchiveTell/7650" target="_blank">📅 22:05 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/ArchiveTell/7650" target="_blank">📅 22:05 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7649">
@@ -2295,7 +2295,7 @@ Pythia — رادار زنده جهان برای هوش مصنوعی
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/ArchiveTell/7634" target="_blank">📅 17:03 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/ArchiveTell/7634" target="_blank">📅 17:03 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7633">
@@ -2443,7 +2443,7 @@ GPT Image 2 · Nano Banana Pro · Seedance · Gemini · Grok Imagine
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/ArchiveTell/7621" target="_blank">📅 12:02 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.67K · <a href="https://t.me/ArchiveTell/7621" target="_blank">📅 12:02 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7620">
