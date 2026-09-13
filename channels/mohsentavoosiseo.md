@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-23 01:01:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-23 03:18:25</div>
 <hr>
 
 <div class="tg-post" id="msg-970">
@@ -308,7 +308,7 @@
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">❗️
 این پست حاوی ایده درامد دلاری و افشاگری پشت پرده هست. دست به دست پخش کنید که در جریان قرار بگیرید پشت پرده چه خبره یا خودتون ازش استفاده کنید:  این نظر سنجی که روش ریپلای زدم رو یادتونه؟  نتیجش این شد که من ورود نمیکنم بهش. ولی شما ورود کنید! در ادامه میگم…</div>
-<div class="tg-footer">👁️ 1.26K · <a href="https://t.me/mohsentavoosiseo/968" target="_blank">📅 14:26 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.27K · <a href="https://t.me/mohsentavoosiseo/968" target="_blank">📅 14:26 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-967">
@@ -324,7 +324,7 @@ https://youtu.be/2cW1RJKfOao?si=_YEhZViKApY3Nygm
 <div class="tg-post" id="msg-966">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">تو ویس پایین توضیح میدم این اشتباه فاحش هوش مصنوعی رو!  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.34K · <a href="https://t.me/mohsentavoosiseo/966" target="_blank">📅 17:11 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.35K · <a href="https://t.me/mohsentavoosiseo/966" target="_blank">📅 17:11 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-965">
@@ -381,7 +381,7 @@ https://www.instagram.com/reel/DcqV0WHMZia/
 <div class="tg-text">تله دلسوزی برای شرکت
 اعتبار به صورت نقلی منتقل نمیشه
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.6K · <a href="https://t.me/mohsentavoosiseo/960" target="_blank">📅 15:40 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.61K · <a href="https://t.me/mohsentavoosiseo/960" target="_blank">📅 15:40 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-959">
@@ -1184,7 +1184,7 @@ mohsentavoosi.com/1
 
 <div class="tg-post" id="msg-879">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SSCpSyUpS21MMx3CLZlm6O0ClX3mQJDT6NHCCsjxVl9Qmmiv2RCXrvINOZXx9OgbA9HkPI2C8cDjcclAKCw52opmfwG7KKNhC-LUqpXwcwBZA-z4cdnA3J14rkWafarwEoVXUMIH0-WY3-v9-PqJKxaYcaJREM9yi1XFeRtinrHqsK5M1A-lvUVdfDlK8NUUl9DA6OxMUgZj2uE4hIa2g8XilQBRsWqErXDLk15ivyrDDqL03oxtDZ3rTy_psPIVDXE3dRmKPOu3XtQzC9ghnSoXNpVuf6Vbi1MHXo5Bu3WNC8k4-LLsaIJXLS5hweV7nPjyjSiWGSMFNio6AFg6fA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GDrQsrE9Cjff2cdO-I7OCAKDpG10f1A2DfTzpadnjZB16vVY8WcvGT_cmysx2mq8eeUo-ROftXhACoSi-Wd88ull1fdOFGLBy7GgdwvXaoMcgRKYBTeYPxlFz_JHlunhlIvYdjyRgD9tmZWhidSHiCF-PUlaleeJRIi9DwUX85KQKhW0jUueSz_3xP_pXLEOu0J-25tkXHZuifmRJHml5hWK1T3zz5P2V0ZqPB6QOs5jqvUAIDTBwdlalq85SECqA2sfZvkedFmjtUaKPkGgqGOEP1we9v2USfVi3WcGa2iX5WOLedcXtV5VPmhN0iQF5zUgH0SWAkLDd5ofqybwmw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❓️
 از کدوم هوش مصنوعی استفاده کنیم؟
 کلاد
@@ -1237,7 +1237,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-875">
 <div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SJsmOnQ45wjDWZYJGqCC8Ahqsw9cpJPBfATafT24sTj5Ef0z8Sq-Npl7gGn0J0zfqX4xtpzQVZOUYGrz13LZ2iI2Hr3yzwmkXtA_7bH4thue6MWLBEJ_R6C-HRSi5VG_9c4dFFjmVnYedmeBym7e9ClCCm-McBUXlUD76_ZYxk3JMlFjwIFbLqY5hzvK2N6iGILhY4PbnHXC52FiXtTR3UmYnECXD143UO_GdGqDkxtevayxcCJbY5N4JTba2hRXwVDebDcE1JAnw2kB6WgL1Ltx7HJuBmMp3mR_z8qDlKXwXQZeYM-2pRMO81z7qbm6Rs8AOrTET4pLYDrQ1yLj-w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RXd_zrVBP_M03kuWBOA4dqTRu5aBovuzFPZK-N65idE51WHV7kjzSj2sdYJz24DeYs2Cn2_iBbdzKkEqblNgvi4w7NnDgtenqmgB98tC-omUPJPiabDfpmX92cz4-fCOXlA3epQrUa739Fapy6cHD0aIqslXGP0a8VzQlAd6QPKtAvzMAfD18ZITnNLSLTQU7ABThopKkaOXY7sN66_lC7INjN-8rto2FQc6jSEtjXhR9HBTC5rhxnG0nUdkL1oP3b8I249K7-QgsKFWPdWDdjz7cYgHzdPJg8_Wt19IH4zSBvok1FmFpYc1NUzwHinvL3wABUatZ5QGmBA13aZ-Ow.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
 <div class="tg-footer">👁️ 6.02K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
@@ -1247,7 +1247,7 @@ Claude Cowork
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/U9o4hk7H3SKg8yGnPhfbE3gq7vLmIBFoakE3G-Rr_6s8T7cJjRBEcZDhMgDnfcqSLi5CKbllqR0pCAquD1DkBs32c5XEx-p3Lb9xmf5I5xsNm_u3Msv7PybM5exwiEScxsFmbRshsMuOFOnDJi9fqu92nYnpHGmlqbhF7PvA6FKnhKEKUJvEYFd1_fkYNVlim2ggFf4GyzNoX02gmF7VRkzWcxwsjlP6arrozn87CHgKd085VVM9Y6tyS6inEZdtiuapi6-kvA67atJxOLrBe0YMfSYxKQo50s1vNo1xfux-BBYb57nYCe3UH81Qd2wUsOUq3ctdg1bONJRDDc3A-g.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/nVftyV2Rf7GWLni4C_J2r0A8E6ykM3zF32J-ocuDFM32mHdtE9kfkteZqQ3wYrJSZlkae37POTxmaGcjiai5hcJAmpGDwhUTRCP9xyVHii1Cbp15ukVaBBqk_3ny2UEn76JiH1Ecc7IJh4dgesktjqIJYfVAAxdKYxWnGw9E6gBBe5ynKwm6Xwlm9NBIRd6F0kzGvv2MUxvq1MnXw8B3sV4ZNtBKmOx63X9rV4pDREdmtKuP6x2c99Ms-lkAdvYChNj3hOHDHzPk66rTsNTDNpmAsp86_q05VUb1X7C1nQzwZfLZttndsdI_raeHqmaHP8AdnAhvE24ge0h3G92HZQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/pEwSHEBjXxbqlOGsJ97UHmnVIocxa9DfPAn4w5iZ9GtBN6Z9_T6QmMOpOQ1QtYh8td0gnuaQKBSxkzz0zojIRyhNDXuD1QuQ1lLCs23Kv4g_o1wfggpU3h2hAzCB8VyzzcJd3MJfyWIkzwR8olMeexcS9RpwvbyQJjN7xwK36qakcReSGfB9x7pHFEdaH3--igeVh1tab1Z4Rc_ZhOBDoPNqMH_OPawN5aywWd4PiHOafxbACbuSQm2M3LecZafWwFKXwwjvlmHN2hmKG5XVIt0Dns3dHcjNw-UeamHTx17qcCsdEWJ-0f1a7dJpkFZg9R00vTdiMAmFqD25D2CDog.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">تصویر چهارستونه(گرونتر) برای ابزار keyword tool هست و تصویر سه ستونه(ارزون تر) برای ابزار Mangools که ایرانی ها به KWFinder میشناسنش.
 شما خودتون رو بذارید جای سایتی که ابزار اشتراکی میفروشه.
