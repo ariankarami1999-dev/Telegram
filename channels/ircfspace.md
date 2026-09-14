@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-23 23:22:57</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-24 02:22:16</div>
 <hr>
 
 <div class="tg-post" id="msg-2601">
@@ -310,7 +310,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/ircfspace/2601" target="_blank">📅 08:17 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/ircfspace/2601" target="_blank">📅 08:17 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2600">
@@ -325,7 +325,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/ircfspace/2600" target="_blank">📅 08:09 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/ircfspace/2600" target="_blank">📅 08:09 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2599">
@@ -342,7 +342,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/ircfspace/2599" target="_blank">📅 07:53 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/ircfspace/2599" target="_blank">📅 07:53 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2598">
@@ -360,7 +360,7 @@ RaazNet
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/ircfspace/2598" target="_blank">📅 11:15 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/ircfspace/2598" target="_blank">📅 11:15 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2597">
@@ -376,7 +376,7 @@ RaazNet
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/ircfspace/2597" target="_blank">📅 08:00 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/ircfspace/2597" target="_blank">📅 08:00 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2596">
@@ -394,7 +394,7 @@ hamedvpns
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 54.3K · <a href="https://t.me/ircfspace/2596" target="_blank">📅 08:14 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 54.6K · <a href="https://t.me/ircfspace/2596" target="_blank">📅 08:14 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2595">
@@ -408,7 +408,7 @@ hamedvpns
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/ircfspace/2595" target="_blank">📅 07:57 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/ircfspace/2595" target="_blank">📅 07:57 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2594">
@@ -427,7 +427,7 @@ github.com/bepass-org/oblivion/releases/latest
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/ircfspace/2594" target="_blank">📅 07:49 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/ircfspace/2594" target="_blank">📅 07:49 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2593">
@@ -444,7 +444,7 @@ github.com/bepass-org/oblivion/releases/latest
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/ircfspace/2593" target="_blank">📅 20:10 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/ircfspace/2593" target="_blank">📅 20:10 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2592">
@@ -477,7 +477,7 @@ defyxvpn.com/download
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/ircfspace/2591" target="_blank">📅 18:43 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/ircfspace/2591" target="_blank">📅 18:43 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2590">
@@ -525,7 +525,7 @@ defyxvpn.com/download
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24K · <a href="https://t.me/ircfspace/2588" target="_blank">📅 17:22 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/ircfspace/2588" target="_blank">📅 17:22 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2587">
@@ -572,7 +572,7 @@ github.com/Iman/caspian/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/ircfspace/2585" target="_blank">📅 09:02 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/ircfspace/2585" target="_blank">📅 09:02 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2584">
@@ -641,7 +641,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/ircfspace/2581" target="_blank">📅 07:17 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/ircfspace/2581" target="_blank">📅 07:17 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2580">
@@ -691,7 +691,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/ircfspace/2578" target="_blank">📅 09:57 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/ircfspace/2578" target="_blank">📅 09:57 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2577">
@@ -881,7 +881,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2565">
@@ -1104,7 +1104,7 @@ Mohammad
 
 <div class="tg-post" id="msg-2551">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lydBTcsfD0tAW1LHEuZV4adqWF2h-5SiZQZR0HpfYefyZt8khJ0hVhHeoaFA-lXsOegsSi0KyxS2w8Rcjmz3gqli_n56ai8w2ENp-0juTM49ku1s0nxu2Qrk-EYKnvfkmCZ5YhKMYfT84ZqpZaeCOLM9nEmaRgizQWm2DwXrldPh-oZ4HAc4Oe42NmEsRLqUqufaxUWVSe9IBoOpa37ApRD6hfeK6ViE-ZyUXeXSQ89D_wqoH6jBbWfUH2pTj1mMSJT69tbZ99xwC6YrHlz6IqyTSTvpf4LLHqNz1z-QMTH3HjGtDwJ6ilA5wUXACOuYQIv7KrOuv2vaTjalJ2httQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RbFCm7hom4DBG0PwdaZQqFEFrYPadMcIq_Aq7CgokQ5ZD_8PtXXAn0qPP9UbotGpqU5oS8dXdG9D_olJAmmjQJWhKFr07VTbrl4BFyYbiF05MH_RQWA9Apc2UYNT0qFott20JAS50OAJRJKl7Hys_nkci7NRN4U8R7jjFK_bhHG3WQZINUh5yxYXRhj3nWGtpWfw8Mgtx8zq-9l2ZnKd2ogV3xSKFegal2ZaAFOwitauroFAfLuZqcpI0HOMISLFKwUP79kM6BxRB34IHxleeztjOCoyAU7pqhumATTqNvIsADfyu07x3X7aeBqf2Jhc9EFt08v8QyE0LTdmMDFwDQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اکثر آنتی‌ویروس‌ها (از درپیت تا لاکچری) سایت بانک ملی رو فلگ کردن، چون سرتیفیکیتش منقضی شده!
 ©
 Teeegra
@@ -1212,7 +1212,7 @@ mrweb24
 
 <div class="tg-post" id="msg-2544">
 <div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/J_jJn1keNipRl5tB6n7DjyYVv5oSoOAnkJ2xu-rN_L5z3sD4Nn-YqIrPpzIUCOJdV0CYq5VMDZdbnWv5uWl-yI_0i6aRV_9Iji-W-lhCdeBg_JVaZVgVA2jaohSQDFaiHHNIENJVURsecdyVOu66Ow0YhirHj4a4nUeWxuk7xNkLgTYt1xt407SM9aPbWPiQEvOIjdNBtYGFgaAfvy6ToCavtxXe6jq9bu8-lsPAGrFuvU-uW8LXBIYct6juiVnIKNTmuhuSx5F6-iV-lS2pLlHMr8yz-Z-oaKN1VEYSrSnQwYddOxM6_fT0HBBvMcMmSRUaU-nN5BWXQmXqNr36fg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/e9HEO1r9cHENmX8LeY1wLv6BsArnnZ19NEFkQeQLeUajs2P2HMpAC3hRnzhdMNUMZ1kpqdKhqMdVWeKctB3r5IJxQg08lPJUvQ6jCklCh5Cq9HO0V3UVv8zGuGGwZ_sd370oD9N0VwmVxHx_p7rmHL3PBSrRNgU93HjsbslK0Pm-7cd84nJEIWz718RqEPd2-_KCdSYoUstAtCHtdq2QvZN3UPi65PcDehs8C-EPzVx7InldfHBHrekSNM5ZuP2otD5UEFqCItuX4so6aBBBhV0i23_V89pcZVNpUT078RVOWkvmzKcSyVTJ19LU02a9nWU8vSZY2q-bRDr0wvGScg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تصویر لو رفته از وزیر قطع‌ارتباطات هنگام رونمایی از طرح تشویقی "نسبت حجم ترافیک بین‌الملل به حجم ترافیک داخلی"
 😄
 🔗
@@ -1251,7 +1251,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 62.9K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 63K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2541">
@@ -1301,7 +1301,7 @@ shara77miaa
 
 <div class="tg-post" id="msg-2538">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jIcPxOT7zwUJvae3BGwYTLVHuVokShNaxTiF_94ukBnIgkGPM68jR25CISvbBDWvKcM_W5TBfpaTHS91PXXxqU5LVKzZxSXbgjsuIDKAik9kwY2dNR2JCEWotvSriuBhcbMfzs9mBmWbudnD5KICoHr2sOH5xSlKSVT8ELvAAcKs3vcGoEjfDH9MssmhJu0VGTcMfjsxH-vso33PmORkYO0dA0i6DoSQXY86CTLOStI-BYhHXvcuUyJ5sd_pLZSlxQeGKO0RLFJ8biX12gxzYrHo5MA9GOeGLZ4T3TKdy5NcPeWK2EYAZxC39X3BedhWqoYu-jibt_e3RTp7Lagu9g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/feYxw7x7HlSyn2HGy8V-zJYxxs4IQkS14yeMto3zzGki9Nb4smJ-0JisPPrzJQjsEDXWFNKeyrxi1jsNYWr02lmTcR4jUFlBY4hanRKMdYNbTHEK7HelD5KljMe3pHM6Hp3SNq7pNyRrSOCF50nLpNdmx5GM87hYE-dOSLvvkfUr1E6fe8htdix7GWuzg4v0w0Kl1J04p0AuhFUefcto9iXgWG0aoRaS3A1w6BEv0-VTT5QdxpE2hoyeI7RCKBhQKLpnDaILhk4eydwzc5IrdJdqFybqLP3-Fh2DiVuHVDEDozVbp582yiTutcbaMXlZLV3YZtM5LiXbLJUHh54U4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چه کسی و با چه مجوزی تصمیم گرفت ضریب بسته‌های اینترنت بین‌الملل رو بدون اطلاع‌رسانی تغییر بده؟
 قبلاً ۵ گیگ اینترنت میخریدیم = ۱۰ گیگ داخلی بود! و فقط پول ۵ گیگ رو میدادیم. الان پول ۱۰ گیگ رو می‌گیرن!!! فقط نصف اینترنت بین‌الملل میتونی استفاده کنی! بی سر و صدا دزدی میکنن با عوض کردن مدل درامدی!
 غرامت قطعی‌های ماه‌ها اینترنت هم هنوز پرداخت نشده. این دزدی سازمان‌یافته‌ست که با حمایت وزارت پست و تلگراف اجرایی شده !
@@ -1624,7 +1624,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 
 <div class="tg-post" id="msg-2519">
 <div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/F5WajLrtJnynKy1mtXgN63HBI4O828-uGyN8Q0YXta6iw_6obP9kGvUbGN6R5z65LOMC-pQkd8mzmROgEN43gfsh6oE7c8Lc94ukSn5Z3W_-UU9kGIvHvCAIvSWWggF7GMP8ZapQ-IApQYZ1rkv2EyPxHsDtIwNcOUXaFFCQwCIT3ors_drHog-pNrz55vobArWOYa6E2MyO-l0oW94gVQ2bUjTXnKK7H3W-sB1O-x-bJtjXhbiBA-SCLzsPCN16iDwjhayMuQ38nCilwu2ztgay5raR4-BkTw853Ucn0QBMnfFPNpu-uU_ahJK0MgOcoeJyDO3Lw9dZjoUpt2Uinw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fjQIJAhz4yl3TXUyWj4FLKQxdI5WGvxw0jBzS7wC31kTTQcb7zm4vi05NeQaL3Tq7_sJJiOKh9KA8-7ZaRU-xxmDZE1LAun-w7q_EoWsyjlgr_QZ9AYnyzWByT883_BHLYDoG5EYMWTuatLviC9v5nzD3KuAbqSTotLbTKkHWSVhmnwf0oiLErMjrzTkDIT5GpJJRqWOOR4TP_vADvjsp2XQxPkZwJBz_LgRM0SEqhkJq_rYntmpSxdF0tkvH_oC_MIkFvo4BkAooJWynNQ4XjkxS9Dnncvkah-WVWFgEdO0oGobgdlsPlFeGalsJgtDvhWOWRx7U6-mVEliDxNY5w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ
 #Aether
 یک فیلترشکن متن‌باز و رایگان بر پایه هسته Aether هست، که برای اندروید (AetherMobile) و ویندوز (AetherDesktop) ارائه شده و از پروتکل‌های مسک، وایرگارد و گول و حالت‌های اسکن مختلف پشتیبانی می‌کنه.
@@ -1710,7 +1710,7 @@ github.com/2dust/v2rayN/releases
 
 <div class="tg-post" id="msg-2514">
 <div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CF6b3PBnlV43AJXwpWSM0g8EP5LHZ_xwJ8wtGrVronBolpWPKvz_pWCFEVQvgMLPli_dR7HJclbJ29MUTuvi2Ab3HWsf0Ct-2dA6ZmxZ5hOWgdcCUkKVEGYV9kx9zYYXIynZZO2t4VHRLEBaTB-SRGvwzrjTDJRcqZXtDL64bkpFKzH4hIzrAhpw9YYxdrVY6QiEn7g5XNfupiZEBnZbnejCZA-WV2wEAGiQ05LflYoDH55wiKud-f_ms_iMMaTgg06WqGoCwy6QAEPn66tCCeh3sRjKphhWQsDvaNUJgZZbYcCteRbzcOtfYNJt4Xxpa7k_z2XmYdwDJWiIFHoosA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Z0QxRd2i2NDRsyc4_QoVn5u6hqgB9yGwAgVLu5_5HQEWkPnqHwThhf8CP-alEEBjXtv73L2CA-8fW1sIN7NqmxROCoSEIogqPnMI1Gnn-VnGSKBOqHttNV_XuY4YmMHhpyakec7Tcm62fJTF0EtT_HCKIGhLh3kjDO7KppXPxZ3B1B0fKcxkk1UXtEsY9MKRwBuYTJBoF_Zh7aQL1pBQKEJpf3Tws7h-PdUyLS2JwC9dv59HWxx1uZRxEOHN7PLd-7wymfmgGrkecxGlLQPNOB64a3SZhgGcx5BhldMKlYcdWfKlwBtkWbTnMsJ4kzD9GEhnyVbK5K0slMxPbSsf9w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قطع اینترنت در راهه؟
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1817,7 +1817,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 
 <div class="tg-post" id="msg-2507">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/eP4A0hDA46QDr0aF01WpDVBbM398ySIC-gzTGq8jPxHnUGxJmwr22d7vVChTAlWQYSPSQVIYZMWrTpO-Xc4Mk0Etzu9rQ8KByT8oBUdFmQrv_8IIUb7LQsSuW5ZzXyxtVYLUXpjMiSQA24el1xfInKCkuABhpMBlkyCSWk7oNt4nUjCX7I6OKPICRt3imqlJp2GSn8KjcpiS4vPRH2QUWszhk3oL3vPp6u_hm9fHTVYGlfq5JZVy-gPOQVDegR-3l8CzEkDEnH8T7A994ajv0_jw5iQzWl6ZK2_duWeipFPpIG8btnSde01y07a5Y6R5HugSZN7EgFJPcslGmaiDGw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/rcnYbyip3hsS_ZR5z5WSFkJ65_7TyXusZT20KHxzzRy8BqnwaXedwveUM9KMXFrWlQnnKs4MJhi1U5OcvFl2gujSMSUeUkMqEjmg6IUT3lr84SjmMtpqG7WkPmwBwMVsVuJCJs7eGkd_IruLOriYQG-e6_Sf5U-3v5k-JZFPPwyu95X8tjoVMPBWpShYAaq6bQ7p6OVKnmn9j9Z7fg0Gl0GAwNCEmP_PEnzHKJse_F2unyhZXrwExZWY2SkUTwNyduRQq6I12ckPb-N-5AE9CoByyU9-scTiH4NXdl_RJbaXlOo9yN8xVPAHOcCFrhk_1Fepyt3VLM1Tb_ERBZvXVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه ۱.۳ از پروژه متن‌باز و رایگان Aether منتشر شده و مهمترین تغییرش اضافه شدن حالت اسکن Ironclad هست. برخلاف حالت‌های قبلی که فقط بررسی می‌کردن یک اندپوینت در دسترسه یا نه، این حالت قبل از اینکه به یه سرور اعتماد کنه، یک تانل واقعی برقرار می‌کنه و یک درخواست HTTP از داخل اون عبور میده تا مطمئن بشه اتصال کار می‌کنه. البته این روش زمان بیشتری می‌بره، اما در عوض احتمال وصل شدن به اندپوینت‌های خراب یا ناپایدار رو تا حد زیادی از بین می‌بره.
 توی این آپدیت روند اتصال مجدد هم هوشمندتر شده؛ اگر ارتباط MASQUE یا WireGuard قطع بشه، Aether دیگه برای دور زدن فیلترینگ مستقیم سراغ اسکن کامل همه اندپوینت‌ها نمیره. اول همون اندپوینتی که چند لحظه قبل روی اون متصل بوده رو دوباره امتحان می‌کنه و فقط اگر از دسترس خارج شده باشه، اسکن جدید رو شروع می‌کنه.
 👉
