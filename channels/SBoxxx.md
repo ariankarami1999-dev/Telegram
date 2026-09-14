@@ -292,7 +292,7 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-23 03:18:25</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-23 06:03:05</div>
 <hr>
 
 <div class="tg-post" id="msg-20863">
@@ -301,19 +301,19 @@
 <div class="tg-text">وزیر امور خارجه عمان پرچم  شیر خورشید ایران رو گذاشت
 😁
 @Piknikanalyst</div>
-<div class="tg-footer">👁️ 1.58K · <a href="https://t.me/SBoxxx/20863" target="_blank">📅 00:59 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.06K · <a href="https://t.me/SBoxxx/20863" target="_blank">📅 00:59 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20862">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">نشست فردای ایران، عمان و کشورهای عربی سر تنگه هرمز فعلا لغو شد</div>
-<div class="tg-footer">👁️ 3.28K · <a href="https://t.me/SBoxxx/20862" target="_blank">📅 23:32 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.62K · <a href="https://t.me/SBoxxx/20862" target="_blank">📅 23:32 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20861">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">شلیک موشک از ایران به سمت تنگه هرمز</div>
-<div class="tg-footer">👁️ 3.23K · <a href="https://t.me/SBoxxx/20861" target="_blank">📅 23:28 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.56K · <a href="https://t.me/SBoxxx/20861" target="_blank">📅 23:28 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20860">
@@ -324,20 +324,20 @@
 پرچم  شیر خورشید ایران رو گذاشت
 😁
 @Piknikanalyst</div>
-<div class="tg-footer">👁️ 3.12K · <a href="https://t.me/SBoxxx/20860" target="_blank">📅 23:02 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.37K · <a href="https://t.me/SBoxxx/20860" target="_blank">📅 23:02 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20859">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">توافق ایران و عمان برای تنگه هرمز به معنای باز شدن خودکار تنگه نخواهد بود   منبعی نزدیک به تیم مذاکره‌کننده ایرانی به تسنیم گفت: درک چارچوبی در مورد مسیرهای کشتیرانی «به زودی اعلام خواهد شد»، اما «فقط» بین این دو کشور است و مسیر جنوبی هرمز را بسته نگه می‌دارد.…</div>
-<div class="tg-footer">👁️ 3.94K · <a href="https://t.me/SBoxxx/20859" target="_blank">📅 22:51 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SBoxxx/20859" target="_blank">📅 22:51 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20858">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/F6WLOZ8pC680eIDOR6DPcZcWBHKoA4xjnTB-VjC2yZwCLP7465o-Y86q1AafUiCUXZUBgST2_dGIzhuO5okiiR-oGEU4uMQ2zUOWjyGqUiN165SkNkdCMcrUJvA2n99oI4VMNCWnLCgLIINLl_tVSX9cFA_rG5DkUgDggekEchILyFPUzLVHdN0wyvpBSeam8i9FtZ9u4uMV1O50XkURlcOhyg7O10EVChWd9aN420wEg_Y4o_uOx1sisggo-yCGxm1VjPOq7X_M4Xv1LPcZqeNQWtu658rw0PhNcYTwO-a56jbMRObcdX9sJFUi4rJ4M2Ku_X0qxx6bOqAdjKPucw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جنگنده J-10C چین: نیرویی جدید در آسمان جنوب آسیا  جنگنده J-10C چین اولین پرواز رزمی خود را انجام داده و نقطه عطفی بزرگ برای صنعت هوافضای چین محسوب می‌شود. پروژه J-10 که در ابتدا در اوایل دهه ۱۹۸۰ تحت رهبری دنگ شیائوپینگ آغاز شد، با هدف توسعه یک جنگنده بومی…</div>
-<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/SBoxxx/20858" target="_blank">📅 22:35 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/SBoxxx/20858" target="_blank">📅 22:35 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20857">
@@ -345,7 +345,7 @@
 <div class="tg-text">فیدان: سوریه می‌تواند جایگزین مسیر هرمز شود
 وزیر خارجه ترکیه گفت:
 سوریه می‌تواند با اتصال به اردن، عربستان، عراق و ترکیه، نقش مهمی در ایجاد مسیرهای جایگزین تنگه هرمز ایفا کند؛ مسیری که قرار است از طریق راه‌آهن، بزرگراه و خطوط لوله عملیاتی شود.</div>
-<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/20857" target="_blank">📅 20:27 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/20857" target="_blank">📅 20:27 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20856">
@@ -356,7 +356,7 @@
 بر اساس گزارش FT با استناد به منابع امنیتی غربی و یک فرد نزدیک به کرملین، تهران به مسکو برای پهپادهای مدرن‌شده خانواده «گران» روی آورده است.
 باور بر این است که ایران قصد دارد از آن‌ها در درگیری جاری با اسرائیل و ایالات متحده استفاده کند.
 این نشریه علاقه تهران را به توسعه سریع اصلاحات جت‌ساز روسی و افزایش قابلیت‌های این پهپادها از نظر برد، سرعت و هدایت مرتبط می‌داند.</div>
-<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SBoxxx/20856" target="_blank">📅 20:07 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/20856" target="_blank">📅 20:07 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20855">
@@ -381,19 +381,19 @@
 نسخه PDF ویژه دسکتاپ
 🔗
 نسخه PDF ویژه موبایل</div>
-<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/SBoxxx/20855" target="_blank">📅 18:31 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/20855" target="_blank">📅 18:31 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20854">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">انفجار در بندر ینبع عربستان</div>
-<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/20854" target="_blank">📅 14:17 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/20854" target="_blank">📅 14:17 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20853">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">هم میهن:  ترکیه به جای دلار گاز، غذا و دارو می‌دهد همتی به استانبول رفت  منصور بیطرف/ روزنامه‌نگار و تحلیلگر اقتصاد  دو روز پس از آنکه مهمت شیمشک ، وزیر دارایی ترکیه اعلام کرد که آن کشور - منظور ترکیه - پول گاز وارداتی از ایران را مستقیم پرداخت نکرده و بر…</div>
-<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/20853" target="_blank">📅 14:13 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/20853" target="_blank">📅 14:13 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20852">
@@ -405,7 +405,7 @@
 دو روز پس از آنکه مهمت شیمشک ، وزیر دارایی ترکیه اعلام کرد که آن کشور - منظور ترکیه - پول گاز وارداتی از ایران را مستقیم پرداخت نکرده و بر اساس سازوکار توافق‌شده با آمریکا عمل می‌کند ، عبدالناصر همتی ، رییس کل بانک مرکزی ایران وارد استانبول شد
 به گفته شیمشک، مبالغ مربوط به خرید گاز ایران در یک حساب به‌شدت تحت نظارت و تنظیم‌شده نگهداری می‌شود و ایران فقط می‌تواند از این منابع برای خرید اقلام مجاز در چارچوب رژیم تحریم‌ها، از جمله مواد غذایی، دارو و کالاهای مشابه استفاده کند.
 سخنان شیمشک فقط درباره پول گاز نیست. این اظهارات نشان می‌دهد که ترکیه در دوره فشار حداکثری جدید آمریکا فعلا حاضر نیست برای حفظ تجارت با ایران، ریسک قرار گرفتن نظام بانکی خود در معرض تحریم‌های ثانویه را بپذیرد</div>
-<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SBoxxx/20852" target="_blank">📅 14:12 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SBoxxx/20852" target="_blank">📅 14:12 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20851">
@@ -413,39 +413,39 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QWkkK3tjXNqrEBicd6AWYU1Cg-69_mJRLKM4-yQtsW8eQtCA-oc45GWyuLqRsbd1cOGs1hc61pAHSi7_lvavk5dnyq8wURRiVv3WQjekk4C4OUVxaRIOlr5t2f0veSyaTKJd6_fhEIrQYv0RjWQ41jFx5tj3wduFLelx_bmHehxL6fi3x3Xobdi2jvFwAgsuY_JbD1bj_KRk_MCzD3VHjJo0c1vW5Afu1ykdQjf9OYm-wznz1_DXKBSb_Kxh8ZsO8ULMKqb7s_4Z3wpuE1WA8EGiathyD8fJ7OTCiyCfyowoYtXu3cIwxS381v0sjs69RTzstcOk8rFzMRDR-HxzWw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فایننشیال تایمز:
 حوثی ها با هوش مصنوعی آنتروپیک موشک بالستیک ساخته اند!</div>
-<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SBoxxx/20851" target="_blank">📅 14:02 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/20851" target="_blank">📅 14:02 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20850">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">پزشکیان:   نمی‌دانم مشکل آنچه در پاکستان نوشتیم چیست که آمریکا می‌خواهد از نو گفت‌و‌گو کنیم</div>
-<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/20850" target="_blank">📅 12:14 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/SBoxxx/20850" target="_blank">📅 12:14 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20849">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">پزشکیان:
 نمی‌دانم مشکل آنچه در پاکستان نوشتیم چیست که آمریکا می‌خواهد از نو گفت‌و‌گو کنیم</div>
-<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/SBoxxx/20849" target="_blank">📅 12:10 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/SBoxxx/20849" target="_blank">📅 12:10 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20848">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">خب امروز و بعد از ۹ ماه تارگت ۲۴۰ هزار تومانی دلار محقق شد.  بعید نیست مدتی رنج بشود.</div>
-<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SBoxxx/20848" target="_blank">📅 11:47 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SBoxxx/20848" target="_blank">📅 11:47 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20847">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">— یک کشتی تجاری ایرانی در نزدیکی جزایر هنگام و قشم مورد حمله قرار گرفت که در نتیجه یک نفر کشته و سه نفر دیگر زخمی شدند.</div>
-<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SBoxxx/20847" target="_blank">📅 10:33 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/SBoxxx/20847" target="_blank">📅 10:33 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20846">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">احمد اروزان کارشناس ترک:
 خلبانان اسراییل برای حمله به ایران در قونیه ترکیه تمرین میکردند!</div>
-<div class="tg-footer">👁️ 5.48K · <a href="https://t.me/SBoxxx/20846" target="_blank">📅 02:20 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.49K · <a href="https://t.me/SBoxxx/20846" target="_blank">📅 02:20 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20845">
@@ -453,45 +453,45 @@
 <div class="tg-text">معاون وزیر خارجه یونان:
 ترکیه و همه در منطقه می‌دانند که یونان کشوری بسیار قوی است که جایگاه بسیار بزرگی ژئوپلیتیکی، دیپلماتیک و نظامی کسب کرده است.
 و من مطمئنم که هیچ‌کس هرگز این قدرت‌های یونان را آزمایش نخواهد کرد.</div>
-<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SBoxxx/20845" target="_blank">📅 00:39 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20845" target="_blank">📅 00:39 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20844">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fzUfBAEgqjczygasZ5-EoRZ2yewuq37oPeDfI5g2Xj0DK-vIp2gMlyN756yo50hgqD64CxIoz4nV2tLotcuOzXI636z5S73_JOCH6q-C-L1qgKlPhcQULeVOFsiCR7A3s-VBw8sspB-iQ3OFY72VnWV7zKvKNZIVMH2bG6z7U-1v5OTOv1dvYd7cHsCFzdorvfT2761MFzUg4yqBr-HXSCIfQWD7I3lbqGp5vJCbFP5bOM8cNlaoNPpBheCCWK8dP6R829jZhmCgpym97Cy4WGCdPuv7Ea5ecZNaoCGiZgdqzLDNLuSMmEFlk23XWZZ0kXAoDW8uH9hTJDIM18D49g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وضعیت پیمان مکه!</div>
-<div class="tg-footer">👁️ 5.56K · <a href="https://t.me/SBoxxx/20844" target="_blank">📅 00:10 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.58K · <a href="https://t.me/SBoxxx/20844" target="_blank">📅 00:10 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20843">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">پرتاب موشک از ایران به سمت هرمز</div>
-<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/SBoxxx/20843" target="_blank">📅 00:10 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/SBoxxx/20843" target="_blank">📅 00:10 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20842">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">کانال ۱۴ اسرائیل:
 ایران در حال آماده سازی برای تست سلاح هسته‌ای است</div>
-<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/SBoxxx/20842" target="_blank">📅 23:53 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.46K · <a href="https://t.me/SBoxxx/20842" target="_blank">📅 23:53 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20841">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oE1FDp1eKmVHrDyejo3-nz9Ra5iezwZbgrccmLaHpqvTnAaqop2DE4b2ZuxkTRZSVZ_xteJLLADtq9UYb0kzvtIBYWCNuqMgfcUoKj2_8VhkvNCIMckFYlnCcstJNY1Njl8_IBZ3pW5bN-jjhnrtLQZxRW4Cks0YtobdYtPr_C7pw7SPtMp-2JWk0EH2tAGFMie6NX0l0eIg6MM88wqu2YDotFdLNfIcgfSJNmmTH6EYQzSERB5RcwYp0YgP083e69IdHVIrv6JDNHiwGCFHMjLqYPKRr97MrpZP4_k71DfswIaSuR1pGT-N8as4SXl6AdPRcWfJF5VjUbzxQWqUkg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 5.44K · <a href="https://t.me/SBoxxx/20841" target="_blank">📅 23:51 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/SBoxxx/20841" target="_blank">📅 23:51 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20840">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">توافق ایران و عمان برای تنگه هرمز به معنای باز شدن خودکار تنگه نخواهد بود   منبعی نزدیک به تیم مذاکره‌کننده ایرانی به تسنیم گفت: درک چارچوبی در مورد مسیرهای کشتیرانی «به زودی اعلام خواهد شد»، اما «فقط» بین این دو کشور است و مسیر جنوبی هرمز را بسته نگه می‌دارد.…</div>
-<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SBoxxx/20840" target="_blank">📅 23:20 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SBoxxx/20840" target="_blank">📅 23:20 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20839">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">پزشکیان مدعی امضای توافق هرمز با عمان در حضور کشورهای عربی شد  رئیس جمهوری مدعی شد مقام‌های ایران و کشورهای عربی خلیج فارس روز دوشنبه در مسقط توافقی برای ایجاد مسیر کشتیرانی مشترک میان ایران و عمان در تنگه هرمز امضا می‌کنند.  مسعود پزشکیان گفت: «کشورهایی که…</div>
-<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/SBoxxx/20839" target="_blank">📅 23:17 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/SBoxxx/20839" target="_blank">📅 23:17 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20838">
@@ -499,7 +499,7 @@
 <div class="tg-text">ترور یکی از بسیجیان عشایر منگور
 سپاه پاسداران انقلاب اسلامی شهرستان پیرانشهر با انتشار بیانیه‌ای، شهادت حاج اسلام کاک درویشی را تسلیت گفت.  پاسدار پیشکسوت و دلاور عشایر منگور، حاج اسلام کاک درویشی توسط عوامل پلید ضدانقلاب در مقابل منزل خود در روستای کوپر به شهادت رسید.
 شهید اسلام کاک‌درویشی از جانبازان سرآمد و از نیروهای مخلص و وفادار به ارزش‌های انقلاب اسلامی بود که سال‌ها در مناطق کردستان و آذربایجان‌غربی مجاهدت کرد.</div>
-<div class="tg-footer">👁️ 5.07K · <a href="https://t.me/SBoxxx/20838" target="_blank">📅 23:14 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/SBoxxx/20838" target="_blank">📅 23:14 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20837">
@@ -507,13 +507,13 @@
 <div class="tg-text">معاون رسانه‌ای انصارالله یمن: با هدف‌گیری خطوط‌لوله و پالایشگاه‌های عربستان کار به نفتکش‌های سعودی نمی‌رسد
 درصورت تشدید تنش میتوانیم زیرساخت‌های نفتی را هدف قرار دهیم تا اندک صادرات نفت عربستان از کانال سوئز هم قطع شود.
 همه چیز ممکن است؛ مگر این‌که محاصره علیه یمن برداشته شود؛ عربستان فعلا درحال لجبازی است.</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SBoxxx/20837" target="_blank">📅 23:07 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SBoxxx/20837" target="_blank">📅 23:07 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20836">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">تهدید فاکستان به حمله موشکی در صورت دخالت نظامی در یمن</div>
-<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/SBoxxx/20836" target="_blank">📅 20:39 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/SBoxxx/20836" target="_blank">📅 20:39 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20835">
@@ -521,7 +521,7 @@
 <div class="tg-text">پزشکیان مدعی امضای توافق هرمز با عمان در حضور کشورهای عربی شد
 رئیس جمهوری مدعی شد مقام‌های ایران و کشورهای عربی خلیج فارس روز دوشنبه در مسقط توافقی برای ایجاد مسیر کشتیرانی مشترک میان ایران و عمان در تنگه هرمز امضا می‌کنند.
 مسعود پزشکیان گفت: «کشورهایی که خاکشان از سوی آمریکا برای حمله به ما استفاده شد نیز در این نشست حاضر خواهند بود.»</div>
-<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/SBoxxx/20835" target="_blank">📅 20:22 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/SBoxxx/20835" target="_blank">📅 20:22 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20834">
@@ -537,32 +537,32 @@
 اوکراین همچنین از اواخر سال ۲۰۲۵، اپراتورهای پهپادهای دریایی را در شمال غربی لیبی مستقر نگه داشته است. یک اپراتور گفت که یگان او از پایگاه نظامی بین‌المللی در مصراته برای انجام حملات علیه «ناوگان سایه» روسیه که از تحریم‌ها فرار می‌کند استفاده می‌کند و در عین حال نیروهای محلی را آموزش می‌دهد. یک پهپاد دریایی انفجاری اوکراینی از دست اپراتورهایش خارج شد و در سال جاری میلادی به سمت یونان هدایت شد که باعث اعتراض آتن و عذرخواهی کییف شد.
 اوکراین همچنین تیم‌هایی را به حداقل ۵ کشور خاورمیانه اعزام کرد تا در طول جنگ، آموزش سرنگون کردن پهپادهای شاهد ایرانی را ارائه دهند.
 مسئولان اوکراین مأموریت‌های خارجی را هم به عنوان راهی برای تضعیف روسیه در هر جایی که فعالیت می‌کند و هم به عنوان فرصتی برای آزمایش فناوری پهپاد اوکراین در شرایط میدان نبرد مختلف، از گرمای شدید و گرد و غبار ساحل در آفریقا تا عملیات دریایی در مدیترانه، معرفی می‌کنند.</div>
-<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SBoxxx/20834" target="_blank">📅 20:20 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/20834" target="_blank">📅 20:20 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20833">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jHzV1iaTTaYNb3562a3KM9xYOydeuw7jiJjYa3sMezBrxY7sIMWwNoq5-1TXl3cp2M7t7wHTOUlXs2dTw0l_ZbW4vJjsaBAeDzyj2NGWkbEwL0OqksO8Q8xAAxTvZpqh8L-bS6SDOzuixbzOFhkmHqj3Uiln3PYzpD2opfkCTaSLsKDFvYsfluN0l-eFrqtBNuYK6K5z0Hld1tFX8e7J9KlRDUoWGE6em2fQ5YwXLETdHGDuaTRy7WrM0Ggc2frmJ3DGSUHWlDgkq_QyoIvm65qHNFZWY07mHRWgqG_BYEw5MJREeD0dssY1JeAVHr71oBDwvxiMjbl-1_SI0vJd5w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تهدید فاکستان به حمله موشکی در صورت دخالت نظامی در یمن</div>
-<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/SBoxxx/20833" target="_blank">📅 19:49 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SBoxxx/20833" target="_blank">📅 19:49 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20832">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">احتمال اینکه کل داستان جنگ یمن در روزهای اخیر یک تله برای حوثی ها باشد وجود دارد…  توضیح خواهم داد.</div>
-<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/SBoxxx/20832" target="_blank">📅 17:54 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.42K · <a href="https://t.me/SBoxxx/20832" target="_blank">📅 17:54 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20831">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">مدتی است به صورت آشکار و بی پرده، صحبت از لزوم ساخت سلاح هسته ای ایران از سوی مقامات کلان جمهوری اسلامی مطرح می‌شود</div>
-<div class="tg-footer">👁️ 5.64K · <a href="https://t.me/SBoxxx/20831" target="_blank">📅 15:36 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.65K · <a href="https://t.me/SBoxxx/20831" target="_blank">📅 15:36 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20830">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">ترامپ:   حوثی ها با ما تماس گرفتند و به ما اطمینان دادند که به دنبال درگیری با ما نیستند.   ما با حوثی ها صحبت داشتیم، آن ها تماس گرفتند و به ما گفتند که دنبال درگیری با ما نیستند و نمی خواهند ما به سراغشان برویم. آن ها اجازه می دهند اکثر کشتی ها عبور بکنند…</div>
-<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SBoxxx/20830" target="_blank">📅 13:42 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20830" target="_blank">📅 13:42 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20829">
@@ -570,7 +570,7 @@
 <div class="tg-text">ترامپ:
 حوثی ها با ما تماس گرفتند و به ما اطمینان دادند که به دنبال درگیری با ما نیستند.
 ما با حوثی ها صحبت داشتیم، آن ها تماس گرفتند و به ما گفتند که دنبال درگیری با ما نیستند و نمی خواهند ما به سراغشان برویم. آن ها اجازه می دهند اکثر کشتی ها عبور بکنند و فقط با یک کشور (عربستان سعودی) مشکل دارند.</div>
-<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/SBoxxx/20829" target="_blank">📅 13:41 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.64K · <a href="https://t.me/SBoxxx/20829" target="_blank">📅 13:41 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20828">
@@ -621,7 +621,7 @@
 انتظار می‌رود اسکات بسنت، وزیر خزانه‌داری ایالات متحده، جزئیات بیشتری از این تدابیر را در یک نشست خبری در ساعت ۱۳:۰۰ به وقت شرقی ایالات متحده (۱۷:۰۰ به وقت گرینویچ) روز دوشنبه اعلام کند.
 طبق گفته منبع، بسنت همچنین یک کمپین فشار اقتصادی گسترده‌تر علیه ایران را ترسیم خواهد کرد که او و دونالد ترامپ، رئیس‌جمهور ایالات متحده، آن را «روز D اقتصادی» نامیده‌اند.
 این منبع گفت که انتظار می‌رود بسنت روشن کند که کشورها باید بین همسویی با ایالات متحده یا ریسک قطع دسترسی شرکت‌ها و نهادهای بزرگ از سیستم مالی مبتنی بر دلار، انتخاب کنند.</div>
-<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20823" target="_blank">📅 12:09 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/SBoxxx/20823" target="_blank">📅 12:09 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20822">
@@ -634,7 +634,7 @@
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">مرزهای بازرگان و بصره بسته شدند.
 مرز بصره جوری بسته شده که تیم تاج برای سفر به بصره جهت میزبانی بازی های آسیایی (سبحان الله چرا بازی پرافتخارترین تیم ابرقدرت چهارم جهان باید در بصره باشد اصلا؟!) به مشکل خورده!</div>
-<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/SBoxxx/20821" target="_blank">📅 10:54 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/SBoxxx/20821" target="_blank">📅 10:54 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20820">
@@ -642,7 +642,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NKZue3Z6h0IUx1Qxo2GHJlOB4u8zRgao6lX9k8VnEFbGHSUzjRJMUHfv8yoDNjDG-NXFEoTVOik2y0wlD4dJVKdEyOu0TjVqTKKt9ZHkPmNcu1L1V9UYh1LtOCQQV3uw8LPjyKmTD-9-YJM0gcaL5nK4DNMrfRW_nRuPiTzDw_U2SoQKqy0SwGaoAtpYgzN3UFAvIb3Ku2b9wa1TAn2JjwVEEqq3gMWtQBiPFop8ke9OXJY-aX9TdLNfCK8TmnnOFnw6URbhESxfkYUN2IBzvY-aoRM2Zx2V8dbZGGm5XYHRg9kQzggxHufb2Hr_9_sYtg_oFi4R46czGjTK4PLq4g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">احتمال اینکه کل داستان جنگ یمن در روزهای اخیر یک تله برای حوثی ها باشد وجود دارد…
 توضیح خواهم داد.</div>
-<div class="tg-footer">👁️ 5.66K · <a href="https://t.me/SBoxxx/20820" target="_blank">📅 08:00 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.67K · <a href="https://t.me/SBoxxx/20820" target="_blank">📅 08:00 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20819">
@@ -651,7 +651,7 @@
 کانال شرقی حمل‌ونقل دریایی در نزدیکی جزیره پریم تنها حدود ۳ کیلومتر عرض دارد، به این معنی که کشتی‌ها در محدوده دید مستقیم از مواضع حوثی‌ها عبور خواهند کرد.
 «آن‌ها قادر خواهند بود با موشک‌های ضدتانک به هر چیزی که بخواهند شلیک کنند. آن‌ها می‌توانند کشتی‌ها را با چشم خود ببینند. این همان تفاوت است.
 در هرمز، ایران به رادار، سیستم‌های نظارتی و موشک‌های ضدکشتی نیاز دارد تا ترافیک دریایی را تهدید کند. اما در باب‌المندب، یک جنگجو با یک موشک ضدتانک ساده در جزیره میون می‌تواند به یک کشتی تانکر شلیک کند که می‌تواند آن را به صورت فیزیکی ببیند،»</div>
-<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/SBoxxx/20819" target="_blank">📅 07:24 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/SBoxxx/20819" target="_blank">📅 07:24 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20818">
@@ -695,7 +695,7 @@
 <div class="tg-post" id="msg-20813">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">— ۱۰ دقیقه پیش، نیروی دریایی سپاه پاسداران ایران یک موشک کروز ضدکشتی به سمت تنگه هرمز شلیک کرد.</div>
-<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/SBoxxx/20813" target="_blank">📅 20:42 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.42K · <a href="https://t.me/SBoxxx/20813" target="_blank">📅 20:42 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20812">
@@ -760,7 +760,7 @@
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gAapWyE8Pp9QHr9ekmfazB71nphy4tBy9pXA6C-1ISOoQUKZmtMixyx5_ZJNtXjDlxTOFPb0AXz_n7JyzEbc3LbEzuuGLiHC-SRMCETm9uhwBa59cMyohm2_ppCduvQGBk8wIco-A2XfPesm-8GgM2aJ2nQBlEwiVgDhHMiH33H225QDeFx29G0Yb5ZUCRDa16R34x6GxE_Z6IZInypq8zGVkJtDprU7FzStOo3B4RAYYNe2Z20rimKmu3fjmZNwq6GxBJ2sAI4QcW8qRqXupIGWQA4UmhRtQ-CJEBm2KSo9DmHfhlw1IYaqzUVBEa9dj5vCkWPOWL07S3ccyr4YXA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عکس یادگاری روسای کشورهای بریکص</div>
-<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/SBoxxx/20807" target="_blank">📅 16:15 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.27K · <a href="https://t.me/SBoxxx/20807" target="_blank">📅 16:15 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20806">
@@ -788,14 +788,14 @@
 <div class="tg-text">#پادکست_GeoMarkets
 شماره — 26
 جمعه 11 سپتامبر  2026</div>
-<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/SBoxxx/20804" target="_blank">📅 13:28 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.46K · <a href="https://t.me/SBoxxx/20804" target="_blank">📅 13:28 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20803">
 <div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/niBaJWkEJfMHnCPdGFXCU-yHn1RgqIrARKXaZn_19e7SkD0Ip80L7B_YWa_iMHjkX35tfuxnZSa5NIAyHIHBIZ-Kbz5b6ZA14UCURNVc_e31Ez1sdpnwYKK1iVc6O_qT9M1TrSGTyes_adA1j7bsRhAqAsVXlUq19KTjY_FdSJCKJHq3OU16LP841lVK1eAtOlTHErG50ltvCzN8CuUsRhwLjrIk8ey2sFV4gBOw2NAfNPQkL0rD74V7rtoWlFl3TyvkAdH08xwUuVnXt7pwETV8MOwR09XYV281c8UA3_ShkfkuPKWK_t6WrGj2vJRwvnm6YxT4Wgz7LUEZ8aNLvg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پس از انتشار خبری در فایننشال تایمز مبنی بر برنامه ریزی دیدار عراقچی با وزرای خارجه کشورهای عربی خلیج فارس و مذاکره درباره موارد بین ایران و این کشورها قیمت نفت کاهش یافت</div>
-<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20803" target="_blank">📅 12:42 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/SBoxxx/20803" target="_blank">📅 12:42 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20802">
@@ -807,13 +807,13 @@
 <div class="tg-post" id="msg-20801">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">وزیر مالی فرانسه، لسکیور: هزینه‌های مربوط به بازپرداخت بدهی‌ها در سال جاری، 65 میلیارد یورو پیش‌بینی می‌شود، که این رقم 4.5 میلیارد یورو بیشتر از میزان پیش‌بینی‌شده به دلیل بحران‌های ژئوپلیتیکی است.</div>
-<div class="tg-footer">👁️ 5.24K · <a href="https://t.me/SBoxxx/20801" target="_blank">📅 12:13 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SBoxxx/20801" target="_blank">📅 12:13 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20800">
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">وزیر مالی فرانسه، لسکیور: هزینه‌های مربوط به بازپرداخت بدهی‌ها در سال جاری، 65 میلیارد یورو پیش‌بینی می‌شود، که این رقم 4.5 میلیارد یورو بیشتر از میزان پیش‌بینی‌شده به دلیل بحران‌های ژئوپلیتیکی است.</div>
-<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SBoxxx/20800" target="_blank">📅 12:13 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/20800" target="_blank">📅 12:13 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20799">
@@ -848,14 +848,14 @@
 <div class="tg-post" id="msg-20797">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">گویا امروز حوثی ها این خط لوله را هم در 6 نقطه هدف قرار داده اند!  با ادامه این وضعیت یعنی عربستان حتی از مسیرهای جایگزینی که طراحی کرده بود نیز نمی تواند نفت صادر کند!  به نظرم تشدید تنشی بسیار با اهمیت است و از دلایل جهش بی سابقه نفت در روز گذشته</div>
-<div class="tg-footer">👁️ 5.27K · <a href="https://t.me/SBoxxx/20797" target="_blank">📅 10:50 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/SBoxxx/20797" target="_blank">📅 10:50 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20796">
 <div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RlHb-XBhMTzZB5CKrsAT_QF6fikwR5C3GChPn64X8uXj1U2fYsApSGnhspQI3qtzRFklrdYSNE6d_rWVoN8yDf0N5evMHwLkD2ydQIkIwUnkfWkHrJ1WSL9kQbRLG4EVBv30XkYjpEC8KNwu1XPWPxj7_GapN0BshuL-NZqMI3omRi5nwn8sCfq-0PPB--TngpZYo8bAe3SCs5EF7OBUfbzBBlWVUFvPcl9eYaj7N0YdDcMh1MIz1oyi5ySMAwXyqZn38m1SLwEdjuikQfEQLBsPsiDF44uhjGP8A0umb6XcV2r7uQBFFzazUM6kxMdIHNp3ojwey8AOLgdsGK-Obw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برای درک حجم و‌ عمق بی لیاقتی و بی عرضگی ارتش پفکی سعودی کافی است به این عکس یادگاری جنگجویان حوثی که پس از تصرف بندر راهبردی مخا گرفته شده نگاه کنید!</div>
-<div class="tg-footer">👁️ 5.93K · <a href="https://t.me/SBoxxx/20796" target="_blank">📅 10:47 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.94K · <a href="https://t.me/SBoxxx/20796" target="_blank">📅 10:47 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20795">
@@ -901,7 +901,7 @@
 <a href="https://t.me/SBoxxx/20789" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">آیا چین راه اوپک را می‌رود؟!  در دهه 1970، زمانی که کشورهای اوپک در واکنش به فشارهای ژئوپلیتیکی بر سر حمایت از اسرائیل، تولید و صادرات نفت خود را محدود کردند، کمبود عرضه نفت منجر به فشارهای تورمی شدید در اقتصادهای غربی شد. با این حال، این شوک عرضه، نوآوری…</div>
-<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/SBoxxx/20789" target="_blank">📅 23:35 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.27K · <a href="https://t.me/SBoxxx/20789" target="_blank">📅 23:35 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20788">
