@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-24 02:22:16</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-24 04:34:56</div>
 <hr>
 
 <div class="tg-post" id="msg-2601">
@@ -310,7 +310,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/ircfspace/2601" target="_blank">📅 08:17 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/ircfspace/2601" target="_blank">📅 08:17 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2600">
@@ -325,7 +325,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/ircfspace/2600" target="_blank">📅 08:09 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/ircfspace/2600" target="_blank">📅 08:09 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2599">
@@ -342,7 +342,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/ircfspace/2599" target="_blank">📅 07:53 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/ircfspace/2599" target="_blank">📅 07:53 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2598">
@@ -394,7 +394,7 @@ hamedvpns
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 54.6K · <a href="https://t.me/ircfspace/2596" target="_blank">📅 08:14 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 54.7K · <a href="https://t.me/ircfspace/2596" target="_blank">📅 08:14 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2595">
@@ -555,7 +555,7 @@ defyxvpn.com/download
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/ircfspace/2586" target="_blank">📅 09:11 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/ircfspace/2586" target="_blank">📅 09:11 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2585">
@@ -722,7 +722,7 @@ notebookcheck
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34K · <a href="https://t.me/ircfspace/2576" target="_blank">📅 18:09 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/ircfspace/2576" target="_blank">📅 18:09 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2575">
@@ -903,7 +903,7 @@ github.com/telegramdesktop/tproxy-server
 
 <div class="tg-post" id="msg-2564">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/phJQenAb8ehp5SafWYvBF-l-ZXH-nNj717Zz3qP2dEBpIi90upvQKjwJohiAP-gcWcmTye_IDJPfXuMWdfTujNFwBrDVbjC97qfplySzMVTnlwio9TPqrLMoJOB5zZx3Y9BZeSd0ngWqzupTdM7IyhPFBaZpkjKyteFmD_f2Hk7yWI4lFthtbHrWw94-iSk3bH5YEeAU7gDDqkjTvCU76-JnXxpKlEbhTnlPom2DO2ab-WkD7EpejGgvJwLN72PzknSzVfn84N7zWwCyFAdOiQZSciemKiwDOT2l1TRYXjWN5cU_e21rJHygYhmBoJ3ZzZjABWyyipZLc0KOn9SGKw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VmwsxrW-Z2GUEc0qnWlX0w740Sz8NUfMWH5ABYbo6IIWE26XVFRFysDs4V0GAWYTTTeoMbcP3WsnW4DIm8K7HwI0BnE1j1PC1whcMLUFAWRAeNlgsc5YUgmEH1rKyh8JUDXcdSWtGnNo4Nmmz0e0-NzKdjQ0liKtTKA9wfjwGrw5GUtlWOIG_aZXgD1Jmkt1liKHJd2oOwJPzlrMdX7L2d7IPBqr0y0vsAwO_aHRxxPvpJn7uuqpm8-aUrEGTDuBaTtA6Zs7LQ8UkpvBYS68imqVdgJVuMZheKCOpjX3wdOqd8d3ndmwnn6MebFSJgl7WM23uR8btaEsQ4Rcz1IQJA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در کدهای نسخه دسکتاپ از تلگرام نشانه‌هایی از یک پروکسی آزمایشی جدید با نام WEB مشاهده کردن، که از WebView و ارتباطات مبتنی بر HTTPS/WebSocket استفاده می‌کنه. این قابلیت هنوز در حال توسعه هست و مشخص نیست نسخه نهایی اون دقیقاً با چه معماری و مشخصاتی منتشر بشه.
 ©
 telelakel
@@ -919,7 +919,7 @@ telelakel
 
 <div class="tg-post" id="msg-2563">
 <div class="tg-post-header">📌 پیام #62</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/EikqXya_JLIgcRsHFGo2yK8zQyTLIjPlS48kutz-XfEyUyr9KrM_IBjSF9z3mwA4YMFqBSHzX75XOr_XqNe3VVBGT6wMG0wggin9fbLzg9C_vodRmZ6j2lFkJC0iKC8G7shlEXAPPR3dR0Sdd05FMBm8uKeB9xGcoBaowtNYDkzWNzdQLDOy5MzhIyjx7bwDdy3LPNsVhf80vRjF86wuyqKR8-ZD6ch-XZ0RCDwaY0HaMq-LOOYX8-zFfEncClpcmhJueanCcZzI80oaPeN-zPD0IJtbbSQRImWS6XS8rkBtHdZcZpKmYJ1EdN3ZLPAg6zcyzxmotVdXFItQremKGg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/q94Q3PMpkQPRVV8c3lXOklNpfW340f55XfYILzV8gvbXSdBxdDI8xFO9u3atZW56yBxIrmkPSQNvFWyYKGbj7roaw9Kj9Lf8iBxT8DF1HH3W0eU7teMC4JBYAmWizVztZPY1zaeZ_U-19YaV3bC1_ZOrRgry8x74vJ9ybKOXdoWKElFLl_FlRuTGbXpCmzpFNZvGzz-T84qY75FoQp4tu3nRf1YYo3IXKJlcDxDwWgRZ6KENV-lfQeLJloKveX6hudjCSK1hAGORNErESLM6-1ZUpfGV0-nf796cbJy3B-PwoJHs4TmMqbi0DYmvpivJ7GhgHIrbFNLfCz9it5mXiw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اتحادیه اروپا با همکاری سازمان ETSI یک استاندارد امنیتی جدید برای VPNها با نام EN 304 620 معرفی کرده که در چارچوب قانون Cyber Resilience Act قرار می‌گیره. بر اساس این استاندارد، VPNهایی که در بازار اروپا عرضه میشن باید حداقل استانداردهای مشخصی در زمینه رمزنگاری، احراز هویت، مدیریت کلیدها و مقابله با آسیب‌پذیری‌های امنیتی داشته باشن و این موارد هم قابل بررسی و ممیزی باشه.
 البته این مقررات به معنی ممنوعیت VPN یا محدود کردن دسترسی به اونها نیست؛ هدفشون اینه که VPNهای ناامن و بی‌کیفیت از بازار کنار گذاشته بشن و سطح امنیت سرویس‌های موجود بالاتر بره.
 شرکت‌هایی مثل NordVPN، Surfshark، Cisco، Google، Palo Alto Networks و Airbus هم در تدوین این الزامات مشارکت داشتن. از طرف دیگه، ارائه‌دهندگان VPN باید آسیب‌پذیری‌های جدی و فعال رو سریع‌تر گزارش و برطرف کنن.
@@ -938,7 +938,7 @@ techradar
 
 <div class="tg-post" id="msg-2562">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JF-OXm8L3LMUaP0gxUEvnRVBeaicQzAX3OYTCbNKKSn26la8d80MC4Ka3kbePivVbjpVcO6nFGEzhRUdJRWgXeN03wt4WH_VEXCA2l6kX9MMhzX5aG4mp3K2DAcGyVSOCmW56XWN7SM7laZta46-DXdRmvETqCNdOEnYMe1ZYoiinYoAxHjX7HZrB3iLjuCER5cFWWNGRVERvpGzjQyHEZ4lst5BpQhxBHNuhJ18qU_FseJa2Byg3mgvjxsM84F-Z3JTQkWJxS1U5dT0rAdwj6wKibwYdkS4OB_OQdCSYUMW8cNzjtmTtY2yqeBOtw0rae3Lsa7ePTX9jDvRmeXQHg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/c5Ih-Voq3KYxBhsi16vXvjQCjLv8ObYKL2iQsl3q2jMsCdX3flGHe9dSRtCLBhjzOiC1snxvdPkRq6wcyilJYZJMkGLLcAog3IY6u_hmGXFFPp2QBjsSwluGCBGwXkH8cvsONSaG1D0vlDnfct9imJ7wfSpnnD7WnCWB-96K3RtFg13QaW4XqIy1NfUlc57uYDDvK28SWVVtc_M7KI8T8hsAG9q7GZ2EdXBAEVg0iv00V4HvsqL-DULZaq5Xi-ulnvaT67-pMf_ELx4_peEbWFvj4KZ9cGqdWXM6N_BYYTys9HWG6Me-Erqg3eUeL8HFuIT8AtrWXrQZRYn2WnEC_A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تیم پس‌کوچه با بررسی نسخه اندروید فیلترشکن Line VPN که تا الان بیش از یک میلیون بار از گوگل‌پلی دانلود شده، ۶ ایراد امنیتی مهم در بخش‌های مختلف اون پیدا کرده، که در سطح بالا ارزیابی میشن.
 مشکل اصلی و مشترک در تمام این موارد یک چیزه، که اپلیکیشن در چند نقطه حساس نمی‌تونه با اطمینان تشخیص بده آیا اطلاعاتی که دریافت می‌کنه واقعاً از سرور مورد اعتماد اومدن یا نه، و آیا هویتی که برای اتصال استفاده می‌کنه فقط در اختیار یک کاربر مجاز قرار داره یا خیر.
 پس‌کوچه این وی‌پی‌ان رو بیش از اینکه سپر باشه، به ریسک امنیتی تشبیه کرده.
@@ -1115,7 +1115,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2550">
@@ -1136,7 +1136,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2549">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/USEVWbXMpJdMBeZ6MXYgHsG2iTjBhzXVAsZrqNawBIlJje3kEdyFoOn56Igt720fOy9fgRAZYfKf2oLvN-63VQ3gilNwxqu7x2cWGxmpalEa_hA49OKyB91dMl1zgei3cLBMuBOqrnMLeLM7636aZJCBMoFINH9_AsaS1VwHxH70_u-SZmcfXqnFYK-2oybcwFbWkQlbbIjKan-P_0ymK9f55G4riVvCgUOUaSoXygirI5SEdyqom-iNb_x7t1i2X6MwwyOkSKoSk7P5VYyKZRhgpTp4REw7iFTWGiYwbfY4qN4_oTaOBttC75HdiyQao2hmO7Ts9T4-61nP5k7cHg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cBhP6WoNAdj5bT5crBRE7UT-2KXo20qUq5l5czyp1ChJue71SyWqXFLRmXP_N_X0JlYRuhHra8TBZblG1Jjk6FCB-gGDhUJeNLjM8AO4VzJjJLomg6WR5nIFA4x_Khb8XOf8pM5wixU6GnnpnLgICIxVBLxUI4peH-V2DCDcqwrkM-NXIi8AMe84xFTFEbksnY2q8K2ozYHYrkruHXO80ga1IOV8Z2WZgGum4uH0EzhC04OR2dRBbDxxk6stc9M3anskehyUhcG_CM9bq9xc_-yvgq8C2MuYPGl3qsbVVRQpTGrlGw2BY31OXZQz3-mxPJD_ApYFyJ6Icbk9Q-Hwag.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از فیلتر شدن فوتبال ۳۶۰ و دستور رئیس‌جمهور برای پیگیری مشکل چقدر گذشته؟
 هنوز نه رفع فیلتر شده، نه کسی فیلترشدنش رو گردن گرفته!
 🔗
@@ -1151,7 +1151,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2548">
 <div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CwqclaXlC2T_WsC8ZnL53lPvGfBkqQyuO2QlIQy4GOin9M0enX-ejglO-HmBbhRpUg02UJ_e5ugreDjHjleVOfud0QeKQZQjjlJknLamq8HJjPHp2e6jdeRuxJXd1iIBRUOhlcRJiy-ZvZy26sE7p4fTinlMGqpI2EWqST2V48lAlEoiaTC5po39-SZJ-26LkSTF9ig7yQ_nHvChAHeXLx7vvgFz82_yCLN1RFcnnsPkw_tea6SpTV3F0mDLxKODA0VWGC_uXuLEErkGa4P8kYg060cCvn3LBnH2Xb9Kc6xdXa1ODgr656B5ukL_LzklDfw-nUmDg961G-HLUBBnEQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AfyNtEPxzmFX2tMgVwaV4m-ZJVXQVqWcIHfk_ZE8oAbQG1vVBWvlGlmsEnEbWAmKBNVvQxRU2yr1XWDUVZFO0RSWn_vxDDjXznDp8J4C2g0H4LBwZMXG5nbKWCkf0-JEH-RzQPMmFAyAWf3L_Kjx-E3g1JFW8P6A2a9g91wMhkaPyMYGisuOiw5JaBTcZCjAzsbqUmJcx0wPEQ_ThvDYLW0h6OzfOvGZbQ9B7AVFUMqM54tDfkid3bEeoszS5vMhu____W_cyjMyQaWkMvfd85Fc8pivCB8BCUYDbhql1tP2gmmNHLhue3NGff6kaa47Q6cgoc1pzm32kjIa3KCKqA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پلتفرم لندین که برای ساخت لندینگ‌پیج بود، بدون اخطار قبلی فیلتر شد. بعد از یک‌روز که با تعهد در دادستانی رفع فیلترش کردن، اعلام شده دلیلش فروش آمپول لاغری در صفحه یک کلینیک زیبایی بوده!
 یعنی هنوز که هنوزه نفهمیدن فیلتر کردن یه کسب و کار چه آسیب‌هایی داره. هنوز که هنوزه نفهمیدن وقتی یک صفحه محتوای خلاف قوانین داره، کل کسب و کار نباید فیلتر بشه.
 🔗
