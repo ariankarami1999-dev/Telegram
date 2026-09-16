@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-25 22:28:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-26 01:25:48</div>
 <hr>
 
 <div class="tg-post" id="msg-78415">
@@ -308,7 +308,7 @@
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 187K · <a href="https://t.me/VahidOnline/78415" target="_blank">📅 17:37 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 237K · <a href="https://t.me/VahidOnline/78415" target="_blank">📅 17:37 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78414">
@@ -322,7 +322,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 176K · <a href="https://t.me/VahidOnline/78414" target="_blank">📅 17:29 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 221K · <a href="https://t.me/VahidOnline/78414" target="_blank">📅 17:29 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78413">
@@ -343,7 +343,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 159K · <a href="https://t.me/VahidOnline/78413" target="_blank">📅 17:28 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 196K · <a href="https://t.me/VahidOnline/78413" target="_blank">📅 17:28 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78412">
@@ -359,7 +359,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 148K · <a href="https://t.me/VahidOnline/78412" target="_blank">📅 17:27 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 181K · <a href="https://t.me/VahidOnline/78412" target="_blank">📅 17:27 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78411">
@@ -372,7 +372,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 139K · <a href="https://t.me/VahidOnline/78411" target="_blank">📅 17:26 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 169K · <a href="https://t.me/VahidOnline/78411" target="_blank">📅 17:26 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78410">
@@ -389,7 +389,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 138K · <a href="https://t.me/VahidOnline/78410" target="_blank">📅 17:25 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 166K · <a href="https://t.me/VahidOnline/78410" target="_blank">📅 17:25 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78405">
@@ -411,7 +411,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 157K · <a href="https://t.me/VahidOnline/78405" target="_blank">📅 17:23 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 189K · <a href="https://t.me/VahidOnline/78405" target="_blank">📅 17:23 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78399">
@@ -434,7 +434,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 296K · <a href="https://t.me/VahidOnline/78399" target="_blank">📅 04:07 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 306K · <a href="https://t.me/VahidOnline/78399" target="_blank">📅 04:07 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78398">
@@ -447,7 +447,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 283K · <a href="https://t.me/VahidOnline/78398" target="_blank">📅 03:56 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 293K · <a href="https://t.me/VahidOnline/78398" target="_blank">📅 03:56 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78397">
@@ -460,7 +460,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 318K · <a href="https://t.me/VahidOnline/78397" target="_blank">📅 21:35 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 323K · <a href="https://t.me/VahidOnline/78397" target="_blank">📅 21:35 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78396">
@@ -479,7 +479,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 306K · <a href="https://t.me/VahidOnline/78396" target="_blank">📅 21:32 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 312K · <a href="https://t.me/VahidOnline/78396" target="_blank">📅 21:32 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78395">
@@ -500,7 +500,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 312K · <a href="https://t.me/VahidOnline/78395" target="_blank">📅 19:07 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 316K · <a href="https://t.me/VahidOnline/78395" target="_blank">📅 19:07 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78394">
@@ -518,7 +518,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 302K · <a href="https://t.me/VahidOnline/78394" target="_blank">📅 17:53 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 305K · <a href="https://t.me/VahidOnline/78394" target="_blank">📅 17:53 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78393">
@@ -531,7 +531,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 299K · <a href="https://t.me/VahidOnline/78393" target="_blank">📅 16:03 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 303K · <a href="https://t.me/VahidOnline/78393" target="_blank">📅 16:03 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78392">
@@ -542,7 +542,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 271K · <a href="https://t.me/VahidOnline/78392" target="_blank">📅 16:03 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 274K · <a href="https://t.me/VahidOnline/78392" target="_blank">📅 16:03 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78391">
@@ -556,7 +556,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 278K · <a href="https://t.me/VahidOnline/78391" target="_blank">📅 15:45 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 281K · <a href="https://t.me/VahidOnline/78391" target="_blank">📅 15:45 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78390">
@@ -573,7 +573,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 256K · <a href="https://t.me/VahidOnline/78390" target="_blank">📅 15:44 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 260K · <a href="https://t.me/VahidOnline/78390" target="_blank">📅 15:44 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78389">
@@ -584,7 +584,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 235K · <a href="https://t.me/VahidOnline/78389" target="_blank">📅 15:39 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 237K · <a href="https://t.me/VahidOnline/78389" target="_blank">📅 15:39 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78383">
@@ -605,7 +605,7 @@ VahidHeadline
 دیروز کلی پیام دریافت کرده بودم از شهروندانی که می‌گفتند در این پویش ثبت‌نام نکرده‌اند ولی اون پیامک براشون ارسال شده.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 244K · <a href="https://t.me/VahidOnline/78383" target="_blank">📅 15:36 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 246K · <a href="https://t.me/VahidOnline/78383" target="_blank">📅 15:36 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78382">
@@ -621,7 +621,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 221K · <a href="https://t.me/VahidOnline/78382" target="_blank">📅 15:31 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 224K · <a href="https://t.me/VahidOnline/78382" target="_blank">📅 15:31 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78381">
@@ -636,7 +636,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 209K · <a href="https://t.me/VahidOnline/78381" target="_blank">📅 15:30 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 212K · <a href="https://t.me/VahidOnline/78381" target="_blank">📅 15:30 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78380">
@@ -652,7 +652,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 211K · <a href="https://t.me/VahidOnline/78380" target="_blank">📅 15:29 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 213K · <a href="https://t.me/VahidOnline/78380" target="_blank">📅 15:29 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78379">
@@ -667,7 +667,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 274K · <a href="https://t.me/VahidOnline/78379" target="_blank">📅 15:23 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 278K · <a href="https://t.me/VahidOnline/78379" target="_blank">📅 15:23 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78378">
@@ -685,7 +685,7 @@ VahidHeadline
 VahidOnline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 335K · <a href="https://t.me/VahidOnline/78378" target="_blank">📅 03:27 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 337K · <a href="https://t.me/VahidOnline/78378" target="_blank">📅 03:27 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78377">
@@ -705,14 +705,14 @@ VahidHeadline
 CENTCOM
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 338K · <a href="https://t.me/VahidOnline/78377" target="_blank">📅 23:52 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 340K · <a href="https://t.me/VahidOnline/78377" target="_blank">📅 23:52 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78375">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/gK2C6QEEGIn7PS_kFWGTnIX5aNO9mr6D11Tr-9o2MtzjgymyHEeR0r8AFbcqIWhg5g-WstagJ-4ZyQgL0giikjFq8vCS_8S2TKl4tWZm0mG2f8nt5vysvxJZ0LDWQjewBAeQ1cKwAcQ2bSadwKDJwQKaInNL8vgFBRSi9dnnE8w2SeV9vGwUsPBB7Um9koaqecgYFScy7s4Ywaf0VHj5GHNhviNIPNeobfy6eWJsZFXn-EuYAY9CLHiZMf58ipJoBlfgUNTCOkHVbn8Yd_T_a6lqfNhVyY30U-yzcP0TjLacb52ePR5FwO7EdBqDqHiZyqge52_iWL3v-VSCwI8nOA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/RvyAfgPuyD3Oz08oG3x0Ibt1FIXomf11GT9rbZT19JiSDjLBfTMewTr0brCk4JbtFCzMB-tBRJr7ml-G36ea75Ikk3DaKxm8H43m9masHXB1auSLCtpjcvRNs4FUCvJ2lDXe7-ypM33pxe5CKt8G90hfIjwMkxD1Kio9YSSRYEGOOiQZ2viBR8jzFBulciV5ahFpY50uEuTcAJq7GSt97cFo2YJ1U4YszwebKP3-ZkYCYn8uTeUZyfdCBGWtgMIATQ7MAcrQ3AcHRt_pKrHWMt9F3n_SAZTB1fHlsKZZ1cgDP4HuXYb7Apl8zALpCDo84qPJXrrr1NS9IEU-nYLO4w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/LEkOf4ffXV5KdR1K9xMDX4itVvIntMf3518KWqD1YVfYgl4NAynABTuOyoMVh-dAYt5XUFDdRBqsdJqRih1d_945cwtF1pa3oPY2VBiaBAuuW-NljVCeU0_jtpi1t1m3kk7pgUGx4iILfGAizOtUa5UX1o7Cbfwcb50c2nALG-U8vYU2ksGIQ_ron3EQCPIvhGlivRG1KcoT99YzGR9b3F90tSr3kvLqw0oyjbUfQGglegX137XIC3U3tIT3cjMCGDTl0MKz1qGycaOiOnLLbIydD7pM2uOu3MmxI9_-4mF2YXuesZ3geT3lgIaUYVxuBRomImh8Nty2O_K5Y3wsiw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/QpVAykl9-yYv-EZ2HPf41MYs4_IWOPkGaQzKiqe0UImM4WXKDlcGXA3s2enxUStNPtyWwIG9-xh3XwiDsmha7bdN8g6sGz5fReilaUgr2M6G4JYkLMWq7J0_3UOUrBsZZKkFu3OBQS0hlpjQKXR-SduItKD_BxEdy69-WpfVJ-mmZDwkoSmYIrAldWuYr1Wljcj4kR2u-BOjHd6FDFD0pj-H_lbpINK1Uco28t6GvfETA1D8PL6c1PYE2junl4YhzIYFWzuuwmv3_WJHuAmWAf46kiHNzeDxSnrXGdtvQbz_mk67ntw24SWUCMzqtRAgWPdoM4ftTJ7yo0AS9wD9Bg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">دونالد ترامپ در پیامی در شبکه اجتماعی تروث سوشال تاکید کرد که افزایش قیمت‌ها در سراسر آمریکا ناشی از سیاست‌های جو بایدن و دولت او بوده است.
 او نوشت که حتی بهای نفت نیز در دوران بایدن بالاتر از سطح کنونی بوده و دولت او مانع از دستیابی جمهوری اسلامی ایران به سلاح هسته‌ای نیز شده است.
@@ -727,7 +727,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 332K · <a href="https://t.me/VahidOnline/78375" target="_blank">📅 23:47 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 334K · <a href="https://t.me/VahidOnline/78375" target="_blank">📅 23:47 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78374">
@@ -748,7 +748,7 @@ realDonaldTrump
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 351K · <a href="https://t.me/VahidOnline/78374" target="_blank">📅 19:27 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 353K · <a href="https://t.me/VahidOnline/78374" target="_blank">📅 19:27 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78372">
@@ -795,7 +795,7 @@ yaghma_fashkham
 اینستاگرام
 🆔
 @Daneshjo_UT</div>
-<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/78371" target="_blank">📅 17:48 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 302K · <a href="https://t.me/VahidOnline/78371" target="_blank">📅 17:48 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78370">
@@ -813,7 +813,7 @@ yaghma_fashkham
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 307K · <a href="https://t.me/VahidOnline/78370" target="_blank">📅 17:06 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 308K · <a href="https://t.me/VahidOnline/78370" target="_blank">📅 17:06 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78368">
@@ -850,7 +850,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 285K · <a href="https://t.me/VahidOnline/78367" target="_blank">📅 16:55 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 286K · <a href="https://t.me/VahidOnline/78367" target="_blank">📅 16:55 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78365">
@@ -879,7 +879,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 256K · <a href="https://t.me/VahidOnline/78365" target="_blank">📅 16:49 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 257K · <a href="https://t.me/VahidOnline/78365" target="_blank">📅 16:49 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78364">
@@ -896,7 +896,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 292K · <a href="https://t.me/VahidOnline/78364" target="_blank">📅 16:41 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 294K · <a href="https://t.me/VahidOnline/78364" target="_blank">📅 16:41 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78362">
@@ -930,12 +930,12 @@ VahidOOnLine
 Ardeshir
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 375K · <a href="https://t.me/VahidOnline/78362" target="_blank">📅 08:22 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 377K · <a href="https://t.me/VahidOnline/78362" target="_blank">📅 08:22 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78361">
 <div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KDl-vVH9OmJPCPJ_MstJDwMyyMW9Sr1UJs4HjdeuFZ-58-eshthQRrR0FyPlBOHf_C8neGksOdDiuSBRzM_K36mI6AoECfAmTErWmUPy37RHtPFBQ0-5IiBkgh5gV8rIZNCE7q3aQvOcbJLmB_GkzOL_SwofPV2liqj1g741Edt958Dug_Brqy1R5YbAFQcs1lv-ji2L5D5_uMJ9ptcgf3o-MarY0C9S4J6PAWL78MwKdPXqhF_n8Q9c7xkcBFQ3L-0xRYnUdHDHGyDxmVuCtnbAIT2jz-slHPJSpGLyspJsg9AgkZA3LdmH0LIxkSiqttTNqZIFB70zm6pmGnHhfg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JIZoSICA0LBdwA33l7GfxGoTFCp8wn1_5l-Vtnk-p56V3spfNpT6Pt1XVZfmhJYcXqjc3ujCx9spF6ifgl4QdQKLNyKD4hnb5_J4jnuz40e_fkR5lrNI0ia-CnKCOcvEA95pxyzyd8PFleF7RF4g31g7YOpuC2YtekcE8l4S7mrp-d1VKrluGfEJeEcgN32rXMLNeNwosuU8zRFqtGH4-D6_laYCDkYiPo6FqlrFKD7-CznYwoTjLANpsNJ69OEv08j-3-oessZevPm8AhQrOjQS1vp4TleJjqVuq1RMfo2t4KgFGRSWkGK6uoS9K2SZ8a1hlozPcyPPml9LpqWzAQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر خارجه عمان از تعویق‌ نشست ایران و کشورهای حوزه خلیج فارس و منطقه خبر داد؛ نشستی که قرار بود روز دوشنبه ۲۳ شهریور در شهر صلاله عمان با محوریت وضعیت تنگه هرمز برگزار شود.
 بدر بوسعیدی، وزیر خارجه عمان، روز یکشنبه ۲۲ شهریور در شبکه ایکس نوشت که این نشست «به منظور دستیابی به اجماع» به تعویق افتاده است.
 او تاکید کرد عمان همچنان به تقویت گفت‌وگوهایی که به «ثبات و همکاری پایدار در منطقه» کمک کند، متعهد است.
@@ -950,7 +950,7 @@ Ardeshir
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 346K · <a href="https://t.me/VahidOnline/78361" target="_blank">📅 22:50 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 347K · <a href="https://t.me/VahidOnline/78361" target="_blank">📅 22:50 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78360">
@@ -963,7 +963,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 339K · <a href="https://t.me/VahidOnline/78360" target="_blank">📅 22:02 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 340K · <a href="https://t.me/VahidOnline/78360" target="_blank">📅 22:02 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78358">
@@ -1006,7 +1006,7 @@ VahidHeadline
 quotes
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 315K · <a href="https://t.me/VahidOnline/78355" target="_blank">📅 18:28 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 316K · <a href="https://t.me/VahidOnline/78355" target="_blank">📅 18:28 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78354">
@@ -1021,7 +1021,7 @@ quotes
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 320K · <a href="https://t.me/VahidOnline/78354" target="_blank">📅 17:13 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 321K · <a href="https://t.me/VahidOnline/78354" target="_blank">📅 17:13 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78352">
@@ -1041,7 +1041,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 303K · <a href="https://t.me/VahidOnline/78352" target="_blank">📅 15:54 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 304K · <a href="https://t.me/VahidOnline/78352" target="_blank">📅 15:54 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78351">
@@ -1061,7 +1061,7 @@ VahidOOnLine
 IranRights
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 337K · <a href="https://t.me/VahidOnline/78351" target="_blank">📅 15:53 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 338K · <a href="https://t.me/VahidOnline/78351" target="_blank">📅 15:53 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78350">
@@ -1082,7 +1082,7 @@ IranRights
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 365K · <a href="https://t.me/VahidOnline/78350" target="_blank">📅 23:18 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 366K · <a href="https://t.me/VahidOnline/78350" target="_blank">📅 23:18 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78349">
@@ -1094,7 +1094,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 361K · <a href="https://t.me/VahidOnline/78349" target="_blank">📅 21:05 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 362K · <a href="https://t.me/VahidOnline/78349" target="_blank">📅 21:05 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78348">
@@ -1107,7 +1107,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 355K · <a href="https://t.me/VahidOnline/78348" target="_blank">📅 21:04 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 356K · <a href="https://t.me/VahidOnline/78348" target="_blank">📅 21:04 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78347">
@@ -1121,7 +1121,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 325K · <a href="https://t.me/VahidOnline/78347" target="_blank">📅 21:03 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 326K · <a href="https://t.me/VahidOnline/78347" target="_blank">📅 21:03 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78346">
@@ -1142,7 +1142,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 308K · <a href="https://t.me/VahidOnline/78346" target="_blank">📅 21:03 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 309K · <a href="https://t.me/VahidOnline/78346" target="_blank">📅 21:03 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78345">
@@ -1157,7 +1157,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 318K · <a href="https://t.me/VahidOnline/78345" target="_blank">📅 15:59 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 319K · <a href="https://t.me/VahidOnline/78345" target="_blank">📅 15:59 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78344">
@@ -1226,13 +1226,13 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 313K · <a href="https://t.me/VahidOnline/78340" target="_blank">📅 15:48 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 314K · <a href="https://t.me/VahidOnline/78340" target="_blank">📅 15:48 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78337">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/UxSC6kMJpGp_AUyOzbb8F_1DVzRJ6JP4rVnv5f1MEv4iNgBy6tdjfQzeJHhqlKaXHKsxdRDUCm4AanNcf3NwaSGOPLw8W_cbAjJK_8SgcIk07IFCpM4s__a8qvvykf3WkxbK21WQspUCctkHCOE5NSoh2jgSvZcJ2efWjeOetcndJGI7G73EWlsfpCfTZbtLr1gkH3_2T8VM_y3Xu3YrtwklJUTcrfZhtZqYvocn_KII-aVg7kQPeSBD3S4goCPznLRjGDlOVf3Lj6aJVXQZ3w08FSQYIlhWAazWVvmsnC-IkvTZgrGKwVb92XcJumWywSjmKQw1-1WKW7K8STQMrQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/sw5p6qmKEVBpiZfk0TzPirS01CHX-QMkBiLqJjO0nnhqK_9dK7CrIzL04odjhbvGl7xXppp2STrb32ZlXoS_PQCgj_IS7JAkeNlAew3Qe0GzR7JhXfMFBY-kzaYtM6YrTP7kjcrpZPtkb3FlxyzYrMvPZ9q0bb_LXAKcU3u_Y-lkQCy1am79iYR4Ummctg9QgInx7sn3e8I2y5qVw_ZbyKpOJQpHIHvG7rJCQx6GC0yv5FwTdjnH19GpbvcAfi7dZheIuyJQp2mBGEbOTlqCKkQaWnKH4GxmX7mgs3MSIoZvnW5yxEvJe0_QXX_t9sjAgjgAczqxVp6WUd4MsqB_dg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/iQRdL3_k2vDLEGhrz-MIyhJU3hVbAjtnekyyjKbdc8tc3Ap0j9DRvCp1KxN3QOXTNzBEeqwIJdija8QtcqB1N73rFpQy62KwXOON4umAuGL1tiALjb5VRQmatD3AgbeUFBd1OxpuNZJREwbfA3jD8W95gCshM97CxA0tVDJvVBZLMuOaurWvFMe_grYj0zCkSejU6jPG5hQLZBiOUfugCSn1_rcg3dgAsXr0K2bjfRGq1OOObMp63vIs-EXCBQkABaGemXrQN-vDWUUbTRu5Dr-fIv0mjaSypSGNObtCFKC_Z6d0ZW6z_jinYwh_-a5ws_mYwq-is1dtPMUrn-UQ6A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/llc3i8cllSf0mlxIfOn9IDGkgDNb_Upp-GiGVC_v04swHiSvdwKEPJiFqPeqb8iVgr76fdagbUunIVioyq_mlYp9sY4pen0sTZ_cNvX_OvAY69kRW-iznanEiykqnFDyassf45jWE_oPm8VvT1i1iQyP6_5fSAkvgkdgY-6hLIA1P0Yeh6ECcUUaoXhyNt1SAKAZdVaF4C3sWPa22QjFVK4kAJRXepN8k1v_Fa6SKlQGJa2GPyz9SqGqfFqgkSyXpsh4eO3-N_VNRTg5-V9trwt9WOejOO6gM0A4-msR2Qa3oYtYENvmQFj-46WNhTVLbX0xA9DZCrXZdxI9klaJJw.jpg" alt="photo" loading="lazy"/></div>
 </div>
@@ -1256,7 +1256,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 385K · <a href="https://t.me/VahidOnline/78337" target="_blank">📅 05:59 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 386K · <a href="https://t.me/VahidOnline/78337" target="_blank">📅 05:59 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78336">
@@ -1273,7 +1273,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 370K · <a href="https://t.me/VahidOnline/78335" target="_blank">📅 20:46 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 371K · <a href="https://t.me/VahidOnline/78335" target="_blank">📅 20:46 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78334">
@@ -1386,7 +1386,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 347K · <a href="https://t.me/VahidOnline/78327" target="_blank">📅 07:52 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 348K · <a href="https://t.me/VahidOnline/78327" target="_blank">📅 07:52 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78326">
@@ -1420,10 +1420,10 @@ VahidOOnLine
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/09d9c8c443.mp4?token=g0I6Ne4DPc_UJF-U8hfCmBZ1gECmPcg8TEZEeUlnE7Eipj2BEll8STFK72njv-riiFGvpjgawyTny6v1yOzUVQJZbfOb-spJuXYBg2EgNnxEgT1hVdKqBHWb8AzFb6XplH1-yCWjBgCGPPtxuZpY4coU2K9ZJ2jzt0vJhx4fq3ENNEa_AZwCz5KgnqpfZeDSFH5v4I96ZcywIbwgLozO6lR-WvwlcsqQPqLe670KxHjbw_0U1GViUvE3TUXMx41hLX1oYs2w-v-NAHMZccScWqAJoOG3hpgj5iSRMdi1BxEstTE7e4rmA0OTAtTt5IHtpgy-D5IW0R9mtGlPSS47ow" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/09d9c8c443.mp4?token=EnDRHxBAdnjp3B-YR1j3W-uSayY7CeNXEL1d7Ft19tMzoZYS4FwBiNEs63eWZWsovFd4gAQdshREY1Mp0U9aNXmmNw_x_SfXuNaH4G9coGTKgEbxBXR0aa4t8yYARrc9Y3-AU-5jzpdgRDcegvnj54GJI5jEav4kqOhWd1QHywHXEkBk8___hAOuqR_yTVK1ETRb-GIfiZQaZkVsVwoB-qjSfOtiCHewqYCTgnNrdhOydnaWUoNV4TTwDFRU_zBTkZ1imaforqnxwTvijApQwr2MQr35u4d-I3gW2Sbed8rzxrz1ey6yWvMc36In88VT4jLVVoO3CbA2JSGUmcCj7g" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/09d9c8c443.mp4?token=g0I6Ne4DPc_UJF-U8hfCmBZ1gECmPcg8TEZEeUlnE7Eipj2BEll8STFK72njv-riiFGvpjgawyTny6v1yOzUVQJZbfOb-spJuXYBg2EgNnxEgT1hVdKqBHWb8AzFb6XplH1-yCWjBgCGPPtxuZpY4coU2K9ZJ2jzt0vJhx4fq3ENNEa_AZwCz5KgnqpfZeDSFH5v4I96ZcywIbwgLozO6lR-WvwlcsqQPqLe670KxHjbw_0U1GViUvE3TUXMx41hLX1oYs2w-v-NAHMZccScWqAJoOG3hpgj5iSRMdi1BxEstTE7e4rmA0OTAtTt5IHtpgy-D5IW0R9mtGlPSS47ow" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/09d9c8c443.mp4?token=EnDRHxBAdnjp3B-YR1j3W-uSayY7CeNXEL1d7Ft19tMzoZYS4FwBiNEs63eWZWsovFd4gAQdshREY1Mp0U9aNXmmNw_x_SfXuNaH4G9coGTKgEbxBXR0aa4t8yYARrc9Y3-AU-5jzpdgRDcegvnj54GJI5jEav4kqOhWd1QHywHXEkBk8___hAOuqR_yTVK1ETRb-GIfiZQaZkVsVwoB-qjSfOtiCHewqYCTgnNrdhOydnaWUoNV4TTwDFRU_zBTkZ1imaforqnxwTvijApQwr2MQr35u4d-I3gW2Sbed8rzxrz1ey6yWvMc36In88VT4jLVVoO3CbA2JSGUmcCj7g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">بنیامین نتانیاهو، نخست‌وزیر اسرائیل، با انتشار ویدیویی در شبکه اجتماعی ایکس نوشت
 :
@@ -1440,7 +1440,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-78323">
 <div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/oh2vJE_vU8Dz0uux-dVdi_LjRT4uRmbDOf0mWYdjQ3cBmv0g7n8lo6zfhNMsL6axQ8BiSZ0hVybNvF9dhh3lNkcAb6-cGn_gW_Gv_YeqkG-2EgxJ3MFJbgKpsBifhejCNCaKfGYPKgxOCRFx7cW0VkYYGBlR0BPTe5ZGRSlPBf51B-dI5MkuvQB-gwvW1w7P_IXjm3a6oDktQF7vJIKnbbhsbWlLcHDvZuNP1M6je9a5QvFfOs3I0FD9hVkCtCwvxfogv1fbMkPTbRZJwz38naEz4AKTaGEeFc5kKpLIUUu9L7v-4tJkXmtG_MwrBbOFdc7wr4UYA7uTdPEqab0Y3w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VeMVHpvd7ZQgO3awS3lb5YBH-18nnoXwfUs4Buo3HuQ0mGxwZWZkCMLoa5nx80pVl2ciGfWVJKvr5UZ7Epz2j9VmF9FMz8BN6vRtkk9tzMdnwUMjuCuX0Gcaurx2DiKOXGfj9NZBozlddAhmilqjz0h5ifs1LnGVKVOd9W50edmUpmIxO4VariTJFuKQmqs5rb4_mZYwBUolQ_prhLWLx-EajEVeG_SlshMaXYmXY_TJd3D4NZp9Yf_cvXKgJU0nBZji3Az0ut4ypI9pH1cgcL65gFYY8WEuY-g8ysRPXRJK0k9cBuS6NFcUpRT85Libb7h5-fjYJzZ19qpoRo21Xg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مرکز عملیات تجارت دریایی بریتانیا، یوکی‌ام‌تی‌او، عصر پنج‌شنبه به وقت واشنگتن از برخورد چند «پرتابه» به دو شناور در نزدیکی سواحل عمان خبر داد.
 بر اساس این گزارش، این برخوردها در فاصله چهار مایل دریایی غرب شهر خصب، در استان مسندم عمان، روی داده است.
 طبق این گزارش، کاپیتان یک شناور اعلام کرد که شاهد آن بود که چهار پرتابه نامشخص به دو شناور نامشخص اصابت کردند.
@@ -1450,7 +1450,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 369K · <a href="https://t.me/VahidOnline/78323" target="_blank">📅 01:04 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 370K · <a href="https://t.me/VahidOnline/78323" target="_blank">📅 01:04 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78322">
@@ -1531,7 +1531,7 @@ MaryamAzimih
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 327K · <a href="https://t.me/VahidOnline/78317" target="_blank">📅 17:06 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 328K · <a href="https://t.me/VahidOnline/78317" target="_blank">📅 17:06 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78315">
@@ -1543,7 +1543,7 @@ VahidOOnLine
 <div class="tg-text">quotes
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 303K · <a href="https://t.me/VahidOnline/78315" target="_blank">📅 16:49 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 304K · <a href="https://t.me/VahidOnline/78315" target="_blank">📅 16:49 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78314">
@@ -1625,7 +1625,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 367K · <a href="https://t.me/VahidOnline/78309" target="_blank">📅 06:58 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 368K · <a href="https://t.me/VahidOnline/78309" target="_blank">📅 06:58 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78308">
@@ -1950,7 +1950,7 @@ VahidOOnLine
 بله، این رفت‌وبرگشت کاملاً روشن است: ایران همچنان تلاش می‌کند کشتی‌های نیروی دریایی آمریکا را هدف قرار دهد و هر بار که این کار را انجام دهند یا تلاش کنند انجامش دهند، نفتکش از دست خواهند داد. فکر می‌کنم امروز هم دوباره شاهد این موضوع خواهید بود.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 376K · <a href="https://t.me/VahidOnline/78287" target="_blank">📅 02:19 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 377K · <a href="https://t.me/VahidOnline/78287" target="_blank">📅 02:19 · 18 Shahrivar 1405</a></div>
 </div>
 
 <hr>
