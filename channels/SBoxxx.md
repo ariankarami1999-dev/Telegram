@@ -292,84 +292,84 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-25 04:24:08</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-25 09:00:17</div>
 <hr>
 
 <div class="tg-post" id="msg-20924">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vMvtSu8uuA7cuwGxvDSKbLsZM7LxiEDLkmbpXsau37mEurrKtt9LPqpFD9oDd6mszIji3E5kQIIOF-0fDOvq8iOzcEaNmP9-cPpgfIzU1yoex5m8RkAPTiX0q8b-RbbVsyah_laq_QWzcobPq0yucZQ0Kw-UnXjK20nGbJ83nqM2ChpjWaHwZubsDzt1f2QMyCSRvgtzA81z8GevaEqAtlDQCHPDnRD9F30gMAfgPBIxbiN5pU9n1ocEjK9qMNJE9yQbEc7SEmzh4_GlqPobokzmNENJjVGojwTQIOluUaJW53H040Gz3Vqm0o02btadmglHNVhhP23QIEHikOj8Ww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پیشتر گفته بودم در عصر اقتصاد دانش بنیان و هوش مصنوعی، تنگه بندی و راهزنی شاید در کوتاه مدت نتیجه بدهد اما در درازمدت نتیجه عکس خواهدداشت.  (به پست ریپلای شده که حدود ۲ سال پیش منتشر شده نگاه کنید)  اکنون این ویدیو را ببینید و دریابید که چطور بسته شدن باب…</div>
-<div class="tg-footer">👁️ 1.04K · <a href="https://t.me/SBoxxx/20924" target="_blank">📅 01:38 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/SBoxxx/20924" target="_blank">📅 01:38 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20923">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oqMHN51fYgxKmLB06ZA6T9JG7iaktaVJC4tzOZCNJxNCcB41YDr--4RoQpM5WoeCjO9evfH0SyDWZq4QhT0Bk0G9sLP9bctWaGpMQprrgKjNPxTPhcG_VBrXq1iswbOG65qf6Nr8hL7PX7cf5BwQrAoytmqq53cfhwGKru82FHD1F9rnswkZLA-WQhtuqPpZFk9cvf3Cg_9fYIUODRJ8h2NgNKpOsq563V1XlgmWZ1c9XZLZ9OX7AiuFFVYf9UxZWVNlZz6rjyQ_eSKYgNlQYBErJnRbfUE2f3WVx5jPVQqkEAtavsltxxA_MThrT3vhp2fMHLkfnpiVL9zkkglUrg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#FairValueCurve  نمایه ارزش منصفانه طلا نزدیک به سطح مناسب خرید عالی است و لذا پیشنهاد می شود برای امروز خریدها رو به پایین باشد.  بهترین محدوده خرید از 4280 تا 4250 می باشد.  نکته: معمولاً وقتی به سطح خرید منصفانه نزدیک می شود بعداً رشدهای خیلی خوبی داریم…</div>
-<div class="tg-footer">👁️ 1.86K · <a href="https://t.me/SBoxxx/20923" target="_blank">📅 00:31 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.37K · <a href="https://t.me/SBoxxx/20923" target="_blank">📅 00:31 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20922">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RsG2Bv0VpQovMiBazeo6-_fvnZH6hPgh9cGz0UJgOGfD9dDS2ys9PGFBpU-2hJjkF9TXE_XlyYH03mpqdTykAMHy-mcPGEwoSAyBbsLVmQfzOHr3SJMn46Jl9Z4G8bK-n0y0PQaXANggpLSlHSN9-J6bkaY3Sfd6wfGmMEG0XgWbN1GupEbhxI1J_7h7mvDMs2V4IkxhdhhThjo04Nc6EKSujpTW94uym9OLCvOxlJ4C9BXgX4fUwrrssFV-Tw_6LecvKbFuZxE94hKyUq5juoipjRX4U9T07TkknDFLJRdSKwd3ydW2sssCyZnJ9Wr4ZSPzDLns-PEMRhx0j3J6iA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Ali SharifAzadeh – GeoMarkets - Podcast 27</div>
-<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/SBoxxx/20922" target="_blank">📅 00:18 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.53K · <a href="https://t.me/SBoxxx/20922" target="_blank">📅 00:18 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20921">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f__S7kJaQRyxxp09rkmMhg1wKgYbH2cwEiGY2NcTcaCU_Hpi18PBG_tBhp4baA5uhwwDrqEDQa9-MHoMWCPh1MDrNj9qJGM51h3Hnju8jX-GBsSmaY2kMhISWAI64NuhoIOTRBSpYQUcNEugfuffr6jtAOwk9x5riXqgiVq9w4okKanNRTix__B9IeYwfoVw4LjAknIA5jyDudkgsoMIqPshvwwPyXEjJ49d1luWFnImaJFyJY8avdidYSuoGii5E0IQVCYo_isX-niZuMmXOsBAOllJspJ4oV0sWQu9cQt5Qu2oxq1M94xNpgoaikcGMKWo4TSlm9jPguVXL8NfUA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گویا امروز برای ادارات و نهادهای دولتی ابتدا کد 100 (تخلیه فوری) صادر شده و باعث ایجاد اخلال در کار ادارات شده و بعد از چند دقیقه وضعیت سفید اعلام شده و با اعلام کد 69 همه به سر کار همیشگی خود برگشته اند.</div>
-<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/SBoxxx/20921" target="_blank">📅 00:13 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.6K · <a href="https://t.me/SBoxxx/20921" target="_blank">📅 00:13 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20920">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">به گفته مقامات آمریکایی، دولت ترامپ در حال تدارک فروش بمب‌های ۲۰۰۰ پوندی به ارزش میلیاردها دلار به اسرائیل است؛ اقدامی که بزرگ‌ترین فروش یکجای این نوع مهمات بحث‌برانگیز در سال‌های اخیر محسوب می‌شود.</div>
-<div class="tg-footer">👁️ 3.73K · <a href="https://t.me/SBoxxx/20920" target="_blank">📅 22:07 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/SBoxxx/20920" target="_blank">📅 22:07 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20919">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">به گفته مقامات آمریکایی، دولت ترامپ در حال تدارک فروش بمب‌های ۲۰۰۰ پوندی به ارزش میلیاردها دلار به اسرائیل است؛ اقدامی که بزرگ‌ترین فروش یکجای این نوع مهمات بحث‌برانگیز در سال‌های اخیر محسوب می‌شود.</div>
-<div class="tg-footer">👁️ 4.19K · <a href="https://t.me/SBoxxx/20919" target="_blank">📅 21:00 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/20919" target="_blank">📅 21:00 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20918">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">عراقچی فردا به چین سفر می‌کند</div>
-<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/SBoxxx/20918" target="_blank">📅 19:17 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/20918" target="_blank">📅 19:17 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20917">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">آکسیوس:
 یک پهپاد آمریکایی پس از تلاش سپاه پاسداران برای توقیف یک پهپاد نیروی دریایی آمریکا، دو قایق کوچک ایرانی را در تنگه هرمز منهدم کرد و اکثر سرنشینان آن را کشت</div>
-<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/20917" target="_blank">📅 18:46 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/20917" target="_blank">📅 18:46 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20916">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">بارگیری نفت در ینبع، مهم‌ترین بندر عربستان سعودی در دریای سرخ، به دلیل حمله قبلی به خط لوله شرقی-غربی، متوقف شده است. (به نقل از خبرگزاری رویترز)</div>
-<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SBoxxx/20916" target="_blank">📅 18:33 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/20916" target="_blank">📅 18:33 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20915">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">بارگیری نفت در ینبع، مهم‌ترین بندر عربستان سعودی در دریای سرخ، به دلیل حمله قبلی به خط لوله شرقی-غربی، متوقف شده است. (به نقل از خبرگزاری رویترز)</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/20915" target="_blank">📅 18:30 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SBoxxx/20915" target="_blank">📅 18:30 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20914">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">#FairValueCurve  نمایه ارزش منصفانه طلا نزدیک به سطح مناسب خرید عالی است و لذا پیشنهاد می شود برای امروز خریدها رو به پایین باشد.  بهترین محدوده خرید از 4280 تا 4250 می باشد.  نکته: معمولاً وقتی به سطح خرید منصفانه نزدیک می شود بعداً رشدهای خیلی خوبی داریم…</div>
-<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/20914" target="_blank">📅 16:32 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/20914" target="_blank">📅 16:32 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20913">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">وزارت خارجه چین: «ما با هرگونه رقابت تسلیحاتی در فضا و همچنین هرگونه تلاش برای تسلیحاتی‌کردن فضا یا تبدیل آن به منطقه جنگی مخالفیم.   از آمریکا می‌خواهیم گسترش حضور و توان نظامی خود در فضا را متوقف کند و با اقدامات عملی، از ثبات راهبردی جهانی محافظت کند.»</div>
-<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/20913" target="_blank">📅 16:14 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/20913" target="_blank">📅 16:14 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20912">
@@ -377,43 +377,43 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jb7ZovA08FjrZON8WUL9rlWmpSmX74FSHvCcBpzoJEv4PSxsrAJPGILZp9yNBolM8m2sh9K66FfI_nrhuTv6B8T295Vh0UgwX0iXyEAs9uj_LizIPkoUeF9h_i-sDfWH1m_2OQCVJjmDeFL3Dm0sCennlqdDO1bpSQ8E8WdeTb4ZCPqFmJJ4rOquklfP6jjuynBkoehPvYOdEKs8ijtnqmqyRPvyyb9g8XG_LFFUDqGOypYUGVcbwTWAEqizqeBwXqv74Q5uopliInAP5iSdlL1IHly7Y558h12jvXHVxwcWhoKmdoqMDAMXoTKXJQo8WARmG95oN1HD7DFa6HJipg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 سخنگوی پویش جانفدا :  جان فدایان غیور صرفا برای اهداف نظامی به کارگیری نخواهند شد ، به زودی پیام های جدیدی را به این عزیزان تقدیم خواهیم کرد</div>
-<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/20912" target="_blank">📅 16:10 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/20912" target="_blank">📅 16:10 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20911">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">وزارت خارجه چین: «ما با هرگونه رقابت تسلیحاتی در فضا و همچنین هرگونه تلاش برای تسلیحاتی‌کردن فضا یا تبدیل آن به منطقه جنگی مخالفیم.   از آمریکا می‌خواهیم گسترش حضور و توان نظامی خود در فضا را متوقف کند و با اقدامات عملی، از ثبات راهبردی جهانی محافظت کند.»</div>
-<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SBoxxx/20911" target="_blank">📅 16:08 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/20911" target="_blank">📅 16:08 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20910">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">گمانه زنی هایی دال بر انهدام ماهواره چینی فعال در کمک اطلاعاتی به ایران از سوی نیروی فضایی آمریکا منتشر شده است.</div>
-<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SBoxxx/20910" target="_blank">📅 16:07 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SBoxxx/20910" target="_blank">📅 16:07 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20909">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">به نظرم بین اسراییل و ترکیه و پاکستان یک تورنمنت سه جانبه بگذارند ببینند کی می‌تواند برنده شده و بیشتر گاو شیرده حجاز و نجد را بدوشد!</div>
-<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SBoxxx/20909" target="_blank">📅 16:02 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/20909" target="_blank">📅 16:02 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20908">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">رسانه عبری والا به نقل از منابع:   تماس‌هایی میان عربستان و اسرائیل با میانجی‌گری فرمانده سنتکام انجام شده تا از طریق ارائه اطلاعات، به سعودی‌ها در دفاع از خود در برابر انصارالله کمک کنند</div>
-<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/SBoxxx/20908" target="_blank">📅 16:01 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SBoxxx/20908" target="_blank">📅 16:01 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20907">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">این هم پاسخ ترامپ به چموشی سعودی های مفلوک در نپیوستن به پیمان ابراهیم و در عوض دست نیاز پیش فاکستان ورشکسته و عثمانی مقروض دراز کردن!</div>
-<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SBoxxx/20907" target="_blank">📅 16:00 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SBoxxx/20907" target="_blank">📅 16:00 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20906">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">در سوریه با گران شدن سوخت، اعتراضات مردمی آغاز شده و آشوب ایجاد شده</div>
-<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/20906" target="_blank">📅 15:26 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/20906" target="_blank">📅 15:26 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20905">
@@ -429,40 +429,40 @@
 <div class="tg-text">#پادکست_GeoMarkets
 شماره — 27
 سه شنبه 15 سپتامبر  2026</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/20905" target="_blank">📅 13:05 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/20905" target="_blank">📅 13:05 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20904">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">گویا امروز برای ادارات و نهادهای دولتی ابتدا کد 100 (تخلیه فوری) صادر شده و باعث ایجاد اخلال در کار ادارات شده و بعد از چند دقیقه وضعیت سفید اعلام شده و با اعلام کد 69 همه به سر کار همیشگی خود برگشته اند.</div>
-<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SBoxxx/20904" target="_blank">📅 12:25 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SBoxxx/20904" target="_blank">📅 12:25 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20903">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">گمانه زنی هایی دال بر انهدام ماهواره چینی فعال در کمک اطلاعاتی به ایران از سوی نیروی فضایی آمریکا منتشر شده است.</div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SBoxxx/20903" target="_blank">📅 12:22 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/SBoxxx/20903" target="_blank">📅 12:22 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20902">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T1_6u1xqm-Q2HlH-4hBnIUS49B1WRsT5nvf4V5xB0TaD0hMSwJi1064VBa3i8Kq26SuyerBwhurDW8BTAdWaTcK1fvqmS8wvReg9CMAnJNPyQWgs8NnHQWjUQpv2RKLbvhymLLi_C7nclj8nL3yZTgYk3ClZl6FfiUX3xVGs0Fhd345K234Mhfe2Lxx0G-TBew1Jd_mno5oGvDDoNiqWaJRJbcu--F2T_6pfbAArdXnG5ymtRAJu-ty9m7HsxibgGKKGTcEINPLMoos00YTjIOPN75acKsANQF_zvZCOan9dOPR4ezjFyxyJ3SXzo_jvlN8f025JGVYlB1H6tUHvcA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گمانه زنی هایی دال بر انهدام ماهواره چینی فعال در کمک اطلاعاتی به ایران از سوی نیروی فضایی آمریکا منتشر شده است.</div>
-<div class="tg-footer">👁️ 5.07K · <a href="https://t.me/SBoxxx/20902" target="_blank">📅 12:10 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/SBoxxx/20902" target="_blank">📅 12:10 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20901">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cPDzmA_hnu5d7jaLH6Rp88R74kTaku1dWp8D92VpeL9Lh4eHmrnh0lf8AcWR6yZBk110EvYs2AwYIzqsJChuKrCmYwJP4CmQZu8iHJCJcyA05gXWS0b75wL2c7G3-Yi_oF19YVkFNyLb-VNWu0WqMrk9h4mXXQWneIpeDc4XXiRAoknyvfEEllS7pHzbdm7vvUU8Rm9_K8BBV-DITvsyAtpJMVCj-7I_pz29rlcD2Zkw8XZl-TnSiVRH_RvDANlkAvK5E2EekRLNe89S9H6SsT2YInUGmJmqzrc3Y6341Isxa8JKdqKKt7ylXIT8cVO2m36vqVSXiHRtMHrYpsCTKQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وال‌استریت ژورنال: کمک ماهواره‌ای چین به ایران  به گزارش «وال‌استریت ژورنال»، مقام‌های آمریکایی می‌گویند ایران پیش و پس از حمله موشکی ۱۷ ژوئیه به پایگاه «موافق‌السلطی» در اردن، از تصاویر ماهواره‌ای با وضوح بالا از منابع چینی استفاده کرده است.  در این حمله…</div>
-<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SBoxxx/20901" target="_blank">📅 11:56 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.24K · <a href="https://t.me/SBoxxx/20901" target="_blank">📅 11:56 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20900">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HHp1FGEld3iXbUs433VVLtpCl3sMJVtsZ_zm_NqNf_qMhHm7dljSKY56T947SEroZsxU0ZnbxeRu9qz4XXfFtZS20H9lb5tXI6jE0R8pDb4ywcppacpmeu0B2N6hMTyU6wFT6Ckz_IUEqUf9th6AekIRkyvuBxbyizjONo8Vu5xmwjNf85NfCYS8u1XnvuqCxSDrgK8F3bvavFqmOgHDX1wGnLeB21_zPgJ1zfKuO5zqyF-rdjrW3Hxj_OuE4X0fB5ltplKV0N72CWdbxl71zd2N7s_9C073FdX_kVgdC6kT0dO620VP0vor7_fYJbS6jldzY66e-e7tVcu8oZZ3Vw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#FairValueCurve  نمایه ارزش منصفانه طلا برای امروز در حال نزدیک شدن به محدوده تخفیف ویژه (پایین تر از ارزش ذاتی) است و هر چه به سطح 4290 نزدیک تر بشویم برای خرید مناسب تر است و تا زیر 4300 نرویم خرید منطقی نیست.</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/20900" target="_blank">📅 11:36 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SBoxxx/20900" target="_blank">📅 11:36 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20899">
@@ -472,7 +472,7 @@
 نمایه ارزش منصفانه طلا نزدیک به سطح مناسب خرید عالی است و لذا پیشنهاد می شود برای امروز خریدها رو به پایین باشد.
 بهترین محدوده خرید از 4280 تا 4250 می باشد.
 نکته: معمولاً وقتی به سطح خرید منصفانه نزدیک می شود بعداً رشدهای خیلی خوبی داریم و پیش بینی میکنم این هفته طلا سطح 4400 دلار را پس بگیرد.</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/20899" target="_blank">📅 11:24 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SBoxxx/20899" target="_blank">📅 11:24 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20898">
@@ -480,7 +480,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IZwVE6Gj8bw_KmPylRpTSaaGsoZl3AhLZOKwX3k7LLrysMFmmHjj2YtuZJXIE2f3fgFxb0WeRNjWTDvSam-LbgjiUyzc7rHEJlqeHVhDYMlQgCDsXi_CPdvVTWnS1XN1bFKlZjOCtI4Y2UGVOZF10agAOf7yMJrVwmehE90-1aNS6zFjWAeHI5o0Cyoi-4irC0hCW9pPMDU1xpM5-awSXXPFs8cpLLj9-zfiPYVUdxjsfbWu6MxZ0CwvYHg60v7y6aof2i4yHS0b0kzTINmAl2RKG846FBuIGxp-u_e8YhkL4Uo_b6wrhSo29LAkQxISeWid1XC_7jJApj0U4QiOfw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک + تقویم اقتصادی برای امروز در سطح نسبتاً بالایی است و احتمال فراوان هر بالایی فراتر از 4300 فروخته خواهدشد.</div>
-<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SBoxxx/20898" target="_blank">📅 11:21 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/20898" target="_blank">📅 11:21 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20897">
@@ -488,34 +488,34 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FoyffGNg-bna42I8pDn_AJLBfwd-XoNnNPdof_FT3Kz6w8ij2V97DUZ6qmXTX0P2OxaLS_cUmfgIWkXUVMm7AyeXq3Zz1ffHGQ9KPm-FBAZt7Uww2nCXUalLU3S9i1R4Cbf2-2Z7FeYZFw0a8My7ofVIBZ09TaV3aN2X1GdA1HXBpvcDz7ZlQKH0sIwE4gjbRf5wQqg_CAOXRp_WKSqUqYioWCNeNBbfZOqs9gMdlW_iM_mCA6-Nquf4OXvtbl9KKZ7-0UfoGy0xUC64sbS2RA1Z3nfx6j_7fwKNHyZdnBEnb1IptgAngibYE1wLFg-FrbWBc35Jn94SZd2ebXKkzw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حمله حوثی ها به عمق خاک عربستان در ۱۱۸۰ کیلومتری مرزهای یمن!
 و کماکان از متحدین پیمان مکه (عثمانی و فاکستان) خبری نیست!</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/20897" target="_blank">📅 09:57 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SBoxxx/20897" target="_blank">📅 09:57 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20896">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">جمعی از نمایندگان مجلس در بیانیه‌ای خواستار تجدید نظر عضویت ایران در NPT شدند</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SBoxxx/20896" target="_blank">📅 09:55 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/20896" target="_blank">📅 09:55 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20895">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">درخواست کمک عربستان از انگلیس برای حمله به یمن
 بعد از مخالفت آمریکا با حملۀ به یمن،‌ عربستان سعودی این‌بار از انگلیس خواست که در این کشور مداخله نظامی انجام دهد.</div>
-<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/20895" target="_blank">📅 09:40 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SBoxxx/20895" target="_blank">📅 09:40 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20894">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">یک بار از یکی پرسیدند تا حالا اتوبوس هل داده ای؟
 گفت نه ولی یک بار تو اتوبوس هل شدیم دادیم!</div>
-<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/SBoxxx/20894" target="_blank">📅 01:11 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/SBoxxx/20894" target="_blank">📅 01:11 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20892">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">آن‌قدر به ما گفتند ترامپ تاجر است که قبل از جنگ به آمریکا پیشنهاد همکاری ۵۰۰ میلیارد دلاری دادیم!
 - حسن قشقاوی، سخنگوی کمیسیون امنیت ملی مجلس</div>
-<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/SBoxxx/20892" target="_blank">📅 01:09 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SBoxxx/20892" target="_blank">📅 01:09 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20891">
@@ -526,7 +526,7 @@
 😀
 💙
 😀</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SBoxxx/20891" target="_blank">📅 00:12 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/SBoxxx/20891" target="_blank">📅 00:12 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20890">
@@ -535,27 +535,27 @@
 یک منبع یمنی وابسته به مزدوران سعودی اعلام کرد آمریکایی‌ها به عربستان سعودی در مورد مناطقی که مزدوران عربستان آن‌ها را از دست دادند و مشرف به باب‌المندب هستند، فشار می‌آورد تا این مناطق را پس بگیرند
 در پی این فشارها عربستان سعودی با کمک نظامیان آمریکایی در حال طرح ریزی حمله ای به مناطق تازه آزاد شده ساحل غربی با نیروهای سلفی و سایر مزدوران است
 این منبع اشاره کرد طبق دستور آمریکایی ها به بن سلمان این حمله بزودی آغاز می‌شود.</div>
-<div class="tg-footer">👁️ 5.07K · <a href="https://t.me/SBoxxx/20890" target="_blank">📅 23:22 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SBoxxx/20890" target="_blank">📅 23:22 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20889">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">پزشکیان:
 برخی کشورها در خفا به ما می‌گویند ما با شما هستیم اما در عمل از آمریکا حساب می‌برند و جرئت همراهی با ما را ندارند</div>
-<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/SBoxxx/20889" target="_blank">📅 22:49 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SBoxxx/20889" target="_blank">📅 22:49 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20888">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">پزشکیان:
 آمریکا چون نمی‌تواند رهبر ما را پیدا کند درباره سلامتی ایشان شایعه می‌سازد</div>
-<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/SBoxxx/20888" target="_blank">📅 22:42 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/20888" target="_blank">📅 22:42 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20887">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">نیروی دریایی سپاه پاسداران ایران اعلام کرد که نفتکش غول‌پیکر «ال‌گایا» (EL GAIA) هنگام تلاش برای عبور از یک «منطقه ممنوعه» در بخش جنوبی تنگه هرمز، با یک مین دریایی برخورد کرده است.  سپاه پاسداران می‌گوید تلاش‌ها برای مهار آتش‌سوزی ناشی از این حادثه بی‌نتیجه…</div>
-<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SBoxxx/20887" target="_blank">📅 22:35 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/SBoxxx/20887" target="_blank">📅 22:35 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20886">
@@ -563,31 +563,31 @@
 <div class="tg-text">نیروی دریایی سپاه پاسداران ایران اعلام کرد که نفتکش غول‌پیکر «ال‌گایا» (EL GAIA) هنگام تلاش برای عبور از یک «منطقه ممنوعه» در بخش جنوبی تنگه هرمز، با یک مین دریایی برخورد کرده است.
 سپاه پاسداران می‌گوید تلاش‌ها برای مهار آتش‌سوزی ناشی از این حادثه بی‌نتیجه مانده و این نفتکش اکنون کاملاً در آتش می‌سوزد.
 آن‌ها تأکید کردند که تنگه هرمز همچنان بسته و «تحت کنترل هوشمند» آن‌ها قرار دارد.</div>
-<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SBoxxx/20886" target="_blank">📅 22:35 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SBoxxx/20886" target="_blank">📅 22:35 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20885">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">گاردین: طبق گزارش ها نخست وزیر بریتانیا در حال بررسی اعزام ناو های جنگی برای حمله به حوثی ها در کمک به عربستان سعودی می‌باشد</div>
-<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SBoxxx/20885" target="_blank">📅 22:12 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/SBoxxx/20885" target="_blank">📅 22:12 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20884">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">روسیه و اوکراین دارند با پیشنهاد ترامپ برای تعهد به نزدن تاسیسات انرژی یکدیگر موافقت می‌کنند</div>
-<div class="tg-footer">👁️ 5.07K · <a href="https://t.me/SBoxxx/20884" target="_blank">📅 19:59 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SBoxxx/20884" target="_blank">📅 19:59 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20883">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">#FairValueCurve  نمایه ارزش منصفانه طلا برای امروز در حال نزدیک شدن به محدوده تخفیف ویژه (پایین تر از ارزش ذاتی) است و هر چه به سطح 4290 نزدیک تر بشویم برای خرید مناسب تر است و تا زیر 4300 نرویم خرید منطقی نیست.</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SBoxxx/20883" target="_blank">📅 19:56 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/20883" target="_blank">📅 19:56 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20882">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">ادعای ترامپ:   ایران به شدت می‌خواهد در سریع‌ترین زمان ممکن توافق کند.  من تعیین خواهیم کرد که آیا وارد مذاکره خواهیم شد یا خیر، و این گزینه‌ای است که نسبت به آن پذیرا هستیم.</div>
-<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SBoxxx/20882" target="_blank">📅 19:55 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SBoxxx/20882" target="_blank">📅 19:55 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20881">
@@ -595,58 +595,58 @@
 <div class="tg-text">ادعای ترامپ:
 ایران به شدت می‌خواهد در سریع‌ترین زمان ممکن توافق کند.
 من تعیین خواهیم کرد که آیا وارد مذاکره خواهیم شد یا خیر، و این گزینه‌ای است که نسبت به آن پذیرا هستیم.</div>
-<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/SBoxxx/20881" target="_blank">📅 19:08 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.43K · <a href="https://t.me/SBoxxx/20881" target="_blank">📅 19:08 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20880">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">محاصره اقتصادی | فعال شدن گروه های جدایی خواه</div>
-<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SBoxxx/20880" target="_blank">📅 19:01 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/20880" target="_blank">📅 19:01 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20879">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">اینها تغییرات بسیار بزرگی هستند اگر خوب دقت کنید.</div>
-<div class="tg-footer">👁️ 5.07K · <a href="https://t.me/SBoxxx/20879" target="_blank">📅 17:47 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SBoxxx/20879" target="_blank">📅 17:47 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20878">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">ادعای یک‌فعال رسانه‌ای: قالیباف کنار رفت!  محمد مخبر به عنوان نماینده‌ی ویژه ایران و چین منصوب شد.</div>
-<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/SBoxxx/20878" target="_blank">📅 17:46 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SBoxxx/20878" target="_blank">📅 17:46 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20877">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WUmiRZpt87iu5sIywX5eQ-OggQpOGJLLRivoSfoTTxEL43IxZuc0dmg5lRcl5cTlxJzNxzB55039f7Bj67tWgOszBO60zFp40TWG88OQwXYTqNs0HbklWWVVAqWahySs1x1bcqFgco_DEY7BCLT1uZuny0TevZWeas0ZG0Upueszz6HE6wT64yCCrEKJYcMRpQQV0-YbeozFY6LeAnNKNQkb9w0yCUoMAWs2y4KF-HzijJmQZ8_o4Adu7HNsi0sAI8d-CbHgIhspfNSi92DLqqiJx8tIi3MlZESPSGT1iDJa6LPGUsCXfGlBUhXsBl2ZYdf5GxYKc2SvomzrGhiZ9w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پیروزی احتمالی دموکرات ها در انتخابات میان دوره ای نوامبر عملا مبتنی بر یک سنت تاریخی است که در دهه های گذشته بارها و بارها تکرار شده است</div>
-<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/SBoxxx/20877" target="_blank">📅 17:03 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/SBoxxx/20877" target="_blank">📅 17:03 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20876">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WlUxAN445pwLWimD67lInylmFfQwY4MdfdsnyuOJ5cNnQlZ25WPDLqI0Erbhd_3_v1FJyslgNX8gRKzbvCJvj3c2uCHAZMHitaB04haf7ABH1QtDeFf4mqd3HiN4LlA1nYF43qGFo9Kc56SdUMuf0YTnk_IkhTKjzOkMQhYaURHBr9m3ZotYv_FvojI-RKcQ21vQhHgz5UuiQe0Gr_72DG_bgS-EvIWdU5y0moK-LoMn_zh2FFq3OFIVU-QShrMzozwYNC4YL4ZNwo0ULNbcwN9lW0TvYWPRJnwCnFnwyQ5g9feoYE43wW1NorL9AIBNSYkxkzcVozrdGDlrGPraKw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ای ارواح عمه ات پاوول دوروف !</div>
-<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/20876" target="_blank">📅 13:40 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SBoxxx/20876" target="_blank">📅 13:40 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20875">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">ای ارواح عمه ات پاوول دوروف !</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SBoxxx/20875" target="_blank">📅 13:31 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SBoxxx/20875" target="_blank">📅 13:31 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20874">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/l98m2HR_lhAHvOJdHFNStTgdnc4Ercusbt4dsRXFn1roERL4p15aYMejR8nQGt-5qVQtlYN3wqSzNCPWZxcPlG0_Ar6Vk-baXcZSe7BXHqdkM3qq3YQ6ruBBaP7SwUh6JMGHR3gy0j97TcdmP4AuCAE4BEBavlTGVFHmyMZBCWU1bQwq62kSjY2tdfM49pdvrrqb9B02huZ3sIewk5zeJOH-0Lj0fU2n30F3FC3NQ3qMjDvCuCS6hyDx8Wf0aCnYeb2lLLl4QS-Iq_WgYWo_FRPus_TABImjCpKNR_exg_SV3boAx7XwLWxG4RYp7mUK4N8v24EwQ0W4vHGappU2Zg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ای ارواح عمه ات پاوول دوروف !</div>
-<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/20874" target="_blank">📅 13:03 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SBoxxx/20874" target="_blank">📅 13:03 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20873">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">یک آوانس برای براکصه در آستانه سفر رهبر چین به آمریکا</div>
-<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SBoxxx/20873" target="_blank">📅 11:55 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SBoxxx/20873" target="_blank">📅 11:55 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20872">
@@ -654,36 +654,36 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Yn-DBL9Zwv2ZXhAryt8uMXdzk-Hn_-JSam1l-ekaOPqu0-XUppaCfNUFknBEZaQYAaRjXG4Gj3EkIr1PfdchiUIG7ecCh5aXmAlgmbWO0Wmvbq7aWm3I6D27Ytt-T8LL56YOR_ltKFrCvtJu4Vb52Ipx9l8q4mQLwT1VvgFFO0GO-63OsIyqLbHbvsKrMFzqe2f_c99VE9jxAkCL6Zzt-Gi-f7Mlrmp8hRPPRTFZ_LgypljNDRhzc3vx0D30lcna82oQwSPElNRXkL3jxfjd4yMcjydyo0A6XdHNFvC2qbpcGQ-KukxMbzRAouUb3imW-y2gQSyjzOIe5olAsFuDvQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#FairValueCurve
 نمایه ارزش منصفانه طلا برای امروز در حال نزدیک شدن به محدوده تخفیف ویژه (پایین تر از ارزش ذاتی) است و هر چه به سطح 4290 نزدیک تر بشویم برای خرید مناسب تر است و تا زیر 4300 نرویم خرید منطقی نیست.</div>
-<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SBoxxx/20872" target="_blank">📅 11:50 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/20872" target="_blank">📅 11:50 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20871">
 <div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sv7J_iNuzNJbg7VdoUHXmWXl6MS8Qqn8uDQkMrOvRTXPUeoIhuAmXYtMyIArX3BxEmMmewDLS8QD469t53h4jdoJeGjsc52wOUkdeX9_drjj3NHfLu2uDV40k68wTJD5n6MiGX_l4lynIdAvzIB2N3_7OSHXklGGFdVxeTBnt8MhFeGBXKzilpYct0zPCsVqQVDBcNgpnk7w0Co002kCCP6FpNFBoRq1DY_ACYX-SkqTBF4GPSaWOLLEXU99EY0hVvlUAYlZOyzEeBhPoUojlVU3LJrchSiIMDI_7n26mvT6VN-P86qD78cYLJMXJ5mBmSKkACxuAe-AGQQVNbYZ-w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fl6ybTblwK32J5qDUBtdPWRJJUOrW9jGyREwKVUqd-f-X0t7DvkIeF4V8lQA7bZ5q3zLbEbAolh7WRR4Ubphalz1JKJunz8ZqZeCWlkj_pMPC24b4Ttd6Rhi7Puhiis4O-qvVMYv0QEeyMiqbAOphGmSdt54ReocKrtbHBBHhZTQ8mUIP5vpEHGMZRbD5KZJNyrF5Fj3iADYzuq-E0QentphMwF1VSEPzHfTLRmXnlqrKK5LFIuQA2jQFccAVde9JGxPr1CQXqLU_rkUMPJ_MB66f7LKkQhai5pGv3atK21-FZgaCpkWSW04uy5Qh6YnFNrKvjpE7lD-L4lJihZw1w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک + تقویم اقتصادی برای امروز در سطح میانه ای است و نظر به ریزش طلا تا الان، انتظار یک اصلاح صعودی می رود.
 دقت کنید که رشد طلا «اصلاحی» قید شده.</div>
-<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SBoxxx/20871" target="_blank">📅 11:49 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5K · <a href="https://t.me/SBoxxx/20871" target="_blank">📅 11:49 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20870">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">📌
 جنگ هرمز و باب‌المندب؛ آیا ایران در حال فرسایش مالی دولت‌های غربی است؟  اختلال در تنگه هرمز و افزایش فشار بر باب‌المندب می‌تواند با بالا نگه داشتن قیمت انرژی، تورم و نرخ بهره را تشدید کرده و هزینه تأمین مالی دولت‌های غربی را افزایش دهد؛ در نتیجه، جنگ از…</div>
-<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SBoxxx/20870" target="_blank">📅 11:47 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/SBoxxx/20870" target="_blank">📅 11:47 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20869">
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">ادعای یک‌فعال رسانه‌ای: قالیباف کنار رفت!  محمد مخبر به عنوان نماینده‌ی ویژه ایران و چین منصوب شد.</div>
-<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SBoxxx/20869" target="_blank">📅 11:27 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/SBoxxx/20869" target="_blank">📅 11:27 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20868">
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">ادعای یک‌فعال رسانه‌ای: قالیباف کنار رفت!
 محمد مخبر به عنوان نماینده‌ی ویژه ایران و چین منصوب شد.</div>
-<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/SBoxxx/20868" target="_blank">📅 11:27 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/SBoxxx/20868" target="_blank">📅 11:27 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20867">
@@ -697,13 +697,13 @@
 برندگان مستقیم این سناریو، تولیدکنندگان خارج از منطقه خلیج فارس هستند؛ به‌خصوص تولیدکنندگان آمریکای شمالی، کانادا و برخی تولیدکنندگان آمریکای لاتین. شرکت‌هایی مانند ExxonMobil، Chevron، ConocoPhillips، Canadian Natural Resources، Suncor، Cenovus، Petrobras و Occidental می‌توانند از افزایش قیمت جهانی نفت و کاهش وابستگی بازار به نفت خلیج فارس منتفع شوند.
 در طرف مقابل، خود عربستان با یک تناقض استراتژیک مواجه می‌شود. افزایش شدید قیمت نفت از یک سو ارزش هر بشکه صادراتی را بالا می‌برد، اما اگر نفت فیزیکی امکان خروج از کشور نداشته باشد، افزایش قیمت نمی‌تواند به‌طور کامل زیان ناشی از کاهش حجم صادرات را جبران کند. فشار بر درآمدهای دولت، پروژه‌های Vision 2030، پیمانکاران و بانک‌های داخلی نیز در چنین شرایطی افزایش خواهد یافت.
 اهمیت ناوگان نفتکش‌ها و مسیر SUMED نیز در چنین وضعیتی افزایش می‌یابد. در صورت بسته‌شدن مسیرهای سنتی، دسترسی به مسیرهای جایگزین و ظرفیت حمل‌ونقل دریایی می‌تواند به یک عامل استراتژیک تبدیل شود و نرخ حمل نفتکش‌های بزرگ، به‌ویژه VLCC و Suezmax، را به‌شدت تحت تأثیر قرار دهد.</div>
-<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SBoxxx/20867" target="_blank">📅 10:40 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SBoxxx/20867" target="_blank">📅 10:40 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20866">
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">رقابت عظیمی میان ترکیه با اسرائیل برای ایجاد هژمونی در غرب آسیا شکل گرفته که بجز جنگ با ابزار دیگری حل نخواهدشد.  بزودی در قفقاز هم شاهد تحولاتی خواهیم بود که نقش و جایگاه کشورها را عوض خواهدکرد.   اسرائیل به شکل هوشمندانه ای از دهه ها سرکوب اقلیت های قومی…</div>
-<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/20866" target="_blank">📅 10:14 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/20866" target="_blank">📅 10:14 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20865">
@@ -714,7 +714,7 @@
 این محدودیت فراتر از خلیج فارس در حال گسترش است. نرخ نفتکش‌های غرب آفریقا به ۴۱۱۰۰۰ دلار در روز رسیده است که در یک ماه ۲۸۰ درصد افزایش یافته است، زیرا سفرهای طولانی‌تر اقیانوس اطلس به آسیا کشتی‌ها را متوقف می‌کند.
 موسسه لویدز می‌گوید که خرید مجدد نفت خام چین، ترانزیت‌های خطرناک تنگه هرمز و راهکارهای ناکارآمد فزاینده - که اکنون با تعطیلی خط لوله شرق-غرب عربستان سعودی بدتر شده است - عرضه نفتکش‌های موجود را بیشتر محدود می‌کند.
 با توجه به اینکه حاشیه سود پالایش هنوز به طور غیرمعمولی بالاست، اجاره‌کنندگان تاکنون می‌توانند شوک حمل و نقل را تحمل کنند. دلالان می‌گویند هنوز "سقف مشخصی" وجود ندارد.</div>
-<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SBoxxx/20865" target="_blank">📅 09:57 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SBoxxx/20865" target="_blank">📅 09:57 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20864">
@@ -725,7 +725,7 @@
 این خط لوله پیش از حمله پهپادها که منجر به توقف آن شد، حدود ۴ میلیون بشکه در روز به ینبع منتقل می‌کرد.
 منابع صنعتی می‌گویند ینبع در حال حاضر فقط مقدار کافی نفت در انبار برای حفظ صادرات به مدت پنج تا هفت روز دارد.
 این منبع زمان مورد نیاز برای تعمیرات را فاش نکرده است؛ برآوردهایی که رویترز به آن‌ها استناد کرده، از راه‌اندازی مجدد جزئی در زمان زودتر تا ۵ یا ۶ هفته طول می‌کشد.</div>
-<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/SBoxxx/20864" target="_blank">📅 09:41 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.47K · <a href="https://t.me/SBoxxx/20864" target="_blank">📅 09:41 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20863">
@@ -734,13 +734,13 @@
 <div class="tg-text">وزیر امور خارجه عمان پرچم  شیر خورشید ایران رو گذاشت
 😁
 @Piknikanalyst</div>
-<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/SBoxxx/20863" target="_blank">📅 00:59 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/SBoxxx/20863" target="_blank">📅 00:59 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20862">
 <div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">نشست فردای ایران، عمان و کشورهای عربی سر تنگه هرمز فعلا لغو شد</div>
-<div class="tg-footer">👁️ 5.73K · <a href="https://t.me/SBoxxx/20862" target="_blank">📅 23:32 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/SBoxxx/20862" target="_blank">📅 23:32 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20861">
@@ -757,13 +757,13 @@
 پرچم  شیر خورشید ایران رو گذاشت
 😁
 @Piknikanalyst</div>
-<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SBoxxx/20860" target="_blank">📅 23:02 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SBoxxx/20860" target="_blank">📅 23:02 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20859">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">توافق ایران و عمان برای تنگه هرمز به معنای باز شدن خودکار تنگه نخواهد بود   منبعی نزدیک به تیم مذاکره‌کننده ایرانی به تسنیم گفت: درک چارچوبی در مورد مسیرهای کشتیرانی «به زودی اعلام خواهد شد»، اما «فقط» بین این دو کشور است و مسیر جنوبی هرمز را بسته نگه می‌دارد.…</div>
-<div class="tg-footer">👁️ 5.83K · <a href="https://t.me/SBoxxx/20859" target="_blank">📅 22:51 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.84K · <a href="https://t.me/SBoxxx/20859" target="_blank">📅 22:51 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20858">
@@ -859,7 +859,7 @@
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">پزشکیان:
 نمی‌دانم مشکل آنچه در پاکستان نوشتیم چیست که آمریکا می‌خواهد از نو گفت‌و‌گو کنیم</div>
-<div class="tg-footer">👁️ 5.8K · <a href="https://t.me/SBoxxx/20849" target="_blank">📅 12:10 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.81K · <a href="https://t.me/SBoxxx/20849" target="_blank">📅 12:10 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20848">
@@ -886,14 +886,14 @@
 <div class="tg-text">معاون وزیر خارجه یونان:
 ترکیه و همه در منطقه می‌دانند که یونان کشوری بسیار قوی است که جایگاه بسیار بزرگی ژئوپلیتیکی، دیپلماتیک و نظامی کسب کرده است.
 و من مطمئنم که هیچ‌کس هرگز این قدرت‌های یونان را آزمایش نخواهد کرد.</div>
-<div class="tg-footer">👁️ 5.66K · <a href="https://t.me/SBoxxx/20845" target="_blank">📅 00:39 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.67K · <a href="https://t.me/SBoxxx/20845" target="_blank">📅 00:39 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20844">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/N2RsLCv4XEGb7a4vidAA8lXegR5UpnRGXIrEMFY7W39a5P7xgNzsZq9bfSTrzj3QxUYZ_2UcZx-jw9V9HcstqfgRkXvtFXyf5m9ba7FnKUVDwVkhhzMRYDpeS9h19pHLXMg4yPm1guYtnJ1CAakkg1495S_uTGQLzyy61GNeH-nnVdKwBsO5gmCILLhrquXY8OQ929LEDHi6x31yt7Cto8AEhbxkeuZskHXdmQ-mA8G815I3FaV8TDIOPdQDA_mGF7-g-DNMAcAfO2mmbrBX8rx1EFngMcvTxw5MsHVWx2WzvpBJiTs8o67Hh-DHvMB98zILt2RFSnqM9IelrF88Dg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وضعیت پیمان مکه!</div>
-<div class="tg-footer">👁️ 5.83K · <a href="https://t.me/SBoxxx/20844" target="_blank">📅 00:10 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.84K · <a href="https://t.me/SBoxxx/20844" target="_blank">📅 00:10 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20843">
