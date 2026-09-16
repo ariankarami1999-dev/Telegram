@@ -292,13 +292,13 @@
 <a href="https://t.me/MatinSenPaii" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)•YouTube:http://www.youtube.com/@Matin_SenPai•Github:https://github.com/MatinSenPai</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-25 02:03:36</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-25 04:24:08</div>
 <hr>
 
 <div class="tg-post" id="msg-5258">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">شاید که به کار آید https://eseminar.tv/wb182503</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/MatinSenPaii/5258" target="_blank">📅 17:12 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/MatinSenPaii/5258" target="_blank">📅 17:12 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5257">
@@ -307,7 +307,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FISAJx-l7Ghe1RPYuC6Eq9kGG1jTBPHkDkX246Hu8fbzHUSlqh_U0HHP9JdcLloFfgzRslw9ImXTGULx_1H7bfRTIF8YGQeipjDvaJAdQHySw_dzkpWVoI2Ia2hHXkGFwMTkzqu02NlYugfmA5zcN6Zcm6fAfI4SLdRm0sMRMI5ce1CeZE0gjRd1oiAB4_sRu0FuBf7tLXxKAuiQA5vhswgVU3fnN_AhNvx7wTKRObyW4QG2aXEGg3jIFx9iMKoYGZa3_BiHnx82T4lA93XV3jan6CPFT1Mq2uhlqRQgvQ8DoR6lm37ftHn0ekGlLnIyHWw8y1Cj2BnRmv5U40wnOw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شاید که به کار آید
 https://eseminar.tv/wb182503</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/MatinSenPaii/5257" target="_blank">📅 17:12 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/MatinSenPaii/5257" target="_blank">📅 17:12 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5256">
@@ -358,7 +358,7 @@ Antigravity Account Switcher
 می‌توانید زیر ۳ ثانیه و با ۱ کلیک بین اکانت‌هایتان سوییچ کنید:
 https://github.com/m4tinbeigi-official/antigravity-account-switcher
 @antigravity_iran</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/MatinSenPaii/5256" target="_blank">📅 11:35 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/MatinSenPaii/5256" target="_blank">📅 11:35 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5255">
@@ -378,7 +378,7 @@ npx skills add https://github.com/mattpocock/skills --skill to-spec
 لینک
 💬
 به‌خصوص اگه دارید با روشی که دیروز توی ویدیو درباره Spec Kit گفتم کار می‌کنید، این می‌تونه یک راه خوب برای تبدیل گفتگوهای اولیه‌تون با Agent به نقطه شروع یک Spec تمیز باشه.</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/MatinSenPaii/5255" target="_blank">📅 09:26 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/MatinSenPaii/5255" target="_blank">📅 09:26 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5254">
@@ -393,19 +393,19 @@ npx skills add https://github.com/mattpocock/skills --skill to-spec
 https://github.com/thesysdev/openui
 ✍️
 CallMeDiegoJr</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/MatinSenPaii/5254" target="_blank">📅 00:17 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/MatinSenPaii/5254" target="_blank">📅 00:17 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5253">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">آموزش خرید اشتراک Claude Pro با ویزاکارت شخصی و ایمیل خودتون  من امروز تجربه‌ام رو از خرید اشتراک کلاد پرو می‌خوام باهاتون در میون بذارم، که چطوری خیلی راحت و بدون نگرانی بتونید با پرداخت کریپتو روی ایمیل خودتون فعالش کنید. یکی از دوستانم دو ماهه و خودم هم…</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/MatinSenPaii/5253" target="_blank">📅 23:37 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/MatinSenPaii/5253" target="_blank">📅 23:37 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5252">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">خب ته و توش رو در آوردم، این دوستمون یه یوتیوبر/برنامه‌نویس به اسم Matthew Miller هستش و یه چالش جالب شروع کرده: «انقدر Vibe Coding می‌کنم تا به درآمد سالانه 1 میلیون دلار برسم.» طرف تقریبا هر روز لایو می‌ره و جلوی بقیه روی محصول خودش به اسم BridgeMind کد…</div>
-<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/MatinSenPaii/5252" target="_blank">📅 22:22 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/MatinSenPaii/5252" target="_blank">📅 22:22 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5251">
@@ -413,7 +413,7 @@ CallMeDiegoJr</div>
 <div class="tg-text">وایب کد کردن یه اپ تا زمانی که 1 میلیون دلار در بیاریم: تا الان 237 هزار دلار arr داریم
 🤡
 برم ببینم پسره چه رمزی زده، میام بهتون می‌گم</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/MatinSenPaii/5251" target="_blank">📅 21:19 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/MatinSenPaii/5251" target="_blank">📅 21:19 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5250">
@@ -422,13 +422,13 @@ CallMeDiegoJr</div>
 <div class="tg-text">وایب کد کردن یه اپ تا زمانی که 1 میلیون دلار در بیاریم: تا الان 237 هزار دلار arr داریم
 🤡
 برم ببینم پسره چه رمزی زده، میام بهتون می‌گم</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/MatinSenPaii/5250" target="_blank">📅 20:42 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/MatinSenPaii/5250" target="_blank">📅 20:42 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5249">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">شرایط اقتصادی رو درک میکنم ولی دنبال توکن مفت و ارزون می‌گردین خیلی حواستون باشه.  بالای ۹۰ درصد سرویس‌هایی که توکن مجانی یا ارزون میدن و اتفاقاً مصرف بالایی هم دارند شدیداً مشکوکن.  یادتون باشه دارین محیط اجرای ایجنت‌تون رو به این ارائه‌دهنده‌های inference…</div>
-<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/MatinSenPaii/5249" target="_blank">📅 17:41 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/MatinSenPaii/5249" target="_blank">📅 17:41 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5248">
@@ -440,7 +440,7 @@ CallMeDiegoJr</div>
 اگه نمی‌تونین توضیح بدین یه سرویس چطور می‌تونه توکن رو این‌قدر ارزون بفروشه، سمتش نرین.
 ✍️
 PsyopBaz</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/MatinSenPaii/5248" target="_blank">📅 17:32 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/MatinSenPaii/5248" target="_blank">📅 17:32 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5247">
@@ -491,14 +491,14 @@ PsyopBaz</div>
 حتی اگه برنامه‌نویس نیستید، ولی با کمک AI ایده‌هاتون رو می‌سازید، پیشنهاد می‌کنم یه نگاهی به این ویدیو بندازید. با یک مثال عملی بررسی می‌کنیم که وقت گذاشتن برای روشن کردن خواسته‌ها، چه تفاوتی با شروع مستقیم از «کد بزن» داره.
 ⏯️
 تماشا ویدیو در یوتیوب</div>
-<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/MatinSenPaii/5242" target="_blank">📅 23:10 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/MatinSenPaii/5242" target="_blank">📅 23:10 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5241">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">خوش‌شانس بودم که آدم‌های خوبی رو توی زندگیم پیدا کردم. کسایی که با خوشحالی من خوشحال می‌شن و توی غمم شریکن. کسایی که چند ماه هم باهاشون صحبت نکنم، میدونم از صمیمیت بینمون کم نشده. برای همه‌تون، همچین خانواده و دوست‌هایی رو آرزو می‌کنم
 ❤️</div>
-<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/MatinSenPaii/5241" target="_blank">📅 22:32 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/MatinSenPaii/5241" target="_blank">📅 22:32 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5240">
@@ -515,7 +515,7 @@ PsyopBaz</div>
 🗃️
 مرسی بابت تبریکاتون
 ❤️</div>
-<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/MatinSenPaii/5239" target="_blank">📅 00:32 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/MatinSenPaii/5239" target="_blank">📅 00:32 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5238">
@@ -561,7 +561,7 @@ PsyopBaz</div>
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AN8oI2FZCQNrDNxjnvdQyQZzwdNxLkKW5cs7GkywofBBf0IXIlzr4avk3CnhP7N_Wfxw634XdoguCL3Vt8e-9l8v0QPK5acMCmIPNqZMqJFs3Rnx6AQ1Tj1YM7GUYr7wFYqzCfJH46g2IdDGA87uuZRi8JWaopr4Hli0CtX2OdpOscqOtSwdvn4QCD9oLjt0m-jbZcOHXoaCXKGKyslGXbIfQKtTyXCgHUcnz0HgF3VzaCVUKXAJKY1h05ce-Utqy2_x7ytfRAYs5X2lzmpAk4qFONpWDyAx12CjdN8rWZ6LlriwsWAEDaRApeAo9YyPJ28oVvkwwFLJgn9V8hLTuA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از طریق سایت Freestyle.sh می‌تونید یک سرور رایگان بسازید؛ فقط کافیه اطلاعات حساب‌تون رو وارد کنید. هیچ هزینه‌ای از شما کسر نمی‌شه.  برای ساخت حساب مجازی هم می‌تونید از طریق MPay اقدام کنید.  مشخصات سرور رایگان:  RAM: ۸ گیگابایت HDD: ۳۲ گیگابایت CPU: ۴ هسته…</div>
-<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/MatinSenPaii/5234" target="_blank">📅 00:58 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/MatinSenPaii/5234" target="_blank">📅 00:58 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5233">
@@ -582,7 +582,7 @@ CPU: ۴ هسته مجازی
 🚀
 من روش هرمس نصب کردم
 👀</div>
-<div class="tg-footer">👁️ 36K · <a href="https://t.me/MatinSenPaii/5233" target="_blank">📅 00:43 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/MatinSenPaii/5233" target="_blank">📅 00:43 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5232">
@@ -611,7 +611,7 @@ CPU: ۴ هسته مجازی
 </div>
 <div class="tg-text">راجب این ویدئو که فکر کنم مال نیم‌چت پادکسته، حرف‌های زیادی دارم که بزنم.
 اما اکثر صحبتا نه کاملا غلطه نه کاملا درست</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/MatinSenPaii/5230" target="_blank">📅 23:51 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/MatinSenPaii/5230" target="_blank">📅 23:51 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5229">
@@ -691,7 +691,7 @@ callitVer1</div>
 برای ما Patreon کمک می‌کنه این کار رو پایدارتر ادامه بدیم: سرورهای بیشتری داشته باشیم، کاربران بیشتری رو پوشش بدیم و روی WhiteDNS و محصولات بعدی‌مون وقت بیشتری بذاریم.
 اگر دوست دارید از اینترنت آزاد حمایت کنید، خوشحال می‌شیم کنارمون باشید:
 https://patreon.com/cw/WhiteDNS</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/MatinSenPaii/5224" target="_blank">📅 17:13 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/MatinSenPaii/5224" target="_blank">📅 17:13 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5223">
@@ -747,7 +747,7 @@ https://www.anthropic.com/threat-intelligence-report-september-2026</div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/i4vpFoy_FhpHwqZ0As7IiDbJAALSd5AwgcAb4fG-iRUKgcPvWVYZaLNhIZZ3JXiiWdnH1LZmxdnHElwQ_rkK8ozxiv_aJnh0gJEMj1jdiLRch3soH-qGcg_eqbvtkyGfz4yufSjBPFaldtx2UYL-ZrZlmqzr1F7ajZru__7HKEtV9o7Fbufn9UiblhJb4VxqZTpKOLej29CyW3s7DkYNB4O3XkVyQwRITy8osSZ2g9891dUxu1fXJdkUkxFRGuMbCPkvs5e7aUVYqGeI9QIcHUm99nJ0JNoD6wk8qnfdqVS21Dv-ozdKks0JytKovNCOVIRPygK5B6HBmi5gwwwtOA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">من نصبش کردم. باحاله و تمام اپ‌های گوگلم رو کانکت کرد. چند ساعت بعد واسم می‌چینه و بهتون نشون میدم</div>
-<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/MatinSenPaii/5217" target="_blank">📅 12:45 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/MatinSenPaii/5217" target="_blank">📅 12:45 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5215">
@@ -869,7 +869,7 @@ t.me/MatinSenPaii</div>
 Pelican comparison
 روی مدل‌های GPT به علاوه‌ی هزینه‌شون.
 هزینه‌ی Astra تقریبا پنجاه برابر Lunaست</div>
-<div class="tg-footer">👁️ 52.2K · <a href="https://t.me/MatinSenPaii/5205" target="_blank">📅 00:41 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 52.3K · <a href="https://t.me/MatinSenPaii/5205" target="_blank">📅 00:41 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5204">
@@ -964,7 +964,7 @@ https://deusdata.github.io/codebase-memory-mcp/
 <div class="tg-post" id="msg-5198">
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">البته اگر می‌خواید برنامه‌نویس بشید توی ایران اول از همه بهتون تبریک میگم که با دلار ۲۲۵ هزار تومنی و بدبختی اینترنت و نامعلوم بودن آیندمون و جنگ و اقتصاد و فلاکت و بدبختی تصمیم گرفتید توی این حوزه قدم بذارید و شجاعت به خرج بدید</div>
-<div class="tg-footer">👁️ 46.1K · <a href="https://t.me/MatinSenPaii/5198" target="_blank">📅 16:16 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 46.2K · <a href="https://t.me/MatinSenPaii/5198" target="_blank">📅 16:16 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5197">
@@ -984,7 +984,7 @@ https://deusdata.github.io/codebase-memory-mcp/
 توی این ویدیوی کوتاه، خیلی کلی درباره‌ی دیدگاهم، دلیل ساختن این کانال و مسیری که قراره با هم جلو بریم صحبت می‌کنم.
 📹
 تماشا ویدیو از یوتیوب</div>
-<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/MatinSenPaii/5196" target="_blank">📅 15:54 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 42.6K · <a href="https://t.me/MatinSenPaii/5196" target="_blank">📅 15:54 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5194">
@@ -1031,7 +1031,7 @@ https://deusdata.github.io/codebase-memory-mcp/
 <div class="tg-post" id="msg-5190">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">چقدر غمناک..</div>
-<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/MatinSenPaii/5190" target="_blank">📅 00:43 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/MatinSenPaii/5190" target="_blank">📅 00:43 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5189">
@@ -1152,7 +1152,7 @@ t.me/MatinSenPaii</div>
 شاید دانشگاه نرفتن هم یه گزینه باشه
 این وسط برای پسرا سربازی هست
 و خیلی مسائل دیگه مثل خود کار پیدا کردن و ...</div>
-<div class="tg-footer">👁️ 36.2K · <a href="https://t.me/MatinSenPaii/5178" target="_blank">📅 16:09 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/MatinSenPaii/5178" target="_blank">📅 16:09 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5176">
@@ -1186,7 +1186,7 @@ t.me/MatinSenPaii</div>
 <div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uDqvr5X-1ThB_7A3Z6kX-o75D9eVw6zwRa1EO_OYgAhesJOpmCTqn0go86SfR74fVlLzofMpL-12n5FN1dCS2R_BEJEzVcJ29zeKxFyYlrvax7dBGa9T6S-CvfHc9cXZ1dnp0svRVp5ny4M0zHdyvqPntHHbSCVtLWVf1RFlm7AQDc3o-1rKHyRsERoDTIyE37pEevrFYJGkBaRHPnySUkOO5UFgyZwtT9ewbehjph3ufAGcYUXv_7xteljEPOdkFah7PEmFqiy5e1XFeytsjrXCKaPogNevJFjwYV_inxO6OPGHMe8GHfs6x5YhBjyX7Nojrxvlyt4TOKuyena3qA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سرورهای OVH واقعا به صرفه‌ان از لحاظ قیمتی و اینکه ترافیکش نامحدوده. 2 هسته CPU و 4 گیگ رم، 4.5 دلار. با دلار 220 تومنی میشه 990 هزار تومن اونوقت سایت‌های هم‌ وطنم پاره تنم دارن سرور 1 هسته و 1 گیگ رم میدن +1 میلیون تومن://  سایتش گویا یه مقداری روی آیپی حساسه…</div>
-<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/MatinSenPaii/5173" target="_blank">📅 00:02 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/MatinSenPaii/5173" target="_blank">📅 00:02 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5172">
@@ -1204,7 +1204,7 @@ t.me/MatinSenPaii</div>
 اونوقت سایت‌های هم‌ وطنم پاره تنم دارن سرور 1 هسته و 1 گیگ رم میدن +1 میلیون تومن://
 سایتش گویا یه مقداری روی آیپی حساسه
 من میرم تلاش کنم ببینم میتونم ازش خرید کنم با Mpay یا نه</div>
-<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/MatinSenPaii/5171" target="_blank">📅 23:45 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/MatinSenPaii/5171" target="_blank">📅 23:45 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5170">
@@ -1221,7 +1221,7 @@ t.me/MatinSenPaii</div>
 می‌تونید خریداری کنید ولی حتما از اندروید + این متد که اینجا توضیح دادم:
 https://t.me/MatinSenPaii/5092
 استفاده کنید سر Google Pay</div>
-<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/MatinSenPaii/5169" target="_blank">📅 22:41 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/MatinSenPaii/5169" target="_blank">📅 22:41 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5168">
@@ -1273,7 +1273,7 @@ In/Out/Cache
 <div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nVsRkXa2uwH_Cz77QZrhgQHpp-I59SZc76bHDpVLvQNUN_cuAy_j9d9G8iY2W2eNg8I-f7-J8FKrDTrFcKh6z55vY62cFdaXbcYLVtXOVtIlC-hiq3qDgXsBbIehscKNnI4tTHq746HtP1IJ-kqZ7_7COJ55kuQgT4zobWDIi4t8YM66NxSElcUiL3pMbg-0VXoMqgRlMLfeC2ZncPwTqPP3GLH7bAbZz7FLWzflCoqmRPBVdnVgidVqDIowWZY55IZMyJ36Iu0SHy2KzYpu5mvrXTm14XOS9mSR79kNvcOB3wraDqR0miQAKN5PW3KeGTzrHm28zv9Wai7d3yFg4g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آقا مگه میشه مگه داریم اصلا  حس میکنم خیلی اغراق و بزرگنمایی داره. امکان نداره قدرتش از Opus 5 انقدر بالاتر باشه توی این بنچمارک‌ها:) باید تست کنیم</div>
-<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/MatinSenPaii/5160" target="_blank">📅 16:30 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33K · <a href="https://t.me/MatinSenPaii/5160" target="_blank">📅 16:30 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5159">
