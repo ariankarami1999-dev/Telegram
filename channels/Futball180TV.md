@@ -292,23 +292,23 @@
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-28 01:15:23</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-28 03:16:00</div>
 <hr>
 
 <div class="tg-post" id="msg-106840">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-footer">👁️ 3.45K · <a href="https://t.me/Futball180TV/106840" target="_blank">📅 00:21 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/Futball180TV/106840" target="_blank">📅 00:21 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106839">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTrexBet IR</strong></div>
-<div class="tg-footer">👁️ 645 · <a href="https://t.me/Futball180TV/106839" target="_blank">📅 00:21 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 937 · <a href="https://t.me/Futball180TV/106839" target="_blank">📅 00:21 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106838">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-footer">👁️ 3.51K · <a href="https://t.me/Futball180TV/106838" target="_blank">📅 00:20 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/Futball180TV/106838" target="_blank">📅 00:20 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106837">
@@ -324,7 +324,7 @@
 تقریباً تمام دوران کودکی‌ام، صبح که بیدار می‌شدم یک کلیپ از دریبل‌های نیمار می‌دیدم، بعد یک کلیپ از گل‌هایش... او واقعاً بازیکن خاصی بود.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.77K · <a href="https://t.me/Futball180TV/106837" target="_blank">📅 00:19 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.27K · <a href="https://t.me/Futball180TV/106837" target="_blank">📅 00:19 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106836">
@@ -335,7 +335,7 @@
 يحیی‌گل‌محمدی و تیمش دهوک در هفته هشتم لیگ‌عراق مقابل حریفشان به تساوی رسیدند. این ششمین تساوی یحیی و تیمش در لیگ‌عراق بود!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/Futball180TV/106836" target="_blank">📅 00:14 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6K · <a href="https://t.me/Futball180TV/106836" target="_blank">📅 00:14 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106835">
@@ -347,7 +347,7 @@
 لامین‌یامال: تا پارسال پاس گل و دریبل زدن را بیشتر دوست داشتم ، اما الان گل زدن از نظرم بهتره ، گل میزنی و تمام، کارت را انجام دادی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.9K · <a href="https://t.me/Futball180TV/106835" target="_blank">📅 00:13 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.21K · <a href="https://t.me/Futball180TV/106835" target="_blank">📅 00:13 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106834">
@@ -365,7 +365,7 @@
 محمد تقوی، در برنامه هت‌تریک درباره پیروزی استقلال در برابر السد در لیگ نخبگان آسیا گفت: «استقلال نمی‌تواند در لیگ برتر مثل لیگ نخبگان بازی کند، چون نوع بازی تیم‌های ایرانی متفاوت است. دفاع منسجم استقلال اجازه نمی‌داد بازیکنان السد، به راحتی بازی کنند.»
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/Futball180TV/106834" target="_blank">📅 00:09 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.93K · <a href="https://t.me/Futball180TV/106834" target="_blank">📅 00:09 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106833">
@@ -382,7 +382,7 @@
 گل‌های دیدار بایرن مونیخ - بوینیون برلین
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.81K · <a href="https://t.me/Futball180TV/106833" target="_blank">📅 00:06 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.07K · <a href="https://t.me/Futball180TV/106833" target="_blank">📅 00:06 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106832">
@@ -399,7 +399,7 @@
 سوپرگل دیدنی اولیسه مقابل یونیون برلین
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.82K · <a href="https://t.me/Futball180TV/106832" target="_blank">📅 22:45 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/Futball180TV/106832" target="_blank">📅 22:45 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106831">
@@ -412,7 +412,7 @@
 پس از دو بازی غیبت بدلیل مصدومیت، آلوارز به دیدار یکشنبه مقابل رئال‌مادرید رسید
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/Futball180TV/106831" target="_blank">📅 22:40 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/106831" target="_blank">📅 22:40 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106830">
@@ -423,7 +423,7 @@
 داکنز نازون پس از عدم موفقیت در بازگشت به استقلال، راهی النصر لیبی شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/Futball180TV/106830" target="_blank">📅 22:27 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/Futball180TV/106830" target="_blank">📅 22:27 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106829">
@@ -439,7 +439,7 @@
 صف‌فروش آیفون ۱۸ در اولین روز فروش رسمی‌
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/Futball180TV/106829" target="_blank">📅 22:04 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/106829" target="_blank">📅 22:04 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106827">
@@ -454,7 +454,7 @@
 رونالدو برای اولین و آخرین بار اومد ایران و دوتا بازی بعدی النصر تو ایران رو پیچوند
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/Futball180TV/106827" target="_blank">📅 21:26 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/106827" target="_blank">📅 21:26 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106826">
@@ -465,7 +465,7 @@
 ترکیب بایرن‌ مونیخ مقابل یونیون برلین | هفته 4 بوندسلیگا 2026/27
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/Futball180TV/106826" target="_blank">📅 21:10 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/Futball180TV/106826" target="_blank">📅 21:10 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106825">
@@ -477,7 +477,7 @@
 لیست تیم‌ملی ایتالیا برای فیفادی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/106825" target="_blank">📅 20:32 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/Futball180TV/106825" target="_blank">📅 20:32 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106824">
@@ -495,7 +495,7 @@
 پدرهای عزیز به این‌دیدگاه عقاید جالب علی فروتن حتما گوش بدید
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/106824" target="_blank">📅 20:10 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/106824" target="_blank">📅 20:10 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106823">
@@ -512,7 +512,7 @@
 مسابقه دوی نیمه ماراتن بانوان که امروز در بوستان ولایت تهران برگزار شد که حجاب شرکت کنندگان بدون محدودیت خاصی بود
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/106823" target="_blank">📅 19:55 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/106823" target="_blank">📅 19:55 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106822">
@@ -523,7 +523,7 @@
 لیست تیم‌ملی فرانسه برای فیفادی در اولین حضور زیدان روی نیمکت سرمربیگری خروس‌ها
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/106822" target="_blank">📅 19:36 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/106822" target="_blank">📅 19:36 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106821">
@@ -540,7 +540,7 @@
 اولین واکنش امید عالیشاه به فحاشی ناموسی خداداد عزیزی: دچار شرم نیابتی شدم.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/106821" target="_blank">📅 19:32 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/Futball180TV/106821" target="_blank">📅 19:32 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106820">
@@ -557,7 +557,7 @@
 دیوید بکام: "من هنوزم باورم نمیشه که اونو اینجا تو میامی داریم و داره واسه تیممون بازی می‌کنه. همه ما دلمون می‌خواد لئو تا ابد بازی کنه. هیچ‌کس تو 39 سالگی همچین کاری رو تو این سطح انجام نمیده. پس حقشه که کاندید توپ طلا باشه. به نظر من که باید ببرتش!"
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/106820" target="_blank">📅 19:10 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/Futball180TV/106820" target="_blank">📅 19:10 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106819">
@@ -576,7 +576,7 @@
 تردید هوادارا پس از رفتن مربیای اسطوره‌ای طبیعیه. این شک و تردیدها برای هوادارای منچستریونایتد و آرسنال هم بعد از رفتن سر الکس و ونگر وجود داشت. برای هوادارای سیتی هم همین مسئله صادقه، چون پپ هم یه مربی معمولی نبود. اونم مثل سر الکس و ونگر، یه اسطوره بود.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/106819" target="_blank">📅 18:34 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/106819" target="_blank">📅 18:34 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106818">
@@ -596,7 +596,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/Futball180TV/106818" target="_blank">📅 18:34 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/Futball180TV/106818" target="_blank">📅 18:34 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106817">
@@ -625,7 +625,7 @@ TrexBet
 سرعت بالا، طراحی حرفه ای و تجربه ای متفاوت
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/106817" target="_blank">📅 18:34 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/Futball180TV/106817" target="_blank">📅 18:34 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106816">
@@ -642,7 +642,7 @@ T.me/TrexBet_Ir</div>
 فرشید اسماعیلی: دلم میخواهد دوباره به استقلال برگردم و دلتنگی شدیدی دارم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/106816" target="_blank">📅 18:10 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/Futball180TV/106816" target="_blank">📅 18:10 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106815">
@@ -654,7 +654,7 @@ T.me/TrexBet_Ir</div>
 لامین یامال: من در تمام افتخاراتم از امباپه پیشی گرفته‌ام. به عنوان بهترین بازیکن جهان، شاید فقط دو نفر باشیم. من فکر می‌کنم که امسال شایسته توپ طلا هستم.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/106815" target="_blank">📅 17:42 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/106815" target="_blank">📅 17:42 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106814">
@@ -670,7 +670,7 @@ T.me/TrexBet_Ir</div>
 نظر ژابی‌آلونسو درباره مالکیت جدید چلسی که به یک فرد ایرانی واگذار شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/106814" target="_blank">📅 17:40 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/106814" target="_blank">📅 17:40 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106813">
@@ -681,7 +681,7 @@ T.me/TrexBet_Ir</div>
 رافینیا: می‌خواهم قراردادم را تمدید کنم و دوران حرفه‌ای‌ام را در بارسلونا به پایان برسانم.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/106813" target="_blank">📅 17:22 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/106813" target="_blank">📅 17:22 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106812">
@@ -698,7 +698,7 @@ T.me/TrexBet_Ir</div>
 بابک مرادی بازیکن اسبق آبی‌ها: یک کیلو و ۸۰۰ گرم طلا بخشیدم به استقلال!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/106812" target="_blank">📅 17:20 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/106812" target="_blank">📅 17:20 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106811">
@@ -716,7 +716,7 @@ T.me/TrexBet_Ir</div>
 چرا فیتیله‌ای‌ها دیگه پخش نشد؟! افشاگری عجیب علی فروتن از سکانسی که باعث توقیف برنامه فیتیله‌ای‌ها شد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/106811" target="_blank">📅 16:33 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/106811" target="_blank">📅 16:33 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106810">
@@ -727,7 +727,7 @@ T.me/TrexBet_Ir</div>
 ۵ قهرمانی لیونل‌مسی در ۱۱۵ بازی اینترمیامی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/106810" target="_blank">📅 16:05 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/106810" target="_blank">📅 16:05 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106809">
@@ -744,7 +744,7 @@ T.me/TrexBet_Ir</div>
 🔥
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/106809" target="_blank">📅 15:40 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/106809" target="_blank">📅 15:40 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106808">
@@ -764,7 +764,7 @@ T.me/TrexBet_Ir</div>
 ‌
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/106808" target="_blank">📅 15:15 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/106808" target="_blank">📅 15:15 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106807">
@@ -775,7 +775,7 @@ T.me/TrexBet_Ir</div>
 گزارش هیئت مستقل حقیقت‌یاب سازمان ملل درباره مدرسه میناب: مدرسه یک مکان غیرنظامی بوده و در عین حال این مدرسه در مجاورت یک مجموعه دریایی وابسته به سپاه پاسداران قرار داشت. اطلاعات مربوط به مدرسه در سامانه‌های هدف‌گیری و بانک اهداف آمریکا آپدیت نشده بود. هیئت این حمله را یک حمله کور/تفکیک‌ناپذیر اعلام کرده که موجب مرگ غیرنظامیان شده. بر همین اساس، هیئت آن را جنایت جنگی تحت حقوق بین‌الملل ارزیابی کرده.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/106807" target="_blank">📅 15:11 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/106807" target="_blank">📅 15:11 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106806">
@@ -793,7 +793,7 @@ T.me/TrexBet_Ir</div>
 مهمترین اشتباه در محبوب ترین حرکت بالاسینه؛ به توصیه استاد هانی‌رامبد عزیز
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/106806" target="_blank">📅 14:50 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/106806" target="_blank">📅 14:50 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106805">
@@ -803,7 +803,7 @@ T.me/TrexBet_Ir</div>
 کار من بعد از خداحافظی از فوتبال؟ شاید کار توی بخش مربیگری دروازه‌بانان رئال مادرید و ساخت یک آکادمی درجه‌یک تا به جای خریدن یه تیبو کورتوای دیگه، خودمون یکیو پرورش بدیم.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/106805" target="_blank">📅 14:25 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/106805" target="_blank">📅 14:25 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106804">
@@ -816,7 +816,7 @@ T.me/TrexBet_Ir</div>
 "این بهترین فصل زندگی من بود، و این تفاوت بزرگی ایجاد می‌کند."
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/106804" target="_blank">📅 14:23 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/106804" target="_blank">📅 14:23 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106803">
@@ -832,7 +832,7 @@ T.me/TrexBet_Ir</div>
 تأثیر غیرمستقیم تحصیلات بر فوتبال، از زبان بهترین بازیکن جام جهانی ۲۰۲۶ و برنده توپ طلای ۲۰۲۴
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/106803" target="_blank">📅 14:00 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/106803" target="_blank">📅 14:00 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106802">
@@ -848,7 +848,7 @@ T.me/TrexBet_Ir</div>
 زیباترین گل‌های کاندید پوشکاش سال ۲۰۲۶
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/106802" target="_blank">📅 13:35 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/106802" target="_blank">📅 13:35 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106801">
@@ -865,7 +865,7 @@ T.me/TrexBet_Ir</div>
 توضیحات مجتبی‌پوربخش مجری اسبق تلویزیون درباره افتخارآفرینی کیمیا علیزاده در اروپا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/106801" target="_blank">📅 13:10 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/106801" target="_blank">📅 13:10 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106800">
@@ -876,7 +876,7 @@ T.me/TrexBet_Ir</div>
 لیست تیم‌ملی انگلیس برای فیفادی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/106800" target="_blank">📅 13:01 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/106800" target="_blank">📅 13:01 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106799">
@@ -886,7 +886,7 @@ T.me/TrexBet_Ir</div>
 صحبت‌های عجیب و‌ دردناک مهدوی‌کیا از دخالت خانواده‌ها در مسیر رشد استعدادها!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/106799" target="_blank">📅 12:41 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/106799" target="_blank">📅 12:41 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106798">
@@ -906,7 +906,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/106798" target="_blank">📅 12:40 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/106798" target="_blank">📅 12:40 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106797">
@@ -938,7 +938,7 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/106797" target="_blank">📅 12:40 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/106797" target="_blank">📅 12:40 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106796">
@@ -949,7 +949,7 @@ T.me/TrexBet_Ir</div>
 رافینیا، با هت‌تریک خود مقابل راسینگ، در 7 بازی اول فصل 2026/27، به 14 گل و پاس گل رسید و رکورد بهترین شروع فصل لیونل مسی در باشگاه بارسلونا را شکست. مسی در 11 بازی مشابه، 11 گل و پاس گل به ثمر رسانده بود (فصل 2012/13).
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/106796" target="_blank">📅 12:20 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/106796" target="_blank">📅 12:20 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106795">
@@ -967,7 +967,7 @@ T.me/TrexBet_Ir</div>
 فرزانه جمامی، سرمربی پیشین بسکتبال زنان استقلال: تمام اعضای خانواده‌ام بجز من طرفدار تیم پرسپولیس بودند و هنگام دربی اذیت میشدم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/106795" target="_blank">📅 11:55 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/106795" target="_blank">📅 11:55 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106794">
@@ -979,7 +979,7 @@ T.me/TrexBet_Ir</div>
 مقایسه شروع آموریم و کریک در پریمیرلیگ با منچستریونایتد؛ اخراج بعدی در راهه؟
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/106794" target="_blank">📅 11:33 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/106794" target="_blank">📅 11:33 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106793">
@@ -997,7 +997,7 @@ T.me/TrexBet_Ir</div>
 😃
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/106793" target="_blank">📅 11:05 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/106793" target="_blank">📅 11:05 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106792">
@@ -1015,7 +1015,7 @@ T.me/TrexBet_Ir</div>
 زنوزی: اسکوچیچ شخصیت ماجراجویی دارد شاید می خواست با تیم دیگری قهرمان لیگ شود اما...
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/106792" target="_blank">📅 10:59 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/106792" target="_blank">📅 10:59 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106791">
@@ -1033,7 +1033,7 @@ T.me/TrexBet_Ir</div>
 روزی‌که استقلال تحت هدایت جواد نکونام قهرمانی و اورونوف رو تقدیم پرسپولیس کرد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/106791" target="_blank">📅 10:40 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/106791" target="_blank">📅 10:40 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106790">
@@ -1049,7 +1049,7 @@ T.me/TrexBet_Ir</div>
 خداحافظی خامس رودریگز از تیم ملی کلمبیا.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/106790" target="_blank">📅 10:15 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/Futball180TV/106790" target="_blank">📅 10:15 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106789">
@@ -1066,7 +1066,7 @@ T.me/TrexBet_Ir</div>
 حمله تند فرشید اسماعیلی به شفر: قبل از فینال جام حذفی گفت یا قراردادم زیاد می‌شود یا روی نیمکت نمی‌نشینم!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/106789" target="_blank">📅 09:50 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/106789" target="_blank">📅 09:50 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106788">
@@ -1084,7 +1084,7 @@ T.me/TrexBet_Ir</div>
 ینی بهتر از این خانم بنظرم کسی نمیتونست تمدن کهن ایران رو بیان کنه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/106788" target="_blank">📅 09:25 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/Futball180TV/106788" target="_blank">📅 09:25 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106787">
@@ -1101,7 +1101,7 @@ T.me/TrexBet_Ir</div>
 صحبت جالب رسول‌مجیدی درباره تواضع رودری ستاره بارسا در دلجویی از والنسیا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/106787" target="_blank">📅 09:02 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/106787" target="_blank">📅 09:02 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106784">
@@ -1113,7 +1113,7 @@ T.me/TrexBet_Ir</div>
 نتایج هفته اول لیگ اروپا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/Futball180TV/106784" target="_blank">📅 00:34 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/Futball180TV/106784" target="_blank">📅 00:34 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106783">
@@ -1131,7 +1131,7 @@ T.me/TrexBet_Ir</div>
 ادعای هومن افاضلی: ایران در آمریکا از ورزشگاه آزادی هم محبوب تر بود
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/Futball180TV/106783" target="_blank">📅 00:22 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/106783" target="_blank">📅 00:22 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106782">
@@ -1147,7 +1147,7 @@ T.me/TrexBet_Ir</div>
 نوریچ
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/Futball180TV/106782" target="_blank">📅 23:50 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/Futball180TV/106782" target="_blank">📅 23:50 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106781">
@@ -1160,7 +1160,7 @@ T.me/TrexBet_Ir</div>
 🐐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/106781" target="_blank">📅 23:27 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/Futball180TV/106781" target="_blank">📅 23:27 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106780">
@@ -1227,10 +1227,10 @@ T.me/TrexBet_Ir</div>
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/af8c416616.mp4?token=Wnt6jY1GLSKPMmtVtqhTbPucnLH5gSK1WVP_dlaBT4ts6ZjfjCQxOE84SNKnBv7E_r5hEse_6Zt9d-sxb28L-FEnOY9atHGhOlgQP9l4-c5aPZdv7bHf7ghWubwOeXzAiXVkY7pc6p6xLA0WvYUpq7zStx7a3ZVATkNAZsh04a3foDudzxSu71whMbjbtS1DxhoaJ5uWdLwFqyTAV9bcmps5hfQ9pRQSkp2WHNjKyDGZ2hFxrmB9lYQ0HPa68uaQanMnsdz0UuBsXDUNSMuWaCCS2uYjuf_KXy-4iIVCEe6vYA4DuoLxYtqnQxJ_D_xUe253LVSEl1_ph1tBsF0seLw4M8Fz-uYL7ifpw8axogbJUGjYj7kp-Fb9QC649BCyA0F_anJ1kJaZHvEJLpGw1RumFl16UZmY3GXlK50-83Q0FfxNgN5yjAvSzGQGg7y4U9xpGPcx4VjRiR5Z11C89o8hIIi735zSsRl073H-kx0bM9a577cU8S6Qzpcyc36NjFY4jPX41qP25w4CzmBuIDOB1zfUOPXhWH2d33-v7hm4o9LGN6DwcMel4Qs4b55e7rOz0XgEjO7dOpr9skySkHdx-UF14TccDNWInLvpyN87Nx-r5hCSNYYDl4R2lLUL6sUxf4NIzgbwo66tZJm7vqJRtPA86tmr-SJJMmFu8yo" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/af8c416616.mp4?token=Wnt6jY1GLSKPMmtVtqhTbPucnLH5gSK1WVP_dlaBT4ts6ZjfjCQxOE84SNKnBv7E_r5hEse_6Zt9d-sxb28L-FEnOY9atHGhOlgQP9l4-c5aPZdv7bHf7ghWubwOeXzAiXVkY7pc6p6xLA0WvYUpq7zStx7a3ZVATkNAZsh04a3foDudzxSu71whMbjbtS1DxhoaJ5uWdLwFqyTAV9bcmps5hfQ9pRQSkp2WHNjKyDGZ2hFxrmB9lYQ0HPa68uaQanMnsdz0UuBsXDUNSMuWaCCS2uYjuf_KXy-4iIVCEe6vYA4DuoLxYtqnQxJ_D_xUe253LVSEl1_ph1tBsF0seG8QTWleXQTvBfad-q635b8uhHBePx63cAEL7iKGOsq5XmNO_BcgAn7Ne_MvRYfE3Srtgj8oCawhCnZH_sJaIMsulJd3wnLkxaipMYsBXtQxO1HTbURtWfK7I8pBiNUgDON8sQE7DOyxMi6ofnPb2GX7W0YqaUDDXearB2j5KWnS99zoWRxfgRUk73rmfOTBXvWzx06H2RnqKhoo0kRTr3_UhCy7p_bTXoM_vO3LSBXwjrDk9BswFLtjJAe3Wbm5l5z-tVR60ooumBLFMHvTFtOMMQ_jjSad7RVOGKMIwcFyguijimmgelfV-Bngsi1QLmW9uD4LCSV09Rf-4nfyA5E" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/af8c416616.mp4?token=Wnt6jY1GLSKPMmtVtqhTbPucnLH5gSK1WVP_dlaBT4ts6ZjfjCQxOE84SNKnBv7E_r5hEse_6Zt9d-sxb28L-FEnOY9atHGhOlgQP9l4-c5aPZdv7bHf7ghWubwOeXzAiXVkY7pc6p6xLA0WvYUpq7zStx7a3ZVATkNAZsh04a3foDudzxSu71whMbjbtS1DxhoaJ5uWdLwFqyTAV9bcmps5hfQ9pRQSkp2WHNjKyDGZ2hFxrmB9lYQ0HPa68uaQanMnsdz0UuBsXDUNSMuWaCCS2uYjuf_KXy-4iIVCEe6vYA4DuoLxYtqnQxJ_D_xUe253LVSEl1_ph1tBsF0seLw4M8Fz-uYL7ifpw8axogbJUGjYj7kp-Fb9QC649BCyA0F_anJ1kJaZHvEJLpGw1RumFl16UZmY3GXlK50-83Q0FfxNgN5yjAvSzGQGg7y4U9xpGPcx4VjRiR5Z11C89o8hIIi735zSsRl073H-kx0bM9a577cU8S6Qzpcyc36NjFY4jPX41qP25w4CzmBuIDOB1zfUOPXhWH2d33-v7hm4o9LGN6DwcMel4Qs4b55e7rOz0XgEjO7dOpr9skySkHdx-UF14TccDNWInLvpyN87Nx-r5hCSNYYDl4R2lLUL6sUxf4NIzgbwo66tZJm7vqJRtPA86tmr-SJJMmFu8yo" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/af8c416616.mp4?token=Wnt6jY1GLSKPMmtVtqhTbPucnLH5gSK1WVP_dlaBT4ts6ZjfjCQxOE84SNKnBv7E_r5hEse_6Zt9d-sxb28L-FEnOY9atHGhOlgQP9l4-c5aPZdv7bHf7ghWubwOeXzAiXVkY7pc6p6xLA0WvYUpq7zStx7a3ZVATkNAZsh04a3foDudzxSu71whMbjbtS1DxhoaJ5uWdLwFqyTAV9bcmps5hfQ9pRQSkp2WHNjKyDGZ2hFxrmB9lYQ0HPa68uaQanMnsdz0UuBsXDUNSMuWaCCS2uYjuf_KXy-4iIVCEe6vYA4DuoLxYtqnQxJ_D_xUe253LVSEl1_ph1tBsF0seG8QTWleXQTvBfad-q635b8uhHBePx63cAEL7iKGOsq5XmNO_BcgAn7Ne_MvRYfE3Srtgj8oCawhCnZH_sJaIMsulJd3wnLkxaipMYsBXtQxO1HTbURtWfK7I8pBiNUgDON8sQE7DOyxMi6ofnPb2GX7W0YqaUDDXearB2j5KWnS99zoWRxfgRUk73rmfOTBXvWzx06H2RnqKhoo0kRTr3_UhCy7p_bTXoM_vO3LSBXwjrDk9BswFLtjJAe3Wbm5l5z-tVR60ooumBLFMHvTFtOMMQ_jjSad7RVOGKMIwcFyguijimmgelfV-Bngsi1QLmW9uD4LCSV09Rf-4nfyA5E" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 🇮🇷
@@ -1255,7 +1255,7 @@ T.me/TrexBet_Ir</div>
 😆
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/106774" target="_blank">📅 20:15 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/Futball180TV/106774" target="_blank">📅 20:15 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106772">
@@ -1274,17 +1274,17 @@ T.me/TrexBet_Ir</div>
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/Futball180TV/106772" target="_blank">📅 19:45 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/Futball180TV/106772" target="_blank">📅 19:45 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106771">
 <div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/dd7aec7c83.mp4?token=HqFPARvlnMNrugE_yNCo2VGCBr67i_z-rDx94EoGM06QIBiDFBkS_K4nsGmx-ulOFW9Pbmte6yOTVWt__gXTz5JwYKUFjowXZ9Sw0PIrMb_jTTERdiFpcaHVu3uBFL0A0aE4GgM2NVKN-esEeqXxPkFwhyvt5vXYjxrvASGbDo4-Ok6_t8PY-ASsw9CesrHV_sbkKOq2wRrtxECgM748vGWjaWLxNX7HgnfRsbO_xfplS3nYPbtIg9fen5Fdk4t5586TE-d_MSRYAPHU7KWsmJG6uhrL4mx_VXY_gyBevjOJy_y7IhmPEOEpyld2CweQaGIg5CrUYvB9L0klKMyrg4CPrvkhYg0VrBEk3ffyh31p26MmVlsPadGSIMTOc6M96HowO0AkxNV9541eGjj7fV27Pj-aDiE7UK9f_Ow61tbMJC4zVlqaNywfXzAtTYKScr7-PmMmLi_29iZmzRp4gzOo9L1JWvq57GLNPpzHkGZVOWtfy1_-dOx6MdjpF0Wqa9bvwG0AuDSBv1ONuHd50Weu3PyLptCjogCc2QpB1g45rjc6NPyOkr3i1nsO5TvyzFLvCQ3hZzog8ZOhL_nVj7lFOGt0Pah_tiugDDw4fiq3ZPiClArfzAcc20jneKhngwjvj3733JYZp5mpTXq29d-7828FiZi1B568XFU5EwA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/dd7aec7c83.mp4?token=HqFPARvlnMNrugE_yNCo2VGCBr67i_z-rDx94EoGM06QIBiDFBkS_K4nsGmx-ulOFW9Pbmte6yOTVWt__gXTz5JwYKUFjowXZ9Sw0PIrMb_jTTERdiFpcaHVu3uBFL0A0aE4GgM2NVKN-esEeqXxPkFwhyvt5vXYjxrvASGbDo4-Ok6_t8PY-ASsw9CesrHV_sbkKOq2wRrtxECgM748vGWjaWLxNX7HgnfRsbO_xfplS3nYPbtIg9fen5Fdk4t5586TE-d_MSRYAPHU7KWsmJG6uhrL4mx_VXY_gyBevjOJy_y7IhmPEOEpyld2CweQaGIg5CrUYvB9L0klKMyrg7a9jq-6M4Ak83e5IyhYcHlEw7J5DvZjFCGCDF1QizudfF-B0HP85ngfTDwfln9lZ0ocYxcFjCKTTMKcoL_b3hyGN1bYOj_EhuO732Rlw9FjuqoVUzhU5r44HdoVvjIecuT6lVCTCwEsNru6Lz1xaezdxUcFTpJrY7zGR5MUhE2shMJ-uuhAVcFRMd_lxWtWg90Rds_YxK85v-367uq0W4uwlj7rpoQC6SDCE2PZDyu9_gHnyGCmDp7s-N-VIacLngKf1S3wUJwrKItMMlTtJGiiouIHcljLlpkmEsrQ694YnxXVkPgrW_K8sU1deOo0Si_PYKTaWDC9CBB-6vrftvQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/dd7aec7c83.mp4?token=HqFPARvlnMNrugE_yNCo2VGCBr67i_z-rDx94EoGM06QIBiDFBkS_K4nsGmx-ulOFW9Pbmte6yOTVWt__gXTz5JwYKUFjowXZ9Sw0PIrMb_jTTERdiFpcaHVu3uBFL0A0aE4GgM2NVKN-esEeqXxPkFwhyvt5vXYjxrvASGbDo4-Ok6_t8PY-ASsw9CesrHV_sbkKOq2wRrtxECgM748vGWjaWLxNX7HgnfRsbO_xfplS3nYPbtIg9fen5Fdk4t5586TE-d_MSRYAPHU7KWsmJG6uhrL4mx_VXY_gyBevjOJy_y7IhmPEOEpyld2CweQaGIg5CrUYvB9L0klKMyrg4CPrvkhYg0VrBEk3ffyh31p26MmVlsPadGSIMTOc6M96HowO0AkxNV9541eGjj7fV27Pj-aDiE7UK9f_Ow61tbMJC4zVlqaNywfXzAtTYKScr7-PmMmLi_29iZmzRp4gzOo9L1JWvq57GLNPpzHkGZVOWtfy1_-dOx6MdjpF0Wqa9bvwG0AuDSBv1ONuHd50Weu3PyLptCjogCc2QpB1g45rjc6NPyOkr3i1nsO5TvyzFLvCQ3hZzog8ZOhL_nVj7lFOGt0Pah_tiugDDw4fiq3ZPiClArfzAcc20jneKhngwjvj3733JYZp5mpTXq29d-7828FiZi1B568XFU5EwA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/dd7aec7c83.mp4?token=HqFPARvlnMNrugE_yNCo2VGCBr67i_z-rDx94EoGM06QIBiDFBkS_K4nsGmx-ulOFW9Pbmte6yOTVWt__gXTz5JwYKUFjowXZ9Sw0PIrMb_jTTERdiFpcaHVu3uBFL0A0aE4GgM2NVKN-esEeqXxPkFwhyvt5vXYjxrvASGbDo4-Ok6_t8PY-ASsw9CesrHV_sbkKOq2wRrtxECgM748vGWjaWLxNX7HgnfRsbO_xfplS3nYPbtIg9fen5Fdk4t5586TE-d_MSRYAPHU7KWsmJG6uhrL4mx_VXY_gyBevjOJy_y7IhmPEOEpyld2CweQaGIg5CrUYvB9L0klKMyrg7a9jq-6M4Ak83e5IyhYcHlEw7J5DvZjFCGCDF1QizudfF-B0HP85ngfTDwfln9lZ0ocYxcFjCKTTMKcoL_b3hyGN1bYOj_EhuO732Rlw9FjuqoVUzhU5r44HdoVvjIecuT6lVCTCwEsNru6Lz1xaezdxUcFTpJrY7zGR5MUhE2shMJ-uuhAVcFRMd_lxWtWg90Rds_YxK85v-367uq0W4uwlj7rpoQC6SDCE2PZDyu9_gHnyGCmDp7s-N-VIacLngKf1S3wUJwrKItMMlTtJGiiouIHcljLlpkmEsrQ694YnxXVkPgrW_K8sU1deOo0Si_PYKTaWDC9CBB-6vrftvQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🗓
 🇮🇷
@@ -1376,7 +1376,7 @@ T.me/TrexBet_Ir</div>
 انتقاد جالب میثاقی به زمان‌بندی ارائه‌شده از سوی سازمان‌لیگ‌برای هفته‌های آتی لیگ‌برتر!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/106767" target="_blank">📅 17:38 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/106767" target="_blank">📅 17:38 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106764">
@@ -1459,7 +1459,7 @@ T.me/TrexBet_Ir</div>
 
 <div class="tg-post" id="msg-106759">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NX5xh29ylUtUOa1JaL-R6sf4BEMrrMv6MUfzD4ksLGKnxmBR0X6QsYUOI7ezUVQay1MhpJDfJkxmf-ok2xby062Q1rhGTkk-CJhS_YVyHEduHNISId9-Sd7a6UoZX_OWtrNqwwriMw4XOieYaHRgKowXoPSj3FD8kaBB4hHNj-oML3Sn7_x8r3Mtebes8uQ1-BJnEdtBimGVuWFnHleeKaEf8Ja_Sy4j-2Kjc_2tkfd80eD1MY3VuPpj1dziLK_VAo0HfAOXMbixzFwhNAh9tzeUmRFClRZmfCdBYk35CYmYp6NLC1u9uoY04v36r-8Bel5a9Y_tOy1hz_cN0HkBLw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sMXiSW8qcz6ymEmkFO9ig7PmYXqzBhK1ge28FOcuEGZjmE5K06sKFs0MyYU6RB3Qq4-fUvWXAmsdeddZlyGEtD3aljKvghukgTJiTDguHQedlx_AMDz9DilhTW54Y_1AKWfoH0pKfbIEs0CGqwMOvEJu0AIOLfMnbNgwry-rISn8qqjJwNU7i4-pQWSZREkXa8Smgz64cMSPCj6weSlWvc_DQ8I6UvMbdbfsJm4JMccmcN0bL53RDIDWM3z2jGvpz6pp7iznUxRaad82zvh2DjliAThtBCA9ap4qh5kL7kzpjh99qU3BuryTS7I1OS4OlH5xvC3KRbmQMOcle7InJw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👀
 💥
 سال 2018 که فرانسه قهرمان جام جهانی شد، کل مردم فرانسه برای امباپه دعای خیر کردن و نتیجه دعاهاشون شد این بانو
@@ -1500,17 +1500,17 @@ T.me/TrexBet_Ir</div>
 آنها بیشتر از هر کس دیگری، شایسته این هستند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/Futball180TV/106757" target="_blank">📅 14:58 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/Futball180TV/106757" target="_blank">📅 14:58 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106756">
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/758a2aee2e.mp4?token=ZphRaZZp9TQ60ohMuottwbVBSxGDiiYQi64C6k1A28v8zHSOo5tJ2uXEGVxSwcCs3j2UjZ31Q-S972mvMfWxIcbed-aXqaTcPWRwPfk68IGzQ244deijEfE1g4X7fGgRnoEqbGCJxm_svnfegpXLcgG-z983_mrj_B3ZQd-QsNIHt5AtFWEBKdw9Bre0GPghOC97QYOnIqY2ko6Hxrmcr4-cc1TDja3g88XA2iV_8kdKNqerCzRFCGZwL-i-_tvtcudmDHzfKaZbVAyOPTEkD02E4sR3aEtq35p3bvA20AFlnv9nNOg4hXNu2nCBWVHx8WPCYiv7RlKt0XkMH6m-8Q" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/758a2aee2e.mp4?token=bCT3wrfJqC-PM9RnwX-XMBNRREb4NoGWD3pAScrXIYWWZyPL17Wx8ACPnbiqOGfOmYJVza3nXhFaHtqhrVfmbBLn-MDsKkXLTWgv00DuZ99DeE6yBr76CWjVAU_wpSU7DjCa3PmNwE7AjNclid7fgYPCVY0_G-cH7ouYXyZdu9q54ccP4R58kK-QvA8s-fX-yX6Wff51aECcm0snuxEHlqM9LHxKAO0tcrZLnM37UFp1RN6bV69sK-OK_ClrRWHBAod3vh5TI9CDHUq29TyLbgwWUTSqfVd8ekW-bpolpZin1xJiFK7krokOOMdx-RArT6a6m1mB0bCE9MikE555hw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/758a2aee2e.mp4?token=ZphRaZZp9TQ60ohMuottwbVBSxGDiiYQi64C6k1A28v8zHSOo5tJ2uXEGVxSwcCs3j2UjZ31Q-S972mvMfWxIcbed-aXqaTcPWRwPfk68IGzQ244deijEfE1g4X7fGgRnoEqbGCJxm_svnfegpXLcgG-z983_mrj_B3ZQd-QsNIHt5AtFWEBKdw9Bre0GPghOC97QYOnIqY2ko6Hxrmcr4-cc1TDja3g88XA2iV_8kdKNqerCzRFCGZwL-i-_tvtcudmDHzfKaZbVAyOPTEkD02E4sR3aEtq35p3bvA20AFlnv9nNOg4hXNu2nCBWVHx8WPCYiv7RlKt0XkMH6m-8Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/758a2aee2e.mp4?token=bCT3wrfJqC-PM9RnwX-XMBNRREb4NoGWD3pAScrXIYWWZyPL17Wx8ACPnbiqOGfOmYJVza3nXhFaHtqhrVfmbBLn-MDsKkXLTWgv00DuZ99DeE6yBr76CWjVAU_wpSU7DjCa3PmNwE7AjNclid7fgYPCVY0_G-cH7ouYXyZdu9q54ccP4R58kK-QvA8s-fX-yX6Wff51aECcm0snuxEHlqM9LHxKAO0tcrZLnM37UFp1RN6bV69sK-OK_ClrRWHBAod3vh5TI9CDHUq29TyLbgwWUTSqfVd8ekW-bpolpZin1xJiFK7krokOOMdx-RArT6a6m1mB0bCE9MikE555hw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">📱
 🇮🇷
@@ -1523,7 +1523,7 @@ T.me/TrexBet_Ir</div>
 
 <div class="tg-post" id="msg-106755">
 <div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aqFLsv2EuT7Rd7IzvTfkkHCl3tRAk_smtILIoCow0swUVIdysZ_yfxCP5t6Kk50WDX1dt0TAH6_WDntTOblMGii8LEmMwd2HI3n-9EYx-EPj_PqFrQ2A3pSljhbyTFgrnfj69buBvWYChNCcBHiCkuVHWPpgS-ko0TrD9uL_UoOySK-PocABrHw9FoMzt1FeGhX24TyASXMP_LA-brC40yeWPfJKoIt_atoQuwi_33SzMo1vxQM8n4aPAqzn0-15KNejmGZmPV1NckBe5yJ-inGfm78hajUPA1v9J7oW7k00hUQg0399cvYgFExIH8AISYoUlKl-NgeE_XrRseymPQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nVdDYMAbexFDCDjBpSA6CHIPIlX_NdeQaMp9YnT_JXHzF53AEtn6VL1KeYycRn5vcO_sJdog1TuuPgxA6v6sHAvhvlgP-TwrL32o34oKJkUE09SNF_latS0keuYN3XXvQR3WOK96ew6n9ILJ0SPt1Xl14ZSvby7YzHZ9AdWqZsGSGLuOkfU--cABS2GRDp78twcq9cLMi4shMmCpg1q9QV2XBJb5dskLEVPHPisM-n5zs5213hrc4VtZ58dDU9kwECq-VVwTt6bfsPjhEeX9ic8soT5oXTupMH-uWIKy4S10ulWX-fxtWvWN0mDKxRmOdERSBDxU-NscgIm1suE49w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 ✔️
 🇮🇷
@@ -1554,10 +1554,10 @@ T.me/TrexBet_Ir</div>
 <div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/2975c02c1e.mp4?token=vUZR9kybi44crjDhgAqVzXNGZd1rF2nloABfO4YflC_95X_uS5bZkENevVslvfaJzhRZ3S5auSj8SEAbMDxNEwH6hiJ55mIahU29YW3cQvAA_5gbN_9h4JZ1RoelAy2mEXxcISldKpiE4DDE84jpEplNR-7rGRqjjoefplW78XquL3Q-DwjQE6PfykMilkboSS-Y6pOVNPbl-PO21N6kRaLIHY1tLLh9xwGVoZiZpBwX4pxS0pF4VwX2BHRvsg7OuK2gUejd9rGJF5YbRF7hgFrgJPx84bTaDjsrgd9DlMOuQvFV3y7flZFIqtN0BjTHwaziZdToPJo38TiJpPO0pQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/2975c02c1e.mp4?token=eiEGzKe0yMNoe8hgDy-1zuuVXND7yaBY8iQ9pCiRTAY4-jnPbo5X4237eOtTVxIINPKBhQ3WZpZKaHGn4sjXqMm48LyVX01TIG_sYnRacqJ4iRRQS0tTnL-XI3Vy4uJbGv8uRC5ClC3j8uyi610GZ8jktfplWu_8Bz_fkjfAFZoHVLWKCBqxy-bwxD1b9JVdZs0fnpYUeM6oOcbxU85j9YfIArbmXBlkkq3d1yiyLfIvB5WQbH9HwzoGrVq9OITCvIcrfMAk5WTqwStpyyokwOh7xC_93YKse3gxz0ozfNN5bUpgyZHb8ct1MiVyKP-786QIlbrKqkqsUmlifTqvBw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/2975c02c1e.mp4?token=vUZR9kybi44crjDhgAqVzXNGZd1rF2nloABfO4YflC_95X_uS5bZkENevVslvfaJzhRZ3S5auSj8SEAbMDxNEwH6hiJ55mIahU29YW3cQvAA_5gbN_9h4JZ1RoelAy2mEXxcISldKpiE4DDE84jpEplNR-7rGRqjjoefplW78XquL3Q-DwjQE6PfykMilkboSS-Y6pOVNPbl-PO21N6kRaLIHY1tLLh9xwGVoZiZpBwX4pxS0pF4VwX2BHRvsg7OuK2gUejd9rGJF5YbRF7hgFrgJPx84bTaDjsrgd9DlMOuQvFV3y7flZFIqtN0BjTHwaziZdToPJo38TiJpPO0pQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/2975c02c1e.mp4?token=eiEGzKe0yMNoe8hgDy-1zuuVXND7yaBY8iQ9pCiRTAY4-jnPbo5X4237eOtTVxIINPKBhQ3WZpZKaHGn4sjXqMm48LyVX01TIG_sYnRacqJ4iRRQS0tTnL-XI3Vy4uJbGv8uRC5ClC3j8uyi610GZ8jktfplWu_8Bz_fkjfAFZoHVLWKCBqxy-bwxD1b9JVdZs0fnpYUeM6oOcbxU85j9YfIArbmXBlkkq3d1yiyLfIvB5WQbH9HwzoGrVq9OITCvIcrfMAk5WTqwStpyyokwOh7xC_93YKse3gxz0ozfNN5bUpgyZHb8ct1MiVyKP-786QIlbrKqkqsUmlifTqvBw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">⁉️
 ▶️
@@ -1570,7 +1570,7 @@ T.me/TrexBet_Ir</div>
 
 <div class="tg-post" id="msg-106752">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FXDV1lpa3q33uTDEm-QHcSXjG0umhaWGY0UggvYA2z2lG4fkADLqxFP8rcs75qxHneIzUoy_7CTkqHXDQiUNBYZ8JJI3DPZEcONHIgAqjoczj-GeHo2b97VKzPSmj-rpBUeTujlipGOab2K3oJmtBvWyWnil9kReJNIfC3vmivXupwi6FAtEuApY7zgQAvIxh6CSoZ1qYTVCO_dAePuC29NtbZJpXsfv7tqQwV4xN8nYR114l3AM6fwAaooQMrnQM1pXG4-2vuNi0LmXyCc-uBqqxiIO7exY8lxM1iPON7B9jnxck-WmizrWDMInZr1U-QxLDZ3hNAn6u-oWUA1s1Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pPqj8SwNGQ9SUbi40k1TlJJL0UiRNuaxhw63bdmboICQjOVSTzlYV_l_xXQd7DTsRDyPtjVqmtvvzcfGdUnrzKcv89GLyR2XSVslaySQXwfR1fSOTloHXEEAbgUu6EBm2Wh6ormFAJq4ZuscKBZ2PgFn-fnOqxmGGYagqVfh4FB6Zyw84JQHmr4_LAZMRk0sEDrCJzJ8j5CPl-BWRnX6JStSiaaTrCvq3DIkJswMVsUv69La7D4IR3hlbgPHYzBrI_nXBsSBfWtvBSkgbgfYOWdeZ1EdWVmBSWfGuPihs-62kFl5e0u3atgZrqBjAPMfGH5gGSVybt65z7lblJkE3Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 ⭕️
 🇮🇷
@@ -1583,7 +1583,7 @@ T.me/TrexBet_Ir</div>
 
 <div class="tg-post" id="msg-106751">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tLSFpTtSYAoJCkf4pSO_o8PbKrfRRQ7tXBxKggaQyGGu4e7iAQTinmKOSt4bg8mz2UC67aURG_1bfEDX9Aj718S0Vw7NTki_cPP0bZLhb3r6TknJVmVEi_ga5FSOyzcT2pdbzP3sWJ1K6rjRi4sLul-tNsjbRQD34mQHKjNcsePozMStF4WAJ_LnFV32yQmnEkIFwFHs5Zq3JDpdNXTup1LxQoh36JtOd3uVwpYzIeB727uz8WIaLwp9Hvy6LqYdmWdqijyXKSS1_zR53ExmSfWqi89DYytjeZZl-OnkSdbnJHRqbTH5zap_ieL9qHwZ9ERNrSAtu9o2RhOFo_0hyw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KpGUqXrKaC_tyCxVrVuVeMAe_sGC3OzLGedbrTKnp5h7CSPQfjyp9j8aAE_6kHDvXYUx3NF1JOCdoDn0f1nLSceMopffqY1XQcLGI2uPejVVQcrhrWb2WG0iRHBlGwUVkY_EiOnhsPrq6Ce3G4x97y4h2fQQeAZpOyY14yaqQ0doD5LdNSGtLimFuWw-sw3p25TI3EIrHIizPIiEK3794P_Fwf0tO-zYe6bulTOprBqwePvYJv52jZr9Un7eqo8U7lUpCPTwAEMEKfsRhnJrojZL6ILkY9bbJJS4W9JGS1zGBOAyAxWYn7n-IAjG5C8SiUzb_fwlAvi8ysF34iZfWg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 ⭕️
 🇮🇷
@@ -1637,10 +1637,10 @@ T.me/TrexBet_Ir</div>
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/bb69509038.mp4?token=egmylYYSMpDbYHWHSya9Q5xbj-BvGXDkBmnvjdiASQtHi0eXJ9VPB5uR9J9ijk93BaGY9i0yjLhnwd9WNxBm14HJlXh_fJByGr1IfS8zDZpzGKL4zlAMii2EIVzQ5y7Fv7nJevir8jJ4U2bry1ZCsMswNghZ3Xl3axdXaKCNnKHqxWdljG352eqaY5KOKNHo6FxjdLUchVtEv0oouJ-hAO0edqF_WrYuIMXYbF2Tw-3eSiZxdVpGEaZlozWgO5jp-XGeNh3m6NQBPhrfvPNtjPYX0_q6upjYxcTkJEB69-mFBqfpiqM1oc-qpBMoTOX2B1_I-NdvacGtGb0XaUHLxjB_3x9eaCPHjPrxAWdJ0-UCMYZ_KwGYS0DBL90ipqL3aGPTVcg2osFPuDfMQ6TKBk0eQirqujoFmg8_hXkyEbFIRwp9o5x7fledYxOcrf7daLbSddSMSgtu6ueORZIFEaG1RA0lFed6LooUU1QE4rVUIyeZAAcrFLnFuguacOAo5eeQlGftBFdiRqbvTMj1i2j2h8AUyrepm_kkNGS55JuBEK4-L-3JxF5cMoIypN-rVRKPvLiXNqtsIufZOj8DDbhu1BNRkY75imJZH-VPW9MZnNFy2syrDwhSmd4_yvrwAN6iz7bSwvaVGfagat6HtFYd-7PBsCABu6rG3xRJ974" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/bb69509038.mp4?token=f8sWulPv6uwUNYI7aelszwrv-tAt4SSsgtILz4dk36EiMMYBNMF6Q0eAX20rzNN6Y3p1bnvXYhFL-5Sjn5khUYd4ysIIX8-vNFDYmikVusvKeqIKkyczy_nCZpqOTIn0dXTVMxpP26fgaLc0n_MGUw9qHBkxgkWrtkCgxNNTNtx1mnwZ-EBWwhvYkU-GS72dwz4V9S33pCTyKpujoKzTq8WSWudOHd-a3jztNO4GkF7qpiG90E66Qn1g4Az6eykvnXLTcWQae4I4R0LeaCKULVujrB8nA7BUSbCz1UeZJ6JF3d6jBpsvm7e07g0eLf7vK24UZi7PtlaylBJIbq-c-lLgF2AdkZNAnts_UbLtWrbs2EzE_TDsB2LAHGITRfCJAPqRWanSrGVgBrfp27tT053YfHocVRnRysBPc0iwiWLvpn4nwy9kZLbINKuFXnP3fUGzaNhB9M2lhrR-wO4swfKpUhGHrFfIO9jNt0zp5Ik-EQq9K0jfz6F1foYVxW3GhMkh006oilYpL8HRV8ui6DPv8-3rdgDO97ng_XYbPUPNHlHfNNgp6hXatuUNNpiEDyH-7iinaPaVthQv3z4I4Eg-d35LqvZC0X7LmY7aOEESeY0Uoxn_FGBfCFq0vJjXjrrMjA0cdMbb9zhO8TZWElvuJoSnSWKPm0fV0YE0h3o" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/bb69509038.mp4?token=egmylYYSMpDbYHWHSya9Q5xbj-BvGXDkBmnvjdiASQtHi0eXJ9VPB5uR9J9ijk93BaGY9i0yjLhnwd9WNxBm14HJlXh_fJByGr1IfS8zDZpzGKL4zlAMii2EIVzQ5y7Fv7nJevir8jJ4U2bry1ZCsMswNghZ3Xl3axdXaKCNnKHqxWdljG352eqaY5KOKNHo6FxjdLUchVtEv0oouJ-hAO0edqF_WrYuIMXYbF2Tw-3eSiZxdVpGEaZlozWgO5jp-XGeNh3m6NQBPhrfvPNtjPYX0_q6upjYxcTkJEB69-mFBqfpiqM1oc-qpBMoTOX2B1_I-NdvacGtGb0XaUHLxjB_3x9eaCPHjPrxAWdJ0-UCMYZ_KwGYS0DBL90ipqL3aGPTVcg2osFPuDfMQ6TKBk0eQirqujoFmg8_hXkyEbFIRwp9o5x7fledYxOcrf7daLbSddSMSgtu6ueORZIFEaG1RA0lFed6LooUU1QE4rVUIyeZAAcrFLnFuguacOAo5eeQlGftBFdiRqbvTMj1i2j2h8AUyrepm_kkNGS55JuBEK4-L-3JxF5cMoIypN-rVRKPvLiXNqtsIufZOj8DDbhu1BNRkY75imJZH-VPW9MZnNFy2syrDwhSmd4_yvrwAN6iz7bSwvaVGfagat6HtFYd-7PBsCABu6rG3xRJ974" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/bb69509038.mp4?token=f8sWulPv6uwUNYI7aelszwrv-tAt4SSsgtILz4dk36EiMMYBNMF6Q0eAX20rzNN6Y3p1bnvXYhFL-5Sjn5khUYd4ysIIX8-vNFDYmikVusvKeqIKkyczy_nCZpqOTIn0dXTVMxpP26fgaLc0n_MGUw9qHBkxgkWrtkCgxNNTNtx1mnwZ-EBWwhvYkU-GS72dwz4V9S33pCTyKpujoKzTq8WSWudOHd-a3jztNO4GkF7qpiG90E66Qn1g4Az6eykvnXLTcWQae4I4R0LeaCKULVujrB8nA7BUSbCz1UeZJ6JF3d6jBpsvm7e07g0eLf7vK24UZi7PtlaylBJIbq-c-lLgF2AdkZNAnts_UbLtWrbs2EzE_TDsB2LAHGITRfCJAPqRWanSrGVgBrfp27tT053YfHocVRnRysBPc0iwiWLvpn4nwy9kZLbINKuFXnP3fUGzaNhB9M2lhrR-wO4swfKpUhGHrFfIO9jNt0zp5Ik-EQq9K0jfz6F1foYVxW3GhMkh006oilYpL8HRV8ui6DPv8-3rdgDO97ng_XYbPUPNHlHfNNgp6hXatuUNNpiEDyH-7iinaPaVthQv3z4I4Eg-d35LqvZC0X7LmY7aOEESeY0Uoxn_FGBfCFq0vJjXjrrMjA0cdMbb9zhO8TZWElvuJoSnSWKPm0fV0YE0h3o" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 🇪🇸
@@ -1657,12 +1657,12 @@ T.me/TrexBet_Ir</div>
 اعلام فهرست بازیکنان لیگ برتری تیم ملی
 🔵
 علیرضا بیرانوند، سیدحسین حسینی، پیام نیازمند، محمد نادری، احسان حاج‌صفی، شجاع خلیل‌زاده، محمد مهدی زارع، عارف آقاسی، سامان فلاح، صالح حردانی، رامین رضاییان، آریا یوسفی، میلاد سورگی، عارف حاجی‌عیدی، امید نورافکن،…</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/Futball180TV/106746" target="_blank">📅 11:29 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/106746" target="_blank">📅 11:29 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-106745">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oqzu5x5-eYhp5jTTPsx2H-6MqLGirfp-ajId2QZ_k4n4XOHEXTNZOC6MBVnjtmwpbbpklWFJ0DpJ3YcNLkzWiAiPOmyn7Xc2ldMrs3p-msDKlBzLuchTelTKlvU9DiGFrlFxbVqB8Ht_yb_qJI5p4MfPuDW3ZnQK-2qt-CtLXVZ-5iMhbZujy0FgZ7Vtk-1hLdw2bLfDh1ZETn5355X8kkpoKojzlY7jjYLErip2FiJJbbcnud98PGoIwe9sELA4lcwUSowCFBGtmJZEImmRQuSSBtWWpo0xULcsyQa2YP3bv9QnPwrxgsnfYtOS8bc95C41npVNhoH37_cok42aNA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QqHmkBqh-G18n6QDmCv982pAiZErCVuNjvkXDBqd-btZuXQWoBLYGQ7A8-52dCGXLwbVjFLjZKT3TbOhqyZOMGSejssff2HuET8U8KkukAP6EwcXJG3FGJWYO9P-xXtqoUuIrEv18H5amjlb-7JJCe4o-NdKMR7Btg29pHJyU3fh9BA8XzT3UUFBTmoN1RH236lR4hQdaXi9nmbI90skxWen930VW1DikOYzMNn-z9SvEC2xROxHI0u0_zEwp1rRrec2Lr8FcN6SMIeXwkU4qrStGfbE2TDuL-6U9Z-V8sAOvIEdl9T1GMcMRoTFgrl_F7lFpWhgSsLWQCI1JgXD_g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 ✔️
 اعلام فهرست بازیکنان لیگ برتری تیم ملی
@@ -1677,10 +1677,10 @@ T.me/TrexBet_Ir</div>
 <div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/5b540a014a.mp4?token=ta6OEZv9VklgFYJRyXoA3kqU5cs19i62klSV0KA79zm8Fxhmz_lpCLQjF1Ql3zP50CiiD0xACjavMb4sGlIth7OukV8C9Em8S-H9S4j-wzWQ7ln8NB3JvCbZGVkUUmxJpcH1QD8DxRbU-9yYeRXcYWhWh4jJbuq9TT6qCusXRCpSO5q2WbcMNDrI4KsHqJt0tDazY7RdRLk0r_uYRX6dPzeoWB0xt6J2y4DKWmH87fbUDai-_tjwozV-182JFVKXgGzZl0-3waXKDdP4nyAewoqqh1Rq_QzIT5mSL08TEQBFMg45joSmUGySsGHlyHaONgNpuWx3oAASCCpDxkYUXhczv3uJ3Ia39ktzJdYk4vFGUDRvk8egFvyTcgpuAiyk-xgL83f4DncB2SXpa1VJS7y5uZktgP49Q1t8REEixyJgjBSqDhN5EIzF-VX8kxwrnM_LIK0aWflLmEhKb1xjaa81ZSxpsgar8f2-nE15Fp0mdG5WaUx_-F9k8x0pu4TpLHwk-AyugYeV_CA6wcPd6CYkkPpnRaTTSXs9rWV0DI8vUdOMnjMCA174dXGeGfhA-g_J1PprngLFy6Um67_bt87SALp2FeghBKAIftx2jP_SN3njCk2fzAYIaeJEmydao15DzqZAcz5w1vBx3EC2VUP3dQEkCCXpfn1xWzRyUME" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/5b540a014a.mp4?token=hHj64P8EskmeBr-Sy_2qskqPNgvfcQVPQlsyPWooU-N99A0XGzoYv-7pBUuG_srVSrw9oYXHqSQrUDng2dwpZS3y5uhyC7OCvtW_eDgEBKBCgmffEhozgPdTF97MCd7Pxb8cPzEasqWBt0OdREVJLMTy5gR61XZCyBb-8UneuORmO-rZkdEWf8dmFeaqwgg-3HHt0gTODn-ncQeapUjyDXJMmOy5KSPnVP97w7aB4ZNU-7drsWaOwPg8vxOK5H2nr47h_JU55a2n0MTDQ3BfMc6KI2wCAuVp5seQjtqIOikKfJ7h8suI6kg0ifJYDBMbGG-N66hSWOjBHopK1byh5LTKoc5C_0ZGzLyg11_8w4-MpNF_R7T38Vd0s8G_4h81rspPHiBny0FS4UlzNIOiGjxk48nhKjsGkxnKctL69oRysz-J3lOePcZ8VGVNgOC36VLH0-xL0UFOMCv7rUexmhz9M2LfpHNCwpbjv6SfscyQK-oxBzdtmskrnfPVsMLq6RAvNE-0ZO4j8FtftV2Pi_8mMYofg2r1to2We4Pspc-o8EnKGuulJFNJWAoufNvPyJVtaBkKio-_qsjUQ_kaRXLibaG33rhZgGTTqqmG1z9mQsvVqHNbYydR2TfdK2tNhl-4iIX36yRCi7vQ7qpiis6LQ0BYv_dRid_rzIjSuyk" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/5b540a014a.mp4?token=ta6OEZv9VklgFYJRyXoA3kqU5cs19i62klSV0KA79zm8Fxhmz_lpCLQjF1Ql3zP50CiiD0xACjavMb4sGlIth7OukV8C9Em8S-H9S4j-wzWQ7ln8NB3JvCbZGVkUUmxJpcH1QD8DxRbU-9yYeRXcYWhWh4jJbuq9TT6qCusXRCpSO5q2WbcMNDrI4KsHqJt0tDazY7RdRLk0r_uYRX6dPzeoWB0xt6J2y4DKWmH87fbUDai-_tjwozV-182JFVKXgGzZl0-3waXKDdP4nyAewoqqh1Rq_QzIT5mSL08TEQBFMg45joSmUGySsGHlyHaONgNpuWx3oAASCCpDxkYUXhczv3uJ3Ia39ktzJdYk4vFGUDRvk8egFvyTcgpuAiyk-xgL83f4DncB2SXpa1VJS7y5uZktgP49Q1t8REEixyJgjBSqDhN5EIzF-VX8kxwrnM_LIK0aWflLmEhKb1xjaa81ZSxpsgar8f2-nE15Fp0mdG5WaUx_-F9k8x0pu4TpLHwk-AyugYeV_CA6wcPd6CYkkPpnRaTTSXs9rWV0DI8vUdOMnjMCA174dXGeGfhA-g_J1PprngLFy6Um67_bt87SALp2FeghBKAIftx2jP_SN3njCk2fzAYIaeJEmydao15DzqZAcz5w1vBx3EC2VUP3dQEkCCXpfn1xWzRyUME" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/5b540a014a.mp4?token=hHj64P8EskmeBr-Sy_2qskqPNgvfcQVPQlsyPWooU-N99A0XGzoYv-7pBUuG_srVSrw9oYXHqSQrUDng2dwpZS3y5uhyC7OCvtW_eDgEBKBCgmffEhozgPdTF97MCd7Pxb8cPzEasqWBt0OdREVJLMTy5gR61XZCyBb-8UneuORmO-rZkdEWf8dmFeaqwgg-3HHt0gTODn-ncQeapUjyDXJMmOy5KSPnVP97w7aB4ZNU-7drsWaOwPg8vxOK5H2nr47h_JU55a2n0MTDQ3BfMc6KI2wCAuVp5seQjtqIOikKfJ7h8suI6kg0ifJYDBMbGG-N66hSWOjBHopK1byh5LTKoc5C_0ZGzLyg11_8w4-MpNF_R7T38Vd0s8G_4h81rspPHiBny0FS4UlzNIOiGjxk48nhKjsGkxnKctL69oRysz-J3lOePcZ8VGVNgOC36VLH0-xL0UFOMCv7rUexmhz9M2LfpHNCwpbjv6SfscyQK-oxBzdtmskrnfPVsMLq6RAvNE-0ZO4j8FtftV2Pi_8mMYofg2r1to2We4Pspc-o8EnKGuulJFNJWAoufNvPyJVtaBkKio-_qsjUQ_kaRXLibaG33rhZgGTTqqmG1z9mQsvVqHNbYydR2TfdK2tNhl-4iIX36yRCi7vQ7qpiis6LQ0BYv_dRid_rzIjSuyk" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🔥
 🇪🇸
@@ -1754,10 +1754,10 @@ T.me/TrexBet_Ir</div>
 <div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/704ad943ef.mp4?token=J8XHgRjqOG5GQ34QuOrDecnDm3R8WI3o2thY9m2LfC7ojJrHK8v4BZj6hhsPUhJIuN84NMXOTHaWdYVC-Q6-7wyIRm6knUQeC60F1_QjB_DZFHafU-WjnTpqGzbPtyQYcYx7FPgH8bkuIFiFq6jqH3dQs7KSYgwNndqcQyUIyY42fvFUmPAX3D2uG-cW5sFO6oXPw5SyIgUsv4vxLTYEjZGL1rPM8rytuJ0TXpkDV5oWjsQ2UXgmyrWZPOAXKme-M0b9U-uX-9b3KsIxaEQAlRyvvZiasWR5k8alqH92deFkgue6GhUlraJk8A-1G-HdPm9RSqrLne06G7El7S-iug" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/704ad943ef.mp4?token=Gnr7UiApQriwhfzHDhFQSduR_7bTLcdpD09VdWvW8zBD-1BZ79suznvL7bSM_nO2Hs5eQ92sG2oEzBzWYReszFgev_aatOBehHT0VPqt3O94TBSUWj2wHxqrgUqqoZk2o6TvJbxmWxEU1SOCRS87OQxQNXrsHbAlSVYIrqt5-JLddbJ6lLV4J7S4_sBIO7G8fRU23b-KTy-VDrbDwK1XIOFLAGWJRQhGccAI0wm8dg7-u4-iAmk7QS0q7GjpwXAP9O2iuxwOYneMw87PpE8enl0oyI0OYpWF7FW9buvzRHeWCSLOzxIYahwwbRSWjVxZ5ozbBUnmWTuKgkMjzF4FBw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/704ad943ef.mp4?token=J8XHgRjqOG5GQ34QuOrDecnDm3R8WI3o2thY9m2LfC7ojJrHK8v4BZj6hhsPUhJIuN84NMXOTHaWdYVC-Q6-7wyIRm6knUQeC60F1_QjB_DZFHafU-WjnTpqGzbPtyQYcYx7FPgH8bkuIFiFq6jqH3dQs7KSYgwNndqcQyUIyY42fvFUmPAX3D2uG-cW5sFO6oXPw5SyIgUsv4vxLTYEjZGL1rPM8rytuJ0TXpkDV5oWjsQ2UXgmyrWZPOAXKme-M0b9U-uX-9b3KsIxaEQAlRyvvZiasWR5k8alqH92deFkgue6GhUlraJk8A-1G-HdPm9RSqrLne06G7El7S-iug" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/704ad943ef.mp4?token=Gnr7UiApQriwhfzHDhFQSduR_7bTLcdpD09VdWvW8zBD-1BZ79suznvL7bSM_nO2Hs5eQ92sG2oEzBzWYReszFgev_aatOBehHT0VPqt3O94TBSUWj2wHxqrgUqqoZk2o6TvJbxmWxEU1SOCRS87OQxQNXrsHbAlSVYIrqt5-JLddbJ6lLV4J7S4_sBIO7G8fRU23b-KTy-VDrbDwK1XIOFLAGWJRQhGccAI0wm8dg7-u4-iAmk7QS0q7GjpwXAP9O2iuxwOYneMw87PpE8enl0oyI0OYpWF7FW9buvzRHeWCSLOzxIYahwwbRSWjVxZ5ozbBUnmWTuKgkMjzF4FBw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">😆
 کادو ولنتاین سمی مسعود شصتچی برا زیدش
@@ -1808,7 +1808,7 @@ https://t.me/+bDapVmvigDhmYzZk https://t.me/+bDapVmvigDhmYzZk</div>
 
 <div class="tg-post" id="msg-106733">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/E7aZLCAtDintLN6eJGXgHnX3u6I1TOXjn7W-axhCyrwbwGIodCnzrRVfm5ORbo_nx-SOremdFrxX3UKN5go4oXjUCSsP4R0cbmUqSV_pZGIHRwVxB0GqtjZL3-ukFX3NP7EiUpVEhuCjIX2H3tMrQ43kEghXQLQKLGygXbsuZeMf19CBIiypeWl3tgeJq3RQcaB-x5cvF7dAYQ5pXGxiuHlCzhloD8FoyB89px6KCTURhB-JySpRjCZ_-YS543moxypg05Mog9Ay6KDrWcHVWNUXfQRjGLYiuMXdk5Gy2cFvRzEzpSiFT3xECf0jWYScaDvybjgzY126k08rdDrr5g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/BnAHWYbiUbbVT-qCFvC6KC0IoF74pd9oCXUDnoKJsd531eQBgsZ3YM64WfOmo4Bhj-Q3YwFBakqth13bgE92A4SIiUsF18I8P-Hcf3hPRG6gfi1_xJOVpalueUGm78QY5Z1FXYNjRtLmD0-0Uc4fMTZzLFc77xYdbIOZVXJwdrBI-TW4RNil2DTkRKhg_k2wmxmhsDYXZHXUEt7ya20xzh947BpqasMfzRo31zrsMSuxQyS-mbDNc8mt8-cUAkis77dEWf5t6gv3L3eKeTVlVfxeyqnXim_WsBqllUZj2t4E2RUf0JH35yxCkhdlYtei9B4D-SC0N3r6iSCaufLViA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">😶
 🚨
 🚨

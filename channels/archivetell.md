@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-28 01:15:23</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-28 03:16:00</div>
 <hr>
 
 <div class="tg-post" id="msg-7785">
@@ -311,7 +311,7 @@
 📚
 پس فردا حواستون به کانال باشه یاشاسین بچه‌های گل خودمون قشنگ هر فایلی که ایستیسَن رو بدون یه قرون پول دادن یادتون میدم دانلود کنین. منتظر باشین که قراره بدجوری بترکونیم، ساغ‌اولون!
 💣</div>
-<div class="tg-footer">👁️ 660 · <a href="https://t.me/ArchiveTell/7785" target="_blank">📅 23:18 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 774 · <a href="https://t.me/ArchiveTell/7785" target="_blank">📅 23:18 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7784">
@@ -347,7 +347,7 @@ https://api.ashna.ai/v1/api
 app.ashna.ai
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 639 · <a href="https://t.me/ArchiveTell/7784" target="_blank">📅 23:18 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 750 · <a href="https://t.me/ArchiveTell/7784" target="_blank">📅 23:18 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7782">
@@ -361,7 +361,7 @@ app.ashna.ai
 (این پست طنز میباشد)
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.3K · <a href="https://t.me/ArchiveTell/7782" target="_blank">📅 20:25 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.36K · <a href="https://t.me/ArchiveTell/7782" target="_blank">📅 20:25 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7781">
@@ -392,7 +392,7 @@ app.ashna.ai
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.17K · <a href="https://t.me/ArchiveTell/7781" target="_blank">📅 20:04 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.23K · <a href="https://t.me/ArchiveTell/7781" target="_blank">📅 20:04 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7780">
@@ -413,7 +413,7 @@ https://libgen.is/
 ✈️
 @ArchiveTell
 | S</div>
-<div class="tg-footer">👁️ 1.29K · <a href="https://t.me/ArchiveTell/7780" target="_blank">📅 18:15 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.32K · <a href="https://t.me/ArchiveTell/7780" target="_blank">📅 18:15 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7779">
@@ -434,7 +434,7 @@ API key خالی
 سریع بزنین تا تموم نشده
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.22K · <a href="https://t.me/ArchiveTell/7779" target="_blank">📅 17:25 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.24K · <a href="https://t.me/ArchiveTell/7779" target="_blank">📅 17:25 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7778">
@@ -466,7 +466,7 @@ API key خالی
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.15K · <a href="https://t.me/ArchiveTell/7778" target="_blank">📅 17:22 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/ArchiveTell/7778" target="_blank">📅 17:22 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7777">
@@ -479,7 +479,7 @@ API key خالی
 کلیک کنید.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.1K · <a href="https://t.me/ArchiveTell/7777" target="_blank">📅 17:06 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.12K · <a href="https://t.me/ArchiveTell/7777" target="_blank">📅 17:06 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7776">
@@ -532,7 +532,7 @@ MiniMax-M3
 ⌛
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.21K · <a href="https://t.me/ArchiveTell/7776" target="_blank">📅 16:05 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.24K · <a href="https://t.me/ArchiveTell/7776" target="_blank">📅 16:05 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7775">
@@ -563,7 +563,7 @@ Anything2Explainer
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.32K · <a href="https://t.me/ArchiveTell/7775" target="_blank">📅 13:02 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.34K · <a href="https://t.me/ArchiveTell/7775" target="_blank">📅 13:02 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7774">
@@ -600,7 +600,7 @@ Crystal Upscaler
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.39K · <a href="https://t.me/ArchiveTell/7774" target="_blank">📅 11:22 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.41K · <a href="https://t.me/ArchiveTell/7774" target="_blank">📅 11:22 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7769">
@@ -645,7 +645,7 @@ trial
 لینک دسترسی
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.65K · <a href="https://t.me/ArchiveTell/7769" target="_blank">📅 20:29 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.67K · <a href="https://t.me/ArchiveTell/7769" target="_blank">📅 20:29 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7768">
@@ -659,7 +659,7 @@ trial
 Context ۲۶۲ هزار توکنی (تقریباً کل یه پروژه‌ی بزرگ رو یکجا می‌تونی بدی)  ‏
 ✅
 پشتیبانی از تصویر (اسکرین‌شات و دیاگرام…</div>
-<div class="tg-footer">👁️ 1.62K · <a href="https://t.me/ArchiveTell/7768" target="_blank">📅 20:16 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.63K · <a href="https://t.me/ArchiveTell/7768" target="_blank">📅 20:16 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7767">
@@ -703,7 +703,7 @@ https://openrouter.ai/stealth/union-alpha
 👇
 🔹
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/ArchiveTell/7767" target="_blank">📅 21:47 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/ArchiveTell/7767" target="_blank">📅 21:47 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7766">
@@ -719,7 +719,7 @@ LYA0IL
 + در opencode، این مدل به صورت رایگان ارائه می‌شود.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.64K · <a href="https://t.me/ArchiveTell/7766" target="_blank">📅 20:23 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.65K · <a href="https://t.me/ArchiveTell/7766" target="_blank">📅 20:23 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7765">
@@ -769,7 +769,7 @@ Vibe Coding
 ✈️
 @ArchiveTell
 | S</div>
-<div class="tg-footer">👁️ 1.67K · <a href="https://t.me/ArchiveTell/7765" target="_blank">📅 18:02 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.68K · <a href="https://t.me/ArchiveTell/7765" target="_blank">📅 18:02 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7764">
@@ -821,7 +821,7 @@ github.com/AliRezaC-xrol/bkup
 نتایج تست‌های عملکرد در تصویر نشان داده شده است.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/ArchiveTell/7763" target="_blank">📅 14:47 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.54K · <a href="https://t.me/ArchiveTell/7763" target="_blank">📅 14:47 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7762">
@@ -1064,7 +1064,7 @@ iamLiquidX/telegram-clone-worker⁩
 ⭐
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.57K · <a href="https://t.me/ArchiveTell/7759" target="_blank">📅 12:19 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.58K · <a href="https://t.me/ArchiveTell/7759" target="_blank">📅 12:19 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7753">
@@ -1073,7 +1073,7 @@ iamLiquidX/telegram-clone-worker⁩
 <div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/N1_pFID8lGE3PKgqO4eXhW3IjTdQxn2psKlYLCRKi6sOV6tPqMxSlLmz1MlbxKbAx879vp5lmcRM6fiWD6ounxesu7dik0GYBiZBxtkPC4ZwPmv86G6DQx-D91okMtH709Igz5mam-1z-Qn1UcLvsRXfZ19Khej6B1zAzzcHU7keavgcQQE1daQ7aYDGVZ4bNu_biocySgVz7VgzHuO1CiDfk4R12mrTha4obMUzQmFHhRHPL99vIMkfJ4EpK8RTXWz8t40zktUTJ57shzb7LpImoBz8AllmMqaozkeGPy_qJrjfktV9551bU_ESS-w5n2ZwvKfgMJQeTBWbP9C9Ag.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/rAYRYKpVPRK84-No38-6G0CYk971QzIJWQEFVF3uUjr0VsI3SS782G1eMuEzdiB-7h7Lzwn6g-eGBVnydehf6PxE6PuSF-5Uo3ddUbYl4tfJWTtBsksczOlRmYYHyUzUxyolRkYndBWI51qyiRrkqCf5Dp-XQl5ewej_b-SAMo0CTy9lfgPFXGjdSzK4pc-iwpZPHugFKtQcCXdITqZmsEPCWLUcvO4ErONx7VK0ou-XqEG0uqahk8WftP-_Z5D55EjMv5fOEhHFwp0KbMgbNukOqt2hqoeuUrAYUugQCx4zBNoinumZAU7iDTkzYTEwN2g62dEdlSD_B_4JgqIPhw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/dcpR2YtpxeUC6PFJwb-1WEsFjdNUX3rcu6YM-lj-SIiQtzEAHUOadPTzctS_aBZuy0J0y2Z4oj1VbCmGob_3k_z37S4dwSiXD6k8LplwObZB50r3L8rDO7RAOcJLLsRov2qHnPQGmxmke8UB1R7UzSwM3M1MHmfoCbTs0-82n5lkcJ5uEhA1d79ndsmUsECZ7jm9K7ne26GdCt3-APF_1fPr2cUS2Jt42MP19pHiFcTFjn4-CP2adwARJE4Qq1krM6E0qg0BKxIkjRpFf1LvYuhRqFZjySqVfh1O0mXh9aJZlbWoz-sADHnwYsziNWHUvTcPIPXAlPhlKCasw2yoLA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/JL0MHpAWbnBlf3GujKMHabnnjeeBptkBvWshZSPWsT-YGq4xCOoo44bFj-ChBGBdNCJJ9ykI8zeBh3fKv-A8k4zeuy4G1ULbpLiF3Maq3uVc5X255d2cw_sLXQcM7u5pFA3RIX-NCG2-Hyk-AbZkr6jvrdaAecAvoBCg-AGQEchh1tdJ66bjM2LDSsfGu6gdYZDFpWuqIgfowjqlpvnpWbmDG-PfuwHFqI336mrjnOEJFfLVnKCYr8qsCxw4pnZkdY-if6GtxY8Ol4MV_02ApXIRSpwzZi2O01a44NP0hcgW3rw_frWhrlpWJyJZbMtb2CTv7h1i1EkjrGPz-kQz5g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/CLe-Hu8dIJPIzlivkXln0d1kcvO0k_B_NQ0OMyK6eoXLMfHDSlxkGStk6FzBRixDZseH-QmGq_v2X_t5ig-7qprHfVDNW5_3xrg7SxuumwUpwxWW-kJALuHZB9paCjdaPHwe9GVPZYN5LdMxO00Jvh4fbXNdxzxJTb5MhwvaAE7YKkJOUvfQzcIQE6oyEPH96yFZ-KJrYbFlmss-IanxEm3QhWDOs-CimVxQJ_35zrEXDDuGpdsuCjltqY92BcQyAD4Ue5VBlYUYXbU3YW97kiP0qfHBwzl1tFFxqOL7O6xGWRe2oPJNZszGxbOs-UvzibpBgbfncMSgDFaO2XsA0w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/saA-1BSpNoyILtZ2swQ5I3h3OzXYSYo4KooeYNPW7NT6CijC9u0jd3ID_feD8RsFPoEHx36vpNCaeeMwsPfK5qrzFrM0e_1DIm_uT-GEkFsInb1lZUJrm3bhxK1ZsjaBrwnxIyaXzNQOmYFikd5lqzoCnxBvAhdghIDnUR0bIEJm2VCu2b2IW1CU9jSgOe8XNPwPVCK-VBiWcB8prCVdKEIUl4x73PG5FCuVBw44sBymkXklZ4qt_f0_o65x_iVGmRbDCGxRyMlyPvOMbueh7EEiOXFqaIY-gL9UJEZuep7YzB34mdyPcpHW7BmBWWefgBn58GAnDePaPFHabAGGvg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/do9TZt7M4Ljik1EOpKMV7WBT1kmkKWTH7d4DgKbxCo8xdcLHDrtldSCMwQPRDJ-pFuLAH36YzOWkeduKTWv6_8UhvTW9cliycaAg_Q4Jfw-BNDqPLZYZEJ01qkTze_mC93XB9Lgc4T8VRazSOdVC9mldGk3m5lIAzMBbum7srwKIOVIO5kYLTgLje5eTJhwAaccWKMpxiMQOi8NB4jnS5ALAnzdXN0lP6DJVxXAkkwC0G3wa1VFaYfLDlUF7nsemqYM3fkG9qCUHiPDApPDErHKwusxLDWhIiSzlsKxf8Do2fEbcqfhR6H5JwGqSankQCyKq2iizviHNjKh-Zjmw5A.jpg" alt="photo" loading="lazy"/></div>
 </div>
@@ -1131,7 +1131,7 @@ https://cline.bot/desktop
 ایجاد یک جلسه و اختصاص وظیفه به عامل
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/ArchiveTell/7752" target="_blank">📅 01:44 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.73K · <a href="https://t.me/ArchiveTell/7752" target="_blank">📅 01:44 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7751">
@@ -1161,7 +1161,7 @@ lightvela.ai
 از آن استفاده کنید.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/ArchiveTell/7751" target="_blank">📅 22:06 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/ArchiveTell/7751" target="_blank">📅 22:06 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7750">
@@ -1172,7 +1172,7 @@ vless://e4b11ac9-46f7-4cc0-92ed-bb9dfaaf3600@94.237.92.65:443?encryption=none&fl
 ✈️
 @ArchiveTell
 | S</div>
-<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/ArchiveTell/7750" target="_blank">📅 11:02 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/ArchiveTell/7750" target="_blank">📅 11:02 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7748">
@@ -1186,7 +1186,7 @@ Z.ai
 https://autoclaw.z.ai
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/ArchiveTell/7748" target="_blank">📅 18:36 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/ArchiveTell/7748" target="_blank">📅 18:36 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7747">
@@ -1213,7 +1213,7 @@ Open AG Patcher
 دریافت ابزار از گیت‌هاب
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/ArchiveTell/7747" target="_blank">📅 16:52 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/ArchiveTell/7747" target="_blank">📅 16:52 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7746">
@@ -1316,7 +1316,7 @@ Analyses & Topic Classification
 🔗
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.98K · <a href="https://t.me/ArchiveTell/7743" target="_blank">📅 22:40 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.99K · <a href="https://t.me/ArchiveTell/7743" target="_blank">📅 22:40 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7742">
@@ -1606,7 +1606,7 @@ Kimi K2.6 | GPT 5 mini | DeepSeek V3.2
 بشید مدل موردنظر را انتخاب کنید و شروع کنید.
 🔥
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.04K · <a href="https://t.me/ArchiveTell/7732" target="_blank">📅 23:45 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/ArchiveTell/7732" target="_blank">📅 23:45 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7731">
@@ -1713,7 +1713,7 @@ github
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.75K · <a href="https://t.me/ArchiveTell/7729" target="_blank">📅 22:37 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/ArchiveTell/7729" target="_blank">📅 22:37 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7727">
@@ -1853,7 +1853,7 @@ https://github.com/mbm110/MSN-GUARD
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/ArchiveTell/7723" target="_blank">📅 18:35 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.67K · <a href="https://t.me/ArchiveTell/7723" target="_blank">📅 18:35 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7722">
@@ -2075,7 +2075,7 @@ browser-use.com
 💻
 ✨
 اگر می‌خواهید به صورت کاملاً رایگان از قدرت مدل هوش مصنوعی Claude برای برنامه‌نویسی، ساخت سیستم‌ها و توسعه پروژه‌های بلندمدت استفاده کنید، گیت‌لب (GitLab) یک فرصت بی‌نظیر ۳۰ روزه برای شما فراهم کرده است.…</div>
-<div class="tg-footer">👁️ 2.18K · <a href="https://t.me/ArchiveTell/7710" target="_blank">📅 19:44 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/ArchiveTell/7710" target="_blank">📅 19:44 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7708">
@@ -2124,7 +2124,7 @@ GPT-Image-2.5 Sunburst
 .
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.39K · <a href="https://t.me/ArchiveTell/7706" target="_blank">📅 21:31 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/ArchiveTell/7706" target="_blank">📅 21:31 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7705">
@@ -2183,7 +2183,7 @@ https://arena.ai/text/direct?model_a=gpt-6-astra-medium
 
 <div class="tg-post" id="msg-7701">
 <div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gqklllwiroiAWGGdrUOmZqMY5z1Dm9T6CiAeSX2YKlnhd0lpfL43qcNZFeCZtfVR2P4qhk7liMzFh5YwlNkhFacvuXwNSfUYgqtaVLRGMT9DhlG5qQQsQQLvTnxMRBQJ6JNXcjaukWz_fByY88hzTH1xBe5gsqwmDl3k1VBd4iHpoSFmebQW8HXdezwMsmpVyh20xhHUkYK9lPwqmr3SiudCl4bZstq759CWpx142VACUcGAkmsP8GwQwOq5_nt7HnFHle4HrPq6FT4V4JNCRBadVJhx5M7d-CoPc_E-kKjW-KfTK-4af4irayhhI14fzN4nD7yt9_4PSPMTSXBvtA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dR6PcixCo_zFD-Qzl8oCvDbC2c1gzaoreZrADI2s39csY7igfs1Jr1PMicsdh1k__fZK-E6y2C_PzPMbRBEBJlB3UdQItjIXPnuLwjnq7yslI4PKLk8ReLtK7nVyQ7619ZRQCRK08zikGZBKF4UvAkzIhc8BVHIDN57g6azFRVU4R8_VLcxFttrAjTmBYIH18Jfq1_VT1uuV4KjIGpxjys6vlTKcP2fy2p2uIa6hEUsjDp5F3Y3YGbzlbamkue8HEeeyg4c0FsOMNO8ZamqeTDURas6au2RJriQsphoE_byGWeheSHYjx2W3Z3zSUZMFIvc0NNIwdrzc2ohxJaCAfg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">150 میلیون توکن رایگان برای مدل های زیر
 💥
 🆓
@@ -2268,7 +2268,7 @@ https://kiraai.vn/api/v1
 Opus 5 | GPT 5.6 sol | Sonnet 5 | Kimi k3 | Gemini 3.5 | Opus 4.8 | Grok 4.20 | Gemini 3.1 pro  همچنین دارای چند مدل رایگان :  GLM 5.2 | Deepseek 4 Flash 0731
 🤖
 |Minimax M3   به این سایت برید یک حساب…</div>
-<div class="tg-footer">👁️ 1.86K · <a href="https://t.me/ArchiveTell/7697" target="_blank">📅 16:29 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/ArchiveTell/7697" target="_blank">📅 16:29 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7696">
@@ -2423,10 +2423,10 @@ sk-3c3eb497a104328775de0ddb333c7c8d596c20a89e25bbe7e204318f35e2b050
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/9374b9e092.mp4?token=MANvVcKJhuxUKbI_SXM5ABB9hZ90dV1fxbnSz5n2o8SL7KZWxnYiCVCS9C6_4kzALe4J6lLMb9vrIsRxHRyp92twJ0P0cKEoKKfZUtbBffwxGCrc5SCNIM32v2v3LZbkGkFiWPeCq8-HOBT2xi502TpL_VLzUNx6AO9SXrqNJlin_Yvd2s2w8pRnEVt7rqsok_XaPqxSNAesoORFJDjONZpOjTYuqBFTUdH8z8GgwfbWcpEoNLKDTze1ygBiVN_vzYl8vRZ-cfF34VfmbDAqxaoR-JJEFxlNux52OiUH0P_pY2RjJU12iAtlgGYFbdU-ltJYpqGae7g2hUw0Lsqk8Kckfz4huZCoS-sL2vrzGMJ7lL2nQpVku3r5b5sPqUWhNPvZ8zBHFEuayuIZgnKuB8vE7uVPUeDARu5FvO5VOgRLm-TtX51mB6JTJSi-cnDRpfEkiQUdmDdax5YvNg_DL0euHS4d2rpOo1OzpFDGmZyPw1Sjsoflwp9J7yShIS3hHTwyEfCYGfQb7g8PQy_fa7JF05wug_hnhhhvY4pVFxaiMchUQV1XkWU15Z9V0KIWk9PC-VagCFbH4cbSzWH9UwU_ECI4vxCfIbaBewN_rpIGdz0KfUwwpLVa0W31OLVKV6PFgtCwGpouVVXR7Lx8we_1zP3P4uaItR3S3nvY0qE" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/9374b9e092.mp4?token=Iyx4pLjMjCYZ-vzVQ8Z_4BuvV2-rp9QBm75NKpFkMV8aOeQb3YZ69-ywzKYwvhRe3Yx_GqEpKA0WjVGSpTXlIKket_uQENDRFYWB5mPsrYRRsPwwCO8YRXbeWM4l8EsC-WqPpn3RqUNagXbrGgqUoXwuZ_h1ZZc0noWjthrsoi8RRzGvGOngYoOxlNV2RlAFngBwUoml1-oN_wW1PwYAi7IBdIF56UArvJ6mfhfXqgsRS6BXs39MuaI0uFPO2fkhsv_cSFHjuHZrRwtempdTloZHELbO_J4S0JADvOYL55aXhQg1yzWadYeUP9EfAn_uYIjgNcTaSYv5cpBd3rDgdaQP7XraW6NV8yZdlzVmUUcj4PSX7e3ecdd3yb8mVjPCiqm-0cpGf7awbcixpIoBvngJyvVe96X532BwMKEXeN5oIdaevhBbUgnJ_aFcyVvRRRuQPNQdc31UD9mAIt_NiLlLoc43A1b8xoRb5TXz_kaRSxtn8aVaSA6eHlS-r41Hrb79hr-ySthPC467D0NbSNRJxN91Y-3xAlC5E3uUAlwp30gTuCCCxPYt_qjX2C4uIHHrliFGkKj59CQpdpLsjpQnu1FP3O1Y6Boo2kYxGe_R5K1y3wQWS4gm4sf66H75Gupuc7j16uM8Tn6QQ4gNiokFhCGTnTPvhCjRIJOOYNI" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/9374b9e092.mp4?token=MANvVcKJhuxUKbI_SXM5ABB9hZ90dV1fxbnSz5n2o8SL7KZWxnYiCVCS9C6_4kzALe4J6lLMb9vrIsRxHRyp92twJ0P0cKEoKKfZUtbBffwxGCrc5SCNIM32v2v3LZbkGkFiWPeCq8-HOBT2xi502TpL_VLzUNx6AO9SXrqNJlin_Yvd2s2w8pRnEVt7rqsok_XaPqxSNAesoORFJDjONZpOjTYuqBFTUdH8z8GgwfbWcpEoNLKDTze1ygBiVN_vzYl8vRZ-cfF34VfmbDAqxaoR-JJEFxlNux52OiUH0P_pY2RjJU12iAtlgGYFbdU-ltJYpqGae7g2hUw0Lsqk8Kckfz4huZCoS-sL2vrzGMJ7lL2nQpVku3r5b5sPqUWhNPvZ8zBHFEuayuIZgnKuB8vE7uVPUeDARu5FvO5VOgRLm-TtX51mB6JTJSi-cnDRpfEkiQUdmDdax5YvNg_DL0euHS4d2rpOo1OzpFDGmZyPw1Sjsoflwp9J7yShIS3hHTwyEfCYGfQb7g8PQy_fa7JF05wug_hnhhhvY4pVFxaiMchUQV1XkWU15Z9V0KIWk9PC-VagCFbH4cbSzWH9UwU_ECI4vxCfIbaBewN_rpIGdz0KfUwwpLVa0W31OLVKV6PFgtCwGpouVVXR7Lx8we_1zP3P4uaItR3S3nvY0qE" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/9374b9e092.mp4?token=Iyx4pLjMjCYZ-vzVQ8Z_4BuvV2-rp9QBm75NKpFkMV8aOeQb3YZ69-ywzKYwvhRe3Yx_GqEpKA0WjVGSpTXlIKket_uQENDRFYWB5mPsrYRRsPwwCO8YRXbeWM4l8EsC-WqPpn3RqUNagXbrGgqUoXwuZ_h1ZZc0noWjthrsoi8RRzGvGOngYoOxlNV2RlAFngBwUoml1-oN_wW1PwYAi7IBdIF56UArvJ6mfhfXqgsRS6BXs39MuaI0uFPO2fkhsv_cSFHjuHZrRwtempdTloZHELbO_J4S0JADvOYL55aXhQg1yzWadYeUP9EfAn_uYIjgNcTaSYv5cpBd3rDgdaQP7XraW6NV8yZdlzVmUUcj4PSX7e3ecdd3yb8mVjPCiqm-0cpGf7awbcixpIoBvngJyvVe96X532BwMKEXeN5oIdaevhBbUgnJ_aFcyVvRRRuQPNQdc31UD9mAIt_NiLlLoc43A1b8xoRb5TXz_kaRSxtn8aVaSA6eHlS-r41Hrb79hr-ySthPC467D0NbSNRJxN91Y-3xAlC5E3uUAlwp30gTuCCCxPYt_qjX2C4uIHHrliFGkKj59CQpdpLsjpQnu1FP3O1Y6Boo2kYxGe_R5K1y3wQWS4gm4sf66H75Gupuc7j16uM8Tn6QQ4gNiokFhCGTnTPvhCjRIJOOYNI" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🎨
 غوغای جدید اوپن‌ای‌آی؛ مدل ChatGPT Images 2.5 منتشر شد!
@@ -2485,7 +2485,7 @@ sk-3c3eb497a104328775de0ddb333c7c8d596c20a89e25bbe7e204318f35e2b050
 |
 #AI
 #API</div>
-<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/ArchiveTell/7686" target="_blank">📅 16:50 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/ArchiveTell/7686" target="_blank">📅 16:50 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7685">
@@ -2556,7 +2556,7 @@ sk-3c3eb497a104328775de0ddb333c7c8d596c20a89e25bbe7e204318f35e2b050
 
 <div class="tg-post" id="msg-7683">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kOFvbtRhPdSOc3O6fQtc2YDtCnfMhPCm1ywKgZdSkzCBIfMz8hcmeuaWcPmGqsrO4UiiJaBvPdh3sGnhCdlSNN5g77S3RD5n-nyWqHi40SIMbuCdPg1nK5jlrJZPwY7czbOh-ISs6fMhPBjxubRQ_OY2ZO3UmISSH4VqTvdYLmgIxWXaBV7lwU0nEuySe4TXOWOhXQJ7TxuW3CLv57k8ZyYgL9Y3L3HnDasUHxjYBuxu354vDcKP8OzTTEJKtGOkcGoJSTMDAm49D2EcVszbPLZ27Qabxi18bBAZ-9zH_kCeQ4qgIeKCZjkuZIGuxx4CT5suSUvmaezmeyRIFUrpJw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/juoF_klHzlV3U6dPtxftlspzi-cldZQSQK5sr4R-UorgtOBVK-ng45saiHHTBJbUK95mWCRIAQOt5bVtt7lc-Nc_tFOBwG6eL9BvYoXOHPrhaWS1oAnvnxFnR_6eFUoQmWIMRTKmO_t_6lKjy11dDPVrqaZZW6IeOjfZHpdFolgZkShkxJbWGMvOmxKtlSilbmN6nR-LZcLHfU9KqqVv2UWGj_9K-UkFcoSuFjdMlYtFOQTFNLsOpWOCOrIppbhadR5FHqdgv65oZMsFsdzDQtxSskgDB2bLUk8xzXBc4h7lDZ9JfHjJrsg572Wq3kBjbdo2OnkDYoJZsZvG3-MjGw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔥
 مایکروسافت آفیس رسماً مرخص شد؛ معرفی غول اوپن‌سورس GenOffice!
 بچه‌ها اگه از خرید لایسنس آفیس یا برنامه‌های سنگین خسته شدید، این پروژه جدید خوراکتونه. یک جایگزین کاملاً رایگان و متن‌باز برای مایکروسافت آفیس که ایجنت‌های هوش مصنوعی رو مستقیماً آورده داخل اسناد، جداول و ارائه‌هاتون.
@@ -2882,7 +2882,7 @@ Neal.fun
 @ArchiveTell
 |
 #NEWS</div>
-<div class="tg-footer">👁️ 2.04K · <a href="https://t.me/ArchiveTell/7668" target="_blank">📅 15:10 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/ArchiveTell/7668" target="_blank">📅 15:10 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7667">
@@ -2913,7 +2913,7 @@ AI Vocal Remover
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/ArchiveTell/7667" target="_blank">📅 14:59 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/ArchiveTell/7667" target="_blank">📅 14:59 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7666">
@@ -2985,7 +2985,7 @@ OpenAIRE Explore
 
 <div class="tg-post" id="msg-7664">
 <div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RDFKHjGDieUel2fYTX7hUzf6FQpmlSkEXvRGdtvYDD126O8SdjLsIbKuTlkvil3xgbIuQ1b3sbYvrvBZiBiZLY0-j4E_mJGM-J_KSATv0MUhYzvc9ak2yRJblI9Hq7K8paUrPVueQX5rCiaAlUsm0Nk2_zwK30SVt2NYIIhiK9BXJtVUv2kjzAzDdfUsVXMV_bqB5cF27bh4ZR3jG6iYakN7mNmH9ShkCs0EUrK8yT0b271mJFQM0aSgUrS9MGkoWYaWY9IeHfmwzRNN8yRFL5DjByCUawM63D9El1uQqpwo5M3W3n_590euZtdRbrgtfupfLTTvDLRgrUlT-RtDnQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C4Ou2nmozk7cQ5d68n7rLQ9_SBasXHP_JYlhoO0trHgWkbgEX7P_3iVFDShfiDdHfS9hQN4TDCx0FFbm3t1ugNh7gg8tHqaI1Wq8-B7ba9srzEaOOQxZD2DVoHU8s8hnOBHLX6Ssvo-ZpUzwHa0HiYV6N5y3odpk9SKvxRhAPUIOsBtQIKT2l2TwdC4phG1L7GaYa75vv_Usrmd8ixAOq1S6YqPlWDYDhOHjBPmr1TalFjPCzdtOqvqHiJbRxxhU2Y47hrVwMI63XklPdmA4k9MvVc0ZBm010R4DxDTxDZzABmUzznpFIrUr8ML0Nbahmcyj62YRWSSRXf9VD08yXg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کیبورد «شریک جرم»؛ قبل از ارسال پیام حواست به جریمه و حَبسش باشه!
 🚨
 بچه‌ها براتون یه پروژه به شدت سمی و دارک آوردم! این کیبورد اندرویدی اسمش «Соучастник» (هم‌دست / شریک جرم) هست و کارش اینه که موقع تایپ، متنتون رو آنالیز می‌کنه و آنلاین بهتون می‌گه ممکنه بابت این پیام چقدر جریمه بشید یا چند سال برید آب‌خنک بخورید!
