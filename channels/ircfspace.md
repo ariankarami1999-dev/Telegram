@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-27 03:18:30</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-27 05:52:39</div>
 <hr>
 
 <div class="tg-post" id="msg-2608">
@@ -308,7 +308,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/ircfspace/2608" target="_blank">📅 17:35 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.98K · <a href="https://t.me/ircfspace/2608" target="_blank">📅 17:35 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2607">
@@ -327,7 +327,7 @@ Maji_Call
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 9.96K · <a href="https://t.me/ircfspace/2607" target="_blank">📅 17:30 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/ircfspace/2607" target="_blank">📅 17:30 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2606">
@@ -345,7 +345,7 @@ PasKoocheh
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/ircfspace/2606" target="_blank">📅 17:12 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.89K · <a href="https://t.me/ircfspace/2606" target="_blank">📅 17:12 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2605">
@@ -362,7 +362,7 @@ Ralireza11
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/ircfspace/2605" target="_blank">📅 17:08 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/ircfspace/2605" target="_blank">📅 17:08 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2604">
@@ -378,7 +378,7 @@ itiransite
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/ircfspace/2604" target="_blank">📅 17:07 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/ircfspace/2604" target="_blank">📅 17:07 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2603">
@@ -392,7 +392,7 @@ itiransite
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/ircfspace/2603" target="_blank">📅 16:51 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/ircfspace/2603" target="_blank">📅 16:51 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2601">
@@ -410,7 +410,7 @@ itiransite
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/ircfspace/2601" target="_blank">📅 08:17 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/ircfspace/2601" target="_blank">📅 08:17 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2600">
@@ -460,7 +460,7 @@ RaazNet
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/ircfspace/2598" target="_blank">📅 11:15 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/ircfspace/2598" target="_blank">📅 11:15 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2597">
@@ -476,7 +476,7 @@ RaazNet
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/ircfspace/2597" target="_blank">📅 08:00 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/ircfspace/2597" target="_blank">📅 08:00 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2596">
@@ -494,12 +494,12 @@ hamedvpns
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 64.1K · <a href="https://t.me/ircfspace/2596" target="_blank">📅 08:14 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/ircfspace/2596" target="_blank">📅 08:14 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2595">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GtFWLG3m7M2Fg50XeSjSsoymZqtdArCPsk7aVTZxwYruNgUkGjFfaf90c3659OBwZvnNmEbsPEMzdUKEnpHxgA8c2NU8MDk-lqt8vcGpTLAoWxQUKGLyBa8Py14CuzWTHj7QFHC8IfA25CKehJ9fJMuRMHIIWmWzO-I3nLKxpA-PbDUU0D_wrm4hrNntQJUQh8CIQjCVJ1RSSwJsMrNb8TVNQUrvnzS01j_JT2HFmFCA6-FTEJHcrp8ufH1Kk4xoz6PR-ybYHS0WzjhCX72A_XXaKGFJt25A0CgsmAs7wGGPILG2P8qINAkWb8BzH-nrvKi61zqvULYnQU27zTciiw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GrKPK5pLlR5SKT9iPGPl0aP86DI3sHM1GWj0SCuP7B1af163E071k0oYSYVte3mS5WckbcegGS9rVve5K8Zz57dHWxh3hpOQjQylSPkEYB0aumvUY9_8U8DIIufDq19sktHhV_6CNwlp6jpcybcmTI3Ysh98gFZ9njrR8KHGdOEsM_3rAqDxitAT8i9bTxDMbuWmntc6t4b-iGePn-j5ufMNK4IMeghbm2QXe3GB2kYB8CQV9ixxVzIqSGA3dRpT7rTV8l34SshxcvOGNL4f_7-GPkNScLEXFcBYRFLlNChOLbISXDyMvb4jG6jP5m32yV2eiRzZ2gHwEMW3SNxj9Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شبکه پایدار است، یعنی به همون آشغال‌نت قبل از قطع فیبر نوری در ارمنستان برگشتیم!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -513,7 +513,7 @@ hamedvpns
 
 <div class="tg-post" id="msg-2594">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Rsm6reUIWb2zEmsM_J2UF0h8d8saHXbR8mrJEJkLLsTMORvPG_1PCgL85RFdrpPl5rJ9my414hnlUl2C5WjK0EiHBU8jCd5JJRaEqEmkJFbyFmthD4ilOOWkMi4GAuRhet1AboCSaK53uv5GLhXvAhcXdaFFf3O-goMSJrH5IDEXHOvX--LgcxF90fxl_0RTr8xq1eOLpZa1A3U-wuv_yGV8b1pWDuAjI6dgJk0pcomEle2im5Mzo6Wxn2mfVfof5R8KamRtqhKbbw4b6Y-PXKJiqUEB0B_AYwdBDVX0teZeHOD0_Xb-vFoIkjhJBX0MRd2lRl-mVRVnhN-idw-9pg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sH2keiFBTG5oXhEWf1W7V-6aKYxvcxUGjCiPX2fiRqdYxkAx9dwETtjBX0eEQ7pa1Lk3KQNk6mnuTpjuAOdmiHOVLlT_9afCSiLUu6Tul49lFv8UmXeEZCbH1E-8MXq-NZ_3thoRs3ZiR71KsFS6BkYwrxWVxp7tBuZsL1k01_4QMa4mNB5Mq6HeE_w0IfpNhzDHss46j5LuC64EfjXrpJEg_mE8GuR1kdHfuPN5YmUYV-EOKdVsMTmVCF1fjK_cvcaVXg70rz9sXvEdKz5G5wYoKJ2WP8V-HToak2pdlxxmZBQUtGRgo9S_ol7b-sOvNMIMDmW0e_kz37L7sNIsVQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعد از مدت‌ها وقفه، بالاخره فیلترشکن Oblivion به مسیر توسعه برگشت.
 در این نسخه که برای اندروید منتشر شده، هسته برنامه از وارپ‌پلاس به Aether سوییچ کرده، تا امکان اتصال و دورزدن فیلترینگ از طریق متدهای وارپ، گول، مسک و سایفون فراهم بشه.
 👉
@@ -593,7 +593,7 @@ defyxvpn.com/download
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/ircfspace/2590" target="_blank">📅 18:11 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/ircfspace/2590" target="_blank">📅 18:11 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2589">
@@ -609,7 +609,7 @@ defyxvpn.com/download
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/ircfspace/2589" target="_blank">📅 17:54 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/ircfspace/2589" target="_blank">📅 17:54 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2588">
@@ -712,7 +712,7 @@ PingChannel
 
 <div class="tg-post" id="msg-2582">
 <div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/UI56WHL_cFM36PTcn1ToB0jONaAr7uW_drZWu2pEq0zLgqIRSK6aERSnu7mamQ0N_i8xnjal8NyPxRKUSMoXwrJE3jN_xTC5HvVOHBqyLkKOQY0CebAIoXDI0APwboglS_JJI1qcpkA57UtlSsKtY4ACbq0f6Vsb2CCFCp2yFd8L4O2J6UjEMbB7R3QidUIwwt67-K2UEIwQfcRpnbP27iokEvDoPhk8fFi5dHR5Fewosr9LxKldFqlrni0sxbQmOZwLqMUCrrpjhq19Ruqh-rXOY3xyyUsz7B5jCJyjrBa7qps41h_s-U7Izig1olXRN135VF9h_64mFhP1HyS0aQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WG8GJYGqRezI5S3yVoCc6nkVsByNQ3HxmWfFUNJvsMqNntJh8dVWMgLkO5iP0yZCYua3Gf5bQANrAtUuo1d7cXyOeGAXy5hhB7mgii3QndYKk4OY4fr4RxmSX-VwBFkSSLhsAyh0IvkZkEH_Ol39mGzMYM_xJxKhg8qn920y5EmKeVphg2kuw9qsmAdxNh_Tvg4O8mN7a1MaZBTkhgbNbeIFhZPoVWww-f_sjaWp-V7DLiNniJZzjlbv1CPoQj8oIm2QuG6dGVp1tgzePPPZVrh89KM3hwc77M7RMVPro4p3eKIXSsp0gEJPrZ2KXdgE-EfvenDbY_4hVybv7aZ5EA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به نظر میرسه یکی از زیردامنه‌های gov[.]ir به افراد دارای مدرک فوق‌دیپلم یا پایین‌تر اجازه ورود نمیده و حتما باید لیسانس داشته باشین
 😁
 ©
@@ -1014,7 +1014,7 @@ telelakel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.2K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2563">
@@ -1220,7 +1220,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2550">
 <div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WcwfGRxW6LTtXEJSevmVKHXDvzwpneFB-Pr6WbJWZ0TzA4XWufQtv2pygwHhV8j6qOxBzR-whWoTz9VdrbvtzGYRLOjaLSSd6j0NngDVXQVtm-cVAjRmahg8h2YWj3NQQSPHEZm2ehLouDhtdXQswp8w7HFk5gKMLg7fAAE8Wbua3GfkumlgUgBweBUgOr0NEl3MjbxFWawcVUBku_L-wTetco6uHYKvIhxwjKwR7ikqhQuhG4WFVHZ6_WWwkMIsNKZAUxrwYqlJzmHLNHv97LhmamUJsx-7zbhQV3grI3oQJ1s_x4vUdy4x6QHA3VpU-lUsUB513QLM0cQaAK504Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/drRSgWNCsuDyq24rnEIKnAblIGv0nw6fVceoLAjDjY41xq180k8gwgxVoreqfO3qOUGzglh2jr_DjkbWWkevTzv_3Q6VEK1IWyH25g-7RoBKoD-61T0tPV5_pvlGIJMS6HEINKH0dyhOb3E-M2uufhUcDkWB_khF7s-4jYjss_avFcKyKuLVbRoUKEH6WFnyxz7p8XY8eDvscmjPNlBuQxjYpznZOj-m5KgCKuIv7-0Eysu3lIMxK8GcFNu6_xvxig7JecY_7naPy6iDQzuCappRXtKFjjbe85qIv5Pj2sOJfoVkZKCRyPQYWv-D_Co5eq2t8fC7MBw_u0snUL3fCw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">معاون ارتباطات مخابرات گفته دستورالعمل جدیدی برای محدودیت VPN روی اینترنت ثابت ابلاغ نشده و ممکنه از مشکلات فنی شبکه یا نحوه عملکرد خود فیلترشکن‌ها باشه!
 🤡
 در رابطه با اینکه اختلال‌های اینترنت وضعیتی فاجعه‌بار دارن که جای صحبت نیست؛ فقط اگر بدون دستورالعمل دارن گند میزنن، یعنی دیگه خیلی کاسه داغ‌تر از آشن!
@@ -1236,7 +1236,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2549">
 <div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HafvsqlVw2nmo0flCGswA4IyeC8g-KkFmoNWXHSfR4pmP_NVX_8-zQBwOoxkSlqeahs9ZIUBV67YBSOvsscxGlJGo9zNuSOIBnYTdDqny5KpYcJyrZs5ncgO3sdgTNQ-fdoyKA5jrOZ6y9ct3cAz4jtxZKg99kY2OJTRzpAyquPYbhAx5wWlKhHXC5eoMgwKAbXoZ_zqGgD2WyB1nAbSE9xPiwFedMN9RRUbhR14fv3RQiRERHSTNf1RiSn-_D7o_EFXKNIyeFeU3Brt-G2qvAccK0cPJWgxe6R3jwVA4qqChEIT2NqbBd3n-lRw0rMdISz8NmeV4J04ru7Tu3Kw2g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CO2w7jBmkKcB6l_eAb454ACrop1mACYNUUwthw8BeVeMYeBVG5hw7EbwPr3VJ0YZTOQcULBBFbY33_ol80NtWQLcrvuhkZd1vB-454vfmn9j6Z7pNDc00PYvqH4Pd8WLZyHjiC3f4Z1_RVf4PasNm3hE9FwzQ6mTB3lq8tFV0XlKgfwP9K0oPOKtIE4rE5OaPgW0hBRpXQJjzI4v5QzDYnDnLNVgvIQ1hMqsc6URGYV3UoQPSbPk-EO2EHL42pnmsdqRfKwy-5urs0-qu8TV-Se9t58HnaJSROdPp7oCqR3u2AJNg3rfLdbGMWx4kQsM10qNyvv8_9OWtK-N0Wqetg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از فیلتر شدن فوتبال ۳۶۰ و دستور رئیس‌جمهور برای پیگیری مشکل چقدر گذشته؟
 هنوز نه رفع فیلتر شده، نه کسی فیلترشدنش رو گردن گرفته!
 🔗
@@ -1251,7 +1251,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2548">
 <div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/TC42H5aEddc5KIsIITeMVTgAIMgRMaAJNF4vhr0oxjUMrUIfENTJaD4Nm1ieF0eK7CdbXdUsm_KP8Ortb8SJfIpnDLBLCzdpabf27tvg4i-SlOQgR5Iqk2V9heke9F0JxuEssIDUdyj3iw11x1fiEHaikbVSxVwEDRPLfxYijOM0ZNFt74gospf-nuBoAnKz7olG8GBltIeowdT2b84FgIPy_WcrK41a4qtrnvVXvK4cXG-KMgf8Y7eegshcGzXzkt9oNBnZalAj8wkgtfYkBIQtd8mHrU-hePuuU2SIUrvDp6fP8hctctnichbSCgddawrwB_86mRjAuYRDgff-_A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Zxgcwe0ify3ZhCemSA6kEPZxN3CVxYPePyYuHV9fecFmeoLbKUtDEQu5Lk3utjqKVd9MIDsQOdUtZli8zengW3hO_bMzyzRpaatSF1pKU0_sy-efSejnIotLHSJVVhooEQZEZSDQvCbSMUHzxgBP_l4WdQwudfc8LBkjHZEeMp4wAzjxbY1aPpskJeUnJ36elIOOYAQC6YXSEFWEgMhFV3Ksw2bpVOdsz6oC_9IHzAl2zF8A_1msvU2_a05cSrd3FeTdMHxpFymgNLeHRIk6AjGprgOgsLZUExv6SpOS-cnd59XIl3F9RpzX2KOldrj4fUjDEgexpcgvHtu8BR-GZA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پلتفرم لندین که برای ساخت لندینگ‌پیج بود، بدون اخطار قبلی فیلتر شد. بعد از یک‌روز که با تعهد در دادستانی رفع فیلترش کردن، اعلام شده دلیلش فروش آمپول لاغری در صفحه یک کلینیک زیبایی بوده!
 یعنی هنوز که هنوزه نفهمیدن فیلتر کردن یه کسب و کار چه آسیب‌هایی داره. هنوز که هنوزه نفهمیدن وقتی یک صفحه محتوای خلاف قوانین داره، کل کسب و کار نباید فیلتر بشه.
 🔗
