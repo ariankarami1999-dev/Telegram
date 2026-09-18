@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-27 05:52:39</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-27 11:00:35</div>
 <hr>
 
 <div class="tg-post" id="msg-970">
@@ -301,7 +301,7 @@
 چرا اول کار فقط وردپرس؟
 البته استثناهایی هم وجود داره. اگر تصمیم گیرنده از هیجان زدگی تصمیم بر غیر وردپرس نگرفته و از محتوای این ویس هم آگاه هست و پذیرفته و حاضره هزینه نقدی و زمانی و ریسک با اختلاف بیشتری کنه، ممکنه اختصاصی هم مناسب باشه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/mohsentavoosiseo/970" target="_blank">📅 19:46 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.03K · <a href="https://t.me/mohsentavoosiseo/970" target="_blank">📅 19:46 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-968">
@@ -332,7 +332,7 @@ https://youtu.be/2cW1RJKfOao?si=_YEhZViKApY3Nygm
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tiTMvFUaa2EbxdmYga81NxD5FCOnl3WknoEtfEY0ha-0gq4rS8jjUp_bCA5Be198cCRArXscjQGXySlTMGMSowcgtGbjSrwVOItsyJ_oAmIUx0BXBHsLR73p7xdtWZIgjxSbDLNH2WABb4tF7TDhK-XiTLJ_MbfCsyf0B5o5po30Q4ph8V5s10C-UBig4VIz85AOzurI6XBRR679e__hChA5CB6MWowyWKdrmuwodXhLED0U5cEP1JUruCmK-yJV5K0mgab_kxE87TTUt_zQeNh0oUExjMB2C8q4VGnjo0xikDIhdJ2tl1CtnJMlucbJ7JVfq3ZX1_53OU97aH0ibw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تو ویس پایین توضیح میدم این اشتباه فاحش هوش مصنوعی رو!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.45K · <a href="https://t.me/mohsentavoosiseo/965" target="_blank">📅 17:09 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.46K · <a href="https://t.me/mohsentavoosiseo/965" target="_blank">📅 17:09 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-964">
@@ -346,7 +346,7 @@ https://youtu.be/2cW1RJKfOao?si=_YEhZViKApY3Nygm
 https://www.linkedin.com/posts/mohsentavoosi_%DA%A9%D9%84%D8%A7%D8%AFopus-5-high-effort-%D8%AA%D8%B0%DA%A9%D8%B1-%D8%AF%D8%A7%D8%AF-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-activity-7499816238756421632-mHI7
 https://www.instagram.com/reel/DcqV0WHMZia/
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/mohsentavoosiseo/964" target="_blank">📅 15:09 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.54K · <a href="https://t.me/mohsentavoosiseo/964" target="_blank">📅 15:09 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-963">
@@ -431,7 +431,7 @@ Agent بالاسر Agent
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromMohsen Tavoosi</strong></div>
 <div class="tg-text">ویس من به تیم درباره ویسی که از سمت شرکت بروکر به عنوان ایراد محتوایی گفته درباره محتوای ما.
 بخش ۲</div>
-<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/mohsentavoosiseo/952" target="_blank">📅 11:51 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/mohsentavoosiseo/952" target="_blank">📅 11:51 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-951">
@@ -527,7 +527,7 @@ Unlearning
 <div class="tg-post" id="msg-933">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">واقعیتش ترسیدم! جدی جدی چت رو بست!   خطرناکه! بنظرم یکی باید جلوی هوش مصنوعی و آنتروپیک رو بگیره. چرا باید یه ماشین لحن صحبت براش مهم باشه و بهش بربخوره و حتی کار قهریه انجام بده و اون چت رو کلا غیر فعال کنه!   پس فردا میاد کل اکانت هم لابد بن میکنه! پس فردام…</div>
-<div class="tg-footer">👁️ 2.88K · <a href="https://t.me/mohsentavoosiseo/933" target="_blank">📅 14:58 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.89K · <a href="https://t.me/mohsentavoosiseo/933" target="_blank">📅 14:58 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-932">
@@ -801,13 +801,13 @@ Local SEO برای بیزنس پروفایل ها
 🟢
 اطلاعات بیشتر در info کانال(bio)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.19K · <a href="https://t.me/mohsentavoosiseo/914" target="_blank">📅 12:46 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.2K · <a href="https://t.me/mohsentavoosiseo/914" target="_blank">📅 12:46 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-911">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 3.51K · <a href="https://t.me/mohsentavoosiseo/911" target="_blank">📅 15:08 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.52K · <a href="https://t.me/mohsentavoosiseo/911" target="_blank">📅 15:08 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-910">
@@ -1401,7 +1401,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-859">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Zm3J7spT_Qx8uzQPEC6PqFr7WGrDCn3Pv-Kx2piRfNlFLTgo1jY2RpWkFnmYmMB_byq6ct3iY7F_NaqWcYFNzbdgZAax_7H-UeYskzkMjCZoKFyi6pnK-op9zpQsHRA6gPoEaBkqVaMOXZF8fugoZPPK5g7y0FQtmkLxU45BNZ3Kwk3paFGjSST8XGGPhJhJuhBBP-2AIkY3BnJhfr3pWUNrFYmImCL_TEjKDdHkYjohBiOWy_qFl9TNVtXPeK-_0mitCzKWqLh71ZKbSxv0CJLPk1YwNUkCf3EQ244chNOEbQETK4EUoC0Iq8LZImTe6hB5GA0DOinwqFQCg5NGKA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UMX-QidVDU8nIbOG9VEZpOuPsRpr9CZiBIe8VDfYui0-9ImQ6bF3K5XmpkbRlxQr_l-ApgPDQ4LVGrWNiTLEnyk10qn-WY_ZB7p0IrpvplWVv5bcZCEJaBnJtfF0CsmmyQpL_4MAXP3FqzyLTEgxetLIDY-Bv7m1X710vsMsEFCxpkrD1r4jcJBIaXD2PN4r6pOoaJKja4CMiAqp8teNq__o4Smn1lh3hcxTwRyAqPq1P3-OzjGDek09UJPeWzjizuCq8SLZecNgc1tjIpepdcN5g_ATxM_l7XMMLhF9S0dJ7A-JltZXE-1PY4wZsH-AV0HHJ597IllK4GGUIBtpEw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این عکس، نمودار حدود 8 ماه گذشته یکی از پروژه های انگلیسی هست. هیچ فیلتری جز زمان هم ست نشده.
 تاریخ 5 فوریه زمان شروع همکاری بوده.
 به نظرتون بد شده اوضاعش یا خوب شده؟
@@ -1536,10 +1536,10 @@ https://mohsentavoosi.com/video/keyword-gap-excel/
 <div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=kfHxeP9cohPM_d8rUQP13gcjMXbZSNYqp8QGk6On0bw_1iKIDOjnN2jIU8Ee-BReL7gbDGe97SUOSvmrAD_3v2wtkoffl7WHKbVKXaOZ_tq3F6PGZ-xqpaoQD3FL1oEBZUzpvVNBfKWcR9-MMvLQdbKTDVc_FqwB1VUEpzAKw5Ugp2KEzP5AVMxb5PGFXP4WR_MRNMrVEVKZB6Evj9PrbfRksh_PYQkj8rHpPLFPsCjfjaR7dZMVLgSwozrzg4TnYPDODj5JsWzuAJukWZPnoZEafOjntmDiQAKJn96__gAOe2_Kv7E8FojTCMrwR4tb9g6SSJ_HBM9RuV9gkxnudoWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=g3y2TSuFuRiSv03jZvT9LuFdXUEqBXAzzHXdJ7DAakfTTdqvajgv8uIeo5eJr1UAyaTTyktBR6ClhGFtQ_IO7Cm0IwXzT4pJ8-l3QPtC7xybLW857y4WO4DLQI-IAtcOvTDniluHZQ4Fs0hfCrvqg1zSCalzSBsgh6pKb0A0nkwwp2Znwok5-aliVy1YoQb5-ObV4OqWZeMuwbivq5-zkRLMMGdomsB0u0TJfaEwTuzPPc-66fwdkce1-6mVY2R5UeEL2Pu_6DeE-JQ3hzE6iG7F8mSutBrvkJdwzlsa2s-tnfYEbq-4OPozp_jtHKNuSBRKUJxY-gjskz1js8ghIIWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=kfHxeP9cohPM_d8rUQP13gcjMXbZSNYqp8QGk6On0bw_1iKIDOjnN2jIU8Ee-BReL7gbDGe97SUOSvmrAD_3v2wtkoffl7WHKbVKXaOZ_tq3F6PGZ-xqpaoQD3FL1oEBZUzpvVNBfKWcR9-MMvLQdbKTDVc_FqwB1VUEpzAKw5Ugp2KEzP5AVMxb5PGFXP4WR_MRNMrVEVKZB6Evj9PrbfRksh_PYQkj8rHpPLFPsCjfjaR7dZMVLgSwozrzg4TnYPDODj5JsWzuAJukWZPnoZEafOjntmDiQAKJn96__gAOe2_Kv7E8FojTCMrwR4tb9g6SSJ_HBM9RuV9gkxnudoWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=g3y2TSuFuRiSv03jZvT9LuFdXUEqBXAzzHXdJ7DAakfTTdqvajgv8uIeo5eJr1UAyaTTyktBR6ClhGFtQ_IO7Cm0IwXzT4pJ8-l3QPtC7xybLW857y4WO4DLQI-IAtcOvTDniluHZQ4Fs0hfCrvqg1zSCalzSBsgh6pKb0A0nkwwp2Znwok5-aliVy1YoQb5-ObV4OqWZeMuwbivq5-zkRLMMGdomsB0u0TJfaEwTuzPPc-66fwdkce1-6mVY2R5UeEL2Pu_6DeE-JQ3hzE6iG7F8mSutBrvkJdwzlsa2s-tnfYEbq-4OPozp_jtHKNuSBRKUJxY-gjskz1js8ghIIWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🤩
 تو جشنواره تریبون، رتبه‌ات رو برگردون
