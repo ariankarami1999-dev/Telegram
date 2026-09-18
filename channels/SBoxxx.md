@@ -292,34 +292,34 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-27 20:19:53</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-27 22:49:51</div>
 <hr>
 
 <div class="tg-post" id="msg-20984">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">#FairValueCurve  نمایه FVC نشانگر نزدیک شدن طلا به محدوده قیمت منصفانه است و لذا از حالت حباب منفی ارزشگذاری فاصله گرفته است (به دلیل رشد سنگین از پریشب) هر چند هنوز تا تشکیل حباب مثبت و بیش خرید بودن فاصله زیادی دارد.  پس بهترین استراتژی برای امروز:  خرید…</div>
-<div class="tg-footer">👁️ 826 · <a href="https://t.me/SBoxxx/20984" target="_blank">📅 20:04 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.74K · <a href="https://t.me/SBoxxx/20984" target="_blank">📅 20:04 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20983">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">العربیه:
 وزیر کشور پاکستان طی ساعات آینده به تهران سفر خواهد کرد.</div>
-<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/SBoxxx/20983" target="_blank">📅 18:19 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.57K · <a href="https://t.me/SBoxxx/20983" target="_blank">📅 18:19 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20982">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">نیروی دریایی سپاه پاسداران
 انقلاب اسلامی ۴ موشک کروز ضدکشتی به سمت تنگه هرمز شلیک کرد</div>
-<div class="tg-footer">👁️ 2.84K · <a href="https://t.me/SBoxxx/20982" target="_blank">📅 18:02 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.68K · <a href="https://t.me/SBoxxx/20982" target="_blank">📅 18:02 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20981">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tNOBqGd39VbTIecWv47x9zxpxg4zTqDYckbncYzt8lobxrSXMfvtDfyi-YNNA9RUX9UDb6Kpj3htM6Au6Vty8cbtzddy5EufE-qk7fiUnpAnG_t9aub-jc2-8baXBChO0u2ae0Dv7teF57Pbnvjnz_rEsofXPNAxHpX44AtI_gWcYkKRoCQ3QRsYy_i2ZEg_ocupSOe35oaXCiI8ZqbggP9-slBLTrOttg1o2k0xSpAtLD8IXn8vb6_QPoJUgOb-7-D-fKu5dUenC0yD2Rk6k_lTvauCaItaQXvPcH6sIxiIg2Ys99dw3roDxklOdcPVMAH-G_5R_6tp6hV8b3Zvag.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">توصیه دکتر پزشکیان به جانفدایان:  کمتر مصرف کنید!  (پسر پزشکیان هم دیروز همین را گفته بود)</div>
-<div class="tg-footer">👁️ 3.9K · <a href="https://t.me/SBoxxx/20981" target="_blank">📅 15:07 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/SBoxxx/20981" target="_blank">📅 15:07 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20980">
@@ -332,13 +332,13 @@
 <a href="https://cdn4.telesco.pe/file/573e6b119d.mp4?token=WtVekNt6J5hS8lPs12Mr5Dg2ddmiOFhwoenzhtl4zZA9QVOYXBR2_A5zVeFnjt8cHh7f-W0lK6cCbwajLztKdXa9NCzHSmOenfJReFke4GqXxOfa9ByS_jdeI75jJkqQSUSkZd_xO-XHPU3U6MV6eXBHt6wqcIDfqI53mrxc0wnp6kklmF549FrAVAE3piHFKy735yF5OvR3qVbJOpX90-Cyvyhly-_wTlCWx4f_slqJS06q3NSF9cSy5ywyjQdRfM_XZ0XZsFcfpYzdWVHLNKby2RsK933Gr9xID5yQ1_lDMYh0b6XwwT_098CJ1vi-IkXx-1O2f4BOuFQY3o043w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">از اروپایی بودن همین را فهمیده که یک لامپ را خاموش کند!  در حاکمیت قانون و مدیریت عقلانی و کرامت انسان هم اروپایی بشویم یا نه؟!</div>
-<div class="tg-footer">👁️ 3.88K · <a href="https://t.me/SBoxxx/20980" target="_blank">📅 15:06 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/SBoxxx/20980" target="_blank">📅 15:06 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20979">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">ضرغامی در سالگرد ⁧مهسا امینی:  امروز همه تصمیم‌گیران و تصمیم‌سازان، بر اشتباه بودن ‏روش  گشت ارشاد  اتفاق نظر دارند‏   ظاهرا همیشه باید مصیبت‌ها و مقاومت‌ها ما را به راه و روش درست هدایت کند</div>
-<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/SBoxxx/20979" target="_blank">📅 14:25 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SBoxxx/20979" target="_blank">📅 14:25 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20977">
@@ -346,14 +346,14 @@
 <div class="tg-text">ضرغامی در سالگرد ⁧مهسا امینی:
 امروز همه تصمیم‌گیران و تصمیم‌سازان، بر اشتباه بودن ‏روش  گشت ارشاد  اتفاق نظر دارند‏
 ظاهرا همیشه باید مصیبت‌ها و مقاومت‌ها ما را به راه و روش درست هدایت کند</div>
-<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SBoxxx/20977" target="_blank">📅 14:13 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/20977" target="_blank">📅 14:13 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20976">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">یادداشت بسیار مهمی است و نکته اصلی اش این است:
 جهش بهای نفت و افت قیمت اوراق قرضه به تنهایی موجب تسلیم شدن ترامپ برای پایان جنگ نشده و احتمالا هم نخواهدشد.</div>
-<div class="tg-footer">👁️ 4.04K · <a href="https://t.me/SBoxxx/20976" target="_blank">📅 14:03 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SBoxxx/20976" target="_blank">📅 14:03 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20975">
@@ -417,13 +417,13 @@
 برخوردار است.
 کانوا در جمع‌بندی گفت:
 «خلاصه اینکه، فعلاً هنوز به اندازه کافی ظرفیت ذخیره و عرضه پشتیبان وجود دارد که قیمت‌ها را مهار کند.»</div>
-<div class="tg-footer">👁️ 4.17K · <a href="https://t.me/SBoxxx/20975" target="_blank">📅 13:12 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/SBoxxx/20975" target="_blank">📅 13:12 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20974">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">خلیل شیر غلامی، سفیر ایران در ارمنستان؛    «ایران رویکرد ویژه‌ای نسبت به مسئله تمامیت ارضی و حاکمیت ارمنستان دارد و این را یکی از مسائل حساس خود می‌داند. با توجه به اهمیت منطقه سیونیک به عنوان یک مرکز استراتژیک برای ارمنستان، به ویژه در زمینه حفظ ارتباط با…</div>
-<div class="tg-footer">👁️ 4.19K · <a href="https://t.me/SBoxxx/20974" target="_blank">📅 11:40 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/20974" target="_blank">📅 11:40 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20973">
@@ -432,19 +432,19 @@
 «ایران رویکرد ویژه‌ای نسبت به مسئله تمامیت ارضی و حاکمیت ارمنستان دارد و این را یکی از مسائل حساس خود می‌داند. با توجه به اهمیت منطقه سیونیک به عنوان یک مرکز استراتژیک برای ارمنستان، به ویژه در زمینه حفظ ارتباط با ایران، هر پروژه‌ای، از جمله پروژه TRIPP یا هر طرح دیگری که تهدیدی برای ارمنستان یا روابط ایران و ارمنستان محسوب نشود، از نظر دیپلماتیک، مشکلی ایجاد نخواهد کرد. در اجرای هر پروژه‌ای، تمامیت ارضی و حاکمیت ارمنستان نباید به خطر بیفتد.
 علاوه بر این، حضور آمریکایی‌ها در مرز ارمنستان و ایران نباید تهدیدی برای ایران باشد.
 اگر این دو شرط محقق شوند و همچنین منافع ارمنستان در نظر گرفته شود، ایران مخالف اجرای پروژه TRIPP نخواهد بود.»</div>
-<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SBoxxx/20973" target="_blank">📅 11:38 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SBoxxx/20973" target="_blank">📅 11:38 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20972">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">نکته: معمولاً وقتی به سطح خرید منصفانه نزدیک می شود بعداً رشدهای خیلی خوبی داریم و پیش بینی میکنم این هفته طلا سطح 4400 دلار را پس بگیرد.</div>
-<div class="tg-footer">👁️ 4.18K · <a href="https://t.me/SBoxxx/20972" target="_blank">📅 11:07 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/20972" target="_blank">📅 11:07 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20971">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">طنز تاریخ در این است که پیمان دفاع مشترکی که عربها با ترک‌ها بسته اند دقیقا ۱۱۰ سال پس از جنگی روی داده که میان خودشان در قالب شورش «شریف حسین» ضد عثمانی ها درگرفت و اتفاقا نخستین شهری که عربها آزاد کردند همین «مکه» بود که نامش اکنون شده لقب پیمان دفاعی اخیر!…</div>
-<div class="tg-footer">👁️ 4.17K · <a href="https://t.me/SBoxxx/20971" target="_blank">📅 11:04 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/20971" target="_blank">📅 11:04 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20970">
@@ -457,15 +457,15 @@
 محدوده های پیشنهادی:
 4366
 4355</div>
-<div class="tg-footer">👁️ 4.12K · <a href="https://t.me/SBoxxx/20970" target="_blank">📅 10:57 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SBoxxx/20970" target="_blank">📅 10:57 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20968">
 <div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XgeMW1jrtvKogW-gPq7st5EU3tiTV9HLy86rI9K1AApzmgrSbkunoF-mseit-cuMb1HJmivFx9knze48q23_DdnbGt3lSWctVFs4Yt9TwIrrywkF_315Q9fM3mRQ4w93njqWbxg2pKYifq7n1V4NX8-MtgBocEg4jGnYO-8HX0FaZkyRqzk6HKSTOgbVTVExFzNoDxMsUwQJDwUM-xyMfNdLkKp_vnU_J7ueF7rXUXJ89usC-EI3jGki236RMBvs38XwGubdhWCSI9hLpY5vemljp_VIJ9Q3Yow7xT85UFHBP3CRBfPGbv81QOR6sp6Ug3Tv1WFR32BfNHcIo8OX7w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Mf5UTQdu8FcJHvE0BnC68iYryj5UVYv5NmzJ3xxO2zYw5NUkoVlBiB1VdnIT-N1m3G5wJr-eKckdE5TjpTqBX7qXg4Mdqo-v62vBFkyPm933FpdSIZAFiSZiI3-gkNqYyLSOe48EeLk29dSTfVp-hI0OptKMrayBn_HLC1wjeQZL6O2neOKZs2OLPHXT6e3CkjGHJHj8L_IogohoZY_q7vn9x7_CVYtJw2mC8rvLruRMJwtvu9FFoNnz5B_0O9floSiCcML-G7HTmBy1O__-cxPpclIPkBW7rhXSqUC8VyMT3Prqs6kOtbcWBlgNzJBZWSaJteO5agbdAi3M6gW0-A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک + تقویم اقتصادی برای امروز هم در سطح بالایی قرار دارد و انتظار یک اصلاح نزولی قابل توجه (دستکم 400 پیپی) در طلا داریم.</div>
-<div class="tg-footer">👁️ 4.09K · <a href="https://t.me/SBoxxx/20968" target="_blank">📅 10:49 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/SBoxxx/20968" target="_blank">📅 10:49 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20967">
@@ -484,7 +484,7 @@
 اینها علاوه بر بی‌وطنی چقدر کثیف و کودک‌آزار بودند که با روح و روان بچه‌های گرسنه آذربایجان بازی می‌کردند
 _sheshgalani_
 @uttweet</div>
-<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/SBoxxx/20967" target="_blank">📅 09:46 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/20967" target="_blank">📅 09:46 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20966">
@@ -495,69 +495,69 @@ _sheshgalani_
 این لایحه که هنوز به امضای ترامپ نیاز دارد، تحریم‌هایی علیه رهبری روسیه، بخش انرژی، صنعت دفاعی و شبکه حمل‌ونقل که سوخت‌های تحریمی روسیه را جابه‌جا می‌کند، الزامی می‌سازد. این لایحه همچنین به ترامپ اختیار می‌دهد تا تعرفه‌های ۱۰۰ درصدی بر ۵ خریدار بزرگ جهانی این سوخت تحمیل کند؛ بندی که از پیش متحدان خود واشنگتن را نگران کرده است.
 از سال ۲۰۲۲، چین ۵۰ درصد از صادرات نفت روسیه را خریداری کرده، هند ۳۷ درصد، ترکیه ۵ درصد و اتحادیه اروپا ۵ درصد. اتحادیه اروپا همچنین در آن دوره بزرگ‌ترین خریدار LNG روسیه (۴۹ درصد) و بزرگ‌ترین خریدار گاز لوله‌کشی روسیه (۳۲ درصد) بوده است.
 از سوی اتحادیه اروپا، منتقدان لایحه استدلال می‌کنند که این لایحه اختیارات بسیار زیادی به ترامپ می‌دهد؛ یا برای ایجاد استثناها و معافیت ها برای شرکای بزرگ روسیه مانند چین که واشنگتن به دنبال گسترش تجارت با آن است، یا برعکس، برای اجرای انتقامی علیه متحدان ایالات متحده که ترامپ از آن‌ها خوشش نمی‌آید، مانند اتحادیه اروپا، با استفاده از خریدهای نفت و گاز کشورهای عضو تکیه‌گاه (اسلواکی، مجارستان) بهانه می سازد.</div>
-<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/20966" target="_blank">📅 09:28 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/20966" target="_blank">📅 09:28 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20965">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">به گزارش برنا، در نخستین ساعات بامداد جمعه ۲۷ شهریور در محدوده خیابان دانشگاه زاهدان تیراندازی رخ داد که این خبرگزاری دولتی آن را «حمله به یک ایست بازرسی» توصیف کرد. برنا اعلام کرد در جریان این تیراندازی یک مامور نیروی انتظامی کشته شده است.</div>
-<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SBoxxx/20965" target="_blank">📅 08:43 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/SBoxxx/20965" target="_blank">📅 08:43 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20964">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">رئیس کمیسیون امنیت ملی:
 نیروهای مسلح ایران به آمریکا درسی خواهند داد که هرگز فراموش نخواهد کرد</div>
-<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SBoxxx/20964" target="_blank">📅 01:08 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SBoxxx/20964" target="_blank">📅 01:08 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20963">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">حمله ایران به یک کشتی در تنگه هرمز</div>
-<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/SBoxxx/20963" target="_blank">📅 23:12 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SBoxxx/20963" target="_blank">📅 23:12 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20962">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">یک کشتی ترکیه‌ ساحل اوکراین توسط پهپاد مورد حمله قرار گرفت.
 بر اساس اطلاعات اولیه، کاپیتان و یک ملوان کشتی در این حمله کشته شدند و ۱۳ نفر دیگر زخمی شدند.</div>
-<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SBoxxx/20962" target="_blank">📅 22:55 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/20962" target="_blank">📅 22:55 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20961">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">ساعتی قبل وزارت خارجه آمریکا قصد دولتش برای فروش ۴۸ فروند جنگنده F-35A به ارزش ۲۴.۳ میلیارد دلار به عربستان سعودی را به کنگره این کشور اعلام کرد.</div>
-<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SBoxxx/20961" target="_blank">📅 21:45 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.24K · <a href="https://t.me/SBoxxx/20961" target="_blank">📅 21:45 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20960">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">ترامپ:   من آدمی فروتن و با سطح هوشی بسیار بالا هستم</div>
-<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SBoxxx/20960" target="_blank">📅 21:44 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SBoxxx/20960" target="_blank">📅 21:44 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20959">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">این دیدگاه Secret Box هم تایید شد:  طبق اطلاعات افشا شده از منابع محلی، حدود ۵۰۰۰ تروریست یا جهادی که بیشتر آن‌ها از قوم اویغور و اهل آسیای مرکزی، از سوریه به یمن اعزام شده‌اند تا به عنوان مزدوران برای عربستان سعودی فعالیت کنند.</div>
-<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SBoxxx/20959" target="_blank">📅 21:29 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SBoxxx/20959" target="_blank">📅 21:29 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20958">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">این دیدگاه Secret Box هم تایید شد:
 طبق اطلاعات افشا شده از منابع محلی، حدود ۵۰۰۰ تروریست یا جهادی که بیشتر آن‌ها از قوم اویغور و اهل آسیای مرکزی، از سوریه به یمن اعزام شده‌اند تا به عنوان مزدوران برای عربستان سعودی فعالیت کنند.</div>
-<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SBoxxx/20958" target="_blank">📅 21:28 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.23K · <a href="https://t.me/SBoxxx/20958" target="_blank">📅 21:28 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20957">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">حوثی ها دیدند هر کار می‌کنند این عثمانی و فاکستان برای دفاع از عربستان در قالب پیمان دفاع مشترک مکه تحریک نمیشوند این بار خود مکه را زدند!</div>
-<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SBoxxx/20957" target="_blank">📅 21:23 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/SBoxxx/20957" target="_blank">📅 21:23 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20956">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-footer">👁️ 5K · <a href="https://t.me/SBoxxx/20956" target="_blank">📅 20:55 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/SBoxxx/20956" target="_blank">📅 20:55 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20955">
@@ -565,185 +565,185 @@ _sheshgalani_
 <div class="tg-text">ترامپ:
 تصمیم بزرگی در پیش دارم. آیا می‌خواهم وارد عمل شوم و آن‌ها [رژیم ایران] را نابود کنم یا نه؟ تصمیم بزرگی است.
 هر احتمالی از جانب من وجود دارد.</div>
-<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/SBoxxx/20955" target="_blank">📅 20:41 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/SBoxxx/20955" target="_blank">📅 20:41 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20954">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">— اسرائیل و یونان یک مانور دریایی مشترک برگزار کردند که شامل تبادل خدمه و آموزش برای سناریوهای مختلف، از جمله شرایط اضطراری بود.</div>
-<div class="tg-footer">👁️ 5K · <a href="https://t.me/SBoxxx/20954" target="_blank">📅 20:38 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SBoxxx/20954" target="_blank">📅 20:38 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20953">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">ترامپ:
 من آدمی فروتن و با سطح هوشی بسیار بالا هستم</div>
-<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/SBoxxx/20953" target="_blank">📅 20:25 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SBoxxx/20953" target="_blank">📅 20:25 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20952">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">#FairValueCurve  شاخص FVC اکنون سقف بالاتری برای طلا پیش بینی می کند و لذا فضای رشد فراهم است.  در نتیجه انتظار برای یک اصلاح تا 4300 الی 4290 و سپس اقدام برای خرید برای امروز منطقی است.</div>
-<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/20952" target="_blank">📅 18:01 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SBoxxx/20952" target="_blank">📅 18:01 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20951">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">نخست‌وزیر اسرائیل، نتانیاهو، می‌گوید که اسرائیل رژیم ایران را سرنگون خواهد کرد.
 «این رژیم سقوط خواهد کرد.»</div>
-<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20951" target="_blank">📅 16:09 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.44K · <a href="https://t.me/SBoxxx/20951" target="_blank">📅 16:09 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20950">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">این هم پاسخ ترامپ به چموشی سعودی های مفلوک در نپیوستن به پیمان ابراهیم و در عوض دست نیاز پیش فاکستان ورشکسته و عثمانی مقروض دراز کردن!</div>
-<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/SBoxxx/20950" target="_blank">📅 14:19 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/SBoxxx/20950" target="_blank">📅 14:19 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20949">
 <div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g6jZomfAimuCzmpdFyVUKbkGHjIb5yI4KWDqTgCADJ5scbFm6hDA_gjjJrPAzdWFpG6LJTBGkZ_f5BlFs6xXYTE3kWZqcCxSN_AQ-P5RvvQdoU90xzcm50mMKTzaLX7FsOXzpttVtUrhl3QJ0ufb0krHObn9m-B7bJ7tcLoCTORv1lzJg3ygWjOd--oTlQct7fEa4AvykKs4L-tIb-WHBxxrGt9V_zqn6Wj1JMg9GkGvFH0ZTzmHfWi-5qHAW08bMNgXrpZ7q_dSl_Pxy0RnL5Q0boW9z7O9K4U6vqf4Gz0eepIMzJkYTDv2OcuecvQzakjbbWLwdciKnimJFMW9bw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d5VZhOSgYYUDMys4oStO9_TVtpSDArhI6OIcWgOG6Lm-PBOA57AipCmJvpVHHcEuQJoBrJ8vt_77HN6MdhiXLsLucQu4k5MXkuPNtYU1xH76573nnjvTbTF5S_uebwVMpPeLH-ylNU2Gy-ulNSwUj8RyWeA2RtG1qmJTh5_4MWbFHeZebPRacp6sHCUBwm0B6nK77pp5M4-sFrJ5V6LtFRoRM-rDuGZH_LpvEzld1EqrPDuv67qu_ccqhPM8FiyO0nIVy49NDZEwdsG5vYGvaNoG1PBYPgc230JW4nlDIdFbyRKSXbMfZW4crnihouJhEAJAZD34apxr1KM1s2ELLw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#FairValueCurve
 شاخص FVC اکنون سقف بالاتری برای طلا پیش بینی می کند و لذا فضای رشد فراهم است.
 در نتیجه انتظار برای یک اصلاح تا 4300 الی 4290 و سپس اقدام برای خرید برای امروز منطقی است.</div>
-<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SBoxxx/20949" target="_blank">📅 11:55 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20949" target="_blank">📅 11:55 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20948">
 <div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ilmLeAlxc6n4TqDYBJNQ0Ni68l6iv0izSWsY6JxeSvSfmCEnH9RIXTV88lxTnTggct7FWMXGkL513oyZgtUxQvajsqRG6SEFBGmc2m-WKxsYR37gi_h3pxo1wA1kKVGMhtzJXBTprowPZIRpEdAXZiPBy2l4JKEyqOhn7xL_Jp8chVRYVR2xghIVC_dLkvmvtGYwcpObX0OBxrO4qHC0Wy6p4aPnEbhgcWtbciyjOg6suZ7rIwIhcrW-ue1Fx29QnlXnhgew3a-8CLDMeUYvdIbEfs1iz2ObgiggYoARV9ZCA79TCz4Ra0A08saVd87mV1hQXH8S3OkAj_hSsbZVZA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hw4KdkRvLY9ODyrMvwmT1Y-bny-g5DjIQq6Pk13sYHGotlp-gzmn_kxyeuKpFt8b6J5JwuogOqulZbf-wWg1gSJgxZ2UphrxNjUqCTspDu1B1epEjwdE4ul_mAvYNXld-KzYRg2Z2BwcnaTxq_aH4WXlpeisdlM9ZC0AEu512nq89LBIFtCa18kv6EkthLyMOv92NnkqNNDY8YOc_5YN5AymqvMkw30yCntQM3f3LlPZCFGqIoDnK2L_0RfABV8yXkEor6kjx_uE818TU46u50F9ZkuW7lwm0RU-wAnGgArfANt4wiCssUu7jnl7u3_ZIZjPs8nhGkv0mRJSoCzWeg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک + تقویم اقتصادی برای امروز در سطح بسیار بالایی است و انتظار می رود یک اصلاح نزولی در طلا داشته باشیم.</div>
-<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SBoxxx/20948" target="_blank">📅 11:52 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20948" target="_blank">📅 11:52 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20947">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">قیمت : ۴۲۶۰</div>
-<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20947" target="_blank">📅 11:01 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.42K · <a href="https://t.me/SBoxxx/20947" target="_blank">📅 11:01 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20946">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ldy5mROgH08-SefYWtzVaSjU-iQ270g9oIdzP0db50iZJVf69bYEOeCHokOaw616t5d-0z77qYAr1QT9eHmG9iUOajpezdtqHv8y8e1S_pxEEz6DX0aYCwg8UX3NZT5Cor03y57eFCCidOIVA4fpnEaLrcLRDrXmcDQpkMEpziQaLJM5OsFcVGUJrs3RqxcpYkccgtg67lE4denSY50JKEqFr4s_b9oFQkCoZb8ZcIqAGRQXyLueWoeRRxtLzm9nKSHb4vJ8Bjx2_yWHsNGTo32pQoBZoDVPVJ_iCIZBN5ZKJo_QiaEBmbzdYJgfY3PNSGR9m8ksowxRwc0uJLSHsg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آخرین توییت برگ افکن دکتر قالیباف</div>
-<div class="tg-footer">👁️ 6.13K · <a href="https://t.me/SBoxxx/20946" target="_blank">📅 00:40 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.14K · <a href="https://t.me/SBoxxx/20946" target="_blank">📅 00:40 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20945">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">شروع شد:  اخبار فوری: کاخ سفید افزایش نرخ بهره فدرال را «مایه تاسف» خواند</div>
-<div class="tg-footer">👁️ 5.67K · <a href="https://t.me/SBoxxx/20945" target="_blank">📅 00:21 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.68K · <a href="https://t.me/SBoxxx/20945" target="_blank">📅 00:21 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20944">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">لحظه ای که روسیه ضد اوکراین سلاح هسته ای استفاده کند، آمریکا هم ایران را با هسته ای خواهدزد.  شاید هم اول آمریکا بزند.</div>
-<div class="tg-footer">👁️ 5.65K · <a href="https://t.me/SBoxxx/20944" target="_blank">📅 23:35 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.66K · <a href="https://t.me/SBoxxx/20944" target="_blank">📅 23:35 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20943">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H19_Z9UgNkP7TlPvND6l8l7NgMr5MbGfozRmjMHSHb7O36mqZO1U23Ud2FMwlN8WnoW2Vxp0X4fqyrHLYyEjwz8InahATUnb9G9tBLAf499y5LlW0rXt4XIt9z71vkWGBIbitWNa-5PL0GaHiYzR1A9xgVTLQP48fHCO-oDm-64AFND_ErYWpIKRvGTBXXzAtTkQJ6nQuwiVMADTyP_0C3MimwBuL6RjpxJuRmE0pWSQYW45yNsACfQ3k9X8_6KB_S8MFmef7HlKf3F8C0OmGuyJa3wlOjP02tMRP4VpKifUnDrvXls10FDFxQZRYujLGv1RwJsbgsFeOhbAottcXw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ALbdefW8hQwcSH63eYAeH1cnF5uiLIQJtun12U1vf-S87RiEEzslrFRDBv8xgekKdOnd9encjWXQ3DWwd9s7wBVtqypDs2v2C_MWJ1BeW9wt8Ai-DjbuLlckaw40F1KgeCZWwILY2TJVngn0_pQGsERIRb1cR_CpA8G8jwFh6lI6s2TFh69aJyPIh2pVXcWhO3wpQZ0wVhScyqEc6UTnpd2gUWDPTeyZGqkQ2tYfUfD-6Rlu1BSBszAHBvz7k935rWJWmzfANW4qhACAArY1xu3Z-zzN0wlCbQnfAkpBSvF_tLMIMwHXY8CPsDIhEEQMTOxbWpjTETPLVsnd2g2N0g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این پوزیشن دیشب برای همراهان ما ارسال شده بود.</div>
-<div class="tg-footer">👁️ 5.59K · <a href="https://t.me/SBoxxx/20943" target="_blank">📅 23:28 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/SBoxxx/20943" target="_blank">📅 23:28 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20941">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">خرید طلا یک پله توصیه می شود</div>
-<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/SBoxxx/20941" target="_blank">📅 23:07 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.61K · <a href="https://t.me/SBoxxx/20941" target="_blank">📅 23:07 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20940">
 <div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SajMQA4O76VRuJdPP65WxwLuAEZ84VthIzC4ejsR3K00p0wHv4ySd2mVbMwvA7g5bhq-77JtSPWzlsW7ZQ9J0ro_qpx0zjFqUJPZ6aeVc_jJ1obiYLR7WxggjcRK-uKe-9qD1JEBLLnA_Hx5W26RIqM72iXHn_ViiKtTAR-Xe7Ha2ZxUb6BXSeRMWxsba8YXL76qph2dgkdJA0V3by-snlWsLO2tzX7Nz1Hi45FqtZHzN18GyxZyTEWyU5EsWCmX6DF-FTcz2w9X1DyJIfHVBPFgLY3T5U0o5qf85DaPVnDr1V-xcesIbJ7uStNHiaDIfJvPbAzfMTkCfvma5nKgHw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BkhhE1kLvd8GKQBswrZUlDcitZp1d8eZ9KKluJsCZONNeUVDYFo5f8dWzeNECWs2gTkHGoz5fZVHT4PnaaZS_dhVgg6_6esfZCiI_laUpYwy4493R2JPhGJnBCezLsffZvkPJRGDe2W6FKuvHX9VXWpF1ZbZV-2Jp0_8x2u-NGynmYUA2ikAEjG3_HPuKotZsGx2kF4NwhTJsjidB9pjLWWpMiJLnZJmCXzISy-Xe8v5qvoER8bJj1327riV_p-CKzg3LSkh2Rv71ekaPsvLFU8I3ja8w1ZlMoGWHb-4DFDvCYKb8iiqdNh9WRC-YeXXaCdVcG9PIE0P6Jg-UaEENg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خرید طلا یک پله توصیه می شود</div>
-<div class="tg-footer">👁️ 5.55K · <a href="https://t.me/SBoxxx/20940" target="_blank">📅 23:05 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.56K · <a href="https://t.me/SBoxxx/20940" target="_blank">📅 23:05 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20939">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">قیمت : ۴۲۶۰</div>
-<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/SBoxxx/20939" target="_blank">📅 23:03 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.46K · <a href="https://t.me/SBoxxx/20939" target="_blank">📅 23:03 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20938">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">خرید طلا یک پله توصیه می شود</div>
-<div class="tg-footer">👁️ 5.48K · <a href="https://t.me/SBoxxx/20938" target="_blank">📅 23:03 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.49K · <a href="https://t.me/SBoxxx/20938" target="_blank">📅 23:03 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20937">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">شبکه کان عبری:
 مقامات عربستانی به نتانیاهو اعلام کرده‌اند که اگر اسرائیل جلوی پیروزی یمنی‌ها را بگیرد عربستان سریعا با اسرائیل روابط خود را به طور رسمی عادی‌سازی خواهد کرد/کویت نیز بعد از حملات ایران همین قصد را دارد/اردوغان نیز با محکوم کردن یمن پروازهای ایران به ترکیه را لغو کرده است</div>
-<div class="tg-footer">👁️ 5.68K · <a href="https://t.me/SBoxxx/20937" target="_blank">📅 22:53 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.69K · <a href="https://t.me/SBoxxx/20937" target="_blank">📅 22:53 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20936">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">به دلیل ورود حداد عادل به تبریز چندین فواره بزرگ توسط شهرداری تبریز پرتاب شده است، به دلیل اینکه فردا میلاد و هیچ جشنی نیست مردم تبریز فکر کرده‌اند پدافند فعال شده است.</div>
-<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SBoxxx/20936" target="_blank">📅 22:52 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20936" target="_blank">📅 22:52 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20935">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">به دلیل ورود حداد عادل به تبریز چندین فواره بزرگ توسط شهرداری تبریز پرتاب شده است، به دلیل اینکه فردا میلاد و هیچ جشنی نیست مردم تبریز فکر کرده‌اند پدافند فعال شده است.</div>
-<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20935" target="_blank">📅 22:49 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/SBoxxx/20935" target="_blank">📅 22:49 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20934">
 <div class="tg-post-header">📌 پیام #53</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/V0siv2HNY-XnThqjRjM6630IU-nuJXhgxtxJWFbEpGOF0POGt5zFqupcJBUR_XfMTHttsHVFhl4tByBLpErBAsSAl1SP413vBQccfIwINyjCkx729fYXxMeED5xAXGjLlmwY-5PYz5vXf1aZ85KcQw-M2d9IVzJE-gT6563J7G0_6TgJa_YTNKetkgcyNaVmdgPgoCtO4nBUt__Q-dIxKLcYzhmjylBDzS7N6XFTxoIRxuCl1wuqU2GrjQg0gQjqlnJeKWOwmbY3pemLVhIM7fJMUYUWPBMYu-isGOZOSRWgf1oYq5YinMFvQPco73Jr08XdT729gB_AHHEMaz3Jng.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/opMvr68U0qercxQvkt81IAEpCcyroRkXmdhlNtYuDWUGgUCdXq32iY5P71IADaZXTPyn5LqKb423RoNLH8nwBdzzGifnA-IVwDVPOTF12WYFte3OO8MZZIHDDF6jbvWkwGtSigauJBzYirOb12nmqrO7wdPIPtGnGnO9rC20gK__PZv6_ZDKcNe2T2MktFNsGHMnOgBHMk0Z9JqTHFE8y2STGNl0W-Fzi0iBfLi4wPXy8L5eiy3BCJNe9lO_tmcnfhizn5grY-XrwhMcahFmuFyQ2uB2tWA3gd-cueVRVL0d43K4oFUipHETbOVTFwGxP_3qQyqkdZssp3z-JuDeZA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI  شاخص ریسک ژئوپولیتیک + تقویم اقتصادی در سطح بالایی قرار دارد و نظر به رشد طلا از این محدوده (4340) انتظار افت داریم دستکم تا 4300</div>
-<div class="tg-footer">👁️ 5.42K · <a href="https://t.me/SBoxxx/20934" target="_blank">📅 22:41 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.43K · <a href="https://t.me/SBoxxx/20934" target="_blank">📅 22:41 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20933">
 <div class="tg-post-header">📌 پیام #52</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AS0qAFf_Twz7VrkR9f3DR-oI5hmvsmKahN4lyGIAxUHCVpGSBkyFq81of-SDszSzpen72KJioMOg6amTk9-lNWSLfF8N-dyR12i2mJoWt5CMIkVPVfaZyjFbUfK1tJ9zeTxBN8CZrHx0XtoE6Rw-hLQ4Crxfow_gOpByYMuXHjNns8RZehQOQ87Nyz_jWVGPgfVDf-z-1m8QVp56WjkTiSiSWFcsyt7EUwREX2Th-cEC3FmZoEi4SWRrwympzsXWNBnf4qo0oTUs172RwO7kqWr2ASY0rxWbI5hTbUAESCFwiI2lAkhlP-ZMNjzvJw6zJuX2Fn4OvMoToqjyNLzunQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 5.94K · <a href="https://t.me/SBoxxx/20933" target="_blank">📅 21:56 · 25 Shahrivar 1405</a></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/I-hlbw75YDjMj_PTcG1lBCjJ3qMhiWCGtqJF-RXlb7I9AZ9VJMdmndytci8uuVS5_FC4080h5_1cmjwxW56LG_8ioEZt2U0CT602Sbs5Ox_pqr73m6NkenFENVtyJuRw0O1V3MTBuxMf3VpbMUFWyV8p5h_hAYTOWiQmBVkXP2Yxe5i_e-hCN3I1ikC9gXwPPw7VmnWH6kww-609ip8nRfXLbX3L08cuDAj5vtNaO_y7_XIUZxhOeY5iMI4Oxu1KEMS8Wzq1B3j3OT4wTEI8-2e4WSnsf4QbvvCMySgN5aM5YvKnJ3txqnAOXsJM9qytY1TRIY5gSQSTjkz7WBjdYg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-footer">👁️ 5.95K · <a href="https://t.me/SBoxxx/20933" target="_blank">📅 21:56 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20932">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FNeL8UAeF_wjyKFTE3Crc7CeUtqnPShbesSzdx5hjPvpGSsTnBnkzj8oiMd4hyfHzD05_zhMoIRYh4ZYNadSO0yf819dDjCi_SsZWU7y0c4471t-05_I42cWzEy-NES8RwDbpW5v3ctuyGC92FZS_7rrpNPW3zLgczKLE47yxhrEOwL61c5vWL0cXGMhmhgo255YzL73LC9L35WUpzk4sAn8x1IzQGxKxmJNJV2bCDTT7mTad2TPT-5wKjm36mOjR_9hgWMxuFn_VWFjJsVgMMW65rjDkCsDTe6XefZ7X3PToZgoTeD8Nn4ax8pLXedmDK1iAX423d_K9iYnUWOadg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dXDt-hzana5HFkhXjXB0UTGxkPO53LZve9fCcwruwBVPnUuR9g1fTWMAYlXgN19iWtoG4Di2b2TfKNRylseUrCJGzZ5Y-_Cvb_rHCiQenMQIkVXMSV7mvJDGOaDlA_mFp83rXuPQ350WQsEPkQlzBhrEgt6TmWiFhnwi1uePMflJLvE09rL-hh8wSOyLwoWOK5O6vftasaUGwoST_fRJGVl4JRgcQzyDuSe0xIg3VwGyYBUapnmeGXNkaH_xQyO9cXBOO29VEU-3g_jGP9IC5v63bE1t0kvCad48weAeQ4S-An5pi-5xBImmnnHKbtxWXEIFNX1ZxREyCko47n8bhA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ای ارواح عمه ات پاوول دوروف !</div>
-<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20932" target="_blank">📅 20:42 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.42K · <a href="https://t.me/SBoxxx/20932" target="_blank">📅 20:42 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20931">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6727faabd4.mp4?token=NQZNhlC8k5a5ItbI9Vv_4Utcne926rX0eGFSrgey4-nm2Rlx_QnidfhqgLGJBjAHia_O9SvjWXrzbj_DN3DPH2k-l5JGiWSvEcmSHHBvq-AGhn8Zyg4T5Xl50EKa-fDmgKEjF5f97X7Xpj0kc651YFqtf1pj2YNLxHiSe2mrPvz8C1iAFcTBIU_cNCs8mdOQaA3m-VsGumKTPsPysAxb_lxcAZJHQ7WJYtrECu659eB3LR47nCiR2i65dgp5lv9e7elmv67RdXgWCSb4ZT6GsfDWc-skzBSlgyZOkgRNwNUWZxCjIE0CDqzNGrYOkY_8IAsjT9l2-V-1iS1n-aKldQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/6727faabd4.mp4?token=EWRyrUZ8qDLmgwfU5YhT8Whn9p6AQsImXC6Vx6thH-aEukzjGBo1wAk-3vYR582NMMTorGPHkxgI2rWYIlfvY7eyYPCrxAhn9BayyAa72ypCKojxPLKWmVXOYzuHs6TY3nozTdVqdRAUUHfrSvOJZKwGf3_PXjACGdtZ765VgJljuTNjWMLMxed4Xr8bLKlPHbRjpdF3_-qmsDBZWrybV0ZCW1l4yny4jvjCU0sL0V-iONpKbzeJBxtvL-Gj2w8enZZ0AoyYOrA2Ioj6trOI_zEhl4Ump48pf3q6iYCdDi4PUiRM4OVcVtkcUh3pGzQWduNMZ6PtrfWSsmmzP58WwA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/6727faabd4.mp4?token=NQZNhlC8k5a5ItbI9Vv_4Utcne926rX0eGFSrgey4-nm2Rlx_QnidfhqgLGJBjAHia_O9SvjWXrzbj_DN3DPH2k-l5JGiWSvEcmSHHBvq-AGhn8Zyg4T5Xl50EKa-fDmgKEjF5f97X7Xpj0kc651YFqtf1pj2YNLxHiSe2mrPvz8C1iAFcTBIU_cNCs8mdOQaA3m-VsGumKTPsPysAxb_lxcAZJHQ7WJYtrECu659eB3LR47nCiR2i65dgp5lv9e7elmv67RdXgWCSb4ZT6GsfDWc-skzBSlgyZOkgRNwNUWZxCjIE0CDqzNGrYOkY_8IAsjT9l2-V-1iS1n-aKldQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/6727faabd4.mp4?token=EWRyrUZ8qDLmgwfU5YhT8Whn9p6AQsImXC6Vx6thH-aEukzjGBo1wAk-3vYR582NMMTorGPHkxgI2rWYIlfvY7eyYPCrxAhn9BayyAa72ypCKojxPLKWmVXOYzuHs6TY3nozTdVqdRAUUHfrSvOJZKwGf3_PXjACGdtZ765VgJljuTNjWMLMxed4Xr8bLKlPHbRjpdF3_-qmsDBZWrybV0ZCW1l4yny4jvjCU0sL0V-iONpKbzeJBxtvL-Gj2w8enZZ0AoyYOrA2Ioj6trOI_zEhl4Ump48pf3q6iYCdDi4PUiRM4OVcVtkcUh3pGzQWduNMZ6PtrfWSsmmzP58WwA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">تایید شد</div>
-<div class="tg-footer">👁️ 5.69K · <a href="https://t.me/SBoxxx/20931" target="_blank">📅 18:05 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.7K · <a href="https://t.me/SBoxxx/20931" target="_blank">📅 18:05 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20930">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hJkbEH8qAes2Qwm5MFlICvJUGcyZ5GpizIuyvTnusIMv2R1g8cSdKPxIY9rcAZUlPqNg_2mTcMI-mhjogaZVYMf7OVUK8dGXgc-ZtTfP4mDio-dWdFdbYtBFboI8ZYvVrmJY6KRoaghnBgtyRLQSWt7AR_qRNO09e4hB59rI2k12_tQKZaM5OljXKh_G69OM5hqEG3UUO672pSx-ngDbaclucvkUNe37Y0u2_VHZHO2-3z6FgS8uE8yfzX1_7aWkSuTFOVR-KptpkNvqKZPS8Vw0CeMReCWc-ihpB9oVReCGhl-LQhojknBfw0JplhdGh-UXUikJecUDeJQ5ZWITew.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YJXVYEWRk2o47EYn5HN2ZtRO0J5pzb-V_uJgx1ZpPi2odAwde4LwOSzF80ho_TYaaaox4uTHHP7y3uc77L86YftZCJKKTPCypsytAzesqdw_3qKiLqdmxhANk27eSgLUbsgmipF-xoDthT5hTyt9__C-OsV1hXe0v3-UNZ5yzFcp0omSJgtVYQ4dw37xOq_pu9Nql3AMmzOGVxEBx5vEee0uiHwMdrjjqf-BIdaqQBKMsoKYUCiddPiEZ9BMiqGHEa6FaXmIoBY0-t3rp-Z4NB06aY9V1TH1k_8e2q_-3mfRmW8A3a5xiv_f8bPO2NSAiEabf9JGPrWzbVSmfwqmmw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یحیی سریع سخن‌گوی نیروهای مسلح یمن در بیانیه‌ای از انهدام یک‌فروند جنگنده F-15SA متعلق به عربستان سعودی در حین انجام عملیات بر فراز آسمان استان مارب خبر داد.</div>
 <div class="tg-footer">👁️ 5.46K · <a href="https://t.me/SBoxxx/20930" target="_blank">📅 17:49 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20929">
 <div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M1D97koXa54f_YcHIy4iAnGJVUR7DT86-NZ_pPXZLzmWscnmn2nJOvG9K3HCgP_eivk-wItVyZGQIJ1MkjyXpdI1RKQBM3qXQUSbMJoJZAkBNXBJpqDTdbFtzfDs28hlccHePTzIBBrRqFURCCX8Hnrj5DE2BTMLNRMjUue3FODWP8J7X1D0ndrNsiBVIJA-mmCoZzv1iQcPewcrBfXn2pTvPtk66_lF7r-VMRNpUqqeBlCfTO3dv1Wmurm4ZYY7OrKGK6lfYP75M3SDP7M1ghziXeKfNIXsL944mAYC1lQ5Jo4Kbu32MQqJK2oGax16DjrYTAevzuf8oiqJTZdIOQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H0bf7FYLSc5jiAVNg8RMox4AyPe5Ska9RAmG6QJs9IpdZGxIlCf_6HBCjIsZMRHhQwxuYpgD2Ge8Yr0fi8IWe2CutW1exEqJkoTgNViHSleTcUFahytVnNmJB2r_iGuuHWKPhfRKSo_trm2mbYrr2UbuOxK_IyCeOKvzjgaY3lqQnm6fIx1EdjGWFY4OG9hdz2YyxPFZE4hvsLSNli0vRbwA1yLvdi-5_io2-YGnPFbX8YqzTnBGGYJhUScFUuPz7bOODpcBDmH2m1c31nxZz-_gqNJTH88P6dFxzJtmVzSsACZ3OKQODFQKpgc2Wku9G9gh6-sNLBjcwChDE480NA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک + تقویم اقتصادی در سطح بالایی قرار دارد و نظر به رشد طلا از این محدوده (4340) انتظار افت داریم دستکم تا 4300</div>
-<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/SBoxxx/20929" target="_blank">📅 11:12 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/SBoxxx/20929" target="_blank">📅 11:12 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20928">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dzRK7mLCLGXOTlj-_SlwVjwsm0LT-cTbSyr2Zqv_77EQGkHfEVhQ8-sG2HqlAfGNqQoHDHAjuOGlcRUCacvcRt8r7W2PXsaqikHexMGeiu8yRdsr9aGCiT40yDA8KlEBdpiTJj9N2kcByREVSyQ59njN2oiVhY2PjBQhHgMkWisoPZAuQ_iXYMCU5OWsheHqVPXxaoWa0Zf-67YMhaE5sPJm308X-ZEIvc2g3RvI5lKlZLhein2MjgMnaBSwE9NiDhWtJm-kvNEXuLRMwrG8DzFjpTof0Mq7iR8DDUJOyqLWLImkrt6mxrXb6SlS774wa5-XU0ShKPMQvw7WSriRrA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XGVTDd9x_f13aLBjGN2cTEke5-HQ9jW50mTEPZwnQEVztSyYKGgLMxLfTOwEhLJnH3lxKXJ6dy5CfrKSt7vT6OCUCQkVhxEOk6Cfpha4Db1SYS98mY_R_QhKqjh1qmFtixWyZnWU30Kr6tJLPBlOcB2f1Kw50JkhKAq4kLoGfKjPNfAbpyeoBwICuwVjNrjT00kq72wtfLXwxWv5tJ3yUn2dm55xyiuRg4jgH7yBmOF1CWVEOtmuCnxbI2nn02NLN7mHDglFFjVZkF4c0yYnEwpZ6-NmhCF4-lQ3Gs5Veg9fdVMZd4GmVpKQw9L2Gs_3zrz0rJwE9vchsyNmRuu1Ag.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📌
 جنگ هرمز و باب‌المندب؛ آیا ایران در حال فرسایش مالی دولت‌های غربی است؟  اختلال در تنگه هرمز و افزایش فشار بر باب‌المندب می‌تواند با بالا نگه داشتن قیمت انرژی، تورم و نرخ بهره را تشدید کرده و هزینه تأمین مالی دولت‌های غربی را افزایش دهد؛ در نتیجه، جنگ از…</div>
 <div class="tg-footer">👁️ 5.43K · <a href="https://t.me/SBoxxx/20928" target="_blank">📅 10:07 · 25 Shahrivar 1405</a></div>
@@ -753,10 +753,10 @@ _sheshgalani_
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/c861857ae0.mp4?token=Z1m4PCWMF2Ctm8aw6GDxJGb2mOtq_k-l95u_daO2Qrf-2ncjbYIixl9xegvaE5ajdY61_toDqa50fL2Ga3JnAs27xg20r76ySCwWIrEHmvIyq6GpKfXJhtfHomnHvMSS3xLPoRpFrO5mMzL8p-BFe4a_WxBE2y9CmLGfENl5SVI3fLFy9PB7QDYIOOWBYjEI_4PziQtqsJrP3fo8D24XgYF4457WKjTr3gtPEJNGTVmwy45wsgsF65DlUe8iJOCD5fNJ57JspP1bIbNP7RztGtz51xvpqxrNtjTW2T0oPhMhiEUhpGYXg_WJfn7UuJb31dFRJG4foX2672TmFngEXA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/c861857ae0.mp4?token=tcXmmHu1JGYctAw7AAplbRztuLWNU0NHPFlZjnykm4MhnhdcIxh2cqPPORvvebEtuSPbAKiQCcyOG4XeALLkIfAAFsbCcaoV-bR_qy2m7kFPvrVWeLWKO2yzCN_mVAmQ-dtEADAFMfInpEghZz_dRxjh0R60KTrbEIR2LmfDItVX_bbcfSMTQyby51o3h_xqN7nCE8Cd2C5paWvMB5RWeQ3TUylvuKEX3XQ0QzK0PFk574K5bEry4Hjjaxg5lZNCNCBE3SN7_v1qenpD6iFEugI657kWRin0n8kYIIDIo1Y8smQMdPQrBmEF0D1_5okLenS6ScRk6bW9KGi7IP2Imw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/c861857ae0.mp4?token=Z1m4PCWMF2Ctm8aw6GDxJGb2mOtq_k-l95u_daO2Qrf-2ncjbYIixl9xegvaE5ajdY61_toDqa50fL2Ga3JnAs27xg20r76ySCwWIrEHmvIyq6GpKfXJhtfHomnHvMSS3xLPoRpFrO5mMzL8p-BFe4a_WxBE2y9CmLGfENl5SVI3fLFy9PB7QDYIOOWBYjEI_4PziQtqsJrP3fo8D24XgYF4457WKjTr3gtPEJNGTVmwy45wsgsF65DlUe8iJOCD5fNJ57JspP1bIbNP7RztGtz51xvpqxrNtjTW2T0oPhMhiEUhpGYXg_WJfn7UuJb31dFRJG4foX2672TmFngEXA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/c861857ae0.mp4?token=tcXmmHu1JGYctAw7AAplbRztuLWNU0NHPFlZjnykm4MhnhdcIxh2cqPPORvvebEtuSPbAKiQCcyOG4XeALLkIfAAFsbCcaoV-bR_qy2m7kFPvrVWeLWKO2yzCN_mVAmQ-dtEADAFMfInpEghZz_dRxjh0R60KTrbEIR2LmfDItVX_bbcfSMTQyby51o3h_xqN7nCE8Cd2C5paWvMB5RWeQ3TUylvuKEX3XQ0QzK0PFk574K5bEry4Hjjaxg5lZNCNCBE3SN7_v1qenpD6iFEugI657kWRin0n8kYIIDIo1Y8smQMdPQrBmEF0D1_5okLenS6ScRk6bW9KGi7IP2Imw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حوثی ها دیدند هر کار می‌کنند این عثمانی و فاکستان برای دفاع از عربستان در قالب پیمان دفاع مشترک مکه تحریک نمیشوند این بار خود مکه را زدند!</div>
 <div class="tg-footer">👁️ 5.65K · <a href="https://t.me/SBoxxx/20927" target="_blank">📅 09:22 · 25 Shahrivar 1405</a></div>
@@ -775,28 +775,28 @@ _sheshgalani_
 
 <div class="tg-post" id="msg-20924">
 <div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XVxcoF9l1ZMVYGHUXTVtA2cNkgVhPXhqd0WNP-A_DIurMtQ2BQQXH3QkjPDRe9QKEGbRDuiZpnN1s8Cc4t29tiIuVsFpsxCMrHffWf_cOgIEZdV1D0op7VPNhzpbNTOF7tpDa2SGD4l3t1NaMIrKQlEH2GP32H0N4ywEwFUuwwm391VRuUhxxDNTUv1U98etcnANTXdC4F7do5TLS27OHBMyQT60v1X33IIdP9fw4kix5QMfF0GMAOD5tSBpbTk4naFRQD9GQZSLKet5OM3cHIk3lAZVGUcj-GU6XLsR-UaruCbWjQylyPWmId00d6_I0geIR-d0a3rmXqfKqJJPRg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aAfa63WtaCKnTOYd178EkryjsfbSuOkt2znm3AS8xkVY064W7Zdbh7drMqzZcR9_q77-dHPv14XL7OoiGkLfNYNq4Cn5k08tt8y6ej-KlmoWBsxrhxoL0tCJdrL3hwD2TE4Oenkad3RvWo0RqghLH7dDXloC8S5zYSDivxVJwJcqSkrPT9ZazRWHCvsukp8yHRv_5imgcztC-IaiZqFG88isnEAAEepIMb1rH6FlrNI8bUCqmW4biI794Sw36g7gFTvv4LLheVKTG5Um5payACuVE-rVUWnCPYbzohI6S_8gC1Up5w7AH2pnbQube4fJ0Fiw1Deai4VJ1FOQLLMmng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پیشتر گفته بودم در عصر اقتصاد دانش بنیان و هوش مصنوعی، تنگه بندی و راهزنی شاید در کوتاه مدت نتیجه بدهد اما در درازمدت نتیجه عکس خواهدداشت.  (به پست ریپلای شده که حدود ۲ سال پیش منتشر شده نگاه کنید)  اکنون این ویدیو را ببینید و دریابید که چطور بسته شدن باب…</div>
 <div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20924" target="_blank">📅 01:38 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20923">
 <div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HWU1xEVMpKdUC2_9JYAQO3oyqBDuJjTomdTkqtjpR7JXnhPhq3VueSF_gpGkdTLpwzRCCSYrBUo2QkTExxyntNJnVCceYTlfyDBBrske2iV8nD7i4xJFtH9drKDvxw6EqqBFIdBiRLjhmbAZ0g0VOA6tSQgd_K64l0sXJhWVeTFS2nTEwx7RKFEmdkTdt0ZcQciwgG39maFnPYZ2tDDldeMcUfXJDqyVgt4wbQr7Bf_6lJxdFWFVRa6ZIdfa9Hv1iOlGV9ISWHqFVrJ4BGLJFKXbigXu3rWERoDJka5P7JOOO_HGhZsRSC1LjUfKgWpKBqahxlXf1GmB6whKd7Nc4A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jBXT1JinCE7V8MGehYp-lTxDo5BGGRXZm4c47-XMmq4c_sNLYU95MdEhE4KUB1TU9Oe4g1ZTIDMS6VDBaZegfXZdAeuWKSTlP-GbySonWleBEIiSeV15BAqsC5OE0p_8EuotLdme8hAP9EsOQ8Q_-z7Il8hKXj10WdHUWF2SwS-W6jpvFwYW3y-INovrLo6xxzwl52pUxwjV7ZwZUsEEUoHMN2-g3s4Osfq8Czi2hOKQbfmLt7_vCz7rs7mKPQ5cHyFcNL1rDfTf1vW06cRFB68r74YSLiF1xyfPIbsfFHF0-OaoQgYRWRqdrz0AR2HAx1ktLAiMlg9BX6EWn3gb0w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#FairValueCurve  نمایه ارزش منصفانه طلا نزدیک به سطح مناسب خرید عالی است و لذا پیشنهاد می شود برای امروز خریدها رو به پایین باشد.  بهترین محدوده خرید از 4280 تا 4250 می باشد.  نکته: معمولاً وقتی به سطح خرید منصفانه نزدیک می شود بعداً رشدهای خیلی خوبی داریم…</div>
 <div class="tg-footer">👁️ 5.24K · <a href="https://t.me/SBoxxx/20923" target="_blank">📅 00:31 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20922">
 <div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZaP-GwkzJaktWd7NukO7iEsx2jR5daP74ukQWpLLoSw5GpphF4kpJuxeV-abLJm5FXHErhLCF-G1AVtEpvKbqv2hOaSzUOsylj9QbHiq9FMtVVK6QS1SU991GrASRVk7KLhW_fOA-d5dYSgC_1HYMuACJQ3wp1793btfJ_KRKmejISUQVGQ4kWLGMppTHMIROnivVbuu41WCYMr3j0oyZbc-fEJGuC4x_PDiNJAIGja4IiEftTC6pK4kpRpEX5ENJI36A_yY_rCz-6G6iD0PF8uA4qXQInlUECtBbYG-eqE9m_aBkWNn2ZBcWwZsHYCS2zCrO8tQeBSRdhJ9k_ofAQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QX8AxNcJ_y_swGboG85LnPlErR9yLzPAfD9PPW2ndLJkjbKk-sx78zn96pCefWOPAf5VFqYNI--m8stkgQxHdDsQ5tTGs0x7RgbGripLazBuM9TNywdnWv5EGLNl54tqOKvXy0-eDNptIm59OD4DXAAOTdXZs00fuH5bmysijD6uYXJ5x3hI7pg7-BdmxD21UZjewAYmEiJMIcWYpA-1M4YcBPjTNAK7eGYXGCJB6rjP5ciKIKo3p_OB7o9XMhdKy2OVZ9wIkKbZ3JYzPHO_46RoCH9xlUrbwv-7NNc7BwgiT4UKAURR0nXdFIpJjffGazRPKgqK2Ippb-zXJNrzbA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Ali SharifAzadeh – GeoMarkets - Podcast 27</div>
 <div class="tg-footer">👁️ 5.31K · <a href="https://t.me/SBoxxx/20922" target="_blank">📅 00:18 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20921">
 <div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QZl3P0ZFNOw4o20-J6stINfWwvZHXPmQQ5Y6ieVjlmBDQItO6cf3huGqYN80fSAQNpGWll6BU7p5BYLgatbkZKlY20G6-tF_5pXmhAJEvxVo7R9SzgAlgLfZCXTuEuJYd6kyeKz1acUFVmrRa0T5UreZcOiAnPpcngtqw0gg0FZ1FOkTBlG-GXwDlqeuTf4mfQ4biVivNIPNK3G7z8IJ83P5qm_iFyar-znDRAhTxVvzMiCLJ-9G8LAQsAX9fQ5M4zoi6Ic3jlwzQ82RR7szIan7shTuyR8QmdOsWeLb0MKt7yO3aebvJ5q9N_PasEGsSCx6vgsgwfLuyH6aiSHqiA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SuTKcmOaElztqtpv_G3PFv4jtC_L1rFP2_ZZo1QktFufAP1J9L3qiKkaB5A0wqkFfgARTcwp1agPyGzhxQjJc3MtngW_uSvxnu1tKxZAUkyH-ldWGdn81dalcJRNC83Trtr7duvqakIUHtdzTh1TdjjiXOxa1bJl83B2RRkLAWwzrmld95AZiWtEVE_u2HxVdTq2SukDPyoOlfMq7OL9fLXuJ3z7z4Bantz1Vw51Ek-ieWuDxB9yn6f1DgUGmW1y85vCBJcw33P97J9CpDi19Md33H2WkuRjP7iKMuJ3I6V8_g3DSfCp_QW2hpA60xIv1OfffFV6fPuOJaMCGwe5Bw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گویا امروز برای ادارات و نهادهای دولتی ابتدا کد 100 (تخلیه فوری) صادر شده و باعث ایجاد اخلال در کار ادارات شده و بعد از چند دقیقه وضعیت سفید اعلام شده و با اعلام کد 69 همه به سر کار همیشگی خود برگشته اند.</div>
 <div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20921" target="_blank">📅 00:13 · 25 Shahrivar 1405</a></div>
 </div>
@@ -810,20 +810,20 @@ _sheshgalani_
 <div class="tg-post" id="msg-20919">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">به گفته مقامات آمریکایی، دولت ترامپ در حال تدارک فروش بمب‌های ۲۰۰۰ پوندی به ارزش میلیاردها دلار به اسرائیل است؛ اقدامی که بزرگ‌ترین فروش یکجای این نوع مهمات بحث‌برانگیز در سال‌های اخیر محسوب می‌شود.</div>
-<div class="tg-footer">👁️ 5.66K · <a href="https://t.me/SBoxxx/20919" target="_blank">📅 21:00 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.67K · <a href="https://t.me/SBoxxx/20919" target="_blank">📅 21:00 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20918">
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">عراقچی فردا به چین سفر می‌کند</div>
-<div class="tg-footer">👁️ 5.46K · <a href="https://t.me/SBoxxx/20918" target="_blank">📅 19:17 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.47K · <a href="https://t.me/SBoxxx/20918" target="_blank">📅 19:17 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20917">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">آکسیوس:
 یک پهپاد آمریکایی پس از تلاش سپاه پاسداران برای توقیف یک پهپاد نیروی دریایی آمریکا، دو قایق کوچک ایرانی را در تنگه هرمز منهدم کرد و اکثر سرنشینان آن را کشت</div>
-<div class="tg-footer">👁️ 5.49K · <a href="https://t.me/SBoxxx/20917" target="_blank">📅 18:46 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.5K · <a href="https://t.me/SBoxxx/20917" target="_blank">📅 18:46 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20916">
@@ -847,12 +847,12 @@ _sheshgalani_
 <div class="tg-post" id="msg-20913">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">وزارت خارجه چین: «ما با هرگونه رقابت تسلیحاتی در فضا و همچنین هرگونه تلاش برای تسلیحاتی‌کردن فضا یا تبدیل آن به منطقه جنگی مخالفیم.   از آمریکا می‌خواهیم گسترش حضور و توان نظامی خود در فضا را متوقف کند و با اقدامات عملی، از ثبات راهبردی جهانی محافظت کند.»</div>
-<div class="tg-footer">👁️ 5.53K · <a href="https://t.me/SBoxxx/20913" target="_blank">📅 16:14 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.54K · <a href="https://t.me/SBoxxx/20913" target="_blank">📅 16:14 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20912">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FV1mZStgw3IuKn8fBHlVGiZ5CucIxO98NBX64VUVp4XG-8MZ-qFCD37Y4wa6jW175LD0kkzp3OQlOoDWc9R2sYjulPMS5uZu0KG1a3EwEjEY8CMQD6Tn05W3huSw-XXuUZQFx-B5CWg_ywP9yisqx9LtU2CVpAAzjUKq29muUWQYzPyKUAmO8_5xc8y-3Xs08t_809yolBEu-qEeLhX9CQSPzGqiZPq64JaHSGMAEvTCPvgFhbJ5rYtUT7Bomb7BM4u24gVBtTZGNcZa1c8i5aTDZMVAnFpRbUdMp8K5Ls92On_Lg1Z98YZwofnUdEib-BYSuLRB0APZW5QUeWsmtw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Fl9c0NYlVC0bYaQF0qxAyuuFnGOkbC4XVm8SCooZJHkaYgNodvy9yl3FKr9wBnothsMTwayUKz-qbLuSgpnbUCJpanlo3IGp7UYyK4YdOt8YkW4XSHnP26-dtDflVgIfn-1Y0voUQNUJifny-f1bM0AaOHgLJOHN6nU38mqKBgN2xRUE81ExJLd4APEFGAb4EgaIjtmXAgpPIn-PJa5AXTBVWFqz-QBsQJPkbLx_VRtE80d3TLRl9kRuD2TghmcCvOYEDzBTJXitE_90391EkPM1M39JHM6YckTDIWMJeT4dBW9-hJoLP-WoqFl7DHmh9hYQb_R002lebF8i18N_-Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 سخنگوی پویش جانفدا :  جان فدایان غیور صرفا برای اهداف نظامی به کارگیری نخواهند شد ، به زودی پیام های جدیدی را به این عزیزان تقدیم خواهیم کرد</div>
 <div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SBoxxx/20912" target="_blank">📅 16:10 · 24 Shahrivar 1405</a></div>
@@ -867,7 +867,7 @@ _sheshgalani_
 <div class="tg-post" id="msg-20910">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">گمانه زنی هایی دال بر انهدام ماهواره چینی فعال در کمک اطلاعاتی به ایران از سوی نیروی فضایی آمریکا منتشر شده است.</div>
-<div class="tg-footer">👁️ 5.24K · <a href="https://t.me/SBoxxx/20910" target="_blank">📅 16:07 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SBoxxx/20910" target="_blank">📅 16:07 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20909">
@@ -879,7 +879,7 @@ _sheshgalani_
 <div class="tg-post" id="msg-20908">
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">رسانه عبری والا به نقل از منابع:   تماس‌هایی میان عربستان و اسرائیل با میانجی‌گری فرمانده سنتکام انجام شده تا از طریق ارائه اطلاعات، به سعودی‌ها در دفاع از خود در برابر انصارالله کمک کنند</div>
-<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SBoxxx/20908" target="_blank">📅 16:01 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/SBoxxx/20908" target="_blank">📅 16:01 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20907">
@@ -891,7 +891,7 @@ _sheshgalani_
 <div class="tg-post" id="msg-20906">
 <div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">در سوریه با گران شدن سوخت، اعتراضات مردمی آغاز شده و آشوب ایجاد شده</div>
-<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SBoxxx/20906" target="_blank">📅 15:26 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SBoxxx/20906" target="_blank">📅 15:26 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20905">
@@ -907,13 +907,13 @@ _sheshgalani_
 <div class="tg-text">#پادکست_GeoMarkets
 شماره — 27
 سه شنبه 15 سپتامبر  2026</div>
-<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SBoxxx/20905" target="_blank">📅 13:05 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SBoxxx/20905" target="_blank">📅 13:05 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20904">
 <div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">گویا امروز برای ادارات و نهادهای دولتی ابتدا کد 100 (تخلیه فوری) صادر شده و باعث ایجاد اخلال در کار ادارات شده و بعد از چند دقیقه وضعیت سفید اعلام شده و با اعلام کد 69 همه به سر کار همیشگی خود برگشته اند.</div>
-<div class="tg-footer">👁️ 5.59K · <a href="https://t.me/SBoxxx/20904" target="_blank">📅 12:25 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/SBoxxx/20904" target="_blank">📅 12:25 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20903">
@@ -924,38 +924,38 @@ _sheshgalani_
 
 <div class="tg-post" id="msg-20902">
 <div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eGQ-8uD_KpEVnE_gnF6jl0zi6mYshxzsAKJ6ABrMCrezwgGKyeeLO0uRFSHhqB3QUAP3HT80rp7j3Xy88JplWonUzTtEY6Po5ifLQPGTdCKQf60nvMIZHU7v9pmSe0Cbb6Bl1o01EfQA2q7a2T6XzpNxBkHCSu26pvaARle8UU4rRgS8fv6_zFx0LBWsek9X7_G-awzRvoMQpbOy01rDnjOW0iMoAyJZnrHSBZRBNYbsxr5k_6TxOIbvQiNoHf1gIoAYuPxFGynvuSW558Cm8m9pmdjOKglIIl_Zmz2gz-aU2RBPS3cUlAiXvaq-uMxaa_MDMudRstcwj7325ABRAg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HZ3yOUXt8BZWn6l4Q4Aj2vYE6PiS8f6iuehAP3LIBOvDRLZUbD5VydfZNrgEV6Br8QrkcxYJCOfUrpZql6w8qcZsMhBOZg101bzN51Xf2pyXUqbFo2CJZdXs12Xe78qkzh-ruZQkwHhb1GEOkCGKeBd1wxkMeWbSjFQJ4DVt4EtyF783j7saXxFBFIE_pZB4MCh93LSTkCm9ZPPu6WKwNbXiJ6ktmwqUVcNrubxYgq7P3ho_fxMB7-_sUiNNObpZb-ScTd3eFY-WWP0FwzNt1JaRv2lubkOnt1OuK1mvOsN0o5awOqTHVEA4JEMOJltDbIjFFZGQ10bMlrGE9I1MDg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گمانه زنی هایی دال بر انهدام ماهواره چینی فعال در کمک اطلاعاتی به ایران از سوی نیروی فضایی آمریکا منتشر شده است.</div>
 <div class="tg-footer">👁️ 5.58K · <a href="https://t.me/SBoxxx/20902" target="_blank">📅 12:10 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20901">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OB0PNaanurawVQy5BiQaAwymD1-jxfn3dbDHcb7Px1ESW27oF6OhJC7EOVTy6D1DsAy5lf5n_5BESXFNaPkjNP7bTBvFyHbOj79jR7ZQNosFjHildRdUBPjrRQ8nT85EoalLQE4BEeCxgh4rZmSYhHT21Dj6DAcSJv6jT8cl62_bvU2ErxHLaRUeERz8chs_65_iDY8rF7Mgzte5GQdoqjpBptn3HO34gB7j5s8fAECAZtV-E3OzlwHEdR8DMAucqzfw5iHt66hxAOElx83jJ2LwdZDBDCC2v8h0AxsW1p0m-tF9sdt7X9tFw0qLdgNzHPIEpkx-VPzEH929seOfgA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DZ68X6GEE-zCV44VVhbTfM6SEJk6SS8WgEtM1WkXVZj2Ll-opM4I0jnPJtiLn5srYBvTWODEiZyZs9-P3_JndEBrTsjBEqVMPOA1vbIpzPmWsJH1nMi0gzRnABlb3ZBQ_Mk66ySlt4mZeCM1HD4gp3kj3UThBXXjTGdcaqXICCLUxo5ylF7iHqNueFD39LP4y2dWsWqRIaDAD1onFoSxTmCwzPSLWnK0vsKWGqLOwxj0rDQQPAR8u_yGTw8bp-qSahBo0cA1TJagRjpVh0ZBt8tgMomgaKevUzy61eco6QtpLD_JHSxuVWB3aF7bps_1sqEp9anz10j94N6AVYRXfQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وال‌استریت ژورنال: کمک ماهواره‌ای چین به ایران  به گزارش «وال‌استریت ژورنال»، مقام‌های آمریکایی می‌گویند ایران پیش و پس از حمله موشکی ۱۷ ژوئیه به پایگاه «موافق‌السلطی» در اردن، از تصاویر ماهواره‌ای با وضوح بالا از منابع چینی استفاده کرده است.  در این حمله…</div>
 <div class="tg-footer">👁️ 5.66K · <a href="https://t.me/SBoxxx/20901" target="_blank">📅 11:56 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20900">
 <div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LGTAwfChHoELNnb4mzaIv-t-R6k4qWeX6biXhnybLYCwBRfJyOlRcUbFvs5zRIUYlQkT6PRg1BgbQU5vqqxruddXdcnUjyI93XrzUEKvKSGCiMQGxn0VxZX4F1uuCI2sqAw_37PMVJs0bjIHDSAjqY36gEVq3RVd_TPZQXlwSuOUKVL3YhKqnd4pFf8WOdra9chdi2wbmZQew73xXt070Rh_0EHm7EwLViiYvRN32bP3fQaaqdBTs1LslL1CgZrOwoDZFcGK7wc2tAGOwx9m-geoCDfyLIzJMN-jYPWXL-0buNTi9-ngzwQX088s_ctfnl2djnET-Bbehgn7TGmxbA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QCh9epfmreZnBBrXg4l3XiBmEGSEmOWRQrNZ8UHXHrrrTz0n465a67ajRVdnu_AXt3mw0BxKLAdDyzmNJq4K8Cz6PIPQN1OrsQlrV8IffjxAqWKX91vFaH7Z1uQU_DnvdaEuxMk1v2HWG8UPQF0yr501nAaXzrNtl_SDKdaOm_ru6-bz9Oe0m9TRaizpP3HMSZ4F2bAO_TPUb7KngPPEbFtEwrI5h1bS-Qcf6PRA-7MsuPSxLGrxD4brEOfqRUSLXuCg7nNNom2ygF-X4NIGRwllF3xeXYi2j_3YcpzoJz8ZX0PcF6f0Z_CIRZ37cUEeehgMyHzDCJgR_Gawg7vgdg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#FairValueCurve  نمایه ارزش منصفانه طلا برای امروز در حال نزدیک شدن به محدوده تخفیف ویژه (پایین تر از ارزش ذاتی) است و هر چه به سطح 4290 نزدیک تر بشویم برای خرید مناسب تر است و تا زیر 4300 نرویم خرید منطقی نیست.</div>
-<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/SBoxxx/20900" target="_blank">📅 11:36 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SBoxxx/20900" target="_blank">📅 11:36 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20899">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nE-pQDL0r_SIL15egH4NQFWVPSF56M17f9SuSo9fnKHwrK7zwwNIThd3rSUlyc_2dVMtuCub2UAMrohe83F23Z48lhtRJ4CVGc_a1LfsDAmAOaHwTpaQqdsxZpmec98hzEjiIr3dmqIcw5N1j6BAhj6q3-_YQOmEriyioZjSxsQ3J04QYMmMk3hVToi6Nlxn8ZkOOLtZ3Xhp2C8jH8P0sai7jcMxrcnDRX9TLqIiUg9dr7fhJm5IdtJWt6H0rm7FrLdYkztfWPoFvI84zZNGWKGAeCNYNSZJSWy7IY6HIHg0XW_8USxAHRYP0MfnH5zkpQtT_6howg4oV6ePeKBopw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/G8lWvmOUD5hUDb861o6tjt4vnGm1bmNqfSnExXzdFDkZKRZ-cAuynXI2ZQpU1zQOZ2k58IasXt1GM3hit4cGtTLN2SMpxv5EYx1JQ31SdxI7rH6nnd-opK6eC_HX8nz7KW-rpz_XyT9y5G8feJmyv3gxjXhgHX0DJC9uOVd9cgVB-3xgz3Ry8hGu_aYOmcTk0BiQPD3b1MBuNNUbyomV0AdY_pNFuWvE9_c2x_Af-GpwDCsNcbs2fFsXVrGao-YiuvflqB5WfQXosufU2r2HHAguXahuoe6gov8_xFx_URz4G0DI2zh2Q4ipD5BBygy8-WvgvrOblBTlOySEauUU3w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#FairValueCurve
 نمایه ارزش منصفانه طلا نزدیک به سطح مناسب خرید عالی است و لذا پیشنهاد می شود برای امروز خریدها رو به پایین باشد.
 بهترین محدوده خرید از 4280 تا 4250 می باشد.
 نکته: معمولاً وقتی به سطح خرید منصفانه نزدیک می شود بعداً رشدهای خیلی خوبی داریم و پیش بینی میکنم این هفته طلا سطح 4400 دلار را پس بگیرد.</div>
-<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SBoxxx/20899" target="_blank">📅 11:24 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/SBoxxx/20899" target="_blank">📅 11:24 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20898">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fg7n-N-QI98lNAuQH_sj7BtwBKTTiyff3h3HxsGVy9YCoS1DtX9u0hGZAW0yM-lQWcIntgtu0YP3GlPfkCtxzAlxvsiBP9ud7pM87iy0W0NPGGmJLQaxLLBFxXzWt2OW-kUtXXyAl9QwQ_f0v0JCEAEMRZtQTEOTYiRmHszUIPyuwvyHGon90kogvDpNrRjMcE2KZ-NxYpCT8PUv0ktQH20JUoBHtewOsF8wGprfhenGPY9nIYAkIsOJRDsUoPVoiWwQY7o6sdKmKQuqGyBHQZByj07IMu9W-wuORqhONo-XG1GsCUyB_GQYlKeNzZaulLtmYz-tKc-Zqry08yHCoA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jn13wnanKOXK7rkAwyJhIA3OV21L4ljrbdtmJYbqDel5BK35T0eNgPBLuHJ5At_SjdSlSRWH_ghcSfXgj83tixc5sG1MC_Iaea470mDU3dDPrSFngaiITuaWPFE6XInwriK2fp1dPatyqbcjy_Ybt3bgCPOfAFTtyfaMOifSBFwFTzv5C3OK__CsucX6RVk_pi3XJEIv2pn8pecURU-GCyW6s_P-6kZWoQ_Ox_emeyQhxYnwZsyEn6kg7nHUB7Up2sK9D7UIwaFJadS4ahbSBkCmlcfdtu0-OqmVIGwRoZMqCphBVvvOqJgNwfgn_Ga-PgG5PI8VKI8JEx3v9COxCw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک + تقویم اقتصادی برای امروز در سطح نسبتاً بالایی است و احتمال فراوان هر بالایی فراتر از 4300 فروخته خواهدشد.</div>
 <div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SBoxxx/20898" target="_blank">📅 11:21 · 24 Shahrivar 1405</a></div>
@@ -963,10 +963,10 @@ _sheshgalani_
 
 <div class="tg-post" id="msg-20897">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/X-t4HN9BeQQ1jXJRk2o1tE9r9gVyACc45biMryXi-d6zmKGO3za5pdAiWX0fhOtWjdL8jEaGnD68ttFBrtiF1GwerxDPxbiuB0PxfLtDbZynATDYdgQoDDYN27HQuxz95WfAdvqYWbf659LHopj8EeaLyvtoIUzOftxA-8-ZQqJUu8Kgd5XfjVf83KUIaM1XrOoNugc3SmeQNeas3vtmtl8B636p-NE2ddefC-cD6nvPMBYv17_JXE-_ncgzEDwWwO56z3EaAeHsXVhErDQ_5IjeYriljjFmak3vAAIoiuXdkg2gyQFAjeTvcwuvVCzrFknmUCc0byKzOJ8kbeVANQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Eis9eUI7h9NI-BpkByuH9geVdtFsMaNQKrMT1yS-9uA7dXA49IkvQsUZ0JNuqIXpvzSN2EtVVyh8ey-1-DKyrZQM9SsEbck5KUm-1m57KE2Akr21z7Dc-AepE-oqptxAEmKliEozeRR3J9BazuHonaQ_8mbqK_I2QKzxIDzUkGxlcDfGMpEZybVSZWsdnabje97cCS9jzJ7jTJRSBvz2ssjL8YEStPOktQd9FEvaKh3lIw2DojOt2t3mEPOlS5tqcTWtqy0L_kqeL9Otbhin1syW8oHu53ilfioWOe4g4WbK5aQiawYO7nYggB87KqiquBlEtpduFUfPDm7G-Zxq4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حمله حوثی ها به عمق خاک عربستان در ۱۱۸۰ کیلومتری مرزهای یمن!
 و کماکان از متحدین پیمان مکه (عثمانی و فاکستان) خبری نیست!</div>
-<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SBoxxx/20897" target="_blank">📅 09:57 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20897" target="_blank">📅 09:57 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20896">
@@ -986,7 +986,7 @@ _sheshgalani_
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">یک بار از یکی پرسیدند تا حالا اتوبوس هل داده ای؟
 گفت نه ولی یک بار تو اتوبوس هل شدیم دادیم!</div>
-<div class="tg-footer">👁️ 5.98K · <a href="https://t.me/SBoxxx/20894" target="_blank">📅 01:11 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.99K · <a href="https://t.me/SBoxxx/20894" target="_blank">📅 01:11 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20892">
@@ -998,7 +998,7 @@ _sheshgalani_
 
 <div class="tg-post" id="msg-20891">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MskZNHA7x2px5RFlF1LnN0mrIAuvIcCgwMBW2iyAXZnq8zoq_7ugBW-z0s2Dzyi7-qc_O65xdtaV6SjXMAB_nGlpwU44oKzMvGdwoXPm3URvPAYD4712farBVPxHOrgUV8fnDS2bTgPCa8vPPCTksmUWdHx_x4NCQwz-m9Ox9I05WgOsExA40IID1ZmXl4r1emMkR4t5k5ODejvV96LsvgcMirJbkUx3Aq3f1eJi56VNqvtFPMysi_sq8sx2fbT54NI1mGB-kWUqLCo52mSNks71yrBmNNesZjFLgR1vLi0SPrWicocIw7GXLwXjNfPxK9l7lHjSKVSX9vGit8iVOQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pUX0SzO2AD_c1_dTgkmyI7w7MB1CQZeScXZWvcVjWzbdwrBOe29wP_liZo7yHEDWYDg3VB_HiTpwnGCK0rR-nr4CI438vK0yPLUD1qj07VrEWShTNJI8Ra1zk6dxkGKcifoXgIScZzlj-RDqqyGqLtux0wW3gju_TlTP-h7WNenUCD5E7o5JmWl8mFFh35OFXfSrE5dz5PWNw9fGj54-peVhhR6-BOIREuhe0tr899DcIUcwhzK_rRh5iCkH_Wfuh-EelHU1yA8VsvN0MUxuDggj3y4oAEURSm4VXP7yCRlZT5poo-BPBnElpm33YUTKFHHLwvGKrYPvuOZIevOOlQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">😀
 💙
 😀
@@ -1065,7 +1065,7 @@ _sheshgalani_
 <div class="tg-post" id="msg-20882">
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">ادعای ترامپ:   ایران به شدت می‌خواهد در سریع‌ترین زمان ممکن توافق کند.  من تعیین خواهیم کرد که آیا وارد مذاکره خواهیم شد یا خیر، و این گزینه‌ای است که نسبت به آن پذیرا هستیم.</div>
-<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/SBoxxx/20882" target="_blank">📅 19:55 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/20882" target="_blank">📅 19:55 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20881">
