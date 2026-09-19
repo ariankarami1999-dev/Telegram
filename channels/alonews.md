@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/P51VLA4qgQyjtRxaVuHC1fmxf2ysBx0m8tIDEcC9uGD0Q_-4blU9TISMfK7KT54DfBTshgea86UDJlh0RNEdZw8WAz0KS7ibSc7MJwiWhpjnm8mQQp7whHO5AGRvX7MlrV_UEi76NoxO7P-DGFF3PjGSu2i3-C-j5gWCyybGBkYZU2YBP_VpZzrvgDYSkwSbfkSK27OU03COijcI-9asCbFtF26Jp64N5uakODyptAwBzX52wHm5iVDfkaLdzWuu230H6IOeIdxh5CqlrLVETzjYcIhR4szb3WRSrQBlPDmssYL8GH_Bw3FfJP1L1EmxZ2ZLWwSOYtDGnOa5pgQSkQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 اخبار جنگ الونیوز AloNews</h1>
-<p>@alonews • 👥 965K عضو</p>
+<p>@alonews • 👥 964K عضو</p>
 <a href="https://t.me/alonews" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌جهت رزرو تبلیغات👇https://t.me/ads_alonewsپشتیبانی کانال🕵️https://t.me/AloNews?directمالک کانال🎩@AloNewsBotX:https://x.com/AloNewsBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-28 03:16:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-28 05:53:03</div>
 <hr>
 
 <div class="tg-post" id="msg-148126">
@@ -302,7 +302,7 @@
 نیروهای نظامی آمریکا به ABC News گفته‌اند که بیشتر پایگاه‌های نظامی آمریکا در خاورمیانه به‌طور غیرقابل‌جبرانی آسیب دیده‌اند و ترمیم آن‌ها ممکن است دهه‌ها طول بکشد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/alonews/148126" target="_blank">📅 01:40 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/alonews/148126" target="_blank">📅 01:40 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148125">
@@ -311,7 +311,7 @@
 دونالد ترامپ، رئیس‌جمهور آمریکا، قانون «تحریم روسیه و ایران، لیندسی او. گراهام» در سال ۲۰۲۶ را امضا و آن را به قانون تبدیل کرد.
 🔴
 بر اساس این قانون، تحریم‌های قانونی، تعرفه‌ها و محدودیت‌های اعمال‌شده علیه روسیه گسترش می‌یابد و تحریم‌های موجود علیه ایران نیز…</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/alonews/148125" target="_blank">📅 01:25 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/alonews/148125" target="_blank">📅 01:25 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148124">
@@ -328,7 +328,7 @@
 تحریم‌های موجود علیه ایران نیز تمدید می‌شود.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/alonews/148124" target="_blank">📅 01:20 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/alonews/148124" target="_blank">📅 01:20 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148123">
@@ -348,7 +348,7 @@
 »
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/alonews/148123" target="_blank">📅 01:03 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 38.8K · <a href="https://t.me/alonews/148123" target="_blank">📅 01:03 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148122">
@@ -357,7 +357,7 @@
 پیت هگست : خسارات و تخریب‌هایی که ارتش ما به جمهوری اسلامی وارد کرده، بی‌سابقه بوده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/alonews/148122" target="_blank">📅 00:51 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/alonews/148122" target="_blank">📅 00:51 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148121">
@@ -366,7 +366,7 @@
 ترامپ میگوید سازمان ملل متحد عمداً دستگاه پله برقی و دستگاه نمایش متن مورد استفاده او را در سخنرانی‌اش در مجمع عمومی سازمان ملل سال گذشته، از کار انداخت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.1K · <a href="https://t.me/alonews/148121" target="_blank">📅 00:16 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/148121" target="_blank">📅 00:16 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148120">
@@ -376,7 +376,7 @@
 علم الهدی: ریشه تمام مشکلات بی حجابیه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.3K · <a href="https://t.me/alonews/148120" target="_blank">📅 00:09 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 53.7K · <a href="https://t.me/alonews/148120" target="_blank">📅 00:09 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148119">
@@ -389,7 +389,7 @@
 من نمی‌فهمم. چرا باید این‌گونه باشند؟ ما بسیار خوب پیش می‌رویم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.7K · <a href="https://t.me/alonews/148119" target="_blank">📅 00:03 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 53.9K · <a href="https://t.me/alonews/148119" target="_blank">📅 00:03 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148118">
@@ -398,7 +398,7 @@
 هشدار های در غرب عربستان سعودی دوباره فعال شدند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.7K · <a href="https://t.me/alonews/148118" target="_blank">📅 00:02 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/alonews/148118" target="_blank">📅 00:02 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148117">
@@ -407,7 +407,7 @@
 فوری /  هشدارها در جیزان، جنوب غربی عربستان سعودی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.8K · <a href="https://t.me/alonews/148117" target="_blank">📅 00:01 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/alonews/148117" target="_blank">📅 00:01 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148116">
@@ -418,7 +418,7 @@
 آن‌ها به مدت ۱۰ سال، پیش‌بینی‌های نادرستی درباره من داشته‌اند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.7K · <a href="https://t.me/alonews/148116" target="_blank">📅 23:55 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 54.4K · <a href="https://t.me/alonews/148116" target="_blank">📅 23:55 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148115">
@@ -431,7 +431,7 @@
 خبرنگار: آیا شما در تلاش هستید تا با اعمال فشار، رسانه‌ها را از انجام وظیفه‌شان باز دارید؟
 🔴
 ترامپ: نه، نه، نه. من از رسانه‌هایی که دروغ می‌گویند،…</div>
-<div class="tg-footer">👁️ 48.2K · <a href="https://t.me/alonews/148115" target="_blank">📅 23:55 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 52.6K · <a href="https://t.me/alonews/148115" target="_blank">📅 23:55 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148114">
@@ -446,7 +446,7 @@
 ترامپ: نه، نه، نه. من از رسانه‌هایی که دروغ می‌گویند، مثل شما، خوشم نمی‌آید. من فکر می‌کنم شماها خیلی بد هستید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.1K · <a href="https://t.me/alonews/148114" target="_blank">📅 23:54 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 50.5K · <a href="https://t.me/alonews/148114" target="_blank">📅 23:54 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148113">
@@ -464,7 +464,7 @@
 به نظر من، همه با این موضوع موافق هستند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.6K · <a href="https://t.me/alonews/148113" target="_blank">📅 23:54 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 48.4K · <a href="https://t.me/alonews/148113" target="_blank">📅 23:54 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148112">
@@ -482,7 +482,7 @@
 اظهارت شگفت‌انگیزی که آن‌ها درباره گروه‌های مختلف مردم کرده‌اند، باورنکردنی است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/alonews/148112" target="_blank">📅 23:49 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/148112" target="_blank">📅 23:49 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148111">
@@ -500,7 +500,7 @@
 او یک کمونیست است - و در این مورد هیچ شکی وجود ندارد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/alonews/148111" target="_blank">📅 23:49 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/alonews/148111" target="_blank">📅 23:49 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148110">
@@ -509,7 +509,7 @@
 فوری / شنیده شدن چندین انفجار در عربستان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/alonews/148110" target="_blank">📅 23:47 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 46.2K · <a href="https://t.me/alonews/148110" target="_blank">📅 23:47 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148109">
@@ -527,7 +527,7 @@
 مردم نمی‌خواهند ایران سلاح هسته‌ای داشته باشد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/alonews/148109" target="_blank">📅 23:45 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 47K · <a href="https://t.me/alonews/148109" target="_blank">📅 23:45 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148108">
@@ -543,7 +543,7 @@
 ترامپ درباره ایران: جنگ به زودی به پایان خواهد رسید و وقتی این اتفاق بیفتد، قیمت بنزین شما به سطحی که قبل از آن داشت، کاهش خواهد یافت، شاید حتی کمتر از آن.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/alonews/148108" target="_blank">📅 23:45 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 45.3K · <a href="https://t.me/alonews/148108" target="_blank">📅 23:45 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148107">
@@ -552,7 +552,7 @@
 ترامپ: جنگ با ایران به‌زودی پایان می‌یابد؛ قیمت بنزین کاهش خواهد یافت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/alonews/148107" target="_blank">📅 23:44 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 44.8K · <a href="https://t.me/alonews/148107" target="_blank">📅 23:44 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148106">
@@ -562,7 +562,7 @@
 شبکه برق کشور کوبا تحت تاثیر تحریم و محاصره آمریکا دچار فروپاشی کامل و سراسری شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.7K · <a href="https://t.me/alonews/148106" target="_blank">📅 23:42 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/alonews/148106" target="_blank">📅 23:42 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148105">
@@ -574,7 +574,7 @@
 آلمان و کشورهای اروپای شرقی با تأخیر در دریافت تسلیحات مواجه هستند و درخواست‌های اوکراین برای دریافت سامانه‌های پاتریوت نیز تحت تأثیر تلاش آمریکا برای بازسازی ذخایر داخلی خود قرار گرفته است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.5K · <a href="https://t.me/alonews/148105" target="_blank">📅 23:39 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 46.6K · <a href="https://t.me/alonews/148105" target="_blank">📅 23:39 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148104">
@@ -584,7 +584,7 @@
 حمایت خبرگزاری فارس از پورن استار حامی حکومت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.8K · <a href="https://t.me/alonews/148104" target="_blank">📅 23:35 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 47.8K · <a href="https://t.me/alonews/148104" target="_blank">📅 23:35 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148103">
@@ -596,7 +596,7 @@
 این موضوع باعث ایجاد تحقیقاتی در کنگره شد؛ زیرا نگرانی‌هایی وجود داشت که ممکن است فناوری‌های طبقه‌بندی‌شده در اختیار چین قرار گرفته باشند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.6K · <a href="https://t.me/alonews/148103" target="_blank">📅 23:33 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 47.4K · <a href="https://t.me/alonews/148103" target="_blank">📅 23:33 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148102">
@@ -612,7 +612,7 @@
 ترامپ: ما در جنگ با ایران، به طور قابل توجهی پیروز می‌شویم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47K · <a href="https://t.me/alonews/148102" target="_blank">📅 23:25 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/148102" target="_blank">📅 23:25 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148101">
@@ -621,7 +621,7 @@
 رویترز: داده‌ها نشان می‌دهند که حجم حمل‌ونقل از طریق تنگه هرمز همچنان کمتر از میانگین ۱۰ روز است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.7K · <a href="https://t.me/alonews/148101" target="_blank">📅 23:16 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 52.5K · <a href="https://t.me/alonews/148101" target="_blank">📅 23:16 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148100">
@@ -637,7 +637,7 @@
 دعای عجیب روحانی عربستانی: خدایا به حساب دو شاخ شیطان برس، اسرائیل و ایران!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55.2K · <a href="https://t.me/alonews/148100" target="_blank">📅 23:08 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 57.8K · <a href="https://t.me/alonews/148100" target="_blank">📅 23:08 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148099">
@@ -646,7 +646,7 @@
 رویترز: ایالات متحده و ایران همچنان در مورد مسائل اصلی اختلاف نظر دارند، اما هر دو طرف گزارش‌هایی مبنی بر پیشرفت‌هایی را منتشر کرده‌اند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54K · <a href="https://t.me/alonews/148099" target="_blank">📅 22:59 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/alonews/148099" target="_blank">📅 22:59 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148098">
@@ -658,7 +658,7 @@
 او گفت که سازمان‌های رسانه‌ای نباید بتوانند به طور مکرر آنچه را که او "خرافات و دروغ" درباره دولت خود یا ایالات متحده می‌داند، منتشر کنند، و هشدار داد که "سایر رسانه‌های خبری منتشرکننده اخبار دروغ" نیز ممکن است با اقدامات مشابهی روبرو شوند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/148098" target="_blank">📅 22:42 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63.5K · <a href="https://t.me/alonews/148098" target="_blank">📅 22:42 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148097">
@@ -671,7 +671,7 @@
 👇
 https://t.me/+4jOgodAq96dmYzY0
 https://t.me/+4jOgodAq96dmYzY0</div>
-<div class="tg-footer">👁️ 59.9K · <a href="https://t.me/alonews/148097" target="_blank">📅 22:40 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/148097" target="_blank">📅 22:40 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148096">
@@ -684,7 +684,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 صدای چندین انفجار از سمت تنگه هرمز شنیده شد؛ جایی که پیش‌تر در همین روز، دو نفتکش هدف قرار گرفته بودند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.1K · <a href="https://t.me/alonews/148096" target="_blank">📅 22:32 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 67.5K · <a href="https://t.me/alonews/148096" target="_blank">📅 22:32 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148095">
@@ -693,7 +693,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 پوتین: روسیه هیچ برنامه تهاجمی علیه اروپا ندارد و آماده همکاری و احیای روابط با همسایگان اروپایی خود است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.3K · <a href="https://t.me/alonews/148095" target="_blank">📅 22:27 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62K · <a href="https://t.me/alonews/148095" target="_blank">📅 22:27 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148094">
@@ -703,7 +703,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 واشنگتن پست: تعداد پرسنل نظامی آمریکایی که در جریان درگیری جاری با ایران در خاورمیانه کشته شده‌اند، بیشتر از آن چیزی است که وزارت دفاع اذعان کرده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.4K · <a href="https://t.me/alonews/148094" target="_blank">📅 22:20 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63K · <a href="https://t.me/alonews/148094" target="_blank">📅 22:20 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148093">
@@ -712,7 +712,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 کارشناس صداوسیما: الحمدالله وضع مردم ما از مردم آمریکا خیلی بهتره
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61K · <a href="https://t.me/alonews/148093" target="_blank">📅 22:15 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/alonews/148093" target="_blank">📅 22:15 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148092">
@@ -721,7 +721,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 نخست وزیر لهستان: روسیه ممکن است به زودی به لهستان حمله موشکی و پهپادی کند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.8K · <a href="https://t.me/alonews/148092" target="_blank">📅 22:11 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.4K · <a href="https://t.me/alonews/148092" target="_blank">📅 22:11 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148091">
@@ -737,7 +737,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 ستاد اطلاع‌رسانی نیروهای مسلح یمن جمعه 27 شهریور، صحنه‌هایی ویدیویی از حملات پهپادی انجام شده به تجمعات شبه‌نظامیان حوثی در جبهه شمال استان مأرب منتشر کرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.6K · <a href="https://t.me/alonews/148091" target="_blank">📅 22:08 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 66.3K · <a href="https://t.me/alonews/148091" target="_blank">📅 22:08 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148090">
@@ -748,7 +748,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 آنها همچنین مدعی شدند که نیروهای سعودی در طول هفته گذشته، ۳۰۰ حمله هوایی انجام داده‌اند که در آن از جنگنده‌های اف-۱۵ و تایفون مستقر در پایگاه‌های خمیس مشیت و طائف استفاده شده و اهداف این حملات، استان‌های تعز، حجه، مأرب، الجوف، البیضا، عمران، الحدیده و صعدا بوده‌اند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.8K · <a href="https://t.me/alonews/148090" target="_blank">📅 21:54 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/148090" target="_blank">📅 21:54 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148089">
@@ -762,7 +762,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 رتبه‌ی دوم، رونالد ریگان با نرخ محبوبیت ۸۶٪ است. از شما سپاسگزارم!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/148089" target="_blank">📅 21:49 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.9K · <a href="https://t.me/alonews/148089" target="_blank">📅 21:49 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148088">
@@ -771,14 +771,14 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 احمد الشرع،رئيس جمهور سوریه درخواست عربستان سعودی برای اعزام جنگجویان سوری به یمن برای جنگ علیه انصارالله را رد کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.3K · <a href="https://t.me/alonews/148088" target="_blank">📅 21:43 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.5K · <a href="https://t.me/alonews/148088" target="_blank">📅 21:43 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148087">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">🔴
 تا ماه بعد وضعیت طلا چجوریه؟</div>
-<div class="tg-footer">👁️ 61.7K · <a href="https://t.me/alonews/148087" target="_blank">📅 21:39 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.8K · <a href="https://t.me/alonews/148087" target="_blank">📅 21:39 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148086">
@@ -787,7 +787,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 سخنگوی وزارت خزانه‌داری آمریکا در گفت‌وگو با الجزیره: ما اقدامات سختگیرانه‌ای را علیه بانک‌هایی در امارات و ترکیه که از ماهان‌ایر ایران حمایت می‌کنند، آغاز کرده‌ایم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/148086" target="_blank">📅 21:37 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.9K · <a href="https://t.me/alonews/148086" target="_blank">📅 21:37 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148084">
@@ -800,7 +800,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 اسکات بسنت، وزیر خزانه‌داری ایالات متحده، با جیک پل در وزارت خزانه‌داری در واشنگتن دیدار کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.3K · <a href="https://t.me/alonews/148084" target="_blank">📅 21:32 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/148084" target="_blank">📅 21:32 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148083">
@@ -816,7 +816,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 صف طولانی تو چین برای خرید ایفون ۱۸
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/alonews/148083" target="_blank">📅 21:24 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 60.7K · <a href="https://t.me/alonews/148083" target="_blank">📅 21:24 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148082">
@@ -829,7 +829,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 در حال حاضر، هیچ‌کس بر حوثی‌ها بازدارندگی ندارد؛ نه آمریکایی‌ها، نه ما و قطعاً نه سعودی‌ها، آنها آن اسب تیره‌ای هستند که هیچ‌کس انتظارش را نداشت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/alonews/148082" target="_blank">📅 21:17 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59.3K · <a href="https://t.me/alonews/148082" target="_blank">📅 21:17 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148081">
@@ -846,7 +846,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 [
 @AloTweet
 ]|</div>
-<div class="tg-footer">👁️ 57.4K · <a href="https://t.me/alonews/148081" target="_blank">📅 21:08 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 58.3K · <a href="https://t.me/alonews/148081" target="_blank">📅 21:08 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148079">
@@ -862,7 +862,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 آنچه زمانی سوخت خالص کابوس بود، اکنون واقعیت روزانه است. با آن زندگی کنید.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.8K · <a href="https://t.me/alonews/148079" target="_blank">📅 21:04 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59.7K · <a href="https://t.me/alonews/148079" target="_blank">📅 21:04 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148078">
@@ -871,7 +871,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 الاخبار: عربستان آمادگی خود را برای لغو محاصره یمن مشروط بر موافقت یمن با اتش‌بس، اعلام کرده اما بعید است یمن از این پیشنهاد استقبال کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.3K · <a href="https://t.me/alonews/148078" target="_blank">📅 21:02 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/148078" target="_blank">📅 21:02 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148077">
@@ -881,7 +881,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 حضور چند داف در دورهمی جانفداها
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.5K · <a href="https://t.me/alonews/148077" target="_blank">📅 20:58 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63.4K · <a href="https://t.me/alonews/148077" target="_blank">📅 20:58 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148076">
@@ -890,7 +890,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 صداوسیما: دلاورمردان پویش جانفدا بعد از گذراندن دوره های آموزشی، آماده دفاع از مرز های کشور میشن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59K · <a href="https://t.me/alonews/148076" target="_blank">📅 20:55 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59.8K · <a href="https://t.me/alonews/148076" target="_blank">📅 20:55 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148075">
@@ -903,7 +903,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 واردات نفت چین از ایران، یا نفتی که احتمال می‌رود ایرانی باشد، به ۴۴۰ هزار بشکه در روز کاهش یافت.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.5K · <a href="https://t.me/alonews/148075" target="_blank">📅 20:46 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/148075" target="_blank">📅 20:46 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148074">
@@ -914,7 +914,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 این تعداد 2 کشتی بیشتر از آمار منتشر شده روز سه‌شنبه است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.5K · <a href="https://t.me/alonews/148074" target="_blank">📅 20:41 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63.3K · <a href="https://t.me/alonews/148074" target="_blank">📅 20:41 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148073">
@@ -927,7 +927,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 جزئیات بیشتری درباره نام بانک‌ها، نوع محدودیت‌ها یا زمان اجرای کامل این اقدامات در این اظهارات اعلام نشده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.5K · <a href="https://t.me/alonews/148073" target="_blank">📅 20:29 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.2K · <a href="https://t.me/alonews/148073" target="_blank">📅 20:29 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148072">
@@ -936,7 +936,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 فوری / ترامپ: "باید ببینیم" که آیا ایران نابود خواهد شد یا خیر
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/alonews/148072" target="_blank">📅 20:18 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 66.3K · <a href="https://t.me/alonews/148072" target="_blank">📅 20:18 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148071">
@@ -947,7 +947,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 وزارت دفاع عربستان از عملیاتی شدن ائتلاف دریایی دفاعی با مشارکت نمایندگان ۴۱ کشور خبر داد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.8K · <a href="https://t.me/alonews/148071" target="_blank">📅 20:14 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.6K · <a href="https://t.me/alonews/148071" target="_blank">📅 20:14 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148070">
@@ -956,7 +956,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 فوری /گزارش انفجار در تنگه هرمز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65K · <a href="https://t.me/alonews/148070" target="_blank">📅 20:12 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.8K · <a href="https://t.me/alonews/148070" target="_blank">📅 20:12 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148069">
@@ -965,7 +965,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 ترامپ در پاسخ به سئوالی درمورد گزارش روز پنجشنبهِ اکسیوس درباره «تصمیم بزرگ» او: «آنها حالا می‌خواهند به توافق برسند. اگر این توافق، توافقِ درستی نباشد، حتی به آن فکر هم نمی‌کنم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65K · <a href="https://t.me/alonews/148069" target="_blank">📅 20:09 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.7K · <a href="https://t.me/alonews/148069" target="_blank">📅 20:09 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148068">
@@ -974,7 +974,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 ترامپ به شبکه نیوز‌نیشن: با حوثی‌ها در حال گفتگو  هستیم. حوثی‌ها نیز تمایل دارند به توافقی برسند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.8K · <a href="https://t.me/alonews/148068" target="_blank">📅 20:06 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/alonews/148068" target="_blank">📅 20:06 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148067">
@@ -1010,7 +1010,7 @@ pinned a photo</div>
 https://t.me/rezaei_motors
 https://t.me/rezaei_motors
 https://t.me/rezaei_motors</div>
-<div class="tg-footer">👁️ 65.4K · <a href="https://t.me/alonews/148066" target="_blank">📅 20:01 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 66.1K · <a href="https://t.me/alonews/148066" target="_blank">📅 20:01 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148065">
@@ -1023,7 +1023,7 @@ https://t.me/rezaei_motors</div>
 او به مذاکرات و گفت‌و‌گو‌ها فرصت می‌دهد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60K · <a href="https://t.me/alonews/148065" target="_blank">📅 19:55 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 60.7K · <a href="https://t.me/alonews/148065" target="_blank">📅 19:55 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148064">
@@ -1033,7 +1033,7 @@ https://t.me/rezaei_motors</div>
 زین واکر، بازیگر معروف ایرانی هالیوود و برنده جایزه نخل طلایی اعلام کرد بزودی به ایران خواهد آمد تا از خاک کشور دفاع کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.5K · <a href="https://t.me/alonews/148064" target="_blank">📅 19:48 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63.2K · <a href="https://t.me/alonews/148064" target="_blank">📅 19:48 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148063">
@@ -1042,7 +1042,7 @@ https://t.me/rezaei_motors</div>
 فرمانده سپاه: آماده‌ایم به هرگونه محاسبه اشتباه دشمن با قدرت پاسخ بدیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58K · <a href="https://t.me/alonews/148063" target="_blank">📅 19:46 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 58.6K · <a href="https://t.me/alonews/148063" target="_blank">📅 19:46 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148062">
@@ -1052,7 +1052,7 @@ https://t.me/rezaei_motors</div>
 پیش از این، نیروهای ارتش اسرائیل (IDF) حملاتی با استفاده از توپ‌های حامل فسفر سفید را در منطقه القنطره، در جنوب لبنان، انجام دادند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.3K · <a href="https://t.me/alonews/148062" target="_blank">📅 19:37 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 60.9K · <a href="https://t.me/alonews/148062" target="_blank">📅 19:37 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148061">
@@ -1068,7 +1068,7 @@ https://t.me/rezaei_motors</div>
 برخورد کشتی گارد ساحلی چین با شناور فیلیپین
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.5K · <a href="https://t.me/alonews/148061" target="_blank">📅 19:32 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59K · <a href="https://t.me/alonews/148061" target="_blank">📅 19:32 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148060">
@@ -1079,7 +1079,7 @@ https://t.me/rezaei_motors</div>
 👇
 https://t.me/+4jOgodAq96dmYzY0
 https://t.me/+4jOgodAq96dmYzY0</div>
-<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/148060" target="_blank">📅 19:31 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59.7K · <a href="https://t.me/alonews/148060" target="_blank">📅 19:31 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148059">
@@ -1088,7 +1088,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 وزیر کشور پاکستان طی ساعات آینده دوباره به تهران می‌‌آید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/alonews/148059" target="_blank">📅 19:25 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 60.8K · <a href="https://t.me/alonews/148059" target="_blank">📅 19:25 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148058">
@@ -1098,7 +1098,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 ما تجاوزات مداوم ایران علیه کشورهای همسایه و تشدید و هرج و مرجی که دامن می‌زند را محکوم می‌کنیم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.3K · <a href="https://t.me/alonews/148058" target="_blank">📅 19:15 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/148058" target="_blank">📅 19:15 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148057">
@@ -1112,7 +1112,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 </div>
 <div class="tg-text">✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.5K · <a href="https://t.me/alonews/148057" target="_blank">📅 19:13 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.9K · <a href="https://t.me/alonews/148057" target="_blank">📅 19:13 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148053">
@@ -1129,7 +1129,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 ۱٬۹۳۲٬۰۰۰٬۰۰۰٬۰۰۰٬۰۰۰٬۰۰۰٬۰۰۰تومان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.7K · <a href="https://t.me/alonews/148053" target="_blank">📅 19:06 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63.3K · <a href="https://t.me/alonews/148053" target="_blank">📅 19:06 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148051">
@@ -1149,7 +1149,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 چرا؟ چون میخواستن شبکه فروش نفت‌ خودشون رو حفظ کنن.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.8K · <a href="https://t.me/alonews/148051" target="_blank">📅 18:35 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.6K · <a href="https://t.me/alonews/148051" target="_blank">📅 18:35 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148050">
@@ -1158,7 +1158,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 منابع العربیه: محسن نقوی، وزیر کشور پاکستان در ساعات آینده به ایران سفر خواهد کرد و در تهران تشدید تنش حوثی‌ها در یمن و پیامدهای آن بر امنیت منطقه را مورد بحث قرار خواهد داد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.3K · <a href="https://t.me/alonews/148050" target="_blank">📅 18:22 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/148050" target="_blank">📅 18:22 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148049">
@@ -1168,7 +1168,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 زاکانی: دولت و شهرداری هماهنگ شدند تا از ۵ مهر قیمت برخی اقلام اساسی کاهش ‌یابد و تا ۶ ماه ثابت بماند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.8K · <a href="https://t.me/alonews/148049" target="_blank">📅 18:14 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/148049" target="_blank">📅 18:14 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148048">
@@ -1177,7 +1177,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 فیلد مارشال مخالف صد در صدی مذاکره و توافق و صلح بود و تقریبا معلوم شد چرا و به چه دلیل
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/alonews/148048" target="_blank">📅 18:11 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 60.9K · <a href="https://t.me/alonews/148048" target="_blank">📅 18:11 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148047">
@@ -1188,7 +1188,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 یاشار سلطانی: ۱۰۰ میلیون بشکه نفت گم شده و نمیدونیم این حجم عظیم نفت کجاست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/alonews/148047" target="_blank">📅 18:09 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 66.2K · <a href="https://t.me/alonews/148047" target="_blank">📅 18:09 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148046">
@@ -1198,7 +1198,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 یاشار سلطانی: ۱۰۰ میلیون بشکه نفت گم شده و نمیدونیم این حجم عظیم نفت کجاست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.9K · <a href="https://t.me/alonews/148046" target="_blank">📅 18:07 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/148046" target="_blank">📅 18:07 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148045">
@@ -1208,7 +1208,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 یاشار سلطانی: ۱۰۰ میلیون بشکه نفت گم شده و نمیدونیم این حجم عظیم نفت کجاست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.3K · <a href="https://t.me/alonews/148045" target="_blank">📅 18:04 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64K · <a href="https://t.me/alonews/148045" target="_blank">📅 18:04 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148044">
@@ -1224,7 +1224,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 لباس فرماندهان ترور شده در رزمایش امروز جانفدا.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.7K · <a href="https://t.me/alonews/148044" target="_blank">📅 17:52 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 67.3K · <a href="https://t.me/alonews/148044" target="_blank">📅 17:52 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148043">
@@ -1233,7 +1233,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 گزارش‌هایی مبنی بر وقوع انفجارهای متعدد در تنگه هرمز منتشر شده است و این گزارش‌ها حاکی از آن است که ۴ موشک کروز به سمت کشتی‌های موجود در این تنگه شلیک شده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.5K · <a href="https://t.me/alonews/148043" target="_blank">📅 17:39 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65K · <a href="https://t.me/alonews/148043" target="_blank">📅 17:39 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148042">
@@ -1249,7 +1249,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 وضعیت صداوسیما با 65 میلیون بیننده روز به روز داره عجیب‌تر میشه؛ یه آخونده رو ورداشتن آوردن توی پخش زنده تا این صحبتا رو بگه:
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.6K · <a href="https://t.me/alonews/148042" target="_blank">📅 17:21 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 68.1K · <a href="https://t.me/alonews/148042" target="_blank">📅 17:21 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148041">
@@ -1258,7 +1258,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 صداوسیما: تا الان بیش از 600 هزار نفر برای شرکت تو دوره‌های آموزش نظامی جانفدایان ثبت‌نام کردن.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.2K · <a href="https://t.me/alonews/148041" target="_blank">📅 17:05 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/alonews/148041" target="_blank">📅 17:05 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148040">
@@ -1268,7 +1268,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 انبار مهمات در منطقه "ایاش"، واقع در بخش غربی شهرستان دیرالزور، سوریه، امروز صبح منفجر شد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.5K · <a href="https://t.me/alonews/148040" target="_blank">📅 16:59 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 66.9K · <a href="https://t.me/alonews/148040" target="_blank">📅 16:59 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148039">
@@ -1279,7 +1279,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 ✔️
 نه
 ❌</div>
-<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/148039" target="_blank">📅 16:52 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.6K · <a href="https://t.me/alonews/148039" target="_blank">📅 16:52 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148038">
@@ -1293,7 +1293,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 با توجه به وخیم‌تر شدن وضعیت امنیتی، عملیات اسپیدس (ASPIDES) اتحادیه اروپا سطح هشدار کشتی‌های خود را افزایش داده و همچنان وظایف اسکورت خود را ادامه می‌دهد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.2K · <a href="https://t.me/alonews/148038" target="_blank">📅 16:45 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/alonews/148038" target="_blank">📅 16:45 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148037">
@@ -1302,7 +1302,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 فوری / عربستان سعودی از تشکیل یک ائتلاف نظامی دریایی بزرگ از سراسر جهان برای بازگشایی تنگه هرمز خبر داد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.9K · <a href="https://t.me/alonews/148037" target="_blank">📅 16:40 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/148037" target="_blank">📅 16:40 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148036">
@@ -1312,7 +1312,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 اروپا به محافظت از کشتیرانی در دریای سرخ در برابر حملات حوثی‌ها کمک می‌کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.6K · <a href="https://t.me/alonews/148036" target="_blank">📅 16:28 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63K · <a href="https://t.me/alonews/148036" target="_blank">📅 16:28 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148035">
@@ -1325,7 +1325,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 ایالات متحده همچنان مقام‌های نمایندگی ایران در سازمان ملل، مقام‌های ایرانیِ در حال سفر و افراد تحت تکفل آنها را از خرید کالاهای لوکس در اینجا منع خواهد کرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.9K · <a href="https://t.me/alonews/148035" target="_blank">📅 16:20 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/148035" target="_blank">📅 16:20 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148034">
@@ -1334,7 +1334,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 رویترز: چین در پیامی خصوصی از ایران خواسته از نفوذ خود بر انصارالله برای جلوگیری از گسترش درگیری‌ها در دریای سرخ استفاده کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/148034" target="_blank">📅 16:14 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/148034" target="_blank">📅 16:14 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148033">
@@ -1346,7 +1346,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 در واقع، وضعیت تردد و عبور و مرور نسبت به چند هفته پیش وخیم‌تر شده است.»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62K · <a href="https://t.me/alonews/148033" target="_blank">📅 16:08 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/148033" target="_blank">📅 16:08 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148032">
@@ -1358,7 +1358,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 نهادهای اطلاعاتی آمریکا نگران هستند که چین از طریق جاسوسی یا روابط امنیتی خود با ریاض به فناوری‌های حساس دسترسی پیدا کند؛ این نگرانی‌ها همزمان با پیشرفت روند فروش ۴۸ فروند جنگنده F-35 مطرح شده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.4K · <a href="https://t.me/alonews/148032" target="_blank">📅 16:06 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/148032" target="_blank">📅 16:06 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148029">
@@ -1372,7 +1372,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 انفجارهای متوالی در نزدیکی یکی از انبارهای مهمات در حومه شهر دیرالزور در سوریه رخ داد و آمبولانس‌ها به محل اعزام شده‌اند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.9K · <a href="https://t.me/alonews/148029" target="_blank">📅 16:00 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/148029" target="_blank">📅 16:00 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148028">
@@ -1381,7 +1381,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 مکرون: فرانسه در چند هفته گذشته، هدف حملات ترکیبی روسیه قرار گرفته است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.7K · <a href="https://t.me/alonews/148028" target="_blank">📅 15:53 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59K · <a href="https://t.me/alonews/148028" target="_blank">📅 15:53 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148027">
@@ -1392,7 +1392,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 بلومبرگ: شرکت آرامکوی عربستان سعودی به پالایشگاه‌های نفت اروپا اطلاع داد ماه آینده نیز نفت دریافت نخواهند کرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/148027" target="_blank">📅 15:43 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/148027" target="_blank">📅 15:43 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148026">
@@ -1401,7 +1401,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 خبرگزاری فرانسه به نقل از یک منبع اگاه: پزشکیان، رئیس جمهور ایران به نیویورک سفر خواهد کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/148026" target="_blank">📅 15:37 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.5K · <a href="https://t.me/alonews/148026" target="_blank">📅 15:37 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148025">
@@ -1410,7 +1410,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 مرتس، صدراعظم آلمان: دوران دوستی بی‌قیدوشرط اروپا و آمریکا به پایان رسید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/148025" target="_blank">📅 15:32 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/148025" target="_blank">📅 15:32 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148024">
@@ -1419,7 +1419,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 وزیر آموزش و پرورش: مدارس امسال حضوری است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62K · <a href="https://t.me/alonews/148024" target="_blank">📅 15:20 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.5K · <a href="https://t.me/alonews/148024" target="_blank">📅 15:20 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148023">
@@ -1429,7 +1429,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 یک هواپیمای باری مدل "بوئینگ 767" که از جیبوتی می‌آید، در فرودگاه بین‌المللی صنعا فرود آمد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.7K · <a href="https://t.me/alonews/148023" target="_blank">📅 15:04 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/148023" target="_blank">📅 15:04 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148022">
@@ -1440,7 +1440,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 اثرات تحریم‌ها بار دیگر به آسیب‌پذیرترین افراد در ایران لطمه خواهد زد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/148022" target="_blank">📅 14:58 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.7K · <a href="https://t.me/alonews/148022" target="_blank">📅 14:58 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148021">
@@ -1456,7 +1456,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 رژه عروس و داماد های جانفدا تو رزمایش امروز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.1K · <a href="https://t.me/alonews/148021" target="_blank">📅 14:51 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 66.6K · <a href="https://t.me/alonews/148021" target="_blank">📅 14:51 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148020">
@@ -1465,7 +1465,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 بلومبرگ:دو محموله گاز طبیعی مایع قطر از تنگه هرمز در هفته گذشته عبور کردند و یک کشتی دیگر نیز در حال انتقال بار از یک کشتی به کشتی دیگر در نزدیکی سواحل عمان بود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.3K · <a href="https://t.me/alonews/148020" target="_blank">📅 14:40 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.8K · <a href="https://t.me/alonews/148020" target="_blank">📅 14:40 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148019">
@@ -1474,7 +1474,7 @@ https://t.me/+4jOgodAq96dmYzY0</div>
 پزشکیان: با صرفه‌جویی جانفدایان در مصرف بنزین، گاز و برق، می‌توان از توقف چرخ‌های کارخانه‌ها جلوگیری و مصرف انرژی را کنترل کرد!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/alonews/148019" target="_blank">📅 14:27 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.3K · <a href="https://t.me/alonews/148019" target="_blank">📅 14:27 · 27 Shahrivar 1405</a></div>
 </div>
 
 <hr>
