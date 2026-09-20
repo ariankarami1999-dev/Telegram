@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-29 02:05:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-29 04:00:47</div>
 <hr>
 
 <div class="tg-post" id="msg-2608">
@@ -378,7 +378,7 @@ itiransite
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/ircfspace/2604" target="_blank">📅 17:07 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/ircfspace/2604" target="_blank">📅 17:07 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2603">
@@ -392,7 +392,7 @@ itiransite
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/ircfspace/2603" target="_blank">📅 16:51 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/ircfspace/2603" target="_blank">📅 16:51 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2601">
@@ -410,7 +410,7 @@ itiransite
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/ircfspace/2601" target="_blank">📅 08:17 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/ircfspace/2601" target="_blank">📅 08:17 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2600">
@@ -442,7 +442,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/ircfspace/2599" target="_blank">📅 07:53 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/ircfspace/2599" target="_blank">📅 07:53 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2598">
@@ -527,7 +527,7 @@ github.com/bepass-org/oblivion/releases/latest
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/ircfspace/2594" target="_blank">📅 07:49 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/ircfspace/2594" target="_blank">📅 07:49 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2593">
@@ -544,7 +544,7 @@ github.com/bepass-org/oblivion/releases/latest
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/ircfspace/2593" target="_blank">📅 20:10 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/ircfspace/2593" target="_blank">📅 20:10 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2592">
@@ -1003,7 +1003,7 @@ github.com/telegramdesktop/tproxy-server
 
 <div class="tg-post" id="msg-2564">
 <div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NIOl-NLDt4my2vy0SMnSa5zY-qS9zWJgvcwyFdY1XkNZAVu1U0xrc_BkNiJiXmIekgAgpgWeyPkQUT0ee9g6MRmkmRD-hu5pBk6b6bPAC2mcDG2eDOgU912GgyanDCJP0e7l_gSQZmtATeve3qtR7jr364AK-AURMmBNu4ZsZiYokMSIDMPnoKC-2UDqBQwc_-p_qL-SOmM-b8NivKbJC1iK3c1f1BwbNpO6RTIPugh4rmHvbs-XxW0QWf5TfGrL8aMs_0BBHMmM2_pEtSqiMic9zqLLZrhUjRboGF64BPIihq3zegFV-K-MOiEDTJQrQi1eHxxsSWO9g_d0tvilvw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FO8PfNPO0BsMqaU_gJvH-YwMLG1Rf64dNZ-NvUGxOQBubRKSR2KegAuZlhZRHo3rVh7vUKEXIjEUlzAxQIxhelC88o7dtxmeelGQxvNQgQmX297O2EBhymGEH-24l1hiwjU-Q2C-8lct9n_joMOxlqOWNAxb8FU7GvzscESmFtfzdRw-UN35FNmNH1LivVQehPC_3RkUnM5rpZfOjUcJ6-11NNmJaBO0yhheDI0h1sWThKbLLJQhD9fNKUtoFWYls5gSiMMn3Zav7yvQG13C8KG7AmU8wH9dTKHTzLBDzKCyh0SWT9T2m71bLU4N8J6RLR6tMbVK_EGHJabvgU0tjw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در کدهای نسخه دسکتاپ از تلگرام نشانه‌هایی از یک پروکسی آزمایشی جدید با نام WEB مشاهده کردن، که از WebView و ارتباطات مبتنی بر HTTPS/WebSocket استفاده می‌کنه. این قابلیت هنوز در حال توسعه هست و مشخص نیست نسخه نهایی اون دقیقاً با چه معماری و مشخصاتی منتشر بشه.
 ©
 telelakel
@@ -1019,7 +1019,7 @@ telelakel
 
 <div class="tg-post" id="msg-2563">
 <div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ujk93FdCSpL3S3OrBfbKKUKik-tlfmzEL_5hwVQPDlvcGJBeDegWU7nMvBFiSbVkI3veVlo9URZ-k_nZrnY44TSz6U8XqUn6474fe3vIeRHKSu4XFUgzpf5fruE_KnWeAXGdRN0iLmLhMVXmikbfcWbwARWPc3l6Xf4FgiIPjW6Q2eky-jRmDZS43WOazxRTJo8mKE6kPM6XhtG39MjkdQlUi2LpRamqZTwm_wMrQuFlObLAFk-s93-MF3vo_nNge_fEPAG5lmrJoDHQyN988l017wd-_RuNydV6CFfI9CF1MnYT2D_UFq3-eY3VDNOVUmNSKCxEixoh2ZC5gySjsw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kD345H6AWszCSG8gzd684qsrMPAAk7S_jLC9JfNf5i8GOoK9E9ryPN2ln5VFFipK6DkV3o3wh7zHz3bHNOpzpO3bHqjkZoGEf2lZR0Tm4r0GmhrwpyQ9JGsyOOneTlE8pJ4X3vmEl__ywoixe5peG6HPvPVI6a2mNQVlBuBPw5GE8tOOF40EA1-CCCfAy6Oay8Cdz8KXOwSPpmNyCXAbnleaeHb6H8SQks67zVvbiSQCcEFvMF_fFEvf8VcXqUGqgjVmk8WaIAejVO9M3wM_dGvdayHX-yYS6XgNaPDWwmt-IceeCifv0LAasq8bOhmAGI_wb4ag8ITBVSFm6ANWew.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اتحادیه اروپا با همکاری سازمان ETSI یک استاندارد امنیتی جدید برای VPNها با نام EN 304 620 معرفی کرده که در چارچوب قانون Cyber Resilience Act قرار می‌گیره. بر اساس این استاندارد، VPNهایی که در بازار اروپا عرضه میشن باید حداقل استانداردهای مشخصی در زمینه رمزنگاری، احراز هویت، مدیریت کلیدها و مقابله با آسیب‌پذیری‌های امنیتی داشته باشن و این موارد هم قابل بررسی و ممیزی باشه.
 البته این مقررات به معنی ممنوعیت VPN یا محدود کردن دسترسی به اونها نیست؛ هدفشون اینه که VPNهای ناامن و بی‌کیفیت از بازار کنار گذاشته بشن و سطح امنیت سرویس‌های موجود بالاتر بره.
 شرکت‌هایی مثل NordVPN، Surfshark، Cisco، Google، Palo Alto Networks و Airbus هم در تدوین این الزامات مشارکت داشتن. از طرف دیگه، ارائه‌دهندگان VPN باید آسیب‌پذیری‌های جدی و فعال رو سریع‌تر گزارش و برطرف کنن.
@@ -1038,7 +1038,7 @@ techradar
 
 <div class="tg-post" id="msg-2562">
 <div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Lg9Xku31sGqhOvvIKPhMxg0a39U4GVfJaoj-Hwb7bBFPBmNxx-iGGVePS5Nu3C2kccs6oyecWO1K7I1GmWxS4aXhNNJYnpWDFa23EVmC_8GvK9gQOgI9dqsjrurZOAMXuMRTzeoyR5lzUA_KnqLC9U5g1XX_-BnXF4bHOHExZim80iQz-7NVOG7NEUACpH22--mzLrhJ264ypCKRK6YaQlZkzmn0UgKnD9S0cpdNuZnAzUjGFNoj3EVKKVBkcQrmnOi4GyL12yg78LdCTjGjLmszpgE70UAmsUW_TteAXq3RmC5e7Ku1RSloBR4ce67AKQGcx4O8Q7FuxE7dtzdcBQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/awYJ4z8bWOzn53UykF44WuUFsvfNsu_IlMJbLjxQPMp1p0tPy2YuX11mullvLj29YNTkvI3soYeNO8ISQe5bG62kLTwAuVzWxuqBPfHbD2dP0BPRZS9TgLqOS2TdTS91oYfW2n6YrTafzJhD86637LPuVjYEgd9Jxz8olOZnwmfVWA4XuL6vhwyLXpIdbY-FJWWYk-m-1hOdjqSv0qbeBKv46Jzz-NvqX86UT3txXo2xOnL6bKgHynIewKtaUEawM-BBpMfvHNjFqn7dz5FbIqURUPAOde2ni8L64DI7a-e1dP2hL1DUUwkX5qWY31t0pT_gRW9lC-IW1iIEAVJRLA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تیم پس‌کوچه با بررسی نسخه اندروید فیلترشکن Line VPN که تا الان بیش از یک میلیون بار از گوگل‌پلی دانلود شده، ۶ ایراد امنیتی مهم در بخش‌های مختلف اون پیدا کرده، که در سطح بالا ارزیابی میشن.
 مشکل اصلی و مشترک در تمام این موارد یک چیزه، که اپلیکیشن در چند نقطه حساس نمی‌تونه با اطمینان تشخیص بده آیا اطلاعاتی که دریافت می‌کنه واقعاً از سرور مورد اعتماد اومدن یا نه، و آیا هویتی که برای اتصال استفاده می‌کنه فقط در اختیار یک کاربر مجاز قرار داره یا خیر.
 پس‌کوچه این وی‌پی‌ان رو بیش از اینکه سپر باشه، به ریسک امنیتی تشبیه کرده.
@@ -1322,7 +1322,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 56.6K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2543">
