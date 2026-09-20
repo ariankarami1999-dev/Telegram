@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-29 09:03:26</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-29 13:49:48</div>
 <hr>
 
 <div class="tg-post" id="msg-985">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 631 · <a href="https://t.me/mohsentavoosiseo/985" target="_blank">📅 17:41 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 710 · <a href="https://t.me/mohsentavoosiseo/985" target="_blank">📅 17:41 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-984">
@@ -306,13 +306,13 @@
 <div class="tg-text">تب و تاب وایب کدینگ و ابزار نویسی در عصر هوش مصنوعی بدون برنامه تجاری
 دون پاشی چند ساله تلگرام بدون کوچکترین بی تعهدی و خلف وعده ای درباره بخش های رایگان(شعار رایگان و تا ابد رایگان).
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 648 · <a href="https://t.me/mohsentavoosiseo/984" target="_blank">📅 17:39 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 726 · <a href="https://t.me/mohsentavoosiseo/984" target="_blank">📅 17:39 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-983">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">1:06 "کانال های یوتیوب"</div>
-<div class="tg-footer">👁️ 737 · <a href="https://t.me/mohsentavoosiseo/983" target="_blank">📅 16:49 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 800 · <a href="https://t.me/mohsentavoosiseo/983" target="_blank">📅 16:49 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-982">
@@ -325,7 +325,7 @@
 <a href="https://cdn4.telesco.pe/file/39c43234ee.mp4?token=P9m8HAEENVdIFN-lC65-owaLx9S2ntpwUXMNHokdqi_5CDxoG-XS4n4cJNbPd0L_iWDG0YDIQaY1fh14LUHrUgfHC7vGH60iqwlnkO1u7j4l3buQA8ZhbZ3CZRMAOBYtCEQm4Un9FW2PH3c8gwXOWsQx3f2iTi2s50lAGHO7FXWJN882U2ySzlq-lkf_Q2cgLzPWCBqapH4XZNSVr3T8Mw9rQtrxK45BFZh_ClThCvAj9iE4JaocxaLFxBlYlkapFwNkQ_UZz1vV024hf09YBRgzrNXMLD88Pb-9X4TmQcUsbA4XO-7snvyhhNWAZQbhhHPLRSOFkKoyPF31N9DItw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 859 · <a href="https://t.me/mohsentavoosiseo/982" target="_blank">📅 15:33 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 910 · <a href="https://t.me/mohsentavoosiseo/982" target="_blank">📅 15:33 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-980">
@@ -336,20 +336,20 @@
 پول، تایید اجتماعی، تمسخر، بی کلاسی، نجات دیگران، خیریه، خدمت، رضای خدا.
 شاید مسیر باید کلا برعکس بشه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.16K · <a href="https://t.me/mohsentavoosiseo/980" target="_blank">📅 15:18 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.23K · <a href="https://t.me/mohsentavoosiseo/980" target="_blank">📅 15:18 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-979">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">چت جی پی تی رسما یه چپ دموکرات معتدل شدست که فاز شدید راضی نگه داشتن داره. گراک یه راستی جمهوری خواه ساختار شکن بی مرز. جمینای یه میانه ی رو به راست و پایه و خوش فکر و بی تعصب. کلاد هم یه ترکیب سمی ترکیبی با رویکرد "من همینم که هستم" با تعصب و موضع گیری های بیش از حد زیاد تو بعضی موارد هست.</div>
-<div class="tg-footer">👁️ 1K · <a href="https://t.me/mohsentavoosiseo/979" target="_blank">📅 13:50 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.03K · <a href="https://t.me/mohsentavoosiseo/979" target="_blank">📅 13:50 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-975">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/kKzuVpzhMEDLC71GmDKgLXGsgnAC6dy-iK2pk7EYlgK-zqB6PBouqvNo-kXbBrNELvSLUMs2z6j-T5SXVejACH2ZurQKsZDG_0HB-tHyV6rAsvjR89-hlSqskF8nCmH1Fmyu_sS7OcbmpSOKkFP_t0fW-zdFB5fMToaoQ8qnUfuSbzTByIvhgZHHY3FsJjn9uVs2K7k6r12E8y8V6VG3Ao-5R3_hNe2TnTqsPXeSoajdvi5ZmSf1MxIRXFMYPzhUQP-JJ0WSDM-hB0sTj2Iol0aIiOoad5X7VpVfQ3tVZMcnSthCro6T-6rf5vEbpC3iz0oR4Oa6uWfmLxCbg9Fh-Q.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/YkfjFvpaSy6SGCvWzqd__PGEZb5aZu4sLb-qrH_IVzhQfO3mgW93koUruY5O0NzUCIq2tXxIdtwJAPcnXMyCC3Y0tTdej0qhYyeG49t1qxuPLAHAoS01r8zF-mZMjEaQUZVJglePUr_cNzfzFK86RTpy1hHfOxV2jAW8_hY2M9OvtszYRe2w-PdDzuMHODeZc4i2c0lDv3W-MPX7r71SKA46DdIssk77JRHNqREdE0HYOoPiD9fW8E3AM70j1PuJctGk2TML3CIF375LYvXYkLM84v9asqlS6kB3KiTfo6zPx17hLDr_HyucpnBQEVvfNIcHkr2D5XzfHTdT0_-ezw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/fJXYsljWm7myj-9rhOmdb0u9DOz1JrLeePFwgKHFDrdUnLpA0g_5OoUVorlbuRLdDzR3Ashclr3S0Cat7EEQtzjf6imIxaFzB7Swko-5xw8sr4A02MKAUeh-FVVPw0x9q8Fv-H4TW9PXObOMKVUQ9elYWL9umBIZIwmI0DHwykhrAa6UTMJaYSldDYJ-1u41rUZBXQLbtuVDxZoL_hpyN7JsOBD29NETH-nss8cFO4mJBZJqd4EkewRoqdJLL367EwFW0t3s0e2_H_EVUQIsjNFqcU7dw_96nPdCgOVbvfsrr9i9gkC_Z7-U-UET-ew0tSMwZlklDaFHB-ZXfTjtfw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/GDL5OC2MggfjSJBife8zUP1jJ846VFzs-XKqq41fwKiwqH3U8Q1C58TDIskKL1dYDFyeA47YLffFJW9ZVAU6ztWiOGjOTiENz4KLEl4ZPgRrkJ3kvi8Dyb8S1kKVNeK2Yi91qx7iD2BRL1dcxdL7egpcEMEbhv7REz0uwJgBEzgxHlW03qp2jpR-ujphOTQovZE2heJo1Stci-4LuE84jkg7GryN_8XDSx5_979fVGiPgUttKbzBL6JbgJ8rgm_zARkiaTzNqxxVJAfKafz0C2yNAz-49NAjOY_d9EERoP6pZlq4HFMWXT-Yf98riYwwH8OXTUAz8HHYClZdH4J7lA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">هیچ وقت فکر نمیکردم با هوش مصنوعی(Claude) باید سر و کله بزنم که مسیری که من میخوام رو بره! کلاد از حد گذرونده دیگه و زیادی مخالفت میکنه. و حتی میگه ناراحتی گزارش بده آنتروپیک میبینه.
 و خودشونم میدونن که زیادی مقاومت داره کلاد تو پذیرش درخواست که گزینه Overactive refusal و Did  not fully follow my request رو گذاشته همون اوایل بازخورد!
@@ -359,7 +359,7 @@
 شت! پارسال همین موقع فکر نمیکردم یک سال آینده دغدغم نحوه استفاده و برخورد با یه هوش مصنوعی متعصب و یک دنده باشه! شت!
 سال دیگه خدا رحم کنه...
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.15K · <a href="https://t.me/mohsentavoosiseo/975" target="_blank">📅 13:23 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/mohsentavoosiseo/975" target="_blank">📅 13:23 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-974">
@@ -367,7 +367,7 @@
 <div class="tg-text">آموزش اتصال کلاد به وردپرس و هرچیز دیگه ای فقط تو یک دقیقه!   و این برای وردپرس نیست فقط. برای همه چیزه. کلا این قابلیت کلاد کروم خودش یه فصل جدید زندگیه
 😎
 این یک دقیقه انقدر کوچیکه که معنی نداره بگم تو اپدیت دوره هست. خیلی بیشتر و تمیز تر میشه از هوش مصنوعی…</div>
-<div class="tg-footer">👁️ 1.25K · <a href="https://t.me/mohsentavoosiseo/974" target="_blank">📅 23:20 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.26K · <a href="https://t.me/mohsentavoosiseo/974" target="_blank">📅 23:20 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-973">
@@ -385,7 +385,7 @@
 🟢
 اطلاعات بیشتر در info کانال(bio)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/mohsentavoosiseo/973" target="_blank">📅 21:52 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.74K · <a href="https://t.me/mohsentavoosiseo/973" target="_blank">📅 21:52 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-970">
@@ -394,7 +394,7 @@
 چرا اول کار فقط وردپرس؟
 البته استثناهایی هم وجود داره. اگر تصمیم گیرنده از هیجان زدگی تصمیم بر غیر وردپرس نگرفته و از محتوای این ویس هم آگاه هست و پذیرفته و حاضره هزینه نقدی و زمانی و ریسک با اختلاف بیشتری کنه، ممکنه اختصاصی هم مناسب باشه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.53K · <a href="https://t.me/mohsentavoosiseo/970" target="_blank">📅 19:46 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.55K · <a href="https://t.me/mohsentavoosiseo/970" target="_blank">📅 19:46 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-968">
@@ -411,13 +411,13 @@
 این ویدیو یکی از مهمترین مواردی هست که تفکر کل زندگی و کسب و کار من هست.
 https://youtu.be/2cW1RJKfOao?si=_YEhZViKApY3Nygm
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/mohsentavoosiseo/967" target="_blank">📅 14:24 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.18K · <a href="https://t.me/mohsentavoosiseo/967" target="_blank">📅 14:24 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-966">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">تو ویس پایین توضیح میدم این اشتباه فاحش هوش مصنوعی رو!  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.99K · <a href="https://t.me/mohsentavoosiseo/966" target="_blank">📅 17:11 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2K · <a href="https://t.me/mohsentavoosiseo/966" target="_blank">📅 17:11 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-965">
@@ -425,7 +425,7 @@ https://youtu.be/2cW1RJKfOao?si=_YEhZViKApY3Nygm
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bh_wtz8mA6-HMR6ao2eBcCIkUpQM-bLhd_1ruzMq2zlRQ8R4z9fbGJCvXTHlbU8hnJT9JNevDonQEjJs7Z7udqSAwPkulsFxlUfhsJZmXofg5jFnwN1E0XsuPOsEz2KBzobpji3cgnuylV-TO5qsT98Htk_n6Qb7xm7w03809_ik3sm9yjnVeSO7smQKnfD21b776oRgM04ZnWaTXQgCHNuHiDmrhBtP92azeZh5wR1BXrtWzw_4MIkm6WjQ8Zkg13luml7-YZf3XWmwhm1gAZVf8CP7iGNDUNu9Nr-9VgRg3Rl6xtUjW0bnityl7lzA2pJdrBNwGFNr2hWmM2As1A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تو ویس پایین توضیح میدم این اشتباه فاحش هوش مصنوعی رو!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2K · <a href="https://t.me/mohsentavoosiseo/965" target="_blank">📅 17:09 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.01K · <a href="https://t.me/mohsentavoosiseo/965" target="_blank">📅 17:09 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-964">
@@ -439,7 +439,7 @@ https://youtu.be/2cW1RJKfOao?si=_YEhZViKApY3Nygm
 https://www.linkedin.com/posts/mohsentavoosi_%DA%A9%D9%84%D8%A7%D8%AFopus-5-high-effort-%D8%AA%D8%B0%DA%A9%D8%B1-%D8%AF%D8%A7%D8%AF-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-activity-7499816238756421632-mHI7
 https://www.instagram.com/reel/DcqV0WHMZia/
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/mohsentavoosiseo/964" target="_blank">📅 15:09 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/mohsentavoosiseo/964" target="_blank">📅 15:09 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-963">
@@ -450,7 +450,7 @@ https://www.instagram.com/reel/DcqV0WHMZia/
 سپس میام یک پست میذارم و رایگان آموزشش میدم و میگم بچه ها! کلا دور خودمون میچرخیدیم! گوگل ادز و SEO/AEO و متاادز و گوگل بیزنس/مپ ادز(زیرمجموعه همون گوگل ادز) و تمام کانال های مارکتینگ بیخود و اشتباه بود. هممون اشتباه میکردیم. یه ابزار کافی بود ما رو سریع و ارزون و راحت به مشتری برسونه.
 بعد هم میزنم تو کار املاک و پاسپورت چند تا کشور رو از طریق خرید ملک میگیرم و بقیه زندگیمو به گردشگری، دوچرخه سواری در تابستان های سوئیس میگذرونم و یک صرافی بزرگ هم در مرکز امارات با شعب مختلف در سراسر جهان، تاسیس می کنم و میام میگم همون پستی که اون روز گذاشتم و exit کردم یادتونه؟ همه اینا رو از اون پست اینستاگرام و اون پلاگین یا ابزار بدست اوردم.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/mohsentavoosiseo/963" target="_blank">📅 12:35 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/mohsentavoosiseo/963" target="_blank">📅 12:35 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-962">
@@ -458,7 +458,7 @@ https://www.instagram.com/reel/DcqV0WHMZia/
 <div class="tg-text">به من گفت: "خب حقوقتو گرفتی"!
 تو ده سال جلو بیفت.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.01K · <a href="https://t.me/mohsentavoosiseo/962" target="_blank">📅 15:44 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/mohsentavoosiseo/962" target="_blank">📅 15:44 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-961">
@@ -466,7 +466,7 @@ https://www.instagram.com/reel/DcqV0WHMZia/
 <div class="tg-text">تله دلسوزی برای شرکت
 تو ویس گفتم "خلق کن"
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.03K · <a href="https://t.me/mohsentavoosiseo/961" target="_blank">📅 15:42 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.04K · <a href="https://t.me/mohsentavoosiseo/961" target="_blank">📅 15:42 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-960">
@@ -474,7 +474,7 @@ https://www.instagram.com/reel/DcqV0WHMZia/
 <div class="tg-text">تله دلسوزی برای شرکت
 اعتبار به صورت نقلی منتقل نمیشه
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/mohsentavoosiseo/960" target="_blank">📅 15:40 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/mohsentavoosiseo/960" target="_blank">📅 15:40 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-959">
@@ -495,28 +495,28 @@ Agent بالاسر Agent
 🟢
 اطلاعات بیشتر در info کانال(bio)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/mohsentavoosiseo/956" target="_blank">📅 11:57 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.35K · <a href="https://t.me/mohsentavoosiseo/956" target="_blank">📅 11:57 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-955">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">کلاد یا چت جی پی ای کدکس یا آنتی گرویتی گوگل؟
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/mohsentavoosiseo/955" target="_blank">📅 11:56 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.23K · <a href="https://t.me/mohsentavoosiseo/955" target="_blank">📅 11:56 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-954">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">توضیح ویس های بالا و بحث سیستم سازی در کلاد و یاد دادن به هوش مصنوعی
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/mohsentavoosiseo/954" target="_blank">📅 11:55 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/mohsentavoosiseo/954" target="_blank">📅 11:55 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-953">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromMohsen Tavoosi</strong></div>
 <div class="tg-text">ویس من به تیم بعد از اینکه فهمیدند کلاد هم اخیرا ویس رو گوش میده و میفهمه و متن روان میکنه.</div>
-<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/mohsentavoosiseo/953" target="_blank">📅 11:51 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/mohsentavoosiseo/953" target="_blank">📅 11:51 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-952">
@@ -592,7 +592,7 @@ Agent بالاسر Agent
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bDEIyuVUIraSxA2yrabrUm9Gj4_YjKqvNbDr8qyuyGxiqqeYCPNZzLdu5I9VRY96RPJkXTyCmrLhsjaRxUOXa-JsnFSIpHVCri6NKCJAEkyhBZUnDOmg-_3J4DJ5JDtm0qv9dRj2xvbs_R8M2WC54ZcTIevc0kPzUqnOYgY_zhNfrKV5pE7b28I69kQhZkrLqRUg3no4jOkaQg6eBp1DuwSDLey9Lj_iiFQp3VipQ476QcfeuchGi5BQYG3jCR_qQLRtpbO9JigaZRRTzx4vRkMa6RKx7xVSY02O7dp8BA1ZZbcwgrOtS9buVpHw41DMvG1kw2N5g-OkWMipxzThcg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/mohsentavoosiseo/939" target="_blank">📅 18:51 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/mohsentavoosiseo/939" target="_blank">📅 18:51 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-936">
@@ -614,13 +614,13 @@ Unlearning
 ❓️
 چجوری بفهمیم تو overlearning افتادیم؟
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/mohsentavoosiseo/936" target="_blank">📅 23:16 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.23K · <a href="https://t.me/mohsentavoosiseo/936" target="_blank">📅 23:16 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-933">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">واقعیتش ترسیدم! جدی جدی چت رو بست!   خطرناکه! بنظرم یکی باید جلوی هوش مصنوعی و آنتروپیک رو بگیره. چرا باید یه ماشین لحن صحبت براش مهم باشه و بهش بربخوره و حتی کار قهریه انجام بده و اون چت رو کلا غیر فعال کنه!   پس فردا میاد کل اکانت هم لابد بن میکنه! پس فردام…</div>
-<div class="tg-footer">👁️ 2.98K · <a href="https://t.me/mohsentavoosiseo/933" target="_blank">📅 14:58 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.99K · <a href="https://t.me/mohsentavoosiseo/933" target="_blank">📅 14:58 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-932">
@@ -637,7 +637,7 @@ Unlearning
 <div class="tg-post" id="msg-931">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/mohsentavoosiseo/931" target="_blank">📅 11:29 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/mohsentavoosiseo/931" target="_blank">📅 11:29 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-930">
@@ -648,13 +648,13 @@ Unlearning
 ویس بعدی
 هم گوش بدید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/mohsentavoosiseo/930" target="_blank">📅 11:20 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.3K · <a href="https://t.me/mohsentavoosiseo/930" target="_blank">📅 11:20 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-929">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.98K · <a href="https://t.me/mohsentavoosiseo/929" target="_blank">📅 13:55 · 06 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.99K · <a href="https://t.me/mohsentavoosiseo/929" target="_blank">📅 13:55 · 06 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-928">
@@ -677,7 +677,7 @@ Unlearning
 <div class="tg-text">آموزش پایین اوردن نرخ تبدیل
 😶
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.77K · <a href="https://t.me/mohsentavoosiseo/926" target="_blank">📅 16:53 · 05 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.78K · <a href="https://t.me/mohsentavoosiseo/926" target="_blank">📅 16:53 · 05 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-925">
@@ -838,7 +838,7 @@ March 2015!
 114 فاکتور رتبه بندی در گوگل
 https://www.linkedin.com/pulse/114-%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%B1%D8%AA%D8%A8%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D8%AF%D8%B1-%DA%AF%D9%88%DA%AF%D9%84-mohsen-tavoosi
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.01K · <a href="https://t.me/mohsentavoosiseo/916" target="_blank">📅 16:11 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.02K · <a href="https://t.me/mohsentavoosiseo/916" target="_blank">📅 16:11 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-914">
@@ -1280,7 +1280,7 @@ mohsentavoosi.com/1
 
 <div class="tg-post" id="msg-879">
 <div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/erfFsbpjl_qj2vadvJ-yPzZwZOWfVgM7oWpdMPQ25fbeLpBj1ve8pq-QzSTQxqxzNQry5t3O3UxWY9BlxRs8Ih2hr4xPGMcI_FwxT4g7wzUIvsbfO-GOLGI6V94xkkIDklieP_KiaNrEGnzNkmBxxb5x4wPx4-HwjgKjP8uS9nXmXphT-Cgq0i13uwSch6oPXWYsTk--o4D8Kvj_4nv3eR-agAVW0KwLoFXN-0y3_vOp3gjgqTVuBj-f36bjW0DsVULKvX6YEwFd0T7yniDDuh-sRRNtTRVP1Ct9JoP_rdFtb4WYoREvsrUdXPS9MW68P2hMNlO-1VzmBuuwJO_Iyw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EZYmkZt8fxwLWqg-sb8GembLKTU9gxqePgi__Txtrf5aB-sbRM-tNPvBwRh7lAHaKSpLhzItQNpDxzLo0nQw-r2vcUXtQXriyiUPiETh92tr2re5eVi9skTpbaq4yIvL8wsTCzMSCUxrdigiwrhQ0pqkQkmKZieSq8BXocJHiQPd2WmFnN7EH26RAvD-QGF1ldTWBV2XwxCSZDkgaMYqJu7ZYFHq6i8AadsyJAU1NPW8Xtt9Yn1ggsb6WcFsMPX-_kE1uFoWy5ExsE1HNcPm1JCKqDpDp170jZIjyUA1EI2Ok5wBn3iKoFn9PIchd76kV3yQMM1mKxEmInxZo_bMnw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❓️
 از کدوم هوش مصنوعی استفاده کنیم؟
 کلاد
@@ -1333,7 +1333,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-875">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MsdrVfM56DiEV7Sy3AAuKY2BSKBC7vmEhkn1bPhp3CLMo_JP8e08_F9Q88whHfBN_ubuBjDF-SsX2CCNzjFd_wF7MZr3d0g4MgD8aIYM2U9aWJ7jyvPFMq11VanmmnGswU-foNHk9izhYzQZB12e9R73STMwCM1AA2UAZBjZbLDX6iL6GSqeL5VQijQ18t1Z5rCxhnYL4BlYpVzCSC8KnAv2NeUauvpcrALwoxh-PRq5mFx5_-l9St4I5N5YPNdJrg6nTGb0wyHKNhYsDgsly5fclzsvIQVyXKJv34vLXyNWpzYdCPEG2etQfFiYPjUhHjbQYHhUXVQ9YVSvqZJ71A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/L5GjefrkSDuATAxTfpc2_bX1-Qc5g63Ajimendd7HjUql0oaSRnx7w_pm9P4VAVJ6-ZOkHxkOr-t_0A4xjAVqylFxTAnlKctr910XAQz1WIYBKB91OjpJlra_UHxHmeBmKmkRFNnUWeES-mR596q3dOTg573PguiUqjhmWKTBt-pkWRzikA0Hr3G6bAUQO1FFShFT7wNpPmdLK64AvsEXEuATSeB0ooyuvZnXqA9Qmz4raMgzA66DvwfA7Rz5sU7WiAEQ-FXYBxsi96JpgbBiMExPfaYib1daq04fC0YgMqNLKaOAyLiUVB5Bl-XtpL9xuWyeeSi5W3WLfrPHEcGVg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
 <div class="tg-footer">👁️ 6.15K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
@@ -1342,8 +1342,8 @@ Claude Cowork
 <div class="tg-post" id="msg-873">
 <div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/v--IyTO_7Cbmr1rXzt8NY74VEzK0EWL1Y9L4fJFg4ln8oWIO5mvaDcJw5FiUeye7vkzheiNNSU3HFG6l4vrtVd-WbuKbmcOUkHuaP5X0_mkOrTplFAaMkSF0yMGscePioiTyBX5miX0qdqN0x1lFmg_VPKGhUgOhFELCxfYuDYuN35LShZqkR4CD-GZuezz2-7t3GIg4f6pL9s77z70I5DdjI_aZo_aDUWauHiCQDT57PGCoE4udE5aTLbDdiT67ITTtEmrVW50Z4xvaZqrSIOpdegr_2pW_CsNK_KOBYBgh4mOfCXAdWj46KXg_GrSwVEY6C9hHvZ6AmVUURHvUvA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/nQKu8yZpJ6SrTP5SIa1Ek-9CcsT6Jh3P8vPi2zwVC-qn_deMSqQvigr2PhC9mhjOJ1V2Gdd5tzbVmZPP9E3tEJR0Scx02tnFZWWCYHJJIltYQj0F6lAuasc8Y1nkxjFnknTqW6QBvLRMoSTAEeE9fQRzy49CM3zfbQJmZuAAXL4ItDlZcCkgCLdi4G0ck7fXfRRlaDHKyTD6Of_CSvek413j5dc8d5yaRxaJPByr_BJPhQ2GP4UeZRkE6wmXeLWBWly8t8IobeFNJ9LB8fKweCnQQTNDKIq_3Xcrs0BG0vqnRdidsTs-P-ZFPwX-1KEcY24mamG5sUo0NXaH3Ddi1g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/kYZKFXOk8CSnZLzzxYq5LO_CcM04v-yhNi-pDpnJc6lPKvViA3thdHmMP4G8OOkLAivuYCl29IsbpqsLTUWe6_4LIz03I0nXoqnSRbpRndZRjY9t8jXCuQ2zxyqxpmj_7dcaDtQVvYRooCdJ88iz0KeGJX4OHExqIc1Brbz1iysdK4l2sTUy1-IsygXq-aOotYN5nHDg8T64jh45jsXKCNe2VEwRy1E6cDu-kO4TZ04-8CMedXFduajHo0XcPqPKHgMQVU1LsHg1lSWcXm8Mz9BqxZNbHtXD5Q_JtrcY2NjPYcogeCD_nVZoeI8ckHy-RvbtosQbdsx3jKK9kAXnKg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/oaDkliMfA7fS8abF8tvAwCOJBFN7chUhJV6uWOJQnWu-z870zBTjWDlHHrmWXKaSVzuBv0TtZubsS-BNbOnDXq6edMqvSMppgTxJNV-LFvjE5TRjqfpLsATB-NdPJqEizwBe5K_LTZEaad4hXCNi70ywdbC6qV-ensQ4SvorWkqFT7rTuWzjZxUjtlZUkQoIASJIt8uQlzk5Qjlx1W9R51Hh30CnGjtLZcGt6BO13vQ25jwRwcqQnqWC28myu8UzvvuTXOiGFMkR8KqinSll55jhgA63dVZvvpvJuOQ04PywOhw5IyR_BnaeZrUA0ZTCRU_roQicpHhZQD27FmhHGw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">تصویر چهارستونه(گرونتر) برای ابزار keyword tool هست و تصویر سه ستونه(ارزون تر) برای ابزار Mangools که ایرانی ها به KWFinder میشناسنش.
 شما خودتون رو بذارید جای سایتی که ابزار اشتراکی میفروشه.
@@ -1416,7 +1416,7 @@ Claude Cowork
 ✅️
 7 چیزی که باید چک کنید. تمام پاسخ های من به این موضوع
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/mohsentavoosiseo/868" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/mohsentavoosiseo/868" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-867">
@@ -1456,7 +1456,7 @@ Claude Cowork
 قطعا مرتبط و موثرند روی هم. قطعا اخلاق و انسانیت مهمه. کسب پول از راه سالم و بدون دروغ و فریب و دزدی و... مهمه. آسیب نزدن به کره زمین، طبیعت، آدم ها، همدیگه و حیوون ها مهمه و ضروریه. قطعا مهربونی با حیوانات نشانه ای از تمدن و انسانیت هست و بدرفتاری باهاشون نشانه عقب ماندگی و بربریت.
 ولی خیلی گوگولی و کودکانست اون دو جمله بولشیت اول این پست درباره تواضع و ادعا.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.98K · <a href="https://t.me/mohsentavoosiseo/866" target="_blank">📅 13:13 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.99K · <a href="https://t.me/mohsentavoosiseo/866" target="_blank">📅 13:13 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-864">
@@ -1497,7 +1497,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-859">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nsdWHYcAQiN4-OZoukcqA0q0K0nsKnLFkd_6zOQMcOh3iAxK7-O6HWAt8x5k6rLxcnzpAUwm4G4AcKpJxzOYIMALYpgxOW564U5axRWhhW61amtZTQS0tmQf2PQ-gfGJYm8eMyrszuApLct_sedmcuOaO02wvEo4sJMaOtj0_DK5y1c-mVwzvyg2R-zDfVR4G-VigzBBkvbgV_7d_9oeW9rF4edejs_jG57_Albmi7Y7Gavm0EAmR6-xXt-6QjBc_7VWc-tAeW_t0AyaOj-6EyAddcRXK-or3VvvWtGj-DnaA8-Ds5N0F4NFH2dKQI2_TQTLytdklW4iN1Y1yYUlQw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oiH7vjIlG3orH3KVCvE2VkzCgZ1e3gVGXkb1L9EQlCdD_KJ4vloE_2jr6J-ntZrw_wrOtMP3hheIxi-OQKY8YTHiLU6YNslQETDMIh7E1Y1ev9XziA-4zIdljRIcMrL-SqFv9OkpElckQFxAEHGwovj76Yp0LMwmiRPHtTxzGVK9EyByiTBk0EobMvHYT8FGb1-MKwDb1APMS0qyE14WsVSsWC2ghOgXMkT6yX5PMIksNy6py_I1_8aTnEYU1zVrF6F4jnpA_7setqdGw4oW0MXcVYOZ6nIAFyD-bI3-2xBPAPH-KlPNeSTRW3NDDw2j6wQR8Q3fixXpW_Kk9kFMlA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این عکس، نمودار حدود 8 ماه گذشته یکی از پروژه های انگلیسی هست. هیچ فیلتری جز زمان هم ست نشده.
 تاریخ 5 فوریه زمان شروع همکاری بوده.
 به نظرتون بد شده اوضاعش یا خوب شده؟
@@ -1632,10 +1632,10 @@ https://mohsentavoosi.com/video/keyword-gap-excel/
 <div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=CMjco8MsnYgTwBzwSgQrdif_325XYFgeTDSoEX8ShrXLU-SLp20qKPBaDizUzk6_HI7IrVOWIyFeqANViV-Ozz5_LExeXzla_98srF1HsnjpKg5YgKyFQGLSyX5sLVfTC0ZnSN24NUuTXDsxGC8o0IZ6vP1lPhfzjD_q7ss_pW8r_Nny4HrbZdLcxYwOkThRNElk8VBxX2yJHL0KBLntJQWT0MUduv1ltWIXw_1rfhMDXmHsDRgzgR1kXYiFQfG_xDs5web7x6k2O7OxEeh4zhuB--azh-G-cIGJA7cyS5hthsdGTBbK3pCQOFcc4wmT2eMNsUyxdZqkobnwttvDHjzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=D9z_gqE15wpyhVJk_JwrBb49hdzodmj5U2BfyLycf--OwAz3rkZk4RwmMCk-kAFQV18E3cyFJ7Hd8upbaaqGJPfESG_rw_ULZNpcBicHabLiQWhT0NXs0a3A4R-kEreHVHPLZDpb_lHAXmScitkatJI_TokZIbcsTCW-WtR_gqPTE4XOp7C6WQjeNMAVC_RGgtfKf-Agj4ykzwP9up42ooyb9NlBMpmwQxu3m7q7aIBP2enuTqHjwwQbf0CNfzOEAfkaY_6AHTeBryOqsxFOrBV0lk_TucALaHzciHuDWPDUe0nxC6Q6Q2GpdQEP3wh4_x-SOhxXEnCQ0AgnzVDrpzzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=CMjco8MsnYgTwBzwSgQrdif_325XYFgeTDSoEX8ShrXLU-SLp20qKPBaDizUzk6_HI7IrVOWIyFeqANViV-Ozz5_LExeXzla_98srF1HsnjpKg5YgKyFQGLSyX5sLVfTC0ZnSN24NUuTXDsxGC8o0IZ6vP1lPhfzjD_q7ss_pW8r_Nny4HrbZdLcxYwOkThRNElk8VBxX2yJHL0KBLntJQWT0MUduv1ltWIXw_1rfhMDXmHsDRgzgR1kXYiFQfG_xDs5web7x6k2O7OxEeh4zhuB--azh-G-cIGJA7cyS5hthsdGTBbK3pCQOFcc4wmT2eMNsUyxdZqkobnwttvDHjzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=D9z_gqE15wpyhVJk_JwrBb49hdzodmj5U2BfyLycf--OwAz3rkZk4RwmMCk-kAFQV18E3cyFJ7Hd8upbaaqGJPfESG_rw_ULZNpcBicHabLiQWhT0NXs0a3A4R-kEreHVHPLZDpb_lHAXmScitkatJI_TokZIbcsTCW-WtR_gqPTE4XOp7C6WQjeNMAVC_RGgtfKf-Agj4ykzwP9up42ooyb9NlBMpmwQxu3m7q7aIBP2enuTqHjwwQbf0CNfzOEAfkaY_6AHTeBryOqsxFOrBV0lk_TucALaHzciHuDWPDUe0nxC6Q6Q2GpdQEP3wh4_x-SOhxXEnCQ0AgnzVDrpzzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🤩
 تو جشنواره تریبون، رتبه‌ات رو برگردون
@@ -1692,7 +1692,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 <div class="tg-post" id="msg-844">
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">دوستانی که اکانت کلاد خریدند و تجربه موفق دارند و بن نشده لطفا تو دایرکت همین کانال اعلام کنید.   با توجه به نظر سنجی بالا من نمیبینم توی خودم که ماهانه به ۱۰۰۰ نفر بفروشم. نهایت میشه ۱۰۰ نفر با کلی دردسر. میشه حداکثر ماهی ۲۰۰ دلار با کلی مکافات.   پس من ورود…</div>
-<div class="tg-footer">👁️ 3.55K · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.56K · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
 </div>
 
 <hr>
