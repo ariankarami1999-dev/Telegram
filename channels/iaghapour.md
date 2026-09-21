@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/jEAdu-Rb1FXWqkl1PDij0OluaPlFuPST3VSbuOEMRB48dc7L4Qp8oxDL4S1E8LBB1h4yffiGom3k3RBZRJO2GW85RpB8Z3NkiSKVw822dCOhwSU3npOK0YgUBpwFxzExr-HoYn3BDuJieGoTTWh96NZ1RoaPVmfhTcLGzOKT5jZJenqoxQtXGrKCF_iEKRKERVp2wP_cFfa0UWbFjfiL7_WQA3UPmybMq6B6_bbTXgtktNic_uZUkN4D2DzeP-qxKLcKC-kPMRhfDqZtw27ozl5dmrBZqurGKmzD4A0kFDrTPtqg9wl_DVA3lyHTkMR5Wp74_Jr2ryR2jGp3syZ4AA.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/vonXj5Wlf2woTFtRWWPSCeQGB5Xwb-C2qrAHcZxBDrCnPUTPvtddUdgI75wVUdlrh8Kku3walDapTWgQEvQI0zopIkEqzkSciygf_FUAvQEZcKJ4cKBYh4xbg79XqW5Fa6RAhqhQokaKH5Keg-Q9qImlIitUPofB69S2I-UgIF7UinDSY0YoDV4ZRXKmNPPOw3TSmEnz-H-QVtR066XyPUSrNLYiwDx_2dEzNEgsXo33c9fwh6E1obWg4mQ4gAH8jiDHqsIrBjpErV_5Vx2LBmPRloPFuuTe2b_T3UHJlUM9ocx2ReV-sTW2dCNQuSSpRO58ywOPXm0jKtXnCNoJYQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
 <p>@iaghapour • 👥 51.6K عضو</p>
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-30 04:10:52</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-30 09:11:44</div>
 <hr>
 
 <div class="tg-post" id="msg-3037">
@@ -321,7 +321,7 @@ SimbaServer.ir
 💬
 مشاوره و خرید:
 @SimbaServerAdmin</div>
-<div class="tg-footer">👁️ 2.83K · <a href="https://t.me/iaghapour/3037" target="_blank">📅 22:57 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.53K · <a href="https://t.me/iaghapour/3037" target="_blank">📅 22:57 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3036">
@@ -357,7 +357,7 @@ SimbaServer.ir
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/iaghapour/3036" target="_blank">📅 17:32 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.73K · <a href="https://t.me/iaghapour/3036" target="_blank">📅 17:32 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3035">
@@ -388,7 +388,7 @@ FFmpeg، pngquant و jpegoptim
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.43K · <a href="https://t.me/iaghapour/3035" target="_blank">📅 16:56 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.71K · <a href="https://t.me/iaghapour/3035" target="_blank">📅 16:56 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3034">
@@ -423,7 +423,7 @@ YouTube</div>
 ✨
 .
 @shaberoshanIR</div>
-<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/iaghapour/3034" target="_blank">📅 16:01 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/iaghapour/3034" target="_blank">📅 16:01 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3033">
@@ -479,7 +479,7 @@ YouTube</div>
 @TixoCloud
 🌐
 TixoCloud.com</div>
-<div class="tg-footer">👁️ 7.11K · <a href="https://t.me/iaghapour/3033" target="_blank">📅 21:01 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.21K · <a href="https://t.me/iaghapour/3033" target="_blank">📅 21:01 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3032">
@@ -505,7 +505,7 @@ TixoCloud.com</div>
 باگ دسترسی اینترنتی در محیط‌های تست برطرف شده و به شرکت‌های هدف اطلاع داده شده است.
 🧠
 @NovinAIplus</div>
-<div class="tg-footer">👁️ 7.11K · <a href="https://t.me/iaghapour/3032" target="_blank">📅 20:35 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.21K · <a href="https://t.me/iaghapour/3032" target="_blank">📅 20:35 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3031">
@@ -528,7 +528,7 @@ TixoCloud.com</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.68K · <a href="https://t.me/iaghapour/3031" target="_blank">📅 18:44 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.78K · <a href="https://t.me/iaghapour/3031" target="_blank">📅 18:44 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3030">
@@ -545,7 +545,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.16K · <a href="https://t.me/iaghapour/3030" target="_blank">📅 16:01 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.24K · <a href="https://t.me/iaghapour/3030" target="_blank">📅 16:01 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3028">
@@ -554,7 +554,7 @@ YouTube</div>
 بچه‌ها چطوره تو ویدیوی بعدی به جای اکانت ۱ ماهه هوش مصنوعی، اکانت ۱۸ ماهه جایزه بدیم؟ نظرتون چیه؟
 🔹
 راستی، موضوع ویدیوی قبلی چطور بود؟ سعی کردیم یه خورده از شبکه فاصله بگیریم :) اگه دوست داشتید بگید از این سبک ویدیوها بیشتر بسازیم براتون.</div>
-<div class="tg-footer">👁️ 8.76K · <a href="https://t.me/iaghapour/3028" target="_blank">📅 20:42 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.81K · <a href="https://t.me/iaghapour/3028" target="_blank">📅 20:42 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3027">
@@ -582,7 +582,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.13K · <a href="https://t.me/iaghapour/3027" target="_blank">📅 17:58 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.17K · <a href="https://t.me/iaghapour/3027" target="_blank">📅 17:58 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3026">
@@ -606,7 +606,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.99K · <a href="https://t.me/iaghapour/3026" target="_blank">📅 16:04 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.03K · <a href="https://t.me/iaghapour/3026" target="_blank">📅 16:04 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3024">
@@ -634,7 +634,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.14K · <a href="https://t.me/iaghapour/3024" target="_blank">📅 17:01 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/iaghapour/3024" target="_blank">📅 17:01 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3023">
@@ -662,7 +662,7 @@ Resident Evil Requiem
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.98K · <a href="https://t.me/iaghapour/3023" target="_blank">📅 16:01 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/iaghapour/3023" target="_blank">📅 16:01 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3021">
@@ -671,7 +671,7 @@ YouTube</div>
 گفتم یکم تنوع بدیم و بریم سراغ ویدیو‌های متفاوت‌تر؛ از اونایی که اتفاقاً خودتونم خیلی پیگیرش بودید و درخواست داده بودید.
 فردا یه نمونه‌شو براتون می‌ذارم، ببینید چطوره.
 😉</div>
-<div class="tg-footer">👁️ 9.5K · <a href="https://t.me/iaghapour/3021" target="_blank">📅 20:30 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.54K · <a href="https://t.me/iaghapour/3021" target="_blank">📅 20:30 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3020">
@@ -914,7 +914,7 @@ idontScanner
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/iaghapour/3011" target="_blank">📅 19:27 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/3011" target="_blank">📅 19:27 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3010">
@@ -993,7 +993,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/iaghapour/3007" target="_blank">📅 18:01 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/3007" target="_blank">📅 18:01 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3006">
@@ -1332,7 +1332,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/iaghapour/2988" target="_blank">📅 20:40 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/iaghapour/2988" target="_blank">📅 20:40 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2987">
@@ -1870,7 +1870,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2962">
 <div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uZl_iAgn9hpLdOGkUrImEvezMqcDYJ95iUGEdvVi-FfEmIg4TYAfPIVnFixZzTAo_TMC36ZhD_GTt9JeeUFOvDWxHJ3mOUAL8FmPfUZ4jtArIiodFTawA74SHCBMeKYlAn1bzdWcRDeHLZwKZI9O3AXy6BVvFSXyarlFa3w4ZLNX-eUS9VIYN4nRL4RPLPIUECjsV9_6LjtEO5J4LbsmhQjkmA53KcngXbsDIRM2Gxw9ofCwyX856k6Mmuq96NXoLs67P09u1pE8ZyZ_d92pj3ceqFXAW45cx0MmqPNIvAc5rzgwJWmFXYmqAk9Aq6ihEK9vgg0DFiJui5tNIIZHbw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BU6if7Gn62kLLQgi0GJzXWwI0dri3xfgzxweLplHozYT8rhUOqTe0q3ZB12SqUQvw6UcUqM620LLhKdF_I67eCJg3JfBgQwNGir90xPfUPmUTlt7e2RaMOtfbpTuf57xVfDgsvKFPLrnEUi2SdCkBLhYhxRyglyjoc-NfPpYOfaDCONDnGOMkO_H0wPR9vJ-TCAnAT5NC8HYGm1_EsgmxwdBiz4IapXALVCdWnRo4nVXUUthjFahoGy4zTLoAkrB-yoJFfUPWJ8bkkenn8xgKYP9PD0xkPmvEAqvygjDjdTuixU6xWSnh2GwFHPmtYYDJY2XsVNogE11U2xu1OV3kA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🏛
 مخالفت زاکربرگ با طرح نظارت بر هوش مصنوعی در گفتگوی محرمانه با ترامپ
 به گزارش نشریه
@@ -1891,7 +1891,7 @@ Politico
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/iaghapour/2962" target="_blank">📅 10:15 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/iaghapour/2962" target="_blank">📅 10:15 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2960">
