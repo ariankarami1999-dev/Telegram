@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-31 00:41:31</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-31 03:41:54</div>
 <hr>
 
 <div class="tg-post" id="msg-3041">
@@ -315,7 +315,7 @@ CPU • RAM • Disk
 ۵ روز تست رایگان
 👉🏻
 @WatchDogs_robot</div>
-<div class="tg-footer">👁️ 3.38K · <a href="https://t.me/iaghapour/3041" target="_blank">📅 21:02 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.82K · <a href="https://t.me/iaghapour/3041" target="_blank">📅 21:02 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3040">
@@ -345,7 +345,7 @@ TryCloudflare
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/iaghapour/3040" target="_blank">📅 20:39 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/iaghapour/3040" target="_blank">📅 20:39 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3039">
@@ -400,7 +400,7 @@ OK
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/iaghapour/3039" target="_blank">📅 19:59 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/iaghapour/3039" target="_blank">📅 19:59 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3038">
@@ -416,7 +416,7 @@ YouTube</div>
 هنوز مشخص نیست این محدودیت موقت و مرتبط با سیستم‌های امنیتی است یا آغاز یک محدودیت جغرافیایی دائمی.
 🧠
 @NovinAIplus</div>
-<div class="tg-footer">👁️ 6.01K · <a href="https://t.me/iaghapour/3038" target="_blank">📅 14:02 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.2K · <a href="https://t.me/iaghapour/3038" target="_blank">📅 14:02 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3037">
@@ -445,7 +445,7 @@ SimbaServer.ir
 💬
 مشاوره و خرید:
 @SimbaServerAdmin</div>
-<div class="tg-footer">👁️ 7.07K · <a href="https://t.me/iaghapour/3037" target="_blank">📅 22:57 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.17K · <a href="https://t.me/iaghapour/3037" target="_blank">📅 22:57 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3036">
@@ -481,7 +481,7 @@ SimbaServer.ir
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.8K · <a href="https://t.me/iaghapour/3036" target="_blank">📅 17:32 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.88K · <a href="https://t.me/iaghapour/3036" target="_blank">📅 17:32 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3035">
@@ -512,7 +512,7 @@ FFmpeg، pngquant و jpegoptim
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.36K · <a href="https://t.me/iaghapour/3035" target="_blank">📅 16:56 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.43K · <a href="https://t.me/iaghapour/3035" target="_blank">📅 16:56 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3034">
@@ -547,7 +547,7 @@ YouTube</div>
 ✨
 .
 @shaberoshanIR</div>
-<div class="tg-footer">👁️ 6.88K · <a href="https://t.me/iaghapour/3034" target="_blank">📅 16:01 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.94K · <a href="https://t.me/iaghapour/3034" target="_blank">📅 16:01 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3032">
@@ -573,7 +573,7 @@ YouTube</div>
 باگ دسترسی اینترنتی در محیط‌های تست برطرف شده و به شرکت‌های هدف اطلاع داده شده است.
 🧠
 @NovinAIplus</div>
-<div class="tg-footer">👁️ 7.94K · <a href="https://t.me/iaghapour/3032" target="_blank">📅 20:35 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.97K · <a href="https://t.me/iaghapour/3032" target="_blank">📅 20:35 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3031">
@@ -596,7 +596,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.49K · <a href="https://t.me/iaghapour/3031" target="_blank">📅 18:44 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/iaghapour/3031" target="_blank">📅 18:44 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3030">
@@ -613,7 +613,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.78K · <a href="https://t.me/iaghapour/3030" target="_blank">📅 16:01 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/iaghapour/3030" target="_blank">📅 16:01 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3028">
@@ -622,7 +622,7 @@ YouTube</div>
 بچه‌ها چطوره تو ویدیوی بعدی به جای اکانت ۱ ماهه هوش مصنوعی، اکانت ۱۸ ماهه جایزه بدیم؟ نظرتون چیه؟
 🔹
 راستی، موضوع ویدیوی قبلی چطور بود؟ سعی کردیم یه خورده از شبکه فاصله بگیریم :) اگه دوست داشتید بگید از این سبک ویدیوها بیشتر بسازیم براتون.</div>
-<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/iaghapour/3028" target="_blank">📅 20:42 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/iaghapour/3028" target="_blank">📅 20:42 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3027">
@@ -650,7 +650,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.88K · <a href="https://t.me/iaghapour/3027" target="_blank">📅 17:58 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.92K · <a href="https://t.me/iaghapour/3027" target="_blank">📅 17:58 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3026">
@@ -674,7 +674,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/iaghapour/3026" target="_blank">📅 16:04 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.96K · <a href="https://t.me/iaghapour/3026" target="_blank">📅 16:04 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3024">
@@ -702,7 +702,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/3024" target="_blank">📅 17:01 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/3024" target="_blank">📅 17:01 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3023">
@@ -730,7 +730,7 @@ Resident Evil Requiem
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/3023" target="_blank">📅 16:01 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/3023" target="_blank">📅 16:01 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3021">
@@ -739,7 +739,7 @@ YouTube</div>
 گفتم یکم تنوع بدیم و بریم سراغ ویدیو‌های متفاوت‌تر؛ از اونایی که اتفاقاً خودتونم خیلی پیگیرش بودید و درخواست داده بودید.
 فردا یه نمونه‌شو براتون می‌ذارم، ببینید چطوره.
 😉</div>
-<div class="tg-footer">👁️ 9.97K · <a href="https://t.me/iaghapour/3021" target="_blank">📅 20:30 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/iaghapour/3021" target="_blank">📅 20:30 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3020">
@@ -765,7 +765,7 @@ Screenbox
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/iaghapour/3020" target="_blank">📅 20:01 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/iaghapour/3020" target="_blank">📅 20:01 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3019">
@@ -1070,7 +1070,7 @@ YouTube</div>
 😎
 یه تحریم‌شکن که گیمرها بتونن با پینگ خوب و بدون دردسر تحریم بازی‌ها رو دور بزنن! درسته؟ :)
 منتظر ویدیو باشید!</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/iaghapour/3006" target="_blank">📅 16:02 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/iaghapour/3006" target="_blank">📅 16:02 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3004">
@@ -1886,7 +1886,7 @@ WireGuard، OpenVPN، SoftEther، SSH Tunnel و PPTP
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/iaghapour/2964" target="_blank">📅 20:45 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/2964" target="_blank">📅 20:45 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2963">
@@ -2167,7 +2167,7 @@ Show account suggestions on profiles
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/iaghapour/2954" target="_blank">📅 17:28 · 11 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/iaghapour/2954" target="_blank">📅 17:28 · 11 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2952">
@@ -2418,7 +2418,7 @@ Arena AI
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/iaghapour/2941" target="_blank">📅 16:09 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/iaghapour/2941" target="_blank">📅 16:09 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2938">

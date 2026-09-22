@@ -292,7 +292,7 @@
 <a href="https://t.me/akhbarefori" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽تبلیغ درکانال خبرفوری@ads_foriارتباط مستقیم با ادمین تبلیغ@newsadminجهت رزرو تبلیغ تماس بگیرید. 09018373801؛ارتباط با ما@Ertebat_baforiiتبلیغ در ۳۰۰کانال تلگرام@Maino_marketer</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-31 00:41:31</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-31 03:41:54</div>
 <hr>
 
 <div class="tg-post" id="msg-691840">
@@ -319,7 +319,7 @@
 خرید از سایت
 👇
 https://memarket24.ir/product/brief/63579/180124/</div>
-<div class="tg-footer">👁️ 3.37K · <a href="https://t.me/akhbarefori/691840" target="_blank">📅 00:31 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/akhbarefori/691840" target="_blank">📅 00:31 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691839">
@@ -332,7 +332,7 @@ https://memarket24.ir/product/brief/63579/180124/</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/akhbarefori/691839" target="_blank">📅 00:16 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/akhbarefori/691839" target="_blank">📅 00:16 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691838">
@@ -347,7 +347,7 @@ https://memarket24.ir/product/brief/63579/180124/</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 9.73K · <a href="https://t.me/akhbarefori/691838" target="_blank">📅 00:14 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/akhbarefori/691838" target="_blank">📅 00:14 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691836">
@@ -360,7 +360,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/akhbarefori/691836" target="_blank">📅 00:07 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/akhbarefori/691836" target="_blank">📅 00:07 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691835">
@@ -376,7 +376,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/akhbarefori/691835" target="_blank">📅 00:04 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/akhbarefori/691835" target="_blank">📅 00:04 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691834">
@@ -388,7 +388,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/akhbarefori/691834" target="_blank">📅 00:03 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/akhbarefori/691834" target="_blank">📅 00:03 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691833">
@@ -400,7 +400,7 @@ Link</div>
 🔹
 با قرائت دعای فرج به این جمع میلیونی بپیوندیم
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/akhbarefori/691833" target="_blank">📅 00:01 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.28K · <a href="https://t.me/akhbarefori/691833" target="_blank">📅 00:01 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691832">
@@ -415,7 +415,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/akhbarefori/691832" target="_blank">📅 23:59 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/akhbarefori/691832" target="_blank">📅 23:59 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691831">
@@ -427,7 +427,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/akhbarefori/691831" target="_blank">📅 23:58 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/akhbarefori/691831" target="_blank">📅 23:58 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691830">
@@ -446,7 +446,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/akhbarefori/691830" target="_blank">📅 23:53 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/akhbarefori/691830" target="_blank">📅 23:53 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691829">
@@ -456,7 +456,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/akhbarefori/691829" target="_blank">📅 23:52 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/akhbarefori/691829" target="_blank">📅 23:52 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691828">
@@ -479,7 +479,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/akhbarefori/691828" target="_blank">📅 23:50 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/akhbarefori/691828" target="_blank">📅 23:50 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691827">
@@ -492,7 +492,7 @@ Link</div>
 گزارش خبرفوری را اینجا بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3246934</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/akhbarefori/691827" target="_blank">📅 23:46 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/akhbarefori/691827" target="_blank">📅 23:46 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691826">
@@ -505,7 +505,7 @@ khabarfoori.com/fa/tiny/news-3246934</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/akhbarefori/691826" target="_blank">📅 23:38 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/akhbarefori/691826" target="_blank">📅 23:38 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691825">
@@ -520,7 +520,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/akhbarefori/691825" target="_blank">📅 23:38 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/akhbarefori/691825" target="_blank">📅 23:38 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691824">
@@ -534,7 +534,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/akhbarefori/691824" target="_blank">📅 23:37 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/akhbarefori/691824" target="_blank">📅 23:37 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691823">
@@ -566,7 +566,7 @@ khabarfoori.com/fa/tiny/news-3246931
 صفحه ویژه اخبار پربازدید خبرفوری را از دست ندهید
 🔹
 khabarfoori.com/hottest-news</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/akhbarefori/691823" target="_blank">📅 23:27 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/akhbarefori/691823" target="_blank">📅 23:27 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691822">
@@ -588,7 +588,7 @@ khabarfoori.com/hottest-news</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/akhbarefori/691822" target="_blank">📅 23:26 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/akhbarefori/691822" target="_blank">📅 23:26 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691821">
@@ -601,7 +601,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/akhbarefori/691821" target="_blank">📅 23:26 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/akhbarefori/691821" target="_blank">📅 23:26 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691820">
@@ -621,7 +621,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/akhbarefori/691820" target="_blank">📅 23:16 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/akhbarefori/691820" target="_blank">📅 23:16 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691817">
@@ -642,7 +642,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/akhbarefori/691817" target="_blank">📅 23:16 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/akhbarefori/691817" target="_blank">📅 23:16 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691816">
@@ -661,7 +661,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/akhbarefori/691816" target="_blank">📅 23:15 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/akhbarefori/691816" target="_blank">📅 23:15 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691815">
@@ -675,7 +675,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/akhbarefori/691815" target="_blank">📅 23:14 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/akhbarefori/691815" target="_blank">📅 23:14 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691811">
@@ -690,7 +690,7 @@ Link</div>
 هشتصدوشصت‌وششمین شماره جلد یک خبرفوری
 #تیتر_یک
 @rozname_fori</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/akhbarefori/691811" target="_blank">📅 23:08 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/akhbarefori/691811" target="_blank">📅 23:08 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691810">
@@ -706,7 +706,7 @@ Link</div>
 چاه بیست متری حفر شده در خانه خانوادگی دو برادری که اعضای خانواده خود را به قتل رسانده و جسد آنها را دو سال در آن دفن کرده بودند   #اخبار_تهران در فضای مجازی
 👇
 @akhbartehran</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/akhbarefori/691810" target="_blank">📅 23:06 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/akhbarefori/691810" target="_blank">📅 23:06 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691809">
@@ -723,7 +723,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/akhbarefori/691809" target="_blank">📅 23:01 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/akhbarefori/691809" target="_blank">📅 23:01 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691808">
@@ -761,7 +761,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/akhbarefori/691808" target="_blank">📅 23:01 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/akhbarefori/691808" target="_blank">📅 23:01 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691805">
@@ -783,7 +783,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/akhbarefori/691805" target="_blank">📅 22:56 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/akhbarefori/691805" target="_blank">📅 22:56 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691804">
@@ -796,7 +796,7 @@ Link</div>
 گزارش تحلیلی خبرفوری را اینجا بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3246936</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/akhbarefori/691804" target="_blank">📅 22:51 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/akhbarefori/691804" target="_blank">📅 22:51 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691803">
@@ -808,7 +808,7 @@ khabarfoori.com/fa/tiny/news-3246936</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/akhbarefori/691803" target="_blank">📅 22:50 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/akhbarefori/691803" target="_blank">📅 22:50 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691802">
@@ -819,7 +819,7 @@ Link</div>
 در فضای مجازی
 👇
 @akhbarmazandaran</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/akhbarefori/691802" target="_blank">📅 22:47 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/akhbarefori/691802" target="_blank">📅 22:47 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691801">
@@ -833,7 +833,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/akhbarefori/691801" target="_blank">📅 22:43 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/akhbarefori/691801" target="_blank">📅 22:43 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691800">
@@ -855,7 +855,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/akhbarefori/691800" target="_blank">📅 22:42 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/akhbarefori/691800" target="_blank">📅 22:42 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691799">
@@ -870,7 +870,7 @@ Link</div>
 📊
 آمارفکت | مرجع تخصصی آمار در ایران
 @amarfact</div>
-<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/akhbarefori/691799" target="_blank">📅 22:41 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/akhbarefori/691799" target="_blank">📅 22:41 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691798">
@@ -884,7 +884,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/akhbarefori/691798" target="_blank">📅 22:36 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33.6K · <a href="https://t.me/akhbarefori/691798" target="_blank">📅 22:36 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691797">
@@ -896,7 +896,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/akhbarefori/691797" target="_blank">📅 22:33 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/akhbarefori/691797" target="_blank">📅 22:33 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691793">
@@ -912,7 +912,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/akhbarefori/691793" target="_blank">📅 22:12 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 38.3K · <a href="https://t.me/akhbarefori/691793" target="_blank">📅 22:12 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691792">
@@ -922,7 +922,7 @@ Link</div>
 🔹
 همزمان با فرارسیدن میلاد باسعادت حضرت امام حسن عسکری(ع)، اجتماع بزرگ «امام زمانی‌ها» شامگاه یکشنبه ۲۹ شهریور ماه ۱۴۰۵ با حضور اقشار مختلف مردم، خانواده‌ها، عاشقان و منتظران حضرت ولی‌عصر(عج) در میدان راه‌آهن شهردارى منطقه ١١ برگزار شد.
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/akhbarefori/691792" target="_blank">📅 22:07 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 36.5K · <a href="https://t.me/akhbarefori/691792" target="_blank">📅 22:07 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691791">
@@ -940,7 +940,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/akhbarefori/691791" target="_blank">📅 22:03 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/akhbarefori/691791" target="_blank">📅 22:03 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691790">
@@ -954,7 +954,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/akhbarefori/691790" target="_blank">📅 22:00 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/akhbarefori/691790" target="_blank">📅 22:00 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691788">
@@ -970,7 +970,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/akhbarefori/691788" target="_blank">📅 21:54 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 37.9K · <a href="https://t.me/akhbarefori/691788" target="_blank">📅 21:54 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691787">
@@ -980,7 +980,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori…</div>
-<div class="tg-footer">👁️ 33.3K · <a href="https://t.me/akhbarefori/691787" target="_blank">📅 21:42 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/akhbarefori/691787" target="_blank">📅 21:42 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691785">
@@ -1000,7 +1000,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/akhbarefori/691785" target="_blank">📅 21:24 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/akhbarefori/691785" target="_blank">📅 21:24 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691784">
@@ -1011,7 +1011,7 @@ Link</div>
 شماره‌های ۴ و ۵ رقمی مخابرات، برای ارتباط آسان‌تر کسب‌وکار شما.
 اطلاعات بیشتر:
 www.tci.ir</div>
-<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/akhbarefori/691784" target="_blank">📅 21:22 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/akhbarefori/691784" target="_blank">📅 21:22 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691783">
@@ -1045,7 +1045,7 @@ https://memarket24.ir/product/brief/30291/180124/
 ✨
 تخفیف آخر ماه؛ فرصت آخر برای خرید با قیمت بهتر!
 https://l.memarket.me/lp/65/180124</div>
-<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/akhbarefori/691783" target="_blank">📅 21:22 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/akhbarefori/691783" target="_blank">📅 21:22 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691782">
@@ -1056,7 +1056,7 @@ https://l.memarket.me/lp/65/180124</div>
 تصاویری که دیشب در آسمان تهران دیده شد و برخی آن را سفینه فضایی تصور کردند، مربوط به بادبادک‌های چراغ‌دار بوده است.  #اخبار_تهران در فضای مجازی
 👇
 @akhbartehran</div>
-<div class="tg-footer">👁️ 36K · <a href="https://t.me/akhbarefori/691782" target="_blank">📅 21:14 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/akhbarefori/691782" target="_blank">📅 21:14 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691781">
@@ -1075,7 +1075,7 @@ https://l.memarket.me/lp/65/180124</div>
 استاد
 #شجاعی
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/akhbarefori/691781" target="_blank">📅 21:05 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/akhbarefori/691781" target="_blank">📅 21:05 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691780">
@@ -1096,7 +1096,7 @@ https://l.memarket.me/lp/65/180124</div>
 در فضای مجازی
 👇
 @akhbare_hormozgan</div>
-<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/akhbarefori/691780" target="_blank">📅 20:56 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/akhbarefori/691780" target="_blank">📅 20:56 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691779">
@@ -1121,7 +1121,7 @@ https://youtu.be/yRIXrUwC5Xc
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 38.6K · <a href="https://t.me/akhbarefori/691779" target="_blank">📅 20:49 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/akhbarefori/691779" target="_blank">📅 20:49 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691778">
@@ -1140,7 +1140,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/akhbarefori/691778" target="_blank">📅 20:48 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 44.7K · <a href="https://t.me/akhbarefori/691778" target="_blank">📅 20:48 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691777">
@@ -1152,7 +1152,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 38.6K · <a href="https://t.me/akhbarefori/691777" target="_blank">📅 20:37 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/akhbarefori/691777" target="_blank">📅 20:37 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691774">
@@ -1171,7 +1171,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/akhbarefori/691774" target="_blank">📅 20:13 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 47.4K · <a href="https://t.me/akhbarefori/691774" target="_blank">📅 20:13 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691773">
@@ -1182,7 +1182,7 @@ Link</div>
 #اینفو_تیتر
 |بازدهی یکساله شرکت های فولادی، از ۱۶۹ تا بیش از ۵۷۰ درصد!
 @Titretejarat</div>
-<div class="tg-footer">👁️ 39.6K · <a href="https://t.me/akhbarefori/691773" target="_blank">📅 20:12 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/akhbarefori/691773" target="_blank">📅 20:12 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691772">
@@ -1222,7 +1222,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/akhbarefori/691772" target="_blank">📅 20:08 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/akhbarefori/691772" target="_blank">📅 20:08 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691771">
@@ -1237,7 +1237,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/akhbarefori/691771" target="_blank">📅 20:06 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/akhbarefori/691771" target="_blank">📅 20:06 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691770">
@@ -1256,7 +1256,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/akhbarefori/691770" target="_blank">📅 20:06 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/akhbarefori/691770" target="_blank">📅 20:06 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691769">
@@ -1266,7 +1266,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/akhbarefori/691769" target="_blank">📅 20:05 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 40.2K · <a href="https://t.me/akhbarefori/691769" target="_blank">📅 20:05 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691768">
@@ -1320,7 +1320,7 @@ www.zamyad.ir
 t.me/zamyadir
 📲
 instagram.com/zamyad.ir</div>
-<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/akhbarefori/691768" target="_blank">📅 20:00 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/akhbarefori/691768" target="_blank">📅 20:00 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691767">
@@ -1333,7 +1333,7 @@ instagram.com/zamyad.ir</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/akhbarefori/691767" target="_blank">📅 19:59 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/akhbarefori/691767" target="_blank">📅 19:59 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691766">
@@ -1354,7 +1354,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/akhbarefori/691766" target="_blank">📅 19:55 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/akhbarefori/691766" target="_blank">📅 19:55 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691765">
@@ -1374,7 +1374,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/akhbarefori/691765" target="_blank">📅 19:49 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/akhbarefori/691765" target="_blank">📅 19:49 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691764">
@@ -1390,7 +1390,7 @@ Link</div>
 <li>✓ از پلتفرم‌ها استفاده می‌کنم</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/akhbarefori/691764" target="_blank">📅 19:45 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/akhbarefori/691764" target="_blank">📅 19:45 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691763">
@@ -1412,7 +1412,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/akhbarefori/691763" target="_blank">📅 19:45 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/akhbarefori/691763" target="_blank">📅 19:45 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691762">
@@ -1438,7 +1438,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/akhbarefori/691762" target="_blank">📅 19:38 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 42K · <a href="https://t.me/akhbarefori/691762" target="_blank">📅 19:38 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691761">
@@ -1453,7 +1453,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 37.1K · <a href="https://t.me/akhbarefori/691761" target="_blank">📅 19:35 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/akhbarefori/691761" target="_blank">📅 19:35 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691760">
@@ -1465,7 +1465,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/akhbarefori/691760" target="_blank">📅 19:29 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/akhbarefori/691760" target="_blank">📅 19:29 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691759">
@@ -1485,7 +1485,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/akhbarefori/691759" target="_blank">📅 19:20 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 43.6K · <a href="https://t.me/akhbarefori/691759" target="_blank">📅 19:20 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691758">
@@ -1498,7 +1498,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/akhbarefori/691758" target="_blank">📅 19:07 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 43.2K · <a href="https://t.me/akhbarefori/691758" target="_blank">📅 19:07 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691757">
@@ -1508,7 +1508,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 36.4K · <a href="https://t.me/akhbarefori/691757" target="_blank">📅 19:03 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/akhbarefori/691757" target="_blank">📅 19:03 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691756">
@@ -1528,7 +1528,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/akhbarefori/691756" target="_blank">📅 18:58 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 42.6K · <a href="https://t.me/akhbarefori/691756" target="_blank">📅 18:58 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691754">
@@ -1551,7 +1551,7 @@ Link</div>
 #صدای_شهر
 @Ertebat_baforii
 @Alo_fori</div>
-<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/akhbarefori/691754" target="_blank">📅 18:54 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 42.6K · <a href="https://t.me/akhbarefori/691754" target="_blank">📅 18:54 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691753">
@@ -1573,7 +1573,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/akhbarefori/691753" target="_blank">📅 18:50 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/akhbarefori/691753" target="_blank">📅 18:50 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691752">
@@ -1592,7 +1592,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36.2K · <a href="https://t.me/akhbarefori/691752" target="_blank">📅 18:45 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/akhbarefori/691752" target="_blank">📅 18:45 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691751">
@@ -1610,7 +1610,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/akhbarefori/691751" target="_blank">📅 18:40 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/akhbarefori/691751" target="_blank">📅 18:40 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691750">
@@ -1622,7 +1622,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 38.2K · <a href="https://t.me/akhbarefori/691750" target="_blank">📅 18:36 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 43.6K · <a href="https://t.me/akhbarefori/691750" target="_blank">📅 18:36 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691749">
@@ -1632,7 +1632,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/akhbarefori/691749" target="_blank">📅 18:34 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/akhbarefori/691749" target="_blank">📅 18:34 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691748">
@@ -1648,7 +1648,7 @@ Link</div>
 بررسی‌ها همچنین نشان می‌دهد وال‌گلد به‌تازگی همکاری خود را با بانک کارآفرین آغاز کرده است؛ همکاری‌ای که در کنار صفر شدن کارمزد خرید، این پلتفرم را به گزینه‌ای قابل توجه برای افرادی تبدیل می‌کند که به دنبال سرمایه گذاری در یک پلتفرم امن هستند.
 خرید بدون کارمزد طلا و نقره!
 خرید بدون کارمزد طلا و نقره!</div>
-<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/akhbarefori/691748" target="_blank">📅 18:32 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/akhbarefori/691748" target="_blank">📅 18:32 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691746">
@@ -1658,7 +1658,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 39.6K · <a href="https://t.me/akhbarefori/691746" target="_blank">📅 18:24 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/akhbarefori/691746" target="_blank">📅 18:24 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691745">
@@ -1669,7 +1669,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 40.6K · <a href="https://t.me/akhbarefori/691745" target="_blank">📅 18:21 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/akhbarefori/691745" target="_blank">📅 18:21 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691744">
@@ -1679,7 +1679,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 42.6K · <a href="https://t.me/akhbarefori/691744" target="_blank">📅 18:08 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/akhbarefori/691744" target="_blank">📅 18:08 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691743">
@@ -1691,7 +1691,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 45K · <a href="https://t.me/akhbarefori/691743" target="_blank">📅 18:00 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 50.2K · <a href="https://t.me/akhbarefori/691743" target="_blank">📅 18:00 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691741">
@@ -1712,7 +1712,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/akhbarefori/691741" target="_blank">📅 17:48 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 48.4K · <a href="https://t.me/akhbarefori/691741" target="_blank">📅 17:48 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691740">
@@ -1723,7 +1723,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 43.2K · <a href="https://t.me/akhbarefori/691740" target="_blank">📅 17:38 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 48.4K · <a href="https://t.me/akhbarefori/691740" target="_blank">📅 17:38 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691739">
@@ -1734,7 +1734,7 @@ Link</div>
 بنابر اعلام منابع آگاه، یکی از نیروهای جان‌برکف فراجا در حین ماموریت بر اثر حمله تروریستی در ایرانشهر به شهادت رسید.  #اخبار_سیستان_و_بلوچستان در فضای مجازی
 👇
 @Akhbar_sob</div>
-<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/akhbarefori/691739" target="_blank">📅 17:26 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/akhbarefori/691739" target="_blank">📅 17:26 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691737">
@@ -1744,7 +1744,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 44.6K · <a href="https://t.me/akhbarefori/691737" target="_blank">📅 17:25 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 49.2K · <a href="https://t.me/akhbarefori/691737" target="_blank">📅 17:25 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691736">
@@ -1757,7 +1757,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/akhbarefori/691736" target="_blank">📅 17:20 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 50.3K · <a href="https://t.me/akhbarefori/691736" target="_blank">📅 17:20 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691735">
@@ -1767,7 +1767,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 44.4K · <a href="https://t.me/akhbarefori/691735" target="_blank">📅 17:16 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/akhbarefori/691735" target="_blank">📅 17:16 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691734">
@@ -1783,7 +1783,7 @@ Link</div>
 <li>✓ از پلتفرم‌ها استفاده می‌کنم</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/akhbarefori/691734" target="_blank">📅 17:14 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 45.2K · <a href="https://t.me/akhbarefori/691734" target="_blank">📅 17:14 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691733">
@@ -1796,7 +1796,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 42.8K · <a href="https://t.me/akhbarefori/691733" target="_blank">📅 17:09 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/akhbarefori/691733" target="_blank">📅 17:09 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691732">
@@ -1813,7 +1813,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/akhbarefori/691732" target="_blank">📅 17:07 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 48.5K · <a href="https://t.me/akhbarefori/691732" target="_blank">📅 17:07 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691731">
@@ -1826,7 +1826,7 @@ Link</div>
 در فضای مجازی
 👇
 @Akhbar_sob</div>
-<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/akhbarefori/691731" target="_blank">📅 17:03 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 48.1K · <a href="https://t.me/akhbarefori/691731" target="_blank">📅 17:03 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691730">
@@ -1845,17 +1845,17 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 42.7K · <a href="https://t.me/akhbarefori/691730" target="_blank">📅 17:01 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/akhbarefori/691730" target="_blank">📅 17:01 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691729">
 <div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/c109d1fe1f.mp4?token=e7FX9jsLt0MjyqaAmWdUOajXsAneJWXKUoiHgzCo6gyLAPqfcmtfj4KxDp2y0QE7cbRkNa8BpGOID4LLk9IppHxyLGtZfo1jK8Ui5KJKyCm9xIfi_YGgKnzaY2u039qWUfQFCjXxFwjfFbI-jrz8kSxyJnJ6TqOAOxq1RTHYvEZSDNetKZomCaZjDuXRCVpmjVumkr9cAcRWZd3MjfnakwtdQs3PYdry_nHVX-34nh1wqCfViWM5nxv_QJAELSLjCVjBg9VFKVeHTwkcusTubUK8AeY7x8dWtQUPGspXFd93cpdDt8xUZmHpf2fVFky92kGE3dz96BcUFVkEgnrHMA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/c109d1fe1f.mp4?token=FiYGdsadqWm6tIGvKVkZtJ7IwZAw2ecTgugH1WtONc8SJxq5WQFyTxr55PQkLoTxMboiIfO0dDr7AYDIh_eT_zA6Of1ZVtV0uPVw3kNL-6M7xJmnh2M_6QJGKLOvxuy2rrqwQPWEp4nKNU50l0z2TgD2hKHt1xKvKkABgsisBbsufNw7VS93YRMzT8W2n9m7POVICJKONUs6tnR85mZ4zkQ7JOYSMRdhwiQcAFXRbw5-x6a7GZaZHn9AHFfHveVA5ChrFSbRy-Jgdn4xOMMlmC_DC2RY2ccA21iGb3Yfp4eOrcC6aXHB_X4NJYAvS5evBgIJJu49gOTQA0_tjKE6cQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/c109d1fe1f.mp4?token=e7FX9jsLt0MjyqaAmWdUOajXsAneJWXKUoiHgzCo6gyLAPqfcmtfj4KxDp2y0QE7cbRkNa8BpGOID4LLk9IppHxyLGtZfo1jK8Ui5KJKyCm9xIfi_YGgKnzaY2u039qWUfQFCjXxFwjfFbI-jrz8kSxyJnJ6TqOAOxq1RTHYvEZSDNetKZomCaZjDuXRCVpmjVumkr9cAcRWZd3MjfnakwtdQs3PYdry_nHVX-34nh1wqCfViWM5nxv_QJAELSLjCVjBg9VFKVeHTwkcusTubUK8AeY7x8dWtQUPGspXFd93cpdDt8xUZmHpf2fVFky92kGE3dz96BcUFVkEgnrHMA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/c109d1fe1f.mp4?token=FiYGdsadqWm6tIGvKVkZtJ7IwZAw2ecTgugH1WtONc8SJxq5WQFyTxr55PQkLoTxMboiIfO0dDr7AYDIh_eT_zA6Of1ZVtV0uPVw3kNL-6M7xJmnh2M_6QJGKLOvxuy2rrqwQPWEp4nKNU50l0z2TgD2hKHt1xKvKkABgsisBbsufNw7VS93YRMzT8W2n9m7POVICJKONUs6tnR85mZ4zkQ7JOYSMRdhwiQcAFXRbw5-x6a7GZaZHn9AHFfHveVA5ChrFSbRy-Jgdn4xOMMlmC_DC2RY2ccA21iGb3Yfp4eOrcC6aXHB_X4NJYAvS5evBgIJJu49gOTQA0_tjKE6cQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">♦️
 ترامپ دستور انتشار اسناد موجودات فضایی را صادر کرد
@@ -1863,7 +1863,7 @@ Link</div>
 در پی اظهارات جنجالی اخیر باراک اوباما درباره وجود موجودات فضایی، دونالد ترامپ به نهادهای فدرال دستور داده روند شناسایی و انتشار اسناد دولتی مرتبط با یوفوها و حیات فرازمینی را آغاز کنند.
 🔹
 ترامپ در این…</div>
-<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/akhbarefori/691729" target="_blank">📅 16:51 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/akhbarefori/691729" target="_blank">📅 16:51 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691728">
@@ -1875,7 +1875,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/akhbarefori/691728" target="_blank">📅 16:47 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/akhbarefori/691728" target="_blank">📅 16:47 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691723">
@@ -1895,7 +1895,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/akhbarefori/691723" target="_blank">📅 16:37 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 46.3K · <a href="https://t.me/akhbarefori/691723" target="_blank">📅 16:37 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691722">
@@ -1905,7 +1905,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/akhbarefori/691722" target="_blank">📅 16:34 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 46.8K · <a href="https://t.me/akhbarefori/691722" target="_blank">📅 16:34 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691721">
@@ -1915,7 +1915,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/akhbarefori/691721" target="_blank">📅 16:33 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 47.8K · <a href="https://t.me/akhbarefori/691721" target="_blank">📅 16:33 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691714">
@@ -1936,7 +1936,7 @@ Link</div>
 🔹
 از بورس و سهام تا طلا، دلار و دیگر بازارهای سرمایه‌ای؛ کارشناسان، روند بازارها را بررسی کرده‌ و از چشم‌انداز روزهای پیش‌رو می‌گویند.
 @Tv_Fori</div>
-<div class="tg-footer">👁️ 44K · <a href="https://t.me/akhbarefori/691714" target="_blank">📅 16:25 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 48.8K · <a href="https://t.me/akhbarefori/691714" target="_blank">📅 16:25 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691713">
@@ -1954,7 +1954,7 @@ Link</div>
 لحظاتی قبل یک پهپاد MQ-1 دیگر ارتش تروریستی آمریکا توسط آتش پدافند پیشرفتۀ هوافضای سپاه در آسمان تنگۀ هرمز رهگیری و منهدم شد.
 🔹
 این مدل از پهپاد آمریکایی، چندسالی است از نیروی دریایی و هوایی ارتش…</div>
-<div class="tg-footer">👁️ 42K · <a href="https://t.me/akhbarefori/691713" target="_blank">📅 16:18 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 46.7K · <a href="https://t.me/akhbarefori/691713" target="_blank">📅 16:18 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-691712">
@@ -1966,7 +1966,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 43.6K · <a href="https://t.me/akhbarefori/691712" target="_blank">📅 16:15 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 48.8K · <a href="https://t.me/akhbarefori/691712" target="_blank">📅 16:15 · 30 Shahrivar 1405</a></div>
 </div>
 
 <hr>
