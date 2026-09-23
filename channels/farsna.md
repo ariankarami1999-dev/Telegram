@@ -292,20 +292,105 @@
 <a href="https://t.me/farsna" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 حقیقت روشن می‌شود‌‌تبلیغات@Farsnews_adsارتباط@FarsNewsفارس‌پلاس@Fars_Plus‌ورزش@SportFarsجهان@FarsNewsIntعکس@FarsImagesپیام‌رسان‌ها@Farsnaاینستاگرامinstagram.com/farsnews.agencyتوییترtwitter.com/FarsNews_Agency</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-01 01:50:47</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-01 04:16:56</div>
 <hr>
 
-<div class="tg-post" id="msg-463778">
+<div class="tg-post" id="msg-463786">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pMDhE4jYPr3VfH1ENBo3EKdnLMwTaOLax4XT6x0SYAGb61NiDfkUJbgWQeYwA03RylM3JFzEZRBbowI-xs_ZVJtp-wHooWESLr4HwZ0q8-BqkyzNS7CoiHwspvPdlHcWgudwVymzacGdKUIwlCRNRYTgY765V6zjOCz09AkOGAXRZnQIRINGNpUeNvMPvNw4Odsu8P3wUztq1gWjxm5ul0u7_90jwlphVX6Qz3ZpnpWqq6i5wwYcIPuJ6JNbeVJIEjyBvQOkZMablUKtYSXzcq3e0c5pOvcfPrwKuTPTRYaO-yWfz5j6siCrQB5F_z37_f2uODcfG5Y0uzwr6JKkFA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">آیت‌الله سید مجتبی خامنه‌ای، شبیه‌ترین فرد به آقای شهید هستند
+🔹
+حجت‌الاسلام محمدجواد قاسمی، از شاگردان رهبر معظم انقلاب: ما آقای شهید را جز یک‌بار از نزدیک ندیده بودیم و شناختی از ویژگی‌های اخلاقی و شخصیتی جزئی‌شان نداشتیم.
+🔹
+اما در همان حدی که ایشان و استادمان…</div>
+<div class="tg-footer">👁️ 1.08K · <a href="https://t.me/farsna/463786" target="_blank">📅 03:55 · 01 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-463785">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-footer">👁️ 1.16K · <a href="https://t.me/farsna/463785" target="_blank">📅 03:50 · 01 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-463784">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EfCizr_OP8jeKfFvc6dVJ3E_bRgIqO1kSuL8iYKDhT_AtNaERECo_XxAJArKRez35oGTqNar2XS1UTVEIAuX0njdLk77zMIywkDY7i98mTv15oHddg8_hWdt_wdQolmIyGIvKyjA0a1AD0_JzedP6ZgarhfbmoyXw_mYKvvjUli82ru4BnFj7MeFpkdn-5V6QxhdqumVI5Ks737850zSAXHcbdHx7iJDRqhusqduqTzifTByyOHvG4PbdkOpxJA9mvdmNVapY33T6HZRZjMtONVhssCmgt2ybxFbn2ZYu8sNTMPf1DAaNT9BGso5awY7koM163zvN8lucNUVSkb2gQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">تداوم حملات اسرائیل به لبنان و غزه
+🔹
+همزمان با انتقادها و اعتراض‌های سران کشورهای مختلف به تجاوزات مکرر رژیم صهیونیستی به لبنان و نوار غزه در مجمع عمومی سازمان ملل، رسانه‌های عربی از تکرار حملات تجاوزکارانه و ددمنشانه صهیونیست‌ها به مناطقی در جنوب لبنان و جنوب نوار غزه خبر دادند.
+🔹
+براساس گزارش‌ها، توپخانۀ اسرائیل شهرک المنصوری در جنوب لبنان را هدف قرار داد. نظامیان صهیونیست همچنین ساختمان‌هایی را در شهر الخیام منفجر کردند.
+🔹
+از سوی دیگر تانک‌های رژیم صهیونیستی در حال شلیک به مناطق مسکونی در شرق شهر خان یونس واقع در جنوب نوار غزه هستند.
+🔹
+همزمان گفته می‌شود که نظامیان اشغالگر به شهرک‌های «سلوا» و «عقابا» در کرانۀ باختری یورش برده و منازل فلسطینیان را تخریب می‌کنند.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/farsna/463784" target="_blank">📅 03:22 · 01 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-463782">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/fAqgEum8sH4ro2oQ_XH19Wr9UH61trUzqnONH-fcAQ-yUBoay2bZ0UoX0qwkuB8zKzuATyK1IjFm0tO4RsxBJubKQOtfc1vcuLYOaIiELBIbEEbRM6JgrbYF2otwimnXSrsPpXv2mmSOaGwNe0VRYrgRUkIExPqC3oyMAg-hQ38vfBaOQ_3WgJaVQRgjeUJYRPokR421FMofUZymxf56NOarqwhNOewRkezV1jRr6NErom6jbD26Gs2nBtb8se6o6szs0Je0KKvAYbcX-_xOAFoOPc3fk-T0kqDiBSp3p0HVt0JJ-1Mcpdlxk_JRh3LAhSXDQ_f9-t5jCfHpHJ0nxg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/PFR11JpcI_bAd0YJ2kEXA2JZyqA32f5CZ7X1EOx4PN5jYSNYWeDhQw8vFsjeP21TK-tCaz4UZ3dxdsnteWyLfdbR2hQsMqKYaeAB_eAtIwAqAlIUSYxVnfzetUYr32mIdhvBjunwiPex9wpfOaUBGZJv7cX6GENog-aGrIpsv70Fb3atreAfk6E7ScLLc3V7cTm_-ihTO3nJJ9iR_S2RoB4rYCmyhYb0Jg-C79GkVFGZa_9nPgftIXc60U5UFRxaoYFGp1pigXeiPR7z8DBecj_YmhU6LsCtXLomAD1UVCWVv0JyeCxUpkiXbGqIHIyxj-5rwfw4fhjLKbn9dkXrvg.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">عراقچی خطاب به وزیر خارجۀ ایتالیا: میزبانی از پایگاه‌های آمریکا به معنی همدستی در تجاوز است
+🔹
+اقدام برخی کشورهای اروپایی ازجمله ایتالیا در میزبانی پایگاه‌های نظامی آمریکایی و هرگونه همکاری در تدارک اقدامات تجاوزکارانه علیه ایران به معنی همدستی در تجاوز است.…</div>
+<div class="tg-footer">👁️ 2.58K · <a href="https://t.me/farsna/463782" target="_blank">📅 03:08 · 01 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-463781">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/h1EguhIBVhDe3cr-plLaYTYlFEI4HRFFpbhokGQo3HJ_C5CsZVj6D3BIPf_MAaet5cyUnKRvGEs1NT76vepre068WFrIlgh4dAmywBye7FPWVbLR4bBXpn2QIbfGaE_u4Llq2W2gLHlbg5BSejj2bNBkopOYTJSmDMqdLOeDgiHMZMIGrBS-eQU4bhRed8DP-El-Yh-eHQ-GW48nbYCpocyWjCaXremW-BRBa4-7EqZ6sD9LadXrncvjhv7Vgr0OQfyEhLBmu_h2zjcVhwdcDFq-9yPtcOEmZLRdMvhY2vEOiro__YNxgVN6qH2B927E9K1PfYlGfinR4ca0B0wwUQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">حضور پرتعداد رسانه‌های ضدایرانی در نیویورک برای حاشیه‌سازی علیه هیأت ایرانی
+🔹
+در حالی که آمریکا از صدور ویزا برای اعضای تیم رسانه‌ای همراه مسعود پزشکیان، خودداری کرده است، ۶ خبرنگار ایران اینترنشنال و ۴ خبرنگار بی‌بی‌سی در نیویورک، محل برگزاری نشست مجمع عمومی سازمان ملل حضور دارند.
+🔸
+البته حضور خبرنگاران این دو رسانه در نیویورک همزمان با سفر رؤسای جمهور ایران، موضوع تازه‌ای نیست و در سال‌های گذشته نیز تیم‌هایی از این رسانه‌ها به محل برگزاری مراسم اعزام شده‌اند و به جای تمرکز بر برنامه‌های رسمی، به دنبال حاشیه‌سازی برای هیات ایرانی بوده‌اند.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/farsna/463781" target="_blank">📅 02:42 · 01 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-463780">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-text">حملات موشکی عربستان به شمال یمن
+🔹
+منابع یمنی گزارش دادند عربستان مناطق «مران وحیدان» و «الظاهر» در غرب استان صعده را هدف قرار داد.  @Farsna</div>
+<div class="tg-footer">👁️ 6.32K · <a href="https://t.me/farsna/463780" target="_blank">📅 02:10 · 01 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-463779">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/51ac6906c6.mp4?token=sNAfqmWneFMGFpLzYtKkEyHmc35tmXYPaE3xpurOdYaeOQeEWACUiAKPCmzhsC8LUTbM7SjQKYajIHAPpr1XBvCSkw-aYXTUjUq8HMISJZSnW7qljDQnPuJ8FEDkHNzMFvShsX0dbRGMeNxrKbYJ3e6LeIHSkjIE3Z5Y8f3_L7eB8PH25kzGHZgH7P84fKQd_4g947sfP_bjHEMyUJU89XpgD_PLZgLsi05C1UameUSqEhbICGFuTDzwb0RpSi-sonExIEzkVuJMhXXZQlthO09x9gS-U9Evk8EQr-SZDZZE9FBcHQ8oaMpoPNP4ksKZDXSOLkTjUeShCa35zFP0Ow" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/51ac6906c6.mp4?token=sNAfqmWneFMGFpLzYtKkEyHmc35tmXYPaE3xpurOdYaeOQeEWACUiAKPCmzhsC8LUTbM7SjQKYajIHAPpr1XBvCSkw-aYXTUjUq8HMISJZSnW7qljDQnPuJ8FEDkHNzMFvShsX0dbRGMeNxrKbYJ3e6LeIHSkjIE3Z5Y8f3_L7eB8PH25kzGHZgH7P84fKQd_4g947sfP_bjHEMyUJU89XpgD_PLZgLsi05C1UameUSqEhbICGFuTDzwb0RpSi-sonExIEzkVuJMhXXZQlthO09x9gS-U9Evk8EQr-SZDZZE9FBcHQ8oaMpoPNP4ksKZDXSOLkTjUeShCa35zFP0Ow" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">ماجرای توقف هواپیمای پزشکیان در الجزایر
+🔹
+دیروز هواپیمای رئیس‌جمهور در مسیر نیویورک، جایی میان تهران و مقصد نهایی، در فرودگاه الجزیره نشست و وزیر کشور الجزایر از پزشکیان استقبال کرد.
+🔹
+برخی رسانه‌ها شایعه کردند که این توقف به‌دلیل نقص فنی در هواپیمای رئیس‌جمهور…</div>
+<div class="tg-footer">👁️ 6.83K · <a href="https://t.me/farsna/463779" target="_blank">📅 02:03 · 01 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-463778">
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GIS2lkSESOnutze9CxJTV8d5lx1jlmBFAH-h_oroJdTeE2rGb0TzuW1_gOPUfuevtubwU3t1j7CAorcZI2h8pvhioISE2kzOGvj-GV-yWcF7EwSFMGd92i_KEI_oQtRMq0He6DfNrKuAsVNXZQj1d7Twp6A7jId-jleTe3ySOpDfFwxDSI-ECiVMiaaw1ebRm2ranPmvCXo7jcFsFtC74fTXxOGMsvDfHSFFyvn6pxXYS8oRMPGv4udR6X2hiJvmvX8oVJU43Tmw8b_jzB1ks5h9EuQmcvX_5PGr5CVu7vss2ObWx4PLnbZ10PJSKHhgY_xbj5jF7oJRjFlhg7II0Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ولیمۀ لاکچری رهبر انقلاب به صرف استانبولی‌پلو و سالاد شیرازی!
 🔹
 حجت‌الاسلام محمدجواد قاسمی، از شاگردان آیت‌الله سید مجتبی خامنه‌ای: وقتی حضرت آقا تازه از حج تمتع برگشته بودند، همراه گروهی از هم‌درس‌هایمان در جلسات حاج آقا و همکاران مدارس فقهی، برای زیارت…</div>
-<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/farsna/463778" target="_blank">📅 01:45 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.68K · <a href="https://t.me/farsna/463778" target="_blank">📅 01:45 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463771">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/b4kn9lKX8QG__f6mvkEOWfXKARTgFQGSrKccf4WMZCywFLoMscOqiJnp_SqHiEDioHeCppU6oSVEX2ty730JL31sk4mZ7VWG3pcd6KyTStgj4Efol19nGO3_ezG8uhWTR1fg_m9i1goHoxsk_XzKjdBp8XIIGH08HjR61kBBYDoshRkHkpahHXqLQJIL0mXjE71SLlzRlaX3Ml_miK6di-Xqyi8FW01gmHWF6dzP2WhwzEB5JsvyALJ4v1f_lH7BBTbWXB-xmELu7AoeSRXYv1AwNwdhDsDkbch0A3A7GyKvxjlF5Onn0KhlAMWV3qVb1QALEMARj2hxXpQZ8BfarQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/EbMOlRGRId2p6OTbUIOat2cuirmN-amX4BiwVkk_lHSif72_b3mu0PaIUB6jQEq-hKX0Cmf_RJC4GLb2W3IgJq6UJfTWXkeJx9p-QYErMVxt5lkQTNSAQiV2H6L4lVJXW-stZxBWVbIcxW5Y4aHeVJoxndJj5bBndh9wWM8KqpyWpCqerbwAuyMSib8mWzjVl1WhaZDyYqW6xhjLdn9RBUCUv4k8fcNq6JbNgGC3a0z6UOkmh8ZoDHaapCRtef2es34L8ujzpMmRDAx1JPyCrt7pv5yoWwVfjJ6yjJIsKmDAPkIoF79pRZrhRXMSfehBvbrXnCca7ZMeV_5AUz3oLw.jpg" alt="photo" loading="lazy"/></div>
@@ -320,22 +405,22 @@
 عکس:
 زینب حمزه‌لویی
 @Farsna</div>
-<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/farsna/463771" target="_blank">📅 01:20 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.13K · <a href="https://t.me/farsna/463771" target="_blank">📅 01:20 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463770">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LkgIYSEPLE0a83iFlmqvjop_zWs3eFXZrxCXqsuH9j7oHQDi5UX0IV6hiMfr6pgjDJi8fyA0ynjmwmbNqDvzKKydkSGhBXyCHxDYsnCDOaXEb_jxGhRnPE1ss6DKS9AzDiaIbFmae20F7kirX1gKoIq--R-Q7cfawFTJ8GuOGzqwDt4Y58OqqD-IODZXkWcAaBXaFJ_LKWqYYTHIA2tHpEQUQt7satEPbM4ibGNNQ2GXS--vCCRdNSYoI9E9Wj36rXQ2n3FNNVVVgfUDyVpU8C1R4FNBSioax91dfIcwT-V14cekShodW_hSNFTHyDcYylFZ92ymy5DPvM1Ou8RDUg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📷
 در نخستین روز هفتۀ دفاع مقدس، برج آزادی به قاب پرچم ایران درآمد.
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/farsna/463770" target="_blank">📅 01:05 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.57K · <a href="https://t.me/farsna/463770" target="_blank">📅 01:05 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463769">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">دو پرواز دیگر از مقصدهای ایران حذف شدند
 🔹
 سخنگوی سازمان هواپیمایی کشوری اعلام کرد فرودگاه بغداد و مسقط پذیرش پروازهای ایرانی را از آغاز امروز انجام نمی‌دهند، و در حال رایزنی برای تغییر پروازهای بغداد به فرودگاه نجف هستیم.
@@ -346,19 +431,19 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 6.75K · <a href="https://t.me/farsna/463769" target="_blank">📅 00:59 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/463769" target="_blank">📅 00:59 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463768">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gXCn6Cwpq0An3bAr1zdI97D1ukuTQ-TVWm9Q1z7x4SqiEgMR-LyqTecp3tFdfCbDVL3RIXh6YxA7o_tR4N-HtsR1TXQe5Fb4YOubriyceneSRbg0uKccwhty4wPh3t_Uo-OffFNbIJH-uNZ4KmdX6RFaL-6JOvbHhzru6aIm06O4dwsZyBOX2bW5CTb82JGiYacisXPqVl-DbQ_YoaYVRCnO0mWGAV7P0doS1ChWFgHVrxsH9j7pfw2SuXblN5w00ue-YEB6zC_wuaLbSf6i5LU8h3t8u8QuCEYRXY1Pizrj5EQ0PHOIaAcztx_4CY1D2WVAThhNkzO0p0oKRSqQkQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📷
 پزشکیان در سفر به نیویورک، در توقفی کوتاه با وزیر کشور الجزایر دیدار کرد.  @Farsna</div>
-<div class="tg-footer">👁️ 9.4K · <a href="https://t.me/farsna/463768" target="_blank">📅 00:34 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/farsna/463768" target="_blank">📅 00:34 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463767">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZMNYBarhq7l3xgwAGL_0TGOZ4h1HVHvZlkT1y_20HFJJ4zYGtXvG1AKEXaIa0SPMzn5xZizXYBQtHCekfH4PArQz7u76leZ2RfgAXZa06V385oyYrY9FKmpG_sTorf4oUSVERsrk838U67rLKmbOMRgQcPrhLDBdQw40u45kTzkeidKgIAQHhjHd0Xn0PXg1JVhl3-m2_ryGLH4jz5kaBWJN9Ggi7FxmD5Uop3MDIUJ6o2-x3j5uZH3udCDG_yZMfdGVOAthTqJcQTOGSIfc1H2yWdr8h2oP8Y5lEB1oh_RiVKy4YulOIZtL-1FbaoK8dYgIYoB-j-jSsvlw91VHHA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چه کسانی پزشکیان را در سفر به نیویورک همراهی می‌کنند؟
 🔹
@@ -370,20 +455,20 @@ Link</div>
 @Farsna
 -
 link</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/463767" target="_blank">📅 00:14 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/farsna/463767" target="_blank">📅 00:14 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463766">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">حملات موشکی عربستان به شمال یمن
 🔹
 منابع یمنی گزارش دادند عربستان مناطق «مران وحیدان» و «الظاهر» در غرب استان صعده را هدف قرار داد.
 @Farsna</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/463766" target="_blank">📅 00:06 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farsna/463766" target="_blank">📅 00:06 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463765">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/197e752b37.mp4?token=THAJ3tzZDYpDqKwrmiIm1ROSSfrpyQhLcXHa8MMiR5JOYNd_6KoYwjjNT1oBoUa9NpF_zi9OT4D5siJNAcsIeabfF5OofmiHg769S2U9K9_nSy-ZcjXHezBihMzPuBkqIMmzg5GtnuSiUig0F74bGKx9yLGPKealH8gjhdBrmaxn1sr93SJaGe0mqrTv0CSTRRIWEA3Nojkb65xw3DDKRvwbrkVsqIxLajClhwYmIBHcUJmvcz_db7OsR6pLeY7n8XCRiFfv3sTiMTzvtDU6KijOegs2cysd181Bo1iuB-0YiFCFfR3UpFIXxcWJQzvk5DQT3T2EOMsn7lGxi1u4IA" type="video/mp4">
@@ -396,11 +481,11 @@ link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/farsna/463765" target="_blank">📅 23:42 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/farsna/463765" target="_blank">📅 23:42 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463764">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/0dc9f35f8e.mp4?token=KIDOSn4-4UvMhkWV58kSTu_Akr3kSKES2xvXOW2b25XaHGhaBf5GM7eM7Akp71NONfHUDrue5VFwkRlMrx11SyD-MMl7RLgjhDjdoTpiGL01rzUM96wlF12Ef-WBiIQ_LKoPLU3SQv23HOKK5uUmY3TGVUNvpacjVr4pPxLWjwTNaVUOUPmJe8xXF7pDIF-OG2UqF7IgqoWPlC9JW4bfE0VO-RNrRhaOmnth8fmznkyKBcrRuZxuM6JMuMsv5E80kVBkXILswrzj7ohOCMDcpCL_ns_dvfDSWmglWeCndFQl64uz-VW1eDDY6KL6n4WVp-5Kk3n5LKJL2kImXpdLcw" type="video/mp4">
@@ -411,11 +496,11 @@ Link</div>
 <div class="tg-text">🎥
 گزارش اختصاصی شبکه ۳ از وضعیت مردم غزه
 @Farsna</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/farsna/463764" target="_blank">📅 23:38 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/farsna/463764" target="_blank">📅 23:38 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463763">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">پیام‌هایی که شما برای فارس فرستادید
 🔹
 امروز
@@ -490,26 +575,26 @@ Link</div>
 شناسۀ ارتباطی ما:
 @Fars_ma
 @Farsna</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/farsna/463763" target="_blank">📅 23:31 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/farsna/463763" target="_blank">📅 23:31 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463762">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">🎥
 جلسۀ ترامپ با سران کشورهای خاورمیانه  @Farsna</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/463762" target="_blank">📅 23:24 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farsna/463762" target="_blank">📅 23:24 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463761">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">واکنش مقام ایرانی به ادعای ترامپ: در صورت تجاوز دشمن برای توسعهٔ جنگ آماده‌ایم
 🔹
 یک منبع ارشد امنیتی در تماس با فارس در واکنش به صحبت‌های غروب سه‌شنبهٔ ترامپ در سازمان ملل اعلام کرد: آمریکا خط قرمزی در منطقه باقی نگذاشته و ایران برای تمامی سناریوهای موجود…</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/farsna/463761" target="_blank">📅 23:21 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farsna/463761" target="_blank">📅 23:21 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463760">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/ef896db23d.mp4?token=mZhe9xo-C88OAqexBpbk4-_C1oMOCujD8WUJuOcBqpxfUaixkqMtCI8LzHK9WTkfmJyYB0xybGkeH5vwu-I5P-CKbPWTOkDfh_AmQKFH3G6cbSU6d6yId8cX81IOEQDbRVBUxmu8oQ24029gDji4SB0DywQkVBqOnEfFI3VFQPwQRBtIjwO8J_lQCoV6oUHiQnliIuoX0oGh33oQDxF55iRE5jsC-9ESUYpZTyJrZ6982a3p_BSu43i2y6H93Su_0OL2xFwk4kN3hsR-tT8xstZUuiJoloNc6CKmUg2kymWlxBtkq3hEHegofnbi-vUy2ysX3ShnpfI2f2aHkO4tcw" type="video/mp4">
@@ -520,37 +605,37 @@ Link</div>
 <div class="tg-text">🎥
 جلسۀ ترامپ با سران کشورهای خاورمیانه
 @Farsna</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farsna/463760" target="_blank">📅 23:15 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/farsna/463760" target="_blank">📅 23:15 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463759">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">📷
 پزشکیان در سفر به نیویورک، در توقفی کوتاه با وزیر کشور الجزایر دیدار کرد.  @Farsna</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/farsna/463759" target="_blank">📅 23:12 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farsna/463759" target="_blank">📅 23:12 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463751">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">صداوسیما خبر دیدار عراقچی با ویتکاف در حاشیۀ مجمع عمومی سازمان ملل را تأیید کرد
 .
 @Farsna</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/farsna/463751" target="_blank">📅 22:59 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/farsna/463751" target="_blank">📅 22:59 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463750">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TcQSNwOk93hPObxAvzbGuVhT0RBIWCHIIjoPjunDAzQcVFh2ncGchke4-v_auZgoVz8VkKYQP7-6z0eAPoRitGkeGurjBBWSHzknnERpUJw2iCjdftjytBgZgKD9URMOCqi_gxOMiPeJxh9wBV9HYLrdV-y7SPE5O_loC7IV2-BZI2XHMDPZvLSb3IunweZc9G4ZDQAmU-Wo8I55JXdNsuFeoew6KyuwVR37zYdIq8V43rybss74DApY2XQr83592olm06Cki8dDVQUJMYkH95hKapafEjftvmiKGG7lfh-FWw16Yen40mS3v0oy5mCYrPuSsNhG20lkl4eN-djCUw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عددبازی پنتاگون با جان نظامیان آمریکایی: ۶۰ نفر دیگر به زخمی‌ها اضافه شدند
 🔹
 ارتش آمریکا نام ۶۰ نظامی دیگر را به فهرست نفراتی که در جنگ با ایران زخمی شده‌اند اضافه کرده است.
 🔹
 با این آمار ایالات متحده تاکنون کشته و زخمی شدن ۷۷۶ نفر از نظامیان خود در نتیجه…</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/farsna/463750" target="_blank">📅 22:59 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/farsna/463750" target="_blank">📅 22:59 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463749">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/REasGnzGR9cBx8MVs6-s6IOwUtBue4x01KvsCIYcFJxStfMKxVm9kLO6qLhygLoxMQca_nWZs3rqQ5P-pJzg3WtSdf0r4f_0l0h5ZUX0JPX6mgiQvgcJiX9jL7tivdmevGxu7ps4KqyMYffQsbpiXr80M7sZg03SJNHmXqvcDbuST4cgmjBprVWaS-n3ikbE4NSJv5hv9wO15JQgNVBBcUwX26-o5t2nPcliX9AW-YV8n1d1Q1QgCR29iF7va5B0oTAYnYkByCG-mjmoD9BuyhLLYrJ2E7u4v7vEOmPmuXQVeMcCkQeMs_-kSGVDmOpXt9y1i4EEa9J4AT34J8g3Hg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هشدار کشورهای عربی خلیج‌فارس به ترامپ: درگیری با ایران را تشدید نکن!
 🔹
@@ -562,11 +647,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farsna/463749" target="_blank">📅 22:52 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/farsna/463749" target="_blank">📅 22:52 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463748">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/e07e321a04.mp4?token=VgP_jDbBLCR5H_I79V_nogse3wbmB7CgOxi_f6wsMWPh6ZY3XhUsnAuopahhgD7BSZ7eXMnlOHhdJZP-XPQwACWZcFGFhwxGwRXXT0YVFA_RysUcTFEcxKCAyKIIHb7Fx8jazZr98HftCb6t01LrtjOwJ4Em4kewi7axlJZmT3cw-2QgMR_uBi9LeTrGxrSrKj2oNvH2g1zzVXhRQaGCGX8EeJD7TPAinKsP83QLb4q-XQwuXaoXac4c7npqYfmLYpDivps0SzMl-XFWvlinpARrQZGEieDmkmm-fXLZI7GFm0NvDEMKEuhKdxalRvncxmgUdqmqUX0e-niHl-MYZw" type="video/mp4">
@@ -580,11 +665,11 @@ Link</div>
 هدف ما این است که تهدید را برای همیشه از سر ملت ایران برداریم و امنیت پایدار را برای منطقه بدون حضور آمریکا تامین کنیم.
 🔹
 ما براساس مبانی خود قصد کشورگشایی و براندازی در کشورهای…</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/farsna/463748" target="_blank">📅 22:46 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/463748" target="_blank">📅 22:46 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463747">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/a4f4cb5e80.mp4?token=vaq3ljvtjB6D7ypLtXxB0y9esOkJlHS9wqNv3tssZfwSxE9j5OkTa8mDAo-TOxwGl_7B2SieopILx4cMn74EBtAZAY051qiafyl2Yfm8dB_nccaO3R9bAUxgiVDp8Wv9BdERB7AtmoVahFF05zPGCNORPSVmsjYJA_oFG5YYwepqmsm9ob4BshbwuTtfRoELs5BAe0aSd0aIEVC_FH-H70huZUz1_fctc9KG5k39in85aXQ9if27FPlS7IlXZ3CqtKgTxIDkhzkMsWhwzdHTEncKoaXstwqXzUJuXElKbupL_qDDF7HI9S1asBBzf0xF19N8vr4KB3SU8xR6ewKt0w" type="video/mp4">
@@ -594,11 +679,11 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 سرلشکر صفوی: یکی از اهداف آمریکا تسلط بر نفت ایران بود اما ایران حالا جریان نفت دنیا را کنترل می‌کند  @Farsna</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/463747" target="_blank">📅 22:39 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farsna/463747" target="_blank">📅 22:39 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463746">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس بین‌الملل و سیاست خارجی</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UXWI0hO4_atsbugCbk7INkGvFZN4Z--0dti2AkHMoQdTtZHctlVEgl1F61jjcPqfrbcTCETD4Rp1tGFyCNaox_-IScloAJ58saJI7zQpt7V1DfKEEQoF-yM9E9ZisVYr7EoX658DcI141w5bHFbJrLL99XBUkYBaG_aUsAlHplajSIptcxXXHTR2FZ5rdr-c1iZwEp2lSvVy198sfc732uBpQLR0z4Z0P040DjNsLfFB9sRRkFboH2gWy5XK3JjMIHFnOAUrl8NohTgHJSslpcC4NMYItrHVq5gSXpKmSKHKrWOdFIqRQtWiTOS3TILFaxYzL8vLwPaiUXQikhQcog.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">روس‌اتم: واحد یک نیروگاه بوشهر با ۱۰۰ درصد ظرفیت فعالیت می‌کند
@@ -609,11 +694,11 @@ Link</div>
 @FarsNewsInt
 -
 Link</div>
-<div class="tg-footer">👁️ 9.58K · <a href="https://t.me/farsna/463746" target="_blank">📅 22:38 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/463746" target="_blank">📅 22:38 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463745">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/986e451529.mp4?token=vqZ5E0mtN9AOhpvypjpXuevHSURvpQLLo5S_dKUnYvLGj_IHX_iVgKtfEF60ioX_Rhr_whzoAKRhYCuwVCHjJOD9ji2n3mfOAnQCLQAKGE--WMfBKk0qWPQ2pkYk0AxuWfxMobLwKdDUdQ-fC1mJEWqXouX_Cz3QDMUZgtddfydxWx_ZzQVhWQLGj7TpcrtYjIzjaTyP7aKQmvoXs_vA943LTLahXZXzqCijCyFvkw2N7gUt5DlrJPBQfIndwarQ9q6YWw-YUDl_dae-bFuFSNzsPb38Tv3FOqeSVeY-gLfBm_xnmqGxh1hTpWkP1auoq5KaIGaYhamEsjWxzoumYw" type="video/mp4">
@@ -623,18 +708,18 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 سرلشکر صفوی: آمریکا می‌خواست تنگۀ هرمز را باز کند اما تنگۀ باب‌المندب هم دچار مشکل شد  @Farsna</div>
-<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/farsna/463745" target="_blank">📅 22:32 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farsna/463745" target="_blank">📅 22:32 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463744">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">🎥
 تصاویر سرنگون‌شدن اف-۱۵ سعودی توسط یمنی‌ها  @Farsna</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/463744" target="_blank">📅 22:31 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farsna/463744" target="_blank">📅 22:31 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463743">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/416a1505f7.mp4?token=T8yzXFcwIu9po2f4yu90okJONU7PfMgLXtIzk7rhFGW1gdvsOjjGegEnIBsiftGUWatOgVkRXOjkKKL9-29_aaRk9RQizjTPUgcmkiPwO1WVXvvQLhz9mW7qkeNFC7AJHTCvGqQ3QWeLxTjDLrwZEf_J8SckNL3WK5AAlCII_Zc1ewMCm27EcHiDsdoVWsdQXTSc5WzmNAS-IFFw72Bc4CNNrIiiqj208GWr_Rw8aAV-FZoeUX8YoJ2nJaFI7_BVnpdlMuHElcMM2SXpUCBi-4VnDCk9IcFnQOhy_DEEqJBl-_6CKkt1RjV4bD6U73RNnuLpqbVXQJqen98Pbc_IKA" type="video/mp4">
@@ -644,11 +729,11 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 یمن تصاویر شکار مزدوران سعودی را منتشر کرد  @Farsna</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/463743" target="_blank">📅 22:27 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farsna/463743" target="_blank">📅 22:27 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463742">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/04d3d62672.mp4?token=BDbhcuBAX-_uS8YpyY1c6QN2lKD2anJ2nxzjx0iQVRKeRfuafJjkNWXN3QLuZ65wF2EkXi34c8dhLKF0RKvwdDQ9vSCHDsCf1DoLqPES2uZTGAEgZtU-nHUGUKUD70KLGAch4QkTwBu80b4xjAU7YtIzkHbKyW38zZD2vVJPepZ487tRq5IdEKQLgiDPJJRuV9iQAIC41XdqBOeMhvf3KTjvogdOScaZF8GXNhG5ik7_fSumHLuii73bjLl9ruJeNOdrR-XxYyUkuopMXvMBKUum_1z4XH6JXRxazmyeHl5DfaPwlv1GJarux252kDOvAnybdbALJTZa9UOfMdd7cg" type="video/mp4">
@@ -659,11 +744,11 @@ Link</div>
 <div class="tg-text">🎥
 سرلشکر صفوی: آمریکا می‌خواست تنگۀ هرمز را باز کند اما تنگۀ باب‌المندب هم دچار مشکل شد
 @Farsna</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/463742" target="_blank">📅 22:24 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farsna/463742" target="_blank">📅 22:24 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463741">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">واکنش مقام ایرانی به ادعای ترامپ: در صورت تجاوز دشمن برای توسعهٔ جنگ آماده‌ایم
 🔹
 یک منبع ارشد امنیتی در تماس با فارس در واکنش به صحبت‌های غروب سه‌شنبهٔ ترامپ در سازمان ملل اعلام کرد: آمریکا خط قرمزی در منطقه باقی نگذاشته و ایران برای تمامی سناریوهای موجود آماده است.
@@ -674,28 +759,28 @@ Link</div>
 🔸
 ترامپ ساعتی قبل در سخنرانی سالانه خود در مقر سازمان ملل در سخنانی گزافه‌گویانه مجددا «ایران را تهدید به نابودی» کرده بود.
 @Farsna</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/farsna/463741" target="_blank">📅 22:18 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farsna/463741" target="_blank">📅 22:18 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463740">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YqzUAkiLDcnYF1kbLHxrRPpcUa1sta4CxtFdeV487C9SukS-e0NjWTHeDNcib0is0ATyPFmKWkPtyMxoLy2l8ajBu-kvk4tWJqX8LsuYppxlzlTKCIIHEsbO9f0ePmx9TmnRZOS9-PH1dIoVFjnHr8_huDGEipXsw7AdIVp32adU_kaPa618RaHETklkm2ASqFBXCjO8gwRfmjIyyTyLfPCyUy0n-uGdSw7CelEbX36SAdh6WPqjKPe7t2SEy0TlAVTUn_d14mh9p-igHo746ZKMns6wWJGWD6v5iglPlMIWy6Ryz-ZsfHqerm55PX-jju6rTC3r68Ol2kWdAxvFwg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عراقچی: اروپا مسیر مماشات با قلدری آمریکا را برگزیده است
 🔹
 وزیر خارجه در گفتگو با مسئول سیاست خارجی اتحادیۀ اروپا: پیمان‌شکنی مکرر آمریکا تنها عامل اخلال در روندهای دیپلماتیک بوده و اتحادیۀ اروپا نیز متاسفانه در موارد متعدد به جای پایبندی به اصول مورد ادعای…</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/463740" target="_blank">📅 22:17 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/farsna/463740" target="_blank">📅 22:17 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463739">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/I6ZgrkYLiC3DWt0H2WuiHdE-ZfCbssvSn9lHF7wmvfoUXhz_DN1fMhElGdlQQwGUVRw3fjs7Dk4LrItbtqyD5EUxuAga1L-GApj7_oqN9IBwx3b_52H0XEDgStstZ6jac3CIYFcl88vrE1-ujO4XxCsIwRZrH3_Jf7j6VRKCrV89YeeCUchwa-x7i95TCT6w2B3wjQ3cs3UgKU2ItKYpq-Rv715Y6qYa4ZUHNkRGle8c0f5l-QGMti0nQY18BDZ07D15I9AXD_7AfPySW7kQMy-Z9WSlp5CMsY7oYk9TknUwEb9YwJzUzyBRHTMUCRcWDmhBGUPA91FOsAeF4-LWew.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📷
 عراقچی با مسئول سیاست خارجی اتحادیۀ اروپا در حاشیۀ مجمع عمومی سازمان ملل متحد دیدار و گفتگو کرد @Farsna</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/463739" target="_blank">📅 22:09 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farsna/463739" target="_blank">📅 22:09 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463738">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/cdfde8fd33.mp4?token=oH9pvQf4X9AxR3tHS94I-19TOgC0_4d-H7GloCbcJWIubymg6smL6IXr7K7l4bOWOqWNTpQBMVDori4h1nsBfaquoEgdKrEP2m3TPE0sPVY8E8sG4jMznHqWSqDNH6XXtlvs4ZwJoymgUGnf6gLF2Syrh6YOvmioPJXZEGelPoTkR1-kiFmw18a2aMkA_4anzASdsmVWlQ8IbjM_rshau08kfEKXhoPqO4AHsI0AmNu2p0JA16cL06tE5cu9P4xkFkzT06sPzf6fvvn_zlABwNaiiyQIA11ZmffPmjVzvGsw5BmtwxehzczVbdDKdEIlayj6Sl5UlViB79WZ1EKd9Vq4KKaMrkHaMkz605VEqf4aJamB2EudXKpGxtNHsoFNYInOha_gXo0TYFSPx1GIlVQDPdJuw32dZsWcJyEofI4MOGZBThAF30NPHP43F-frR1hQ0WLDeTT6VhvMxiRSmcRXxa1Shd0E3pZ0LjGql1Cyf8HOX3GRhQM-GzndQOG83oM6n3k22vdRRFAsgy6EuE_unhKsrejJNHVRFwmXmQagOlzST-1kzYm8-cbx8bZhMHlJx8uipC50qrywsf51bNDHwEyAn4E7i3AZ4f-CRaZhFs8Y9Dav-l2P4ygqlyG3OM-jWnJGT22QOcsKZiCmak7Xl8OXWTXd8o5FRz0BHCo" type="video/mp4">
@@ -706,11 +791,11 @@ Link</div>
 <div class="tg-text">🎥
 مردم ۲۰۶ شب را ساختند؛ خیابان هنوز شاهد حضورشان است
 @Farsna</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/farsna/463738" target="_blank">📅 22:05 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farsna/463738" target="_blank">📅 22:05 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463737">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/6504102bd7.mp4?token=BKQ7jRSwQF8w52wsExzZmp9lwJqlVcUujzdBHy1-QYox2jkgWwumV-As88sGAS3tUuj37ETQ9dawW2fHvxurZqDD2_IeWYcK4PjBUAL65IA8gY6--sei1mNSHD5MkwQMKSYsgHcEP670tEIf31NAl3wgJb08h0JAWMe6NNsDlwwpwYMRBX9V3TigjWvTIGuCacqMCmmv2hFD8QGC3FyCp4XYOiR8OMGlBKEBZAal1ZCbfs2E6sndjlnZNzPPU1wzmZPdsYbt2bE7sMoQDwSJlnLADciRi8wA-mJyLkPYuNM2mUdXpELqi1J9359bgVd_j5BqbsBy3FXHw1wYb8LoZg" type="video/mp4">
@@ -724,22 +809,22 @@ Link</div>
 اگر آمریکا به کوه کلنگ یا هر نقطه‌ای دیگر از ایران حمله کند با قدرت پاسخ خواهیم داد.
 🔹
 این‌که پاسخ ما چگونه است از اسرار نظامی است؛ ما اسرار نظامی خود را فاش نمی‌کنیم اما در میدان عمل نشان…</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farsna/463737" target="_blank">📅 22:00 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farsna/463737" target="_blank">📅 22:00 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463736">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GmBo0hFuyJHSMuj0DcPV9GbuEVv8fGpdMwhiZocP4ziNEvVV0QiMsBqRvomgXWtg-Yaux2edTcFXutTodumV5FpH58zVzHclDcbUAxA6U6OlL08JcjjwcNIJjX9TVF0PkxAQbR_3zPjvCDmSfZBHzLMBSQbETPAHPx61g7XcLna_MrFleTY5jJBKK8eyHSFlCkJwR_xXn_7FiyOrwAyw-Vv5cx8iHh2I-q4gYtOYZduMtB6MTwdc6gxh8LEGM5c51xZcN3Ek2HTbejOuXEvwDOsuxoYNffG7giQibYp7Vfi8oZeqW8bc4l8CCehgSRppcucplHrLKqbcm6mYCHJIHQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">روش متفاوت رهبر انقلاب برای تدریس درس خارج
 🔹
 حجت‌الاسلام محمدجواد قاسمی، از شاگردان آیت‌الله سید مجتبی خامنه‌ای: حضرت آقا به‌عنوان استاد ما، این را نمی‌خواستند و اجازه نمی‌دادند که طلبه در درس خارج فقه تبدیل به یک تماشاگر شود.
 🔹
 یکی از شیوه‌های ایشان این بود…</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/farsna/463736" target="_blank">📅 21:55 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/farsna/463736" target="_blank">📅 21:55 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463735">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C6XKUnWyTBTDBuRrAm_QNklHGknyzX2UpN7ADu7rr4TeMeZ9BiGrwgU88y40D4dmLjW-Om1oBNVerxvxZf4woyCK7c7eMblhICyeIzyz5GfnBocmlaz1xGtnSGIjCw2fCiOlZBHt4ckmnbp1dqlZTsS-LhxvwY1eAcVJj7P7yzDN59ak1Ns8Zir7DuJK-bD1Z3cVwdc6rT8cTmXAXQQEDsrFHZ2IqJOVhkuws49KK-NySqK7Isn5EHh-gtGCEI3or9AgmBWQDW7Z_Wuig66M9eJgZuF4VEMpcj09wGM_TooKuCYNS2xsdRy7LYtY_5SOeKmlbYXTTokkeuacpgO7nw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آغاز پرداخت بخشی از مطالبات پمپ‌بنزین‌ها از فردا
 🔹
@@ -747,11 +832,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/farsna/463735" target="_blank">📅 21:46 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farsna/463735" target="_blank">📅 21:46 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463734">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/0f86f57de1.mp4?token=jDG1R-V9PXdmdpncKuH1e-5BCvudpi-kI5d386nyS1javthWMgXHCS4mdF-5R19YJMFZXPtIgi51DADBtGPZhW4N0tSGqV5AjKP_0W0DKFbXQBWnylkXNAjY4Zwq-pgq58P6X_lwdqJ209rv_QMx-CbbMLOqL2aqTSweoYG47GTAQ7kEAaFy88E5O82fi8GjRqfjSbUpLNOraH24xfm-2CvGH9EIOvtnmZT-29HLMtSSP-5DzDArWrkbnS9AxkFohrKsllNXpGYMhAuKeqCnXUzzwmnX_bQ2XR_GdhCZ0GibkvyBWh_3bfAz5T93kXCKA8e-utQWJ2yfTv7S7hgBUw" type="video/mp4">
@@ -761,11 +846,11 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 سخنگوی سپاه: از نظر ما بازدارندگی یعنی هر متجاوزی باید هزینۀ تجاوز را طوری بپردازد که دیگر آن را تکرار نکند  @Farsna</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/farsna/463734" target="_blank">📅 21:43 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/farsna/463734" target="_blank">📅 21:43 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463732">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8a57e6ffd6.mp4?token=isdjZebcTRD3m8QGTuqnD7Y4XjXPMgKVGrn5L7zDsKrqivzClWPLcn65_DUfPcmKTM8KtSgrPOLhliWurk9G_0wtQw7dpOCW3VCKQXm5cv9blPNPvGDVj0OZZYY_OrteVq6Cel5bx2yKrBmXVb9bYQe3D2aHPAMI9QzmhIy8xkVcbjEQi3zH7d8ObWhHHhsmv4_CUBLx_f2QLuma1zRbbwFp_2YqnwhJmVYaooVD_F-fkg9WbbaOGT_HQoVcc42c_sUeJbmpHmjvEY5xO_xQlPBa2fjjj11ktMcs38PoFudh1JuQrLuTUGhD1jwqAjFX-eXjjggm6VgfRbGtFiWDTw" type="video/mp4">
@@ -776,11 +861,11 @@ Link</div>
 <div class="tg-text">🎥
 سخنگوی سپاه: از نظر ما بازدارندگی یعنی هر متجاوزی باید هزینۀ تجاوز را طوری بپردازد که دیگر آن را تکرار نکند
 @Farsna</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/farsna/463732" target="_blank">📅 21:26 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farsna/463732" target="_blank">📅 21:26 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463731">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">عملیات فریب آمریکا با اسم رمز «تفاهم کوتاه‌مدت»
 🔹
 در شرایطی که تنگهٔ هرمز بسته شده و همین موضوع، بازار انرژی را تحت فشار شدید گذاشته است، ذخایر نفت خام آمریکا به کمترین میزان ۴۴ سال اخیر رسیده است.
@@ -805,11 +890,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/farsna/463731" target="_blank">📅 21:21 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/farsna/463731" target="_blank">📅 21:21 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463730">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/a801167fbd.mp4?token=YmkcXDFGK8PWzJmlzgHdLuCWgC9ihlmsR0TjHMuvXVc8UusnjUybSYJQnR5bBgfo4NLab-r_djy_6dB7oMU5wHniqOnt7qHnb98QeRsb_mch81_QI5JqKTHa529l_4fUUHLEDydDjcsX5shPkwm6-7OGo-xR8kLW7iVtAoyoVohtiMl0fL5jbK5bk4PBejdSOT7ouTyQsYfZa_reUGy1WpRkXvtplMvPEgzD70lOqkVXZC4LjMwgyCwipxNZ1nQa0ORQOhcnjpp7Dpn_-ZUf_-SiI9goUXHqevdGPlK4Zs7AJNxo71ouC-QdIgFWNtYL3Mol_ESrWsD-aePR0WaXwZXrDzGA6dcPHbl_SmeupeJzjsqEHfm0Da2Jbb-aHIImzOGR4wcKC8np84WaJ6H9GtMN6SCES_o4eWNND58hDFIsjuSrn0efEybXp63vVQmvxkiE8mKpknuLZ0Ux2zFWXBmfGw0EqkptxuufZyGyqvJOw7oCdRiTF86GbwprbSWpAwuHQJo4qnWetp_qDk4YBQAa2wcVzlYLe0AK4dAJmtmfKXwmRNQGmME1X8M1IhOQOHOMROcUknDS2MTTaR5xJum_0sxlzPjm0gmChVcnbd3pMUUr-JpcG3LoZQ5d0goqzsT1a4TvL69ZLAyehB6dPB3jFezd3rvrEtSChz5DnbQ" type="video/mp4">
@@ -820,11 +905,11 @@ Link</div>
 <div class="tg-text">🎥
 مردم مبعوث در شب ۲۰۵ هم میدان را خالی نکردند
 @Farsna</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farsna/463730" target="_blank">📅 21:11 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farsna/463730" target="_blank">📅 21:11 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463729">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/0b504b9fd0.mp4?token=tm2WE4PQfOuT3MwaJv7qlEduHS6-B9kEVgqlTHt3COvHCd-1FXiP40S-spKHIuVvPJjIBTWxpqsGzpLXb6xndcSnPz8BMFNwu-y_sk4jPCjuiMZvyFY3HOfekyazPLenO0lNHuKEOL1ft1Q5DSr2VsxVVsR3pR6LdU5gg1ZZ-EzG2X1cl1LEpWSaXLCcQ5CJD3TEAzXDPKgGdOyyvaYZW28d87cvJKlrAXS8_XEKR-ib0YbiCKIQxn1KK6XR00-ackNU0-4Rk_mEvyr70-xfL5NkE-EHexOnVWZ2O0auqcaY1Qj4Rp3UKTzakb2ihMUhBr2KNCvaS0ksRfp0mqhqog" type="video/mp4">
@@ -835,11 +920,11 @@ Link</div>
 <div class="tg-text">🎥
 گلایهٔ‌ وزیر صمت از خودروسازان: مردم از کیفیت خودروهای ساخت داخل راضی نیستند
 @Farsna</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/farsna/463729" target="_blank">📅 20:59 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/farsna/463729" target="_blank">📅 20:59 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463728">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/acbe171e06.mp4?token=Rc429BVSGorPy_D-clZqu9jwAwLFYRakkTDwl4DsT9vpxcdlqGr-g9EyYr5Zsp9c3PThreA0_Iqs702qhxHiOqxqVIcL71dOF6rSBaa4Ke2yyGFyX9rdx4Y5W4LnywR2MVID42C-PV8gZUSljrTLSIQwW-w8dYhsHFCxn2DyYcIPBiXnHTUWAqtgQWZo8uqcxvu1Oms726scSS15QjOrMExnPua9HbNeASek0J8ZEh5P2yvUPQ5IIbApr2v7hWFzJAUJR7QKsp6TR38Kl_i0s0WxW7uKybYBqchNZMCKlfyi_wRIoIK9PxTj2AYj95CejXIzPdIMo94SNx2qeuj6aw" type="video/mp4">
@@ -850,11 +935,11 @@ Link</div>
 <div class="tg-text">🎥
 حال‌و‌هوای دانش‌آموزان در آخرین روز تابستان
 @Farsna</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/farsna/463728" target="_blank">📅 20:52 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/farsna/463728" target="_blank">📅 20:52 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463727">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/1a6009e251.mp4?token=RC-3qqOLoO_qUgh182MlK2wjOJkajNfGUDrWm-Rp1QlN38wLPYh2AFqYIDdiGdl5-v2KRwkMg-WIoFhSCW6EvF9EIX4f2OJ-2UX_SuLcrGA6EiAdY1I0OiyUbySFePDUj9ei8v9CdlwyxaGVVicgiM4ltXhc2xgo7dmmVZPqTI5G4hVimDzd1cAQ7SMQcWjQv0pubzSCinfdMxMTz_mH4RtCOTD9SDCvbiFtidf3nAX9368w3ayoRBvP3jbALdFT4xeWsVmyYrN5NMuo5FR9JM9ySrMwFR0s-mFXkoZpC5nJAj9EQwNZ59zHILXNJ69uwYbqn7vII6KKozDjJXfHeQ" type="video/mp4">
@@ -865,11 +950,11 @@ Link</div>
 <div class="tg-text">🎥
 اینستاگردی جولانی حین سخنرانی اردوغان در سازمان ملل متحد
 @Farsna</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/farsna/463727" target="_blank">📅 20:48 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farsna/463727" target="_blank">📅 20:48 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463720">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/fUtHdFG0tAoSDvoA_Hn97lbp5ywD95K2qiFJcBuwrWsBRxxffDYiHec3EIqnhm2g8xg8jJnEs5JPFOx6FiZDzmd0y6oyZ3TS4bLt6M6lGV5Jd6eKXaWEnIh_1Hg8eU_Nf2o4tpbNWZi31c-19pT8vgnjwmjCYOYhPTQqQYn5pEwHUdexuiVr1zLEZWsZRn433iODl69SEaIQKtR8-xbs2sURUciBUChsL8jA6WVpRqQZ6VNuIGlKz8RbYd598V08frFZrNQB8pkZzqPfzTKy4aj3jdtqsOnZalk9BzI_28lzumsRe60NNXuNqZg1sHE4u9TXAZVKfAm1yULA2jF52Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/leXQQZObcbcWRo0CAZgZFNDnMLfNzTcTKdHo15YPznN6dTXPsZUC9BykYc6m129CNjpAPJXQdISZb2spl6Im-SM3K5WgSI0uZGx7UyWS31c81YPW9AGBIvpgzAKhski62hgmnhOFOWm-qhDgocmva6QCQcB65SDzKRUFa2y1x8T_FZ6fSWIxWrwapzOIVSMDQhS42ujXCtsQqZeaaG65hqIyErQBZwb2tcUYVcI1TPUnUbZ4_Qgu4LWdKYx2iEzVxytjcCWbFD19Y9mnnxwP6fLOx_qH38eORU7xZqOX9ba7NNFBlyQqdKCydb-r9lCUsZ6pcIznjVEvk2pCwb3nnA.jpg" alt="photo" loading="lazy"/></div>
@@ -884,29 +969,29 @@ Link</div>
 عکس:
 مبینا لطیفی
 @Farsna</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/farsna/463720" target="_blank">📅 20:34 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/farsna/463720" target="_blank">📅 20:34 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463719">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kLfisVFsZIBvxpfjoFV80eBLcGStjCXWRNjw3nFS21n5O_aPFdrSjmeV9um-ttoLhPXGxcZqORTx1NUoJkpLPsg45b6hIDPHA_kJYg-5aD6B0IeRuOQiJkQsHU_C6TEWeex74tQ0XVaEh2T6VE9NYGGvyxkee91IygT1JAEqfHv6khZH7qtpFjiel4N3TJiaoZinoWt_jZBaBd1Ofj01zxfDyR8C5DQcy5NTG_vmoCB97vWMYlNfZGgj-DTuf2HCSynNEw8s3LV5dGmFeaoU-FZXG8OYNJGt2EXEalMHUW4uQx4SeNoHq6F6d23rWuwzvDGBO12saPBmHXpmHSO5JQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سخنگوی نیروهای مسلح یمن: جنایات وحشیانه‌ای که دشمن سعودی مرتکب شده، عواقب وخیمی را برای آنان به همراه خواهد داشت.
 @Farsna</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/463719" target="_blank">📅 20:30 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farsna/463719" target="_blank">📅 20:30 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463718">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rLDotHKC9WSdLH9LqNPh_7F_xyHcJ5DnwJnakjxp0nErSi03mHF4s93su_lNeCshbEyluz_R1sGDAhvumhHKWWxx_Eclgv2bBnHSMPkHypIqIQk_4ekud4lzu1R17xBOrvhktx4KjiWYlc9wZ0OfOjUQEYZk1cHLpQytG948w3QZ2JCs72SlXM4k3536LZiULW5eIg_PykLbOdqIwNNm9qUEThQqTNh2amC9ajcpizLb-oih3KoIr5S60X1DDHw1uwMgVOsoQPjvaVnbjxUkP6GsDMsKfHEpUEGEuDjHEiUGx5ppAH0y6h9hlVm_X7JDLjcNeJvdi9a7qLZbn3n6kg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎥
 حضور زاکانی در گلزار شهدای دانش‌آموز میناب
 🔹
 زنگ آغاز سال نو تحصیلی مدارس فردا با حضور شهردار تهران و از جوار مزار شهدای جنایت آمریکا در مدرسه شجره طیبه میناب نواخته می‌شود. @Farsna - Link</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/463718" target="_blank">📅 20:26 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farsna/463718" target="_blank">📅 20:26 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463715">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/AnF9ySwvjgQ3rbHV2Y0n3mUKdkoSHHfv1XZKI60aa7RpBKdd9d0SXdsut0bTdX9VpvPG8CihR0ub-kOk_qldMUueLG6LTYit5O7zaqo5_fTTkEsQPcGgodtA2HnpKdg_gRD8rgqprvBBy-ZFUgdgWFdg3PtrKVk63focxvg-j4tdb5su9E5GdQb0AaWCmYynLIAVICTdUz5r67eHTePdJR9zQzTo_vnBFFWDHt1QwPsGmRz32LpF3rk7P4WOFphFRYjsTOkaSvE9k5dsXzqrwawhk8LqKTR22hknaS_pSv61NDxKhHBLVhtUojI_T7LseGVBJEocwrSZgPNaSepZjA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/CwWNsOVbFp2oSt23vkvEEJLsXqY2RTYioevI98rXSUnWYnXx5G6_wKxvIUseEdHL2mA3W2Jns22q2dS9NXA5GT4Mw_tW6lbKsL4j_d7Bkg5D7driXckWBTZOlqEYtQGrn_Rs6D2HlnXDXXnJQ_CDRgVQKkuxXUYzfHJtuH8H_Hx3scb6-EL3EQ6HLAhvY7NIn_9n5XnENCsC5BHlXRXsb5xWKEitZ5Q7dbR9kRqtc0G77CNrNjbDoNiJa4xnbqsZEcsrX1Itb2rCDjJ4SFjfA8LnBODxw1FnmeLTEmDzug9kKF3su3oH-NUOIAvGId0tXnlpA1PHMmYF4NcuEv3ejg.jpg" alt="photo" loading="lazy"/></div>
@@ -920,11 +1005,11 @@ Link</div>
 </div>
 <div class="tg-text">📷
 عراقچی با مسئول سیاست خارجی اتحادیۀ اروپا در حاشیۀ مجمع عمومی سازمان ملل متحد دیدار و گفتگو کرد @Farsna</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/463715" target="_blank">📅 20:22 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/463715" target="_blank">📅 20:22 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463714">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Y6eLm19OD_De26Fct_3gZ8mzAPPuXiDXGGjktt408ylnxqh2b8Opwkoq5pGJMVwvFKjWpVEvxgXyTJ3gB377fQZML832zV-afhQWZvn1k2rxVSo3QLYHOqhVH1N63bwILsd1iD4vR4yGVIf079Lgvhh9n5tfRrYLkyTQBl0H2JKSab3fgrYZVbktJ1kNf25EI5b9iBtltB37RxEulDsZu78S9YyRh_ldeyORWZtrU4sQkbZV_tEL7rJV-lSgJy2x8wtER_RBJgx5pjE4dX48IRKJhGcNvx-7cic4Nf8cQtACe-A42i3SPyC9J53XIhsdGMWLaJ5xmRtp9Fv4fLp6RQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">غذای متبرک حرم امام رضا(ع) را چگونه دریافت کنیم؟
 🔹
@@ -940,20 +1025,20 @@ Link</div>
 اینجا
 بخوانید.
 @Farsna</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/463714" target="_blank">📅 20:14 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/463714" target="_blank">📅 20:14 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463713">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jgPvUc3iw_Wryw88m3UZ3-SVnQFrZLTd572SbRmZGJRckCq0xpoS1aoP5-7V6dzCFEcWQpYgm8vHnRiVb2uXKMh5VzPn1x_ZgGkhu8HRip-X1pBXfg6YNXdZEaBectsBFUKjMjPrGuFYcPGxaZYGg0nZe8M-j1c4LwmVJkt2CxUitH6rD3mAQHuKHPUKCGD5cp4QNcYLShw34U6rvGV9wQtZkdmVthbGejLMj3ScHBYmR6gwhpx_rRp73UkXiatMSvuQ6cg1Vf9LyybN32StsM17DTMj8U0hqdJgJkDPJv2nCOVpI42wA56dlNC_DjPxoTZ3u-5GF0H3sq-VfQXX_Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ساعت کاری جدید ادارات از اول مهر: از ۸ تا ۱۳
 🔹
 رئیس سازمان اداری و استخدامی کشور در بخشنامه‌ای ساعت کاری دستگاه‌های اجرایی را از ابتدای مهر تا پایان سال جاری، از ساعت ۸ تا ۱۳ تعیین کرد. @Farsna</div>
-<div class="tg-footer">👁️ 9.45K · <a href="https://t.me/farsna/463713" target="_blank">📅 20:09 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.68K · <a href="https://t.me/farsna/463713" target="_blank">📅 20:09 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463712">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XG1pU-u--DRzWXzfOLI5AHvxrkGFXftKlvgnqNszrEQ_M8irO1HgeXVFemicoX4MkqXaVQ3Sg0Z0iso9zIKFavTeUrNw2m-VsLXEhJcgQ8djqGO5fjU2FoMvNb8VMUw9tHPXgT3_FB_ze6JMHhX2wF_kQszHY_9IG66ySzEDCXUUMY5UI90gAJDlrwYgG7jy-h1pYwpRg0Ov5qFFdTZpS2-TkodhjU-q1raGjoFPrl0fCDwEgXYJNAlT_XhwVyvr5GxFGezkMuS-yNRKVZZRREqFmutGuxDK6Y7XuSQJDY8xFkuoELh8XauCJH0gxL-nH2MiBFu4JsuCo7uc9sKpMg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📷
 دستخط رهبر معظم انقلاب خطاب به سردار سید مجید موسوی فرمانده هوافضای سپاه
@@ -974,11 +1059,11 @@ Link</div>
 سید مجتبی خامنه‌ای
 ۱۰/ مرداد/ ۱۴۰۵
 @Farsna</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/463712" target="_blank">📅 20:04 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/463712" target="_blank">📅 20:04 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463711">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">📣
 ایرانسل با نوسازی مدرسه سنقر به استقبال سال تحصیلی جدید رفت
 🔸
@@ -992,11 +1077,11 @@ Link</div>
 👈
 جزئیات بیشتر
 @irancellnews1</div>
-<div class="tg-footer">👁️ 8.56K · <a href="https://t.me/farsna/463711" target="_blank">📅 20:02 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.77K · <a href="https://t.me/farsna/463711" target="_blank">📅 20:02 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463710">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromرفاه خبر</strong></div>
 <div class="tg-text">✨
 طرح ملی «زرین تأمین»
@@ -1016,16 +1101,16 @@ refah.zarrintamin.ir
 اطلاعات کامل این طرح ، نحوه ثبت نام‌ و مشارکت در آن را مشاهده کنند.
 @refahkhabar
 | بانک رفاه کارگران</div>
-<div class="tg-footer">👁️ 6.39K · <a href="https://t.me/farsna/463710" target="_blank">📅 20:01 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.59K · <a href="https://t.me/farsna/463710" target="_blank">📅 20:01 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463709">
-<div class="tg-post-header">📌 پیام #53</div>
-<div class="tg-footer">👁️ 7.62K · <a href="https://t.me/farsna/463709" target="_blank">📅 20:00 · 31 Shahrivar 1405</a></div>
+<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-footer">👁️ 7.84K · <a href="https://t.me/farsna/463709" target="_blank">📅 20:00 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463708">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M2DAfqqW-YblZG91bEB8tiCS-Um1n4n8HoJFmNCk1R8Yt1daXpRM7a8FIEuCUC_PME3fwnMxbUmB9k5gpZI7eFoOYTUV_7kgW47LQSeGXbX9Al3rJGz91rWzw01VOWHO3puwzQmK9hH0SzR_nvB9VN7okkP9co7tiTlyWkRQtlpTUL9a8AHn6oU1UWZqBJUL_4B4LHkpTTYQYBplp65RiJwKylfVF0zfYEM7ehbGmtkGrCm45rEVM_LSRN4wR0GVcRUFS0kKhi2nSMc5ygSb4WQzv17OMzKbuu4dg_saXmVDyLDMWWaVklhY0rvqK7uFT4GoJ7ioMcJPNtrYmmyN3A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جنبش نجبا: به کوری چشم ترامپ، مقاومت عراق باقی خواهد ماند
 🔹
@@ -1035,11 +1120,11 @@ refah.zarrintamin.ir
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/farsna/463708" target="_blank">📅 19:56 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.94K · <a href="https://t.me/farsna/463708" target="_blank">📅 19:56 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463707">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oWazl88lHpG_C5TdiAXZtZNUBRbUHD2vjq9xmEVgJ-mHiojLucvcVuMSJZb0-MD5svndo9_gS45DBtPSCL3GKivTimrVkxVPlGtb-jOYjy7lKTs0kPMU-Z_AnvcMjFrns-tmsdpSifvZsjjEmWi5j47UGE4grnkYRD60G_RY4KCfsYJg181SO1Q5KtphSf3Qw-WqLYYW0Lsft71ProWM2dcThfb1Vct0csAooQtwiAgYCF1ch6L2aO2sIkSW9EmmIikP5TyUzuJu2MM72w3wG1-uI_wN1eCyT30R4goaetk_Ey1Gj3onEdQRkq1j6ImdnhXHWI8qBOpnQeGxXcuvkw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چت‌بات چینی پاسخگوی شورای امنیت می‌شود
 🔹
@@ -1053,11 +1138,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.25K · <a href="https://t.me/farsna/463707" target="_blank">📅 19:52 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.43K · <a href="https://t.me/farsna/463707" target="_blank">📅 19:52 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463706">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MliiEpeeBvMZ5pMu4g_hfq-VxgEI9w7aSJDI3bBrQpupTwhw3z4RRqeOjJyyETxzABbZfC9kEgj7H3UFgTyMKs6Lqftbjje3GhhXYF41J9GHTyeCc9FpWI7wXThdma8Dqd7ytJfPrlEUToIsuUgOvr7AlImrAcNM_z1Z-zIqyzJdIbP9nTXkYIb8FIWnGjOW4xEK9C3Q8QfMjI_u0HhCWuJ6oh-LwJlmRI1aqPwN4zPFxblxkee9y11ZIMLPI2XUTgaHDDMndoFiAZIh4C6EPe8CPXx3B3wPs6hSNoWXnbClVjLyGDKRVWqIOWKjQ9HSXWl2dCKGrZoSN6Q1CkpZwQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یمن: عربستان عامدانه به زیرساخت‌ها و تأسیسات غیرنظامی حمله می‌کند
 🔹
@@ -1065,19 +1150,19 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.53K · <a href="https://t.me/farsna/463706" target="_blank">📅 19:46 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.73K · <a href="https://t.me/farsna/463706" target="_blank">📅 19:46 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463705">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LFXc3Qn49XqS_c2pWefbH7ifxKL1GCGGnBIRdnkRP8CP4l_nr8nGfO2uTfJIDi4anynVfBBLpWaB2aESqlL-5SmqImKumUiFu_mi2mlQuC1csL1D4O1sSic6yy8QiDtS-imBAus9-oFsa1l4HLh86pEiu2rwFJLTUEnPHxX3T8NbFrofzwsKnrXen6trW8Q8XktVpd0pQqDGIsI9a6r0MElXbUG28Bq5i0si0uaoDNNoCt29R2i6eawPRHMVQCVDkzYUju8cPRjFinBkdFldOgzbBB8xw6xA2A6O9BTkrdufpwT1Uo3A3OZZNJiy0tZYYVoLytHMYsd-IuCrVtgfRA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎥
 عراقچی در افتتاحیهٔ هشتادو‌یکمین نشست مجمع عمومی سازمان ملل حضور یافت.  @Farsna</div>
-<div class="tg-footer">👁️ 8.99K · <a href="https://t.me/farsna/463705" target="_blank">📅 19:44 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/farsna/463705" target="_blank">📅 19:44 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463704">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/5e550a00fb.mp4?token=Zj1eDvLN-cXxLee4Fe_o-CeCaS-4nK0L6p7Js87O7b6Ay2Z0XTexmmI1wc656JTPobVtHeiEjd9sD5zYcj5I1z-YNWeLYVBC1CXdaFTj1ZrejE4etntlHfaz49hqJnszCyJ2tBJHpY73tIZsYQx3uXNNPJaGNeIv28CGQ8jhEWstP2rdeY5IjWS77BPkuXbp2QNYAHXjGXEXoLbxyOheimAHXOxTWfnZVs9YD_2Fb4sngjnW3PwdKSaYayfujgXaHmcNFYKmh-yh_ENN3gN-7oljWOL0ohSXa9WAHdkAKnYWbLCmJubyh5cpyz_niRf_w1L5KiWZsk_cFhu37ihALg" type="video/mp4">
@@ -1092,11 +1177,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.79K · <a href="https://t.me/farsna/463704" target="_blank">📅 19:43 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.01K · <a href="https://t.me/farsna/463704" target="_blank">📅 19:43 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463703">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1106,11 +1191,11 @@ Link</div>
 <a href="https://t.me/farsna/463703" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">بسته خط ۱۳۶.pdf</div>
-<div class="tg-footer">👁️ 9.27K · <a href="https://t.me/farsna/463703" target="_blank">📅 19:39 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.46K · <a href="https://t.me/farsna/463703" target="_blank">📅 19:39 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463702">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e2n7KjUjQKfrPXG1VWX29y6gIMtznPfBwTsycVABq6VZKQSSN3dInUUC6Peqn8I7HBaYf5nj631ONzcNrEbRP3whUJsmY08e5AxRnadsaDUH00SM8vHrGD5ia0PtX1b8P37qrAimZrVRJUMBnASQ9utyHBN14YQR18LCbaTmCgqoDZ34S-SuQ5wOU8X8QVBBcS01RO9XvXz-DuVA2CpQjaih6awnPvIGgSs5_Ypm_uIWVyiR_JSylgTcOs59U-Liu0SUuEZxL0Myak2I9W5eelw3TnUQHKqaHX5X1_Eo8KAW54zQC6E-qSF5rfit_YeEXKsecNpxQ3a5eWv0o_VMfQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پشت‌پردهٔ ترخیص خودروهای لوکس از زبان دستیار همتی
 🔹
@@ -1122,11 +1207,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.49K · <a href="https://t.me/farsna/463702" target="_blank">📅 19:35 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.69K · <a href="https://t.me/farsna/463702" target="_blank">📅 19:35 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463701">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">مجلس خبرگان: هیچ راهی به‌جز مقاومت وجود ندارد
 🔹
 حفظ انسجام و اتحاد حول محور ولایت فقیه و رهنمودهای رهبر انقلاب، ضرورت امروز کشور است و مسئولان باید با تلاش بیشتر برای کاهش مشکلات معیشتی، حفظ ارزش پول ملی و آرامش بازار اقدام کنند.
@@ -1143,17 +1228,17 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.3K · <a href="https://t.me/farsna/463701" target="_blank">📅 19:30 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/farsna/463701" target="_blank">📅 19:30 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463700">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">استانداری هرمزگان خبر غیرحضوری‌شدن مدارس استان برای دو ماه آینده را تکذیب کرد.  @Farsna - Link</div>
-<div class="tg-footer">👁️ 9.78K · <a href="https://t.me/farsna/463700" target="_blank">📅 19:26 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/farsna/463700" target="_blank">📅 19:26 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463699">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">جریمۀ عبور غیرمجاز از هرمز: ۲۰ درصد ارزش بار کشتی متخلف
 🔹
 سخنگوی کمیسیون امنیت ملی مجلس: بر اساس مواد قانونی جدید تصویب شده در‌ رابطه با تنگۀ هرمز در کمیسیون، متخلفان در عبور از تنگۀ هرمز علاوه بر پرداخت جریمه‌ای معادل ۲۰ درصد از ارزش محموله، با توقیف موقت شناور تا زمان پرداخت جریمه نیز مواجه خواهند شد.
@@ -1164,11 +1249,11 @@ Link</div>
 🔹
 همچنین ستاد کل نیروهای مسلح هر سه ماه یک بار از طریق ستاد کل یا وزارت دفاع، گزارشی از وضعیت اجرای این قانون را به کمیسیون امنیت ملی و سیاست خارجی مجلس ارائه خواهد داد.
 @Farsna</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farsna/463699" target="_blank">📅 19:20 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/463699" target="_blank">📅 19:20 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463691">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/kF9TM6r13DtwR5gKfF9fz0nIBPCpKLCvHerI-Df_YcMfh3MBVaj6wPLQNmsf9DStyK5GdoUG6WGntZpQ7ifX_2iowzFCblGxjv0Mj0IS-ju1AN-AKSUED-9K1Pf0jp1yXE-NUYjUcG_ipdhAOOUY91iShmTnflK5GWRcEHg_JCOjMh4BOugYW8Dy52Gg5yw3EFjNddnQeGQt2DuW1cwWZvJWneTFI9L3B4T4wRRv6wnMarbblQEz2_tTObDMO6NZzXCNmucA7ikXp7vNSiBQOBxMGXGcFMksKDLeiV616gD6sXis-GfKQwI_2QumZYHaFSwiobPtJX8rGA75MecEYg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/YGz-Tu1GKQmN-D9KNehZfqysve2mCh5LWuSPKrKJ2CQet1gDQtsgruct7Mcm8uyVHCRIJLp3tdwP4R7KQoN3rYrvfZEh73F4kAJha5mfZEPCPxFI2bc-OamAdyEgxzRfbBKNfYLxyvFNggVn_BW0S4g7AbFJvJEPFnjgzL-Y2P0AvH2Cawg-XbEG-3p0yQlOaGP0W9j8EdfTReARg8UfvR1QlCT95yBw_0j80cRzFFZgxOCmooLzE_3O1mXPe_3HfKzOD151L4dWDUybiRf3RYSRyPaX8HslcUkBoxTHo27qEYI0WRmKYMNmVesNPplsOsvCEw7WCycjD4UJ13xq7Q.jpg" alt="photo" loading="lazy"/></div>
@@ -1185,11 +1270,11 @@ Link</div>
 عکس‌:
 رضا کمالی دهکردی
 @Farsna</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/463691" target="_blank">📅 19:05 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/463691" target="_blank">📅 19:05 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463690">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4313e9a0ff.mp4?token=AkQSD4YLrSPUFfaoEJU9-XDKMKltKE4Al-F1b8W9wNPqfn_X4QsfWqVtHHyqK4ZZ2GoUQeilupKE1Nguf3lyhOm1LaOUuA8LtmKf5ow3uKUcT7OOYeC5VmHZ7ISCWvv3Igc6RWHWWZTox0lcDgzEtjM_R10sqE1GL0j7GZhh9WWQSFnyqZUx-bRK9n1ZsskBHiAtWRQN9kMneLqZWkhhaYJKkldZeh2eh-D2aWGvUOHnKnyW5-30lvRqKaI74wFE55pUVtT2IZ5CggzJZ9j_hSbnTaL87J1FJZbj2-kPoGkT4sHg9YRNQYs8-q3bTyUXjyw_A8Kd7CsnEVumeaMDEA" type="video/mp4">
@@ -1203,11 +1288,11 @@ Link</div>
 دولت من همچنین به‌دنبال ایجاد تغییری اساسی در وضعیت کوباست. مارکو روبیو مسئول مذاکرات است. او مذاکرات عمیقی با کوبا دارد. باید ببینیم چه اتفاقی می‌افتد.
 🔹
 ما اجازه نخواهیم داد در…</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/farsna/463690" target="_blank">📅 18:53 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farsna/463690" target="_blank">📅 18:53 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463688">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/9b34d22f9d.mp4?token=eqvGTM1pMv7fq5MLF5OQBz6XHeJQI8UW0uRJEZfXN0C2Pn5tEYrftUa9ssKYyK86STE6MDQc_6na9i2d7Dr-xpFV3wZRK0mztziAjLYURs63iugavP7QAvtfY7YToOQtJVUFXcYtQo5r6g1uFWuT9hwwD4RxCLEmauG9Iy1ZkfsrhAAaqHtsyybpint8txNekM6T3QRKwr9xoyVIfm7Ng1n16xmUUN4MGZlN5a_FlBtPxq_yFP2Yo-eXQeprkKWyo4k0-NXmXiXj0swH857brqmkXxOF4nvZSgGWuZy1mu1qyZKqsfq-0TWACwW_uI4G4YA_N5B-R8fCsCjCE-GbzmHmhM9XBZeHGuYELq1ZMdwJhfS6V1D2E1dJEjWJ4rJ2TKK9WjGL1SRljBNKHhQIw-n7GY3s1EKykktoNDjSYSw--drRyowHsZ00pKqU0AKQDTBRC40wx-bTeMcN_ed7-a_TY4E5j5jLFHe53YOy9YS5DgpNwMaJD-90Xw49nMComlKzswvi3M2_puBrfOu_g7x0BwAJspNhskfsUcgYcaB4oQcmoBfd2c85GmiwPRm88p_2SFcIM-zHb3qBau27S3imjDD3ktLcj__3F3no5mVnCt7qVyWNI2dhNdPqlWNUc9sAQf58YTnYrG687HK-CT5nEok300zKnm3iBP7jEfI" type="video/mp4">
@@ -1219,11 +1304,11 @@ Link</div>
 ترامپ: ایرانی‌ها موشکی ساختند که قادر بود اروپا را هدف قرار دهد و به آن بسیار افتخار می‌کردند؛ امیدوارم اروپایی‌ها این موضوع را درک کنند.
 🔹
 هدف ایران این بود که در پشت این سپر موشک‌های بالستیک متعارف، ساخت بمب هسته‌ای خود را تکمیل کند. @Farsna</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/farsna/463688" target="_blank">📅 18:52 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farsna/463688" target="_blank">📅 18:52 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463687">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8079078330.mp4?token=sygITB35jHfZ_M1e5KKwAWU7pJEmRc2Xn1nwK32ffeiVxe6rqbXqW4PxLMx7c_1SGwl0fNVamLt4HVZWb6d6RuB_QaKwddeEQL_clA8MWgdWWZrzCNKF3AebCCVu0KC1OxbwaFSa3clh70FzHsjFhIM_gF_CebAbHxjfe0VUDs88BDmERcbSaKmigpvy_pMLeRnVOBia5A7pERhwy7oQrs9_6n0AHp8cIbktDhzUZBc2mDc-bqon-WXd3HRuYC72boPOSr26mGMaQ6z1Q_aWlpgsprIq7bnHtDsTGix0n6jBgX88hNdQBRTATdntjDaIpmR1U4E1PMOUe7m0LrHZLzHkGUyk8SayvrgCVmUe8e5sGFT6crBZquNiJ0oxYrClBCRSFdkH5UCufMkB6oby0oEy90Q52YnTS7DP_B1UXfijLHuGQBBOyZnJaDK9GD2yEuPjz9VC-wEX1mvBvCBKdydROrxjPWnXKlUyeu7fpMSuxQoecCkl3QI5ydNCfdU_Dai7IQ758kfGmPH8Xmichrsc0B2yFqfsRKRPiyiQ_H4TIyg4Dh7X0yAJ6lv-73QL8MWBra4JAcXmniHbENNMDZpr3lav2mFyeHgC1GV7J7UBlBrfxejnCnZ2V0PDws-BwEazbb4Km0tiTD7upyy48I-RGoiBYBsbM2jFhAUp-3c" type="video/mp4">
@@ -1236,11 +1321,11 @@ Link</div>
 آمریکا همچنین با نهاد خارج از کنترلی که «دیوان کیفری بین‌المللی» نام دارد، مخالف است.
 🔹
 ما هرگز اجازه نخواهیم داد نظامیان آمریکایی یا هیچ فرد دیگری از سوی یک دادگاه ضدآمریکایی که هیچ صلاحیتی در قبال ما ندارد،…</div>
-<div class="tg-footer">👁️ 9.69K · <a href="https://t.me/farsna/463687" target="_blank">📅 18:47 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.88K · <a href="https://t.me/farsna/463687" target="_blank">📅 18:47 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463685">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/55dde2e202.mp4?token=aWfr6mcuM0YeLTDtMt61kZ16t2Cm-OZ8kshrfHsBSdi_7yRFnii7f3NGRyldEKo9NeLGXF7Jmd8z4oso8MsCNxskdLqKOpSsgWjCdwmeAzxux_p3IWRmSkbWkXUp4tXa6U7rfZQXBrK0TZQM5vyi6BWR0oWpmEu2CijFW7FsnsRSjKs693RXaQJl-4kHQzOWRCNi6F9Phs3PKthlEdu-LdlKmmliJLcNTLPnMiNijEZWyZfEDidqcPvBpsQUbowEFqgRAmko34UfKETxNsFWqyU3_BBTONsD8N1NC_LyRDvwvk64OiZvjMuCcCJDTdLnNSpl4wGqudax3-VqMQYmGg" type="video/mp4">
@@ -1252,11 +1337,11 @@ Link</div>
 ترامپ: دیگر هرگز به هیچ‌یک از دشمنان آمریکا اجازه داده نخواهد شد بدون موافقت کتبی و صریح ما، در گرینلند حضور نظامی داشته باشند.
 🔹
 ۲ پایگاه نظامی بسیار بزرگ در گریلند احداث خواهیم کرد. @Farsna</div>
-<div class="tg-footer">👁️ 9.55K · <a href="https://t.me/farsna/463685" target="_blank">📅 18:42 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.7K · <a href="https://t.me/farsna/463685" target="_blank">📅 18:42 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463684">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/241fce7529.mp4?token=Tg7mj9FiKzhQAz7kkTeb7hNxhiAMc-s8rQZd5kW7PHIGMSmaxZMaYaIiN3jL3vgrPakgCrs_yycSD9c4byxJMicbJWzzv8y0-ufOrS3DwMNhxQpPHuh06kjRoEkrWOokv-wpUfONj9ka50ubkVKEwPacPlCjn8zK9G7adGAFQyN-Ndx5Eb6G3fB-dlOPX-SOH2F5KnM-KsHn9sJZUYZG6NMy6aAbC3NZhQtA5T_e7dvnm8hRx9eA4oHrzyLzWjiksCRI2HcJrIEDGECDhEQ399AIh7fNbv8NJYTMhHpt_nA7SFE-aX0BYxZI1l2zwSavysn3TUjJ9771KwlXsiV-Gw" type="video/mp4">
@@ -1270,11 +1355,11 @@ Link</div>
 دولت من همچنین به‌دنبال ایجاد تغییری اساسی در وضعیت کوباست. مارکو روبیو مسئول مذاکرات است. او مذاکرات عمیقی با کوبا دارد. باید ببینیم چه اتفاقی می‌افتد.
 🔹
 ما اجازه نخواهیم داد در…</div>
-<div class="tg-footer">👁️ 9.31K · <a href="https://t.me/farsna/463684" target="_blank">📅 18:40 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.42K · <a href="https://t.me/farsna/463684" target="_blank">📅 18:40 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463683">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/bd1b131b72.mp4?token=bnRHr-5jFbqdYEbobSrEhSDizH_zm29nhk2S-hpNa7NrqUzu0B-V46ocWaCoNV1xHfPXhYZwKOjPod8CzxuYNKwnogzhIwDYtXhVN2EJwmC5FMVZQCRFrfkPi6CpocFbc4yFRpVRHGyZEOwMvuMHavf8-1IZv3SdK6PlfUvelcuEssXzqEOwOji1KU7JeaESYzwTLnDyG9BsT-zM_XJ7aQ5asYxezPp1cSnY6aVwM-_0w94awT1flOnqrFNdiV6RV-V5zGyQjAoRNSG-YQ8Ccz-XcCBiBCElLMUqn8GbozMGC3SuUsXUxx7XltAP6TcH8PCD81qph0bnkgMvpIzrUV0bKSXse0hjukBT34ebk4rxLT1L6vG4oUUcJwotn_A-ZuFJ7bsPqfSChJ_JDikHYNguKgYdxGxruwyqiJcCk55THdQ85MX5IAonMPtKtGShXe8YEt8fZDlBbOYZRwuODeVy4fIpgIoyQL-mU_r_bIorEm2sGZB95Z-l7bP18prt9UU52TK_56CR6pwIo459GtnTfuD_22PTDd-hxkicR54_xy-mOsv45ZdDLPTHoZWPowk6BIRboabKroDCDzTa-VkIq78PkMYrbj9Ye5-qb4unH1qEF-PtUTFnWYrda2aE-3yZAOuWJBR1j4D9xjNPClHAI4wwho_RJ0-Ul-Rbhro" type="video/mp4">
@@ -1284,11 +1369,11 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 ترامپ: مکزیک باید کنترل خاک خود را از دست دشمنان بشریت پس بگیرد؛ قابل‌قبول نیست که آمریکا مرزی ۲ هزار مایلی با سرزمینی داشته باشد که تحت کنترل کارتل‌های دشمن باشد.  @Farsna</div>
-<div class="tg-footer">👁️ 9.25K · <a href="https://t.me/farsna/463683" target="_blank">📅 18:38 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.38K · <a href="https://t.me/farsna/463683" target="_blank">📅 18:38 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463682">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/31e6fdec04.mp4?token=MY-4ItVFX21pK9aaOIO7qNtC5Q5RRRGQasu5c5Kx28Ifmn4imN4gqwL2xctsZzsasMpjsb1uM0Jn4ughKUL-UoVZ8yg6rMwZUZBQaedxYlCR9Qc9KuD2oawDbFdTJ2Y60fT8us6_7Qac3c_vUApnK9nTH8E0yVhRa36QtwMpMxwRGNIQUHY58v4UehuhS9AQ0mhtBpxkrxXemBuaMIvSMAwoaWs7HDA2_qTwhhNPYPnmEUdEm6N1HUGqaI13CElN2yXscLPLkbb3nq7BWs8KrLLoh6VCxipMYlCXic0XTwkqnUM9YgMwQq_H3sf7M8FA_cIKOuWkPPsT9e-Kww74kw" type="video/mp4">
@@ -1302,11 +1387,11 @@ Link</div>
 جنگ بود، اما شاید بزرگ‌ترین توافقی باشد که تاکنون انجام شده است؛ «غنایم از آنِ پیروز است.» همه شما این جمله را شنیده‌اید.
 🔹
 اقدامات ما در ونزوئلا نشان می‌دهد…</div>
-<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/farsna/463682" target="_blank">📅 18:36 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.25K · <a href="https://t.me/farsna/463682" target="_blank">📅 18:36 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463680">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4c088ad7e9.mp4?token=I7EF_xawBGhWViAbJHkh6rMOPs55stYzGj0jZvkxsvkehSjVx1zjJlEpgSGjiPHhkoFETtuCRZUOig6SnaMRaJuQuO7CvTCnvbwbA-tf-wsCVly0F3I_vf9z-F__rN_JVhravewdheuV6nfXpXAnoERTEBfiEBIKsx98_p5-aM8AfkV7MEnBVa6jXueUDeblHGqirsmraivrJxXtVNH7jVM-I_BTaPdogD6kr5W9aZ0ZLXUltfUOXkNqnEehvuu5m1VEkHZL6r6fLODdp5Ar24ZSvaSrK7NRggrayz9uBM9gR8TvFkVC3ABAUbua4Vt37z-g3CSXnNo0hFBD4d639A" type="video/mp4">
@@ -1316,11 +1401,11 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 ترامپ: بزدل‌ها و خائن‌ها دوست دارند بگویند آمریکا با کمبود مهمات مواجه است، اما این‌طور نیست.  @Farsna</div>
-<div class="tg-footer">👁️ 9.98K · <a href="https://t.me/farsna/463680" target="_blank">📅 18:34 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farsna/463680" target="_blank">📅 18:34 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463679">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/fecabc4311.mp4?token=aru-fzsW-UZABMoH0P8IFhPJeclA_PSj3VDrjkSmwfdso8cLewsCRgmWH1zTMPD_-_X78ZWADTjFnQFqz_KDmrv41k5liz-t7zD7JcWzJuPaSLtuQ0BmAEPjh06AFIlmK4CQwq6RwlQ3FMz7FLBQ8X8xcb2Ih3a67cFK9TGOhowIcsBdGS0YOmAKh96aspP2-3bAwyh5Ga8Nr-nMgXE0NWOntBcEe1PRPEvrT0gmlaX1nRGd24p9v6SW-pul54bFWQPy-IBb5SOAJqZARmPCd8vcEhfhLw9PrdrtbIMGi7CDs07Bec4WxEmgj_9rDYo6-w7tIEIvwyaPjtyWYt0vfqPzjYIImiLIlit-8nzVYEs1oaQG2PVU-2nRrZOQaJNDD2hcAwiXpf2-ysOuoAIiwdC4JLjWWW2u7kCrOUWeXMoT8m2-0GW2yEw8Ihl0VMO8rgVuKU5NTxvf4bM9ZDmjo8aPwGvzllX_vru7YuNReQxbJ45y51Fyhp4Ioynn2vQn3V6GZ7uxmkCNcO2lFq7UrvLyNLL3j58_eyP2GgcoGJHNuCkQjVD8OlhKpuh27Ue3TnZEHFoptrhjncZJ5HFz2mrLrd6MyB9J_6n3roJlfjJZMJRpLwmXXK1Mp2Xweb3ivJiz8Aiy1BUFIqAU3QgaDzIxIGkZ-23iNYMsQkF5a48" type="video/mp4">
@@ -1332,11 +1417,11 @@ Link</div>
 ترامپ: ایرانی‌ها موشکی ساختند که قادر بود اروپا را هدف قرار دهد و به آن بسیار افتخار می‌کردند؛ امیدوارم اروپایی‌ها این موضوع را درک کنند.
 🔹
 هدف ایران این بود که در پشت این سپر موشک‌های بالستیک متعارف، ساخت بمب هسته‌ای خود را تکمیل کند. @Farsna</div>
-<div class="tg-footer">👁️ 9.85K · <a href="https://t.me/farsna/463679" target="_blank">📅 18:22 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.97K · <a href="https://t.me/farsna/463679" target="_blank">📅 18:22 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463678">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/9fb9cc48d1.mp4?token=AmrTPedpzzZpljSd-RLD_1l8rcwspKVDiPhLolYljDQWwvNH2IUUVdUwNK_2NqXbAW1fcHasayK-IhbpbXM120GZmdWjdo3sArxRO--2s6Z9wMWg-1PVAr0DA2fs-rm0XEY2EXldXeT6aWAIoLKZbmO0F0qjstFlj8qAs3t1jj_a9XAOJ6e4RmRQB36DpVcrjpMWQC5GhmgTXVitSnWBVH1YT8cKK4dJwQLzuStUeSK0m_tXyobaZ4cfWUrmX2H_2hqhXpruNwLKPe3hJKM2pKEbkpOMOYDdBG4UYPMkqenSfWlTTo-CrayhhKQxDl-okwpiZMAm8fCag_YmlZsftw" type="video/mp4">
@@ -1347,80 +1432,80 @@ Link</div>
 <div class="tg-text">ترامپ:  ایرانی‌ها قلدرِ خاورمیانه بودند، اما دیگر قلدر نیستند
 🔹
 از همان روز نخستِ ورودم به عرصۀ سیاست، موضعی تزلزل‌ناپذیر داشته‌ام: هرگز اجازه نخواهم داد ایران به سلاح هسته‌ای دست یابد. @Farsna</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/463678" target="_blank">📅 18:20 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farsna/463678" target="_blank">📅 18:20 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463677">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">ترامپ:  ایرانی‌ها قلدرِ خاورمیانه بودند، اما دیگر قلدر نیستند
 🔹
 از همان روز نخستِ ورودم به عرصۀ سیاست، موضعی تزلزل‌ناپذیر داشته‌ام: هرگز اجازه نخواهم داد ایران به سلاح هسته‌ای دست یابد.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/farsna/463677" target="_blank">📅 18:18 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.86K · <a href="https://t.me/farsna/463677" target="_blank">📅 18:18 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463676">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NniDftPetY89TlqN7nmGwiJfNcJNDKhJqDoFlKHEFReJ7NdqZfK9q9sNoNME6bX6WMeSRn_2eTvZOdQvtzo4OQvpMwTbODuoyN0o_XAvihSpAfIOslxjqTS6XYHuc_qpaMflpTN5F5Ws6L5MQjvQTXNLdfLnaCphlm5OUu2LpVOVqTTFQPjy5addxIscSUNVqwFfDnIp5EyZpgZEiDaR0_v1ubAvADd8ocd4bhUp2RyfTKmVwUi3kwxmv1LW_3Odpe1472vCXl68HcS5-edIOBcrJdBXWdLoAgc6zo-jXDqcUHxdSq_yPQJ-6qKgRN6tISxYaM87bEkBiCa1dJpI_g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‌ رهبر انقلاب: معلمان شایستۀ آن هستند که در مجامع و زمان‌های مختلف مورد تکریم همگان باشند
 🔹
 ما همه وامدار معلّمان خود در هر مقطعی از دورة‌ تحصیلی هستیم. این قشر عزیز و محبوب که اغلب با خالص‌ترین عواطف شاگردان‌شان مواجه می‌شوند، شایسته آن هستند که در مجامع…</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/463676" target="_blank">📅 18:07 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/463676" target="_blank">📅 18:07 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463675">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">رهبر انقلاب: در آستانه سال تحصیلی جدید یاد دانش‌آموزان شهیدمان را گرامی می‌داریم
 🔹
 اینک که دروازۀ سال تحصیلی تازه‌ای بر روی خیل عظیم دانش‌آموزان و دانشجویان گشوده می‌شود و راه‌نَوَردان علم و حکمت با امید به توفیق الهی دوره‌ای جدید از کسب دانش و معرفت و مهارت…</div>
-<div class="tg-footer">👁️ 9.2K · <a href="https://t.me/farsna/463675" target="_blank">📅 18:05 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.31K · <a href="https://t.me/farsna/463675" target="_blank">📅 18:05 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463674">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Is33ZmhpuX8sQVAyeacWUYjMp_ad1L3kDiCTc9XIzHENUwGppQwSmMILOELyF-D08IyUGcEe3KssP4VwcsV2PHN4Jlc8lI5ZB13UZjgb3It0VYRgOdLhLnOL0Hr-OO3-B2Tj839YunwclSwouOK9stMcbr3TOMrQh7QIh2m7JyULzOi1Sk2Vjpo5hn-94pqs4ueLFae4UdODH_lkyeHRYb3kR2Fk1R9AVAWXKBlD9QlNgItf8DJj3fZjcMGjMUmegekcfw32QZnXUOlRrzghLUenodCcp2HWMX6y1Eyke-f7sdNFDIh9LE18NnaRdbcN-2Zc2aQUPkSUUexKNv_lHQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‌ رهبر انقلاب: آغاز سال تحصیلی نویدبخش حرکت به‌سوی آینده‌ای شکوهمند است
 🔹
 طلیعۀ سال نو تحصیلی و بازگشایی خانه‌های علم و ادب در مدرسه و دانشگاه‌، نویدبخش نشاط، امید، و حرکت پرشتاب ملّت به‌سوی آینده‌ای روشن و شکوهمند می‌باشد.
 🔹
 آینده‌ای که تحقّق آن در دستان…</div>
-<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/farsna/463674" target="_blank">📅 18:04 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.99K · <a href="https://t.me/farsna/463674" target="_blank">📅 18:04 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463673">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">رهبر انقلاب خطاب به دانش‌آموزان و دانشجویان: مرزهای دانش را بشکنید و قلّه‌های پیشرفت را فتح کنید
 🔹
 مسئولیّت امروز دانش‌آموزان و دانشجویان، سعی در مجهّز شدن به علم و تقوا، امید و اخلاق، و دانایی و توانایی و زدودن پرده‌های جهل و تاریکی است تا آنگاه که با شکستن…</div>
-<div class="tg-footer">👁️ 8.06K · <a href="https://t.me/farsna/463673" target="_blank">📅 18:03 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.16K · <a href="https://t.me/farsna/463673" target="_blank">📅 18:03 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463672">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FsHVJQaGjZACPftDlGvCDxBUZtNcVwvy-srDnd2QJMzmWOfPDoct-6-OagLXK2w6WAFKc9rlA90Zm5Pi4RrNdJS8tlE-4ck4sxMp6kEqGnHZZs5q6zSZJX1FeNh5tL5YAlHca_BRXjgWN0hkORKkPTsoMPj6WeKG6uOIM3JEWo1tTohq0BjmWMHy8kCRGa-LhVLbA6zPXHQpJu-u5koY3MuD8O3m5zlt93wo1lus50k2ATbHEkBbdDm7U-UEbf62TdY4GR_OsvQuwX0bbLGDVohIFcyOgnsTsULnaeek930OHf0jI4tPQB4uEnzko_Fd7OWEQfD3EnUMmNLEVUnWjQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‌ رهبر انقلاب: قدرت برآمده از دانش همراه با تقوا؛ سپری در برابر توحش نظام سلطه است
 🔹
 اکنون در روزگاری که توحّش نظام سلطه خصوصاً دولت جنایتکار امریکا و نظام جعلی صهیونی بیداد می‌کند، قدرت برآمده از دانش همراه با تقوا و اخلاق، چونان سپری پولادین و شمشیری بُرّان…</div>
-<div class="tg-footer">👁️ 8.24K · <a href="https://t.me/farsna/463672" target="_blank">📅 18:02 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.35K · <a href="https://t.me/farsna/463672" target="_blank">📅 18:02 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463671">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">‌ رهبر انقلاب: فتح قلّه‌های پیشرفت، مأموریت تاریخیِ دانش‌آموزان و دانشجویان است
 🔹
 مسئولیّت امروز دانش‌آموزان و دانشجویان، سعی در مجهّز شدن به علم و تقوا، امید و اخلاق، و دانایی و توانایی و زدودن پرده‌های جهل و تاریکی است تا آنگاه که با شکستن مرزهای دانش و…</div>
-<div class="tg-footer">👁️ 7.91K · <a href="https://t.me/farsna/463671" target="_blank">📅 18:01 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.05K · <a href="https://t.me/farsna/463671" target="_blank">📅 18:01 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463670">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">🔴
 تا ساعتی دیگر پیام رهبر معظم انقلاب به‌مناسبت بازگشایی مدارس و دانشگاه‌ها‌ منتشر خواهد شد.  @Farsna</div>
-<div class="tg-footer">👁️ 8.51K · <a href="https://t.me/farsna/463670" target="_blank">📅 18:00 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.63K · <a href="https://t.me/farsna/463670" target="_blank">📅 18:00 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463669">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iVuLo5IKfl3-bBwHguIKJoWWbLhc9JvJmED1Zn2_wqGOydv9JaQj4LaJXPVCrETTVtafY8dKjLEM2l3Fcqv2oYoTR1EQozo-jxe1hACza8X4OFfID-I1IdyNREug_loqTo-3nWXtHC4tCFKZa3IGmx4oPr-P9zk49DMlYAu8qIUCJgSn-isQDQMF567VEwkhqNMjnqVOR-GYqo3eLSUhnZw8NHAFs5vv0xyY_oHuj-4E8cLIVCLx1rxpKlyu9wExNvA1qLpf5nqK-cAqlrv-bJ6xFRNI-zsTUQU_ZjzgzxF_8b2rhgJJ9ALSalBEzheDjvkY35uPQ7scOQY_SunZRQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گزارش‌ها از سقوط جنگندۀ آمریکایی در آلمان
 🔹
@@ -1428,11 +1513,11 @@ Link</div>
 🔹
 شاهدان عینی می‌گویند که یک جت را در حال کاهش سریع ارتفاع دیده‌اند و سپس ستون بزرگی از دود سیاه در نزدیکی باند فرودگاه مشاهده شده است.
 @Farsna</div>
-<div class="tg-footer">👁️ 8.66K · <a href="https://t.me/farsna/463669" target="_blank">📅 17:55 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.77K · <a href="https://t.me/farsna/463669" target="_blank">📅 17:55 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463668">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس من</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VckHnc6hfOPzCMwODLvkrbxlvIUB7-R1VVblDB9JcfiYVdOJyry7JogImUs8l-SOqI_eESBBazebwhqeLt4XNDsCHHCFghM6QZisy8FWo2qjr9pq4Ml3q_kxqWXumUfq2BfpVQ-SqUbAY2YQJL_MVRrLxgInfEEBPzQgjaK3gTvFZRCktSHmeM82fa7GNCF5JG_CLLrLVnwF_rPyRGfMxCxBCLsELpzC0oYBAxrrPoaDywRJy_bpVu5bJ4QBsYetQPUD2mSNRSH2Oz013JECWYVuSmR__uXBb-FIeWhK5JAWnHfFW8lorkzMhKQNNNMxanDUMevCBEeuKKNCSWmOow.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بنزین خودروهای فرسوده با یک شرط قطع نمی‌شود
@@ -1453,20 +1538,20 @@ Link</div>
 @Farsnews_My
 -
 Link</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farsna/463668" target="_blank">📅 17:42 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/463668" target="_blank">📅 17:42 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463666">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kvX4iG_SaICQvNighR928-Pptn3dR6RWYxTmFv73Bdy9vW3Gemib17McVEWCcFVnJAZYC-I_JJsnzMZ5_6hczJekOhVpv1-wMlcv3gXqXKUMYk7ncq94_Bx5CA1MwsvC33bHBolqcT9_C4n2DM5wfBENcD7uUHWDsddtAxywai15EJYbTxdM1-qG-IeIfVOiAHWPrYD29Sd96e7glQtWhGzOdayOzKDaamMZKye5Fu1HWvOBZYEo-aK8-4SsHaRPQ-hTp5B4ujl6vvXseDsdZF0637b4fyB4BwModD3I6efUCajKApGK99hUIIb4Hil8Ev2RjKKptsFDL4UysXbghg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 تا ساعتی دیگر پیام رهبر معظم انقلاب به‌مناسبت بازگشایی مدارس و دانشگاه‌ها‌ منتشر خواهد شد.
 @Farsna</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/farsna/463666" target="_blank">📅 17:11 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/farsna/463666" target="_blank">📅 17:11 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463665">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8ff2847b8e.mp4?token=PVq1CUKc0YGoMRD6MOhRu7o2Pf5RlNVqraOhJicJl8blRfP7PncWEDeJYYyygOHpXY9f00iFSp19uuzhXUq4XEYmdXQc4PTib2R5hxFJryHah1vLhndOVALRhGOkfK5kheClEwCv1jneuN7Qk3wTWLxyJkDgj96cB19TYEMdj-OBdjIOUEWd47MaRpKOkwHcYofW-wDrHOTzOIw4-42n3gj1d_SVcQSkwlDAclx447pXWjlv74onhOrqasHrFh24j5vrSVBcOmk6x4ezfzM1DsvMYrIlVSYq28CzCD9KzGkx2tppBojhPwB1D4D-idYHVcjXooj4t_TET6ilidKOTQ" type="video/mp4">
@@ -1476,22 +1561,22 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 عراقچی با وزیر خارجهٔ ایتالیا دیدار کرد  @Farsna</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/farsna/463665" target="_blank">📅 17:11 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/463665" target="_blank">📅 17:11 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463664">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/p_ceDN_tv11bLRY5Vsvc5O8PS59_MSGC1COqH_J0PsyX1hl_cS196Q5ztLUpfCAzWKuy28XnJ5ileJjhqHvGMCxbK8NhZ6ICxgsGoF_0Xgmrhi4hsHPTZNuKZ2uoS8dB--jwSuB-V9iu0DSTq31Pa0iW0kAyfQZMfHVLBDXsr9HX6pPapdetPo7NbbftE8SWsxQGmcbi6sOlzXYGDI8mGh72hkhoCihkv_XRU0dZFpAweOrImKDTiSUOK1GuusDzLdrAFjxSWEaYraQzFnTw_Xodq08JYmgK7Vbv6E5IxhdB9WSVyvLdNXnddrCVoR9eWuffzPFqc84dkZLG7DRBrQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شایعهٔ مذاکرات، نفت را پایین کشید
 🔹
 انتشار همزمان اخبار مثبت درباره مذاکرات ایران و آمریکا و احتمال بازگشایی تنگهٔ هرمز، بار دیگر بازار نفت را تحت تأثیر قرار داد و قیمت‌ها را کاهش داد.
 🔹
 در تازه‌ترین مورد، کیودو و رویترز به‌نقل از منابع ایرانی مدعی شدند تهران…</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/farsna/463664" target="_blank">📅 17:03 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/farsna/463664" target="_blank">📅 17:03 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463663">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/3e713acdda.mp4?token=ZYzIDP6bijko3EMO4qiE0HRzazTHoxoBGwRfY6EmDNAr9QL_DjnquBRIbfYKpcwRFmO7ZJllddT6IDR4aSeY50IsMC9DSv4jV-kbi4zKL4o0hYC4LLAhkRLRWBhCYoxft52xD9whQXCqjgIowX2we2KlZ7XBrrWJaOrFtKO2WKymWP7opR5w4RUJ-5-Z3v_oLXotXWE41_83_SI55STTRq3u5-bzRMvkxuVBq5tuCJBriS4aOpRJFA_IC3sO1WoreLGWflYhjDJB6_t-jj1xCHd1kP1hJta5Gj524orxS5f6SRoAamUQTcQl86KYKyKWW2APeAhnQAQ4wSm1QkkwPxK22aox1XrY8EajaKm6GHHyQFAYFxymj9IQISxmBo1erlmXiPj7qKt3Eo-GSa3CmsWiSx-bWRhCQjACn4OkpiOoXVEpyRNSsv2CFJFBGkK2yr5cfXQ5CehlVB2AiEwmqO7MKmCM4e_mft0a9YsWQLZk7CAAi-6RGtS7N7C14TuCEHhOcHmyPEl2cTX1xWnPibjN4jJdjXA76ZG-aH2uuA0Tyls__mMbQMGaMOCdSQY2aHkiy7SQAdd42WxnuURzE4WmA_bamNgROlVwbah4sZBsNqpe_jq9IVznCH7jG9XygAFRd5uB4gnFpM7gQLmXVvniKeYsJWp6n23cwUrRQIc" type="video/mp4">
@@ -1501,21 +1586,21 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 تصاویری از تلفات سعودی در حملۀ نیروهای مسلح یمن به تجهیزات و ماشین‌آلات نظامی مزدوران در استان الجوف  @Farsna</div>
-<div class="tg-footer">👁️ 8.93K · <a href="https://t.me/farsna/463663" target="_blank">📅 16:54 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.04K · <a href="https://t.me/farsna/463663" target="_blank">📅 16:54 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463662">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">‌ چراغ سبز سعودی‌ها به افزایش سهمیۀ حج ایران
 🔹
 معاون سازمان حج‌وزیارت: برای افزایش سهمیۀ حجاج ایرانی در سال ۱۴۰۶ با سعودی‌ها مذاکره کرده‌ایم که چراغ سبز نشان دادند.
 🔸
 ایران در حج گذشته سهمیه ۸۵ هزار نفری داشت، اما به‌دلیل جنگ رمضان و مشکلات انتقال ارز، حدود…</div>
-<div class="tg-footer">👁️ 9.62K · <a href="https://t.me/farsna/463662" target="_blank">📅 16:50 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/farsna/463662" target="_blank">📅 16:50 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463661">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/bca659922b.mp4?token=MkKe1fBqa-zsD6ZaaTksC831BI5Tq5i_AsSPjc8WP3FIPrAoQGkGna4S5ILlMFx2BakzRaeLLNDvTLiLIYPcyDpO3aBlyz2l_Q2ReHABGAuSFvRKGrtnt_StxU7F0vp3sLeVo0j2m3TVU6_cAybexjQb-XGI4wnWWD7q1PpuPT0ufU6Qz09eQmObawvwugs27lh8O_bgyknp6DjGGKotlDjxWKIhajL7-lc_FVdCHVzxWEptjrVr60JiKKtgowFil4zP7xu7YBf1FRiSYaGvAGY6QieXcNC8B0sG3MtmzpiAEhOJ_jp70j0vDE7lz9VVV61rwhAl_IVxcuFeyG9Ljg" type="video/mp4">
@@ -1525,11 +1610,11 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 عراقچی در حاشیهٔ نشست مجمع عمومی سازمان ملل با وزیر خارجهٔ سوئیس دیدار کرد.  @Farsna</div>
-<div class="tg-footer">👁️ 9.15K · <a href="https://t.me/farsna/463661" target="_blank">📅 16:46 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.26K · <a href="https://t.me/farsna/463661" target="_blank">📅 16:46 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463660">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/2aee677ae2.mp4?token=DYY0KHSXdkuLFRbi_M8EZKHr8CZ7xMA_C7SEEM796Bgmzbq-nqoqVUrW618SeX7i_uvHfIWYGPp6fvLnAPEFi8gW9cA-wyWlNIorc6GJiGKGuZ6x62IvsC2lNZAaxK3buFS0V3HQ9Sr2LPqsZLDE-F4gO4LNP_bJpkBLMkLYc6hnJkSROXDYXJkosrl2bDoRnACif4-0KfjFXyeapQtA_gPTRidyS21NpGsmPQMWd4kpLJA94Px1ccUUQh8u_1Z48usY2Vi3FqvUQBhStYm7UsoZ-wlR2rG4midb4aXqhu4Dkh30cG0KivOYNBan_1Qjm3XFhDt_Cet1yzncwKcyAw" type="video/mp4">
@@ -1542,11 +1627,11 @@ Link</div>
 🔹
 مردم توصیه‌های بهداشتی را رعایت کنند.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.28K · <a href="https://t.me/farsna/463660" target="_blank">📅 16:36 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.39K · <a href="https://t.me/farsna/463660" target="_blank">📅 16:36 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463653">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/lfsfZLck0Rq0AoVdEQIbOkZXJGDfLNVj-y4Lsm9ry3BUfQRn_Ck5JhryXQieFabrcsTtq_PKP9pqoXpCpZFZNJHsyqUiQ8PKgXqro8DVNYzpLY1zqt2lNgFmSRj4lwMIRxXTHth7i3Que2MLhsdtBoqR2b7DWgvyUf0WhgF-3AENEtREPnrOpscIa3u4qr8JcKt-xpn8YkcJtGAH_6zaRDaHgmKIRo2Ax8uSWFQF2S8VuchQKy13pfJH3a6foECelxQkd4-kHXFgxx932iyX59EmSLl8U6n_JkpcC5KEj70wvWDZCqSM7LFT4on8Vh6IaDpMEstAwkEJIvUeetSPew.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/RBTPSNA6EKGhZoI8zLboWZS9XPMUYLz2fGXMgbHc-t0mrcOgUAhy6So24iM9qGEpTeZLewf2NJ-arWkqvucGRDwk6rFG-BQtFAuLz7HD_b_UfB837wau8TVrSePXUBbOJGN0YiKErpFngYzBTQJa92b7zAS53JProPwHi_ThObimlX-_Xm56FaFYhU2_b81MfAULM-vwETIFCukYzekyWrIeeXRax0tcC24-5aGTCZiOC2ksXp9q1lsgb7x6yXgYZoA1uAvxYxVhDDXnslaLyzNiBODF5IvGaFgI8BYKxoj1wC904yuWuCf3b-ul7WhFu_tI1_LiL8EoFjvMuZdKJg.jpg" alt="photo" loading="lazy"/></div>
@@ -1558,11 +1643,11 @@ Link</div>
 </div>
 <div class="tg-text">📷
 قاب‌هایی از حضور رهبر شهید انقلاب در جبهۀ حق علیه باطل در دوران ۸ سال دفاع مقدس</div>
-<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/farsna/463653" target="_blank">📅 16:31 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.62K · <a href="https://t.me/farsna/463653" target="_blank">📅 16:31 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463652">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/fc565ba1d2.mp4?token=Ina6uGWP5_iSwsMtfn7GXqhJygiHE-20jz5hcRRacH6NuM8av7pCVx2kj51cruejEbtK07tFJ5TOTSkuGvxg3yA2YH8ZFCrBJvYe42cWzwJkaB5nmb0mCug-hOklwI3FFBoEyVjsEFWq799v7gCkZsjvEqqpYDg-xkanD8nbyHxb1phu3gCIxtH20_irQEGNeqrJnzeE8rwwwyLE1o2X1sO5Nlv9w6oID9dpjApTqIozaWGcZ28_1Tc2XzvWrhYcduNdqUgcXtDOp56QiPQCcUCae4k9wIPMnHc9gmfw7H6xx70wYOu8xQzsG-BRVWOUzST0T088tb8N6RQL_Pff9Yi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" type="video/mp4">
@@ -1572,11 +1657,11 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 چند دقیقه‌ با قهرمانان سرآشپز  @Farsna - Link</div>
-<div class="tg-footer">👁️ 8.65K · <a href="https://t.me/farsna/463652" target="_blank">📅 16:23 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.77K · <a href="https://t.me/farsna/463652" target="_blank">📅 16:23 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463651">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/f3d78d3aaa.mp4?token=J-CKByoKk_RXCmiz2BzfR3kUCU0B32M1WSp5REizHW0AJcZYsDK_LB8wpLt8NfU7PEMe1mg7KudDuFQPMi_rYz_VNg-ZokGmT3_GRv3xXmy0l9AB7yIV5gIFJYYBJN--aODiEuyx_LdiLKH9Qbrpz9jjJVTVGooQhXMnj24OqdoZM_NhHpLj4YAvnqOHQhXof5BoKqgj54cvOGMTfnSsjLISjhntOnDXI-k-pB3QnidfIlXJSJC2m8WXKxoBPB1sNdcXNNeErMDVD2V1FbCPxlAq-8xhIxHZ2ozkzni1d-Sk_TinWYhZET_T9tmSCrXB-w7EQhVhDWrPqdb0Ny5MMA" type="video/mp4">
@@ -1586,11 +1671,11 @@ Link</div>
 </div>
 <div class="tg-text">📷
 پزشکیان در سفر به نیویورک، در توقفی کوتاه با وزیر کشور الجزایر دیدار کرد.  @Farsna</div>
-<div class="tg-footer">👁️ 9.01K · <a href="https://t.me/farsna/463651" target="_blank">📅 16:19 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/farsna/463651" target="_blank">📅 16:19 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463650">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fYvgAPYfSjMEeZOcHt4Snx0Wn2cvmPlhSRchnNS5uGPoNheMFGFafh4xIUl_W5wDG_tJb9lQispOpjBgLO069hYvHoGU1hsOBM0Q8Djx2bfSANwPKwITWPQjhaM-G_Ns0xfLsRnDEz95h9BbUvI8PXQN5_prcd-NueJSSoRY9he1X5eZ-XpNLCrrGQhX9u-oxAbCgfVmHgBwZT3XhlGlQ2dYtBkMX2r9Sf4bYF8Y_i3MMEyzmuWsMOA3yUdDpNghNaZOLDEsTGvUmfu2iTrDTCacpmhU3LXoexivI2__uVHZCh-OuRfkKExGvCd-VqmpCy00Gr_XlQaJV6gWwRFV2A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هوای تهران فعلا پایدار است؛ باران هفتۀ آینده می‌آید
 🔹
@@ -1599,11 +1684,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.62K · <a href="https://t.me/farsna/463650" target="_blank">📅 16:15 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.68K · <a href="https://t.me/farsna/463650" target="_blank">📅 16:15 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463649">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/3b25661b35.mp4?token=HyH5LWjl7xIg2Nk1rOGmG6zHxQgTsS7MU5BIWzkFRfEPxy9GpiJY6-haHuw-UvEZ-NspNniM7zEZASiZPKaapXXvkVSUh5oiXoJElwFowtA4FvTO3oWu2_XfSPBkTJMYbkc4Vjqstx1GFEGQ1MpTJT038exU9bua1NBpzTivgyxr_B9-Hs8CPDZnAH845l1Bvzj0MsEOaCTCw5JpnKZs2M6pszGWQ2FNLxyPpxNWGNjFypjqsJ1QMYolbSHGLgTADEEjPHl-DSCFJuP63OpC61eFqhX9FkmnLlBkvo4CqyISjiPatE7TNMG7CoJsIP89pRSWNafQeloTpcwb7JtyN0_fIO_pruocouO2Q8sLSAd37fkEXM3hVXevddNOpniDtTiL9Ingp7oar8JpXV-AcgTvdsaqfkDWInCdYkcLp70wrDs5lIV5Y3m6kZY1sJK2pdHbVDdZsO46N_TqKqnozFcPPFAII__YJxUBnShSQuHNtGc1uPDNWDeTxRJS-CWJ1eDNu7_j8ulwcfQM6zOma25JrCrNM4SmXILQcgsjS-JBb9WcfGB5450OIaaZMt41TiIZ80kkukZkHxu3OyT2NqPDnXnIBll3Vdhm96Qeq2ZbOz1EBePV9lv5s4Du05WxbS0Al7qzCsaZbLlhWLh7T6dk65grsKC4kLOIROMjutw" type="video/mp4">
@@ -1616,11 +1701,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.33K · <a href="https://t.me/farsna/463649" target="_blank">📅 16:09 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.38K · <a href="https://t.me/farsna/463649" target="_blank">📅 16:09 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463648">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dhKUYbJviSaFak2vEzYAF33QLEMA-gouZt28zwEy3pw4STCpu5uhaTz0gOD10bqV6Svvoh9XvQCb3MEHfvwGPv43sOUw8lXJY5oqTlJ33fqbtSg0VgnX_kzpqIOML4teeUhKFr0lcl8j06dIOirwQt2uKt6eIMvK_ns7jZm4Co4IAU30eV7v_sXqfRPPKi5Dp5jFQaD83rru2zoLyKgKOIoj8I2alTyKgiZlCtF0ymUTdt6M1WsQgiLfSnhGTKfvUDFjFxMkvEKujsuffwvroUEpSdFUU8FZafJ5wEcus09vhQZ913vg35B0AuR8HgB0Aq8Jkdcwit53hV6oJrHVAA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ساعات کاری جدید فعالیت سامانهٔ چکاوک اعلام شد
 🔹
@@ -1628,122 +1713,18 @@ Link</div>
 🔹
 همچنین برای چک‌های رمزدار و تضمین‌شده، ساعت پایان واگذاری ۱۱:۳۰ و ساعت پایان تعیین وضعیت ۱۲:۳۰ در نظر گرفته شده است.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.22K · <a href="https://t.me/farsna/463648" target="_blank">📅 16:03 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.31K · <a href="https://t.me/farsna/463648" target="_blank">📅 16:03 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-463647">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">دریای مازندران تعطیل شد
 🔹
 هواشناسی مازندران: فعالیت‌های دریایی در خزر به‌دلیل وزش بادهای شدید و افزایش ارتفاع امواج، برای امروز تعطیل است.
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.27K · <a href="https://t.me/farsna/463647" target="_blank">📅 16:01 · 31 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-463646">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/4aecabb426.mp4?token=TSQS5eM7q13POttOkl8XP3JeYyrdHCRHJNk34AwYQOVynoqLmj8C8WfXVeDTcFTQM6DtMOwSN5jWPoVhXXCdnsVtYi6qWA0I3RQQkfz4P2n3ZcEjrWNAyC1TTM7rVj6WebZ4B1encn4sfIx4XYYWjYPhDJUKlumnEwflOshU3t-U8ywXHcjq_czkwudfvNGiWJilEKP2KRpFImfpHekxa8U7GLFsH0yvua4e2I3ueE9wcDnOnNq5vRFWiYQKHeq6d5P0kkdXtnnB7W5qLhyz9bHGA5pZ2L6K1G2TcrIp1HBrfU_EthcHuuuZvjr2HZ5De6tRr01wKDCbcqDjX88aJQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/4aecabb426.mp4?token=TSQS5eM7q13POttOkl8XP3JeYyrdHCRHJNk34AwYQOVynoqLmj8C8WfXVeDTcFTQM6DtMOwSN5jWPoVhXXCdnsVtYi6qWA0I3RQQkfz4P2n3ZcEjrWNAyC1TTM7rVj6WebZ4B1encn4sfIx4XYYWjYPhDJUKlumnEwflOshU3t-U8ywXHcjq_czkwudfvNGiWJilEKP2KRpFImfpHekxa8U7GLFsH0yvua4e2I3ueE9wcDnOnNq5vRFWiYQKHeq6d5P0kkdXtnnB7W5qLhyz9bHGA5pZ2L6K1G2TcrIp1HBrfU_EthcHuuuZvjr2HZ5De6tRr01wKDCbcqDjX88aJQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">عراقچی: در تریبون سازمان ملل مواضع بر حق ایران را بیان می‌کنیم
-🔹
-وزیر امور خارجه در بدو ورود به نیویورک در تشریح اهداف سفرش گفت: امسال پس از جنگی که صورت گرفت، طبیعی است که تریبون سازمان ملل، محلی خواهد بود برای اینکه مظلومیت مردم ایران، شهدای ایران، شهدای…</div>
-<div class="tg-footer">👁️ 8.78K · <a href="https://t.me/farsna/463646" target="_blank">📅 15:58 · 31 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-463639">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/BFnfJt31MYwYlpZrimq_nKFDIx6Y_JK4Hsh0UaYZL3y0dTFeLfGVdx6XPkArj5-1dOt6B1J9yxDVCfaOuQQ-yPwf_3qryI7Khl6g4r6k2I3IqTCtqPzBRbG4TwW6RtEy8P_ZbTpsT5IHbMYRcIhRvq79JgoB8BsVni1hrslyz0SCA0GvTNHER9TOb3lpx-o3gczfC4vkv4QpE9aKxSs27hNllvscJoxdXg56dkTJ0rNK_WYmDT_2G9iTDONus1D-ViKtvCe4cQ2GEh8JkyUoDN8Ily4D5_Ov4OYaniwFNPK8cTpct7qvHyZsYYDdpuTrVglHha5N_KeSq8M1vGwSDg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Fp1K3WUOdyNDoSPXcQtv_UOZTjvQMbzT2SGc7t4Uhjwhaafkg4JBELNTQDM6xDRcbca3uugaWOQfZBIGDzJT7LRqBIYVOz3ey2YaS7jtxk0-pAZqPLG6O8KFfdqFhnG6GQXs2aItf4-51Ta06yDasPlPCPduMyhaPYZx67caP5Z5CK1yO3yOfENuf0SZJg0cHSstZii2GD3_SPCmFo4DJPG48m_RfHeJviDUDIZRorX5Qu7lvA5Z7OWWbefamgiPAMyBu5wvJoNtZxJKa2lZDEsHEw5tGv0H99dJj0JW2kGcUIOEhwL-pIc4RfV7SiHBDQuH-tjpsdO-I2U3oFyDVA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/R6PkO54Mc0OCYUiuEQneukO77QbOkd2o9BGWPeoh7eTy9-ypsCvTRLwhXKz8ncrLvq1Pk1UghBK93sQftKnak7dEIVrelvPrLBrmii43e5OEsAlpQeeYbQW579oC5Cv_z72qNnfyh9tl1H7chu61xCrTDWEeSZG3sgcR-lvs9EoeGdo7xrhDc5S1va-wzxQRvDxTecrHNWIntdfq693pQIV1uBt2m63koeiRZgxPC9WuO-lREsR7ZJNN2QV1SeasyDF9ntHIhKbl-YVtUGm1nlXmGGjbY9ux13fq7YGtGsCZVhQC-06v3yEXSaJ5K5Jfr83w3dOi-z3-ieauOG0rmA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Y2CMUgGVEXjyOiyWLtkE7vWDiJUAq0Pm8WpciU6B55Cq-jJuJVRHlwDpim2498zhMUShUgsp584VCpI-Z35jbt5XpkgaJnQmm25V1Kc5l1Os8rsoyevIWH5FrOKqZmRkZgwkvH_c6tq18ZD4zx5oRGCEoHWoe0tXKYk7lW1OFu0Wb9jppYg3FuwoNLosdGssLVtW5YNMBIlndcLs4Sgwhvaehar_2mFF2pyO3nMrvfVmFezljm29ioMLv-_3O64mwSiqe7ZdEabYvAqRtf_cJgP8QzReef-UGzwT49Quz8UokSC8e9Gr7lgdshzlTVYPSdb9skbWhP8hvlIdCdj8kA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/YUToucCeQP8S1Nd7xxAtjFIo403GDFxoraf22sQz734OkmzJ-1qLTMnEXN8w5lHH4PlbuXexlFsDHRmJJTu9hKTYEOquYQUjDVgtYsiXZcdS6sttzenQ_A0Nt6bBztkAIJKkLKRDTHhkFdSg3wXbs20OYa-8QD7nBi1vLJ2RIOW-dRZ6QGTcNOAvURjuM7KCCVGwiYfoh-LbOC-zE943MeAulTGCjNgFRP44q2ozUCBe-Hdhb5DA8rG7nEQuq7sagR3C1lySpTVpfGIn_ozj1BgRvovbgYWHeE-OhnA-5zXzKoX_C09RXhTzzxi9iJvzgOUz7vUIexmrzTYo5wqpCw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/BISlwwUnyhiWGVCYVtMZ1Ayf84nzBr2WcgtF7nILQY6HR_KXrk6MtY-FRQVVDore_eqLSPc_y4X0jXJHtaVFDrvwk8_m27LskKfrNCkd640S9vBmFgFFQ4M0BaArr9KpITdy1UIEkyzm2pKU7PK5MeRsv2fL7JInEiC2SzmY6j4YK6r_Kzro6haFCUrqiP2rQZgNNDq-bQNOO4_wdqRftJCrQWBRQAVaqnb5HinoJAgIPR4lw0xNp1xAK_G0bWPrRHgzhMFE7jvZXcyi7yf9vxtNvPfxO9EfJaSFEctu0Nm4Uy__rSwqiwNgaqYw5tv6tUkbgh5DSGmdYpvhpHwJ0Q.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/LDUcofUnj_etv6Hr6Rxw1un94mVGJqNSi2q5Zumr8gy0T0r_KzTEvgldEUR_IPVJ-cnTOxa0MDOE4SRwPoRW0oZYI2eHyBnfb2Y-JtkLuNhl81wDJW0Bp_mr1E9UN1hjxa3XxHlgyQ_GnwZZjsap3RX-OTb7506_qKYfPwb-jCzWhbJUUzxPJdEBSXXhrLCDHHEPO1H3XAKQt3bv6_zp6RPY37IMDmGAJJwtr8DV5UMedT7HgLauWczKo_qpqhhzkgeFTwpS7o4bDeZxG7PdeNYfIUPJ8mtYRXwbOBG83sf-vWZl8YBG2TZjfYx8lodFMgPw24m6ikTYb1Uc2B79ag.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">📷
-حضور دسته‌های عزاداری در حرم حضرت معصومه(س)
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 9.15K · <a href="https://t.me/farsna/463639" target="_blank">📅 15:53 · 31 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-463638">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d7ce7b7633.mp4?token=fGm98n_XxgucfVoRGiGUagR4cI00aRZIv3YG9snuYNsHE3hlADOEYYDZHXzJbT2yGGM67JDeN6KFbkTWo0jXT9dwyrpV1MsW6TZo_SAuCakJoZaP9FeyClFEpzOBwkoUFsiQATCfP-BSxMCvO-ZJN56mXUKmlNC-U8wOi37QZz3vvq9_08zzjieWsnPon6_nSwbukDtQZ-g2xeMPOgsCDLy5k84hJabpbJYmZfjYhtBBHssZE_vtBwot5zZPP__yb602LAems3v3TzzB-SrUXiSWW3aknoa445t4uGBQDdgxk7MQK0SZxFOzWr8wBONQI57n9IQDYHV8G9RjEQKbXQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/d7ce7b7633.mp4?token=fGm98n_XxgucfVoRGiGUagR4cI00aRZIv3YG9snuYNsHE3hlADOEYYDZHXzJbT2yGGM67JDeN6KFbkTWo0jXT9dwyrpV1MsW6TZo_SAuCakJoZaP9FeyClFEpzOBwkoUFsiQATCfP-BSxMCvO-ZJN56mXUKmlNC-U8wOi37QZz3vvq9_08zzjieWsnPon6_nSwbukDtQZ-g2xeMPOgsCDLy5k84hJabpbJYmZfjYhtBBHssZE_vtBwot5zZPP__yb602LAems3v3TzzB-SrUXiSWW3aknoa445t4uGBQDdgxk7MQK0SZxFOzWr8wBONQI57n9IQDYHV8G9RjEQKbXQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">شکایت ۳ رسانهٔ بزرگ آمریکا از دولت ترامپ برای بازگشت به کاخ‌سفید
-🔹
-شبکه‌های خبری سی‌ان‌ان، ام‌اس ناو و پولیتیکو برای بازپس‌گیری دسترسی خود به کاخ سفید از دولت ترامپ شکایت و اعلام کردند که «هدف از این اقدام، جلوگیری از دخالت دولت در تصمیم‌گیری درباره محتوای…</div>
-<div class="tg-footer">👁️ 8.96K · <a href="https://t.me/farsna/463638" target="_blank">📅 15:47 · 31 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-463637">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس ورزشی</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/h6uM2d1IidGm7-JqnkrxqU5TA7tBy6hkIdAlNGrowEPHtceyxXRC_Qgk7WnEYrzVIBt6H0-fNcKU4cvkeGgswaSBIS0BXeV2R-aI_qZC9L7XR549NWg8Wk36vle0yZtIlRxA9JgO4BpCpqfEqKVvH5T-zkwiE53YqZmoCVwgBmGsSEf_wokylJG7iQ50bw4j0AtA38HfTNyInIZAsFsbvdx7pecnO_BJjuMxsFLRa_2FlF3H_9NoSOc_tzzEs2S3z2ELrvoh-7AxS3BmcUcmRju-v2hKoK_ahlW0N5fxWg0XMW3zoG1gX3vZZSF5qhcD-yQpLrjZX5N8tms9ALfsgw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">حضور پسر مهدی رحمتی در لیگ یک
-🔹
-سیدعلی رحمتی، فرزند مهدی رحمتی به تیم هوادار تهران پیوست.
-@Sportfars</div>
-<div class="tg-footer">👁️ 9.12K · <a href="https://t.me/farsna/463637" target="_blank">📅 15:39 · 31 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-463636">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/104b583a2f.mp4?token=Z-kkpvXiL0tvWu2alH-pD0qo8Y48OIBZelXkw2NUqHB94vFQJW-sjbdaXASX0HSZXR642plCxPnXFbUfwSmIx0MM0aF1TMm9X5BTkGfjhgdgEu0FtoS_s1vUhqFjnrSfYhJB0r44HcxovpXFhY5QIPl-H5o_XxEepBoguL5Yr7p6XJUbIUnZ_BXeo_uz4lbG07ulRCWqZnUGAZNLHLSV5l37E3Em2NNHEaKMEfRbS8y_0zCwKtQQqfXlotnDahExVqbsyPasErvDIWg0xPdgz4DpBNIQPOTgkGsiNSKRXcY2IElZgKKxsBJlyfEkCxjLmFL0DUAFPg1wOoXXz-Sb1g" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/104b583a2f.mp4?token=Z-kkpvXiL0tvWu2alH-pD0qo8Y48OIBZelXkw2NUqHB94vFQJW-sjbdaXASX0HSZXR642plCxPnXFbUfwSmIx0MM0aF1TMm9X5BTkGfjhgdgEu0FtoS_s1vUhqFjnrSfYhJB0r44HcxovpXFhY5QIPl-H5o_XxEepBoguL5Yr7p6XJUbIUnZ_BXeo_uz4lbG07ulRCWqZnUGAZNLHLSV5l37E3Em2NNHEaKMEfRbS8y_0zCwKtQQqfXlotnDahExVqbsyPasErvDIWg0xPdgz4DpBNIQPOTgkGsiNSKRXcY2IElZgKKxsBJlyfEkCxjLmFL0DUAFPg1wOoXXz-Sb1g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-هادی‌زاده، کارشناس مسائل بین‌الملل: ترامپ به‌دنبال ساخت تصویری ضعیف از ایران است؛ جهان می‌گوید ترامپ شکست خورده اما او می‌خواهد تصویری نشان دهد و بگوید که ایرانِ شکست‌خورده را پای میز مذاکره کشانده است.
-@Farsna</div>
-<div class="tg-footer">👁️ 9.88K · <a href="https://t.me/farsna/463636" target="_blank">📅 15:34 · 31 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-463635">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/fb5f07b210.mp4?token=VCQaBwZnsP7Kx-zOaqA7_BKjOaGJmoK5nlv3iQFiOtKHqRq116cRw_2QFDc_KOOzA3tab0jxPZ5Inu_kogxPbet2Xy5tWclx-jPKKNkwyPGVHiUaYwo0Ae-E0Y0XEOSafojFaC25Jlt-3ytOIeu0ms4LMXe4VKOIit13n9RDlXN77bFF6HjbolfcgNPjV2Ylxi0N1YGB7Peeup69tQFNwDi2EezBrkduozl6-zol5UATS1nPW-JDdNxAXQ0KIw8GJtamn3dKKQChJp9NQAqJrhojEf1RDH7f88FaXlBNRSE-WxS4VAoxcB6kOIQT1WQ_fk6UXwKhmxjlUoOePGWnUg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/fb5f07b210.mp4?token=VCQaBwZnsP7Kx-zOaqA7_BKjOaGJmoK5nlv3iQFiOtKHqRq116cRw_2QFDc_KOOzA3tab0jxPZ5Inu_kogxPbet2Xy5tWclx-jPKKNkwyPGVHiUaYwo0Ae-E0Y0XEOSafojFaC25Jlt-3ytOIeu0ms4LMXe4VKOIit13n9RDlXN77bFF6HjbolfcgNPjV2Ylxi0N1YGB7Peeup69tQFNwDi2EezBrkduozl6-zol5UATS1nPW-JDdNxAXQ0KIw8GJtamn3dKKQChJp9NQAqJrhojEf1RDH7f88FaXlBNRSE-WxS4VAoxcB6kOIQT1WQ_fk6UXwKhmxjlUoOePGWnUg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-وزیر آموزش‌وپرورش: بیش‌از ۱۰۰۰ مدرسهٔ کپری و سنگی بالای ۱۰ دانش‌آموز در کشور جمع‌آوری شدند.
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/463635" target="_blank">📅 15:30 · 31 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-463634">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mWsW_SJfAG28YWQexcLyDlwtZdRLRhR3aI-ttC8t-B5DwCqRavEntcVoZ45CJ2aqyC9hwduIvTlaxbw8aRoCIxCj0pJ3_CrvZrllIXq4Zi4YqtK7kHkHkN2RuCBfaMam1qWWIwHshP9RqunaVfdlTALqRh1cJUiL0iSSELBzi_xPCMff1AG0H517xtUx860xYes4W2lv69WDfod2Bm-WGHZ70JA-XRoM3S6QGc_h7Ti0eTyCNrN4EO2N4f4kV97YhkBCzmYddcOB2FlvXEXskhIYx8AJvQTerVFhh-WtkV3VWXoKMRLiFLSIZG7DhcBrfdvAx0oK3rKTvkA0yc98lw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">رئیس پلیس راهور: تردد خودروهای دارای پلاک مناطق آزاد کیش و قشم تا پایان آذر در سراسر کشور مجاز است
-🔹
-سردار تیمور حسینی: صاحبان خودروهای دارای پلاک سایر مناطق آزاد برای خروج از محدودهٔ مصوب باید با هماهنگی سازمان‌های مرتبط، مرخصی و پلاک گذر موقت دریافت کنند.
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 9.75K · <a href="https://t.me/farsna/463634" target="_blank">📅 15:27 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.35K · <a href="https://t.me/farsna/463647" target="_blank">📅 16:01 · 31 Shahrivar 1405</a></div>
 </div>
 
 <hr>

@@ -292,21 +292,21 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیل📸instagram.com/yashar🐦x.com/yasharrapfa📺youtube.com/yasharrapfa⛑️paypal.com/paypalme/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-01 01:50:47</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-01 04:16:56</div>
 <hr>
 
 <div class="tg-post" id="msg-23861">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">گزارش‌ صدای انفجار‌ خارگ
 @WarRoom</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/withyashar/23861" target="_blank">📅 01:26 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 54.7K · <a href="https://t.me/withyashar/23861" target="_blank">📅 01:26 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23860">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">گزارش‌صدای انفجار در قشم
 @WarRoom</div>
-<div class="tg-footer">👁️ 40.2K · <a href="https://t.me/withyashar/23860" target="_blank">📅 01:12 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64K · <a href="https://t.me/withyashar/23860" target="_blank">📅 01:12 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23859">
@@ -318,7 +318,7 @@
 و ایرانیان قرن‌ها فارغ از قومیت و مذهب در کنار یکدیگر در صلح زندگی کرده‌اند و پس از آزادی نیز می‌توانند دوباره متحد شوند. او در پایان گفت:
 «انقلاب شیر و خورشید در راه است.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 40.2K · <a href="https://t.me/withyashar/23859" target="_blank">📅 01:10 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64.1K · <a href="https://t.me/withyashar/23859" target="_blank">📅 01:10 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23858">
@@ -328,7 +328,7 @@
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 62.8K · <a href="https://t.me/withyashar/23858" target="_blank">📅 00:42 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 81.4K · <a href="https://t.me/withyashar/23858" target="_blank">📅 00:42 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23857">
@@ -339,14 +339,14 @@
 هیچ عذری برای نادیده گرفتن خون قربانیان نیست.
 »
 @WarRoom</div>
-<div class="tg-footer">👁️ 78.1K · <a href="https://t.me/withyashar/23857" target="_blank">📅 00:11 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 93.7K · <a href="https://t.me/withyashar/23857" target="_blank">📅 00:11 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23856">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">تتر و دلار دارن میکشن پایین
 @WarRoom</div>
-<div class="tg-footer">👁️ 80.2K · <a href="https://t.me/withyashar/23856" target="_blank">📅 00:07 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 95.4K · <a href="https://t.me/withyashar/23856" target="_blank">📅 00:07 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23855">
@@ -356,7 +356,7 @@
 حداقل سن جذب نیرو را به ۱۲ سال کاهش داده است
 . یک مقام سپاه در تهران اعلام کرده بود نوجوانان ۱۲ و ۱۳ ساله می‌توانند برای حضور در گشت‌های اطلاعاتی و عملیاتی ثبت‌نام کنند. گزارش‌های بی‌بی‌سی و عفو بین‌الملل نیز از حضور کودکان در ایست‌های بازرسی و مواردی از حمل سلاح توسط آنها خبر داده‌اند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 83.3K · <a href="https://t.me/withyashar/23855" target="_blank">📅 00:01 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 97.9K · <a href="https://t.me/withyashar/23855" target="_blank">📅 00:01 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23854">
@@ -365,7 +365,7 @@
 ما به دنبال تغییر رژیم یا جایگزین کردن حکومت ایران نیستیم؛ هدف آمریکا این است که
 ایران به سلاح هسته‌ای دست پیدا نکند
 @WarRoom</div>
-<div class="tg-footer">👁️ 82.3K · <a href="https://t.me/withyashar/23854" target="_blank">📅 00:00 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 96.1K · <a href="https://t.me/withyashar/23854" target="_blank">📅 00:00 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23853">
@@ -375,14 +375,14 @@
 مارکو روبیو، وزیر خارجه آمریکا، را به‌طور رسمی و دائمی به‌عنوان مشاور امنیت ملی کاخ سفید منصوب کرد.
 روبیو از مه ۲۰۲۵ پس از برکناری مایکل والتز، به‌صورت موقت این سمت را بر عهده داشت و اکنون انتصاب او دائمی شده است. روبیو همچنان وزیر خارجه آمریکا نیز خواهد بود و همزمان مدیریت روند شورای امنیت ملی و نقش مشاور مستقیم رئیس‌جمهور در مسائل امنیتی را بر عهده خواهد داشت.
 @WarRoom</div>
-<div class="tg-footer">👁️ 81.2K · <a href="https://t.me/withyashar/23853" target="_blank">📅 23:59 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 93.8K · <a href="https://t.me/withyashar/23853" target="_blank">📅 23:59 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23852">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">خبرگزاری i24news : ‏اکسپلور گردی« احمد الشرع » وسط سخنرانی اردوغان در سازمان ملل
 @WarRoom</div>
-<div class="tg-footer">👁️ 81.2K · <a href="https://t.me/withyashar/23852" target="_blank">📅 23:54 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/withyashar/23852" target="_blank">📅 23:54 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23850">
@@ -396,7 +396,7 @@
 </div>
 <div class="tg-text">ترامپ درباره تنگه هرمز: «ما هر شب ۲۵ تا ۳۰ کشتی را از بین می‌بریم؛ گاهی هم در طول روز، اما بخش زیادی از آن در شب انجام می‌شود. این محاصره قوی‌ترین چیزی است که تاکنون دیده شده و ما آن را «دیوار فولادی» می‌نامیم. اکنون نسبت به هر زمان دیگری از آغاز درگیری، نفت بسیار بیشتری از طریق تنگه هرمز عبور می‌کند.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 89.4K · <a href="https://t.me/withyashar/23850" target="_blank">📅 23:24 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 98.5K · <a href="https://t.me/withyashar/23850" target="_blank">📅 23:24 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23849">
@@ -411,7 +411,7 @@
 <div class="tg-text">ترامپ درباره ایران:
 بخش بزرگی از اقداماتی که انجام داده‌ایم — شاید ۹۹ درصد آن — برای اطمینان از این بوده است که ایران به سلاح هسته‌ای دست پیدا نکند. آن تأسیسات منهدم شده‌اند. ممکن است مجبور شویم تأسیسات دیگری را هم منهدم کنیم: «کوه کلن گزلا» (Pickaxe Mountain). در حال حاضر فعالیت زیادی در آنجا مشاهده نمی‌کنیم، اما اگر شاهد فعالیتی باشیم، بلافاصله آن را منهدم خواهیم کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 86.4K · <a href="https://t.me/withyashar/23849" target="_blank">📅 23:23 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 95.1K · <a href="https://t.me/withyashar/23849" target="_blank">📅 23:23 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23848">
@@ -427,7 +427,7 @@
 یا به توافق می‌رسیم، یا کار خیلی خیلی سریع تمام خواهد شد.
 آن‌قدر سریع تمام می‌شود که سرتان گیج می‌رود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 85.3K · <a href="https://t.me/withyashar/23848" target="_blank">📅 23:21 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 93K · <a href="https://t.me/withyashar/23848" target="_blank">📅 23:21 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23847">
@@ -441,7 +441,7 @@
 </div>
 <div class="tg-text">ترامپ درباره ایران: ما فشار ‌زیادی ‌رویشان قرار‌دادیم ،امیدوارم پیش از آنکه خیلی دیر شود، هرچه سریع‌تر کار درست را انجام دهند. می‌دانید، زمانی فرا خواهد رسید که دیگر خیلی دیر شده باشد و ما دیگر فرصتی برای اینکه اجازه دهیم آن‌ها به عنوان یک ملت باقی بمانند، نخواهیم داشت.
 @WarRoom</div>
-<div class="tg-footer">👁️ 84.2K · <a href="https://t.me/withyashar/23847" target="_blank">📅 23:19 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 92.6K · <a href="https://t.me/withyashar/23847" target="_blank">📅 23:19 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23846">
@@ -456,7 +456,7 @@
 <div class="tg-text">ترامپ درباره ایران: استیو و جارِد امروز جلسه‌ای بسیار سازنده با دو میانجی از ایران داشتند. خواهیم دید که نتیجه این جلسه چه خواهد بود.
 به نظر من، یک حرکت قوی برای رسیدن به توافق وجود دارد. این چیزی است که ما از همه می‌شنویم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 84.2K · <a href="https://t.me/withyashar/23846" target="_blank">📅 23:16 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 92K · <a href="https://t.me/withyashar/23846" target="_blank">📅 23:16 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23845">
@@ -464,21 +464,21 @@
 <div class="tg-text">اسرائیل هیوم به نقل از منابع آمریکایی:
 یک دیدار از پیش برنامه‌ریزی‌شده میان مقام‌های آمریکایی و هیئت ایرانی به ریاست عباس عراقچی، با حضور نخست‌وزیر قطر، برگزار شد و در آن درباره ازسرگیری مذاکرات میان تهران و واشنگتن و همچنین بازگشایی تنگه هرمز گفت‌وگو شد. با این حال، طرفین درباره مسائل مورد اختلاف به توافقی دست پیدا نکردند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 91.4K · <a href="https://t.me/withyashar/23845" target="_blank">📅 22:57 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 98.5K · <a href="https://t.me/withyashar/23845" target="_blank">📅 22:57 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23844">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">بلومبرگ به نقل از مقام‌های آمریکایی و افراد مطلع گزارش داد آمریکا هوش مصنوعی خود را تغییر داد چون حمله مرگبار به مدرسه میناب نتیجه مجموعه‌ای از خطاهای اطلاعاتی و هدف‌گیری بوده است. بر اساس این گزارش، اطلاعات قدیمی ارتش آمریکا همچنان مدرسه را به‌عنوان یک تأسیسات سپاه ثبت کرده بود، در حالی که تصاویر ماهواره‌ای نشان می‌داد این محل سال‌ها قبل به مدرسه تبدیل شده است. همچنین فشار زمانی برای تعیین بیش از هزار هدف و اتکای برخی نیروهای سنتکام به سامانه هوش مصنوعی «Maven» در روند هدف‌گیری نقش داشت. پس از این حمله، قابلیت‌های جدیدی به Maven اضافه شد تا اطلاعات اهداف، تناقض‌ها و عواملی را که می‌توانند باعث خروج یک هدف از فهرست حمله شوند، دوباره بررسی کند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/withyashar/23844" target="_blank">📅 22:55 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 98.7K · <a href="https://t.me/withyashar/23844" target="_blank">📅 22:55 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23843">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">توییت جدید
 https://x.com/yasharrapfa</div>
-<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/withyashar/23843" target="_blank">📅 22:44 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 98.4K · <a href="https://t.me/withyashar/23843" target="_blank">📅 22:44 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23842">
@@ -488,35 +488,35 @@ https://x.com/yasharrapfa</div>
 دیدار مستقیم ترامپ و مسعود پزشکیان
 را در حاشیه مجمع عمومی ترتیب دهند
 @WarRolm</div>
-<div class="tg-footer">👁️ 96.5K · <a href="https://t.me/withyashar/23842" target="_blank">📅 22:34 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/23842" target="_blank">📅 22:34 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23841">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">سازمان هواپیمایی کشوری ایران: از نیمه شب امشب، فرودگاه‌های بغداد و مسقط، پروازهای هواپیمایی ایران را پذیرش نخواهند کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/23841" target="_blank">📅 22:23 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/23841" target="_blank">📅 22:23 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23840">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">سخنگوی سپاه:درحال آماده سازی برای سناریوی حمله پیش‌دستانه به پایگاه های آمریکا در منطقه هستیم،در صورتی که حمله ای از سوی آمریکا به ایران محرز شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/23840" target="_blank">📅 22:21 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/23840" target="_blank">📅 22:21 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23839">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">ویتکاف: دیدار با ایرانی‌ها خوب پیش رفت و در حال حاضر احساس بسیار خوبی دارم
 @WarRoom</div>
-<div class="tg-footer">👁️ 99.7K · <a href="https://t.me/withyashar/23839" target="_blank">📅 22:21 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/23839" target="_blank">📅 22:21 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23838">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">خبرنگار i24: استیو ویتکاف و جرد کوشنر، مقام‌های آمریکایی بودند که امروز با هیئت ایرانی دیدار کردند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 97.6K · <a href="https://t.me/withyashar/23838" target="_blank">📅 22:21 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/23838" target="_blank">📅 22:21 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23837">
@@ -536,14 +536,14 @@ https://x.com/yasharrapfa</div>
 اگر یک آلترناتیو الان بود و اطمینان خاطر داشتن اینها در ایران بحران به وجود نمیاد قطعا عمل میکردن و الانم قول هایی گرفتن!
 دلیل خوشحالی ترامپ هم همینه
 @withyashar</div>
-<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/23837" target="_blank">📅 22:00 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/23837" target="_blank">📅 22:00 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23836">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">@WarRoom
 Selfie</div>
-<div class="tg-footer">👁️ 96.5K · <a href="https://t.me/withyashar/23836" target="_blank">📅 21:47 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 99.9K · <a href="https://t.me/withyashar/23836" target="_blank">📅 21:47 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23835">
@@ -555,17 +555,17 @@ Selfie</div>
 <br>
 <a href="https://cdn4.telesco.pe/file/f03f509353.mp4?token=ARajJ3D2lyH4QR3j8bscXD_MMqYxAYamQcIEwuUVHi1FdRFfOoZhXEw4waHL7Jia_sCkCGVlpc6sQwUzlVbq9pfpRWCb-WyxEv_6u4_J9_8H-CPuDhLFKxf6uwLZrhJcHdp2bho437FTbMCXeJX0sPFYMXp2j8fKeoHQSy8M2wptOqFZAJSdFqLc-OosOwfiv1CtRpHkna1_M-yWW0io1c_Ma7icVF2rPcJEiy6qqc5e-5gf9M77_6ezsFeN2LOgetOCGBiXkrTfk5Xmil1j0z6Np1CPsN79ONtbrF-V-vlMvrLVgqDQGumyto31ZRCp8L66kyRuryj0efq4gm2CQQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 98.5K · <a href="https://t.me/withyashar/23835" target="_blank">📅 21:43 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/23835" target="_blank">📅 21:43 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23834">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-footer">👁️ 99.5K · <a href="https://t.me/withyashar/23834" target="_blank">📅 21:40 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/23834" target="_blank">📅 21:40 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23833">
 <div class="tg-post-header">📌 پیام #73</div>
-<div class="tg-footer">👁️ 99.5K · <a href="https://t.me/withyashar/23833" target="_blank">📅 21:37 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/23833" target="_blank">📅 21:37 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23832">
@@ -583,7 +583,7 @@ Selfie</div>
 این یک عظمت، عظمت بالقوه، یا نابودی است.
 در یک حالت، نابودی است. و گزینه دیگر، عظمت بالقوه است. می‌تواند کشوری بزرگ باشد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/23832" target="_blank">📅 21:34 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/23832" target="_blank">📅 21:34 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23830">
@@ -599,12 +599,12 @@ F-16C
 F-16 متعلق به بال ۵۲ جنگنده آمریکا
 در نزدیکی پایگاه اسپانگدالم سقوط کرد؛ خلبان با موفقیت ایجکت کرد اما زخمی شد و برای درمان به بیمارستان منتقل شد. علت سقوط در دست بررسی است
 @WarRoom</div>
-<div class="tg-footer">👁️ 96.5K · <a href="https://t.me/withyashar/23830" target="_blank">📅 21:29 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/23830" target="_blank">📅 21:29 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23829">
 <div class="tg-post-header">📌 پیام #70</div>
-<div class="tg-footer">👁️ 96.4K · <a href="https://t.me/withyashar/23829" target="_blank">📅 21:26 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/23829" target="_blank">📅 21:26 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23828">
@@ -635,7 +635,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 ابرهوش
 پیشتاز باشد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 99.5K · <a href="https://t.me/withyashar/23828" target="_blank">📅 21:23 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/23828" target="_blank">📅 21:23 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23827">
@@ -645,7 +645,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 ⚠️
 ⚠️
 ⚠️</div>
-<div class="tg-footer">👁️ 94.4K · <a href="https://t.me/withyashar/23827" target="_blank">📅 21:22 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 97K · <a href="https://t.me/withyashar/23827" target="_blank">📅 21:22 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23826">
@@ -657,7 +657,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 99.5K · <a href="https://t.me/withyashar/23826" target="_blank">📅 21:17 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/23826" target="_blank">📅 21:17 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23825">
@@ -670,7 +670,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/23825" target="_blank">📅 21:16 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/23825" target="_blank">📅 21:16 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23824">
@@ -678,7 +678,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 <div class="tg-text">رویترز:
 عربستان عملیات خط لوله شرق-غرب خود را از سر گرفته؛ این تحول نگرانی درباره اختلال در صادرات نفت منطقه را تا حدی کاهش داده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/23824" target="_blank">📅 21:14 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/23824" target="_blank">📅 21:14 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23823">
@@ -688,7 +688,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 انزوای اقتصادی کامل ایران
 همکاری کنند و گفت تهران باید تنگه هرمز را کاملاً باز کند
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/23823" target="_blank">📅 21:11 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/23823" target="_blank">📅 21:11 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23822">
@@ -703,14 +703,14 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 «کینگ‌لِت»
 شناخته می‌شد و بعدها با نهادهای اطلاعاتی ایران همکاری داشته است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/23822" target="_blank">📅 20:58 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/23822" target="_blank">📅 20:58 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23821">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">ترامپ درباره ایران: «فکر می‌کنم توافقی حاصل خواهد شد. آن‌ها حتی امروز هم با ما در حال گفت‌وگو بوده‌اند , بگذارید بگوییم که این رابطه در حال شکل‌گیری و پیشرفت است.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/23821" target="_blank">📅 20:25 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/23821" target="_blank">📅 20:25 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23820">
@@ -727,7 +727,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 مسائل داخلی و محلی که برایشان اهمیت دارد
 تمرکز کرده‌اند و نه جنگ با ایران.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/23820" target="_blank">📅 19:52 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/23820" target="_blank">📅 19:52 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23819">
@@ -741,7 +741,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 </div>
 <div class="tg-text">هیئت اسرائیلی هنگام سخنرانی رجب طیب اردوغان، رئیس‌جمهور ترکیه، در مجمع عمومی سازمان ملل، سالن را ترک کرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/23819" target="_blank">📅 19:50 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/23819" target="_blank">📅 19:50 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23818">
@@ -753,7 +753,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 ادامه جنگ با ایران
 گفت‌وگو کند
 @WarRoom</div>
-<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/23818" target="_blank">📅 19:48 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/23818" target="_blank">📅 19:48 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23817">
@@ -763,7 +763,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 باز کردن تنگه هرمز
 است. مکرون همچنین پیشنهاد حفاظت از تأسیسات نفتی عربستان در برابر حملات حوثی‌ها را مطرح کرده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/23817" target="_blank">📅 19:38 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/23817" target="_blank">📅 19:38 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23816">
@@ -771,7 +771,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 <div class="tg-text">آسوشیتدپرس:
 دونالد ترامپ امروز در سخنرانی خود در مجمع عمومی سازمان ملل از تصمیمش برای آغاز جنگ با ایران دفاع کرد و گفت آمریکا در حال «تسویه حساب با مسائل حل‌نشده» است. ترامپ تأکید کرد ایران نباید به سلاح هسته‌ای دست پیدا کند و گفت آمریکا برای پایان جنگ آماده گفت‌وگو است. هیئت ایرانی در جریان سخنرانی ترامپ از سالن خارج شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/23816" target="_blank">📅 19:37 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/23816" target="_blank">📅 19:37 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23815">
@@ -781,7 +781,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 کشته، تبعید یا به‌عنوان نیروهای دشمن بازداشت شوند، بدون امکان آزادی
 ؛ و ما همین کار را انجام می‌دهیم.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/23815" target="_blank">📅 18:39 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/23815" target="_blank">📅 18:39 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23814">
@@ -797,7 +797,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 دونالد ترامپ درباره ایران گفت: «آمریکا و ایران قطعاً این مسئله را حل خواهند کرد؛ به هر طریقی که باشد، این کار انجام خواهد شد.»
 او افزود: «این اتفاق سریع رخ خواهد داد.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/23814" target="_blank">📅 18:30 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/23814" target="_blank">📅 18:30 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23813">
@@ -806,7 +806,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 دونالد ترامپ درباره جنگ اوکراین گفت: «ما همکاری بسیار نزدیکی با رهبران روسیه و اوکراین داریم و این مسئله را حل خواهیم کرد.»
 او افزود: «فکر می‌کنم این اتفاق سریع‌تر از آنچه مردم تصور می‌کنند رخ خواهد داد؛ آن‌ها دیگر از این جنگ خسته شده‌اند.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 98.6K · <a href="https://t.me/withyashar/23813" target="_blank">📅 18:25 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 100K · <a href="https://t.me/withyashar/23813" target="_blank">📅 18:25 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23812">
@@ -815,13 +815,13 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 ما بیش از آن مقدار مهماتی داریم که حتی بتوانیم تصور کنیم ممکن است از آن استفاده کنیم و در حال تولید مهمات با سطوحی هستیم که هرگز پیش از این تجربه نکرده‌ایم. ما ذخایر خود را سریع‌تر از هر زمان دیگری افزایش می‌دهیم؛ مهمات و تجهیزات درجه‌یک.
 علاوه بر این، در آینده‌ای بسیار نزدیک، کارخانه‌های عظیم تولید مهمات افتتاح خواهند شد. در حال حاضر ۱۸ کارخانه توسط بزرگ‌ترین شرکت‌های صنایع دفاعی جهان در حال ساخت است؛ ۱۸ کارخانه در دست احداث است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 97.5K · <a href="https://t.me/withyashar/23812" target="_blank">📅 18:25 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 99.2K · <a href="https://t.me/withyashar/23812" target="_blank">📅 18:25 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23811">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">ترامپ: ایران ۷۲هزار شهروند معترض بی گناه خود را به قتل رسانده است @WarRoom</div>
-<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/23811" target="_blank">📅 18:24 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 96.9K · <a href="https://t.me/withyashar/23811" target="_blank">📅 18:24 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23810">
@@ -835,7 +835,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 </div>
 <div class="tg-text">ترامپ: ایران ۷۲هزار شهروند معترض بی گناه خود را به قتل رسانده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/23810" target="_blank">📅 18:23 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 97K · <a href="https://t.me/withyashar/23810" target="_blank">📅 18:23 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23809">
@@ -844,13 +844,13 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 دونالد ترامپ درباره ایران گفت: «پس از آغاز به کارم در سال گذشته، مذاکرات با ایران را آغاز کردم و در ازای پایان دادن به برنامه هسته‌ای و حمایت از تروریسم، همکاری کامل اقتصادی را به آن‌ها پیشنهاد دادم.»
 او افزود: «اما آن‌ها این پیشنهاد را رد کردند؛ این یک اشتباه بزرگ بود.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/withyashar/23809" target="_blank">📅 18:21 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 93.9K · <a href="https://t.me/withyashar/23809" target="_blank">📅 18:21 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23808">
 <div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">ترامپ: ایران دیگر قلدر خاورمیانه نیست؛ هرگز اجازه دستیابی به سلاح هسته‌ای را نخواهم داد «آن‌ها قلدر خاورمیانه بودند، اما دیگر قلدر نیستند.» او افزود: «از نخستین روزی که وارد عرصه سیاست شدم، موضع من تغییر نکرده است؛ هرگز اجازه نخواهم داد ایران به سلاح هسته‌ای…</div>
-<div class="tg-footer">👁️ 90.4K · <a href="https://t.me/withyashar/23808" target="_blank">📅 18:20 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 92K · <a href="https://t.me/withyashar/23808" target="_blank">📅 18:20 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23807">
@@ -866,7 +866,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 «آن‌ها قلدر خاورمیانه بودند، اما دیگر قلدر نیستند.»
 او افزود: «از نخستین روزی که وارد عرصه سیاست شدم، موضع من تغییر نکرده است؛ هرگز اجازه نخواهم داد ایران به سلاح هسته‌ای دست پیدا کند.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 89.3K · <a href="https://t.me/withyashar/23807" target="_blank">📅 18:19 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 90.6K · <a href="https://t.me/withyashar/23807" target="_blank">📅 18:19 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23806">
@@ -887,27 +887,27 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 پیشتاز هستیم
 .»
 @WarRoom</div>
-<div class="tg-footer">👁️ 91.4K · <a href="https://t.me/withyashar/23806" target="_blank">📅 18:05 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 93.5K · <a href="https://t.me/withyashar/23806" target="_blank">📅 18:05 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23805">
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">شاهزاده رضا پهلوی برای سخنرانی در نشست سالانه کنکوردیا و دیدار خصوصی با نمایندگان دیپلماتیک کشورهای حاضر در مجمع عمومی سازمان ملل متحد، وارد نیویورک شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 91.4K · <a href="https://t.me/withyashar/23805" target="_blank">📅 17:57 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 93.2K · <a href="https://t.me/withyashar/23805" target="_blank">📅 17:57 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23804">
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">تلگراف : ترامپ در حال بررسی گزینه‌های مختلف درباره ایرانه؛ از مذاکره و  تشدید حملات و افزایش فشار اقتصادی گرفته تا حتی «منفجر کردن کل حاکمان ایران»!
 @WarRoom</div>
-<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/23804" target="_blank">📅 17:51 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 96.7K · <a href="https://t.me/withyashar/23804" target="_blank">📅 17:51 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23803">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">با پشتیبانی هواپیماهای سوخت‌رسان BORA74، BORA84 و BORA94، مجموعاً ۱۲ فروند جنگنده F-16C از بال ۱۳۸ جنگنده (138th Fighter Wing) با کد دم «OK»، امروز پایگاه هوایی اشپانگدالم (ETAD) در آلمان را ترک کردند و به سمت خاورمیانه حرکت کردند. @WarRoom</div>
-<div class="tg-footer">👁️ 94.5K · <a href="https://t.me/withyashar/23803" target="_blank">📅 17:49 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 96.2K · <a href="https://t.me/withyashar/23803" target="_blank">📅 17:49 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23802">
@@ -917,39 +917,39 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 یک دیدار در سطح بالا بین آمریکا و ایران
 برگزار شود. این کشورها هنوز معرفی نشده‌اند و جزئیات بیشتری درباره این دیدار احتمالی منتشر نشده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 93.4K · <a href="https://t.me/withyashar/23802" target="_blank">📅 17:48 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 95K · <a href="https://t.me/withyashar/23802" target="_blank">📅 17:48 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23801">
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">کانال ۱۴ اسرائیل : پیش از سخنرانی رئیس‌جمهور ایران در سازمان ملل، کانال‌های رسانه‌ای سپاه پاسداران ویدئویی مفهومی و ساخته‌شده با هوش مصنوعی منتشر کردند که تصویری از نخستین آزمایش بمب هسته‌ای «واقعیه گرم» ایران را به نمایش می‌گذارد. @WarRoom</div>
-<div class="tg-footer">👁️ 94.5K · <a href="https://t.me/withyashar/23801" target="_blank">📅 17:36 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 96.3K · <a href="https://t.me/withyashar/23801" target="_blank">📅 17:36 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23800">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">هم اکنون پس از شرکتهای ترکیه و عراق، شرکت های هواپیمایی امارات و قطر نیز پرواز های خود به ایران را متوقف کردند. @WarRoom</div>
-<div class="tg-footer">👁️ 94.5K · <a href="https://t.me/withyashar/23800" target="_blank">📅 17:33 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/23800" target="_blank">📅 17:33 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23799">
 <div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">رسانه های رژیم : «رئیس‌جمهور پزشکیان دقایقی پیش، پس از توقفی کوتاه خود ، الجزایر را به مقصد نیویورک ترک کرد.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/withyashar/23799" target="_blank">📅 17:26 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 93.7K · <a href="https://t.me/withyashar/23799" target="_blank">📅 17:26 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23798">
 <div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">رئیس‌جمهور ترامپ هنگام ورود به مقر سازمان ملل:تعجب می‌کنم که سی‌ان‌ان اینجا حضور دارد و اخبار مربوط به مرا پوشش می‌دهد. شما نباید اینجا باشید. شما گفته بودید که قرار نیست اخبار مرا پوشش دهید. نباید مشغول پوشش دادن اخبار من باشید. @WarRoom</div>
-<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/withyashar/23798" target="_blank">📅 17:25 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 93.7K · <a href="https://t.me/withyashar/23798" target="_blank">📅 17:25 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23797">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">هم اکنون پس از شرکتهای ترکیه و عراق، شرکت های هواپیمایی امارات و قطر نیز پرواز های خود به ایران را متوقف کردند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/withyashar/23797" target="_blank">📅 17:24 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 94.3K · <a href="https://t.me/withyashar/23797" target="_blank">📅 17:24 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23796">
@@ -964,14 +964,14 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 <div class="tg-text">رئیس‌جمهور ترامپ هنگام ورود به مقر سازمان ملل:تعجب می‌کنم که سی‌ان‌ان اینجا حضور دارد و اخبار مربوط به مرا پوشش می‌دهد. شما نباید اینجا باشید.
 شما گفته بودید که قرار نیست اخبار مرا پوشش دهید. نباید مشغول پوشش دادن اخبار من باشید.
 @WarRoom</div>
-<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/withyashar/23796" target="_blank">📅 17:23 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 93.8K · <a href="https://t.me/withyashar/23796" target="_blank">📅 17:23 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23795">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">تنگه صدای سلامی میاد
 @WarRoom</div>
-<div class="tg-footer">👁️ 89.3K · <a href="https://t.me/withyashar/23795" target="_blank">📅 17:17 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 90.8K · <a href="https://t.me/withyashar/23795" target="_blank">📅 17:17 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23794">
@@ -983,28 +983,28 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 زمان تقریبی سخنرانی ترامپ:
 به وقت تهران: حدود ساعت ۱۷:۱۵ الی ۱۷:۴۵
 @WarRoom</div>
-<div class="tg-footer">👁️ 97.5K · <a href="https://t.me/withyashar/23794" target="_blank">📅 17:11 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 99.1K · <a href="https://t.me/withyashar/23794" target="_blank">📅 17:11 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23793">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">عراقچی‌ هم وارد سالن شد تا سخنان ترامپ را بشنود
 @WarRoom</div>
-<div class="tg-footer">👁️ 94.5K · <a href="https://t.me/withyashar/23793" target="_blank">📅 17:09 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 96.5K · <a href="https://t.me/withyashar/23793" target="_blank">📅 17:09 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23792">
 <div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">ترامپ وارد سازمان ملل شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 97.5K · <a href="https://t.me/withyashar/23792" target="_blank">📅 17:07 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 99.1K · <a href="https://t.me/withyashar/23792" target="_blank">📅 17:07 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23791">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">با پشتیبانی هواپیماهای سوخت‌رسان BORA74، BORA84 و BORA94، مجموعاً ۱۲ فروند جنگنده F-16C از بال ۱۳۸ جنگنده (138th Fighter Wing) با کد دم «OK»، امروز پایگاه هوایی اشپانگدالم (ETAD) در آلمان را ترک کردند و به سمت خاورمیانه حرکت کردند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/23791" target="_blank">📅 16:48 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/23791" target="_blank">📅 16:48 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23790">
@@ -1012,14 +1012,14 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 <div class="tg-text">تنگه دعوا شد
 @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/23790" target="_blank">📅 16:38 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/23790" target="_blank">📅 16:38 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23789">
 <div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">عباس عراقچی، وزیر امور خارجه ایران، از وزارت امور خارجه آمریکا درخواست کرد تا در جریان حضورش در نیویورک برای شرکت در مجمع عمومی سازمان ملل، یک تیم حفاظت امنیتی آمریکایی در اختیار او قرار گیرد. بر اساس گزارش‌های رسیده از آمریکا، پس از بررسی تهدیدهای موجود علیه وی، تیمی از «سرویس امنیت دیپلماتیک» مسئولیت حفاظت از او را بر عهده خواهد گرفت.
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/23789" target="_blank">📅 15:41 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/23789" target="_blank">📅 15:41 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23788">
@@ -1038,7 +1038,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 تصمیم‌گیرنده نهایی در ایران رهبر جمهوری اسلامی است
 و رهبر جمهوری اسلامی یک روحانی شیعه رادیکال است.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/23788" target="_blank">📅 15:25 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/23788" target="_blank">📅 15:25 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23787">
@@ -1055,7 +1055,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 سه برابر
 شود.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 98.6K · <a href="https://t.me/withyashar/23787" target="_blank">📅 15:22 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 100K · <a href="https://t.me/withyashar/23787" target="_blank">📅 15:22 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23786">
@@ -1068,7 +1068,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 <a href="https://cdn4.telesco.pe/file/a2875ab9dd.mp4?token=IyAU8gO7CfI2ZifjkNw-uKwk3cVe0bikB8OvM8ANlHFxgmuSAXmr6OxV65LxGQEUl7ZBKJQCSc-At484VwX43N4YHwJsxk35coHOR5I0avBOIfLXxNMwd8DfBNHBWVjtpwjveIEcjIwVxfkJ0BxjzwOFNbDMuT5otIUcJE9vt-iNnXn9lgA6FpPP1e1eYwrhYMfhiz_0RMT47CghB8C8StwlP7ySI7fG4Rvnjyjm3JfylO5phA2F1v7sTCD75jC0QOZ8BA6nIQ0Hb2QSIq-AoR1kUjTTuTNmaiphE7Ww9Sa7Ukg0A56Ba9QNmWBKC4lr7m88395gtDe4uCg12wj5bg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">روبیو: ما برای دیدار با هیئت ایرانی در سازمان ملل آمادگی داریم ولی فکر نمی‌کنم هیچ جلسه‌ای بین ترامپ و رئیس‌جمهور ایران برنامه‌ریزی شده باشد @WarRoom</div>
-<div class="tg-footer">👁️ 96.5K · <a href="https://t.me/withyashar/23786" target="_blank">📅 15:18 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 98.2K · <a href="https://t.me/withyashar/23786" target="_blank">📅 15:18 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23785">
@@ -1103,21 +1103,21 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 شما
 نیز حقیقت را خواهم گفت.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/23785" target="_blank">📅 15:10 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/23785" target="_blank">📅 15:10 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23783">
 <div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">روبیو: ما برای دیدار با هیئت ایرانی در سازمان ملل آمادگی داریم ولی فکر نمی‌کنم هیچ جلسه‌ای بین ترامپ و رئیس‌جمهور ایران برنامه‌ریزی شده باشد
 @WarRoom</div>
-<div class="tg-footer">👁️ 96.5K · <a href="https://t.me/withyashar/23783" target="_blank">📅 15:10 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 97.9K · <a href="https://t.me/withyashar/23783" target="_blank">📅 15:10 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23782">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">ترامپ در تروث : بزدلان و خائنان بسیار دوست دارند بگویند که ذخایر مهمات ایالات متحده رو به کاهش است؛ اما این حرف صحت ندارد. ما بیش از هر مقداری که حتی تصور استفاده از آن را داشته باشیم، مهمات در اختیار داریم و هم‌اکنون نیز در حال افزایش تولید آن‌ها به سطوحی بی‌سابقه هستیم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/23782" target="_blank">📅 14:46 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/23782" target="_blank">📅 14:46 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23781">
@@ -1131,7 +1131,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 تعیین یک جدول زمانی برای پایان درگیری‌ها و حل‌وفصل دیپلماتیک بحران
 است. یک مقام ایرانی گفت: «آمریکا باید اعلام و رسماً تأکید کند که می‌خواهد موضوع را از طریق دیپلماسی حل کند و سپس درباره جدول زمانی روند مذاکرات توافق شود. مجمع عمومی سازمان ملل فرصت طلایی برای بازگشت آمریکا به دیپلماسی است.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/23781" target="_blank">📅 14:27 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/23781" target="_blank">📅 14:27 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23780">
@@ -1144,7 +1144,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 و تجربه پاسخ‌های قبلی ایران که به گفته او مانع تحقق اهداف آمریکا شده، تکرار خواهد شد. او تأکید کرد:
 برای هر سناریویی آماده‌ایم و در هر عرصه‌ای که دشمن وارد شود، پاسخ قاطع خواهیم داد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/23780" target="_blank">📅 14:18 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/23780" target="_blank">📅 14:18 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23779">
@@ -1156,7 +1156,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 ۱۲۵ کشتی تجاری در روز
 از هرمز عبور می‌کردند. رویترز همچنین گزارش داده دو نفتکش در هرمز هدف قرار گرفته‌اند؛ یک نفتکش با پرتابه ناشناس و یک کشتی حامل LPG نیز با بقایای پرتابه ناشناس آسیب دیده‌اند. مسئول حملات هنوز مشخص نشده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/23779" target="_blank">📅 13:51 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/23779" target="_blank">📅 13:51 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23778">
@@ -1170,7 +1170,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 </div>
 <div class="tg-text">کانال ۱۴ اسرائیل : پیش از سخنرانی رئیس‌جمهور ایران در سازمان ملل، کانال‌های رسانه‌ای سپاه پاسداران ویدئویی مفهومی و ساخته‌شده با هوش مصنوعی منتشر کردند که تصویری از نخستین آزمایش بمب هسته‌ای «واقعیه گرم» ایران را به نمایش می‌گذارد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/23778" target="_blank">📅 13:25 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/23778" target="_blank">📅 13:25 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23777">
@@ -1180,7 +1180,7 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 تنگه هرمز را ظرف ۷ روز بازگشایی کند
 . به گفته این مقام، این پیشنهاد از طریق میانجی‌ها به آمریکا منتقل شده و ایران خواستار ازسرگیری مذاکرات برای دستیابی به پایان دائمی درگیری‌هاست. این گزارش تاکنون به‌طور مستقل از سوی ایران یا آمریکا تأیید نشده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/23777" target="_blank">📅 13:08 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/23777" target="_blank">📅 13:08 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23776">
@@ -1188,24 +1188,24 @@ F-16 متعلق به بال ۵۲ جنگنده آمریکا
 <div class="tg-text">وزیر دفاع اسرائیل، یسرائیل کاتس:
 «با توجه به برخی نیت‌ها و گزارش‌های اطلاعاتی، به سازمان تروریستی حماس و حامیان آن، از ایران گرفته تا اردوغان، هشدار می‌دهم: اگر حتی یک سرباز یا غیرنظامی اسرائیلی ربوده شود، کل شهر غزه، همراه با خانه‌ها و برج‌های آن که محل فعالیت‌های تروریستی هستند، به سمت جنوب تخلیه خواهد شد و بیش از یک میلیون ساکن آن نیز منتقل خواهند شد. با شهر غزه همان‌گونه برخورد خواهد شد که با رفح، بیت‌حانون و ۷۰ درصد از مناطق غزه برخورد شد، تا زمانی که افراد ربوده‌شده بازگردانده شوند.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/23776" target="_blank">📅 12:53 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/23776" target="_blank">📅 12:53 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23775">
 <div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">@WarRoom
 DorDor</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/23775" target="_blank">📅 12:19 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/23775" target="_blank">📅 12:19 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23774">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/23774" target="_blank">📅 12:12 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/23774" target="_blank">📅 12:12 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23773">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/23773" target="_blank">📅 12:10 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/23773" target="_blank">📅 12:10 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23772">
@@ -1218,13 +1218,13 @@ DorDor</div>
 😂
 😂
 @WarRoom</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/23772" target="_blank">📅 12:01 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/23772" target="_blank">📅 12:01 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23771">
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">روز گذشته، گوشی یک پاکبان زحمتکش در مشهد به سـرقت رفت و یک هموطن با حضور در منزل این پاکبان، برای او یک گوشی موبایل تهیه کرده و به وی هدیه داد.  @WarRoom</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/23771" target="_blank">📅 11:45 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/23771" target="_blank">📅 11:45 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23770">
@@ -1239,7 +1239,7 @@ DorDor</div>
 <div class="tg-text">روز گذشته، گوشی یک پاکبان زحمتکش در مشهد به سـرقت رفت
 و یک هموطن با حضور در منزل این پاکبان، برای او یک گوشی موبایل تهیه کرده و به وی هدیه داد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/23770" target="_blank">📅 11:41 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/23770" target="_blank">📅 11:41 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23769">
@@ -1251,13 +1251,13 @@ DorDor</div>
 ، تایوان و ایران
 از موضوعات حساس روابط دو کشور هستند , باید دید آمریکا چه درخواستی دارد
 @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/23769" target="_blank">📅 11:06 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/23769" target="_blank">📅 11:06 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23768">
 <div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">رویترز: ایالات متحده قصد دارد یک پایگاه نظامی متعلق به دوران جنگ سرد را در منطقه نارزارسوآک در جنوب گرینلند مجدداً احیا کند و همچنین در مسترسویک در سواحل شرقی، یک حضور نظامی جدید ایجاد کند؛ این اقدام در چارچوب توافقی میان آمریکا، دانمارک و گرینلند انجام خواهد…</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/23768" target="_blank">📅 11:03 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/23768" target="_blank">📅 11:03 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23767">
@@ -1267,7 +1267,7 @@ DorDor</div>
 تسلیح و حمایت از حوثی‌ها را متوقف کند
 و حملات حوثی‌ها علیه عربستان و کشتی‌های غیرنظامی را محکوم کرد. G7 از حوثی‌ها نیز خواست حملات و تهدیدهای نظامی را متوقف کرده و به روند سیاسی بازگردند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/23767" target="_blank">📅 11:02 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/23767" target="_blank">📅 11:02 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23766">
@@ -1281,7 +1281,7 @@ DorDor</div>
 </div>
 <div class="tg-text">خزعلی: شاه به قم آمد و به همه آخوندها گفت دوره مُفخوری گذشته است. هزار و چهارصد سال است که فکر شما تکان نخورده
 @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/23766" target="_blank">📅 10:38 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/23766" target="_blank">📅 10:38 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23765">
@@ -1295,7 +1295,7 @@ DorDor</div>
 </div>
 <div class="tg-text">چک سنگین شاهزاده به صورت موشتبی خامنه‌ای
 @WarRoom</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/23765" target="_blank">📅 09:50 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/23765" target="_blank">📅 09:50 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23764">
@@ -1305,7 +1305,7 @@ DorDor</div>
 ایران، اوکراین و یمن
 از محورهای اصلی برنامه او هستند. همچنین قرار است با رهبران کشورهای خلیج فارس درباره حملات حوثی‌ها جلسه داشته باشد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/23764" target="_blank">📅 09:45 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/23764" target="_blank">📅 09:45 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23763">
@@ -1317,7 +1317,7 @@ DorDor</div>
 ۱۰۰ درصد آرا
 را به او اختصاص داده‌اند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/23763" target="_blank">📅 09:43 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/23763" target="_blank">📅 09:43 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23762">
@@ -1333,7 +1333,7 @@ DorDor</div>
 سیریوس (Sirius Dog Sled Patrol)
 مورد استفاده قرار می‌گیرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/23762" target="_blank">📅 09:42 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/23762" target="_blank">📅 09:42 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23761">
@@ -1350,14 +1350,14 @@ DorDor</div>
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">پزشکیان : دشمن در تلاش است تا تمام راه‌های هوایی‌ و زمینی را بر ایران ببندد تا ما را مجبور به تسلیم کند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/23760" target="_blank">📅 09:20 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/23760" target="_blank">📅 09:20 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23759">
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">الجزیره: نیروهای اسرائیلی به شهر الرفید در حومه القنیطره، در جنوب غربی سوریه، نفوذ کرده و اکنون تعدادی از خانه‌ها را تفتیش می‌کنند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/23759" target="_blank">📅 09:19 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/23759" target="_blank">📅 09:19 · 31 Shahrivar 1405</a></div>
 </div>
 
 <hr>
