@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-01 22:38:16</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-02 01:53:59</div>
 <hr>
 
 <div class="tg-post" id="msg-2614">
@@ -309,7 +309,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/ircfspace/2614" target="_blank">📅 08:01 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/ircfspace/2614" target="_blank">📅 08:01 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2613">
@@ -330,7 +330,7 @@ raaznet
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/ircfspace/2613" target="_blank">📅 07:52 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/ircfspace/2613" target="_blank">📅 07:52 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2612">
@@ -348,7 +348,7 @@ milad_joodi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/ircfspace/2612" target="_blank">📅 07:45 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/ircfspace/2612" target="_blank">📅 07:45 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2611">
@@ -366,7 +366,7 @@ github.com/Noisemux/zeptun
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/ircfspace/2611" target="_blank">📅 08:20 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/ircfspace/2611" target="_blank">📅 08:20 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2610">
@@ -382,7 +382,7 @@ github.com/Noisemux/zeptun
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/ircfspace/2610" target="_blank">📅 08:11 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/ircfspace/2610" target="_blank">📅 08:11 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2609">
@@ -404,7 +404,7 @@ telegra.ph/Google-Flow-Helper-09-20
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/ircfspace/2609" target="_blank">📅 07:59 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/ircfspace/2609" target="_blank">📅 07:59 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2608">
@@ -420,7 +420,7 @@ telegra.ph/Google-Flow-Helper-09-20
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/ircfspace/2608" target="_blank">📅 17:35 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/ircfspace/2608" target="_blank">📅 17:35 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2607">
@@ -439,7 +439,7 @@ Maji_Call
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/ircfspace/2607" target="_blank">📅 17:30 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/ircfspace/2607" target="_blank">📅 17:30 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2606">
@@ -457,7 +457,7 @@ PasKoocheh
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/ircfspace/2606" target="_blank">📅 17:12 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/ircfspace/2606" target="_blank">📅 17:12 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2605">
@@ -474,7 +474,7 @@ Ralireza11
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/ircfspace/2605" target="_blank">📅 17:08 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/ircfspace/2605" target="_blank">📅 17:08 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2604">
@@ -490,7 +490,7 @@ itiransite
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/ircfspace/2604" target="_blank">📅 17:07 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/ircfspace/2604" target="_blank">📅 17:07 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2603">
@@ -554,7 +554,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/ircfspace/2599" target="_blank">📅 07:53 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 39K · <a href="https://t.me/ircfspace/2599" target="_blank">📅 07:53 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2598">
@@ -606,7 +606,7 @@ hamedvpns
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 76.7K · <a href="https://t.me/ircfspace/2596" target="_blank">📅 08:14 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 76.9K · <a href="https://t.me/ircfspace/2596" target="_blank">📅 08:14 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2595">
@@ -801,7 +801,7 @@ github.com/mirarr-app/Misga/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/ircfspace/2584" target="_blank">📅 08:53 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/ircfspace/2584" target="_blank">📅 08:53 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2583">
@@ -819,7 +819,7 @@ PingChannel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/ircfspace/2583" target="_blank">📅 08:40 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/ircfspace/2583" target="_blank">📅 08:40 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2582">
@@ -869,7 +869,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/ircfspace/2580" target="_blank">📅 07:10 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/ircfspace/2580" target="_blank">📅 07:10 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2579">
@@ -1161,7 +1161,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2561">
@@ -1468,7 +1468,7 @@ manageit
 
 <div class="tg-post" id="msg-2541">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/V-YrvRkmHV-oxtbbosnE_cS_8gR5TTN3wU21Ok_4fOfkcaT9j3AVRGjzaEHFwrmohRz2ao4s6CVYOox2MzGypodwemdXmnOmmmwDt5X2vX86fcucj9txS6TKApehIGZFgEdznGc7AFt9vZ0gPqwI_vVfeyYO5rgqG2yMn9P3TDr8nM7Xz0czfUwSipO2dFMKlmjmYw8WfLWuo9X1h2dwTC5nNTEoSulxabL7P5vfzqOSKaiXca9g0UWa-UyswSHPgOuOo9C6-zDuJkLqWKpYfhiBQnw-hhAWweWKfnnxzZGaxP-8SU1L8X1RGClfaNzQoey9xfzRFgOeH1n-mPsv1g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gTcFOxlgjbPIkBg8rvLfSCPUB1QFJeqAJUcoLmVdiQ2DNSTw787z8uHDtywom9CQaOQNJhkCva-c3mzxsZDyhorgSqZuN-QTeeEj-j6l6yFoPU5ky_bVSyZa73EWB3U-OVKQQbz3_m9on5UbfcQ6P9EMLPpvnAYK70YOmhka4lyV4WxVhp4odGmDVkvD6tEf3qPuXv7TQ6cniA0etnOnz_53mIkbAPixSlPeulhKHBcI0Z7LVfn9XnTZpp072K-i5SQCfdZQ_826Os-_L-4_56NE6Qkd_qxaI4TqYAEMgBCBso2uQdMdTACLtWIy3I49FZr8Ib0uT_4XaIlElNXi6g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باورم نمیشد که بعد از ۸۸ روز قطع سراسری اینترنت به جای اینکه بیرون بندازنشون، به نمایندگان حکومت تریبون دادن که در اجلاس جهانی اینترنت سخنرانی کنن؛ بعد دیدم این اجلاس در چین برگزار شده!
 روابط عمومی وزارت قطع‌ارتباطات گفته نمایندگان جمهوری اسلامی در پنل‌های تخصصی اجلاس جهانی اینترنت که دیروز برگزار شد، مجموعه‌ای از پیشنهادهای راهبردی برای توسعه همکاری‌های جهانی در حوزه‌های اقتصاد دیجیتال، هوش مصنوعی، امنیت سایبری، خدمات ابری و تاب‌آوری زیرساخت‌های ارتباطی ارائه کردن.
 🔗
@@ -1592,7 +1592,7 @@ AmirMahdi
 
 <div class="tg-post" id="msg-2533">
 <div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OmD6PYUgXvP5GqAxVq9esaY1CQghVXXMhTKkXQiXTskqP0ESuHo3g2gH3C26TOYLT1pU1HMS0klnGSHWynDxe9rrIvIWD6aq8MadTWtmZwQw60QQ3MbYR2sPX0yg14pkMcNN5OBAwCdQsDgQKN5gF_eluKLmsF40PtuhFtSWae1OACX5zv-yov9tHHfLQv8ReazLfAWtBIXv_F950CQzUPgqzGt8VzCxo9xeL94kOwamSC7J0bQtnuYqJ7skIxbptuDbk81kBOnyE5odfuHzOEFlkbsDD2L4nhIkGK3UxZYNdJh2TPqnAtMWG2MkHEFbHvCal5CUBgqk8GNl_833jQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DWpoWi8W9DgQe-LQFv1XyJ1eIHz4-Yv3PEUSVwi__5mtNXEc5V88MabMeBwbgkZExw6MdEMTvaTX_Su5X6xwVQcfAtmF_D3lDcVmMMEHMBXk0weCLqedgGQFYA6GTAJSB5DPWF1WUm0UjIlPC02kWcDIXcU3ATQdPI7Fnwy2N1vCKXaNeb5yst_WWaei5QkOwWid_m2s1VA2emTu6ghRGFhmGJjnpNejRCvEKLqLOx9FSqhtfTClK-mNVmnxW6ziBDP19EODGZTlhEYi3n3XRo-vi1yombcUDceY0zxRMcDEJTq4iLcuMh6RykatONfebJv8yVbFMtzPf3F8JcNzMA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جهت کنجکاوی در مورد موضوع ضریب جدید روی اینترنت بین‌الملل، ۱ گیگ دانلود کردم و توی پنل دیدم ۲ گیگ محاسبه شده!
 ©
 Farshad
@@ -1752,7 +1752,7 @@ testflight.apple.com/join/cRSCr51a
 
 <div class="tg-post" id="msg-2524">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lb7JN7yJlBYgASTfSta27KMjq3GgFS4rH04nh8LnhVmKwbtizKBKE7xNXl529WhUvYa33sJi9JkuSp9tIiUv8DuRaNnznur4tY-Usc7ulEcywaIdD4BPNoV6V_a90F5OVdOh3ztQZ2WSr-kDKPXNvE8b6sT-PNU9W7jySuw2_Y3sRDMx_SOKa3tWZ7SOGPQXFFp0ePyZ1e9NBrGU_az6rcpu4_XMxVeBjSOjeuTW1NTH1Q112FaYrlaQb56z-dQIQDsyUX-XwFfjedVbRCrzldKgbJevEp2hknOu5bM-phgKbtAAek3nSWZave_UXILCn3Xil_Nyaviwp50uKD5D1Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AYt7UrvmGYDXRVx2bSVIy1dFEebDwnBHDfrpdFySCHVLRpRtkKi9LkUNY41-eid55eS7d6UItyuHf86ALBu3fjK_vLB88WFNhIlLEZ5jQlSnlBpuiDHsw7VNb-A-zym9za_G3hIKmIINu-pq8C-Obg2FvulT3e57MNmlbJPs-uHHYqt3INpW-i-Oe_j3tXbTOi0HUo4-UFnPb7yiAuIOKF_szZDkDTYAPQoJGM57tVFH6ZjxYxxK2vVyWQ2ttefaOdYzW9YgDjaABpYh7UH2LSS9aGNT9S0WmREajR_PFIcX4g68wx7u_5Fzf9CExTO6-CTDdEX8gj7W1xYr72dG_A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هنوز کسی مسدود شدن سایت فوتبال ۳۶۰ رو گردن نگرفته، اما سخنگوی دولت گفته "هرگونه انسداد، تعلیق، تحدید، ممنوعیت فعالیت سکوها و کسب‌وکارهای دیجیتالی پس از اخذ نظر ستاد راهبری و ساماندهی فضای مجازی و دستور رئیس جمهور شدنی است" و "این موضوع یکی از دستاوردهای رئیس‌جمهور است"!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1798,7 +1798,7 @@ github.com/immaghzbad/AetherST/releases
 
 <div class="tg-post" id="msg-2521">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WDHXCOoIJWsZdB8HOLKYs8M_UcXn1Jf1l88l96eGdhnS5bGQPtBhlYsS05VhMCh946qGE9Lnqo8YvL487tp_dxsRxC8ryfZG0VuO37AmYN7qUDJyX3q47Dg9tmZVfXxaDqx7-ee27hCU72hCP8cmniX2X_PhN07Akf5zdcUjWe5pBOAkAYQxANIJZwVQ7DX7SZZ7mtpW3w-tCnQsEpgdUpypYHE-xOxqrF-K--hOMrrDAXJRDS65IwKL9xf1vlyaEFpDJ6xNOXSwlw1YpWCa_j5PFy1NJzL5x7nJpgj9VpDM4sHVeeDJP4r-xbJB_noDDpzFC_LGibLtZT6uZkmEyQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/T-M7iKCeHYlFICuChkiw0TUH20eQzY9kIf64Qanucndpr75axSZNkjrJs8gHbUcUhy9awquC2sDxxKRZXTjo9h1J_amJTmlldk2BHhVNHBMHmoszJflFZBBpykhcPtgpdh_dD7DUY-P-sfE9v7h0_vMK-hLNdARdfVYer5YlLIfU6sPQldXFvY2ouhs19PEOhFlcKxhBwEdDStsvYTtwKV1ka_u5oXwo-PA_tAWqJiIlwt1A_uqWOYCdIT0wk0-U8jF7BKRn_-mfN9mFTh59RVtKrkLTeoiFHEI7p9K7Fa7UY1MAMgzjBEm0NuZeGAo9Lywjo4k0O885tabkbAN4Ng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسپرسکی از فعالیت تازه گروه هکری تحت حمایت حکومت ایران به نام Nimbus Manticore خبر داده، که با نام‌های Mirage Kitten، Smoke Sandstorm و UNC1549 نیز شناخته می‌شود.
 این گروه در حملات جدید خود از یک Backdoor ناشناخته ویندوزی به نام NightLedger و دو ابزار Tunnel با نام‌های BridgeHead و ArcBridge استفاده کرده، که قادر است اطلاعات‌ سیستم و شبکه را جمع‌آوری کند، فرمان اجرا کند، فایل‌ها را سرقت یا حذف کند، Processها را شناسایی کرده و از صفحه‌نمایش Screenshot بگیرد.
 بخش نگران‌کننده‌تر، ابزارهای BridgeHead و ArcBridge هستند؛ این بدافزارها سیستم آلوده را به یک Relay مخفی تبدیل می‌کنند تا مهاجم بتواند ترافیک خود را از داخل شبکه قربانی عبور دهد و به سایر سامانه‌های داخلی دسترسی پیدا کند.
