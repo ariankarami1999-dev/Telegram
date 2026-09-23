@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-01 04:16:56</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-01 08:53:36</div>
 <hr>
 
 <div class="tg-post" id="msg-7848">
@@ -332,7 +332,7 @@ OdiRouter
 |
 #API
 #AI</div>
-<div class="tg-footer">👁️ 674 · <a href="https://t.me/ArchiveTell/7848" target="_blank">📅 23:09 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 805 · <a href="https://t.me/ArchiveTell/7848" target="_blank">📅 23:09 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7847">
@@ -344,7 +344,7 @@ OdiRouter
 🔥
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 837 · <a href="https://t.me/ArchiveTell/7847" target="_blank">📅 22:32 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 926 · <a href="https://t.me/ArchiveTell/7847" target="_blank">📅 22:32 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7842">
@@ -360,7 +360,7 @@ OdiRouter
 مدل‌های GPT 6 Sol و GPT 6 Luna عرضه شدند.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 930 · <a href="https://t.me/ArchiveTell/7842" target="_blank">📅 21:58 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.01K · <a href="https://t.me/ArchiveTell/7842" target="_blank">📅 21:58 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7841">
@@ -370,7 +370,7 @@ OdiRouter
 مدل‌های GPT 6 Sol و GPT 6 Luna عرضه شدند.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1K · <a href="https://t.me/ArchiveTell/7841" target="_blank">📅 21:34 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.05K · <a href="https://t.me/ArchiveTell/7841" target="_blank">📅 21:34 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7834">
@@ -386,7 +386,7 @@ OdiRouter
 چندتا کلیپ باحال در مورد معرفی Claude Opus 5.5
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 939 · <a href="https://t.me/ArchiveTell/7834" target="_blank">📅 21:27 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 981 · <a href="https://t.me/ArchiveTell/7834" target="_blank">📅 21:27 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7826">
@@ -400,7 +400,7 @@ OdiRouter
 تست کنید.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.21K · <a href="https://t.me/ArchiveTell/7826" target="_blank">📅 20:11 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.26K · <a href="https://t.me/ArchiveTell/7826" target="_blank">📅 20:11 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7824">
@@ -441,7 +441,7 @@ image-01 (تولید و ویرایش تصویر)
 سهمیه هر 5 ساعت یکبار ریست می‌شود.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.34K · <a href="https://t.me/ArchiveTell/7824" target="_blank">📅 15:22 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.36K · <a href="https://t.me/ArchiveTell/7824" target="_blank">📅 15:22 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7823">
@@ -473,7 +473,7 @@ ax.io/v1alpha1
 صفحهٔ رسمی پروژه
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.34K · <a href="https://t.me/ArchiveTell/7823" target="_blank">📅 14:22 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.36K · <a href="https://t.me/ArchiveTell/7823" target="_blank">📅 14:22 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7822">
@@ -533,7 +533,7 @@ platform.xplabs.ai
 از آن استفاده کنید.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.4K · <a href="https://t.me/ArchiveTell/7821" target="_blank">📅 11:07 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.41K · <a href="https://t.me/ArchiveTell/7821" target="_blank">📅 11:07 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7818">
@@ -583,7 +583,7 @@ MiMo Studio
 🔥
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.52K · <a href="https://t.me/ArchiveTell/7817" target="_blank">📅 01:43 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/ArchiveTell/7817" target="_blank">📅 01:43 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7816">
@@ -591,7 +591,7 @@ MiMo Studio
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/F7FWaMg7gRQXSlFNyl9l5PBCDkzc5PXSCCmfAwRKsg6T8YOkyy6GsH_IBhXaYeirKRwMVXn4YCF7ciQ4TmaeBjxNobAA0Jmf7ZifJaKVKMkkyTjIm6yUc3pA9CQ_EGGIJaYxjHaeLX3bjCnZjz90jcqJjHK_02fqFTqumO52rH4s4dRWcsLIfriWsspEHmM8iPGA4AgD5eU-j7BGWwj44tNZBjEwiw_RYYsKkA0-aJ0ElU80f2IjRChkM2lLur6DUFICK6lqHHDdQ2tri8Z4PjF3U7dK4LM8zqqLHVRLr9mePpj3G3pwpe0-8CXqSiKpcMnqJXkbzOJ5lDZrDLoeIg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔥
 شرکت شیائومی 3.5 میلیون دلار را به صورت زنده سوزاند و بلافاصله مدل‌های MiMo-V2.6 را در API منتشر کرد   درست چند ساعت پس از پایان پخش زنده پنج روزه آموزش RL که در داشبورد عمومی قرار داشت، شرکت شیائومی بدون هیچگونه تبلیغ، کل مجموعه مدل‌های MiMo-V2.6 را در…</div>
-<div class="tg-footer">👁️ 1.52K · <a href="https://t.me/ArchiveTell/7816" target="_blank">📅 01:17 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/ArchiveTell/7816" target="_blank">📅 01:17 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7815">
@@ -602,7 +602,7 @@ MiMo Studio
 ؛ mimo-v2.6-flash، mimo-v2.6-pro و مدل پرچمدار با سرعت بالا mimo-v2.6-pro-ultraspeed.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.54K · <a href="https://t.me/ArchiveTell/7815" target="_blank">📅 01:00 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.55K · <a href="https://t.me/ArchiveTell/7815" target="_blank">📅 01:00 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7814">
@@ -625,7 +625,7 @@ Gemini 4 pro
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">😎
 از 265,000 اعتبار رایگان برای استفاده از مدل‌های برتر مانند GPT 6 ASTRA، CLAUDE FABLE 5.1، GLM 5.3، و غیره بهره‌مند شوید.  یک حساب کاربری جدید ایجاد کنید و فوراً 250,000 اعتبار دریافت کنید. با ورود روزانه 15,000 اعتبار دیگر کسب کنید و با انجام وظایف، اعتبار…</div>
-<div class="tg-footer">👁️ 1.63K · <a href="https://t.me/ArchiveTell/7813" target="_blank">📅 22:41 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.64K · <a href="https://t.me/ArchiveTell/7813" target="_blank">📅 22:41 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7811">
@@ -663,7 +663,7 @@ https://github.com/web-elite/router-models
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.58K · <a href="https://t.me/ArchiveTell/7811" target="_blank">📅 22:09 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.59K · <a href="https://t.me/ArchiveTell/7811" target="_blank">📅 22:09 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7810">
@@ -685,7 +685,7 @@ https://github.com/web-elite/router-models
 اینجا کلیک کنید.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.61K · <a href="https://t.me/ArchiveTell/7810" target="_blank">📅 20:26 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.62K · <a href="https://t.me/ArchiveTell/7810" target="_blank">📅 20:26 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7809">
@@ -709,7 +709,7 @@ AutoClaw
 انجام شد! حالا ما نیم میلیارد توکن داریم! مهم این است که آن‌ها را در طول روز خرج کنید، زیرا در پایان کمپین (23 سپتامبر) از بین می‌روند.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.68K · <a href="https://t.me/ArchiveTell/7809" target="_blank">📅 19:32 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.7K · <a href="https://t.me/ArchiveTell/7809" target="_blank">📅 19:32 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7808">
@@ -922,7 +922,7 @@ www.seedr.cc
 ✈️
 @ArchiveTell
 | S</div>
-<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/ArchiveTell/7801" target="_blank">📅 01:58 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/ArchiveTell/7801" target="_blank">📅 01:58 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7800">
@@ -1101,7 +1101,7 @@ https://seekai.cc/v1
 
 <div class="tg-post" id="msg-7788">
 <div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pjuFGWLGhg03-9F2-xfVT_4jgrXxlXh-zANDQdqxYeilTTfGLzJSIRKgZ1hH2lEyW1uFcG7swN4GFDgs5DvFkoBn5bZlXJJm4X_MtFTQ00eWinE7LKkIJ6H2jxOQLcLjwuLC2mne5uF2Q3vuEnRyWeivc5hwq_w3qs6YK0oEm6wN6PPJOKRq1KQUbsyDiytVnb8nAolSt_76FmENHKffYkC_ZLryMhoJHZug2Z-8GZXy9gpKnWMZcizS98hr4_iM3SSOLLdT6T8M-RXNH-DjJZipa1nmYdojvNhxSx-vR6a8UYCNIqx4BKlK9I8ExwEiBJTLvJMDR82D2n3ZgjFfbQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jP6KoC26VS7GNWKHWJo5LVJjepewDVDlCpzQ83j3KPAnJSGnQHYxCfjwsb3eLexUxfYCnftPCtUrVzoAvN7VFf5tHSTJxcyfQ5-lHGw6HxpWSjtEKqqXYRIJli0-voOco7WOSXqyF7GrOhUhi9Bq0OXdV0DlJJCpcRsVAIlja8C5nBk4sN0A8YSKiRvwEG7CDiGFTTW-me4JNwfWP6oXc_ZUWvo4et0Jkt3GjSSpimLC2SQteg6Vebh3BM1awoT7yEMav_emTWw4X4VPJeKVV-3WvsokFsW_hfqMbI1qfRylCEOBxrCGPYvcXcCy5KiKgod3EXs8GnI-7no_bdBJSg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎁
 نسخه Claude Fable 5.1 به صورت رایگان در Freebuff CLI در حال حاضر در دسترس است.
 👾
@@ -1147,7 +1147,7 @@ freebuff
 اطلاعات بیشتر
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/ArchiveTell/7788" target="_blank">📅 11:26 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/ArchiveTell/7788" target="_blank">📅 11:26 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7787">
@@ -1164,7 +1164,7 @@ dns2
 37.230.192.51
 dns1
 83.220.169.155</div>
-<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/ArchiveTell/7787" target="_blank">📅 11:06 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/ArchiveTell/7787" target="_blank">📅 11:06 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7786">
@@ -1319,7 +1319,7 @@ API key خالی
 سریع بزنین تا تموم نشده
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/ArchiveTell/7779" target="_blank">📅 17:25 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.77K · <a href="https://t.me/ArchiveTell/7779" target="_blank">📅 17:25 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7778">
@@ -1706,7 +1706,7 @@ github.com/AliRezaC-xrol/bkup
 نتایج تست‌های عملکرد در تصویر نشان داده شده است.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.79K · <a href="https://t.me/ArchiveTell/7763" target="_blank">📅 14:47 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/ArchiveTell/7763" target="_blank">📅 14:47 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7762">
@@ -1968,7 +1968,7 @@ iamLiquidX/telegram-clone-worker⁩
 1min.ai
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/ArchiveTell/7753" target="_blank">📅 10:13 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/ArchiveTell/7753" target="_blank">📅 10:13 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7752">
@@ -2071,7 +2071,7 @@ Z.ai
 https://autoclaw.z.ai
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/ArchiveTell/7748" target="_blank">📅 18:36 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/ArchiveTell/7748" target="_blank">📅 18:36 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7747">
@@ -2235,7 +2235,7 @@ Analyses & Topic Classification
 base url: https://api.xpiki.com/v1
 🔥
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/ArchiveTell/7741" target="_blank">📅 22:17 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/ArchiveTell/7741" target="_blank">📅 22:17 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7740">
@@ -2294,7 +2294,7 @@ https://github.com/codewave4/Translator
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/ArchiveTell/7739" target="_blank">📅 18:42 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/ArchiveTell/7739" target="_blank">📅 18:42 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7738">
@@ -2467,7 +2467,7 @@ base url:
 https://api.xpiki.com/v1
 🔥
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.18K · <a href="https://t.me/ArchiveTell/7733" target="_blank">📅 11:16 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/ArchiveTell/7733" target="_blank">📅 11:16 · 22 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7732">
@@ -2691,7 +2691,7 @@ https://github.com/Qorvhex/Bifrost
 @ArchiveTell
 |
 #SHOWCASE</div>
-<div class="tg-footer">👁️ 1.86K · <a href="https://t.me/ArchiveTell/7725" target="_blank">📅 20:59 · 21 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/ArchiveTell/7725" target="_blank">📅 20:59 · 21 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7723">
@@ -2960,7 +2960,7 @@ browser-use.com
 💻
 ✨
 اگر می‌خواهید به صورت کاملاً رایگان از قدرت مدل هوش مصنوعی Claude برای برنامه‌نویسی، ساخت سیستم‌ها و توسعه پروژه‌های بلندمدت استفاده کنید، گیت‌لب (GitLab) یک فرصت بی‌نظیر ۳۰ روزه برای شما فراهم کرده است.…</div>
-<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/ArchiveTell/7710" target="_blank">📅 19:44 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.33K · <a href="https://t.me/ArchiveTell/7710" target="_blank">📅 19:44 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7708">
@@ -2985,7 +2985,7 @@ Opus 5 | GPT 5.6 Sol | GLM 5.3 | Opus 4.8 | Deepseek V4 Flash
 ✅
 🎁
 با هر رفرال شما 100 دلار و شخص دریافت کننده…</div>
-<div class="tg-footer">👁️ 2.36K · <a href="https://t.me/ArchiveTell/7707" target="_blank">📅 12:01 · 20 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.37K · <a href="https://t.me/ArchiveTell/7707" target="_blank">📅 12:01 · 20 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7706">
@@ -3034,7 +3034,7 @@ GPT-Image-2.5 Sunburst
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/ArchiveTell/7705" target="_blank">📅 15:37 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/ArchiveTell/7705" target="_blank">📅 15:37 · 19 Shahrivar 1405</a></div>
 </div>
 
 <hr>
