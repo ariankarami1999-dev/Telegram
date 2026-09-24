@@ -292,7 +292,7 @@
 <a href="https://t.me/alonews" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌جهت رزرو تبلیغات👇https://t.me/ads_alonewsپشتیبانی کانال🕵️https://t.me/AloNews?directمالک کانال🎩@AloNewsBotX:https://x.com/AloNewsBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-02 01:53:59</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-02 04:08:43</div>
 <hr>
 
 <div class="tg-post" id="msg-149063">
@@ -308,7 +308,7 @@
 پرواز یه بمب افکن b1 هنگام استقبال از شی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 1 · <a href="https://t.me/alonews/149063" target="_blank">📅 01:53 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/alonews/149063" target="_blank">📅 01:53 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149062">
@@ -324,7 +324,7 @@
 استقبال ترامپ از شی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 2.04K · <a href="https://t.me/alonews/149062" target="_blank">📅 01:52 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/alonews/149062" target="_blank">📅 01:52 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149061">
@@ -333,7 +333,7 @@
 تانکرترکرز گزارش می‌دهد که نزدیک به ۶ میلیون بشکه نفت خام توقیف‌شده جمهوری اسلامی ایران، به‌صورت مخفیانه در حال انتقال به ایالات متحده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 6.14K · <a href="https://t.me/alonews/149061" target="_blank">📅 01:45 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/alonews/149061" target="_blank">📅 01:45 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149059">
@@ -348,7 +348,7 @@
 پ.ن: میانگین آب اقیانوس‌ها ۳۷۰۰متر هست و تنها گودال ماریانا و جاوه بالای ۶۰۰۰متره که اونم خیلی از ایران دوره
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/alonews/149059" target="_blank">📅 01:34 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/alonews/149059" target="_blank">📅 01:34 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149058">
@@ -358,7 +358,7 @@
 عوستاد رائفی پور: جنگ‌های آتی ما و آمریکا تو فضا انجام میشه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/alonews/149058" target="_blank">📅 01:19 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 38.2K · <a href="https://t.me/alonews/149058" target="_blank">📅 01:19 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149057">
@@ -368,7 +368,7 @@
 مرندی: اگر کشورهای خلیج فارس جلوی پروازهای ایران رو بگیرن، ایران فرودگاه‌هاشون رو با موشک باران تعطیل می‌کنه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/alonews/149057" target="_blank">📅 01:13 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/alonews/149057" target="_blank">📅 01:13 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149056">
@@ -377,7 +377,7 @@
 گزارش‌ها از شلیک موشک کروز به سوی تنگه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/alonews/149056" target="_blank">📅 00:56 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 45.5K · <a href="https://t.me/alonews/149056" target="_blank">📅 00:56 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149055">
@@ -386,7 +386,7 @@
 صدای انفجار در قشم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/alonews/149055" target="_blank">📅 00:50 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/149055" target="_blank">📅 00:50 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149054">
@@ -402,7 +402,7 @@
 ویدیویی از حمله به نسیم شهر تهران در جنگ ۴۰روزه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.8K · <a href="https://t.me/alonews/149054" target="_blank">📅 00:31 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 56.3K · <a href="https://t.me/alonews/149054" target="_blank">📅 00:31 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149053">
@@ -411,7 +411,7 @@
 صدای انفجار در تنگه هرمز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.8K · <a href="https://t.me/alonews/149053" target="_blank">📅 00:20 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/alonews/149053" target="_blank">📅 00:20 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149052">
@@ -420,7 +420,7 @@
 سم آلتمن مدیرعامل شرکت OpenAI در نشست سازمان ملل گفت: هوش مصنوعی می‌تواند تصمیماتی بگیرد که انسان‌ها دیگر قادر به درک یا کنترل آنها نیستند. در این شرایط لازم است که به شدت مراقب باشیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 52.9K · <a href="https://t.me/alonews/149052" target="_blank">📅 00:04 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62K · <a href="https://t.me/alonews/149052" target="_blank">📅 00:04 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149051">
@@ -429,7 +429,7 @@
 پزشکیان از نیویورک خطاب به مردم: دعا کنید ناامیدتان نکنم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55K · <a href="https://t.me/alonews/149051" target="_blank">📅 23:59 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.4K · <a href="https://t.me/alonews/149051" target="_blank">📅 23:59 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149050">
@@ -438,7 +438,7 @@
 سی‌ان‌ان: پسر سفیر اسرائیل در ایالات متحده، در جریان حمله در کرانه باختری، به شدت مجروح شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54.9K · <a href="https://t.me/alonews/149050" target="_blank">📅 23:56 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.1K · <a href="https://t.me/alonews/149050" target="_blank">📅 23:56 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149049">
@@ -454,7 +454,7 @@
 پیتر دوسی، خبرنگار فاکس‌نیوز: اولویت اصلی و مطالبه شماره یک رئیس‌جمهور ترامپ این خواهد بود که چینی‌ها ارائه اطلاعات به ایرانی‌ها را متوقف کنند؛ اطلاعاتی که آنها از آن برای هدف قرار دادن منافع آمریکا استفاده می‌کنند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56K · <a href="https://t.me/alonews/149049" target="_blank">📅 23:49 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.2K · <a href="https://t.me/alonews/149049" target="_blank">📅 23:49 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149048">
@@ -471,7 +471,7 @@
 مقامات غربی تخمین می‌زنند که روسیه در حال حاضر هر ماه ۶۰۰۰ نیروی انسانی بیشتر را از دست می‌دهد تا اینکه نیرو جذب می‌کند، و این موضوع تا حدودی توضیح‌دهنده گزارش‌هایی است که حاکی از آن است که ژنرال‌های روسی خواستار بسیج بیشتر در چند ماه آینده هستند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53.9K · <a href="https://t.me/alonews/149048" target="_blank">📅 23:45 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.4K · <a href="https://t.me/alonews/149048" target="_blank">📅 23:45 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149047">
@@ -480,7 +480,7 @@
 گزارش ها وقوع چندین انفجار در تنگه هرمز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53.9K · <a href="https://t.me/alonews/149047" target="_blank">📅 23:39 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/149047" target="_blank">📅 23:39 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149046">
@@ -491,7 +491,7 @@
 دموکرات‌ها امیدوارند با تمرکز بر موضوعاتی مانند هزینه‌های درمان و سیاست‌های بهداشتی، در انتخابات پیش‌رو کنترل مجلس نمایندگان و سنا را به دست آورند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53.9K · <a href="https://t.me/alonews/149046" target="_blank">📅 23:39 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.8K · <a href="https://t.me/alonews/149046" target="_blank">📅 23:39 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149045">
@@ -500,7 +500,7 @@
 کرملین از دعوت آمریکا از ولادیمیر پوتین برای شرکت در نشست گروه ۲۰ استقبال کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54.9K · <a href="https://t.me/alonews/149045" target="_blank">📅 23:30 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.7K · <a href="https://t.me/alonews/149045" target="_blank">📅 23:30 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149042">
@@ -516,7 +516,7 @@
 همزمان، هواپیماهای جاسوسی و سوخت‌رسان انگلیسی در قبرس مستقر شدند و ۳ فروند هواپیمای ترابری کویتی نیز از اسلواکی در پایگاه هوایی خمیس مشیط فرود آمدند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58K · <a href="https://t.me/alonews/149042" target="_blank">📅 23:21 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/149042" target="_blank">📅 23:21 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149041">
@@ -533,7 +533,7 @@
 اگر نتانیاهو نبود، تردید دارم که اسرائیل امروز همچنان وجود می‌داشت، و این یک خطر واقعی نه تنها برای اسرائیل، بلکه برای اروپا و کل غرب خواهد بود.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.7K · <a href="https://t.me/alonews/149041" target="_blank">📅 23:16 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64K · <a href="https://t.me/alonews/149041" target="_blank">📅 23:16 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149040">
@@ -544,7 +544,7 @@
 یک خدمه جان باخت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59K · <a href="https://t.me/alonews/149040" target="_blank">📅 23:06 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/149040" target="_blank">📅 23:06 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149039">
@@ -553,7 +553,7 @@
 سخنگوی سپاه: پزشکیان امروز پیام قدرت را از قلب نظام سلطه بازتاب داد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/alonews/149039" target="_blank">📅 23:05 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.8K · <a href="https://t.me/alonews/149039" target="_blank">📅 23:05 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149038">
@@ -563,7 +563,7 @@
 افزایش ۴ درصدی قیمت نفت پس از سخنان محسن رضایی مبنی بر حمله به فرودگاهای منطقه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.2K · <a href="https://t.me/alonews/149038" target="_blank">📅 22:51 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/alonews/149038" target="_blank">📅 22:51 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149037">
@@ -572,7 +572,7 @@
 فوری / شلیک موشک به سوی کشتی‌های متخلف در تنگه هرمز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.1K · <a href="https://t.me/alonews/149037" target="_blank">📅 22:48 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67K · <a href="https://t.me/alonews/149037" target="_blank">📅 22:48 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149036">
@@ -581,7 +581,7 @@
 زلنسکی در مجمع عمومی سازمان ملل: روسیه با پهپاد های شاهد و تکنولوژی ایرانی نمی‌تواند ما را تسلیم کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.1K · <a href="https://t.me/alonews/149036" target="_blank">📅 22:44 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67.9K · <a href="https://t.me/alonews/149036" target="_blank">📅 22:44 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149035">
@@ -594,7 +594,7 @@
 ایران تهدید کرده اگه همسایه‌ها پروازهای ایرانی رو قطع کنن، فرودگاه‌هاشون رو فلج می‌کنه. این تهدید تازه‌ست و می‌تونه تنش‌ها رو تشدید کنه.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.2K · <a href="https://t.me/alonews/149035" target="_blank">📅 22:39 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.3K · <a href="https://t.me/alonews/149035" target="_blank">📅 22:39 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149034">
@@ -607,7 +607,7 @@
 این استدلال در جریان پرونده قضایی مربوط به تصمیم دولت ترامپ برای محدود کردن دسترسی این رسانه‌ها به کاخ سفید مطرح شده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/149034" target="_blank">📅 22:34 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.7K · <a href="https://t.me/alonews/149034" target="_blank">📅 22:34 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149033">
@@ -616,7 +616,7 @@
 احتمال صدای انفجار کنترل شده در جاسک
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.2K · <a href="https://t.me/alonews/149033" target="_blank">📅 22:28 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 73.2K · <a href="https://t.me/alonews/149033" target="_blank">📅 22:28 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149032">
@@ -629,7 +629,7 @@
 دلیل  این تحریم‌ها «حقوق بشر و خشونت غیرقانونی» ذکر شده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.4K · <a href="https://t.me/alonews/149032" target="_blank">📅 22:17 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 75K · <a href="https://t.me/alonews/149032" target="_blank">📅 22:17 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149031">
@@ -638,7 +638,7 @@
 هیمتی: در حد توانمون تورم رو کنترل می‌کنیم باقیش رو هم هرچی خدا بخواد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 69.4K · <a href="https://t.me/alonews/149031" target="_blank">📅 22:09 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 73.6K · <a href="https://t.me/alonews/149031" target="_blank">📅 22:09 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149030">
@@ -653,13 +653,13 @@
 با این حال، بر اساس گزارش العربیه به نقل از یک منبع آمریکایی حاضر در مذاکرات، واشنگتن درخواست ایران برای لغو محاصره دریایی را نپذیرفته و اختلافات میان دو طرف همچنان پابرجاست.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 71.3K · <a href="https://t.me/alonews/149030" target="_blank">📅 22:02 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 74.6K · <a href="https://t.me/alonews/149030" target="_blank">📅 22:02 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149029">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">صید یک ماهی عجیب در دریای بالتیک  [@AloTweet]</div>
-<div class="tg-footer">👁️ 70.3K · <a href="https://t.me/alonews/149029" target="_blank">📅 21:59 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 74K · <a href="https://t.me/alonews/149029" target="_blank">📅 21:59 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149028">
@@ -669,7 +669,7 @@
 واکنش روبیو به سخنرانی پزشکیان: کسانی که ده‌ها هزار معترض بی گناه را میکشند حق حرف زدن درباره منشور سازمان ملل را ندارند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 73.4K · <a href="https://t.me/alonews/149028" target="_blank">📅 21:52 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 76.7K · <a href="https://t.me/alonews/149028" target="_blank">📅 21:52 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149027">
@@ -678,7 +678,7 @@
 زلنسکی: امسال به طور میانگین هر ماه ۳۱ هزار تا روس رو توی جنگ کشتیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 71.3K · <a href="https://t.me/alonews/149027" target="_blank">📅 21:45 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 74.6K · <a href="https://t.me/alonews/149027" target="_blank">📅 21:45 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149026">
@@ -694,14 +694,14 @@
 سعید حدادیان، مداح: مجتبی خامنه‌ای امام ماست.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 72.4K · <a href="https://t.me/alonews/149026" target="_blank">📅 21:37 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 75.5K · <a href="https://t.me/alonews/149026" target="_blank">📅 21:37 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149025">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">💢
 قیمت دلار و طلا منفجر شد</div>
-<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/alonews/149025" target="_blank">📅 21:36 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.7K · <a href="https://t.me/alonews/149025" target="_blank">📅 21:36 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149024">
@@ -712,7 +712,7 @@
 من هیچ‌کس را نمی‌شناسم که علناً طرفدار این جنگ باشد، جز یک نفر.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 71.3K · <a href="https://t.me/alonews/149024" target="_blank">📅 21:34 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 73.6K · <a href="https://t.me/alonews/149024" target="_blank">📅 21:34 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149023">
@@ -732,7 +732,7 @@
 گفته می‌شود تمامی این پهپادها در مناطق کوهستانی خارج از کوهات و در نزدیکی تورخم در ایالت خیبر پختونخوا پاکستان سرنگون شده‌اند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 73.3K · <a href="https://t.me/alonews/149023" target="_blank">📅 21:29 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 76.2K · <a href="https://t.me/alonews/149023" target="_blank">📅 21:29 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149022">
@@ -743,7 +743,7 @@
 نتانیاهو به دلایل امنیتی ویژه در خاورمیانه، حتی یک شب هم در نیویورک اقامت نخواهد کرد و فوراً به اسرائیل بازمی‌گردد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.3K · <a href="https://t.me/alonews/149022" target="_blank">📅 21:27 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.7K · <a href="https://t.me/alonews/149022" target="_blank">📅 21:27 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149021">
@@ -752,7 +752,7 @@
 محسن رضایی: هر کشوری حریم هوایی خودش رو به روی ما ببنده، فرودگاه اون کشور رو نابود می‌کنیم؛ اون‌ها هم دیگه نمی‌تونن پرواز داشته باشن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/alonews/149021" target="_blank">📅 21:26 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 71.6K · <a href="https://t.me/alonews/149021" target="_blank">📅 21:26 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149020">
@@ -761,7 +761,7 @@
 پزشکیان امروز غیرمستقیم گفت که معترضان دی ماه، مزدور مسلح شده توسط آمریکا و اسرائیل بودن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/alonews/149020" target="_blank">📅 21:25 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.9K · <a href="https://t.me/alonews/149020" target="_blank">📅 21:25 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149019">
@@ -772,7 +772,7 @@
 بله دیروز با آمریکا حرف زدیم و براش شرط گذاشتیم جنگو محاصره و فشار اقتصادی رو تمام کنه، پولامونم آزاد کنه، تنگه هرمز هم دست ما باشه و یه دور هم به ما بده
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 70.4K · <a href="https://t.me/alonews/149019" target="_blank">📅 21:19 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 72.6K · <a href="https://t.me/alonews/149019" target="_blank">📅 21:19 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149018">
@@ -785,7 +785,7 @@
 این اقدام با هدف کاهش هزینه‌های سفر، برای اولین‌بار توسط یکی از رؤسای‌جمهور ایران انجام شده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 70.3K · <a href="https://t.me/alonews/149018" target="_blank">📅 21:11 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 72.9K · <a href="https://t.me/alonews/149018" target="_blank">📅 21:11 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149017">
@@ -794,7 +794,7 @@
 وزیر نفت: پول نفت‌هایی که فروخته‌ایم درحال وصول است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 69.3K · <a href="https://t.me/alonews/149017" target="_blank">📅 21:07 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 71.4K · <a href="https://t.me/alonews/149017" target="_blank">📅 21:07 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149016">
@@ -804,7 +804,7 @@
 دولت ترامپ در حال آماده‌سازی طرحی برای ممنوعیت سه ماهه صادرات گازوئیل است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 69.3K · <a href="https://t.me/alonews/149016" target="_blank">📅 21:02 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 71.6K · <a href="https://t.me/alonews/149016" target="_blank">📅 21:02 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149015">
@@ -814,7 +814,7 @@
 آپدیت جدید تلگرام اینجوری که وقتی وارد پروفایل یکی میشین اون قسمت بالا شمارش میزنه بطور میانگین، چقدر سریع به پیام‌ها پاسخ میده مثلا ۱۰ دقیقه، ۱ ساعت یا ۱ روز.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 73.4K · <a href="https://t.me/alonews/149015" target="_blank">📅 20:53 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 75.9K · <a href="https://t.me/alonews/149015" target="_blank">📅 20:53 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149014">
@@ -831,7 +831,7 @@
 اگر اروپایی‌ها این بازی‌ها و اقداماتشان را انجام نمی‌دادند، اوکراین مرزهای سال ۱۹۹۱ خودش را حفظ می‌کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/alonews/149014" target="_blank">📅 20:49 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.4K · <a href="https://t.me/alonews/149014" target="_blank">📅 20:49 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149013">
@@ -841,7 +841,7 @@
 حضور دختر و داماد پزشکیان در مجمع سازمان ملل در نیویورک
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/alonews/149013" target="_blank">📅 20:41 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.5K · <a href="https://t.me/alonews/149013" target="_blank">📅 20:41 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149012">
@@ -850,7 +850,7 @@
 فیلد مارشال محسن رضایی: تنگه همچنان تنگه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.3K · <a href="https://t.me/alonews/149012" target="_blank">📅 20:35 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.5K · <a href="https://t.me/alonews/149012" target="_blank">📅 20:35 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149011">
@@ -861,7 +861,7 @@
 بانک مرکزی امارات دلیل این تصمیم را نقض مقررات مالی این کشور، از جمله رعایت نکردن الزامات مربوط به مبارزه با پول‌شویی، تأمین مالی تروریسم و تأمین مالی اشاعه تسلیحات اعلام کرده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 69.8K · <a href="https://t.me/alonews/149011" target="_blank">📅 20:29 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 72.1K · <a href="https://t.me/alonews/149011" target="_blank">📅 20:29 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149010">
@@ -878,7 +878,7 @@
 حملات رژیم ایران علیه اسرائیل را محکوم می‌کنیم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/alonews/149010" target="_blank">📅 20:23 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.4K · <a href="https://t.me/alonews/149010" target="_blank">📅 20:23 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149009">
@@ -888,7 +888,7 @@
 دیدار پزشکیان با نخست وزیر عراق
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.4K · <a href="https://t.me/alonews/149009" target="_blank">📅 20:17 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.2K · <a href="https://t.me/alonews/149009" target="_blank">📅 20:17 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149008">
@@ -897,7 +897,7 @@
 کوشنر: دستیابی به هدف رفاه در نوار غزه، مستلزم خلع سلاح کامل آن است و حماس موافقت کرده است که سلاح‌های خود را تحویل دهد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.4K · <a href="https://t.me/alonews/149008" target="_blank">📅 20:13 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.1K · <a href="https://t.me/alonews/149008" target="_blank">📅 20:13 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149007">
@@ -911,7 +911,7 @@
 ایران سرافراز و مقاوم، به درازا زیست.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 70.5K · <a href="https://t.me/alonews/149007" target="_blank">📅 20:08 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 72.7K · <a href="https://t.me/alonews/149007" target="_blank">📅 20:08 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149006">
@@ -927,7 +927,7 @@
 ویدیویی که تحت عنوان خروج نماینده‌ها هنگام آمدن پزشکیان منتشر شده مربوط به پارسال و سخنرانی نتانیاهو است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.3K · <a href="https://t.me/alonews/149006" target="_blank">📅 19:58 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69K · <a href="https://t.me/alonews/149006" target="_blank">📅 19:58 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149005">
@@ -937,7 +937,7 @@
 آخرین قیمت نفت برنت، ۱۰۲.۷۶ دلار
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.3K · <a href="https://t.me/alonews/149005" target="_blank">📅 19:56 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67.3K · <a href="https://t.me/alonews/149005" target="_blank">📅 19:56 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149004">
@@ -953,7 +953,7 @@
 ویلسون پس از مرگ به درجه میجر ارتقا یافت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.4K · <a href="https://t.me/alonews/149004" target="_blank">📅 19:53 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.3K · <a href="https://t.me/alonews/149004" target="_blank">📅 19:53 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149003">
@@ -964,7 +964,7 @@
 مرکز امنیت دریایی عمان: ما خدمه یک کشتی تجاری را پس از هدف قرار گرفتن در فاصله ۲.۵ مایل دریایی از سواحل استان مسندم، تخلیه کردیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.3K · <a href="https://t.me/alonews/149003" target="_blank">📅 19:48 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68.1K · <a href="https://t.me/alonews/149003" target="_blank">📅 19:48 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149002">
@@ -984,7 +984,7 @@
 هر بخشی از جهان که بروید و به آن‌ها بگویید که پنج سرباز آمریکایی کمتر و دو هواپیما کمتر خواهد بود، همه وحشت‌زده می‌شوند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 69.8K · <a href="https://t.me/alonews/149002" target="_blank">📅 19:44 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 71.2K · <a href="https://t.me/alonews/149002" target="_blank">📅 19:44 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149001">
@@ -993,7 +993,7 @@
 روبیو: سپاه مانع مذاکرات با ایران شده
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.4K · <a href="https://t.me/alonews/149001" target="_blank">📅 19:40 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68.9K · <a href="https://t.me/alonews/149001" target="_blank">📅 19:40 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149000">
@@ -1009,7 +1009,7 @@
 روبیو: به نظر من، ایرانی‌ها معتقدند که دموکرات‌ها در ماه نوامبر پیروز خواهند شد و ترامپ دیگر نخواهد توانست هیچ کاری علیه آنها انجام دهد. آنها کل امید خود را روی این بسته‌اند.فکر نمی‌کنم آنها درک خوبی از سیستم ایالات متحده آمریکا داشته باشند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/alonews/149000" target="_blank">📅 19:39 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.6K · <a href="https://t.me/alonews/149000" target="_blank">📅 19:39 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148999">
@@ -1018,7 +1018,7 @@
 مارکو روبیو، وزیر امور خارجه: دونالد ترامپ واقعاً معتقد نیست که جهان در حال حاضر به یک «بحران کرانه باختری» نیاز دارد و این موضع ماست.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.3K · <a href="https://t.me/alonews/148999" target="_blank">📅 19:31 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68K · <a href="https://t.me/alonews/148999" target="_blank">📅 19:31 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148998">
@@ -1029,7 +1029,7 @@
 ایده اینکه ما در بالاترین سطوح با آن‌ها تعامل نداشته باشیم، بی‌مسئولیتانه است. این امر بی‌پایه و اساس است. ما باید این کار را انجام دهیم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.4K · <a href="https://t.me/alonews/148998" target="_blank">📅 19:29 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.2K · <a href="https://t.me/alonews/148998" target="_blank">📅 19:29 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148997">
@@ -1045,7 +1045,7 @@
 مارکو روبیو درباره ایران: من نمی‌خواهم مذاکرات دیروز را به‌عنوان یک پیشرفت بزرگ توصیف کنم، اما در عین حال فکر می‌کنم مهم بود که دست‌کم یک گفت‌وگو صورت گرفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.4K · <a href="https://t.me/alonews/148997" target="_blank">📅 19:26 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69K · <a href="https://t.me/alonews/148997" target="_blank">📅 19:26 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148996">
@@ -1058,7 +1058,7 @@
 خاتمه جنگ در همه جبهه‌ها، آزادی اموال مسدودشده یا محدودشده ایران، پذیرش مسیر ایمن کشتیرانی به شیوه تفاهم شده بین دو دولت ساحلی و ....
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68K · <a href="https://t.me/alonews/148996" target="_blank">📅 19:23 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.5K · <a href="https://t.me/alonews/148996" target="_blank">📅 19:23 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148995">
@@ -1074,7 +1074,7 @@
 مارکو روبیو، وزیر امور خارجه، درباره ایران: ایرانی‌ها و نیابت‌های آن‌ها به تأسیسات دیپلماتیک حمله کردند — بی‌سابقه است. آن‌ها عمداً به سفارت ما در کویت بمباران کردند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.7K · <a href="https://t.me/alonews/148995" target="_blank">📅 19:22 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 66.2K · <a href="https://t.me/alonews/148995" target="_blank">📅 19:22 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148994">
@@ -1090,7 +1090,7 @@
 نتانیاهو: سورپرایزهایی برای سخنرانی‌ام در سازمان ملل دارم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.4K · <a href="https://t.me/alonews/148994" target="_blank">📅 19:18 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67.8K · <a href="https://t.me/alonews/148994" target="_blank">📅 19:18 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148992">
@@ -1100,7 +1100,7 @@
 بازگشایی تنگه هرمز و رفع محاصره آمریکا طی مذاکرات غیرمستقیم روز گذشته با آمریکا مورد بحث و بررسی قرار گرفت.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/148992" target="_blank">📅 19:08 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.6K · <a href="https://t.me/alonews/148992" target="_blank">📅 19:08 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148991">
@@ -1116,7 +1116,7 @@
 امشب پزشکیان تو سخنرانی سازمان ملل به جای سانتری‌فیوژ، گفت سانتیری فوژ
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.3K · <a href="https://t.me/alonews/148991" target="_blank">📅 18:59 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.4K · <a href="https://t.me/alonews/148991" target="_blank">📅 18:59 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148990">
@@ -1126,7 +1126,7 @@
 امروز جلوی سازمان ملل، سلطنت طلبان و مجاهدین درگیر شدن و این شاهکار خلق شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 69.4K · <a href="https://t.me/alonews/148990" target="_blank">📅 18:50 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.6K · <a href="https://t.me/alonews/148990" target="_blank">📅 18:50 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148989">
@@ -1137,7 +1137,7 @@
 جلسه دیگری با ایرانی‌ها امشب برگزار خواهد شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.4K · <a href="https://t.me/alonews/148989" target="_blank">📅 18:43 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.7K · <a href="https://t.me/alonews/148989" target="_blank">📅 18:43 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148988">
@@ -1163,7 +1163,7 @@
 پزشکیانم هیچ کدومو جواب نداد  سرشو انداخت پایین راشو کشید رفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 71.6K · <a href="https://t.me/alonews/148988" target="_blank">📅 18:37 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 72.8K · <a href="https://t.me/alonews/148988" target="_blank">📅 18:37 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148987">
@@ -1179,7 +1179,7 @@
 مجری آمریکایی: تعحب میکنم! ترامپ جمهوری اسلامی رو تهدید به نابودی میکنه وکلی بد و بیراه میگه اما نماینده ایران خیلی ریلکس نشسته و گوش میکنه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 69.4K · <a href="https://t.me/alonews/148987" target="_blank">📅 18:32 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.5K · <a href="https://t.me/alonews/148987" target="_blank">📅 18:32 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148986">
@@ -1189,7 +1189,7 @@
 تصویری از مخاطبین سخنرانی پزشکیان در سازمان ملل
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.4K · <a href="https://t.me/alonews/148986" target="_blank">📅 18:27 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.1K · <a href="https://t.me/alonews/148986" target="_blank">📅 18:27 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148985">
@@ -1212,7 +1212,7 @@
 با کشورهای خلیج فارس در مورد لزوم باز نگه داشتن تنگه‌ها و مصون ماندن از هرگونه حمله، اتفاق نظر وجود دارد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.5K · <a href="https://t.me/alonews/148985" target="_blank">📅 18:19 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70K · <a href="https://t.me/alonews/148985" target="_blank">📅 18:19 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148984">
@@ -1227,7 +1227,7 @@
 در این میان، ادعاهایی درباره حمایت معاون اول رئیس‌جمهور، محمدرضا عارف، از برخی این اقدامات مطرح شده است؛ موضوعی که در صورت صحت، می‌تواند نشانه شکل‌گیری اختلافی جدی میان برخی جریان‌های مدیریتی اقتصادی دولت باشد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.4K · <a href="https://t.me/alonews/148984" target="_blank">📅 18:18 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.5K · <a href="https://t.me/alonews/148984" target="_blank">📅 18:18 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148983">
@@ -1236,7 +1236,7 @@
 سخن پایانی پزشکیان: ما آماده گفتگو هستیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.9K · <a href="https://t.me/alonews/148983" target="_blank">📅 17:59 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.5K · <a href="https://t.me/alonews/148983" target="_blank">📅 17:59 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148982">
@@ -1246,7 +1246,7 @@
 یا امنیت را با هم می سازیم یا ناامنی را با هم تحمل می کنیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 70.5K · <a href="https://t.me/alonews/148982" target="_blank">📅 17:57 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 72.1K · <a href="https://t.me/alonews/148982" target="_blank">📅 17:57 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148981">
@@ -1256,7 +1256,7 @@
 پزشکیان: چرا برای فلسطین کاری نمیکنید؟ مگه ظلم رو نمیبینید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 71.5K · <a href="https://t.me/alonews/148981" target="_blank">📅 17:56 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 72.8K · <a href="https://t.me/alonews/148981" target="_blank">📅 17:56 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148980">
@@ -1265,7 +1265,7 @@
 پزشکیان: بمب اتم و سایر سلاح های کشتار جمعی در دست اسراییل است اما از ایران می خواهند که بازرسی کنند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 69.4K · <a href="https://t.me/alonews/148980" target="_blank">📅 17:55 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.7K · <a href="https://t.me/alonews/148980" target="_blank">📅 17:55 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148979">
@@ -1276,7 +1276,7 @@
 عاملان ناآرامی اسرائیل و آمریکا هستند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.4K · <a href="https://t.me/alonews/148979" target="_blank">📅 17:54 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.7K · <a href="https://t.me/alonews/148979" target="_blank">📅 17:54 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148978">
@@ -1285,14 +1285,14 @@
 پزشکیان: حمله به زیر ساخت های غیر نظامی خلاف قواعد بین المللی است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.4K · <a href="https://t.me/alonews/148978" target="_blank">📅 17:53 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68.2K · <a href="https://t.me/alonews/148978" target="_blank">📅 17:53 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148977">
 <div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">سالن چه خالیه
 😐</div>
-<div class="tg-footer">👁️ 66.3K · <a href="https://t.me/alonews/148977" target="_blank">📅 17:53 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68K · <a href="https://t.me/alonews/148977" target="_blank">📅 17:53 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148976">
@@ -1308,7 +1308,7 @@
 پزشکیان: اسرائیل در شهرها و استان‌ها دست به ترور می‌زند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.4K · <a href="https://t.me/alonews/148976" target="_blank">📅 17:52 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.2K · <a href="https://t.me/alonews/148976" target="_blank">📅 17:52 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148975">
@@ -1317,7 +1317,7 @@
 پزشکیان: والله دنبال سلاح اتمی نیستیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.9K · <a href="https://t.me/alonews/148975" target="_blank">📅 17:50 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67.4K · <a href="https://t.me/alonews/148975" target="_blank">📅 17:50 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148974">
@@ -1326,7 +1326,7 @@
 پزشکیان: ایران نمی‌پذیرد دانش هسته‌ای دانش انحصاری چند کشور باشد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/148974" target="_blank">📅 17:49 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.9K · <a href="https://t.me/alonews/148974" target="_blank">📅 17:49 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148973">
@@ -1335,7 +1335,7 @@
 پزشکیان: قدرت نظامی ما برای دفاع است و از هیچکس درباره آن اجازه نخواهیم گرفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.8K · <a href="https://t.me/alonews/148973" target="_blank">📅 17:49 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67.1K · <a href="https://t.me/alonews/148973" target="_blank">📅 17:49 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148972">
@@ -1344,7 +1344,7 @@
 پزشکیان: دویست سال است که به هیچ کشوری حمله نکرده‌ایم و فقط در حال دفاع از خود هستیم؛ حال شما به ما می‌گویید تروریست؟
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.9K · <a href="https://t.me/alonews/148972" target="_blank">📅 17:48 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 66.7K · <a href="https://t.me/alonews/148972" target="_blank">📅 17:48 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148971">
@@ -1360,7 +1360,7 @@
 هیئت نمایندگی آمریکا در حالی که پزشکیان در مجمع عمومی سازمان ملل متحد سخن می‌گفت، مجمع را ترک کرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.1K · <a href="https://t.me/alonews/148971" target="_blank">📅 17:46 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 66.9K · <a href="https://t.me/alonews/148971" target="_blank">📅 17:46 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148970">
@@ -1370,7 +1370,7 @@
 تصویر کودکان بیگناه مدرسه میناب در دستان پزشکیان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/148970" target="_blank">📅 17:46 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.1K · <a href="https://t.me/alonews/148970" target="_blank">📅 17:46 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148969">
@@ -1386,7 +1386,7 @@
 نشان دادن تصویر علی خامنه‌ای توسط پزشکیان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.7K · <a href="https://t.me/alonews/148969" target="_blank">📅 17:45 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68.4K · <a href="https://t.me/alonews/148969" target="_blank">📅 17:45 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148968">
@@ -1396,7 +1396,7 @@
 ما قربانی تروریسم هستیم من از ایرانی می‌آیم که رهبر ما را بدون هیچ دلیلی ترور کردند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63K · <a href="https://t.me/alonews/148968" target="_blank">📅 17:44 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.9K · <a href="https://t.me/alonews/148968" target="_blank">📅 17:44 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148967">
@@ -1406,7 +1406,7 @@
 سیس پزشکیان توی سازمان ملل قبل سخنرانیش
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.5K · <a href="https://t.me/alonews/148967" target="_blank">📅 17:42 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.1K · <a href="https://t.me/alonews/148967" target="_blank">📅 17:42 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148966">
@@ -1417,7 +1417,7 @@
 ممکن است ترامپ به کوهی در ایران یا سایت‌های هسته‌ای ما حمله کند؛ ما طرح پاسخ را آماده کردیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64K · <a href="https://t.me/alonews/148966" target="_blank">📅 17:38 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.7K · <a href="https://t.me/alonews/148966" target="_blank">📅 17:38 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148965">
@@ -1426,7 +1426,7 @@
 پزشکیان وارد سازمان ملل شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/148965" target="_blank">📅 17:32 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.6K · <a href="https://t.me/alonews/148965" target="_blank">📅 17:32 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148964">
@@ -1435,7 +1435,7 @@
 هشدار فیلدمارشال رضایی به ترامپ: وقت را تلف نکن و شروط ما را بپذیر
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/148964" target="_blank">📅 17:26 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.7K · <a href="https://t.me/alonews/148964" target="_blank">📅 17:26 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148963">
@@ -1451,7 +1451,7 @@
 دانیال عیوضی از بازداشتی های دی ماه که مجروح شده و از طریق ترکیه خودشو به فرانسه و سپس آمریکا رسوند تو صحن سازمان ملل در مقابل نماینده های جمهوری اسلامی بدین شکل سخنرانی کرد : تو دی ماه مردم خیابون‌هارو از جمعیت پر کرده بودن، اما با گلوله به مردم حمله کردن، ده‌ها هزار نفر به قتل رسیدن، مردم ایران هیچ مشکلی با بقیه کشورها و آمریکا و اسرائیل ندارن، ولی جمهوری اسلامی ایرانیارو بدبخت کرده، به محض اینکه دانیال اسم رضا پهلوی رو به عنوان رهبر دوران گذار آورد، هیئت ایرانی اعتراض کرد که خلاف قوانین جلسه هست، اما رئیس جلسه گفت حرفای دانیال هیچ مشکلی نداره.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 75.9K · <a href="https://t.me/alonews/148963" target="_blank">📅 17:15 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 77K · <a href="https://t.me/alonews/148963" target="_blank">📅 17:15 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148962">
@@ -1460,7 +1460,7 @@
 محسن رضایی: در جلسه مشترک با رئیس جمهور قرار شد آقای عراقچی طی سفر به نیویورک شروط ایران را به واسطه‌ها ابلاغ کنند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.5K · <a href="https://t.me/alonews/148962" target="_blank">📅 17:13 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.8K · <a href="https://t.me/alonews/148962" target="_blank">📅 17:13 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148961">
@@ -1469,7 +1469,7 @@
 ادعای محسن رضایی: برای اولین بار موشک ضدناوشکن روی ناوهواپیمابر جورج واشنگتن منفجر کردیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/148961" target="_blank">📅 17:12 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.2K · <a href="https://t.me/alonews/148961" target="_blank">📅 17:12 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-148960">
@@ -1478,7 +1478,7 @@
 ادعای محسن رضایی: برای اولین بار موشک ضدناوشکن روی ناوهواپیمابر جورج واشنگتن منفجر کردیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.8K · <a href="https://t.me/alonews/148960" target="_blank">📅 17:10 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64.7K · <a href="https://t.me/alonews/148960" target="_blank">📅 17:10 · 01 Mehr 1405</a></div>
 </div>
 
 <hr>

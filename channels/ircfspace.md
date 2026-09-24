@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-02 01:53:59</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-02 04:08:43</div>
 <hr>
 
 <div class="tg-post" id="msg-2614">
@@ -330,7 +330,7 @@ raaznet
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/ircfspace/2613" target="_blank">📅 07:52 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/ircfspace/2613" target="_blank">📅 07:52 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2612">
@@ -348,7 +348,7 @@ milad_joodi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/ircfspace/2612" target="_blank">📅 07:45 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/ircfspace/2612" target="_blank">📅 07:45 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2611">
@@ -404,7 +404,7 @@ telegra.ph/Google-Flow-Helper-09-20
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/ircfspace/2609" target="_blank">📅 07:59 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/ircfspace/2609" target="_blank">📅 07:59 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2608">
@@ -420,7 +420,7 @@ telegra.ph/Google-Flow-Helper-09-20
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/ircfspace/2608" target="_blank">📅 17:35 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/ircfspace/2608" target="_blank">📅 17:35 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2607">
@@ -522,7 +522,7 @@ itiransite
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.6K · <a href="https://t.me/ircfspace/2601" target="_blank">📅 08:17 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/ircfspace/2601" target="_blank">📅 08:17 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2600">
@@ -588,7 +588,7 @@ RaazNet
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/ircfspace/2597" target="_blank">📅 08:00 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 34.2K · <a href="https://t.me/ircfspace/2597" target="_blank">📅 08:00 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2596">
@@ -625,7 +625,7 @@ hamedvpns
 
 <div class="tg-post" id="msg-2594">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/bdp8DAvuYee5L2HgHCQhSLiD-hAPCN6s0YBW4V2Paz2NnIe6SGoPnQI7_I-LLk4CLE7-glsbstIIFBftrRooYHyzPKW3btXgD7W0gpD4HyWD8t8masu2vFNExX43x8n9ts9WivuoSkqHOCNhBo7H9NhgBX1otYhwXF8jvbOnAI2eF8QtTwLc-HEqpNYRtMwdkmIwwYz1Gr1sviNNep94Yoi1WvrUC-eZ07Zs629BgSHvBrBCApYoPUbDNyC-EW8LIv5Dc0iaylO4jgE6agT-C70GryzYW-1vqKAOVebn6IZg6ryId9JJrg_YbqwXiCj94-8iatCw8zI1AZXwzUbERA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/BfulVrqQTxxw6Kp7BuAyJN_YiKwEub45sUi4LAw2Muyf0R410zzawM-bUeggMh8JfYFrmn0WQPPCvzh1GytoXe_frxZRzFSI7uFTOwwFOYCv5VhdWH-6po7NkAdyHajQ11G2efvr-Ho0TLPtreyoZSRQE11vz84tCJAMfC2NJMHJYeWkZ98iBxYHMvTeWNuMVSNB8KeQnqvy-VSmQiLKs0iiGJ_HEFCQCYcB403_q7Puh3StZT35-J05wZOdG0d4rF81uJlhI0Nu9KsArIuqvAk6TX966nfjqD2DtkSgcJ5b3mt5vIB440flpNHu2ZwTGpr_b_sF2QDDTI0mcvrnIw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعد از مدت‌ها وقفه، بالاخره فیلترشکن Oblivion به مسیر توسعه برگشت.
 در این نسخه که برای اندروید منتشر شده، هسته برنامه از وارپ‌پلاس به Aether سوییچ کرده، تا امکان اتصال و دورزدن فیلترینگ از طریق متدهای وارپ، گول، مسک و سایفون فراهم بشه.
 👉
@@ -950,7 +950,7 @@ notebookcheck
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 42.2K · <a href="https://t.me/ircfspace/2575" target="_blank">📅 18:47 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/ircfspace/2575" target="_blank">📅 18:47 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2574">
@@ -1115,7 +1115,7 @@ github.com/telegramdesktop/tproxy-server
 
 <div class="tg-post" id="msg-2564">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/rLwuYn_1B9OZPLQxCpk0kEWnxkuO7cmGGCXs-cnf2he5g1aZzFW_Hf3qkqRFHlhRMogejcIGXGIplv8EG5XciFUqP1RhdY1JWoHEhh2kB25oaLwnDgYiIQmKKNU1zN-ZiuYTfQ3VKX7LVC3VYzZpHFcoqbIcrFIEImGNe1YYOMZ9Tki8y68giNpV2pdbXIa1AJPZ_k0co86M2_0_54Ynl7qvekcN08e4kEnCaHv7Wv75AqFQa6yqqQQpVXIra245QpmPkZNU6qJK1n83evZOyBwBvZRUlwIkP24aFPkttOCaFBY_jXsAiDpoQboxL3AIJPm595ca5IZ54Zw15JDrmw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/H4MmmuwS9IZ2OtnA4KneNE-0drhYyAyCPdH398OhaVe9TDwEI0CuB6pJF4aAxh9BkEy96sKOofXOlWo3UFasFRbvCs8mpJVCOqZzVAFVb3r76xVkDxAf_1Y01tS3C8ORmrl2gz74Te85Ysw8aIcs9mHcKxYzAvEq7FEhYnzsI5Nm_1y9gTe0hjuc0Whb8jY7Zom78zYMCkpI1f_KYvUcTOLVjZ1Y1NrsNX_9uTKOyPgAEsi98_MjtsCjuLHOtm-1Uzy_Lio_SPf3KOkCdCRI4l6b2AmtlgdTzxB0KGpnXoSAT41Fkny9barziONuyora5CdO-eRfBqtQQyw1rXujlA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در کدهای نسخه دسکتاپ از تلگرام نشانه‌هایی از یک پروکسی آزمایشی جدید با نام WEB مشاهده کردن، که از WebView و ارتباطات مبتنی بر HTTPS/WebSocket استفاده می‌کنه. این قابلیت هنوز در حال توسعه هست و مشخص نیست نسخه نهایی اون دقیقاً با چه معماری و مشخصاتی منتشر بشه.
 ©
 telelakel
@@ -1150,7 +1150,7 @@ techradar
 
 <div class="tg-post" id="msg-2562">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FtI-Bv9s2hCBfWYAnOvU81bENIesQbiTyFPtiQCgXX18hlov0ed1PrDXFWOPqBGA2xbI5qASj6ojWh4EzjK1yu1vOmRg1jaqoGb1pp0C6YaXSzodsq6dSD9efk5wvA-t1XfwdptuLAqB0dYEMFEMi0fKlCWvPw1iOKcCe-JVRMeYo8v7Gf0pf5gw2Dr1CUYahIW6-VJQXgpSI3kPjo0IZsyutleEdLbXM3yAsCkznS1avvkOGMjzdsf9rKPKcE7iAQSC9_KsSdbVdnBAg8zAGDJXeXFMINlGJ9I26b9MxrjgsAGWpkqWXyFp9OMKlOkcU0_y4THEFinoB4QY3FSvVA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hvy5nFFmpy26dSxk97Jd6kRTz9g4hmAoSIJre5aMNwgH5NQFJwdBMa7TmgE3KHVavx6n-AP12vIaK9dhKokHgueQ8h9eTjT6HAskpTkF3bSeFqz_OFmEHOGtrIZLnavdYcYQDfzTGWjNeVowb_SN9LwaapiUh_zZNpBYrOmAlWgiOHd2EYIdsddhHOBRIWmRrjSxOk0m9ixP7byXzbbq6rlOttbnXAgm3wItatO5OpZS8qyZef5t7T1zL3JzvvyvmwfABssFDoPAX0wF94VRlvruLM4rzGm05EC_tbYrMeuiSuttXZKN8bRASBCBaYirge9C5vg4vKfwtD5GxDVIWQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تیم پس‌کوچه با بررسی نسخه اندروید فیلترشکن Line VPN که تا الان بیش از یک میلیون بار از گوگل‌پلی دانلود شده، ۶ ایراد امنیتی مهم در بخش‌های مختلف اون پیدا کرده، که در سطح بالا ارزیابی میشن.
 مشکل اصلی و مشترک در تمام این موارد یک چیزه، که اپلیکیشن در چند نقطه حساس نمی‌تونه با اطمینان تشخیص بده آیا اطلاعاتی که دریافت می‌کنه واقعاً از سرور مورد اعتماد اومدن یا نه، و آیا هویتی که برای اتصال استفاده می‌کنه فقط در اختیار یک کاربر مجاز قرار داره یا خیر.
 پس‌کوچه این وی‌پی‌ان رو بیش از اینکه سپر باشه، به ریسک امنیتی تشبیه کرده.

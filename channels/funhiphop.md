@@ -292,7 +292,7 @@
 <a href="https://t.me/funhiphop" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 «قدیمی ترین اجتماع فانِ هیپ هاپی»🟡صاحب سبک🟡Tb :@FunHipHopAdsContact :@Chaman_Dar_KhakFollowing Copyright Laws©</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-02 01:53:59</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-02 04:08:43</div>
 <hr>
 
 <div class="tg-post" id="msg-83983">
@@ -301,7 +301,7 @@
 <div class="tg-text">شات جدید پسر شایع
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 6.22K · <a href="https://t.me/funhiphop/83983" target="_blank">📅 23:46 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.35K · <a href="https://t.me/funhiphop/83983" target="_blank">📅 23:46 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83982">
@@ -309,19 +309,19 @@
 <div class="tg-text">بانک مرکزی امارات فعالیت بانک ملی ایران را در این کشور ممنوع کرده
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 7.11K · <a href="https://t.me/funhiphop/83982" target="_blank">📅 23:38 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.17K · <a href="https://t.me/funhiphop/83982" target="_blank">📅 23:38 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83981">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">ترک جدید دورچی به نام “WIND”منتشر شد.   Soundcloud  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/funhiphop/83981" target="_blank">📅 21:36 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/83981" target="_blank">📅 21:36 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83980">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">ترک جدید دورچی به نام “WIND”منتشر شد.   Soundcloud  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/funhiphop/83980" target="_blank">📅 21:12 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/83980" target="_blank">📅 21:12 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83979">
@@ -331,7 +331,7 @@
 Soundcloud
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/funhiphop/83979" target="_blank">📅 21:12 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/83979" target="_blank">📅 21:12 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83978">
@@ -347,7 +347,7 @@ Soundcloud
 🔥
 @Funhiphop
 | Nima</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/funhiphop/83978" target="_blank">📅 21:05 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/83978" target="_blank">📅 21:05 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83975">
@@ -356,7 +356,7 @@ Soundcloud
 <div class="tg-text">دکی دو روز شکل آدم بود باز طاقت نیاورد ریش‌هاش رو بگا داد.
 @Funhiphop
 | Nima</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/83975" target="_blank">📅 20:41 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/83975" target="_blank">📅 20:41 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83974">
@@ -371,7 +371,7 @@ Soundcloud
 <div class="tg-text">ابوطالب رو بیت کاگان:
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/83974" target="_blank">📅 20:09 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/83974" target="_blank">📅 20:09 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83973">
@@ -383,7 +383,7 @@ Soundcloud
 زنده باد ملت سربلند و مقاوم ایران.
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/funhiphop/83973" target="_blank">📅 19:35 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/83973" target="_blank">📅 19:35 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83972">
@@ -391,7 +391,7 @@ Soundcloud
 <div class="tg-text">اینهمه بونوس و جوایز کجا دیدی؟
 😍
 👏</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/funhiphop/83972" target="_blank">📅 19:35 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/83972" target="_blank">📅 19:35 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83971">
@@ -435,7 +435,7 @@ https://oqleixugysh.shop/fa/affiliates/?btag=914641_l303106
 😀
 📎
 https://t.me/BerryBetOfficial</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/83971" target="_blank">📅 19:35 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/funhiphop/83971" target="_blank">📅 19:35 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83970">
@@ -452,7 +452,7 @@ https://t.me/BerryBetOfficial</div>
 و خب جواب من اینه که خ
 @FuunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/83970" target="_blank">📅 19:10 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/funhiphop/83970" target="_blank">📅 19:10 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83969">
@@ -461,7 +461,7 @@ https://t.me/BerryBetOfficial</div>
 عراقچی دیروز خودسرانه و بدون اطلاع دادن به نهادهای مربوطه و مجتبی خامنه‌ای، زنگ زده به ویتکاف و باهاش لاس زده و مذاکره تکنیکی کرده و برا همین باید توبیخ شه.
 @FuunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/funhiphop/83969" target="_blank">📅 19:00 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/83969" target="_blank">📅 19:00 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83968">
@@ -495,13 +495,13 @@ https://t.me/BerryBetOfficial</div>
 سالن مجمع‌بین‌المللی‌سازمان‌ملل رو ترک کردن
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/funhiphop/83968" target="_blank">📅 18:47 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/83968" target="_blank">📅 18:47 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83967">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">پزشکیان با عکس رهبر قبلی جمهوری اسلامی داره سخنرانی میکنه  @FuunHipHop | FaRib</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/83967" target="_blank">📅 18:34 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/funhiphop/83967" target="_blank">📅 18:34 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83966">
@@ -517,7 +517,7 @@ https://t.me/BerryBetOfficial</div>
 این درحالی است که نماینده ایران زمان سخنرانی ترامپ محل را ترک نکرده بود
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/83966" target="_blank">📅 18:24 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/83966" target="_blank">📅 18:24 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83965">
@@ -526,7 +526,7 @@ https://t.me/BerryBetOfficial</div>
 <div class="tg-text">پزشکیان با عکس رهبر قبلی جمهوری اسلامی داره سخنرانی میکنه
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/83965" target="_blank">📅 17:56 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/funhiphop/83965" target="_blank">📅 17:56 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83964">
@@ -535,7 +535,7 @@ https://t.me/BerryBetOfficial</div>
 <div class="tg-text">انتظار کوروش از فناش
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/funhiphop/83964" target="_blank">📅 17:02 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/funhiphop/83964" target="_blank">📅 17:02 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83963">
@@ -543,14 +543,14 @@ https://t.me/BerryBetOfficial</div>
 <div class="tg-text">تو سراوان باز بین نیروی های نظامی و افراد مسلح ناشناس درگیری شروع شده
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/funhiphop/83963" target="_blank">📅 16:16 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/funhiphop/83963" target="_blank">📅 16:16 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83962">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded from🕸🕷</strong></div>
 <div class="tg-text">اقا تر بزنه ابرو ی مملکت میره</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/funhiphop/83962" target="_blank">📅 15:46 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/funhiphop/83962" target="_blank">📅 15:46 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83961">
@@ -559,7 +559,7 @@ https://t.me/BerryBetOfficial</div>
 <div class="tg-text">بترکونی رئیس
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/funhiphop/83961" target="_blank">📅 15:21 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/funhiphop/83961" target="_blank">📅 15:21 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83960">
@@ -568,7 +568,7 @@ https://t.me/BerryBetOfficial</div>
 به زودی یه برنامه یوتیوبی میزنم که هیچکس دیگه نخواد چنل پوتک رو دنبال کنه.
 @Funhiphop
 | Nima</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/funhiphop/83960" target="_blank">📅 14:58 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/funhiphop/83960" target="_blank">📅 14:58 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83959">
@@ -576,7 +576,7 @@ https://t.me/BerryBetOfficial</div>
 <div class="tg-text">استاد خوش چشم تحلیلگر ارشد صداسیما: کیری قوی ایم
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/funhiphop/83959" target="_blank">📅 13:45 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/funhiphop/83959" target="_blank">📅 13:45 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83958">
@@ -584,7 +584,7 @@ https://t.me/BerryBetOfficial</div>
 <div class="tg-text">شرکت کننده های عشق ابدی قشنگ ۲۰۰.۳۰۰ سال وسطن.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/funhiphop/83958" target="_blank">📅 13:29 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/funhiphop/83958" target="_blank">📅 13:29 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83955">
@@ -594,7 +594,7 @@ https://t.me/BerryBetOfficial</div>
 و تو این شرایط دغدغه‌های ذهنی ویدا سادات:
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/funhiphop/83955" target="_blank">📅 12:55 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/funhiphop/83955" target="_blank">📅 12:55 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83954">
@@ -632,7 +632,7 @@ R1
 ثبت نام و ورود به بخش پیشبینی
 💵
 https://oqleixugysh.shop/fa/affiliates/?btag=914641_l303106</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/funhiphop/83954" target="_blank">📅 12:55 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/funhiphop/83954" target="_blank">📅 12:55 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83953">
@@ -642,7 +642,7 @@ https://oqleixugysh.shop/fa/affiliates/?btag=914641_l303106</div>
 او سابقه پرواز با دو جنگنده F-4 Phantom II و F-14 Tomcat را در کارنامه خود داشت و از خلبانان باتجربه این دو جنگنده به شمار می‌رفت
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/funhiphop/83953" target="_blank">📅 09:05 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/funhiphop/83953" target="_blank">📅 09:05 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83952">
@@ -650,28 +650,28 @@ https://oqleixugysh.shop/fa/affiliates/?btag=914641_l303106</div>
 <div class="tg-text">اونی که امروز نمیره عقل نداره، بچه زرنگ امروز میره با معلما رفیق میشه از شنبه دیگه نمیره
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/funhiphop/83952" target="_blank">📅 09:03 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/funhiphop/83952" target="_blank">📅 09:03 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83951">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">مدرسه چطوره</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/funhiphop/83951" target="_blank">📅 08:50 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/funhiphop/83951" target="_blank">📅 08:50 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83950">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C7rpJqd_2VdiV1TGl7ZeqFBoCbShFSPKBygllcIncvHVqbxqEBwCfoPM9gsARY6Afa2qgI-5SdkpSEaFwFjy4oohCHkghPtY1NhJBRmF4U7c5nlvf7rWhR6Fy4a2rvFpud-DLEcZ7cM__vK9wmcq1dKyTkv6mlKTMyFnITvCBs1MPQ_0PLiwuQ2SR08FttdwlDujXxWA57aImrDWz6-opHQfASHKbH6qA5PUQxjCpzBa2Vb2lF7bx6IqwTNMeh5GRScgEWb2eWN3JFjB1a1w3bvFlaQuYqNushH5Pp4NIi1n04RKSEckmCNWIcmgFuJIYc6sWjlAud4iltbPjXu-KA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/l8MFXBf1sVAPznG9isdJ-erK3FY0vMcCuSbeW8y08jZnLlTlK2WyTQ0OT1odxrLnwYA4Lu8lpwbLy6MITr39ENHw7ZgIgafxJy9Tkj3wshq9OOyFS87CcqNqCsxPykpoWK9oOoYA2qTmaIa9S4k-7Vv07WikdJfSkSbxPsALLtcWkkV5lmWVjLdGYkw2J57K5YdXBHt2rZspw0OHLLougVnVOC8ZuQD4T4JbH6YKpfpOY0xjpdMeHG57ntnWdd-HUTSZpMtJ816aJ2iN78-Q5C0d3NPmWQkubU7UdN31gI-4ZNQnxjOw6TojnbOKNW980anFKDRZNSXlRWDR4cXBpA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به نیویورک بگید مسعود اومد
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/funhiphop/83950" target="_blank">📅 03:08 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/funhiphop/83950" target="_blank">📅 03:08 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83949">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">آخجون ویلسون دوباره مست کرده</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/funhiphop/83949" target="_blank">📅 01:44 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/funhiphop/83949" target="_blank">📅 01:44 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83948">
@@ -679,7 +679,7 @@ https://oqleixugysh.shop/fa/affiliates/?btag=914641_l303106</div>
 <div class="tg-text">سلام فریب خوبی داداش چخبر پسر عموی مهدی چیکارا میکنه سپاه یه موشک ول داد سمت یه کشتی
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/funhiphop/83948" target="_blank">📅 00:59 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/funhiphop/83948" target="_blank">📅 00:59 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83947">
@@ -695,13 +695,13 @@ https://oqleixugysh.shop/fa/affiliates/?btag=914641_l303106</div>
 😂
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/funhiphop/83947" target="_blank">📅 00:25 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/funhiphop/83947" target="_blank">📅 00:25 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83946">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">ناموسا بعد از بیف وانتونز با پوتک هروقت چنل کوروشو باز میکنم یه کصشری به پوتک انداخته، بس کن کولی خسته شدیم</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/funhiphop/83946" target="_blank">📅 23:47 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/funhiphop/83946" target="_blank">📅 23:47 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83944">
@@ -809,7 +809,7 @@ RapBaad VPN
 <div class="tg-text">دوستان تروخدا شوخیاتون با باز شدن مدرسه رو تموم کنید، اینا انقد تعطیل بودن الان از خداشونه مدرسه باز بشه چند روز برن مدرسه.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/funhiphop/83935" target="_blank">📅 19:12 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/funhiphop/83935" target="_blank">📅 19:12 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83934">
@@ -838,7 +838,7 @@ RapBaad VPN
 <div class="tg-text">برا کی ویدیو میگیری مشتی فنای تو ماماناشون گوشی‌شون رو هفته پیش گرفتن ازشون
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/funhiphop/83932" target="_blank">📅 18:04 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/funhiphop/83932" target="_blank">📅 18:04 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83931">
@@ -968,7 +968,7 @@ https://t.me/BerryBetOfficial</div>
 <div class="tg-text">مسعود رفت نیویورک
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/funhiphop/83920" target="_blank">📅 11:50 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/funhiphop/83920" target="_blank">📅 11:50 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83919">
@@ -1061,7 +1061,7 @@ https://oqleixugysh.shop/fa/affiliates/?btag=914641_l303106</div>
 <div class="tg-post" id="msg-83909">
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">روسیه به لتونی که عضو ناتوعه حمله کرد</div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/funhiphop/83909" target="_blank">📅 00:14 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/funhiphop/83909" target="_blank">📅 00:14 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83907">
@@ -1084,7 +1084,7 @@ https://oqleixugysh.shop/fa/affiliates/?btag=914641_l303106</div>
 <div class="tg-text">سطح حرفه ای بودن نیرو ها رو میتونید از کلت توی جا خشابی تشخیص بدید
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/funhiphop/83903" target="_blank">📅 23:30 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/funhiphop/83903" target="_blank">📅 23:30 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83902">
@@ -1123,7 +1123,7 @@ https://oqleixugysh.shop/fa/affiliates/?btag=914641_l303106</div>
 <div class="tg-text">ترامپ: کسایی که میگفتن "۱۲ سال دیگه بخاطر گرمایش جهانی میمیریم" الان میگن "هوش قراره مارو به کشتن بده"، در کل به این کصشرا گوش نکنید، هوش مصنوعی خیلی ام چیز خوبیه و قرار نیست بشریت رو به گا بده
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/funhiphop/83899" target="_blank">📅 21:18 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/funhiphop/83899" target="_blank">📅 21:18 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83898">
@@ -1144,7 +1144,7 @@ https://oqleixugysh.shop/fa/affiliates/?btag=914641_l303106</div>
 <div class="tg-text">چرا حس میکنم بعد قطع شدن ویدیو کامران و هومن به شاهین نجفی پیشنهاد تریسام دادن.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/funhiphop/83897" target="_blank">📅 19:25 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/funhiphop/83897" target="_blank">📅 19:25 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83896">
@@ -1300,7 +1300,7 @@ https://t.me/BerryBetOfficial</div>
 <div class="tg-text">آقا شما بد جلویید.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/funhiphop/83883" target="_blank">📅 15:01 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/funhiphop/83883" target="_blank">📅 15:01 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-83882">

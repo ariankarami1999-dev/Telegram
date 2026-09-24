@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-02 01:53:59</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-02 04:08:43</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -1362,7 +1362,7 @@ Schema.org
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/VVyNImwuj9pQP0YAHhRssxHTM8MmvMsjYuCi75rVzmYbg539u9B9eE1CVErR6gweO5ByIQT8s13FEGMIHP2vGTQQrxEbYwT3DtFoLcdnGr99fRbcRl20XHSGSbQB_vHFui78a2CQ91IdSW3M6TgKC1djiyj08cEF9Pv6uw4QFZOoGRiTUAz57m_HF3fdbF9Pw2ooiAG7RdMbVvgn7X5zix4YBVaQ3bZJwOgr_B7ze22YQVFffOYaV0snQp3V7dDlBsAeKJ3rBLbjRmicnERmnZpAiPkriBE3m47PmtQ1c34CnVXQrkzJoJn3LZv0QAyp488M7PMYP1odHwZ-kgwAig.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/qs5S49gwBp80shbX4rBUz-cFut0odTRC_DNWaigyvqVEel7YAlZHHRduH5lzNvGFW02dqrlW-YmmdQkfDPTpqvD1FbVi36qtGK0DTGnw4yaz358Ul6v9Sd3kiQL4w-UyGg3BnSrMB4l-WiGdORtTZ6f4ReLVuGadiiaVedNhjNmRFUG6nJjaEvFOEq8B5VMZ7p0gi3AQ25S1nN39_YuFB2wCMOD67kXrErK3keOQMSUD0Mh17sgmqilu8FYWcVvmdkzOgiUOkuM4F1_RayL-H89LdwBrRYva_Xt-hmoF1BNfc_UX9hxP1buE5aVm7Nfg7AwoVLHRsfJ06h0vZb6A1A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ehyu_t6z_apyKqzEaKBjWG753h0cIiN5AnkAcoYTPRmIhD5lmbSouGVl3ZSx93kZyW2gx3vuxsFT3GCzI1Mim1ThCDu7biQtegTQD_r8_wiV_DJ2cIcdb23ZwLvZpQzJfArN3ZVik2yVBpjCqA8Kk_o-QJfaXAloJo1cUIKMOrYxf70JVe_YhB3rjgoHo3ivvvIuSGODnFH43F5xxE6gLErCUFKjA6YgQldMrSfcATJQowEGNnkBj5RETQAs7iekuShKnuRi0uULC8OdtyGsmZ-CTheWLgPMAYUCz5M0-ohx34y5TXiA3s0_uDtjGL-j_398zrYJKEB93MxiLNvgRA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/mnYtwBfSMjnAcrzaYgTHoXktoduEJF0vWdjVW5Bt6O_WsVpvpGQ96BzbHo8TlWSjSj0cB7ltjjoTYV8okniYV5ZOYKA9Y-m0uaO8VIBX6J3OkehDfAZSBtokLyyLzbrorfh-iNkTZ79dAjneW1ATlyc4VtajY4Y2rA64BiprO_miFBGnjoCRscbj4doh9vNMWcMEemzvC91-U9uWhw7v1w-NF_Rg8-EDZs2YVxPeij0pkKqDnFeEnYpawoOw8u7qhVIepA9jOE_biQwPspshHcNXO7bM-LEwDmnvxp5fFq5vynGMGwCMbvUQaAQKvz6dIkfJ_VPGT-2bo-cO5qTEqQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/A7qpgqiMRxHWS38lmDTvQD_KTP-Y2McHupu_wEnHuskCm_AhzA25eu4a7ua4S4mShOKq9jli-A0c_YnQ733ZtBLqeyiv5LNgx7zrLg313E8l8Szf4L1cUHBovrQ2Qr6ovgo4fkv3ay-ZbDoRGMhbfKRkiu4sKquXv1B7uANO23yL75HuRstGRQNZyOLZAKkLXhl2VSTotuapjP4xX_naZEDe0f5RVqH3hVrBsvpc2BvB8XynPM-27yb8laRmWIv6-aJKj5ZnwAgI0nMgWgfq0gFp2Posu-zwHj0LILjF2Oyyw3Br9QAwV1Nf819gAh8J0L2qVR7vd4Ao7NPD9BLkIg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/AHJTNmae2A6XUizLbG7SyafKmpwelxqj63kffd9hIFnxnDVsGDICw2i-J_jyMXMN3-g7QoR9Da72jR3xMG5erSsZf0ilNI7GWGys8fHhMGHgkpJQr5qlH7ie0QWjM3wmA2zNyU2YWaAL_Odb0uUcTuRLqyQv9-nqExrPH_3LrKzwbmcZoquw8HbGw4t_DgZ98NCjCJMagwYhrOadgghzrjOh8jk7QQh-r8bO7oa6yjk-hdyoBViSBj4CmKafQsKeDR6qNr01PcdLrpaQ1eiMMmGI9oxlFiyJFEtC5PS4Q_eqebznk5xFdC9EooWwdC3ZgOjb8euiT5x1-mW-KfIpFA.jpg" alt="photo" loading="lazy"/></div>
@@ -1511,7 +1511,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-867">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MIEfy7uRgBVoBhrGLZuguY_ozNgxFQb__1HV2LsKQSz7-HPLt3Zu68GskWECr1NvWFhubV3_PQsCvqq4YMIe5M21USGGN63WK8oYVWQyU24c_flTWgKFbYLqiH7tOqyQiH5HeeVETdFz1_e3DtKV9a5wC3Y97RizFv2WqbUznDNXi49UWH9aJWrwif44o98dBoUsfkFmbtPN9e8ACrjUFlO1qUaAcsu0GBrAALQhSNvDiKy2qGaXCzCuL1o3UEEl0KPMaXP158nzTBnKDlQQU-iXN6y_pmPGBl4siEZ_9yNQT3lvMmZtz3dgt92hPhVr6g55j6doBzM7T10e1fV5Tw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Tg_tYYDbTGmiBIYBdna4bWgB5JwVprf-AgmPWEcJmhfmBzgKe4u_9JGf4c2HbBsS3rx8sbQ9nm8pCG8rXc8_U1x4oPnVZRc8fIjTV5oXPALdSIkoQa-W3YJ6F5Hh33ZGi-JdDfph9BwLO_k12Pz38iXqnf4Lsbz9yI1Bk9Juq_vc0qkSgW5RukEjdPf6esiLWHnd3QgGuju4mAiCLF3xLWrXNwVFfAHT7JZiTpQ-ih7cnunak8_vpHxWzWDnoGuwafa5gBsCyDS6YnlLUF92NlgXDe0nxH-tidtskBAyG35LSUobIgl-PERx-pwwzub6JCrcLLps-vHQQ6fCF_vspg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل مستندات Google-Extended را آپدیت کرد: کنترل بیشتر روی داده‌های آموزش AI!
 🌐
