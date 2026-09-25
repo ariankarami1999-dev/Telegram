@@ -292,7 +292,7 @@
 <a href="https://t.me/alonews" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌جهت رزرو تبلیغات👇https://t.me/ads_alonewsپشتیبانی کانال🕵️https://t.me/AloNews?directمالک کانال🎩@AloNewsBotX:https://x.com/AloNewsBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-03 02:20:54</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-03 04:31:48</div>
 <hr>
 
 <div class="tg-post" id="msg-149269">
@@ -409,7 +409,7 @@ CHANNEL
 🫡
 @payonetvpn
 🔺</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/alonews/149269" target="_blank">📅 01:33 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/alonews/149269" target="_blank">📅 01:33 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149268">
@@ -418,7 +418,7 @@ CHANNEL
 پزشکیان: ما به هیچ وجه قصد ترور ترامپ و یا هیچ یک از اعضای خانواده‌ش رو نداشتیم و این پُرپَکانی یهودی‌هاست.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/alonews/149268" target="_blank">📅 01:32 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/alonews/149268" target="_blank">📅 01:32 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149267">
@@ -434,7 +434,7 @@ CHANNEL
 یک پدر کودک خردسال خود را به دلیل فقر به عقد یک پیرمرد دراورد!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/alonews/149267" target="_blank">📅 01:24 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/alonews/149267" target="_blank">📅 01:24 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149266">
@@ -453,7 +453,7 @@ CHANNEL
 😂
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/alonews/149266" target="_blank">📅 01:06 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47.3K · <a href="https://t.me/alonews/149266" target="_blank">📅 01:06 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149265">
@@ -463,7 +463,7 @@ CHANNEL
 پزشکیان: آماده هستیم تا قبل از انتخابات آمریکا، توافق را انجام دهیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/alonews/149265" target="_blank">📅 01:04 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/alonews/149265" target="_blank">📅 01:04 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149264">
@@ -472,7 +472,7 @@ CHANNEL
 پزشکیان: آماده هستیم تا قبل از انتخابات آمریکا، توافق را انجام دهیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/alonews/149264" target="_blank">📅 01:02 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 45.4K · <a href="https://t.me/alonews/149264" target="_blank">📅 01:02 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149263">
@@ -481,7 +481,7 @@ CHANNEL
 فرودگاه بین‌المللی نجف در عراق، تمامی پروازهای رفت و برگشت به ایران را، از روز پنجشنبه، ۲۴ سپتامبر، تا اطلاع بعدی، لغو کرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 38.7K · <a href="https://t.me/alonews/149263" target="_blank">📅 00:57 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47K · <a href="https://t.me/alonews/149263" target="_blank">📅 00:57 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149262">
@@ -490,7 +490,7 @@ CHANNEL
 پزشکیان به فاکس: ۷ساعت با مجتبی صحبت کردم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.8K · <a href="https://t.me/alonews/149262" target="_blank">📅 00:48 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 50.6K · <a href="https://t.me/alonews/149262" target="_blank">📅 00:48 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149261">
@@ -510,7 +510,7 @@ CHANNEL
 خب، این فرآیندی است که در جامعه ما ایجاد شده است، یعنی فقدان امنیت که توسط اقدامات مهاجمان ایجاد شده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/alonews/149261" target="_blank">📅 00:46 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/149261" target="_blank">📅 00:46 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149260">
@@ -530,21 +530,21 @@ CHANNEL
 : کاملاً. به‌طور کامل.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/alonews/149260" target="_blank">📅 00:43 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 51.3K · <a href="https://t.me/alonews/149260" target="_blank">📅 00:43 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149259">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">🔴
 فووووووووووووووووووووووووووووری</div>
-<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/alonews/149259" target="_blank">📅 00:37 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 56.3K · <a href="https://t.me/alonews/149259" target="_blank">📅 00:37 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149258">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">🔴
 فووووووووووووووووووووووووووووری</div>
-<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/alonews/149258" target="_blank">📅 00:36 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 54K · <a href="https://t.me/alonews/149258" target="_blank">📅 00:36 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149257">
@@ -553,7 +553,7 @@ CHANNEL
 ان‌بی‌سی به نقل از رئیس‌جمهور ایران: دولت ما پذیرای بازرسی از تأسیسات هسته‌ای خود است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/149257" target="_blank">📅 00:28 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/149257" target="_blank">📅 00:28 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149256">
@@ -562,7 +562,7 @@ CHANNEL
 دیدار پزشکیان با خبرنگاران رسانه های  آمریکایی رویترز، آکسیوس، فاکس نیوز، وال استریت ژورنال، نیویورک تایمز، سی ان ان، سی بی اس
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/149256" target="_blank">📅 00:22 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.9K · <a href="https://t.me/alonews/149256" target="_blank">📅 00:22 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149255">
@@ -578,7 +578,7 @@ CHANNEL
 ارتش پاکستان تصاویری را منتشر کرد که نشان‌دهنده حملات آن‌ها به زیرساخت‌ها و پایگاه‌هایی بود که توسط ارتش طالبان اداره می‌شد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/149255" target="_blank">📅 00:14 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59K · <a href="https://t.me/alonews/149255" target="_blank">📅 00:14 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149254">
@@ -588,7 +588,7 @@ CHANNEL
 دیدار پزشکیان با خبرنگاران رسانه های  آمریکایی رویترز، آکسیوس، فاکس نیوز، وال استریت ژورنال، نیویورک تایمز، سی ان ان، سی بی اس
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/149254" target="_blank">📅 00:08 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59K · <a href="https://t.me/alonews/149254" target="_blank">📅 00:08 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149253">
@@ -598,7 +598,7 @@ CHANNEL
 اروپا جواب جنایاتش رو می‌گیره
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 52K · <a href="https://t.me/alonews/149253" target="_blank">📅 00:04 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.6K · <a href="https://t.me/alonews/149253" target="_blank">📅 00:04 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149252">
@@ -608,7 +608,7 @@ CHANNEL
 نیروهای پشتیبانی سریع (RSF) که از سوی امارات متحده عربی حمایت می‌شوند، اعلام کردند که یک پهپاد بایراکتار ساخت ترکیه را که توسط ارتش سودان در منطقه النیل آبی در سودان مورد استفاده قرار می‌گرفت، سرنگون کرده‌اند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55K · <a href="https://t.me/alonews/149252" target="_blank">📅 23:54 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/alonews/149252" target="_blank">📅 23:54 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149251">
@@ -624,7 +624,7 @@ CHANNEL
 رئیس جمهور صربستان، وُچیچ، شخصاً در سخنرانی نتانیاهو در مجمع عمومی سازمان ملل حضور یافت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54K · <a href="https://t.me/alonews/149251" target="_blank">📅 23:47 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.6K · <a href="https://t.me/alonews/149251" target="_blank">📅 23:47 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149250">
@@ -635,7 +635,7 @@ CHANNEL
 او این سناریو را بر اساس اطلاعاتی که از سوی سرویس‌های اطلاعاتی اروپا، آمریکا و اوکراین به اشتراک گذاشته شده، قابل اعتماد توصیف کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55K · <a href="https://t.me/alonews/149250" target="_blank">📅 23:42 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.3K · <a href="https://t.me/alonews/149250" target="_blank">📅 23:42 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149249">
@@ -646,7 +646,7 @@ CHANNEL
 او یک ممنوعیت احتمالی را «فاجعه‌بار» می‌نامد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54K · <a href="https://t.me/alonews/149249" target="_blank">📅 23:36 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59K · <a href="https://t.me/alonews/149249" target="_blank">📅 23:36 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149248">
@@ -664,7 +664,7 @@ CHANNEL
 ایالات متحده از قطر دفاع نکرد. ایالات متحده باتری‌های تاد را از خلیج فارس به اسرائیل منتقل کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/149248" target="_blank">📅 23:26 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/149248" target="_blank">📅 23:26 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149247">
@@ -680,7 +680,7 @@ CHANNEL
 دیدار و گفت‌وگوی عراقچی و وزیر امور خارجه اسپانیا در حاشیه نشست مجمع عمومی سازمان ملل متحد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56K · <a href="https://t.me/alonews/149247" target="_blank">📅 23:22 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.7K · <a href="https://t.me/alonews/149247" target="_blank">📅 23:22 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149246">
@@ -689,7 +689,7 @@ CHANNEL
 گروسی: برای حل دیپلماتیک موضوع هسته‌ای ایران با همه طرف‌ها همکاری می‌کنیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57K · <a href="https://t.me/alonews/149246" target="_blank">📅 23:17 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.4K · <a href="https://t.me/alonews/149246" target="_blank">📅 23:17 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149245">
@@ -700,7 +700,7 @@ CHANNEL
 تحویل این سایت، بخشی از اقدامات مربوط به پایان مأموریت ائتلاف بین‌المللی ایالات متحده در عراق است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58K · <a href="https://t.me/alonews/149245" target="_blank">📅 23:14 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.7K · <a href="https://t.me/alonews/149245" target="_blank">📅 23:14 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149244">
@@ -716,7 +716,7 @@ CHANNEL
 رئیس‌جمهور چین، شی جین‌پینگ، هنگامی‌که ترامپ، پرتره‌ای که عکس خودکار چاپ شده بود و به جای عکس جو بایدن در کاخ سفید نصب کرده بود، به او نشان داد، خندید.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59K · <a href="https://t.me/alonews/149244" target="_blank">📅 23:10 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.7K · <a href="https://t.me/alonews/149244" target="_blank">📅 23:10 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149243">
@@ -732,7 +732,7 @@ CHANNEL
 فون در لاین از اتحادیه اروپا درباره کانادا: کانادا به دلیل جغرافیا نمی‌تواند عضو اتحادیه اروپا باشد. این تنها دلیل است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57K · <a href="https://t.me/alonews/149243" target="_blank">📅 23:05 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/149243" target="_blank">📅 23:05 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149242">
@@ -744,7 +744,7 @@ CHANNEL
 در استان الحدیده یمن انجام داد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/149242" target="_blank">📅 23:01 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.1K · <a href="https://t.me/alonews/149242" target="_blank">📅 23:01 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149241">
@@ -754,7 +754,7 @@ CHANNEL
 سخنگوی انجمن داروسازان ایران، قیمت واکسن آنفلوانزا برای مصرف کننده را دو میلیون و ۱۸۵ هزار تومان اعلام کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149241" target="_blank">📅 22:56 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.2K · <a href="https://t.me/alonews/149241" target="_blank">📅 22:56 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149240">
@@ -770,7 +770,7 @@ CHANNEL
 شبکه فاکس‌نیوز تیزر مصاحبه رئیس‌جمهور ایران را منتشر کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149240" target="_blank">📅 22:53 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64K · <a href="https://t.me/alonews/149240" target="_blank">📅 22:53 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149239">
@@ -786,7 +786,7 @@ CHANNEL
 کانال 15 عبری: احتمال دستیابی به توافقی بین ایالات متحده آمریکا و ایران "بسیار کم" است، اما غیرممکن نیست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/149239" target="_blank">📅 22:50 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/alonews/149239" target="_blank">📅 22:50 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149238">
@@ -797,7 +797,7 @@ CHANNEL
 به گفته این مقام، حدود ۴۰ کشتی از این ۶۰ کشتی برای دریافت حفاظت، عبور خود را با ارتش ایالات متحده هماهنگ کرده بودند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149238" target="_blank">📅 22:49 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.8K · <a href="https://t.me/alonews/149238" target="_blank">📅 22:49 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149237">
@@ -806,7 +806,7 @@ CHANNEL
 مکرون خواهان برقرای آتش بس فوری در خاورمیانه شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149237" target="_blank">📅 22:46 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.8K · <a href="https://t.me/alonews/149237" target="_blank">📅 22:46 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149236">
@@ -815,7 +815,7 @@ CHANNEL
 نتانیاهو: ارزش‌های ما، بشریت را برای هزاران سال الهام بخشیده‌اند... و تلاش ابدی ما برای صلح
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.1K · <a href="https://t.me/alonews/149236" target="_blank">📅 22:43 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.3K · <a href="https://t.me/alonews/149236" target="_blank">📅 22:43 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149235">
@@ -824,7 +824,7 @@ CHANNEL
 مکرون: ما تجهیزات نظامی و سربازان را برای محافظت از کریدور دریایی در دریای سرخ اعزام خواهیم کرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/149235" target="_blank">📅 22:34 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64.6K · <a href="https://t.me/alonews/149235" target="_blank">📅 22:34 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149234">
@@ -833,7 +833,7 @@ CHANNEL
 سخنرانی نتانیاهو تموم شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/149234" target="_blank">📅 22:31 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.7K · <a href="https://t.me/alonews/149234" target="_blank">📅 22:31 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149233">
@@ -852,7 +852,7 @@ CHANNEL
 این ۱۶ برابر ۱۱ سپتامبر است — ۱۶ تا ۱۱ سپتامبر.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/149233" target="_blank">📅 22:31 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/149233" target="_blank">📅 22:31 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149232">
@@ -868,7 +868,7 @@ CHANNEL
 نتانیاهو نخستین رهبر جهان است که از اصطلاح "هوش برتر/Superior intelligence" که پرزیدنت ترامپ ترجیح می‌دهد، برای اشاره به هوش مصنوعی استفاده کرده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/149232" target="_blank">📅 22:29 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/149232" target="_blank">📅 22:29 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149231">
@@ -877,7 +877,7 @@ CHANNEL
 نتانیاهو یک دستگاه آنتن استارلینک با خودش به سخنرانی آورد و به دبیر سالن داد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58K · <a href="https://t.me/alonews/149231" target="_blank">📅 22:28 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/alonews/149231" target="_blank">📅 22:28 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149230">
@@ -894,7 +894,7 @@ CHANNEL
 این حکومت شیطانی سقوط خواهد کرد و ما همه آن روز را جشن خواهیم گرفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/149230" target="_blank">📅 22:27 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/alonews/149230" target="_blank">📅 22:27 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149229">
@@ -904,7 +904,7 @@ CHANNEL
 نماینده امارات پای سخنرانی نتانیاهو نشسته و سالن رو ترک نکرده
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57K · <a href="https://t.me/alonews/149229" target="_blank">📅 22:26 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.4K · <a href="https://t.me/alonews/149229" target="_blank">📅 22:26 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149228">
@@ -913,7 +913,7 @@ CHANNEL
 نتانیاهو: کتاب مقدسم میگه ما در نهایت پیروزیم؛ متشکرم از شما
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56K · <a href="https://t.me/alonews/149228" target="_blank">📅 22:25 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.8K · <a href="https://t.me/alonews/149228" target="_blank">📅 22:25 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149227">
@@ -931,7 +931,7 @@ CHANNEL
 در محل استقرار هیئت ایران، تصویری از قاسم سلیمانی همچنان قرار دارد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58K · <a href="https://t.me/alonews/149227" target="_blank">📅 22:24 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.5K · <a href="https://t.me/alonews/149227" target="_blank">📅 22:24 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149226">
@@ -950,7 +950,7 @@ CHANNEL
 اسرائیل از وقوع نسل‌کشی جلوگیری کرده است!»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56K · <a href="https://t.me/alonews/149226" target="_blank">📅 22:22 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.7K · <a href="https://t.me/alonews/149226" target="_blank">📅 22:22 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149225">
@@ -959,7 +959,7 @@ CHANNEL
 فوری / سنای آمریکا با طرح قانونی محدود کردن اختیارات ترامپ در جنگ با ایران مخالفت کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/149225" target="_blank">📅 22:21 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.9K · <a href="https://t.me/alonews/149225" target="_blank">📅 22:21 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149224">
@@ -973,7 +973,7 @@ CHANNEL
 رهبران این کشورها تصمیم گرفته‌اند در برابر گروه‌های یهودستیز تسلیم شوند.»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57K · <a href="https://t.me/alonews/149224" target="_blank">📅 22:20 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.7K · <a href="https://t.me/alonews/149224" target="_blank">📅 22:20 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149223">
@@ -996,7 +996,7 @@ CHANNEL
 متهم کردن اسرائیل به نسل‌کشی، بزرگ‌ترین دروغ قرن است.»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57K · <a href="https://t.me/alonews/149223" target="_blank">📅 22:19 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/149223" target="_blank">📅 22:19 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149222">
@@ -1017,7 +1017,7 @@ CHANNEL
 وقتی هزاران نفر از مردم خودشون رو کشتن و زخمی کردن، شما کجا بودین؟
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55K · <a href="https://t.me/alonews/149222" target="_blank">📅 22:19 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.2K · <a href="https://t.me/alonews/149222" target="_blank">📅 22:19 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149221">
@@ -1050,7 +1050,7 @@ CHANNEL
 .»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/149221" target="_blank">📅 22:18 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/149221" target="_blank">📅 22:18 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149219">
@@ -1062,7 +1062,7 @@ CHANNEL
 اسرائیل از وقوع نسل‌کشی جلوگیری کرده است!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55K · <a href="https://t.me/alonews/149219" target="_blank">📅 22:13 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.2K · <a href="https://t.me/alonews/149219" target="_blank">📅 22:13 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149218">
@@ -1071,7 +1071,7 @@ CHANNEL
 نتانیاهو : اکنون، جدیدترین کشوری که به یک ابرپخش‌کننده دروغ‌های یهودستیزانه تبدیل شده، ترکیه است: اردوغان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/149218" target="_blank">📅 22:06 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149218" target="_blank">📅 22:06 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149217">
@@ -1081,7 +1081,7 @@ CHANNEL
 «اسرائیل و آمریکا در کنار یکدیگر برای نجات تمدن اقدام کردند.»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/149217" target="_blank">📅 22:02 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/149217" target="_blank">📅 22:02 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149216">
@@ -1106,7 +1106,7 @@ CHANNEL
 .»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/149216" target="_blank">📅 22:01 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/149216" target="_blank">📅 22:01 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149215">
@@ -1116,7 +1116,7 @@ CHANNEL
 نتانیاهو: آیا این پیجرها را به خاطر دارید؟ حزب‌الله قطعاً آن‌ها را به یاد دارد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/149215" target="_blank">📅 21:54 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/149215" target="_blank">📅 21:54 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149214">
@@ -1126,7 +1126,7 @@ CHANNEL
 «می‌خواهم از اوگاندا تشکر کنم که اخیراً تندیسی از برادرم، یوناتان نتانیاهو، در محلی که او جان باخت، برپا کرده است.»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149214" target="_blank">📅 21:47 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.1K · <a href="https://t.me/alonews/149214" target="_blank">📅 21:47 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149213">
@@ -1142,7 +1142,7 @@ CHANNEL
 استعمارگری؟ بس کنید دیگر!»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149213" target="_blank">📅 21:46 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.7K · <a href="https://t.me/alonews/149213" target="_blank">📅 21:46 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149212">
@@ -1155,7 +1155,7 @@ CHANNEL
 در واقع، می‌خواهم بدانید که بسیاری از رهبران این کشورها به‌صورت خصوصی از ما تشکر می‌کنند که تأسیسات هسته‌ای ایران را از بین بردیم.»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/149212" target="_blank">📅 21:46 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/149212" target="_blank">📅 21:46 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149211">
@@ -1166,7 +1166,7 @@ CHANNEL
 من به آقای احمد الشرع سوریه ای می‌گویم که یهودیان از زمان موسی در بلندی‌های جولان بوده‌اند و اگر جرعت داری علیه جولان اقدام کن.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149211" target="_blank">📅 21:42 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/149211" target="_blank">📅 21:42 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149210">
@@ -1175,7 +1175,7 @@ CHANNEL
 واکنش نتانیاهو به ترک سالن توسط هیئت های کشور ها: اگر هنوز بزدلانی هستند که اتاق را ترک نکرده‌اند، از آنها می‌خواهم همین حالا بروند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149210" target="_blank">📅 21:42 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/149210" target="_blank">📅 21:42 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149209">
@@ -1185,7 +1185,7 @@ CHANNEL
 اکنون رأی‌گیری سنای آمریکا در مورد قطعنامه اختیارات جنگی ایران
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149209" target="_blank">📅 21:37 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.6K · <a href="https://t.me/alonews/149209" target="_blank">📅 21:37 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149208">
@@ -1194,7 +1194,7 @@ CHANNEL
 پزشکیان، رئیس‌جمهور ایران، قرار است امروز ساعت ۶ عصر به وقت شرقی آمریکا در گفت‌وگویی با «برت بایر»، مجری شبکه فاکس نیوز، مصاحبه کند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/149208" target="_blank">📅 21:34 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/149208" target="_blank">📅 21:34 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149207">
@@ -1271,7 +1271,7 @@ CHANNEL
 ▫
 200 گیگ — 1,000,000 تومان
 ﻿</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149207" target="_blank">📅 21:29 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/149207" target="_blank">📅 21:29 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149206">
@@ -1287,7 +1287,7 @@ CHANNEL
 عباس عراقچی، در حاشیه مجمع عمومی سازمان ملل متحد با «اد میلیبند»، وزیر امور خارجه بریتانیا، دیدار کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/149206" target="_blank">📅 21:29 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.3K · <a href="https://t.me/alonews/149206" target="_blank">📅 21:29 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149205">
@@ -1303,7 +1303,7 @@ CHANNEL
 بلومبرگ روز پنجشنبه به نقل از منابع گزارش داد که شرکت کشتیرانی غول‌پیکر UPS در اواخر ماه مه در حال ارسال یک سایبان کابین خلبان و درب محفظه مهمات از استرالیا به ایالات متحده بود که مسیر آن تغییر داده شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/149205" target="_blank">📅 21:24 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.7K · <a href="https://t.me/alonews/149205" target="_blank">📅 21:24 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149204">
@@ -1320,7 +1320,7 @@ CHANNEL
 «شی در زمینه سنگ‌ها متخصص است و عاشق گرانیت باکیفیت است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/149204" target="_blank">📅 21:20 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.9K · <a href="https://t.me/alonews/149204" target="_blank">📅 21:20 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149203">
@@ -1329,7 +1329,7 @@ CHANNEL
 نواف سلام در دیدار با پزشکیان از ایران خواست سفیر جدیدی برای لبنان معرفی کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/149203" target="_blank">📅 21:16 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61K · <a href="https://t.me/alonews/149203" target="_blank">📅 21:16 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149202">
@@ -1338,7 +1338,7 @@ CHANNEL
 به گفته منابع عربی، ایران دو موشک بالستیک را بر فراز حریم هوایی خود آزمایش کرد. هیچ برخورد مستقیمی رخ نداده است. این یک نمایش قدرت در بحبوحه تشدید تنش‌ها در خاورمیانه است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149202" target="_blank">📅 21:14 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/149202" target="_blank">📅 21:14 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149201">
@@ -1347,7 +1347,7 @@ CHANNEL
 انفجار در تنگه هرمز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/149201" target="_blank">📅 21:04 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.8K · <a href="https://t.me/alonews/149201" target="_blank">📅 21:04 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149200">
@@ -1356,7 +1356,7 @@ CHANNEL
 اسکات بسنت: محاصره دریایی و هوایی ایران ادامه دار خواهد بود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/149200" target="_blank">📅 21:01 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.7K · <a href="https://t.me/alonews/149200" target="_blank">📅 21:01 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149199">
@@ -1367,7 +1367,7 @@ CHANNEL
 بازی خوبی بود امیدوارم روند بهتر بشه، این شب‌ها از مردمی که تو خیابونن میخوام تو عبادتشون ماروهم سهیم کنن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/149199" target="_blank">📅 20:49 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 66.3K · <a href="https://t.me/alonews/149199" target="_blank">📅 20:49 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149198">
@@ -1377,7 +1377,7 @@ CHANNEL
 «یک سال پس از به‌رسمیت شناختن کشور فلسطین، ما همچنان به پایبندی به آنچه درست است ادامه خواهیم داد.»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.2K · <a href="https://t.me/alonews/149198" target="_blank">📅 20:40 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/alonews/149198" target="_blank">📅 20:40 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149197">
@@ -1386,7 +1386,7 @@ CHANNEL
 فوری/شی جین‌پینگ خواستار بازگشت فوری ایران و آمریکا به تفاهم‌نامه «اسلام‌آباد» شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/149197" target="_blank">📅 20:32 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.8K · <a href="https://t.me/alonews/149197" target="_blank">📅 20:32 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149196">
@@ -1395,7 +1395,7 @@ CHANNEL
 گزارش شلیک موشک به تنگه هرمز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/149196" target="_blank">📅 20:25 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.8K · <a href="https://t.me/alonews/149196" target="_blank">📅 20:25 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149195">
@@ -1406,7 +1406,7 @@ CHANNEL
 پرواز امروز ایران‌ایرتور از تهران به دبی کنسل شده. ظاهراً امارات اجازه ورود این پرواز رو نداده. هنوز علت رسمی اعلام نشده.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.3K · <a href="https://t.me/alonews/149195" target="_blank">📅 20:17 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67.1K · <a href="https://t.me/alonews/149195" target="_blank">📅 20:17 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149194">
@@ -1415,7 +1415,7 @@ CHANNEL
 ۸۰ کشور با انتشار بیانیه‌ای مشترک در سازمان ملل خواستار بازگشایی فوری تنگه هرمز شدند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.3K · <a href="https://t.me/alonews/149194" target="_blank">📅 20:11 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67.5K · <a href="https://t.me/alonews/149194" target="_blank">📅 20:11 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149193">
@@ -1426,7 +1426,7 @@ CHANNEL
 مسیری که شامل بازگشایی تنگه هرمز از سوی تهران و لغو تحریم‌های اقتصادی واشنگتن علیه ایران می‌شود.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.3K · <a href="https://t.me/alonews/149193" target="_blank">📅 20:05 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67.1K · <a href="https://t.me/alonews/149193" target="_blank">📅 20:05 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149192">
@@ -1436,7 +1436,7 @@ CHANNEL
 قیمت نفت خام برنت به ۱۰۸ دلار برای هر بشکه افزایش یافت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.3K · <a href="https://t.me/alonews/149192" target="_blank">📅 20:00 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.1K · <a href="https://t.me/alonews/149192" target="_blank">📅 20:00 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149190">
@@ -1449,7 +1449,7 @@ CHANNEL
 عباس عراقچی، وزیر امور خارجه ایران در حاشیه مجمع عمومی سازمان ملل با فیصل بن فرحان، وزیر خارجه عربستان و ایمن صفدی، نخست‌وزیر اردن دیدار کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/149190" target="_blank">📅 19:56 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/149190" target="_blank">📅 19:56 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149189">
@@ -1459,7 +1459,7 @@ CHANNEL
 دونالد ترامپ، رئیس‌جمهور آمریکا، و شی جین‌پینگ، رئیس‌جمهور چین، در دفتر بیضی کاخ سفید در حال گفت‌وگو هستند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/149189" target="_blank">📅 19:53 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149189" target="_blank">📅 19:53 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149188">
@@ -1475,7 +1475,7 @@ CHANNEL
 نخست‌وزیر اسرائیل، نتانیاهو، به مقر سازمان ملل متحد در نیویورک رسید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/149188" target="_blank">📅 19:48 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/alonews/149188" target="_blank">📅 19:48 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149187">
@@ -1489,7 +1489,7 @@ CHANNEL
 تشریح آخرین وضعیت گفت‌و‌گوهای ایران و عمان درباره تنگه هرمز و تعاملات با ایالات متحده از طریق قطر
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/alonews/149187" target="_blank">📅 19:42 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.6K · <a href="https://t.me/alonews/149187" target="_blank">📅 19:42 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149186">
@@ -1505,7 +1505,7 @@ CHANNEL
 دیدار پزشکیان و نخست‌ وزیر لبنان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/149186" target="_blank">📅 19:40 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/alonews/149186" target="_blank">📅 19:40 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149185">
@@ -1513,7 +1513,7 @@ CHANNEL
 <div class="tg-text">شاهکار قلعه مرغی
 ‼️
 ایران ۳ بر ۱ به ازبکستان بخت  @AloSport</div>
-<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/149185" target="_blank">📅 19:30 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61K · <a href="https://t.me/alonews/149185" target="_blank">📅 19:30 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149184">
@@ -1525,7 +1525,7 @@ CHANNEL
 آرامکو در حال ذخیره‌سازی حجم کافی نفت در ینبع برای ازسرگیری صادرات است. بازگشت خط لوله به فعالیت کامل ممکن است ۶ هفته یا بیشتر زمان ببرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/149184" target="_blank">📅 19:29 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.1K · <a href="https://t.me/alonews/149184" target="_blank">📅 19:29 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149183">
@@ -1534,7 +1534,7 @@ CHANNEL
 رشیدی‌کوچی، نماینده سابق مجلس: آقازاده‌ها از شرکت خارجی کالا را می‌خرند و می‌گویند فاکتور را بالاتر بزنید و هزینه‌اش را ملت ایران پرداخت می‌کند/ پدر آقازاده‌ها همه چیز را می‌دانند و خودشان را به ندانستن می‌زنند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/149183" target="_blank">📅 19:25 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.9K · <a href="https://t.me/alonews/149183" target="_blank">📅 19:25 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149182">
@@ -1543,7 +1543,7 @@ CHANNEL
 خبرگزاری رسمی امارات از تعلیق پروازهای شرکت‌های هواپیمایی ایران در امارات خبر داد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/149182" target="_blank">📅 19:19 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.5K · <a href="https://t.me/alonews/149182" target="_blank">📅 19:19 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149181">
@@ -1559,7 +1559,7 @@ CHANNEL
 یک فروند بمب‌افکن رادارگریز B-2 و چهار فروند جنگنده F-22 Raptor هم‌زمان با سفر شی جین‌پینگ، رئیس‌جمهور چین، بر فراز کاخ سفید به پرواز درآمدند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/alonews/149181" target="_blank">📅 19:16 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/alonews/149181" target="_blank">📅 19:16 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149180">
@@ -1568,7 +1568,7 @@ CHANNEL
 ‏ سخنگوی دولت بریتانیا اعلام کرد: ما با همکاری فرانسه و کشورهای دیگر در حال تدوین طرحی برای مین‌روبی از تنگه هرمز هستیم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/149180" target="_blank">📅 19:14 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.8K · <a href="https://t.me/alonews/149180" target="_blank">📅 19:14 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149178">
@@ -1578,7 +1578,7 @@ CHANNEL
 قیمت نفت برنت به 107 دلار به ازای هر بشکه افزایش یافت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/149178" target="_blank">📅 19:10 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.6K · <a href="https://t.me/alonews/149178" target="_blank">📅 19:10 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149177">
@@ -1587,7 +1587,7 @@ CHANNEL
 هواپیماهای سوخت‌رسان راهبردی و ترابری C-17 آمریکا به سمت خاورمیانه منتقل شده‌اند و چند فروند از این هواپیماها در اسرائیل فرود آمده‌اند.
 🔴
 این تحرکات در حالی انجام می‌شود که یک پل هوایی جدید آمریکا در منطقه در حال شکل‌گیری است و هم‌زمان گمانه‌زنی‌ها درباره…</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/149177" target="_blank">📅 19:06 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.4K · <a href="https://t.me/alonews/149177" target="_blank">📅 19:06 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149176">
@@ -1600,7 +1600,7 @@ CHANNEL
 این تحولات پس از تهدید ترامپ در سازمان ملل درباره «نابودی کامل ایران» و در شرایطی رخ می‌دهد که ایران در بالاترین سطح آماده‌باش قرار دارد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/alonews/149176" target="_blank">📅 19:04 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.9K · <a href="https://t.me/alonews/149176" target="_blank">📅 19:04 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149175">
@@ -1610,7 +1610,7 @@ CHANNEL
 پزشکیان، رئیس‌جمهور ایران، قرار است امروز ساعت ۶ عصر به وقت شرقی آمریکا در گفت‌وگویی با «برت بایر»، مجری شبکه فاکس نیوز، مصاحبه کند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.2K · <a href="https://t.me/alonews/149175" target="_blank">📅 19:00 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/149175" target="_blank">📅 19:00 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149174">
@@ -1620,7 +1620,7 @@ CHANNEL
 پزشکیان در حاشیه هشتاد و یکمین مجمع عمومی سازمان ملل، با شهباز شریف، نخست وزیر پاکستان دیدار و گفت‌وگو کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.2K · <a href="https://t.me/alonews/149174" target="_blank">📅 18:55 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.6K · <a href="https://t.me/alonews/149174" target="_blank">📅 18:55 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149173">
@@ -1630,7 +1630,7 @@ CHANNEL
 فعال‌سازی سامانه‌های پدافند هوایی در شهر صُحاب اردن، بدون اطلاع از دلایل این اقدام
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.2K · <a href="https://t.me/alonews/149173" target="_blank">📅 18:49 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/149173" target="_blank">📅 18:49 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149172">
@@ -1646,7 +1646,7 @@ CHANNEL
 شی جین پینگ: خوشحالم که دعوتی را برای ۱۰۰ هزار جوان آمریکایی اعلام کنم تا در پنج سال آینده برای تبادلات و تحصیل به چین سفر کنند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55.1K · <a href="https://t.me/alonews/149172" target="_blank">📅 18:47 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/149172" target="_blank">📅 18:47 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149171">
@@ -1655,7 +1655,7 @@ CHANNEL
 وال‌استریت ژورنال: نتانیاهو در حاشیه سفرش به نیویورک، به دنبال ترتیب‌دادن دیداری با ترامپ بود، اما این امر محقق نشد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/149171" target="_blank">📅 18:45 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.3K · <a href="https://t.me/alonews/149171" target="_blank">📅 18:45 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149170">
@@ -1664,7 +1664,7 @@ CHANNEL
 ایران و اوکراین تفاهم کردند که تماس‌های خود را با هدف جلوگیری از هرگونه تشدید تنش در روابط ادامه دهند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/149170" target="_blank">📅 18:42 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.6K · <a href="https://t.me/alonews/149170" target="_blank">📅 18:42 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149169">
@@ -1674,7 +1674,7 @@ CHANNEL
 ترامپ در تروث سوشیال با انتشار تصویرش کنار شی، رئیس جمهور چین نوشت: فقط ترامپ
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/149169" target="_blank">📅 18:41 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/alonews/149169" target="_blank">📅 18:41 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149168">
@@ -1686,7 +1686,7 @@ CHANNEL
 این گزارش در حالی منتشر می‌شود که نتانیاهو برای شرکت در نشست‌ مجمع عمومی سازمان ملل در نیویورک به سر می‌برد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/alonews/149168" target="_blank">📅 18:38 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/alonews/149168" target="_blank">📅 18:38 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149167">
@@ -1695,7 +1695,7 @@ CHANNEL
 ترامپ و همسرش، ملانیا، به همراه رئیس جمهور چین، شی جینپینگ، و همسرش، پنگ لیویوان، در مراسمی برای تماشای گروه "گارد افتخاری بدون دستورات کلامی" نیروی دریایی ایالات متحده حضور داشتند. این گروه، که از ۲۴ نفر تشکیل شده است، حرکات نمایشی دقیق با تفنگ و تشکیلات هماهنگ را بدون استفاده از دستورات کلامی اجرا می‌کند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/149167" target="_blank">📅 18:37 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.6K · <a href="https://t.me/alonews/149167" target="_blank">📅 18:37 · 02 Mehr 1405</a></div>
 </div>
 
 <hr>

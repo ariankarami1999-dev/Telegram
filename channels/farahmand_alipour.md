@@ -286,12 +286,12 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/anymac9LebR9i6HerokMfJa6HRXRmTX2V_Rxbb6g2iAtPyvYYWhdPM0nycYRXy9h7L_2rvgNANlDNUgmdi1UPHy_AkKJ_dKtryczXXgX0SizWuBQynYE0iDcr4bBCfYD9kObwfItz5xe_IQZQcOKq--dybrrp_rYJicRHzAVmGv8ai4fs-75UqJtSeM1xFW9zhKEr1MAqlr8SyX9PQe0udjYrXGXYiQUsAFSqsBwS1CgDL-R6zs5wAkD9gizUdL6Z8dEg8j1Fd9kRs6wS-BUOouoqGFmZ119riGymD2TQ414MNNumox843QNmP77tPtLhGVzhTcDWHq8eoT6FkLYug.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/b9s-RN8kRvW2RVoF1QoeuwceXtl7CZItLZb9Wb3h4ESIhgY-m25D8oAx56M3RRAv2w0qo_XjuYFkt_gyqELFmkmf_ainJUQ6FAsuYACNQ_KIXk1HevwSedC4IR91bOLorpDoC9r3XX1ljl-dngP2BYgwyATi5_PcboQQgS7yffHR4RgZcosNmWZ2JqzSv6cshEOvucud1Ezw4eXmiAOkmiefQ--JvEBflNmoh1FlfnZvg7rXIzGpAt1ks1Ei8aW0-sbV4NpOZPi2dwgpdJ66X54QpiJbTSzwhj8QHto8I-QSEHzSP6qAE4vVS_AQNYCWdLuzKMrJudc7w7wI7m5y1g.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 فرهمند عليپور Farahmand Alipour</h1>
 <p>@farahmand_alipour • 👥 62.9K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-03 02:20:54</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-03 04:31:48</div>
 <hr>
 
 <div class="tg-post" id="msg-6764">
@@ -299,7 +299,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tbiOMZLg7HXOMepqETHT7-HKC0SRMuzv1S5xurSETeVQlFnjGx8Wl1yKmDr1PS0HaAHGdEkcGDDGjZTxfc_ZBod-xRmyLL9ldU0bfgwU-3Tag5r3p3rNZ3K4JgfDlliLb0oLxLiz4fcYu81HiHDrLUcLSGcrQe5VZkQwaEOSnu6NEdIzTC5SACjWvWsUAmr95a_yUOg19M-4_o4pZnXWf8Q0cm7nCPpRmKTrdiSvWfVbNlz-pnfHBxE5qjzHDN_vzBqAgY4456K3I7nbH9N95gfFUQpkDGO07whk6_36OLcXTzRjg2dLT2jFWUKBsogSsNmcvFfi2X610rU3DFR_zA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 احتمالا ترکیه تنها کانالی خواهد بود که برای پروازهای ایرانی (به سمت غرب)  باز خواهد ماند.  . این به خاطر جایگاه متوازن ترکیه در سیاست خارجه است،  و نقش میانجی‌گری این کشور. (وقتی همه دنیا بعد از  شروع جنگ اوکراین، پروازهای روسیه رو با شدت و حساسیت بالا بستند،…</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/farahmand_alipour/6764" target="_blank">📅 14:27 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/farahmand_alipour/6764" target="_blank">📅 14:27 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6763">
@@ -317,7 +317,7 @@
 با توجه به وضعیت افغانستان، پروازهای ایرانی به سمت شرق (چین و..) هم احتمالا ادامه داشته باشه
 🔴
 و از روی خزر پروازها به روسیه ادامه خواهد یافت.</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/farahmand_alipour/6763" target="_blank">📅 14:24 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/farahmand_alipour/6763" target="_blank">📅 14:24 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6761">
@@ -332,13 +332,13 @@
 <div class="tg-text">ترکمنستان، آذربایجان ، گرجستان و
 امارات و تا حدودی عراق،  آسمان خود را
 بر روی پروازهای ایران بسته‌اند.</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/farahmand_alipour/6761" target="_blank">📅 14:17 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/farahmand_alipour/6761" target="_blank">📅 14:17 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6760">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gAP2_SuzT4o8HAjzuGT6aEAmtk1kifKUrGw4E5Rlb5gle6YAcvxoGOhRwYyM21PS5Y3P8eM_TKmZ1P0jeV4tisVvGxspPn9MiRWTB0DhY7sYw6Top_6WKFu9opVPpxRXcNflmF6-8EfhqJHXVJN8BJk8WqQ825J0ZcCzB5yuq_O6eq9iuXx_yc4wvISCFqQ_NnKP9JkjV-rHP7nmsm05_4thJdow8pMBjPC3zQmjJmkdQ0S0Cxkw9qS_nOC_eUs0PqQthzfDlon7iOnn3EySDnPZ0ydbtb1Qs1k5ayN120wL5lysQVIf7k0X4IYY_CSKh1kKLTPNxHjTu-J9T7ChhA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/farahmand_alipour/6760" target="_blank">📅 00:05 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/farahmand_alipour/6760" target="_blank">📅 00:05 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6759">
@@ -346,7 +346,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JQ_V_etrGfX7y_KWGMZ2OHhzQdWetYlZtFD39SYZPXxf0ddF_wh-KERjWdaeKfaEwipgVCkeaIkLgnFrADXoF1sqDkXalciAEkC9hxCMxtSBoetTs8FbCalCRb76bUoQa1WI7izA7OVZwCgds5rG-mdL9q20In7IXjCSNWN6ufuok2MPz_i-eLOm1DkBbJ1_hs877IVJ2IYIwuMJjHOQ1hz2jO5p7Qs4BrYBFfrJ8Qcbj893Lb1qoCaSMEmUqwPMpxlmzVvAe3sTg1w8736ggJsmw6G2J5hq5qWV9SPB2ykTpPp0NT2ujqA7NYE_-QMFdm7GFCG9hmF0VSnWUJxL9w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محمد مهدی حبیبی؛ دبیر کانون امام الرحمه:
 پزشکیان باید تو نیویورک با دستای خالی به ترامپ حمله کنه و اون رو توی سازمان ملل خفه کنه تا انتقام خون رهبر شهید رو بگیره.</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/farahmand_alipour/6759" target="_blank">📅 20:19 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/farahmand_alipour/6759" target="_blank">📅 20:19 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6758">
@@ -366,7 +366,7 @@
 حالا شما میگید جمهوری اسلامی
 ایران با اینهمه نفت و سرمایه رو فقیر کرد.
 این چیزها ظاهرا ریشه داره!</div>
-<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/farahmand_alipour/6758" target="_blank">📅 16:27 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/farahmand_alipour/6758" target="_blank">📅 16:27 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6757">
@@ -382,7 +382,7 @@
 رئیسی هم کتاب حافظ رو برای اردوغان باز کرد و خوند :
 «خوش باش که ظالم نبرد راه به منزل»
 و امروز نه رئیسی هست و نه خامنه‌ای!</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/farahmand_alipour/6757" target="_blank">📅 13:33 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/farahmand_alipour/6757" target="_blank">📅 13:33 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6756">
@@ -398,7 +398,7 @@
 ‏خبرنگار فاکس‌نیوز می‌گوید دونالد ترامپ در گفت‌وگو با او درباره ایران گفته در مرحله تصمیم‌گیری است و در آینده نه‌چندان دور «اتفاق بسیار بزرگی» رخ خواهد داد.
 ‏به گفته خبرنگار فاکس، ترامپ سه گزینه را مطرح کرده است: نابودی کامل ایران، رها کردن جمهوری اسلامی تا از نظر اقتصادی فروبپاشد، یا رسیدن به توافق.
 ‏ترامپ همچنین با لحنی تهدیدآمیز گفته پرسش این است که اگر تصمیم به چنین اقدامی بگیرد، چه زمانی کل کشور را نابود کند؛ و هشدار داده که «بهتر است آنها رفتارشان را اصلاح کنند.</div>
-<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/farahmand_alipour/6755" target="_blank">📅 17:40 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/farahmand_alipour/6755" target="_blank">📅 17:40 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6754">
@@ -433,7 +433,7 @@
 و با خامنه‌ای چه کردیم؟
 پرررر!
 «سران ترور را یکی پس از دیگری هدف قرار دادیم.»</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/farahmand_alipour/6752" target="_blank">📅 13:42 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/farahmand_alipour/6752" target="_blank">📅 13:42 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6751">
@@ -443,7 +443,7 @@
 حسادت کردند به اینکه ما تنگه رو داشته باشیم!
 نمیگن ما رفتیم بستیم تا به دنیا فشار بیاریم دنیا هم اون تنگه رو دور زد و ارزش جغرافیایی و اهمیت استراتژیکش رو ازش گرفت!
 تا گروگانگیری شما بی‌اهمیت بشه!</div>
-<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/farahmand_alipour/6751" target="_blank">📅 13:34 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/farahmand_alipour/6751" target="_blank">📅 13:34 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6750">
@@ -480,14 +480,14 @@
 </div>
 <div class="tg-text">فیلم تعرض به کودک در کلانتری
 نیروی انتظامی جمهوری اسلامی آینه تمام قد نظامشه، وحشی و عقب افتاده و‌ خشن.</div>
-<div class="tg-footer">👁️ 37.5K · <a href="https://t.me/farahmand_alipour/6748" target="_blank">📅 14:56 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/farahmand_alipour/6748" target="_blank">📅 14:56 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6747">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cpWU3az-puMY29kjql033-BtFnhFoFaiI189f2dOd_fpoalCCtL1pPe8VutJuH0Pp4-DYRqt-Jpa_zUqIQnVi-aJmTVPEnFOfVa9_KSDH1ggjY4XHqkGnsg4ADK2BKcm0Rtx68aFlp8uArTzY7S0vLx4fnyMHjXg7RO2LACYhPmIXj6oOsew63uAkzGLjw0Fk8qqhNyqSbymPzoNM2RSrM-CqkbSmSMGf3WX0u5pzw0m98Tkdo1qOBWK3os0HguLUhIF6v_fsey4UdhaM3k9dw1mmvNC-O5g8RwZXDNp6c3oIDxexQ-FiDm6zvmvX0OhYzUYfftMHf3ft6F0nUGxRA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‏اکسیوس: ترامپ هفته آینده در نیویورک با رهبران هیئت‌های کشورهای خلیج فارس دیدار و گفت‌وگو خواهد کرد تا آن‌ها را در جریان ایده‌های واشنگتن برای استراتژی پس از جنگ با جمهوری اسلامی قرار دهد.</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/farahmand_alipour/6747" target="_blank">📅 11:12 · 26 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/farahmand_alipour/6747" target="_blank">📅 11:12 · 26 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6746">
@@ -798,7 +798,7 @@
 روایات اسلامی و معجزاتشون رو هم
 همین مدلی ساختن!
 اون مجری شوت هم میگه : الحمدالله!</div>
-<div class="tg-footer">👁️ 34K · <a href="https://t.me/farahmand_alipour/6721" target="_blank">📅 09:14 · 19 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/farahmand_alipour/6721" target="_blank">📅 09:14 · 19 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6720">
@@ -1415,7 +1415,7 @@
 <div class="tg-text">ظاهرا مشاور قالیباف،  «قیمت پوشک»
 و «خون خامنه‌ای» رو توی یک جمله گذاشته
 اینها هم ناراحت شدند.</div>
-<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/farahmand_alipour/6658" target="_blank">📅 08:08 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33.5K · <a href="https://t.me/farahmand_alipour/6658" target="_blank">📅 08:08 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6657">
