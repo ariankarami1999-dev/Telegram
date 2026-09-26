@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-04 03:12:51</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-04 06:11:45</div>
 <hr>
 
 <div class="tg-post" id="msg-2616">
@@ -309,7 +309,7 @@ filterbaan
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/ircfspace/2616" target="_blank">📅 07:38 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/ircfspace/2616" target="_blank">📅 07:38 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2615">
@@ -323,7 +323,7 @@ filterbaan
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/ircfspace/2615" target="_blank">📅 07:34 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/ircfspace/2615" target="_blank">📅 07:34 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2614">
@@ -340,7 +340,7 @@ filterbaan
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/ircfspace/2614" target="_blank">📅 08:01 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/ircfspace/2614" target="_blank">📅 08:01 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2613">
@@ -361,7 +361,7 @@ raaznet
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/ircfspace/2613" target="_blank">📅 07:52 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/ircfspace/2613" target="_blank">📅 07:52 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2612">
@@ -379,7 +379,7 @@ milad_joodi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/ircfspace/2612" target="_blank">📅 07:45 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/ircfspace/2612" target="_blank">📅 07:45 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2611">
@@ -540,7 +540,7 @@ itiransite
 
 <div class="tg-post" id="msg-2601">
 <div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/F38iB5B0Gcmj1Zq-RZjAtFrFHGp0ylQkljS2eZ9XIoRq8sVv78-uxmf7pqkxo0X9p0OfwrcU7ddthvvCHDz8wUanG-M8OST_bGRnq05zEylQ49lN63nydFzRHLxego4wrZCnHA2HM3S_kCKzF08pUf6UD4Ten1MWLnidWdhyGvNNDpKHvo9IwK82TY-yB-N9pYf2EeP9Fo2Yftil2VbXedng6zul7ss2J0DhBO9yAJjEtgbrMz9ikBZS5gydV3D2-vNxKoJcgZ3DdiYwMf3me-oFqsupoCEsl-nt4Cl2BVC-x0484Da75gmAgo_mfrvt1aX3NHJ7HxKUdZtF8HJeRA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Bqifyw4hEjqfmSydjgxHxWk1TqRU9B9xxTAs8bh356RRPqsKgdAnm_N74usknyf75UJzedGsDv1rD6jkmNGveFjtTRPRfTRhlvSizg8Wbs20Mr0tAJE3xUnw58ch9BGOieBqqxDor4HOOzsQM02wP16Fpes9CSjKudD0E2iqmNMTwfSaMRf3Mfyj5nLhmmLqx6e_HiDbHVIaCTwVKi4_hd5SCWBzLMdCXAGRk6JlHjLRWJJEMtQNDPkDlu7LiJ8lWDpQ4CUJ1z1h456zdAWVfXy2zzDNgOiHY8XgYizPiEMCjtSwBqnMiUkMNv7ei8Z-3IY5uLarytYwvf0JnHTkww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">توی خبرها
 دیدم
 که ساکنان روستایی در منطقه فتح‌پور هند، در اعتراض به کیفیت پایین و ناپایدار اینترنت و خدمات تماس تلفنی در منطقه، یکی از کارکنان شرکت مخابراتی رو به یک دکل 5G بستن.
@@ -558,7 +558,7 @@ itiransite
 
 <div class="tg-post" id="msg-2600">
 <div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KnnP1cVUfYPZ8OM0HWk4zxHQhCaGwizZ3upzq2aGe9KbaXaDWnvc-f0bXg-UkOPTVVIaQJ7KZnkxvcD9kChsFuw4pyWpszoCXH8EB2bWAjX97kUh8RW72Uzd7x4raskl-PNcitmkRIyKHJVxXOULoanbDy8igkgmxLl6xANQOkFH8T5Usz8SvK1THZd3gi-01FJkc7DDiW3APNEr09xNNfX2jwMNbZ_aibzGqcuNrQrKqqpGkJZk0UwHivl7_gqhu830yW5YMBpkOAoYnzeuM7Fr8Hp_6JD4pQs7eDrhwcSBxzOOonRsbG4boVVMBVUY_1QMVxnlvHzg0aQb2HPCmw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/dBPTv8prr_8F3QIi_MC5LsVn5TnV0iGEI1BnQLXB3P46GKSF6SzrUFMHORGsrhjRRaXMvYxoEo-Pb-gU6R87tm27GDMiGreRv-YLZxLBoJ9ZKOa1MVwsca7huxnTqm0DWxDthu6KWZRUJajsmB21J11iV7xLqRsDZXitI3Nngs0QjcCDYrk0EUogS02Nj6aNwabNBzKhP1bx5nF6w-GL4XrCgce73F02OAhEQneBiq6k-yd-ce4saHOygdO0qAmp7JwTlYB9ehHj5i_19oyShtTANnwGReqFXl3C6ujsLkQvMGRE8S4VZu31KClE5Z2vYI2lhsViB8DKlrVNziqcrw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر قطع‌ارتباطات سرشو از برف بیرون آورده و گفته "اگر درباره محدودیت استفاده از IPv6 مصوبه قانونی وجود ندارد، دلیلی برای اعمال محدودیت در این زمینه وجود ندارد و موضوع باید با سرعت پیگیری و تعیین تکلیف شود".
 به مناسبت همین دستور سریع، فوری و قاطع، از تصویر پیوستی اکلیل باریده.
 🔗
@@ -573,7 +573,7 @@ itiransite
 
 <div class="tg-post" id="msg-2599">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XDxbJtync81pFTsWjMQpTNi0Xx27rZh1iPgBopgE_8NMVl7nesO9vNl5qjhrXvGZK1BbfcqAGchtsbIkolXNsl1WQc1d-y9VUJlSCw8V9-QPEOAWSDIZ9v6jzWddX9MTjIOWuJUeeY6pgUmVkT55O0LGjvombVEtTtXVYq4P4OPVRGxU3rPZ3b0ClpfH_n6Zgkwk1yY6_KTHVGbytdPL9aZQHhSSf6hFfyWkshyFHhADo8xDxzg5EoDLKYmNSkOiIEn0MtSvEN-zk-hZo1GyglufQSg7wgNsZ0KtYvRF-Bl4GJnSSMfNk0lRkbL1L_Lopgz_3jT3m6K9k_oTfV4e-g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/o1NzeIBOJ0qv8LTyJoy4KnlpNwoZNhxCLukMBqZBAn5fImdtVszEBYFxtujKYAIyd0x2hBaEfbzw0GbpKqwUOpsiulOuuyc6mPCGQbqpoKZcGs6Om4_HFfxhO7VOhtW42sQl-p8augbLVwQiGFLMNzMogXu2UNG5rWrDI_vWAtolwdDvURZ0dgNgvwHwxHwAMsVn-1dKK5mqdh9JZRJP-caFEeOQ9Ybda8tlGliQv26AS1DCCgmSQvDFaMs8M1yvdV1kn9K3NonqZuN5JM5Lcz6QNNI5g5X4AncbGeDg79qfPyYFkkZyDoaphddxSVrQewkXJrEN34FkiQf_fM_YEQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه جدید از هسته متن‌باز و رایگان Aether منتشر شده و این بار Tor هم بهش اضافه کردن. حالا می‌تونین از تور بصورت اتصال مستقیم، اتصال Tor از طریق وارپ و حالت معکوس استفاده کنین. پل‌های Tor هم بصورت خودکار از BridgeDB گرفته میشن و Aether می‌تونه پل‌هایی مثل Snowflake و WebTunnel رو امتحان کنه.
 یه قابلیت جالب دیگه MASQUE-in-MASQUE هست، که در واقع دو لایه‌ی مسک رو پشت سرهم برقرار می‌کنه. این حالت باعث میشه برای خروجی، رنج آی‌پی متفاوتی نسبت به یک اتصال MASQUE معمولی داشته باشین و توی این حالت دیگه آیپی ایران رو از کلودفلر نمی‌گیرین و رفتار اتصال تا حدی شبیه متد Gool میشه.
 👉
@@ -608,7 +608,7 @@ RaazNet
 
 <div class="tg-post" id="msg-2597">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DZAbnX1oTQz7EnN2ClsdvOohY7Iv19K2p4JB44JrHpssZ-L-sbLU8R5tr2twpUT6wI8mOaZIEumBISO--bKZelxodc0jvyQXPn4FLDEmz1WEjF-SKapLxy9WW45uQT-7Ok2qvdyrBtlYFhJa1h9jg28oL61nFdgYaX_4Ibqf1fcoYCyZ7E-rAUMtNKozBp5A3kKL7YLrtdyMdW9wxHcB047z2bDa08mbDdtV3f4Njn9pl6g4Au36D9tqaNEdMxQKL7gKw_MhrZyUXLl6oUif-WTfDqXgPIK_ggRedpbBn95K_DKJps55RrWvtX4Z-R8BdWge9lHRIGB97spq--fX-w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/h2pInR4deuX6IKz9IPnleqlWH2nhnRuGu-Rv70_A1jpN6XA3tkkCsONz25QcU_C2Ax4cDLKpCEhu2Bpiu534eY-YI-42SDL2AEMYv9uOpVGz_fRfWIrKmZ5OkS2c48s7UBlVDdPh2w_cCtVxIFFlWoBpg1qRY_vFSfa83pB4fk360Pj_KUZ9l-pnkvuYnh_m_B2TGpB6sEvSzPs_EF_BFFC8-5g6j2-xZRBCSyOMTy0B9o8GH94oV36IR5QdppVsEDlZDFPVSki3iKnXUUjFwZ9SPUupEov1XWFwF3p2CL-GM126TQRkWUPoT7a42jP_dLXUxkNl8eMegPHprRVPcg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">معاون علمی رئیس‌جمهور گفته "۸۳ درصد رتبه‌های برتر کنکور در ایران مانده‌اند. این موضوع نشان می‌دهد بخش قابل توجهی از استعدادهای برتر کشور در داخل فعالیت می‌کنند".
 البته نگفته ۸۸ روز اینترنت رو قطع کردیم، هزاران نفر رو در خیابون کشتیم و خیلی از همون‌هایی که کشته یا سرکوب شدن، از استعدادهای برتر همین کشور بودن.
 نگفته راه خروج از کشور رو برای خیلی‌ها سخت‌تر و پرهزینه‌تر کردیم، عوارض خروج گذاشتیم، ارزش ریال رو در برابر دلار به پایین‌ترین سطح ممکن رسوندیم و انقدر محدودیت‌های مختلف ایجاد کردیم که بخش قابل توجهی از آدم‌ها اصلاً امکان رفتن پیدا نکنن.
@@ -624,7 +624,7 @@ RaazNet
 
 <div class="tg-post" id="msg-2596">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/UO8TmZbpj1Y2D5vTIB3fc9ujdQo9CIJmVmrnVu6wCpIQSBCln0Uf2uACOn0CQP-lk9tdcjvCYMhYlcy5fr63a8kfEs9KYZU8VIK4EnfZkreo3t3ZL5q01dUppYkwKd41EndHQqEFIN6cPvwLvjZzhUjrwLy-SIbDoUKRuViYUv4hLoK78XkvyZIZSRVw3dn8fUmzWMVjofwY-y43EvWjUw0pO4vEDqRj6rpOf2nHIdp7cERJH9I9xX1d3poLpm2WabgP0spI1jEvif7hqk4faCNvqVs8XTftPmWzIJZvc3o2XJAIdG7hxnp8ah3DlA3Jmn-sHlF3BZStDURlBDXZRQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mrdgZyGGdxaXG1ZDrlLL-fdBm3uyRVB9Vw-eiCFIYD0scAbsm7g0tERsCopktBvY4wUD3OkHWao0nvB1IwCQ22ocZVYdZ4pNMCUAifkGBIAJAy1J0H6OL1Cf_B-PiI6DO2g8a3xxt5zNv8oHKtj8uLdQ39RRa4Z4L1BrHj_UeJ7aVasc3oXsslja5n-WbYTkn6IeY-DEhGfw-YuLhEnHk5iJ8w700TY9pNawlZdDlb2aYWrTbgMY0ptV345hf6T2pMpMc97HmusgJhnbiTFUlBhcDHn_MMNgbQwiufbAqLjJlqbC4P2TzdMYH13gbJQPDbx4-SjKOMvz1kCgE1BlWA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دیتابیسی که ادعا میشه مربوط به کاربران فیلترشکن JumpJump هست، توی یکی از فروم‌های دارک‌وب منتشر شده. منتشرکننده با شناسه leakhunter ادعا کرده این مجموعه فقط شامل اطلاعات معمول کاربران نیست و اطلاعات شخصی و نسبتاً حساسی مثل اطلاعات پرداخت، اطلاعات کارت‌های بانکی، تراکنش‌ها، موجودی، لاگ فعالیت کاربران و اطلاعات دستگاه‌ها رو هم شامل میشه.
 البته فعلاً نمی‌شه صرفاً بر اساس ادعای منتشرکننده با اطمینان گفت تمام این اطلاعات واقعاً متعلق به کاربران JumpJump بوده یا اینکه کل دیتابیس ادعاشده صحت داره، اما درصورت صحت‌سنجی، همین اطلاعات نشون میده جامپ‌جامپ ظاهراً اطلاعات شخصی و جزئیات مختلفی از کاربرانش رو نگهداری می‌کرده، که این نشت می‌تونه برای کاربران دردسرساز بشه.
 اسم JumpJump قبلاً چندین بار در گزارش‌ها بعنوان یک اپ ناامن و مشکوک مطرح شده بود. بنابراین اگر از این فیلترشکن استفاده می‌کنید یا قبلاً استفاده کردید، بهتره موضوع رو جدی بگیرید و حواستون به امنیت اطلاعات خودتون و افرادی که باهاشون در ارتباطین باشه.
@@ -642,7 +642,7 @@ hamedvpns
 
 <div class="tg-post" id="msg-2595">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZyXhYya48rEWzBhnicf8Qvta4FmSuwdhUgKfo7kTs4aiGKdPyJIuuWQC43BcI60h5SCn8zWlpflceIZSQC24XShoUhUn6YpGgzRBMjC708_NvnFf6lq4naQDEXNwlDnAC55WBBnHMgEW52AKNkiGcB1umqhaTBuWXds2Z4B8YGgvpBEutInQRkG7BRV7d6J6iEKiFiy5T4Cg6_7rARCeLloJ82pJrWKxKgMCx1HMkUdrLNy1ymGHKD1UuLLaPdneKeg-3IgBwXJSq3hk9t_7rOw2K1wSM6hAE8aorYS2ZP4qU_l1DYsl_Li-7T5dmFJ_Oi5tn2Df5QcD9wwEuHSmVA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/I6RhrfLfQ-wdIOZX-HZ_aXj6he0AC2mE2bNuHyLWoylk6uVd7B-Hmz4bsjOeZEujVqQyEXqmC_zEX0KY6ulox09VvDrdseYJo5y98VY7AwrxyibVzXepeeuqPlI6llis4FOUOaAYvsh9xrLZ1lyP-MwBWF3JvTO-pZ-UENAsRP6PLL4xV6SFsVKQHXDRFUSoM8l5EWbD-2u91O90UWt49ju1VaGSsk-zuZwjM9oGQIafezc3Kl-aqnLpQFH5FJcgDkpGYIDL_TH8WELccg30o2C6-denYkvhm0l9GGwMm4joJR5JmGs_z4ye38THhbeJ-5XYvEpo5PyHU93ghp7nZw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شبکه پایدار است، یعنی به همون آشغال‌نت قبل از قطع فیبر نوری در ارمنستان برگشتیم!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -656,7 +656,7 @@ hamedvpns
 
 <div class="tg-post" id="msg-2594">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PVrrnnC9_6kYuqtOqshhYhCWg_VkRGdM62S8an4J9knDMTG3hPTC5WgSh-oZGJZZT4-d2g4F4AhFD_vXOOpA7YzTgVSkczOeGzXJ3JhSbuXWzx_7m4W-IQxPbxHoZRn1eaVgJF-vCOkzlk3wCmbcVinBildwkwWyJ4hV49qQFYWVlpFf3fmkxbtBFGLlhIjGjHTIgSlvLoYOu-P83tzw7PbqNQukxuxGwa4rcpvIGnobMZCEXrWpfSyut_jbg8rGy0VgKri8RwgYfmKaJIJ-v6Sn4RcW9z4ERtTxHEoQWAz7rQMhXGpjgVy6X0-z7_5lzohBRGxurAH2PHXz2mXrEQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/LYdcuhn5K7xsD9i8CiN8nl7WqfN2VTsJFFKPLnzcNsXmeYOtscBhFuhqgvMuPI8gUGBQn-fS8k5vB0_5aL1fDZw145_g2nGODqxxuK_e9BtvSjRTA4X9IPNf6ipXRkIjY1ZnEZUvAaCz3RTgVHhpZFAAZB_p-S83zlrOa62zbQeGEQo29KSjfqBfZzC16G0FM4D0rM16o3ip_T6qimzyqYVv4GocvAVOxs6VHbsKM_8xlzZJr-BNShlzu63uxOUY2Ujsz197OmJb4zwyRMR7jhZyPqbMQ351vn7HNODICo-hqHT8hNW48LgDhXAK7CBPIimkDOAba7kpOYxfGxOXBw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعد از مدت‌ها وقفه، بالاخره فیلترشکن Oblivion به مسیر توسعه برگشت.
 در این نسخه که برای اندروید منتشر شده، هسته برنامه از وارپ‌پلاس به Aether سوییچ کرده، تا امکان اتصال و دورزدن فیلترینگ از طریق متدهای وارپ، گول، مسک و سایفون فراهم بشه.
 👉
@@ -837,7 +837,7 @@ github.com/mirarr-app/Misga/releases
 
 <div class="tg-post" id="msg-2583">
 <div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/YmQJO7cmwQBoD1CA7Ut5RwpUDb8Sd2W9wQ9xieafKdPFCIiXpBNf7COms3Fb8OO4W3PtXgRlJcNgFJojFf6gtymda1UUsHTDAa6qa4RZ8i90pROJCS8GkCOs3PnX3PuyLEV5S0OJHuKEKVlYQ_zMvtpgvdomyPTnwP_RCde593A4qKLT8wHPMjPJjM6WzgJ5SzpYb_ieinZ9XkT8oroHIb57fqhpDmxtwTUSmYUOZ6RCzf2k0MUa820BQ9LwQ9N6s5OiVCMEQzYV0sbbTJgovEaTgCjCEwrzNVxfTsUb2Sk6z2PslrExedoK6z1eauO9rmfUeyH69zRurzmfIoE_5A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vc1MMA3O4qj6BJ5bzamiZXAC-WPOEjWVMoNZ6ehW60WDn7S2vetEUuHg_4e6bZFegB1pz3X4uQDVwFrehrAH2Xk9_DaI1m4nMNMt1aQ0eiG9KcgtR8_EobZ_3ZheF8q3FWTbncI0oEK-gNaHF3T_3cU7Be2E8SVhR8tQUJCxY1OY28kAY7JarmtsHNLp2gFR8zUE2tK9ZfOPofyK7OU5P1g_2FBX9JcJKFXQMsr73QumIMr1j9gbh1NsGd1tLnSVHPQy6vFWX9BlqvCTVU5BsFW5qqxRwtO7y_RVnnrQLJxAqX1a3TbQymXhuqFjpFurrataXZiAa_cFcSh4npBpgA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چند آسیب‌پذیری بحرانی در RouterOS پیدا شده که بعضی از اونها در قالب زنجیره‌ای به اسم MikroTrick در حملات واقعی هم مورد سوءاستفاده قرار گرفتن و می‌تونن در شرایطی دسترسی کامل به روتر بدن.
 از طرفی Shadowserver در اسکن اخیرش بیش از ۱۲۲ هزار MikroTik با SSH باز روی اینترنت پیدا کرده که حدود ۳ هزار موردش مربوط به ایرانه. این عدد لزوماً به معنی آسیب‌پذیر بودن همه این دستگاه‌ها نیست، ولی نشون میده تعداد قابل‌توجهی از روترها مستقیماً از اینترنت قابل دسترسیه.
 اگه MikroTik دارید، حتماً RouterOS رو هرچه سریع‌تر آپدیت کنید و بعدش لاگ‌ها، یوزرها، Scriptها و سرویس‌های ناشناس رو بررسی کنین. SSH و WebFig هم بهتره مستقیماً روی اینترنت باز نباشن.
@@ -855,7 +855,7 @@ PingChannel
 
 <div class="tg-post" id="msg-2582">
 <div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/v09WyjamqoRIo3QEa95Cy8G8mRIkAW-anNK09CH6v_kEqbjnGFqP6UXHTyJ5zU4bsND8AJ-zI8RtyPlLkLZL-OMNekUoMUKr8sR3ocFylWJRWUPLjPhLgr_QLTvGwgXRCVojjs8-Xkoshkv7YLqe3IUtRp7d1I3lteWGd2vEBQkSvvpvqLZ2NMmPyzdU9LfwUFyouzEsBf1j09FvzOeJ2a8nlvvRwiqT_BHmOV8ZI78s4CHsEv8ezEDiGmlN_dHRvC2v5UGX6xNWHSA11mRieepPiU4D_VAxQtmfPt53w01s14hoToqM0Pyj1JtwzzzXFsU4AQzo7XoAHkStAWmwWA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CRHbax0XvzdXOL1aS03PpCsF6xwrFEaoUU9W8Om0DUDeBDQfb6bkrjE06RNBmIC4X7JCfkJzDUFiWsNx5ikh-tzE846pLRsHIyZL8PMCKyiMln6uBxN9tgHHrVG6mLeGdVBBEkiSQjAT2DLfjTPvqqaZn8_tSt9kk_71fLqNh5ojKJkDOJ3se-G8z8Q9h4S6thoghiPtdi1XpN4VU1LDI_NWJvu9knoC7z5zTWk2IVbYvFCgpvzw5uV1X_8FdKbYrQyyD8iloVI6JDLikBMxdMCY2V-MyrAx2Hvg1nL1I2tx9EBY1-Pjt8gWPJWnaJxwHXeVLwhSIF-wzSWQrVbsKw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به نظر میرسه یکی از زیردامنه‌های gov[.]ir به افراد دارای مدرک فوق‌دیپلم یا پایین‌تر اجازه ورود نمیده و حتما باید لیسانس داشته باشین
 😁
 ©
@@ -1379,7 +1379,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2549">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/TGBglTcduiZ_ymV786vL7dsO0Ak2eeEUtd0WFDZK8ujOMj51YuyggnaiHiVjWMvcsrxzalA-hnZyOo16bjzge8f3c7-lSpzCRoxDEYOk0nZU88Tt_7ERpuLe0uLS25r-a77VHiVsQ9sfcWI2aOVyQ62dPtxCsOVz7HLUZFLZASI5zHuKShqSJSfH2SfjCRt7m5pyQSwqEhf1IXWq_i__R9wbj75b6KoMRO5OKJe5FGykljRluS3-vv-_d7egDWNTrO4zPKcFHebJKzMd3EY69VmUZEzf5xHnsCdyHDl_uVmPH7GXDWGV6xbObgjN-KAfnGI0AjQRmabGZ4njtDX19g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/d_uXWE31_49nzCItJZVCmzK8iOb10y0UW8VESBGoUdnTaYvzXYLB5JY7Db2Q9NGXBFTAyPoDCEhjpUIfq-O_k-xq_f-Sub4a8NUD6-n9_3Vh9K8DBctBwH6CXdCk5oNx9RYUifYKtLYs7kxEIZ44KBSHwgfX1N79pVXNd2hfHmaznU2DFk37MHn4uW7n743oHKLxoGI6qTDqfyaw2Wuc0N9ERZYaZiShWhc9ECkn8gLWM0SHGD4VnziKz7CLtdhLhNWyG2Ge2QJweZ8MaeZdWaut7LSrtzgXXLPb7uU75KjMdtlBC-xNpSJ6DdIbQCoie8iHjwRYZWGXW3FlCx7b7w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از فیلتر شدن فوتبال ۳۶۰ و دستور رئیس‌جمهور برای پیگیری مشکل چقدر گذشته؟
 هنوز نه رفع فیلتر شده، نه کسی فیلترشدنش رو گردن گرفته!
 🔗
@@ -1394,7 +1394,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2548">
 <div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Y_WEwwkf2nnymQRQoANG8bCLNP7U3kUcL9ItlnEVLfLIJJbGz9tk4gzILCHGbgNaMMwjs3K2WMNpZkCJoj8MVLXLPvAkpDZpTUP2Ue7ZfbotsP1Jc286Fq1LdrwDICLQObRIMHBoiEA_EO6MV4VC2Tw1y6kIa6cdRbLNBT3_U_C6C-M75Fb8mXMxYqIE8pW5qgx6dBDGdq29uPcp0y89WDYnXUdbzL6jjnqp2tfuDSSdapNJLG2mYrKbSxzqSxT2AycPup9jCZITPyiImkJWmm139rPL-F9z_3NqgtmLmOjcGkWldZD66AbeII0-rCojSYtlwKpNt8Wv-JjytrQ-lQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/altfT7uoNGJ_2CN_tDhNBHCFzmZGnvQggtMe_EF7zMKyO_vByIOh6UrWBsTfJNSDjdqCN2h3FvN8qob17KKJ5ubPu8vtpmHU7b1T4PQloGqUDWm2w_7HrwBhWFLNtNE42rhmdtunylpgHRMWCexM1Uee3TQuDuAa1hfArdYSySbi4FEBYTvj6hG3PZptNRG9jbsNxJHGv1q3ai5qiTORspJQxIDUkvU90yf2nHTCt-nus12TIJ6AwF8m5lc-cOY81oVRDrXSJxOayrpWmi-3AcyEHdbNdt-2DprBzpIUChkz-NaPzoecZCF2Iv-GC31kFfIO1Oonp8uE_CSExtaj7g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پلتفرم لندین که برای ساخت لندینگ‌پیج بود، بدون اخطار قبلی فیلتر شد. بعد از یک‌روز که با تعهد در دادستانی رفع فیلترش کردن، اعلام شده دلیلش فروش آمپول لاغری در صفحه یک کلینیک زیبایی بوده!
 یعنی هنوز که هنوزه نفهمیدن فیلتر کردن یه کسب و کار چه آسیب‌هایی داره. هنوز که هنوزه نفهمیدن وقتی یک صفحه محتوای خلاف قوانین داره، کل کسب و کار نباید فیلتر بشه.
 🔗

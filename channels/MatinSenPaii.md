@@ -292,32 +292,32 @@
 <a href="https://t.me/MatinSenPaii" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)•YouTube:http://www.youtube.com/@Matin_SenPai•Github:https://github.com/MatinSenPai</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-04 03:12:51</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-04 06:11:45</div>
 <hr>
 
 <div class="tg-post" id="msg-5359">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">هولی شـ... گفتم برای وبسایت MatinSenPai.com هم یه Showreel بسازه با فونتای فارسی و اطلاعاتی که ازم داره.  جداٌ از کارش راضیم</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/MatinSenPaii/5359" target="_blank">📅 23:25 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/MatinSenPaii/5359" target="_blank">📅 23:25 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5358">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">واوووو چه باحال
 😲</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/MatinSenPaii/5358" target="_blank">📅 22:44 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/MatinSenPaii/5358" target="_blank">📅 22:44 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5357">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">هولی شـ... گفتم برای وبسایت MatinSenPai.com هم یه Showreel بسازه با فونتای فارسی و اطلاعاتی که ازم داره.  جداٌ از کارش راضیم</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/MatinSenPaii/5357" target="_blank">📅 22:34 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/MatinSenPaii/5357" target="_blank">📅 22:34 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5356">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">اینم موشن گرافیکی که Claude Opus 5.5 ساخت توی 18 دقیقه هیچ ابزار خاصی هم نصب نبود جز ffmpeg و اینم پرامپتش: make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.…</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/MatinSenPaii/5356" target="_blank">📅 22:31 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/MatinSenPaii/5356" target="_blank">📅 22:31 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5355">
@@ -355,13 +355,13 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 وسط کار فریم‌هایی از هر صحنه رو رندر کردم و کنار هم گذاشتم تا ببینم. صحنهٔ سه‌بعدی زیادی کشیده و شلوغ شده بود، برای همین طول ردّ حرکت و زمان‌بندی تبدیل شکل‌ها رو کم کردم تا واضح بشن.
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/MatinSenPaii/5355" target="_blank">📅 21:28 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/MatinSenPaii/5355" target="_blank">📅 21:28 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5354">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">بعد از Opus 5.5 واقعا دردناکه به هر چیزی که GPT 6 Astra طراحی می‌کنه نگاه کنی.  به هر دو مدل دقیقاً همون پرامپت رو دادم: "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé.…</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/MatinSenPaii/5354" target="_blank">📅 20:42 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/MatinSenPaii/5354" target="_blank">📅 20:42 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5353">
@@ -371,13 +371,13 @@ t.me/MatinSenPaii</div>
 کارهای جالبی قراره اینجا انجام بدیم:)
 matinsenpai.com
 فعلا لندینگه. به زودی لانچ می‌شه</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/MatinSenPaii/5353" target="_blank">📅 20:26 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/MatinSenPaii/5353" target="_blank">📅 20:26 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5352">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">بعد از Opus 5.5 واقعا دردناکه به هر چیزی که GPT 6 Astra طراحی می‌کنه نگاه کنی.  به هر دو مدل دقیقاً همون پرامپت رو دادم: "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé.…</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/MatinSenPaii/5352" target="_blank">📅 19:02 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/MatinSenPaii/5352" target="_blank">📅 19:02 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5351">
@@ -389,7 +389,7 @@ matinsenpai.com
 shneural
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/MatinSenPaii/5351" target="_blank">📅 16:31 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/MatinSenPaii/5351" target="_blank">📅 16:31 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5350">
@@ -401,14 +401,14 @@ t.me/MatinSenPaii</div>
 لینک ابزار
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/MatinSenPaii/5350" target="_blank">📅 15:33 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/MatinSenPaii/5350" target="_blank">📅 15:33 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5349">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/bkronMePW37Xy-n35RXI8-jhLVGeUlTDKAId7CsfofX8qLSSd6IOGgvrQr0ucyjhv_c_kwPoy5OZNzziU6L1v6FElGTUU8GogYHNRYCZiDWaQCt4pG_gGEvY_9ao_GXrNSqgj-vHOl4FnGhALuD4rNlkChjGbPvkmUarYpNvjq1kU9JBrlPwM6hKkWdwnbFS_zp7q89Y3q0gtI8AOBqBG3grbBYSBcYPHzolwMVZ-sQVBNZHgaVdjWkPZy-Ysw03WZxapbgEpWoNh7XyU20alvmB45OiF9kNLtBv6YkKuhdTZXMFv_RZjcfNIT8Qjz1CkNgLXxlmjMjdgY1179Ba4Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آموزش استفاده‌ی رایگان از GLM-5.3 Flash توی 9Router:  با این روش، با هر جیمیل روزانه می‌تونید حدود 15 میلیون توکن مصرف کنید.  1- خود 9Router رو که اینجا آموزشش رو دادم باز می‌کنید 2- وارد پروایدر Cline میشید. دقت کنید، Cline Pass نه. خود Cline 3- این مدل رو…</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/MatinSenPaii/5349" target="_blank">📅 14:19 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/MatinSenPaii/5349" target="_blank">📅 14:19 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5348">
@@ -420,13 +420,13 @@ t.me/MatinSenPaii</div>
 منبع
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/MatinSenPaii/5348" target="_blank">📅 13:14 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/MatinSenPaii/5348" target="_blank">📅 13:14 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5347">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">https://youtu.be/qNYT3eoyJ-c</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/MatinSenPaii/5347" target="_blank">📅 12:10 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/MatinSenPaii/5347" target="_blank">📅 12:10 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5346">
@@ -439,7 +439,7 @@ t.me/MatinSenPaii</div>
 منبع
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/MatinSenPaii/5346" target="_blank">📅 11:38 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/MatinSenPaii/5346" target="_blank">📅 11:38 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5345">
@@ -448,7 +448,7 @@ t.me/MatinSenPaii</div>
 <div class="tg-text">بنچمارک آرنای توسعه‌ی وب مدلهایی که اخیرا ریلیز شدن.
 طبیعتا Opus 5.5 با این هزینه، صرفه‌ی اقتصادی خرید پلن کلاد رو خیلی بالاتر برده. و نمره‌ی پایین Luna 6 توی ذوق می‌زنه حقیقتا. اختلافی با Qwen3.8 27B لوکال نداره:)
 که آفرین به برادران چینی</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/MatinSenPaii/5345" target="_blank">📅 07:29 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/MatinSenPaii/5345" target="_blank">📅 07:29 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5344">
@@ -456,7 +456,7 @@ t.me/MatinSenPaii</div>
 <div class="tg-text">مصرف Opus 5.5 به طرز عجیبی پایینه و همه توی کامیونیتی ایرانی و خارجی هم دارن میگن.
 خودمم که دیروز توییت زده بودم راجبش.
 روی پلن 20 دلاری هستم تازه و اصلا تموم نمیشه به این راحتیا</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/MatinSenPaii/5344" target="_blank">📅 00:26 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/MatinSenPaii/5344" target="_blank">📅 00:26 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5343">
@@ -493,7 +493,7 @@ github.com/realZachi/pg-jev
 imryven
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/MatinSenPaii/5343" target="_blank">📅 22:04 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/MatinSenPaii/5343" target="_blank">📅 22:04 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5342">
@@ -548,7 +548,7 @@ t.me/MatinSenPaii</div>
 منبع
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/MatinSenPaii/5340" target="_blank">📅 18:10 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/MatinSenPaii/5340" target="_blank">📅 18:10 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5339">
@@ -556,14 +556,14 @@ t.me/MatinSenPaii</div>
 <div class="tg-text">دارم روی چندتا پلتفرم کار میکنم، یکی یکی ریلیزشون می‌کنم
 اکثرا هم سر و کارشون با ترجمست
 و یکیش هم برای یادگیری و تقویت زبان انگلیسیه، اما با یه روش متفاوت</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/MatinSenPaii/5339" target="_blank">📅 17:13 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/MatinSenPaii/5339" target="_blank">📅 17:13 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5338">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AeQsMAZpzdtJrTH0NWiUdxAOUnk-hgJQO0rhvDBF3ykHNciJibKsv3XewL8cycJ7eF1v80AQvfykNHpSbil7g2ra17jI7e0sYY-eXb_9Oo79J8FyC2jvX-HpzT2vgW-guKLfHBD-1ecEQuVUpKdNwDfAa-nMX-R9WxAcwvBkzsJgGCoQZ8buCCMme4ahNedIBa-nvUyDq888vmstRtMTYWtVzP9bxWcQZarn1rassul5wFAtCj6ve8elIVpgCjF_WFgYyAfmEgiGS2MqLbENL1jXegm0G2BcwW0LxT_MD6W4_oY82qkOUEAiwd0qSRMzfKyX_4nQfVDXR7V7BQ65xw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رفتیم توی ویت لیست اپ Muse متا ببینم این چیه که همه ازش تعریف می‌کنن</div>
-<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/MatinSenPaii/5338" target="_blank">📅 14:48 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/MatinSenPaii/5338" target="_blank">📅 14:48 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5337">
@@ -586,7 +586,7 @@ t.me/MatinSenPaii</div>
 <div class="tg-post" id="msg-5335">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">یه سریا جواب پیویشونو نمی‌دم ناراحت میشن. از دوست و آشنا گرفته تا غریبه‌. دوستان من دستام تونل کارپال وحشتناکی داره. توی طول روز هم همه‌اش پشت سیستم نیستم در نتیجه نمی‌تونم اصلا گوشی دستم بگیرم اکثر اوقات که حتی بخوام با ویس جواب بدم. پس اگر شرایطم رو می‌دونید…</div>
-<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/MatinSenPaii/5335" target="_blank">📅 09:40 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/MatinSenPaii/5335" target="_blank">📅 09:40 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5334">
@@ -634,7 +634,7 @@ t.me/MatinSenPaii</div>
 امیدوارم
 افتضاح Union Alpha
 تکرار نشه</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/MatinSenPaii/5331" target="_blank">📅 21:33 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/MatinSenPaii/5331" target="_blank">📅 21:33 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5330">
@@ -655,7 +655,7 @@ t.me/MatinSenPaii</div>
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">یه سری نظرات راجب مدلهای چینی دارم
 سعی می‌کنم ویدئو بگیرم توضیح بدم کامل</div>
-<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/MatinSenPaii/5329" target="_blank">📅 15:23 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/MatinSenPaii/5329" target="_blank">📅 15:23 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5328">
@@ -663,7 +663,7 @@ t.me/MatinSenPaii</div>
 <div class="tg-text">عرض تسلیت به دوستانی که مدرسه میرن
 غصه نخورین زود تموم میشه
 😉</div>
-<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/MatinSenPaii/5328" target="_blank">📅 15:23 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/MatinSenPaii/5328" target="_blank">📅 15:23 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5327">
@@ -675,7 +675,7 @@ t.me/MatinSenPaii</div>
 <br>
 <a href="https://cdn1.telesco.pe/file/8fb483df78.webm?token=UeQDUDIu67LLTsuKz0TMtZbuoNl00rj-4N7Ex7FZo0peYMhKGbl1oR53fyq78fgdrpkYGmmhTG56XPK-oaHpgLR83paiEryDa0vF7Bl2-Dy5kzidoTTp42Cud3rVz9rttoMZO8DMgnhH_eL0Yn9HrOlsl5DaDzBAgd3EK0N6BUXlFUrKrdV3gi04pBKyKCSrTQmRSnMlhOWLz76b4wemfTHHFelldPY9aEcI1-4ld038d7XQ17I80lWaRgXU1Blh9ACryePi7oXTZlazLHA9iJvhRnUtwD_Cwru3VIaSvCe2ZYiWTE3SMwmKbrwkxt4K8J31IINBKa69z2-RZcGNUw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/MatinSenPaii/5327" target="_blank">📅 15:21 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/MatinSenPaii/5327" target="_blank">📅 15:21 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5326">
@@ -845,7 +845,7 @@ theo</div>
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PxbhDQT5qVqCAV2k7KjyZfVmH4CHUsRwzof0b20emlzBrbtI3e5uEk2E7YBaKKHm4l_1Dq6Rvn5efPS9VbE-_R1cKs5IZDzvdk2A0cnUkdp-XYh3wwNwZWzHAvZnmM15r-naJbbgrLJjGdKNICzUi6WGLsmSvmeyeKxrKTCVFgB83uUQwaBj9MbilcCkC36HgSTKjKGZUffT7vvT6x7HKyR5WBcOy_zZWy11xzm5-MqrcsVTjKZ3WhY2Q1PLW0Zve29XHeyZffEDvkR3d_yP10wPFIyt0I07OBCVmK3LHktipkv5mZ-GioiXXWySG_xPST1lN0NbNxxddDwsYxTIHw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این وسط Grok 4.7 هم اومده، توی یه بنچمارک DeepSWE الکی بولد شده که از Fable 5.1 قوی‌تره، ولی توی هرچی بنچمارک دیگه بگردین از Muse Spark 1.3 هم ضعیف‌تره. ایلان ماسک فقط بلده گنده گنده حرف بزنه و تبلیغ بخره متأسفانه</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/MatinSenPaii/5300" target="_blank">📅 00:29 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/MatinSenPaii/5300" target="_blank">📅 00:29 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5298">
@@ -889,7 +889,7 @@ https://github.com/zai-org/ZCode</div>
 مربوط به بازیه
 #️⃣
 از اونجایی که 3 تا 5 هم برق میره، بعدش ضبط میکنم و احتمالا تا شب آماده بشه</div>
-<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/MatinSenPaii/5294" target="_blank">📅 14:44 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.7K · <a href="https://t.me/MatinSenPaii/5294" target="_blank">📅 14:44 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5293">
@@ -897,7 +897,7 @@ https://github.com/zai-org/ZCode</div>
 <div class="tg-text">دسترسی به Jev برای همه با استارت کردیت 5$ دلاری رایگان شد: console.typesafe.ai
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 33K · <a href="https://t.me/MatinSenPaii/5293" target="_blank">📅 13:56 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/MatinSenPaii/5293" target="_blank">📅 13:56 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5292">
@@ -930,7 +930,7 @@ t.me/MatinSenPaii</div>
 <div class="tg-text">خلاصه‌ی کاری که Jev انجام میده
 😂
 (سریال Breaking Bad) برای اون نرم‌افزار بررسی کامنت اینستاگرام صد درصد میشه ازش استفاده کرد</div>
-<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/MatinSenPaii/5289" target="_blank">📅 13:02 · 30 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/MatinSenPaii/5289" target="_blank">📅 13:02 · 30 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5288">
@@ -959,7 +959,7 @@ t.me/MatinSenPaii</div>
 <div class="tg-post" id="msg-5285">
 <div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">هوش مصنوعی جای ما رو می‌گیره؟ | آیا شغل شما در خطره و راه حل چیه  هوش مصنوعی واقعاً جای ما رو می‌گیره؟ توی این ویدئو به‌جای شعار و حکم دادن به قول یاشار عزیز و با کامنت دادن روی ویدئوی این استاد بزرگوارم، سعی کردیم با یزدان عزیز با استدلال و تجربه‌ی خودمون…</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/MatinSenPaii/5285" target="_blank">📅 23:19 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/MatinSenPaii/5285" target="_blank">📅 23:19 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5284">
@@ -1080,7 +1080,7 @@ akshay_pachaar</div>
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lgxpqSYbxfaOHtGjEclJ0xtP0KvkGHNoWLGpPxngXwVjxFxzmup_bAg-2sFduMR1VtVp91yaM0Rjgy0TSgdHj0xjr2UmR8VBjLHS1GmapZaddRsPVX1rjYusSuh8I0zipe23RiafUHHYzAWLv7uqGRPhHPw9HD5AZtDKFUkgU1d2VG1ZUkUi49-ARBSf26jh__SeenHzMDfBEVln2mENtCouSu5cElb6Aos9BB3Y-zDiBCz2eMOL1PUbGsAxyy0aMHQjor3ftQRxjlOsvfpVjM6J0YA7MHcYT_-l_pqYoHI6XpeZZSvxRbXy4gssjZ7wgAA3T3WFPc9SX55bQdIL0Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این هم توضیح تخصصی تر: https://www.youtube.com/watch?v=vj7hysh0mOI</div>
-<div class="tg-footer">👁️ 33K · <a href="https://t.me/MatinSenPaii/5279" target="_blank">📅 10:37 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/MatinSenPaii/5279" target="_blank">📅 10:37 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5278">
@@ -1159,7 +1159,7 @@ https://youtu.be/2z-7pIj57f8</div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/FXNJTUH13SCu2d8XsQ6nHCvNQvieUUj9bWklWrRxRlSjSzMGYcQS-rGidYS7zuA6DjELc7_bc8FmZ4f6rmUBag2mkBJyceDIeyXeQhIP821DM26EDrHKZYfFN_lE83BkrTG507FgVOYbW3mXOgi29HihKzkZpwrfNWk5DC8ea6YVHVROjS0FZjFgFYEG3C2YMg2GbPV2B3TJCGajrankdcewOJVXvvOsg-8ZxqwL7eHdFQIxSEuGUzI6OWcRIyUFksItiR30Bfq_JItcx1l3-L4FP5HrQ_pUGdBKcKFqgzh8Cq6PEjpDwVG4maYoK3mRHRYZfTgGX1CleHz78xETag.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">یه برنامه نوشتم برای اتوماسیون بررسی کامنت اینستاگرام با AI(با مصرف توکن بسیار پایین، ویژه هندل کردن تعداد بالایی کامنت) با امکاناتی که شاید جالب باشه واستون امروز توی وبینار BoxAPI میریم سراغش و بهتون توضیح می‌دم چطوری نوشتمش و چه شکلی فرآیندش از ایده تا درآمدزایی طی می‌شه</div>
-<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/MatinSenPaii/5269" target="_blank">📅 16:04 · 28 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/MatinSenPaii/5269" target="_blank">📅 16:04 · 28 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5268">
@@ -1310,7 +1310,7 @@ https://github.com/TaJirax/CottenRouter/blob/main/README.fa.md
 3- و گفتن تا می‌تونید توکن بسوزونید
 🙏
 🔥</div>
-<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/MatinSenPaii/5259" target="_blank">📅 21:22 · 25 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/MatinSenPaii/5259" target="_blank">📅 21:22 · 25 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5258">
@@ -1325,7 +1325,7 @@ https://github.com/TaJirax/CottenRouter/blob/main/README.fa.md
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Vr105HbRKV63sPLQD39y12Ve2WVHKCCerrjDYcwglhECSSAU5z1RMxoOY5G7nFrXHJLsS5VaiCloujEvQKSH_hyESwvO8IaUN4BOg-cEFzmaCjQocnEHSbr5-wTtMZ2_F-6VAUHrkYdiVmuNW7hQe_wgxy3k5cZA2ai0GpHj0iezm8jDWpGl30J5UmGLtZs08nzAqUQqrb9mwSXcIddXEiNPD-PN47xmWc0odBM8uHhjhFJgqriJnrjOXjtypfYPr3Prp_JxmTiIgeBA8koidW7WhnrDbh85eiZxILSFvHS7uYPLUFCJQjDWSukLNEgQ5971Be7wy46ICtuctRoJpA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شاید که به کار آید
 https://eseminar.tv/wb182503</div>
-<div class="tg-footer">👁️ 47.3K · <a href="https://t.me/MatinSenPaii/5257" target="_blank">📅 17:12 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 47.4K · <a href="https://t.me/MatinSenPaii/5257" target="_blank">📅 17:12 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5256">
@@ -1411,7 +1411,7 @@ npx skills add https://github.com/mattpocock/skills --skill to-spec
 https://github.com/thesysdev/openui
 ✍️
 CallMeDiegoJr</div>
-<div class="tg-footer">👁️ 35K · <a href="https://t.me/MatinSenPaii/5254" target="_blank">📅 00:17 · 24 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/MatinSenPaii/5254" target="_blank">📅 00:17 · 24 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5253">
@@ -1440,7 +1440,7 @@ CallMeDiegoJr</div>
 <div class="tg-text">وایب کد کردن یه اپ تا زمانی که 1 میلیون دلار در بیاریم: تا الان 237 هزار دلار arr داریم
 🤡
 برم ببینم پسره چه رمزی زده، میام بهتون می‌گم</div>
-<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/MatinSenPaii/5250" target="_blank">📅 20:42 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 39.4K · <a href="https://t.me/MatinSenPaii/5250" target="_blank">📅 20:42 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5249">
@@ -1465,7 +1465,7 @@ PsyopBaz</div>
 <div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/aj1vvY-LEdu6Wx_O8uRtBSuceLcrHlmZMc7W-WjcaksBBE4GTRpoRzSIA0z4efWdZZj6Y9WGBuMZhdW1W_rxtyXOF9C77Im1ke_RR22LeXFVp5OUMFEf5vpG6EYq3Jqb83nZoG0lXX_DY-jZy_kSSLSY8Wb9afKiZTAS-oOu3z0jvZVF1jGshlHAjxurVRdOAEWcwmfTK36WdqBD5I9tF2c0mdJsQPz-OAr-ZKJOYIah17dqXi9pnU2ywQ82zdhAnh7x2Mo2CJ4eC9v51oJEWxD2g3QxC9zc2t4QC7cKXhuvESgivUGquyoZ7kZ4L1zxPyxMpb7AYsYvr6zjkBEwbA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یعنی این قانون رجیستری رو من نفهمیدم که نفهمیدم که نفهمیدم.</div>
-<div class="tg-footer">👁️ 40.5K · <a href="https://t.me/MatinSenPaii/5247" target="_blank">📅 17:15 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 40.6K · <a href="https://t.me/MatinSenPaii/5247" target="_blank">📅 17:15 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5246">
@@ -1478,14 +1478,14 @@ PsyopBaz</div>
 <div class="tg-post" id="msg-5245">
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">توی این چهار روز کلی اتفاق افتاد. از معرفی GPT image 2.5 تا مدلهای جدید دیگه‌ای که معرفی شدن؛  اما چیزی که وقتی دیدمش برق از سرم پروند، حل معمای 90 ساله‌ی وجود و همواری سه‌بعدی ناویر استوکس توسط یه مدل قوی‌تر از Astra توی 88 ساعت بود که هنوز در حیرتم؛ چون…</div>
-<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/MatinSenPaii/5245" target="_blank">📅 15:19 · 23 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/MatinSenPaii/5245" target="_blank">📅 15:19 · 23 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5244">
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/H8azSZ6ZntTY1t8dyJ3D6NLDFrK1v-oEQRoveWh3tAaB6vPgzdyYFB5NAUWZE0VLfQIKjGEZQ_GGifvsUrdv6SYOkaVZo8KUo0nhDQfw_ERL6i9kLt7jFjX-pE9Vimel5csZ1fPr6YvdfE39SRB7RQMwPW3vCcd1VQbZ0q46GIDMW6kzb6o4u_m8O4umDnmOvCtUjvcTGe2thXW0VRJR0rQm5L8QY4w5x4VifopaBYwU9yQk_xKfdbAszOK9WWx3sxBInE72gktOxC_1h8a5cTYYmMWzY7AgFiyu0uHig0K4I72_MU8WaH_M12YA8TDNRb0_BM_mpkFBdJzYcyw7rQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گوگل اون پشت در حال آپدیت دادنای مرموزانه و کار کردن روی مدل‌های Aiاش و بیرون دادن شایعه‌های مختلف:</div>
-<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/MatinSenPaii/5244" target="_blank">📅 23:58 · 22 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 43.2K · <a href="https://t.me/MatinSenPaii/5244" target="_blank">📅 23:58 · 22 Shahrivar 1405</a></div>
 </div>
 
 <hr>

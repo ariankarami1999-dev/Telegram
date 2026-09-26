@@ -292,7 +292,7 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-04 03:12:51</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-04 06:11:45</div>
 <hr>
 
 <div class="tg-post" id="msg-21217">
@@ -300,13 +300,13 @@
 <div class="tg-text">سفیر ایالات متحده در چین، گفت که رئیس‌جمهور ترامپ در مذاکرات خود در کاخ سفید، از رئیس‌جمهور چین، شی جین‌پینگ، خواسته است تا هرگونه کمک چین به ایران را متوقف کند.
 او اظهار داشت که واشنگتن به وضوح اعلام کرده است که «هرگونه کمکی که چین به ایران ارائه می‌دهد، کاملاً غیرقابل قبول است».
 او افزود: «ما از قبل حرکتی در این زمینه مشاهده کرده‌ایم. این همان تعهدی است که داده شده است. آن‌ها به ما اطمینان دادند که چنین کاری انجام نمی‌دهند.»</div>
-<div class="tg-footer">👁️ 509 · <a href="https://t.me/SBoxxx/21217" target="_blank">📅 02:22 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.15K · <a href="https://t.me/SBoxxx/21217" target="_blank">📅 02:22 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21216">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">فیلم کامل مستند BBC درباره نسل کشی ترکیه ضد کردها در عراق</div>
-<div class="tg-footer">👁️ 2.06K · <a href="https://t.me/SBoxxx/21216" target="_blank">📅 00:05 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/SBoxxx/21216" target="_blank">📅 00:05 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21215">
@@ -320,77 +320,77 @@
 </div>
 <div class="tg-text">اثرات خانمانسوز جهش دلار روی مغز مردان سرزمینم!
 گفته می شود ایشان قبلاً پرایس اکشن کار بوده که بعد از 36 بار کال کردن اکنون وارد مباحث تشکیل سبد و تخمگذاری در آن شده است و گرنه این حجم از آشنایی و تسلط بر مفاهیم بازاری نمیتواند از دهان یک اسکل معمولی بیرون بیاید!</div>
-<div class="tg-footer">👁️ 2.89K · <a href="https://t.me/SBoxxx/21215" target="_blank">📅 23:23 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.22K · <a href="https://t.me/SBoxxx/21215" target="_blank">📅 23:23 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21214">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">علی عبدی برنامه آمریکا و اسرائیل برای جنگ بعدی علیه ایران را نفوذ آبی و خاکی و هلی برن از سمت خلیج فارس، غرب(عراق)، جمهوری باکو، آسیای مرکزی و جنوب شرق (پاکستان) دانست و تصریح کرد حملات هوایی، تلاش برای شکار شاه مهره و استفاده از بمب اتمی تاکتیکال نیز رخ خواهد…</div>
-<div class="tg-footer">👁️ 3.03K · <a href="https://t.me/SBoxxx/21214" target="_blank">📅 23:10 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.32K · <a href="https://t.me/SBoxxx/21214" target="_blank">📅 23:10 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21213">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">— تًن ماهی — گوشگیر سیلیکونی — آب معدنی — چسب زدن شیشه ها</div>
-<div class="tg-footer">👁️ 3K · <a href="https://t.me/SBoxxx/21213" target="_blank">📅 23:09 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.27K · <a href="https://t.me/SBoxxx/21213" target="_blank">📅 23:09 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21212">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">علی عبدی برنامه آمریکا و اسرائیل برای جنگ بعدی علیه ایران را نفوذ آبی و خاکی و هلی برن از سمت خلیج فارس، غرب(عراق)، جمهوری باکو، آسیای مرکزی و جنوب شرق (پاکستان) دانست و تصریح کرد حملات هوایی، تلاش برای شکار شاه مهره و استفاده از بمب اتمی تاکتیکال نیز رخ خواهد داد، ولی پیروزی از آن ملت ایران خواهد بود.</div>
-<div class="tg-footer">👁️ 3.19K · <a href="https://t.me/SBoxxx/21212" target="_blank">📅 23:07 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.45K · <a href="https://t.me/SBoxxx/21212" target="_blank">📅 23:07 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21211">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">به پزشکیان رای دادیم که جنگ نشود، هر هفته 15 بار جنگ می شود!</div>
-<div class="tg-footer">👁️ 3.07K · <a href="https://t.me/SBoxxx/21211" target="_blank">📅 23:04 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.31K · <a href="https://t.me/SBoxxx/21211" target="_blank">📅 23:04 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21210">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">به پزشکیان رای دادیم که جنگ نشود، هر هفته 15 بار جنگ می شود!</div>
-<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/SBoxxx/21210" target="_blank">📅 23:03 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.38K · <a href="https://t.me/SBoxxx/21210" target="_blank">📅 23:03 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21209">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">خداوکیلی راست می گوید ؛ این بار دیگر غافلگیر نشویم!</div>
-<div class="tg-footer">👁️ 3.1K · <a href="https://t.me/SBoxxx/21209" target="_blank">📅 23:02 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.34K · <a href="https://t.me/SBoxxx/21209" target="_blank">📅 23:02 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21208">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nGOXEApH-eFRoq8WqrKsBEtfRgjX39CLw57sUfUQuxtqx6Jv9aEZwRGOxB9aS1CKOh7o_GUZGD-eJZik_agHoOd-_FsXpyWqmF5GiXBE98T35cEGNYRFveyAeQtwKwMrckKEHbqy2SBOmLH-h3zCcS7VGOD7KZF7Ki5FtSoH628CY4xaQpajME8zRzq114Z9gsC02pcakM0aZA-s6e_LZAhQTyHsG9jiV3ybBnOIAhOGXkbYRhHN4Kgzw26rJ0NaRKsyjH5kSWfrQLe2apF9Njm0-gCj3Pin71I2KMkhAHxdvR3zjjR6fYiOb0eDSYaHUSkixoz6t98TZwXSmcHCHA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">من شخصاً هیچ وقت به نزدیک بودن توافق ایران و آمریکا توجه نمی کنم ولی اعتقاد دارم نزدیکی ایران و آمریکا نزدیک است.</div>
-<div class="tg-footer">👁️ 3.21K · <a href="https://t.me/SBoxxx/21208" target="_blank">📅 23:01 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.47K · <a href="https://t.me/SBoxxx/21208" target="_blank">📅 23:01 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21207">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">چرا می خند؟!</div>
-<div class="tg-footer">👁️ 3.03K · <a href="https://t.me/SBoxxx/21207" target="_blank">📅 22:59 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.26K · <a href="https://t.me/SBoxxx/21207" target="_blank">📅 22:59 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21206">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nE04ZMY-MnSqqRuoPIDNtIAEfcUYt-gqbDhLzoDdWKkPIv5DHbd4tFxpHMNUW79AU2pKJTYWRMhuV-FbpnHFE7WNaqb4JHBW8CtPo4a1Z8G03TgVwEhaEDFJyHImz1jf8ymifTsL59BsvBWSw7ver91LV6oCIgP0Ae_4bUm8h_Lxv8acX59I-pE3p4l3wGhFDBhRsfGUPoxibFORbQngs51EMDBMHw3F6z14vUTUgQj5sYoJ4ra7CCxgjcN1Nt-U47NppACyFyd9XKuWA2r7BOIS7pQy0-1yM1ZNgcPl4k4Ssqf1xkjzMHfDiqJwXSo6t-Ix9osDX0vVppBGFQzaug.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">First Time ?</div>
-<div class="tg-footer">👁️ 3.16K · <a href="https://t.me/SBoxxx/21206" target="_blank">📅 22:54 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.38K · <a href="https://t.me/SBoxxx/21206" target="_blank">📅 22:54 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21205">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">مرندی ذوالاکتاف:
 هیچ پیشرفتی در مذاکرات غیرمستقیم با رژیم ترامپ حاصل نشده است. منطقه به سوی تشدید تنش پیش می‌رود، چرا که دیکتاتوری‌های حوزه خلیج فارس که در جنگ علیه ایران همدست بوده‌اند، به توطئه ترامپ و بسنت علیه ملت ایران می‌پیوندند.</div>
-<div class="tg-footer">👁️ 3.28K · <a href="https://t.me/SBoxxx/21205" target="_blank">📅 22:44 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/SBoxxx/21205" target="_blank">📅 22:44 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21204">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FrgmaO2sJwXtIBAUbNAcSN9u4ZIUfs7h3hzQXx6ONNApxG6f364axiUhjw4eC2Y0ZQIIjzI5c0l5a90YEe_GpsI5dtQ1qtQM6K9XRcTE2AOxMOUlTj7LJ5E9VE04UaKVLIVoLJPk9o-JFtTuZeXjTE-GZuvHmxAH6cdiGuZ3uhISjZBTTcTihvYY5PHHR0mhrfOutmjzLKMDxd6jaea7gkxWKj0onIbJwFX9gJdU6jGnd6Hl4_-0aFWyNkDh-QIYB0V2VSMPn-QIDqKYDhHgmbBsfCAHXPlhhBm-ioztL_MPJM3jtK0nJxs9YB21FwbnOjMymLriqR2VX8NqtA3roA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محدوده 4255 بسیار مهم است.</div>
-<div class="tg-footer">👁️ 3.34K · <a href="https://t.me/SBoxxx/21204" target="_blank">📅 22:41 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.54K · <a href="https://t.me/SBoxxx/21204" target="_blank">📅 22:41 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21203">
@@ -399,13 +399,13 @@
 <div class="tg-text">حقیقتا خواهرمیانه جای مبتدی ها نیست!
 از ۶ ماه پیش بلایی نبوده که جمهوری اسلامی و نیروهای نیابتی اش سر این سعودی های فلک زده نیاورده باشند؛ بعد این هفته جشن باشکوهی به مناسب ۹۶-امین سالگرد تاسیس کشور سعودی در قلب تهران برگزار شده!
 سبحان الله!</div>
-<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SBoxxx/21203" target="_blank">📅 21:19 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/21203" target="_blank">📅 21:19 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21202">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">Ali SharifAzadeh – انتخابات اسرائیل</div>
-<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/SBoxxx/21202" target="_blank">📅 21:10 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4K · <a href="https://t.me/SBoxxx/21202" target="_blank">📅 21:10 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21201">
@@ -413,82 +413,82 @@
 <div class="tg-text">ترامپ
 :
 در نوامبر در چین دوباره با شی ملاقات خواهیم کرد</div>
-<div class="tg-footer">👁️ 4.13K · <a href="https://t.me/SBoxxx/21201" target="_blank">📅 20:49 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SBoxxx/21201" target="_blank">📅 20:49 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21200">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">First Time ?</div>
-<div class="tg-footer">👁️ 4.22K · <a href="https://t.me/SBoxxx/21200" target="_blank">📅 20:33 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SBoxxx/21200" target="_blank">📅 20:33 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21199">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">‏ قائم‌پناه:
 به عربستانی‌ها گفتم انشاءالله برد موشک‌های ما به آمریکا برسد تا دیگر به پایگاه‌ آمریکا در کشور شما حمله نکنیم بلکه به خود کاخ سفید موشک بزنیم.</div>
-<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/21199" target="_blank">📅 20:17 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/21199" target="_blank">📅 20:17 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21198">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">سفیر آمریکا در چین:
 پکن در پی هشدار ترامپ، بخشی از حمایت‌ها از تهران را متوقف کرده است</div>
-<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/21198" target="_blank">📅 19:31 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.56K · <a href="https://t.me/SBoxxx/21198" target="_blank">📅 19:31 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21197">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">میانگین 200 پیپ</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/21197" target="_blank">📅 18:08 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/SBoxxx/21197" target="_blank">📅 18:08 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21196">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">#FairValueCurve  نمایه FVC در حال نزدیک شدن به کف محدوده بیش—فروش است.  در این شرایط پرتناقض، بهترین استراتژی فروش در مقاومتهای نزدیک (4292 و 4308) با تارگت 4235 می باشد.</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/21196" target="_blank">📅 16:57 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/21196" target="_blank">📅 16:57 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21195">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">رئیس اسبق سیا:   امکان تصرف خارک برای آمریکا وجود ندارد</div>
-<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/21195" target="_blank">📅 16:22 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SBoxxx/21195" target="_blank">📅 16:22 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21194">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">کارشناس صداوسیما:   در صورت اشغال جزیره خارک توسط آمریکا، خاک بحرین را پس می‌گیربم</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/21194" target="_blank">📅 16:22 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SBoxxx/21194" target="_blank">📅 16:22 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21193">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">🔴
 عربستان سعودی ارسال نفت به اروپا را لغو کرد!</div>
-<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SBoxxx/21193" target="_blank">📅 16:21 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.83K · <a href="https://t.me/SBoxxx/21193" target="_blank">📅 16:21 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21192">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">بی حجاب ها بیایند توی تجمعات شبانه بعد که تمام شد لطفا خودشان خودکشی کنند</div>
-<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/21192" target="_blank">📅 16:17 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SBoxxx/21192" target="_blank">📅 16:17 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21191">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">بی حجاب ها بیایند توی تجمعات شبانه بعد که تمام شد لطفا خودشان خودکشی کنند</div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SBoxxx/21191" target="_blank">📅 14:56 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SBoxxx/21191" target="_blank">📅 14:56 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21190">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">بی حجاب ها بیایند توی تجمعات شبانه بعد که تمام شد لطفا خودشان خودکشی کنند</div>
-<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SBoxxx/21190" target="_blank">📅 14:56 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/21190" target="_blank">📅 14:56 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21189">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">خاتمی، امام جمعه تهران:   کسانی که حجاب را رعایت نمی‌کنند نیز شهروند این ملت هستند و حضور آنها در تجمعات و همراهی با مردم کار خوبی است، اما دهن‌کجی به حجاب، خلاف وحدت است</div>
-<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SBoxxx/21189" target="_blank">📅 14:55 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SBoxxx/21189" target="_blank">📅 14:55 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21188">
@@ -496,20 +496,20 @@
 <div class="tg-text">مخبر، مشاور رهبر انقلاب:
 پرواز در منطقه یا برای همه آزاد است یا برای هیچ‌کس
 اگر ایران امکان پرواز و دریافت خدمات فرودگاهی نداشته باشد هیچ کشوری در منطقه هم این امکان را نخواهد داشت.</div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SBoxxx/21188" target="_blank">📅 14:50 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SBoxxx/21188" target="_blank">📅 14:50 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21187">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">خاتمی، امام جمعه تهران:   کسانی که حجاب را رعایت نمی‌کنند نیز شهروند این ملت هستند و حضور آنها در تجمعات و همراهی با مردم کار خوبی است، اما دهن‌کجی به حجاب، خلاف وحدت است</div>
-<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SBoxxx/21187" target="_blank">📅 14:45 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SBoxxx/21187" target="_blank">📅 14:45 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21186">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">خاتمی، امام جمعه تهران:
 کسانی که حجاب را رعایت نمی‌کنند نیز شهروند این ملت هستند و حضور آنها در تجمعات و همراهی با مردم کار خوبی است، اما دهن‌کجی به حجاب، خلاف وحدت است</div>
-<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/SBoxxx/21186" target="_blank">📅 14:44 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SBoxxx/21186" target="_blank">📅 14:44 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21185">
@@ -518,7 +518,7 @@
 <div class="tg-text">#FairValueCurve
 نمایه FVC در حال نزدیک شدن به کف محدوده بیش—فروش است.
 در این شرایط پرتناقض، بهترین استراتژی فروش در مقاومتهای نزدیک (4292 و 4308) با تارگت 4235 می باشد.</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SBoxxx/21185" target="_blank">📅 11:19 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SBoxxx/21185" target="_blank">📅 11:19 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21184">
@@ -526,14 +526,14 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nyNPRQ1MGfmZJKtihnyI7nSL0aDhHLUknVUbwQPhplyD15OZ6JHjswSB8KAoPh0UYlR3rd9dc5TgdHTi--Lw4rLIHe13s4B_MMYpW6F5nWG1W5_kTZJ7i_ao71DWPuwo6ZKJdWpTRncSKT83TU6TEP_YDRFrYDAuekt6l36VoKd-xBT1zqzgclE6576zdyGQWGCCaSq9wVPsfL4rpVEhPiV_gJ1a3GRSDIQhCkOgwn0sL4yOWc_VftZDvlSNCgVxzGHpEa8AZj4s9K7rDr_Ea4NI88EngssXudGXaGnJuZluUIS4ha5LDa-hWK_kD5kX5LcFxFv5Ud8EkPgWMLdqhQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک + تقویم اقتصادی برای امروز در سطح بسیار بالایی است و هر بالایی فرصت فروش است.</div>
-<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SBoxxx/21184" target="_blank">📅 11:14 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/21184" target="_blank">📅 11:14 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21183">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">پاکستان، ترکیه و عربستان سعودی در پی افزایش حملات حوثی‌ها به خاک عربستان، یک جلسه اضطراری رؤسای ستاد مشترک را بر اساس پیمان دفاعی مشترک مکه تشکیل می‌دهند.
 این جلسه اولین گام در سطح فعال‌سازی تحت این پیمان است که مقرر می‌دارد هرگونه حمله به یکی از اعضا، حمله به هر سه کشور تلقی می‌شود.</div>
-<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SBoxxx/21183" target="_blank">📅 10:50 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.07K · <a href="https://t.me/SBoxxx/21183" target="_blank">📅 10:50 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21182">
@@ -541,7 +541,7 @@
 <div class="tg-text">کلمبیا تمام روابط دیپلماتیک خودش با ایران را قطع کرد
 دلایل اجازه ندادن به بازرس ها آژانس  بستن تنگه هرمز رعایت نکردن حقوق بشر و .... بود
 یکی از دلایل جالبش رابطه ایران با گروه های مواد مخدر  بود</div>
-<div class="tg-footer">👁️ 5.51K · <a href="https://t.me/SBoxxx/21182" target="_blank">📅 01:49 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/SBoxxx/21182" target="_blank">📅 01:49 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21180">
@@ -563,7 +563,7 @@
 <a href="https://cdn4.telesco.pe/file/9dad7c5c99.mp4?token=q3dpepLSXdCR-Qyx3voTDMJkSvCF8XzmlFnBbtMgCH-nmoWXhQcRJRSVPBW0U99FSvWg-cu_oYvLzqculIV-q4YS8jRhboIL_C1mh7H3ekP1Q0r6H976ZGWTkEw_xasfJvyg-IxbrKMtfqFBiBCmE1LXLxnm_8Q2aNAYo1yLaZsM3VhLsi9fJTAQCzzbV3c6O3yJf4G8cwGrdxNWTsRI6EhiEr86tq7rKq1Ql5R5Ft8VCGeY3kfzNRIU429JGj1lq0JMML5ZrdtEglJ5OdzoVIeWvSGXlSnv9Bl-ver0VE5uaarHm0gnsEbOKMkQVxshM-5b5NMv4YP-UFtxOnjjmwN1dwN-Dx8-7hQvytqrZsxyrURH4xP7-a8G45n3P0jENJ3Q8cN7X2DghcgzbndZngvp6CT6kp9Djn59oa6n1pBAvRxgeSOIniAUWSm-j5v8jnS96Esb6sYtJuZ_mN6QoGAa_aJX9cFL4M9g35kbl6OR-kB5YNypGeLU1v_Akp6OFvWcOZz8k7vZ2e4iMTp8ZcAhD1ch3Er6iY-WaY59_86ByF96fJJYKWqAjeQgmJ80X_M-mVrm3AjG6Sf7wah08Ud6jRLp5Zidi4uQwAph1nc_N1FjA5Grbdt0XciuZ_7oB_RPHKKfVUqInBBzNNrEg7tO8doWYvQfZnNt7bZh24g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">یک موزیک ویدیوی Erotic از اتحاد عربستان و فاکستان ببینید شب جمعه ای دلتان باز شود!</div>
-<div class="tg-footer">👁️ 5.51K · <a href="https://t.me/SBoxxx/21179" target="_blank">📅 21:33 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/SBoxxx/21179" target="_blank">📅 21:33 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21178">
@@ -576,7 +576,7 @@
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">رویترز:
 آمریکا و ایران درباره توافق مرحله‌ای برای پایان دادن به درگیری‌ها مذاکره می‌کنند</div>
-<div class="tg-footer">👁️ 5.5K · <a href="https://t.me/SBoxxx/21177" target="_blank">📅 20:01 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.51K · <a href="https://t.me/SBoxxx/21177" target="_blank">📅 20:01 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21176">
@@ -595,7 +595,7 @@
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Fn7sLpzqJiJnCBSG_RIerKtAi_aN3f0EwZxgYR0p7FJ246VJ3ac8ubrzTAaty1RVTq4jTrQF68tXWUr-zZIcoFsB9vRv66TKsSbVhjq7dyP6uowvHhstV8g4W-MJ2wEqDu49RVdmXSX56xQ9aRucMN2bV0WCSvROvRaOhxwX9iUDJImqAtGT28ENsJnwnm96NSwplqAlw7bE7JtgSMiyN5gtv2oP9K1MX4tAACurPDqsjxVxaAnNuY8Wb2IpbARRoPohBLFIub0f9CrXJ_iLTO9UiA0ZgD99397mDd_f4MXISRHABzlxUu2NoRHyPmeul3ujEb8DX4kCLaKMLvDN0Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کارشناس صداوسیما اشاره نکرد که اگر ما توان تصرف بحرین را که میزبان نیروهای آمریکایی است داریم، چطور توان حفظ خارک را که مال خودمان است در برابر نیمی از همان آمریکایی‌ها نداریم؟!</div>
-<div class="tg-footer">👁️ 5.59K · <a href="https://t.me/SBoxxx/21174" target="_blank">📅 15:49 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/SBoxxx/21174" target="_blank">📅 15:49 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21173">
@@ -608,7 +608,7 @@
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">کارشناس صداوسیما:
 در صورت اشغال جزیره خارک توسط آمریکا، خاک بحرین را پس می‌گیربم</div>
-<div class="tg-footer">👁️ 5.49K · <a href="https://t.me/SBoxxx/21172" target="_blank">📅 15:29 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.5K · <a href="https://t.me/SBoxxx/21172" target="_blank">📅 15:29 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21171">
@@ -620,7 +620,7 @@
 <div class="tg-post" id="msg-21170">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">یک پرواز از شرکت هواپیمایی وِارِش ایران، که قرار بود از تهران به دوشنبه، پایتخت تاجیکستان، پرواز کند، لغو شد و به فرودگاه بین‌المللی امام خمینی بازگشت.  علت لغو پرواز این بود که اجازه عبور از حریم هوایی جمهوری سلطنتی باکو به این پرواز داده نشد.</div>
-<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/SBoxxx/21170" target="_blank">📅 14:26 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/SBoxxx/21170" target="_blank">📅 14:26 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21169">
@@ -670,7 +670,7 @@
 <a href="https://t.me/SBoxxx/21165" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">سخنرانی پزشکیان در سازمان ملل اینقدر تند بود که حتی کانالهای ارزشی 6 سیلندر نیز از او ستایش می کنند!</div>
-<div class="tg-footer">👁️ 5.24K · <a href="https://t.me/SBoxxx/21165" target="_blank">📅 11:06 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SBoxxx/21165" target="_blank">📅 11:06 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21164">
@@ -687,7 +687,7 @@
 در این شرایط و با این تناقض، 2 راه داریم:
 — صبر برای رسیدن طلا به 4335 برای فروش با تارگت 4230
 — خرید در محدوده 4260 الی 4255 با تارگت 4300</div>
-<div class="tg-footer">👁️ 5.24K · <a href="https://t.me/SBoxxx/21163" target="_blank">📅 10:58 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SBoxxx/21163" target="_blank">📅 10:58 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21162">
@@ -702,7 +702,7 @@
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">حملات هوایی پاکستان به ۳ استان افغانستان
 نیروی هوایی پاکستان بامداد پنجشنبه حملاتی را به استان‌های «خوست» و «پکتیکا» و همچنین «قندهار» به عنوان دومین شهر بزرگ این کشور انجام داد.</div>
-<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/SBoxxx/21161" target="_blank">📅 09:37 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.27K · <a href="https://t.me/SBoxxx/21161" target="_blank">📅 09:37 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21160">
@@ -829,7 +829,7 @@
 <div class="tg-post" id="msg-21143">
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">با این منطق، فاطماگل قوی ترین زن تورکیه است</div>
-<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SBoxxx/21143" target="_blank">📅 17:01 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SBoxxx/21143" target="_blank">📅 17:01 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21142">
@@ -1040,7 +1040,7 @@ mBridge
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dJf8zr4cRlBp-zIFMb2EZiXmhXVvdw-OTjNeCCfMAfnzmASvcoqHnNOVgrmVGo_dgYYDzoiq5rFaKwVV32lqOj2Bw_2o5Bf8SxP0EczbzF42kbObURi4rTN_vPw-uJfMHdw7nVtnYAH3Bs1jFp3kAMqN43W__MDCWFH-yw6NdYi5dEegKdB-TDkkgkOh_uU0rEsiR5seHsMLvSOFZT9FHoOoumr3mABpQOc4vD6xpW6Dyp8mlBddyiX4ncyUsrbQAl8HPa38E-zGjbwpxJgAJ9o7sXmfsKh1AHDvFmGnejlwtuFsvY9KsM_jv3KhuowL9oMIjF_eZLW-MxzLCFluGQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#USOIL   دوستانی که درباره نفت دایرکت دادند؛  پوزیشن های خرید ما به هر دو TP پیشنهادی رسیده اند و فعلاً خرید نداریم روی نفت.   تحلیل جدیدی از نفت ارائه می شود.</div>
-<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/SBoxxx/21117" target="_blank">📅 00:17 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/SBoxxx/21117" target="_blank">📅 00:17 · 01 Mehr 1405</a></div>
 </div>
 
 <hr>
