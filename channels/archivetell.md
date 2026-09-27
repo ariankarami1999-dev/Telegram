@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-05 02:32:07</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-05 05:06:40</div>
 <hr>
 
 <div class="tg-post" id="msg-7893">
@@ -304,14 +304,14 @@
 بقیه ایموجی ها هم مجازه
 🫶
 ☺️</div>
-<div class="tg-footer">👁️ 639 · <a href="https://t.me/ArchiveTell/7893" target="_blank">📅 23:49 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 712 · <a href="https://t.me/ArchiveTell/7893" target="_blank">📅 23:49 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7889">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">خدایی چرا ریکشنا کمه ، بابا بترکونید دوتا پست بالایی رو ، ما انگیزه داشته باشیم که فقط میترکونیم براتون
 ❤️</div>
-<div class="tg-footer">👁️ 1.15K · <a href="https://t.me/ArchiveTell/7889" target="_blank">📅 20:59 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/ArchiveTell/7889" target="_blank">📅 20:59 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7888">
@@ -329,7 +329,7 @@ Opus 5.5 | Fable 5.1 |  GPT 5.6 Sol | GLM 5.3 | Kimi k3 | Grok 4.6 | Deepseek V4
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/ArchiveTell/7888" target="_blank">📅 20:43 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.23K · <a href="https://t.me/ArchiveTell/7888" target="_blank">📅 20:43 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7887">
@@ -346,7 +346,7 @@ Opus 5 | Sonnet 5 | GPT 5.5
 برای دریافت کلیک کنید
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.27K · <a href="https://t.me/ArchiveTell/7887" target="_blank">📅 19:01 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.3K · <a href="https://t.me/ArchiveTell/7887" target="_blank">📅 19:01 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7886">
@@ -354,7 +354,7 @@ Opus 5 | Sonnet 5 | GPT 5.5
 <div class="tg-text">مایل به Opus 5 ؟
 ( ریکشنا بترکه )
 🔥</div>
-<div class="tg-footer">👁️ 1.3K · <a href="https://t.me/ArchiveTell/7886" target="_blank">📅 18:37 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.33K · <a href="https://t.me/ArchiveTell/7886" target="_blank">📅 18:37 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7885">
@@ -385,7 +385,7 @@ Opus 5 | Sonnet 5 | GPT 5.5
 ⠀
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.37K · <a href="https://t.me/ArchiveTell/7885" target="_blank">📅 17:57 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.4K · <a href="https://t.me/ArchiveTell/7885" target="_blank">📅 17:57 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7884">
@@ -405,7 +405,7 @@ Opus 5 | Sonnet 5 | GPT 5.5
 - در مقابل، مدل‌های AI پاسخ‌های مفصل‌تر و کامل‌تری تولید کرده‌اند و همین باعث شده در این بنچمارک امتیاز بالاتری بگیرند.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.51K · <a href="https://t.me/ArchiveTell/7884" target="_blank">📅 12:00 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/ArchiveTell/7884" target="_blank">📅 12:00 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7883">
@@ -414,7 +414,7 @@ Opus 5 | Sonnet 5 | GPT 5.5
 <div class="tg-text">اینو چنل دوستمون زحمت کشیده در جواب بعضی چنلای مثلا مدعی مردم (پیتزا) گذاشته که همگی بعنوان کلاهبردار ازش شناخت داریم من در مورد کلاینت مهسا حرفی نمیزنم اما اون چنلی که مدعی مردم هس بارها شاهد کلاهبرداری و اسکی و غیره... ازش بودیم تازگی که بوی گند جامپ جامپ در اومد مدعی شد که هیچوقت مودشو چنل نذاشته اما من که میدونم نه تنها جامپ و خیلی فیلترشکنای که مودشو میذاری که اونم اسکی میری و خودت مود نمیکنی ویروسیه بنام فیلترشکن مود
 نظرات کارشناسیت هم گوزیه مث خودت پیتزا
 زمان تو هم فراخواهد رسید دیر یا زود</div>
-<div class="tg-footer">👁️ 1.38K · <a href="https://t.me/ArchiveTell/7883" target="_blank">📅 11:58 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.4K · <a href="https://t.me/ArchiveTell/7883" target="_blank">📅 11:58 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7882">
@@ -467,7 +467,7 @@ dnsleaktest.com
 صفحهٔ مقاله در NDSS
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 3.31K · <a href="https://t.me/ArchiveTell/7882" target="_blank">📅 01:01 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.33K · <a href="https://t.me/ArchiveTell/7882" target="_blank">📅 01:01 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7881">
@@ -486,7 +486,7 @@ Opus 5.5 | Fable 5.1 | GPT 6 Astra
 @ArchiveTell
 |
 #METHOD</div>
-<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/ArchiveTell/7881" target="_blank">📅 23:32 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.86K · <a href="https://t.me/ArchiveTell/7881" target="_blank">📅 23:32 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7880">
@@ -496,7 +496,7 @@ Opus 5.5 | Fable 5.1 | GPT 6 Astra
 😂
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/ArchiveTell/7880" target="_blank">📅 20:27 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/ArchiveTell/7880" target="_blank">📅 20:27 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7879">
@@ -524,7 +524,7 @@ Opus 5.5 | Fable 5.1 | GPT 6 Astra
 صفحهٔ پروژه در گیت‌هاب
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/ArchiveTell/7879" target="_blank">📅 18:26 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/ArchiveTell/7879" target="_blank">📅 18:26 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7878">
@@ -548,7 +548,7 @@ Opus 5.5 | Fable 5.1 | GPT 6 Astra
 سورس پروژه در گیت‌هاب
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/ArchiveTell/7878" target="_blank">📅 13:54 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/ArchiveTell/7878" target="_blank">📅 13:54 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7877">
@@ -611,7 +611,7 @@ pinned a photo</div>
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">خب اونایی که شبا بیدارن و چنل مارو زود نیگا میکنن جایزه دارن
 ☺️</div>
-<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/ArchiveTell/7871" target="_blank">📅 01:36 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/ArchiveTell/7871" target="_blank">📅 01:36 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7870">
@@ -629,7 +629,7 @@ Family
 برای جلوگیری از این مشکل، حتماً از اکانت‌های مستقل و خارج از فمیلی برای Antigravity استفاده کنید.
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.93K · <a href="https://t.me/ArchiveTell/7870" target="_blank">📅 23:59 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/ArchiveTell/7870" target="_blank">📅 23:59 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7869">
@@ -696,7 +696,7 @@ Gemini 4
 راهنمای رسمی فارسی پروژه
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/ArchiveTell/7868" target="_blank">📅 18:19 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/ArchiveTell/7868" target="_blank">📅 18:19 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7867">
@@ -724,7 +724,7 @@ Gemini 4
 سورس پروژه در گیت‌هاب
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/ArchiveTell/7867" target="_blank">📅 16:07 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/ArchiveTell/7867" target="_blank">📅 16:07 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7866">
@@ -793,7 +793,7 @@ OpenCode
 @ArchiveTell
 #Ai
 #هوش_مصنوعی</div>
-<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/ArchiveTell/7859" target="_blank">📅 22:07 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/ArchiveTell/7859" target="_blank">📅 22:07 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7858">
@@ -807,7 +807,7 @@ OpenCode
 حتی یه رتبه‌بندی هم نشون می‌ده که سرعت جواب‌دادنشون نسبت به بقیه چطوره
 🤐
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.28K · <a href="https://t.me/ArchiveTell/7858" target="_blank">📅 20:57 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/ArchiveTell/7858" target="_blank">📅 20:57 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7857">
@@ -847,7 +847,7 @@ OpenCode
 😂
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.86K · <a href="https://t.me/ArchiveTell/7856" target="_blank">📅 12:55 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/ArchiveTell/7856" target="_blank">📅 12:55 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7854">
@@ -935,7 +935,7 @@ OdiRouter
 |
 #API
 #AI</div>
-<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/ArchiveTell/7848" target="_blank">📅 23:09 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/ArchiveTell/7848" target="_blank">📅 23:09 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7847">
@@ -1460,7 +1460,7 @@ trycloudflare
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/ArchiveTell/7803" target="_blank">📅 13:59 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/ArchiveTell/7803" target="_blank">📅 13:59 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7802">
@@ -2560,7 +2560,7 @@ iamLiquidX/telegram-clone-worker⁩
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/D0hIxIwl3n_jhe91yry7WddbeEqy_dxwcXnB7TTO6qVsOvxDEW6B-QMk5TTsL1YRQzEdv2Jcb8gwTuACpDLppQN5mu8W3YFIunkI8asnL2EQXTMMUxB_QfwZOZ38l-Aaum-5KQ-8Tfdl8gSRpnRpIJa_wIdOs3smflEA4n6jnlFoRqZaN40PiyXmlHGOJsbNRazTTQq-tM3wtDyAW2mjsHOVT7cGXf2n2bh_3aFOrXbTcKEfgYt_VFhZvrZra9dA8uwE4ETDXf6Donfv3tRoA2jEc1A2AF-8a--yLjeJi6z-mrm8RixpRnQtrtIhI4XK98wZBfDDD2Qy7Fv3K6ATBQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/tkm3jnoTx7GFtTbx2hOL5BtycsMa7sK04M9OvrvleMGeu3j0qTAF5d00FjIATbKEJBCiSfJJF52Jjq7oRvbhUcVXXIOmmNWXAxADit6kxwJv2i4SSXS9RtCTLpbBiY9FIkGMKrVZ6GUEC_aV3XZMAC--J2hpM2kLC3ABFM7SRy1IBMHsyC0gFT16mbWLZiw_6Wnf2SK65ySJ9LKf2Oo2eCRgcGbreqHo3CywxhWupcpG47AVsS_J5EXJkDouNR09S1rkKy-sKCJYel14N3UstxkFeFlZNy5JZZEklhGJeDNQRTTxIUflSf38x56vTjc5cwzPM7vrok-_gpOy5Zz4uw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/tj45jnLBo1xZEcvAm5KOaUMRlT2YhiQbb834Ok0ka7WNfqBC-ZrRhTZJpUlfaUnElxXQV56KAXkMLnrhfXsC-L7M_cZCtFnnzKY3QaSsiU7v0FyDKlFSReReoYrNZWC6NzwWxh2VpSgxZrHwf65To3SIf4d65LjfkKFzd_vEIuPoro7SQCWXjv5Ou3YYDlB9Xw9F6oIxD5uVjLQo--xZ0nRyGy93lOwwFrLDq6kUcyUDlhbV7pdHve3RVi0KBBPMpgYA0RAx9PnWArdH_0sMUB9X2SjBgfAJoEdiicHU5fUfhz6y3W3721NfK_JzC2e74-adbe43TLyTpdPy7CNeIA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/f9_H4MnuHwz0g6NE8MWjnEpYfBvz_jcW46o06L0n7G6WH_pF6S7_bjYtd0vXXhBf6mLK4-9wN-ro4fgRHBln7FJtHQ-0kdt0QLJ7FgtSjd8i91d1F0YNYesUq-3k33hJ-SbjdlzSxc1aSAEpsKhzaztxzmy0uGfyumzLudiX67g_YA8hDnDX4JyeXTBQTsTD752s8pGr_-aeNsy3j5Evsa02fjaq_nAQaBXMYhmYp_1MJ_VlGywRpdBWA_Mqvz29Tp3LH-30qUiLmlCbXR8m6a0OiniRH-JtB5CHRx9YViiXSY8i0t_8owEqV1Tc-47_V1tcV0pu-E2S8M_BDoQDgA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/Hfuip76V7qJWxt36RaAbUWGoNZFUUZoTzHzWBOj6IPum6mj3R-6ZFtByMNZOeG7fqaar9pKO6T0bPbSw5et2iLjzGBgATs6LKqJLS4dYGPbFerYApshzwVpKc_3W7GSXDpfYbCSkTZyJwmybpFRR6u1EV3MZ6v3XtN2mmQeKB-cpLux4hsHENPQ__AmVNh9SsuZStCXK0CB7T2FA0_dYKUN_JJ3gFBbya4e6GEIv4-DmVe2BauPCA3FgXC_DsTaPhlfoSWW0ds1d8w07qEavKIIki5arvT2ivtXBWMNpZQAZ898GtztvkFJPq7_nXETyaWFbgy8-1Jg8PhSJqzDneQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/asB02W-YTo_A8PiVNGtwLYzAjxobTPVAtLpeEqak3s0OfXh1QNK8DlSzyN9a_5bCF4cV2doBdKBCQpO_68znxnTs6-_-Kmx-VmZ1x0mzVqTu-nUwNynyv8JryVkbO9bf7SXDooSAaVr5FNG2qekExpseWUoYJc9lNRZQQB2tQ_Su4xTXl20ZIzUW9ruDIQDEgGKVLx3BqMGMA0P-JrcM9Hd-mI_wC7ZLWH4-wTTjIxxQgk8PGalW43_MKc0Wy4H1PICtLgy9UwMPPHc1_rJjMFW90hfBH3zlfPoKxJ_wwmskhRP3UKZKIZWlBDmQVNKg-POwlVgbQLYgyyUzccgswQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn5.telesco.pe/file/A6H7IDCNFshVoSB3lSxAVvqaYklcMyq9QOMmkZIFTWO1GB0sd38_t_igeMf9OXNwIHiq-eaZPKbBdd1R8l4E_Xu_8D2LVol_ZASySG2VnN43DvH_DZEymAbgj16BWYgXwmKUUtwAPFhxrGP2AqL2AzczBHLgdL8e7_TpG9Ea8Eyx0qgaECuTBX5QRUYLK3OtMGVMSEatVXrMOJUu3a5l_ql39qb1m57lNV0rsgSEOKqhdMR8iTWBgW3wDMV64tmKzbxHZRo3fHwpnR0RdAO0jFHouWr-6YdNtM0HsaWqPKHlWMiJhhy2bHD_AaZZAFdFLBgCRFJmM75xz48sAgKw-g.jpg" alt="photo" loading="lazy"/></div>
