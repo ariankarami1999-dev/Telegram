@@ -292,7 +292,7 @@
 <a href="https://t.me/alonews" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌جهت رزرو تبلیغات👇https://t.me/ads_alonewsپشتیبانی کانال🕵️https://t.me/AloNews?directمالک کانال🎩@AloNewsBotX:https://x.com/AloNewsBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-06 03:00:22</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-06 06:13:59</div>
 <hr>
 
 <div class="tg-post" id="msg-149789">
@@ -409,7 +409,7 @@ CHANNEL
 🫡
 @payonetvpn
 🔺</div>
-<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/alonews/149789" target="_blank">📅 01:54 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.64K · <a href="https://t.me/alonews/149789" target="_blank">📅 01:54 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149787">
@@ -419,7 +419,7 @@ CHANNEL
 کلاهی که ترامپ توی مصاحبه استفاده کرده همون کلاهیه که اول جنگ سرش گذاشته بود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/alonews/149787" target="_blank">📅 01:41 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/alonews/149787" target="_blank">📅 01:41 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149786">
@@ -428,7 +428,7 @@ CHANNEL
 گزارشات ارسال انبوهی از رهگیرهای پاتریوت به خاورمیانه در هفته اخیر
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/alonews/149786" target="_blank">📅 01:26 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/alonews/149786" target="_blank">📅 01:26 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149785">
@@ -440,7 +440,7 @@ CHANNEL
 نیو سیزن: فرار از اوین
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/alonews/149785" target="_blank">📅 01:19 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.5K · <a href="https://t.me/alonews/149785" target="_blank">📅 01:19 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149784">
@@ -449,7 +449,7 @@ CHANNEL
 ترامپ:ما ایران رو بزودی شکست میدیم و فعلا این کار رو با فشار اقتصادی داریم پیش میبریم چون از نظر نظامی قبلا پیروز شدیم؛ اما این به این معنی نیست که عملیات نظامی رو کنار گذاشتیم و اگه لازم باشه بمباران رو مجددا آغاز میکنیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 32.5K · <a href="https://t.me/alonews/149784" target="_blank">📅 01:02 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/alonews/149784" target="_blank">📅 01:02 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149783">
@@ -458,7 +458,7 @@ CHANNEL
 فوری/آکسیوس: تحرکات حاکی از اقدام نظامی قریب الوقوع علیه ایران است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/alonews/149783" target="_blank">📅 00:55 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/alonews/149783" target="_blank">📅 00:55 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149782">
@@ -471,7 +471,7 @@ CHANNEL
 ایشالا نبویان و ثابتی و .... هم میرن پیشش  که یه بند رو تشکیل بدن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 37K · <a href="https://t.me/alonews/149782" target="_blank">📅 00:50 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 45.6K · <a href="https://t.me/alonews/149782" target="_blank">📅 00:50 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149781">
@@ -481,7 +481,7 @@ CHANNEL
 عوستاد رائفی پور: دو ستاره برای سردار محسن رضایی کمه، باید ۵ستاره بدیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/alonews/149781" target="_blank">📅 00:40 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/alonews/149781" target="_blank">📅 00:40 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149780">
@@ -492,7 +492,7 @@ CHANNEL
 فاصلش الان ۱۰۰کیلومتر هم نیست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/alonews/149780" target="_blank">📅 00:39 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47K · <a href="https://t.me/alonews/149780" target="_blank">📅 00:39 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149779">
@@ -503,7 +503,7 @@ CHANNEL
 فاصلش الان ۱۰۰کیلومتر هم نیست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43K · <a href="https://t.me/alonews/149779" target="_blank">📅 00:33 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 50.7K · <a href="https://t.me/alonews/149779" target="_blank">📅 00:33 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149778">
@@ -512,7 +512,7 @@ CHANNEL
 فارس: حالا که اینجوریه! مذاکره نمیکنیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.7K · <a href="https://t.me/alonews/149778" target="_blank">📅 00:19 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 54.8K · <a href="https://t.me/alonews/149778" target="_blank">📅 00:19 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149777">
@@ -531,7 +531,7 @@ CHANNEL
 وسط برنامه زنده علی اوجی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.2K · <a href="https://t.me/alonews/149777" target="_blank">📅 00:14 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/149777" target="_blank">📅 00:14 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149776">
@@ -541,7 +541,7 @@ CHANNEL
 ⬇️
 https://t.me/ads_alonews
 https://t.me/ads_alonews</div>
-<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/alonews/149776" target="_blank">📅 00:12 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 55.3K · <a href="https://t.me/alonews/149776" target="_blank">📅 00:12 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149775">
@@ -551,7 +551,7 @@ https://t.me/ads_alonews</div>
 نوسان قیمت تتر در ساعات اخیر
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/alonews/149775" target="_blank">📅 00:09 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 56.8K · <a href="https://t.me/alonews/149775" target="_blank">📅 00:09 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149774">
@@ -562,7 +562,7 @@ https://t.me/ads_alonews</div>
 بررسی داده‌های آماری نشان می‌دهد در حالی که سهم سالمندان جهان تا سال ۲۰۶۰ تقریباً دو برابر می‌شود، جمعیت سالمندان ایران با سرعتی به‌مراتب بیشتر حدود ۳.۷ برابر رشد خواهد کرد و به ۲۷ درصد کل جمعیت کشور می‌رسد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.3K · <a href="https://t.me/alonews/149774" target="_blank">📅 00:03 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.6K · <a href="https://t.me/alonews/149774" target="_blank">📅 00:03 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149773">
@@ -580,7 +580,7 @@ https://t.me/ads_alonews</div>
 !!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/alonews/149773" target="_blank">📅 23:56 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.9K · <a href="https://t.me/alonews/149773" target="_blank">📅 23:56 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149772">
@@ -590,7 +590,7 @@ https://t.me/ads_alonews</div>
 ترامپ بار دیگر نام تنگه هرمز را به "تنگه ترامپ" تغییر می‌دهد و قطر و بحرین را از روی نقشه حذف می‌کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/alonews/149772" target="_blank">📅 23:43 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62K · <a href="https://t.me/alonews/149772" target="_blank">📅 23:43 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149771">
@@ -600,7 +600,7 @@ https://t.me/ads_alonews</div>
 پست جدید ترامپ از طریق شبکه اجتماعی Truth Social
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.9K · <a href="https://t.me/alonews/149771" target="_blank">📅 23:33 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.2K · <a href="https://t.me/alonews/149771" target="_blank">📅 23:33 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149770">
@@ -609,7 +609,7 @@ https://t.me/ads_alonews</div>
 گزارش صدای انفجار در تنگه هرمز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.1K · <a href="https://t.me/alonews/149770" target="_blank">📅 23:15 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67.5K · <a href="https://t.me/alonews/149770" target="_blank">📅 23:15 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149769">
@@ -619,7 +619,7 @@ https://t.me/ads_alonews</div>
 دیده شده در تجمعات شبانه ترامپ و نتانیاهو، خودتون و زن بچه‌تون رو میکشیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/149769" target="_blank">📅 23:12 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68.6K · <a href="https://t.me/alonews/149769" target="_blank">📅 23:12 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149768">
@@ -628,7 +628,7 @@ https://t.me/ads_alonews</div>
 ایرنا: هیچ برنامه‌ای برای مذاکره با آمریکا در دستور کار این هیات قرار ندارد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64K · <a href="https://t.me/alonews/149768" target="_blank">📅 23:06 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68.2K · <a href="https://t.me/alonews/149768" target="_blank">📅 23:06 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149767">
@@ -639,7 +639,7 @@ https://t.me/ads_alonews</div>
 برای عبور از زمستان به همراهی مردم نیاز داریم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.8K · <a href="https://t.me/alonews/149767" target="_blank">📅 23:05 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67.9K · <a href="https://t.me/alonews/149767" target="_blank">📅 23:05 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149766">
@@ -650,7 +650,7 @@ https://t.me/ads_alonews</div>
 ۶ فروند هواپیمای سوخت‌رسان آمریکایی در نزدیکی تنگه هرمز در حال پرواز هستند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.5K · <a href="https://t.me/alonews/149766" target="_blank">📅 22:58 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.5K · <a href="https://t.me/alonews/149766" target="_blank">📅 22:58 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149765">
@@ -659,7 +659,7 @@ https://t.me/ads_alonews</div>
 میدل ایست نیوز به نقل از یک منبع آگاه نزدیک به دولت عراق: ممنوعیت ورود پروازهای ایرانی به فرودگاه بین‌المللی نجف قرار است طی ۲۴ ساعت آینده لغو شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.5K · <a href="https://t.me/alonews/149765" target="_blank">📅 22:43 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.8K · <a href="https://t.me/alonews/149765" target="_blank">📅 22:43 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149764">
@@ -669,7 +669,7 @@ https://t.me/ads_alonews</div>
 رسایی: در حق من ظلم شده
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/alonews/149764" target="_blank">📅 22:37 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 71.6K · <a href="https://t.me/alonews/149764" target="_blank">📅 22:37 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149763">
@@ -737,7 +737,7 @@ https://t.me/ads_alonews</div>
 ✍️
 ✍️
 …</div>
-<div class="tg-footer">👁️ 66.3K · <a href="https://t.me/alonews/149763" target="_blank">📅 22:35 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 69.6K · <a href="https://t.me/alonews/149763" target="_blank">📅 22:35 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149762">
@@ -746,7 +746,7 @@ https://t.me/ads_alonews</div>
 خوش چشم: یک جنگ دیگه در راهه و آمریکا قراره شکست بزرگی رو توش متحمل بشه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.5K · <a href="https://t.me/alonews/149762" target="_blank">📅 22:31 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.7K · <a href="https://t.me/alonews/149762" target="_blank">📅 22:31 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149761">
@@ -755,7 +755,7 @@ https://t.me/ads_alonews</div>
 کانال ۱۴ عبری: نتانیاهو امروز برای دیدار با محمد بن زاید به امارات سفر می‌کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 69.2K · <a href="https://t.me/alonews/149761" target="_blank">📅 22:23 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 72.1K · <a href="https://t.me/alonews/149761" target="_blank">📅 22:23 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149760">
@@ -771,7 +771,7 @@ https://t.me/ads_alonews</div>
 ویدئوی وایرال شده از لحظه تصادف
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 72.9K · <a href="https://t.me/alonews/149760" target="_blank">📅 22:16 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 75.8K · <a href="https://t.me/alonews/149760" target="_blank">📅 22:16 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149759">
@@ -787,13 +787,13 @@ https://t.me/ads_alonews</div>
 کارشناس صداوسیما: ژاپن چون انتقام نگرفت باخت و الان برده آمریکاست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 72.7K · <a href="https://t.me/alonews/149759" target="_blank">📅 21:53 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 75.2K · <a href="https://t.me/alonews/149759" target="_blank">📅 21:53 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149758">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">وزیر خزانه‌داری آمریکا:   به احتمال زیاد، اقتصاد ایران در دو هفته آینده فرو خواهد پاشید.  @shahab_gold_trading</div>
-<div class="tg-footer">👁️ 70.6K · <a href="https://t.me/alonews/149758" target="_blank">📅 21:51 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 73.6K · <a href="https://t.me/alonews/149758" target="_blank">📅 21:51 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149757">
@@ -803,7 +803,7 @@ https://t.me/ads_alonews</div>
 تصویری وایرال شده از مدرسه رفتن یکی از کودک ها که کیف نداره و به جاش پلاستیک انداخته رو دوشش
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 73.2K · <a href="https://t.me/alonews/149757" target="_blank">📅 21:49 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 76.3K · <a href="https://t.me/alonews/149757" target="_blank">📅 21:49 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149756">
@@ -816,7 +816,7 @@ https://t.me/ads_alonews</div>
 بر اساس این تصمیم، دیپلمات‌ها پس از اتمام مهلت تعیین‌شده، از امتیازات و مصونیت‌هایی که توسط اسرائیل اعطا شده بود، محروم خواهند شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 70K · <a href="https://t.me/alonews/149756" target="_blank">📅 21:44 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 72K · <a href="https://t.me/alonews/149756" target="_blank">📅 21:44 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149755">
@@ -825,7 +825,7 @@ https://t.me/ads_alonews</div>
 بدر البوسعیدی» وزیر امور خارجه عمان : گفتگو مطمئن‌ترین مسیر برای دستیابی به صلح پایدار است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 69.4K · <a href="https://t.me/alonews/149755" target="_blank">📅 21:39 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 71.3K · <a href="https://t.me/alonews/149755" target="_blank">📅 21:39 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149754">
@@ -834,7 +834,7 @@ https://t.me/ads_alonews</div>
 کانال ۱۵ اسرائیل: مذاکرات پیشرفت چشمگیری نداشته و میانجی‌گران از مواضع طرف ایرانی ناامید شده‌اند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 72K · <a href="https://t.me/alonews/149754" target="_blank">📅 21:31 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 73.9K · <a href="https://t.me/alonews/149754" target="_blank">📅 21:31 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149753">
@@ -843,7 +843,7 @@ https://t.me/ads_alonews</div>
 گروه حوثی (انصارالله) تصاویری از بقایای یک پهپاد "کاریال" ساخت ترکیه را منتشر کرد که توسط عربستان سعودی مورد استفاده قرار می‌گرفت و امروز صبح در آسمان استان حجه سرنگون شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 73.4K · <a href="https://t.me/alonews/149753" target="_blank">📅 21:21 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 75.1K · <a href="https://t.me/alonews/149753" target="_blank">📅 21:21 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149752">
@@ -852,7 +852,7 @@ https://t.me/ads_alonews</div>
 سخنگوی نیروهای مسلح دولت تحت حمایت عربستان در یمن: در عملیات جدید نیروهای ما علیه مواضع حوثی‌ها در مرکز یمن، چهار کارشناس ارشد ایرانی متخصص در راه‌اندازی و پرتاب پهپاد و موشک در مرکز یمن ترور شدند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 71.6K · <a href="https://t.me/alonews/149752" target="_blank">📅 21:11 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 73.2K · <a href="https://t.me/alonews/149752" target="_blank">📅 21:11 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149751">
@@ -861,7 +861,7 @@ https://t.me/ads_alonews</div>
 پزشکیان: بار‌ها می‌گوییم گفت‌و‌گو می‌کنیم، تا نگویند ایران حاضر به گفت‌و‌گو نیست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 70.8K · <a href="https://t.me/alonews/149751" target="_blank">📅 21:03 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 72K · <a href="https://t.me/alonews/149751" target="_blank">📅 21:03 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149750">
@@ -870,7 +870,7 @@ https://t.me/ads_alonews</div>
 تلگراف: پلیس ضدتروریسم بریتانیا در حال بررسی این موضوع است که آیا تهران پشت طرح بمب‌گذاری علیه پایگاه هوایی مورد استفاده آمریکا در جنگ ایران بوده یا نه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 70.4K · <a href="https://t.me/alonews/149750" target="_blank">📅 20:59 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 71.6K · <a href="https://t.me/alonews/149750" target="_blank">📅 20:59 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149749">
@@ -880,7 +880,7 @@ https://t.me/ads_alonews</div>
 پزشکیان قبل زدن زنگِ آغاز سال تحصیلی؛ یه استخاره باز کرد که انگار نتیجه خیلی جالب نبود و سَر تکون داد...
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 72K · <a href="https://t.me/alonews/149749" target="_blank">📅 20:54 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 73.1K · <a href="https://t.me/alonews/149749" target="_blank">📅 20:54 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149748">
@@ -902,7 +902,7 @@ https://t.me/ads_alonews</div>
 ما یک گونه هوشمند خلق کرده‌ایم که در بسیاری از جنبه‌ها، همین حالا از ما باهوش‌تر است و در چند سال آینده، با سطحی که به‌صورت نمایی بهبود می‌یابد، به‌طرز دیوانه‌واری از ما باهوش‌تر خواهد شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.5K · <a href="https://t.me/alonews/149748" target="_blank">📅 20:49 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68.5K · <a href="https://t.me/alonews/149748" target="_blank">📅 20:49 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149747">
@@ -916,7 +916,7 @@ https://t.me/ads_alonews</div>
 برای کسانی که حرف آمریکا را باور دارند، یک دستگاه چاپ دلار رایگان در تنگه هرمز گذاشته‌اند؛ بفرمایید بروید بردارید!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.8K · <a href="https://t.me/alonews/149747" target="_blank">📅 20:36 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68.8K · <a href="https://t.me/alonews/149747" target="_blank">📅 20:36 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149746">
@@ -927,7 +927,7 @@ https://t.me/ads_alonews</div>
 اگر شوک‌های اقتصادی جنگ به سطحی برسد که چین دیگر نتواند خود را از پیامدهای آن مصون نگه دارد، پکن ممکن است برای مداخله انگیزه پیدا کند؛ آن هم به شکلی که واشنگتن ترجیح می‌دهد از آن اجتناب کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.6K · <a href="https://t.me/alonews/149746" target="_blank">📅 20:31 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/alonews/149746" target="_blank">📅 20:31 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149745">
@@ -936,7 +936,7 @@ https://t.me/ads_alonews</div>
 هم اکنون گزارش های اولیه از وقوع انفجار های متوالی در تنگه هرمز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.8K · <a href="https://t.me/alonews/149745" target="_blank">📅 20:26 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 66.7K · <a href="https://t.me/alonews/149745" target="_blank">📅 20:26 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149744">
@@ -952,7 +952,7 @@ https://t.me/ads_alonews</div>
 مشاور جلیلی در زمان بایدن و با دلار ۶۰ هزارتومانی: آمریکا ابزار جدیدی برای تحریم ایران ندارد و تحریم به سقفش رسیده
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.3K · <a href="https://t.me/alonews/149744" target="_blank">📅 20:24 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/alonews/149744" target="_blank">📅 20:24 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149743">
@@ -964,7 +964,7 @@ https://t.me/ads_alonews</div>
 ما می‌خواهیم تعهدات مرتبط با هسته‌ای در پیشنهاد ایران گنجانده شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/149743" target="_blank">📅 20:15 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.1K · <a href="https://t.me/alonews/149743" target="_blank">📅 20:15 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149742">
@@ -973,7 +973,7 @@ https://t.me/ads_alonews</div>
 فعالیت‌های قابل توجه هواپیماهای سنگین نیروی هوایی ایالات متحده در استان اربیل، کردستان عراق. به نظر می‌رسد عقب‌نشینی نیروهای آمریکایی در حال انجام است؛ مهلت تعیین‌شده برای عقب‌نشینی، یعنی ۳۰ سپتامبر، تنها سه روز دیگر است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.9K · <a href="https://t.me/alonews/149742" target="_blank">📅 20:06 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67.7K · <a href="https://t.me/alonews/149742" target="_blank">📅 20:06 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149741">
@@ -984,7 +984,7 @@ https://t.me/ads_alonews</div>
 [
 @AloTweet
 ]</div>
-<div class="tg-footer">👁️ 62.6K · <a href="https://t.me/alonews/149741" target="_blank">📅 20:03 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.4K · <a href="https://t.me/alonews/149741" target="_blank">📅 20:03 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149740">
@@ -1000,7 +1000,7 @@ pinned a photo</div>
 سید عباس عراقچی:"جنگ راه حل نیست. این موضوعی است که باید از طریق مذاکره حل شود، و ما در گذشته این کار را انجام داده‌ایم. ما اورانیوم را تا غلظت 60 درصد برای اهداف صلح‌آمیز غنی کرده‌ایم، و این در چارچوب تعهدات ما در پیمان منع گسترش سلاح‌های هسته‌ای (NPT) قرار دارد. ما هیچ‌گاه پیمان NPT را نقض نکرده‌ایم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.4K · <a href="https://t.me/alonews/149739" target="_blank">📅 19:51 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 66.1K · <a href="https://t.me/alonews/149739" target="_blank">📅 19:51 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149738">
@@ -1018,7 +1018,7 @@ pinned a photo</div>
 عراقچی:"خب، این سوالی است که ما در طول مذاکراتی که با ایالات متحده داشتیم، به آن پاسخ داده‌ایم. اول از همه، غنی‌سازی تا ۶۰ درصد غیرقانونی نیست. این کار همچنان در چارچوب معاهده منع گسترش سلاح‌های هسته‌ای (NPT) و برنامه صلح‌آمیز ما قرار دارد. ما این کار را برای اهداف خاصی، از جمله اهداف پزشکی، انجام داده‌ایم."
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.8K · <a href="https://t.me/alonews/149738" target="_blank">📅 19:45 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/alonews/149738" target="_blank">📅 19:45 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149737">
@@ -1038,7 +1038,7 @@ pinned a photo</div>
 خب، ما به خودمان اعتماد داریم. ما برای دیپلماسی آماده هستیم. و در عین حال، برای جنگ نیز آماده‌ایم."
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61K · <a href="https://t.me/alonews/149737" target="_blank">📅 19:45 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/149737" target="_blank">📅 19:45 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149736">
@@ -1056,7 +1056,7 @@ pinned a photo</div>
 سفیر ایالات متحده در سازمان ملل:  چیزی که می‌توانم بگویم این است که رئیس جمهور همه گزینه‌ها را برای اطمینان از ایمن بودن جهان از تهدید سلطه ایران از طریق سلاح‌های هسته‌ای، باز نگه خواهد داشت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62K · <a href="https://t.me/alonews/149736" target="_blank">📅 19:31 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.7K · <a href="https://t.me/alonews/149736" target="_blank">📅 19:31 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149735">
@@ -1072,7 +1072,7 @@ pinned a photo</div>
 پرزیدنت دونالد جی‌. ترامپ
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.5K · <a href="https://t.me/alonews/149735" target="_blank">📅 19:24 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.2K · <a href="https://t.me/alonews/149735" target="_blank">📅 19:24 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149734">
@@ -1082,7 +1082,7 @@ pinned a photo</div>
 ایرانی‌ها گفتن در صورت توافق، تنگه هرمز رو باز میکنن. ولی تنگه بازه که.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/149734" target="_blank">📅 19:19 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/149734" target="_blank">📅 19:19 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149733">
@@ -1092,7 +1092,7 @@ pinned a photo</div>
 علی قلهکی: «همه‌ی شرایط در منطقه» شبیه به «بهمنِ ۱۴۰۴» است!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.6K · <a href="https://t.me/alonews/149733" target="_blank">📅 19:14 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/149733" target="_blank">📅 19:14 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149732">
@@ -1101,7 +1101,7 @@ pinned a photo</div>
 اکسیوس به نقل از یک منبع منطقه‌ای آگاه از مذاکرات غیرمستقیم گفت: میانجی‌های قطری پیشنهاد اولیه ایران را با هر دو طرف در میان گذاشتند و یک پیشنهاد مصالحه نیز به هر دو طرف ارائه کردند تا آن را بررسی کنند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.6K · <a href="https://t.me/alonews/149732" target="_blank">📅 19:06 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/149732" target="_blank">📅 19:06 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149731">
@@ -1110,7 +1110,7 @@ pinned a photo</div>
 ترامپ: توافقی‌ که ایرانی‌ها می‌خواهند مدنظر من نیست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65K · <a href="https://t.me/alonews/149731" target="_blank">📅 18:55 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.6K · <a href="https://t.me/alonews/149731" target="_blank">📅 18:55 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149730">
@@ -1119,7 +1119,7 @@ pinned a photo</div>
 اسکات بِسِنت: ما اکنون یک رئیس‌جمهور داریم که چینی‌ها به او احترام می‌گذارند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.5K · <a href="https://t.me/alonews/149730" target="_blank">📅 18:55 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.1K · <a href="https://t.me/alonews/149730" target="_blank">📅 18:55 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149729">
@@ -1137,7 +1137,7 @@ pinned a photo</div>
 بعد از آن ایران هیچ چیزی برای تجارت ندارد!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.6K · <a href="https://t.me/alonews/149729" target="_blank">📅 18:49 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67.2K · <a href="https://t.me/alonews/149729" target="_blank">📅 18:49 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149728">
@@ -1146,7 +1146,7 @@ pinned a photo</div>
 اکسیوس: منابع گفتند انتظار دارند دور دیگری از گفت‌وگوهای غیرمستقیم میان آمریکا و ایران احتمالاً از روز دوشنبه آغاز شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/149728" target="_blank">📅 18:43 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.7K · <a href="https://t.me/alonews/149728" target="_blank">📅 18:43 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149727">
@@ -1155,7 +1155,7 @@ pinned a photo</div>
 باراک راوید به نقل از یک مقام آمریکایی مدعی شد که برخلاف ادعاهای خبرگزاری معتبر فارس، در دو روز گذشته هیچ کشتی‌ای آسیب ندیده است!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/149727" target="_blank">📅 18:43 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/149727" target="_blank">📅 18:43 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149726">
@@ -1165,7 +1165,7 @@ pinned a photo</div>
 منابع گفتند انتظار دارند دور دیگری از گفت‌وگوهای غیرمستقیم میان آمریکا و ایران احتمالاً از روز دوشنبه آغاز شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.5K · <a href="https://t.me/alonews/149726" target="_blank">📅 18:38 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61K · <a href="https://t.me/alonews/149726" target="_blank">📅 18:38 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149725">
@@ -1233,7 +1233,7 @@ pinned a photo</div>
 ✍️
 ✍️
 …</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149725" target="_blank">📅 18:35 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.6K · <a href="https://t.me/alonews/149725" target="_blank">📅 18:35 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149724">
@@ -1243,7 +1243,7 @@ pinned a photo</div>
 غریب آبادی خطاب به بسنت: جهان حیاط خلوت شما نیست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60K · <a href="https://t.me/alonews/149724" target="_blank">📅 18:35 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.5K · <a href="https://t.me/alonews/149724" target="_blank">📅 18:35 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149723">
@@ -1261,7 +1261,7 @@ pinned a photo</div>
 با وجود اینکه از رئیس‌جمهور ترامپ شنیده‌ایم که این توافق را رد می‌کند، ما همچنان منتظر پاسخ رسمی از طریق واسطه‌ها هستیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59K · <a href="https://t.me/alonews/149723" target="_blank">📅 18:34 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/alonews/149723" target="_blank">📅 18:34 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149722">
@@ -1279,7 +1279,7 @@ pinned a photo</div>
 آن‌ها قصد داشتند آسیب جدی به پایگاه ما وارد کنند، و همکاری با بریتانیایی‌ها به نحو احسن پیش رفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/alonews/149722" target="_blank">📅 18:31 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/149722" target="_blank">📅 18:31 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149721">
@@ -1292,7 +1292,7 @@ pinned a photo</div>
 انزوای اقتصادی ایران به صورت مرحله‌ای اجرا می‌شود و ارزهای دیجیتال، هوانوردی و حمل‌ونقل دریایی را در بر می‌گیرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.9K · <a href="https://t.me/alonews/149721" target="_blank">📅 18:26 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.4K · <a href="https://t.me/alonews/149721" target="_blank">📅 18:26 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149720">
@@ -1301,7 +1301,7 @@ pinned a photo</div>
 وزیر خزانه‌داری آمریکا: تحریم و انزوای اقتصادی ایران به صورت مرحله‌ای اجرا خواهد شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.4K · <a href="https://t.me/alonews/149720" target="_blank">📅 18:20 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.9K · <a href="https://t.me/alonews/149720" target="_blank">📅 18:20 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149719">
@@ -1310,7 +1310,7 @@ pinned a photo</div>
 عراقچی: ایران آماده از سرگیری جنگ است، حتی اگر اوضاع به "روز قیامت" ختم شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.4K · <a href="https://t.me/alonews/149719" target="_blank">📅 18:11 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.8K · <a href="https://t.me/alonews/149719" target="_blank">📅 18:11 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149718">
@@ -1320,7 +1320,7 @@ pinned a photo</div>
 فوری / خبرنگار cbs : یک مقام ایرانی به من گفته است که مذاکرات روز دوشنبه میان ایران و آمریکا لغو شده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.5K · <a href="https://t.me/alonews/149718" target="_blank">📅 18:03 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63K · <a href="https://t.me/alonews/149718" target="_blank">📅 18:03 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149717">
@@ -1349,7 +1349,7 @@ pinned a photo</div>
 مالزی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/149717" target="_blank">📅 17:58 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.5K · <a href="https://t.me/alonews/149717" target="_blank">📅 17:58 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149716">
@@ -1359,7 +1359,7 @@ pinned a photo</div>
 مذاکرات با آمریکا ادامه دارد و ایران همچنان منتظر دریافت پاسخ رسمی واشنگتن است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.6K · <a href="https://t.me/alonews/149716" target="_blank">📅 17:54 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61K · <a href="https://t.me/alonews/149716" target="_blank">📅 17:54 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149715">
@@ -1380,7 +1380,7 @@ pinned a photo</div>
 همان‌قدر که برای مقابله با هرگونه تجاوز، حتی اگر به جنگی ویرانگر منجر شود، آماده‌ایم، برای مذاکره نیز آمادگی داریم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63K · <a href="https://t.me/alonews/149715" target="_blank">📅 17:45 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.4K · <a href="https://t.me/alonews/149715" target="_blank">📅 17:45 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149714">
@@ -1389,7 +1389,7 @@ pinned a photo</div>
 بلومبرگ: ۳ نفتکش توقیف‌شده از ایران در راه تگزاس هستند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.7K · <a href="https://t.me/alonews/149714" target="_blank">📅 17:38 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.1K · <a href="https://t.me/alonews/149714" target="_blank">📅 17:38 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149713">
@@ -1398,7 +1398,7 @@ pinned a photo</div>
 حملات هوایی سعودی یک برج و ساختمان مخابرات را در استان‌های ذمار و البیضاء یمن هدف قرار دادند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/149713" target="_blank">📅 17:32 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.6K · <a href="https://t.me/alonews/149713" target="_blank">📅 17:32 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149712">
@@ -1409,7 +1409,7 @@ pinned a photo</div>
 عدم موضع‌گیری علنی دولت در مورد پروازهای ایرانی به دلیل حساسیت موضوع است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.8K · <a href="https://t.me/alonews/149712" target="_blank">📅 17:25 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.2K · <a href="https://t.me/alonews/149712" target="_blank">📅 17:25 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149710">
@@ -1422,7 +1422,7 @@ pinned a photo</div>
 هواپیماهای تانکر سوخت متعلق به عربستان سعودی و بریتانیا در نزدیکی یمن پرواز می‌کنند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.1K · <a href="https://t.me/alonews/149710" target="_blank">📅 17:17 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/alonews/149710" target="_blank">📅 17:17 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149709">
@@ -1432,7 +1432,7 @@ pinned a photo</div>
 بعد از ماه ها تفحص تو مدرسه میناب یه چسب که روش اسم ماکان نصیرزاده نوشته شده پیدا شد و این آخرین باقی مونده از ماکانه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.8K · <a href="https://t.me/alonews/149709" target="_blank">📅 17:12 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/149709" target="_blank">📅 17:12 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149708">
@@ -1452,7 +1452,7 @@ pinned a photo</div>
 اکنون میزان فقر در آمریکا از هر زمان دیگری در تاریخ این کشور کمتر است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.9K · <a href="https://t.me/alonews/149708" target="_blank">📅 17:05 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/149708" target="_blank">📅 17:05 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149707">
@@ -1467,7 +1467,7 @@ pinned a photo</div>
 85 خانه تخلیه شده‌اند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.3K · <a href="https://t.me/alonews/149707" target="_blank">📅 16:58 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.6K · <a href="https://t.me/alonews/149707" target="_blank">📅 16:58 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149706">
@@ -1485,7 +1485,7 @@ pinned a photo</div>
 [
 @AloTweet
 ]</div>
-<div class="tg-footer">👁️ 56.6K · <a href="https://t.me/alonews/149706" target="_blank">📅 16:57 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 56.8K · <a href="https://t.me/alonews/149706" target="_blank">📅 16:57 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149705">
@@ -1495,7 +1495,7 @@ pinned a photo</div>
 عراقچی: آمریکا در نهایت چاره ای جز پذیرش شروط ۷ گانه ایران نخواهد داشت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/149705" target="_blank">📅 16:46 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.4K · <a href="https://t.me/alonews/149705" target="_blank">📅 16:46 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149704">
@@ -1505,7 +1505,7 @@ pinned a photo</div>
 تصویری از متحدین ائتلاف ایران علیه غرب
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.3K · <a href="https://t.me/alonews/149704" target="_blank">📅 16:42 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.6K · <a href="https://t.me/alonews/149704" target="_blank">📅 16:42 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149703">
@@ -1522,7 +1522,7 @@ pinned a photo</div>
 قیمت نفت اکنون پایین‌تر از دوران دولت بایدن است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.6K · <a href="https://t.me/alonews/149703" target="_blank">📅 16:33 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.8K · <a href="https://t.me/alonews/149703" target="_blank">📅 16:33 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149702">
@@ -1539,7 +1539,7 @@ pinned a photo</div>
 شب گذشته، رکورد تازه‌ای در انتقال نفت از تنگه هرمز ثبت کردیم؛ حتی بیشتر از میزان نفتی که پیش از آغاز جنگ از این مسیر عبور می‌دادیم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.7K · <a href="https://t.me/alonews/149702" target="_blank">📅 16:29 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63K · <a href="https://t.me/alonews/149702" target="_blank">📅 16:29 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149701">
@@ -1558,7 +1558,7 @@ pinned a photo</div>
 ما حجم بسیار زیادی از نفت را خارج می‌کنیم؛ شب گذشته، ما حجم بی‌سابقه‌ای از نفت را از تنگه هرمز خارج کردیم، بیشتر از زمانی که قبل از جنگ این کار را انجام می‌دادیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.8K · <a href="https://t.me/alonews/149701" target="_blank">📅 16:21 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64K · <a href="https://t.me/alonews/149701" target="_blank">📅 16:21 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149700">
@@ -1568,7 +1568,7 @@ pinned a photo</div>
 فاطمه معتمدآریا بازیگر هم به ایران بازگشت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.7K · <a href="https://t.me/alonews/149700" target="_blank">📅 16:15 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 61.9K · <a href="https://t.me/alonews/149700" target="_blank">📅 16:15 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149699">
@@ -1581,7 +1581,7 @@ pinned a photo</div>
 همین حالا افراد بیشتری در آمریکا مشغول به کار هستند تا در هر مقطع دیگری از تاریخ کشورمان!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.7K · <a href="https://t.me/alonews/149699" target="_blank">📅 16:03 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 64K · <a href="https://t.me/alonews/149699" target="_blank">📅 16:03 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149698">
@@ -1592,7 +1592,7 @@ pinned a photo</div>
 قیمت بیت‌کوین به ۲۰ میلیارد تومان رسید!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.1K · <a href="https://t.me/alonews/149698" target="_blank">📅 15:57 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.3K · <a href="https://t.me/alonews/149698" target="_blank">📅 15:57 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149697">
@@ -1602,7 +1602,7 @@ pinned a photo</div>
 برای ثابتی هم پرونده قضایی تشکیل شده و احتمالا بزودی اونم محکوم میشه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.4K · <a href="https://t.me/alonews/149697" target="_blank">📅 15:52 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.7K · <a href="https://t.me/alonews/149697" target="_blank">📅 15:52 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149696">
@@ -1625,7 +1625,7 @@ pinned a photo</div>
 چون الان ایران با وارد کردن کالا از مرزهای زمینی تونسته دووم بیاره و اگه مرزهای زمینی هم بسته بشه؛ عملا هیچی دیگه وارد نمیشه و به یک زندان بزرگ تبدیل میشه.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/alonews/149696" target="_blank">📅 15:39 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.1K · <a href="https://t.me/alonews/149696" target="_blank">📅 15:39 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149695">
@@ -1635,7 +1635,7 @@ pinned a photo</div>
 رسایی بخاطر شکایت قالیباف و چندتا موضوع دیگه تو سال 1402، به 10ماه حبس محکوم شد  #عروس_زندان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.7K · <a href="https://t.me/alonews/149695" target="_blank">📅 15:34 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.9K · <a href="https://t.me/alonews/149695" target="_blank">📅 15:34 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149694">
@@ -1645,7 +1645,7 @@ pinned a photo</div>
 کامنت وایرال شده از مرضیه حسینی، خبرنگار ایران اینترنشنال در کنگره آمریکا.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.5K · <a href="https://t.me/alonews/149694" target="_blank">📅 15:32 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 63.7K · <a href="https://t.me/alonews/149694" target="_blank">📅 15:32 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149693">
@@ -1654,7 +1654,7 @@ pinned a photo</div>
 فارس: شب گذشته ۷ کشتی و شب پیش از آن ۱۲ کشتی هدف قرار گرفته‌اند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.1K · <a href="https://t.me/alonews/149693" target="_blank">📅 15:22 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.3K · <a href="https://t.me/alonews/149693" target="_blank">📅 15:22 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149691">
@@ -1676,13 +1676,13 @@ pinned a photo</div>
 پایگاه فیر‌فورد محل استقرار بمب‌افکن‌های آمریکایی بی‌۱بی و بی‌۵۲اچ است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.5K · <a href="https://t.me/alonews/149691" target="_blank">📅 15:17 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 67.7K · <a href="https://t.me/alonews/149691" target="_blank">📅 15:17 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149690">
 <div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">فکت  فرودگاه نجف رو جمهوری اسلامی ساخته ولی الان هواپیماهای خودش نمیتونن برن اونجا.  [@AloTweet]</div>
-<div class="tg-footer">👁️ 65.2K · <a href="https://t.me/alonews/149690" target="_blank">📅 15:12 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/alonews/149690" target="_blank">📅 15:12 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149689">
@@ -1691,7 +1691,7 @@ pinned a photo</div>
 رئیس دانشگاه تهران: در جنگ اخیر ۲ استاد و ۵ دانشجو را از دست دادیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.1K · <a href="https://t.me/alonews/149689" target="_blank">📅 14:53 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/alonews/149689" target="_blank">📅 14:53 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149688">
@@ -1700,7 +1700,7 @@ pinned a photo</div>
 سپاه: شکار دومین زهپاد [زیرسطحی] ارتش آمریکا در تنگهٔ هرمز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 70.4K · <a href="https://t.me/alonews/149688" target="_blank">📅 14:48 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.6K · <a href="https://t.me/alonews/149688" target="_blank">📅 14:48 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-149687">
@@ -1712,7 +1712,7 @@ pinned a photo</div>
 مطابق گزارشات، باوجود توقف پروازها در مسیرهایی مثل عراق و امارات، مسافران ایرانی می‌توانند با هواپیما راهی استانبول ترکیه، اسلام‌آباد پاکستان، کابل افغانستان، پکن چین،‌ دوشنبه تاجیکستان، ایروان ارمنستان و مسکو روسیه شوند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.6K · <a href="https://t.me/alonews/149687" target="_blank">📅 14:43 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.8K · <a href="https://t.me/alonews/149687" target="_blank">📅 14:43 · 05 Mehr 1405</a></div>
 </div>
 
 <hr>
