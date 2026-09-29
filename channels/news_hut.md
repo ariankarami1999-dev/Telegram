@@ -286,31 +286,31 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/TnPraY2FCYOGaAWYQVVPuKAdO4LnYxurvatDaHwk85tOlUhKTrNuV3qIxV6m0BQO1umIh6zrTOnNshR0Ugr2Z1wDtc3YB1L5nN3_c20m3WEt4wuIwCEC-hMKbOHrCDY1Y6kirqBI9ZsEF8NpeIe33mDfpnekPWmooPyvT2pEU5AaF3P1G9VIWVcmRT6R4pDf1Rjco0Gxkq2IwPOQC8tSkEWMotzPL55mlFVahU02yQs6QI-FA5HaeWBzpwNoFl-6vC4dPhjjgqmX8Ke6NJZ7LXy6vDdwc5icge0ZyN4NV3MCX5f6drbCKIDRljTAv9QFoFYsy3-1Bzf3se9ZQIlabA.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/piD4lcIqYLobH8lH4Y7HkE_clKNZ6ybcG2Y1CwbQjhNN05YyuJN6If-r9CxZsi5V5_VmQqCgi-CV3pmOA0bCibVZ0H2hctQMHBAEHafqb0q2srCP0HzYinBh4SWyxmkt0WGbawyRKo1R1TjawOwKvxFyOhoQ8M-cGkWpFG2E9fsMm8JouzJoc4mmnbhxK9wEiWVQk4-fW7FpffzPGPc0oQsLH0JHbQL3vS2OGJR9llZdWAd_oos1Bp4eAUFtfL2PRKGGMOlUp2IlW4UrdhngFe_J54wGbEp4q-svt_InxqBGqah_VDUFx1ila9l9nqC-vWMMHpjyyxSNzfzYu2012Q.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 هات نیوز | HotNews</h1>
 <p>@news_hut • 👥 105K عضو</p>
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-07 02:17:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-07 05:55:29</div>
 <hr>
 
 <div class="tg-post" id="msg-72443">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/news_hut/72443" target="_blank">📅 01:29 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/news_hut/72443" target="_blank">📅 01:29 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72442">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTrexBet IR</strong></div>
-<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/news_hut/72442" target="_blank">📅 01:29 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.85K · <a href="https://t.me/news_hut/72442" target="_blank">📅 01:29 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72441">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VRfqPP-OFb2FkeT4WVYAWqS-6ymgO0ppSlGMzs_tlZPqqmCfYkX8bDHqpnwGXNHdUkd_VQGUV9SrS9z1-OmvTJrsLkx3jEoKLq0Tiw3XcKUCk1fFCjfQppjQPVLhcZPWvTxf-5467fwb13nDZcLzeiTlKNIr32NB3nS25xIQOzi6iCIlXwKf6BcYEpPq7sw-ob5f1RO33OH0woBPmFVuCrMXBAg2OlRfYWqy1UOsMzvJX8VSW03MSyT0ueKNY7K7B90VvNsZoIocVCf-9RXMAxKrolfoGTz_Ua8EJp6excTrx3tD30WsagW3MbpvFxfBnceTFmeEnx-nMoY-nJnhJA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک مقام امریکایی به باراک راوید گفت:   رئیس‌جمهور ترامپ مایل است در ازای پیشرفت‌های ملموس در پرونده هسته‌ای، تحریم‌های ایران را کاهش دهد و وجوه مسدودشده را آزاد کند.  @News_Hut</div>
-<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/news_hut/72441" target="_blank">📅 01:10 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/news_hut/72441" target="_blank">📅 01:10 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72440">
@@ -320,7 +320,7 @@
 نتانیاهو و همسرش دیروز به دعوت شیخ محمد بن زاید، رئیس امارات متحده عربی، از این کشور دیدار کردند.
 در این سفر، رئیس شورای امنیت ملی، رئیس موساد، منشی نظامی و مشاور سیاست خارجی، نتانیاهو را همراهی می‌کردند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 6.13K · <a href="https://t.me/news_hut/72440" target="_blank">📅 00:49 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.85K · <a href="https://t.me/news_hut/72440" target="_blank">📅 00:49 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72439">
@@ -330,7 +330,7 @@
 آخرین آمار UNOSAT: ۲۰۱,۲۹۰ سازه آسیب‌دیده (۸۲٪ از کل ساختمان‌ها)، ۱۳۴,۴۲۲ سازه تخریب شده.
 این تصاویر حدود ۲۳۵ کیلومتر مربع را با وضوح حدود ۱۳ سانتی‌متر پوشش می‌دهند - به اندازه‌ای واضح که می‌توان دیوارهای جداگانه و خوشه‌های چادر را مشاهده کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/news_hut/72439" target="_blank">📅 23:33 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/news_hut/72439" target="_blank">📅 23:33 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72438">
@@ -346,7 +346,7 @@
 آن‌ها دیوانه‌اند. هیچ شکی در آن نیست. آدم‌های بسیار دیوانه‌ای هستند.
 من همیشه به آن‌ها می‌گویم: «شما دیوانه‌اید، رفیق.»
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/news_hut/72438" target="_blank">📅 22:42 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/news_hut/72438" target="_blank">📅 22:42 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72437">
@@ -363,7 +363,7 @@
 من فقط درباره اسرائیل و بخش‌های وسیعی از خاورمیانه صحبت نمی‌کنم.
 بگذارید با سلاح هسته‌ای به ما حمله کنند؛ خطاب به همه آن آدم‌های احمقی که فکر می‌کنند این کار اشکالی ندارد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/news_hut/72437" target="_blank">📅 22:41 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/news_hut/72437" target="_blank">📅 22:41 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72436">
@@ -378,7 +378,7 @@
 <div class="tg-text">خبرنگار: آیا رویداد پایگاه «آر.ای.اف. فیرفورد» (RAF Fairford) به ایران ارتباطی دارد؟
 ترامپ: ممکن است مرتبط باشد، اما باید بگویم از اینکه آن‌ها را آزاد کردند، تعجب کردم. من چنین کاری نمی‌کردم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/news_hut/72436" target="_blank">📅 22:27 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/news_hut/72436" target="_blank">📅 22:27 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72435">
@@ -394,7 +394,7 @@
 ما خیلی زود در آن جنگ پیروز خواهیم شد. ماجرا تمام می‌شود و قیمت بنزین به‌شدت سقوط خواهد کرد.
 هیچ‌کس دیگری نمی‌توانست چنین کاری انجام دهد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/news_hut/72435" target="_blank">📅 22:26 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/news_hut/72435" target="_blank">📅 22:26 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72434">
@@ -410,7 +410,7 @@
 اگر جمهوری‌خواهان کنترل مجلس نمایندگان و سنا را به دست بگیرند، به هر فرد بزرگسال پنج هزار دلار پرداخت خواهد شد؛ و ما می‌توانیم این کار را انجام دهیم.
 دموکرات‌ها نمی‌توانند چنین کاری کنند، چون هیچ درآمدی ندارند و ما را به سمت رکود اقتصادی سوق خواهند داد؛ آن‌ها پولی در بساط نخواهند داشت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/news_hut/72434" target="_blank">📅 22:02 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/news_hut/72434" target="_blank">📅 22:02 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72433">
@@ -423,7 +423,7 @@
 <a href="https://cdn4.telesco.pe/file/979f299405.mp4?token=aWgkFLSPEuTK-zLnY5G8-iNEXLcef8wB9r7DWVuQWL0XHjQorYWUrb6jkYlvgbGcbktdeqdxt-Lpvc4RtK91qxC2F1SDt3g1AocfE98SMfPOKDPsFKB9YUpnjOmj_5vf1TTCca7QzuX0FwWV--GxcrlL7TTRJNyv2hNCXiF3rQTZOK1h4wncOJH-LebKgvL3DIi2HgEH4b-TZEWbJfBlxwgwjDYtPNp7lyrKAzbNToeINgYEFldBNUef98vH1oLYYwVpCzN86cbFf9gBi45_o_2xtnbjJqFF9XwWpqvVkPG5NsT32cEwaE1p3t7OZlXjhgpoSlDleGmBmvDRTwVUWQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">یستنیتیاساتتیاایایایایایایایتبتیتیایتتیتیابتیتبتیتبتیتیتنین</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/news_hut/72433" target="_blank">📅 21:48 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/news_hut/72433" target="_blank">📅 21:48 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72432">
@@ -433,7 +433,7 @@
 «عملیات طرد اقتصادی» باعث شده است ارزش ریال به پایین‌ترین حد تاریخی خود برسد.
 ما به تضعیف توانایی رژیم ایران برای تأمین مالی تروریسم و توسعه سلاح هسته‌ای ادامه خواهیم داد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/news_hut/72432" target="_blank">📅 21:30 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/news_hut/72432" target="_blank">📅 21:30 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72431">
@@ -441,14 +441,14 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/heTpWD5H-YvquWoVYxwE6K_TdCJ1SmlWVV1hA1tOEDnkqa9mU77hA4mtLldsFVbHjvEsdCpYe0n7lAZsR5Uu5VEMcniaj6e6lowX6kY4Hn5kt1xsx4kuyHx8FKxGl6JAQ2toF-m6vm_uTSi5fjqedWyVayQVJ9WaIUeXUbKqmJaFgSs9BlSG0v-OZ9KlnkuzC6_axkSJMO84m7YueGXa6jMIXN0uGx0LDji_k5-LuJ0pExrIpzpkJFWD_jEPK2d1zgq_sLgSiamGR4vCelOFnGt4o5IYvIrXWpkIHW0214qMZsHoy4uUVX6k3Uk0xc-VruCuu2DYrJ2f_Ptmo_i1Aw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک منبع آمریکاییِ دخیل در مذاکرات با ایران به العربیه گفت: احتمال دستیابی به توافق بسیار ناچیز است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/news_hut/72431" target="_blank">📅 20:56 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/news_hut/72431" target="_blank">📅 20:56 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72430">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Dwi15ds9jGud7dqj7PeA7U5HF4Nvsl9bvBcRyaHDvLwfbF3N5-h2L1HRzDZ_vQVN6ATeMx8pUOB-Yv1kZJLoJIa6dL7ct4ZTtmlTFbPTfuk0k8VtcK3hSdZfxMaHHFGQt1V4Yh9gLmw2YBuRm9bqQu-wl_IxTQ48QRr0usE9m17cWxGwW-C4axb_BVlVxNjsu-r-zYln0k3fiUSmAMFrrqwxRejU2a9bHAiKDy--aEAs9OGqZroc5uTnh0bMVQl1d0revh0eW230ig0a4tpkKMMQ8d1SQ8ZUziC8xCdJYLmq4DvdgIPGZKh7waLu5RuF7l_GQ48n79Jxds9JNFUECQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک مقام امریکایی به باراک راوید گفت:   رئیس‌جمهور ترامپ مایل است در ازای پیشرفت‌های ملموس در پرونده هسته‌ای، تحریم‌های ایران را کاهش دهد و وجوه مسدودشده را آزاد کند.  @News_Hut</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/news_hut/72430" target="_blank">📅 20:53 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/news_hut/72430" target="_blank">📅 20:53 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72429">
@@ -462,7 +462,7 @@
 </div>
 <div class="tg-text">از ساعتی پیش سرمایه دارای میلی گلد ریختن تو شرکت میلی گلد و رسما دارن مسولین شرکتو کتک میزنن و هر چی میبینن خرد میکنن و فقط صدای عربده و ناله از توی میلی گلد شنیده میشه :
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/72429" target="_blank">📅 20:51 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/72429" target="_blank">📅 20:51 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72427">
@@ -470,14 +470,14 @@
 <div class="tg-text">یک مقام امریکایی به باراک راوید گفت:
 رئیس‌جمهور ترامپ مایل است در ازای پیشرفت‌های ملموس در پرونده هسته‌ای، تحریم‌های ایران را کاهش دهد و وجوه مسدودشده را آزاد کند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/news_hut/72427" target="_blank">📅 20:07 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/72427" target="_blank">📅 20:07 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72426">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">سرعت آپلود بین‌الملل رو انقدر آوردن پایین که عملا دیگه نمی‌شه چیزیو تو تلگرام آپلود کرد!
 #hjAly‌</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/72426" target="_blank">📅 19:44 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/72426" target="_blank">📅 19:44 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72425">
@@ -488,14 +488,14 @@
 مذاکره بر سر تنگه هرمز
 ✅️
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/72425" target="_blank">📅 19:29 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/72425" target="_blank">📅 19:29 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72424">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">دونالد ترامپ امروز دوشنبه ۲۸ سپتامبر ۲۰۲۶ ساعت ۲ بعدازظهر به وقت شرق آمریکا (ET) در دفتر بیضی‌شکل یک «اعلامیه» (Announcement) خواهد داشت و خبرنگاران کاخ سفید نیز در آن حضور دارند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/72424" target="_blank">📅 19:01 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/72424" target="_blank">📅 19:01 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72423">
@@ -503,7 +503,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZCpPN75qewa55-ilUPG0SjeRRFl_wBrBAtjrjURwbP68lVb69fDLm31AsZkyAA2C0YYQzWSFLFtGlHID-4I6v9zARkPvjP-yRBdKiBRCL5et6_X2XaagmE-B9TlkUNJMeaiIClgsZlX9EfDpZNM-TE0N8wT2oXN2A5VG-pSht0HgNv7YvCvgsLr4NZf_6PwmuqGrph53z1t24v3dIg1bkRRX5_ZTewbf2J4xaudSNYk1o0xvXIwIFQch21ASY9be2C0cGAwoF2KRbQtetgYth6UKD79B-2s50qQM32z9_ntqjGDkkqtPj7kulFlt_aMbo-CD6pQeu-rPYAtT7mRluA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حمید رسایی به زندان اوین تحویل داده شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/72423" target="_blank">📅 18:40 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/72423" target="_blank">📅 18:40 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72421">
@@ -516,7 +516,7 @@
 - GOLD31: KC-46A (شماره ثبت: 18-46051)
 @News_Hut
 | AirAssets</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/72421" target="_blank">📅 18:05 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/72421" target="_blank">📅 18:05 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72420">
@@ -536,7 +536,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/news_hut/72420" target="_blank">📅 18:05 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/72420" target="_blank">📅 18:05 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72419">
@@ -565,7 +565,7 @@ TrexBet
 سرعت بالا، طراحی حرفه ای و تجربه ای متفاوت
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/news_hut/72419" target="_blank">📅 18:05 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/news_hut/72419" target="_blank">📅 18:05 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72418">
@@ -579,7 +579,7 @@ T.me/TrexBet_Ir</div>
 </div>
 <div class="tg-text">سردادن شعار«تا آخوند کفن نشود این وطن، وطن نشود»در اعتراضات امروز دانشجویان دانشگاه علامه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/72418" target="_blank">📅 17:43 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/72418" target="_blank">📅 17:43 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72414">
@@ -595,7 +595,7 @@ T.me/TrexBet_Ir</div>
 ؛گزارش‌ها از شروع اعتراضات در دانشگاه علامه تهران حکایت دارد؛اعتراض علیه حکومت، گرانی و...
 جمهوری دروغی نمیخوایم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/72414" target="_blank">📅 17:28 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/72414" target="_blank">📅 17:28 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72413">
@@ -609,7 +609,7 @@ T.me/TrexBet_Ir</div>
 </div>
 <div class="tg-text">وقتی هیچ چیز سر جای خودش نیست. مهندسی نفت از امیرکبیر، رتبه ۱۰۶۵ کارشناسی، رتبه ۱۵ ارشد، ببینید شغلش چیه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/72413" target="_blank">📅 17:04 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/72413" target="_blank">📅 17:04 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72412">
@@ -623,7 +623,7 @@ T.me/TrexBet_Ir</div>
 </div>
 <div class="tg-text">ترکیه: تحقیقات با هدف یافتن «کشتی نوح» در محوطه‌ای نزدیک به کوه آرارات آغاز شده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/72412" target="_blank">📅 16:33 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/72412" target="_blank">📅 16:33 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72411">
@@ -637,7 +637,7 @@ T.me/TrexBet_Ir</div>
 </div>
 <div class="tg-text">حمید رسایی، نماینده تهران در مجلس، اعلام کرده است که در پی صدور حکم ۱۰ ماه حبس تعزیری، خود را برای اجرای حکم معرفی خواهد کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/72411" target="_blank">📅 16:04 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/72411" target="_blank">📅 16:04 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72410">
@@ -654,7 +654,7 @@ T.me/TrexBet_Ir</div>
 مجری: خب چرا یه ویدیو ازش نمیاد بیرون؟!
 عباس: به دلایل امنیتی! شواهد زیادی وجود داره که نشون میده آمریکایی‌ها ایشون رو تهدید میکنن!
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/72410" target="_blank">📅 15:35 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/72410" target="_blank">📅 15:35 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72409">
@@ -672,14 +672,14 @@ T.me/TrexBet_Ir</div>
 از خدا و پیامبرش اطاعت کنید و با هم دعوا و اختلاف نکنید چون سست و ضعیف می شوید و قدرت و هیبت تان از بین میرود. صبر و پایداری کنید، چون خدا با صابران است.
 اینا خیال می‌کردن بد اومده بابا خیلی خوب اومده که...
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/72409" target="_blank">📅 15:00 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/72409" target="_blank">📅 15:00 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72408">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">مجتبی خامنه‌ای:براساس محاسبات الهی، ایران قدرت اول جهان است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/72408" target="_blank">📅 14:30 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/72408" target="_blank">📅 14:30 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72407">
@@ -693,13 +693,13 @@ T.me/TrexBet_Ir</div>
 </div>
 <div class="tg-text">چند نفر داشتن با ذوق توی جاده میرفتن سفر که یه گوسفند یدفعه برعکس اومد و باعث این تصادف وحشتناک شد!
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/72407" target="_blank">📅 14:26 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/72407" target="_blank">📅 14:26 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72406">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">۱دلار=۲۴۰.۰۰۰ هزار تومان  @News_Hut</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/72406" target="_blank">📅 13:53 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/72406" target="_blank">📅 13:53 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72405">
@@ -707,7 +707,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KRRFGaboAL3mNT8sSXpuN9NAsvtOjuqqhfqmCr14bDvTglNiZI6z141cW12vsImbcJnqJ4SQQBOVliSGHB3187D4RLXDwi5GO5q69kzFYdbo2XUx7gi_Syk9kD4Cbwg825twfPEXE9e_EyAMnVjwq-5aqOOSYtzqRxk4DvIHM3V9-7_YQK9pH9i1K3X8yr1gbeEzYpKN2rOIEpEpzyTB97-LPdybEsMjJ2T9Hs9wZv9f2zsnS4oPR8G-zy-EdBRJHKRmseany-DBXP_apY4jh3JRtejFM8oMqg2MKbAaYlrH14QmYl9L84sumbMOAwCpbQTHloi3cSDbNAq6kAwSqg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سازمان هواشناسی:موج رطوبتی از شمال آفریقا در حال حرکت به سمت خاورمیانه و ایران است و می‌تواند زمینه‌ساز افزایش بارش در بخش‌هایی از کشور شود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/72405" target="_blank">📅 13:47 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/72405" target="_blank">📅 13:47 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72404">
@@ -725,7 +725,7 @@ T.me/TrexBet_Ir</div>
 ما داشتیم پاد های F35 رو میزدیم یعنی امواج های رادیویی اونو خلاصه بگم هوا رو میزدیم
 در نتیجه هیچی نزدیم
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/72404" target="_blank">📅 12:57 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/72404" target="_blank">📅 12:57 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72403">
@@ -745,7 +745,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/news_hut/72403" target="_blank">📅 12:57 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/72403" target="_blank">📅 12:57 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72402">
@@ -778,7 +778,7 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/72402" target="_blank">📅 12:57 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/72402" target="_blank">📅 12:57 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72401">
@@ -788,14 +788,14 @@ T.me/TrexBet_Ir</div>
 همه‌ی شرایط منطقه شبیه به بهمنِ ۱۴۰۴ است!
 یعنی چند هفته قبل از حمله ۹ اسفند...
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/72401" target="_blank">📅 12:48 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/72401" target="_blank">📅 12:48 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72400">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">۱دلار=۲۴۰.۰۰۰ هزار تومان
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/72400" target="_blank">📅 12:00 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/72400" target="_blank">📅 12:00 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72399">
@@ -809,7 +809,7 @@ T.me/TrexBet_Ir</div>
 </div>
 <div class="tg-text">تلما، ماده‌یوزپلنگ هفت‌ساله ایرانی، چهار توله‌اش را به‌دنیا آورد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/72399" target="_blank">📅 11:35 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/72399" target="_blank">📅 11:35 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72398">
@@ -817,7 +817,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">پرزیدنت ترامپ:
 به‌جز نفت — که [قیمت آن] پایین‌تر از دوران دولت بایدن است — و این واقعیت که دیگر لازم نیست نگران سلاح‌های هسته‌ای ایران باشیم چون [آن‌ها] از بین رفته‌اند، قیمت همه چیز در حال کاهش است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/72398" target="_blank">📅 11:07 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/72398" target="_blank">📅 11:07 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72397">
@@ -832,7 +832,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">کارشناس صداوسیما:
 در مقابل محاصره هوایی، می‌ توانیم بین پروازهای غرب و شرق کره زمین دیوار ایجاد کنیم و روزانه ۲۵۰۰ پرواز را مختل کنیم
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/72397" target="_blank">📅 10:33 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/72397" target="_blank">📅 10:33 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72396">
@@ -847,7 +847,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">پزشکیان:ما هرگز به مردم خودمون حمله نمی‌کنیم
 ویدئویی از شلیک مداوم از روی کلانتری به سمت مردم ایران!
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/72396" target="_blank">📅 10:01 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/72396" target="_blank">📅 10:01 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72395">
@@ -861,7 +861,7 @@ T.me/TrexBet_Ir</div>
 </div>
 <div class="tg-text">بیش از ۵۰۰ بیلبورد تو سطح نیویورک دارن خطر ایران هسته ای رو نشون میدن ، این میتونه آماده سازی افکار عمومی رو برای شروع یه جنگ بزرگ باشه
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/72395" target="_blank">📅 09:33 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/72395" target="_blank">📅 09:33 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72393">
@@ -876,7 +876,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">#فوووری
 ؛ناو هواپیمابر «یو‌اس‌اس تئودور روزولت» (CVN-71) از کلاس نیمیتز، در چارچوب استقرار برنامه‌ریزی‌شده نیروی دریایی آمریکا در حال حرکت به سمت خاورمیانه است. این ناو پیش‌تر از سن‌دیگو خارج شده.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/news_hut/72393" target="_blank">📅 06:15 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/news_hut/72393" target="_blank">📅 06:15 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72392">
@@ -983,7 +983,7 @@ T.me/TrexBet_Ir</div>
 به گمانم آنچه رخ خواهد داد این است که ما خیلی زود در این جنگ پیروز خواهیم شد؛ و به محض پیروزی، قیمت نفت کاهش می‌یابد و به شدت افت می‌کند تا به سطحی برسد که پیش از جنگ بود.
 و نکته کلیدی این است که ایران به سلاح هسته‌ای دست نخواهد یافت. این کلیدِ ماجراست.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/72388" target="_blank">📅 01:16 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/72388" target="_blank">📅 01:16 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72387">
@@ -997,7 +997,7 @@ T.me/TrexBet_Ir</div>
 </div>
 <div class="tg-text">بنیامین نتانیاهو سالگرد ترور نصرالله رو با انتشار چنین کلیپی به مردم اسرائیل تبریک‌گفت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/news_hut/72387" target="_blank">📅 23:59 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/news_hut/72387" target="_blank">📅 23:59 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72386">
@@ -1008,7 +1008,7 @@ T.me/TrexBet_Ir</div>
 نتانیاهو صبح امروز با یک جت اختصاصی سفر کرد و بخش عمده‌ای از روز را در امارات گذراند.
 محور اصلی این دیدار، ایران بود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/news_hut/72386" target="_blank">📅 23:25 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/news_hut/72386" target="_blank">📅 23:25 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72385">
@@ -1030,7 +1030,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">شلیک چندین موشک ضد کشتی به سمت شناورها در تنگه هرمز
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/news_hut/72383" target="_blank">📅 21:47 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/news_hut/72383" target="_blank">📅 21:47 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72382">
@@ -1072,7 +1072,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">صدای انفجاری از سمت تنگه هرمز شنیده شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/72380" target="_blank">📅 20:16 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/72380" target="_blank">📅 20:16 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72379">
@@ -1190,7 +1190,7 @@ T.me/TrexBet_Ir</div>
 به عربستانی‌ها گفتم انشاءالله برد موشک‌های ما به آمریکا برسد تا دیگه به پایگاه‌ آمریکا تو کشور شما حمله نکنیم بلکه مستقیماً به خود کاخ سفید موشک بزنیم
 😐
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/72369" target="_blank">📅 18:05 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/news_hut/72369" target="_blank">📅 18:05 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72368">
@@ -1201,7 +1201,7 @@ T.me/TrexBet_Ir</div>
 میگی ن ؟ بیا تو چنلمون و ببین
 🔥
 @FutballFuckBet @FutballFuckBet @FutballFuckBet @FutballFuckBet</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/news_hut/72368" target="_blank">📅 18:05 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/72368" target="_blank">📅 18:05 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72367">
@@ -1426,7 +1426,7 @@ T.me/TrexBet_Ir</div>
 این تصمیم یک روز پس از آن اتخاذ شد که پدافند هوایی عربستان دو پهپاد حوثی را که ریاض را هدف قرار داده بودند، رهگیری و منهدم کرد؛ اقدامی که در بحبوحه تشدید حملات حوثی‌ها به این پادشاهی صورت گرفت.
 در دو پیام جداگانه که خبرگزاری فرانسه (AFP) آن‌ها را مشاهده کرده، آمده است: «به‌تازگی از سوی مقامات سعودی مطلع شدیم که مدارس باید در تمام طول هفته تعطیل بمانند.»
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/72351" target="_blank">📅 11:55 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/72351" target="_blank">📅 11:55 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72348">
@@ -1504,7 +1504,7 @@ T.me/TrexBet_Ir</div>
 در پی این کمپین دیپلماتیک، عمان، امارات متحده عربی و ترکیه، پروازهای ایران را محدود کردند، در حالی که مقامات امارات، تراکنش‌های مرتبط با ایران را توسط بانک ملی مسدود کردند و ترکیه، مجوز فعالیت بانک ملت را لغو کرد.
 آذربایجان و گرجستان نیز پروازهای شرکت‌های هواپیمایی ایران را محدود کرده‌اند، در حالی که بریتانیا قصد دارد معافیت‌های بانکی را که به موسسات مالی ایران اجازه فعالیت در لندن را داده بود، لغو کند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/72343" target="_blank">📅 09:01 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/72343" target="_blank">📅 09:01 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72342">
@@ -1553,7 +1553,7 @@ TrexBet
 سرعت بالا، طراحی حرفه ای و تجربه ای متفاوت
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/72341" target="_blank">📅 01:52 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/72341" target="_blank">📅 01:52 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72340">

@@ -292,64 +292,64 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-07 02:17:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-07 05:55:29</div>
 <hr>
 
 <div class="tg-post" id="msg-21308">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">عراقچی: پاسخ آمریکا به تهران از طریق میانجیان قطری منتقل خواهد شد</div>
-<div class="tg-footer">👁️ 767 · <a href="https://t.me/SBoxxx/21308" target="_blank">📅 01:29 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.5K · <a href="https://t.me/SBoxxx/21308" target="_blank">📅 01:29 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21307">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">نماینده امارات در مجمع عمومی سازمان ملل:
 «امارات خواستار پیگیری اشغال جزایر سه‌گانه تنب بزرگ، تنب کوچک و بوموسی توسط ایران است</div>
-<div class="tg-footer">👁️ 823 · <a href="https://t.me/SBoxxx/21307" target="_blank">📅 01:28 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/SBoxxx/21307" target="_blank">📅 01:28 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21306">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">عراقچی: پاسخ آمریکا به تهران از طریق میانجیان قطری منتقل خواهد شد</div>
-<div class="tg-footer">👁️ 822 · <a href="https://t.me/SBoxxx/21306" target="_blank">📅 01:27 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.55K · <a href="https://t.me/SBoxxx/21306" target="_blank">📅 01:27 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21305">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">وزیر امور خارجه ایران: تهران پیشنهاداتی را با میانجیان قطری مورد بحث قرار داد تا به ایالات متحده ارائه دهد - ایرنا</div>
-<div class="tg-footer">👁️ 873 · <a href="https://t.me/SBoxxx/21305" target="_blank">📅 01:25 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.56K · <a href="https://t.me/SBoxxx/21305" target="_blank">📅 01:25 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21304">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">اگر عراقچی به تهران برگردد یعنی دیگر مذاکرات شکست کامل خورده</div>
-<div class="tg-footer">👁️ 903 · <a href="https://t.me/SBoxxx/21304" target="_blank">📅 01:23 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.61K · <a href="https://t.me/SBoxxx/21304" target="_blank">📅 01:23 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21303">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">ترامپ اعلام کرد که گزارش Axios مبنی بر اینکه ترامپ پیشنهاد لغو تحریم‌ها را به ایران داده است، یک "دروغ" است.</div>
-<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/SBoxxx/21303" target="_blank">📅 01:09 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/SBoxxx/21303" target="_blank">📅 01:09 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21302">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mjnUFySlrnP4LwxyQ0xS_AzDDkcO6oRgbYoduabBmfg5pg_ov_cCNlgtDvR8y7dC204ngEprmyTM8VZr7yE7ZXDpWDuMBaWRurbxDuPK9z3oC8vmToDpeGuBBzPV2OGXQ0S1pESSTlfh8epTC4TaTEdAGag0yyHpyEX7w1j4jdX5KP1cCj-r8Mb1dZjqAVz7WQkZRJARw6JDd6_qx2F7T3YGGaSVLbQ7lsMBgPE6SP86SjxpXuuro2Q5Ol0c4_aJh0oQr7hZHp-yklaCd6z1PVIWaQxDu-kxR7zpv-FIUtrzvmxEStjhTuZtf4zcS4RspcrO6u3lHfXTYkU4Lo5rkA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بخدای کعبه سوگند که دروغ و فریبی بیش نیست! همه اش فریب و نیرنگ ترامپ است تا زمان بخرد و نیروهای بیشتری به منطقه بیاورد!  خواهیم دید چه خواهدشد!  عجالتاً طلایمان برگردد حالا خوب است</div>
-<div class="tg-footer">👁️ 1.25K · <a href="https://t.me/SBoxxx/21302" target="_blank">📅 01:09 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.93K · <a href="https://t.me/SBoxxx/21302" target="_blank">📅 01:09 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21301">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Y_wpEi8W6ldJAH1Le9w-F1i5e7q9vsXkzjexo5QoVqVLY1AlKiVEoOMKBRcW2IHrje6JjO4sJI4rCVXyimWFLKGiU_qDBhDFpO0CZnMV60p642ytsNo3eXopqJFF0SqSjlPyg2YC5abU74n-Nfu7dW_N9_ghta6_lM9heAULl2W1-07LgSurK772yVlIeQvsMYYJOHYuvDIvf51A-qpCzsrcVGCHexEkyj7bIAWXTgmjZJmjYbkonVSuDbcrras3-9Hde82eaDiNDtDnfqL1fWRWZIJ5I5cZHQSAI8ikq7cI4nZ_DdWjEfa9IByr7bbPRvyCnrkXVvI5DWkS2IerHw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محسن رضایی:   برای اولین بار موشک خاص و ضدناوشکن ایرانی آزمایش شد  ۴۸ ساعت پیش برای اولین بار موشک ضدناوشکن ایرانی را بالای سر یک ناو آمریکایی آزمایش کردیم.  این موشک خاص، جهنمی برای آمریکایی‌ها به وجود آورد و فرار کردند.</div>
-<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/SBoxxx/21301" target="_blank">📅 00:49 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 2.28K · <a href="https://t.me/SBoxxx/21301" target="_blank">📅 00:49 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21300">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">ترامپ درباره ایران:  «آنها دیوانه هستند. هیچ شکی در این مورد وجود ندارد.»   «من همیشه به آنها می‌گویم: «شماها دیوانه هستید، آقایان.»»</div>
-<div class="tg-footer">👁️ 3.39K · <a href="https://t.me/SBoxxx/21300" target="_blank">📅 22:49 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.64K · <a href="https://t.me/SBoxxx/21300" target="_blank">📅 22:49 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21299">
@@ -357,13 +357,13 @@
 <div class="tg-text">ترامپ درباره ایران:
 «آنها دیوانه هستند. هیچ شکی در این مورد وجود ندارد.»
 «من همیشه به آنها می‌گویم: «شماها دیوانه هستید، آقایان.»»</div>
-<div class="tg-footer">👁️ 3.43K · <a href="https://t.me/SBoxxx/21299" target="_blank">📅 22:49 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.68K · <a href="https://t.me/SBoxxx/21299" target="_blank">📅 22:49 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21298">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">وِس استریتینگ.، وزیر دفاع بریتانیا، درباره جمهوري اسلامي ایران:  فکر می‌کنم حمایت از اقدامات دفاعی انجام شده توسط ایالات متحده درست بود.  بی‌شک درست است که بگوییم جنگ در ایران جنگی نبود که ما آن را انتخاب کرده باشیم. اما از سوی دیگر، هیچ شک و تردیدی هم وجود…</div>
-<div class="tg-footer">👁️ 3.7K · <a href="https://t.me/SBoxxx/21298" target="_blank">📅 22:28 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.93K · <a href="https://t.me/SBoxxx/21298" target="_blank">📅 22:28 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21297">
@@ -371,13 +371,13 @@
 <div class="tg-text">وِس استریتینگ.، وزیر دفاع بریتانیا، درباره جمهوري اسلامي ایران:
 فکر می‌کنم حمایت از اقدامات دفاعی انجام شده توسط ایالات متحده درست بود.
 بی‌شک درست است که بگوییم جنگ در ایران جنگی نبود که ما آن را انتخاب کرده باشیم. اما از سوی دیگر، هیچ شک و تردیدی هم وجود ندارد که ایران یک نیروی شرور است که بریتانیا، منافع ما و متحدان ما را تهدید می‌کند.</div>
-<div class="tg-footer">👁️ 3.67K · <a href="https://t.me/SBoxxx/21297" target="_blank">📅 22:27 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/SBoxxx/21297" target="_blank">📅 22:27 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21296">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">احتمالا امروز ترامپ خواهدگفت مذاکرات خوب پیش می رود</div>
-<div class="tg-footer">👁️ 4.24K · <a href="https://t.me/SBoxxx/21296" target="_blank">📅 21:09 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SBoxxx/21296" target="_blank">📅 21:09 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21295">
@@ -385,13 +385,13 @@
 <div class="tg-text">بخدای کعبه سوگند که دروغ و فریبی بیش نیست! همه اش فریب و نیرنگ ترامپ است تا زمان بخرد و نیروهای بیشتری به منطقه بیاورد!
 خواهیم دید چه خواهدشد!
 عجالتاً طلایمان برگردد حالا خوب است</div>
-<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SBoxxx/21295" target="_blank">📅 21:07 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/21295" target="_blank">📅 21:07 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21294">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">ایران با توقف غنی سازی موافقت کرد!</div>
-<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/21294" target="_blank">📅 21:05 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/21294" target="_blank">📅 21:05 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21293">
@@ -399,7 +399,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GWAxy4gGpvu5S5-fxRdMsb42VEQuPELkToHKkRH-FJubcxORMrNvpg_cVsTQqfmBbh5MWfx9i2I0xduxEYv1Im4tdoQcF0loXROVaQMrGBUHqFEy_Ep0CSevAc3sTXLmn0jyYWp95oXGrnItO3pJvER1-wEuQ6_XxD0ULORzHZIP2mWWGZLFW7kqsYXURTF6zFzscQKoSmtihaIt0ZrzCi2Nq-ewdYzgSHOMz4THavnFh9xKHcfINL_hH7bA7sMUQ1NkYbMvWoh2yzAhpKHtg5xdAlDeLHC7Cos7bgEV1ZVnjDKExiwIBeahAjlENdv6KPXDpMKorWjlNEfHjXn_EA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برادران ارزشی تازه دارند می فهمند چرا دکتر پزشکیان آن روز در سازمان ملل از ماتریکس خارج شده بود!
 یا ذی الجلال و الاکرام!</div>
-<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SBoxxx/21293" target="_blank">📅 20:52 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/21293" target="_blank">📅 20:52 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21292">
@@ -408,38 +408,38 @@
 مقامات امنیتی اسرائیل اعلام کردند که این استقرار بخشی از تحرکات گسترده‌تر نیروهای هوایی آمریکا در سراسر خاورمیانه است و نشان‌دهنده آمادگی بیشتر یا تشدید تنش با ایران نیست.
 یک منبع امنیتی گفت که حضور نظامی فعلی آمریکا همچنان بسیار کمتر از سطح نیروهایی است که قبل از عملیات «خشم حماسی» (Operation Epic Fury) در این منطقه مستقر شده بودند.
 — کانال ۱۲ اسرائیل</div>
-<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/21292" target="_blank">📅 20:42 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SBoxxx/21292" target="_blank">📅 20:42 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21291">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">❗
 عربستان سعودی پس از تعمیرات، صادرات نفت خود را از طریق خط لوله شرقی-غربی از سر گرفته است</div>
-<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/21291" target="_blank">📅 20:10 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/21291" target="_blank">📅 20:10 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21290">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">دیدید؟! این کله زرد حرامزاده را من بهتر از پدرانش میشناسم!</div>
-<div class="tg-footer">👁️ 4.48K · <a href="https://t.me/SBoxxx/21290" target="_blank">📅 20:02 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/21290" target="_blank">📅 20:02 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21289">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">گزارش‌ رسانه‌های عربی از شلیک موشک‌ از خاک ایران</div>
-<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SBoxxx/21289" target="_blank">📅 19:43 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/SBoxxx/21289" target="_blank">📅 19:43 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21288">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">ترکیه یک هواپیمای ایرانی را به دلیل تحریم های آمریکا توقیف کرد.</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/21288" target="_blank">📅 19:08 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SBoxxx/21288" target="_blank">📅 19:08 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21287">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">کار طلافروش آنلاین به شورای عالی امنیت ملی رسید  پلتفرم فروش آنلاین طلای میلی‌گلد در نامه‌ای به محسن رضایی، دبیر شورای عالی امنیت ملی، خواستار صدور دستور فوری برای رفع محدودیت دسترسی به طلای کاربران در خزانه‌های بانکی شده است.   این پلتفرم می‌گوید محدودیت‌های…</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/21287" target="_blank">📅 18:06 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SBoxxx/21287" target="_blank">📅 18:06 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21286">
@@ -451,77 +451,77 @@
 🔹
 خاویر بلاس مدعی شد: صادرات نفت خام عربستان، عراق، کویت، امارات، بحرین و قطر با کمک نیروی دریایی آمریکا، به ۸۰ درصد سطح پیش از جنگ بازگشته.
 @khate_energy</div>
-<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/21286" target="_blank">📅 17:24 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SBoxxx/21286" target="_blank">📅 17:24 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21285">
 <div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/21285" target="_blank">📅 17:23 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/21285" target="_blank">📅 17:23 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21284">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">فوری | فرماندهی مرکزی آمریکا:   ایران کنترل تنگه هرمز را در دست ندارد؛ شواهدی مبنی بر عبور بیش از یک میلیارد بشکه نفت در طول چند ماه وجود دارد.</div>
-<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SBoxxx/21284" target="_blank">📅 17:03 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SBoxxx/21284" target="_blank">📅 17:03 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21283">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">فوری | فرماندهی مرکزی آمریکا:   ایران کنترل تنگه هرمز را در دست ندارد؛ شواهدی مبنی بر عبور بیش از یک میلیارد بشکه نفت در طول چند ماه وجود دارد.</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/21283" target="_blank">📅 15:43 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/21283" target="_blank">📅 15:43 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21282">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">پیام تند آیت الله خامنه‌ای:   دشمنان جرأت ورود به خلیج فارس را ندارند  رهبر جمهوری اسلامی ایران، در بیانیه‌ای اعلام کرد نیروهای دشمن جرأت ورود به خلیج فارس را ندارند.  او همچنین گفت دریای عرب به‌زودی از حضور «دشمنان» پاک خواهد شد.</div>
-<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SBoxxx/21282" target="_blank">📅 15:40 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/SBoxxx/21282" target="_blank">📅 15:40 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21281">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">هیچ کس را امین تُِن های ماهی تان قرار ندهید.</div>
-<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/21281" target="_blank">📅 15:38 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/21281" target="_blank">📅 15:38 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21280">
 <div class="tg-post-header">📌 پیام #72</div>
-<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/21280" target="_blank">📅 15:38 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/21280" target="_blank">📅 15:38 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21279">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">طلا تارگت روز جمعه را زد (ما زودتر کلوز کرده بودیم)  امروز اما اندک اندک وقت خرید است و کل این مسیر ریزش را برخواهدگشت.  بازار جنگ را کامل دارد پیشخور می‌کند اما ناوهای هواپیمابر آمریکا هنوز نرسیده اند و آرایش جنگی تکمیل نشده و عباس آقا سعد اکبر هم هنوز برنگشته!…</div>
-<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/21279" target="_blank">📅 15:37 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/21279" target="_blank">📅 15:37 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21278">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">— تًن ماهی — گوشگیر سیلیکونی — آب معدنی — چسب شیشه — یدید پتاسیم — پنبه — روغن بنفشه</div>
-<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/21278" target="_blank">📅 14:58 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/21278" target="_blank">📅 14:58 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21277">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">— تًن ماهی — گوشگیر سیلیکونی — آب معدنی — چسب شیشه — یدید پتاسیم</div>
-<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/21277" target="_blank">📅 14:58 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SBoxxx/21277" target="_blank">📅 14:58 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21276">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">— تًن ماهی — گوشگیر سیلیکونی — آب معدنی — چسب شیشه — یدید پتاسیم</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SBoxxx/21276" target="_blank">📅 14:57 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/21276" target="_blank">📅 14:57 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21275">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">— تًن ماهی — گوشگیر سیلیکونی — آب معدنی — چسب زدن شیشه ها</div>
-<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/21275" target="_blank">📅 14:56 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/21275" target="_blank">📅 14:56 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21274">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">پیام تند آیت الله خامنه‌ای:   دشمنان جرأت ورود به خلیج فارس را ندارند  رهبر جمهوری اسلامی ایران، در بیانیه‌ای اعلام کرد نیروهای دشمن جرأت ورود به خلیج فارس را ندارند.  او همچنین گفت دریای عرب به‌زودی از حضور «دشمنان» پاک خواهد شد.</div>
-<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SBoxxx/21274" target="_blank">📅 14:55 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SBoxxx/21274" target="_blank">📅 14:55 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21273">
@@ -530,19 +530,19 @@
 دشمنان جرأت ورود به خلیج فارس را ندارند
 رهبر جمهوری اسلامی ایران، در بیانیه‌ای اعلام کرد نیروهای دشمن جرأت ورود به خلیج فارس را ندارند.
 او همچنین گفت دریای عرب به‌زودی از حضور «دشمنان» پاک خواهد شد.</div>
-<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/21273" target="_blank">📅 14:51 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/21273" target="_blank">📅 14:51 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21272">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">ایران شکایتی را علیه ایالات متحده به سازمان هواپیمایی ملل متحد (ایکائو) ارائه کرده است، به این دلیل که آمریکا محدودیت‌هایی را علیه شرکت‌های هواپیمایی این کشور اعمال کرده است.</div>
-<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/21272" target="_blank">📅 14:10 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/21272" target="_blank">📅 14:10 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21271">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">عملاً همه دارند نفت صادر می کنند جز خودمان!</div>
-<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SBoxxx/21271" target="_blank">📅 11:58 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5K · <a href="https://t.me/SBoxxx/21271" target="_blank">📅 11:58 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21270">
@@ -553,7 +553,7 @@
 موسسه HFI: افزایش صادرات نفت عربستان از مسیر شرق می‌تواند جریان نفت در کریدور عمان را به ۱۲ میلیون بشکه در روز برساند که در نگاه اول می‌تواند نشانه عادی‌شدن تردد نفت در منطقه تلقی شود.
 🔹
 بخش قابل‌توجهی از نفت…</div>
-<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/SBoxxx/21270" target="_blank">📅 11:57 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/SBoxxx/21270" target="_blank">📅 11:57 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21269">
@@ -567,7 +567,7 @@
 🔹
 بخش قابل‌توجهی از نفت عربستان در این جریان راهی چین می‌شود.
 @khate_energy</div>
-<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/21269" target="_blank">📅 11:57 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/21269" target="_blank">📅 11:57 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21268">
@@ -577,20 +577,20 @@
 سخنان عراقچی صرفا اظهارنظرات خود اوست و هیچ اعتباری ندارد
 اجرای انتقام و قصاص ربطی به دولت ندارد که نظر مثبت داشته باشد یا منفی
 محمد سراج، نماینده تهران با اشاره به موضع گیری های مکرر پزشکیان و عراقچی درباره شرط ۷ روزه و باز کردن تنگه هرمز و رقیق سازی اورانیوم به دیده بان ایران گفت: « صحبت های آقایان عراقچی و پزشکیان در خصوص کوتاه آمدن از سیاست های نظام نظر شخصی بوده و نظر جمهوری اسلامی نیست. نظر جمهوری اسلامی ساز و کار خود را دارد و در سیاست کلان خارجی رهبری تعیین‌کننده هستند و در سایر موارد نیز مجلس و قانون مجلس مبنا قرار دارد. در حال حاضر محسن رضایی، دبیر شورای عالی‌ امنیت ملی سیاست کلان خارجی جمهوری اسلامی را بیان کرده است.»</div>
-<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/21268" target="_blank">📅 11:36 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/SBoxxx/21268" target="_blank">📅 11:36 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21267">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">طلا تارگت روز جمعه را زد (ما زودتر کلوز کرده بودیم)  امروز اما اندک اندک وقت خرید است و کل این مسیر ریزش را برخواهدگشت.  بازار جنگ را کامل دارد پیشخور می‌کند اما ناوهای هواپیمابر آمریکا هنوز نرسیده اند و آرایش جنگی تکمیل نشده و عباس آقا سعد اکبر هم هنوز برنگشته!…</div>
-<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SBoxxx/21267" target="_blank">📅 10:11 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SBoxxx/21267" target="_blank">📅 10:11 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21266">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JL78SmOc4Jx20gsFqX978tOpohlzjwdpPXXqmK6X_JTGTCHF1aT0rGHwThc2qZrnVPze4THno7hb1tl72Yx3E3j3k2_tfBf45OmM002fDxxO50dWiqa64m7cpKyd5LpoxnpNHuXcqAIAj56e3VXEQNngJQ2ilT9A4indOhgI7L524Yu9k7Gp3RzUQ_CVEmytbskyYrzbNjgjMR0sFyPFVtRN5LsW9wdF16qyMNS--h0PqIumq0-BXIltlqylZtX-Ag6piwOQJlZzvtuvMxox88PkrwenE0vi4doCVtDgNBnG5NbvHHtXGUckFMN1T98zPgcBJoLWJMxwRaf7W5gkog.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#WHEAT — D  به نظر می رسد گندم هم دارد همان مسیری را می رود که نقره 3 سال پیش در آغاز آن بود...</div>
-<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SBoxxx/21266" target="_blank">📅 09:41 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/21266" target="_blank">📅 09:41 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21265">
@@ -598,7 +598,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Sk9quWNh9HVrCddJIOQuSfw6VVNnHp-yOgcjW1Ppb1VtfNwnjfH22FaTx3lZb6eMLMpxSzzudaChyUH-TwCtsnt-cH6tTCh1i84O4ffHmyKgTklCnrqO0d_pQs1qHszzZsHCL8g75VYQYLzRoAsTSl1VqFmKtdkHs_I0SxRVQfxd88gWk-f4i7LVd_3AINI7wIFi8RwlJXTA2qxlac-UoqUsx3Cd6Pt7DHX_Q7wmsoTmHLcVjbyU_40aCt7x8iNIEou8yJyOCFg-2e_1S3-TMX04X_3Six4-1UhZZOt1izBl_AYR7l-zDjC9xRSAs45WrskhFvAyaCralpQTic0xCQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#FairValueCurve
 نمایه FVC نیز به کف محدوده بیش—فروش رسیده و خرید توصیه می کند.</div>
-<div class="tg-footer">👁️ 4.56K · <a href="https://t.me/SBoxxx/21265" target="_blank">📅 09:29 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/21265" target="_blank">📅 09:29 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21264">
@@ -606,14 +606,14 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AKQu2MhoERhZumLsgYZx2QlafEsg8yo94DHypiEUhWcMlPbjjYdOPtgImKGtHdXfFkrJWfi5_bLH1XR6mA8dWQcZzR9SXeZpduP9H6Hfkkn7LVkFTT8mjrGuqbWEGTprcQTuXsUnQZvcWDU6cPEgMqwLBZGaCSDUrjy2uaVs7HfzIsMqoqpjdQ9xw1wga0ow9T3hjvtUOQpzbqTLAhmqSQYOoKdbU3v1nDD786qJSgTw-IOa3IJ0AGhsJRfhKPM7Z0W18coZGOHui19tv2f1DOIz9S2k1UOVV8_8kQj4sHrX-RFVyV8GmQ4O0KbTFrv1cLL8zwvXgIZENpq7aDTLzA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک + تقویم اقتصادی برای امروز در سطح پایینی است و از دید این شاخص، واکنش بازار به تنشهای هرمز مقداری افراطی بوده است.</div>
-<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SBoxxx/21264" target="_blank">📅 09:28 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SBoxxx/21264" target="_blank">📅 09:28 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21263">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DCxXN3tGQ70KEnVgDTWP-16TEjng4zMCLlXPboW8zduDUmecNHIN4qmhbL87n5ccAmCWifSn2Ch_ishbeAQAHGcj8CslKz-DB_y_nFbhZJX8GeJdHfxfEE4WYVGWMl1CdknA-gJrlYwsfZP-PJ-qFCyeRz_V2Qs8k3WeTw9yPPf4EwExQkVgtXin9BvHW9cpbeTP9cmK_qPFEqAatbsHM_5XRLWnX9b35jFiYeHQcmp5rGgdLgmqiywZimAaescMaHHCY-7iwZCDgjUsL3EZxhMYP5kI13yGksvnuTIpF4GDP4dfrP-hY9tOe7dIaAy-kMreEJ86ZaAQydBRYqJLQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این ژاپن بزودی بدجور موی دماغ چین خواهدشد.</div>
-<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SBoxxx/21263" target="_blank">📅 08:57 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SBoxxx/21263" target="_blank">📅 08:57 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21262">
@@ -647,7 +647,7 @@
 تصویر کلی ارائه‌شده در این مصاحبه، جنگ ایران را نبردی می‌داند که در آن مسئله اصلی دیگر صرفاً توان نظامی نیست؛ بلکه زمان، انرژی، اقتصاد، ذخایر تسلیحاتی، انسجام ائتلاف‌ها و تحمل سیاسی به عناصر اصلی قدرت تبدیل شده‌اند.
 در این چارچوب، آمریکا با سه مشکل هم‌زمان مواجه است: دشواری دستیابی به پیروزی نظامی، محدودیت در ایجاد محاصره اقتصادی مؤثر و افزایش هزینه‌های جهانی جنگ. در مقابل، ایران می‌تواند از موقعیت جغرافیایی خود، به‌ویژه در ارتباط با هرمز، و از حمایت یا همکاری چین و روسیه برای افزایش قدرت چانه‌زنی خود استفاده کند.
 اگر جنگ ادامه پیدا کند، مسئله فقط آینده ایران و آمریکا نخواهد بود. بازار جهانی انرژی، اقتصاد اروپا و آسیا، امنیت کشورهای خلیج فارس، روابط آمریکا با متحدانش و حتی آینده رژیم منع اشاعه هسته‌ای در خاورمیانه می‌تواند تحت تأثیر قرار گیرد.</div>
-<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/SBoxxx/21262" target="_blank">📅 08:50 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SBoxxx/21262" target="_blank">📅 08:50 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21261">
@@ -661,13 +661,13 @@
 ۲- منع كامل ورود کالاهای ایرانی به خاک عراق
 ⚠️
 این تصمیم در راستای اجرای مفاد مشارکت جمهوری عراق در تحریمهای ایالات متحده آمریکا علیه جمهوری اسلامی ایران اتخاذ گردیده است.</div>
-<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/SBoxxx/21261" target="_blank">📅 08:40 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SBoxxx/21261" target="_blank">📅 08:40 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21260">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">#FairValueCurve  نمایه FVC در حال نزدیک شدن به کف محدوده بیش—فروش است.  در این شرایط پرتناقض، بهترین استراتژی فروش در مقاومتهای نزدیک (4292 و 4308) با تارگت 4235 می باشد.</div>
-<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SBoxxx/21260" target="_blank">📅 07:20 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/SBoxxx/21260" target="_blank">📅 07:20 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21259">
@@ -680,19 +680,19 @@
 تفنگداران دریایی — ۷ سرباز و ۱ افسر — دچار استنشاق دود و احتمالاً آسیب‌های تروماتیک مغزی شدند که علائم ضربه مغزی از جمله سردرد را شامل می‌شد. آن‌ها بخشی از یک تیم پیاده‌سازی گردانی بودند
 مقامات از تعریف نوع کشتی خودداری کرده و آن را تنها یک «شناور دریایی» نامیدند
 در حالی که ایالات متحده در حال خارج کردن دارایی‌های خود است و ذخایرش بیشتر تخلیه می‌شود، گزارش‌های مربوط به تلفات آمریکایی‌ها همچنان ظاهر می‌شوند — و همچنان کمتر از مقدار واقعی گزارش می‌گردند.</div>
-<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/21259" target="_blank">📅 07:18 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SBoxxx/21259" target="_blank">📅 07:18 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21258">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">دلار دوباره نزدیک ۲۴۰</div>
-<div class="tg-footer">👁️ 5.61K · <a href="https://t.me/SBoxxx/21258" target="_blank">📅 00:00 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.62K · <a href="https://t.me/SBoxxx/21258" target="_blank">📅 00:00 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21257">
 <div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">خبرنگار CBS:   مذاکرات روز دوشنبه بین ایران و آمریکا لغو شد  مارگارت برنان، خبرنگار سی‌بی‌اس نوشت: یک دیپلمات که در جریان مذاکرات قرار دارد به من گفت آمریکا روز پنجشنبه پیش‌نویس ایران را بررسی و آن را همراه با بازخورد و ملاحظات خود بازگردانده است.</div>
-<div class="tg-footer">👁️ 5.58K · <a href="https://t.me/SBoxxx/21257" target="_blank">📅 00:00 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.59K · <a href="https://t.me/SBoxxx/21257" target="_blank">📅 00:00 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21256">
@@ -700,20 +700,20 @@
 <div class="tg-text">خبرنگار CBS:
 مذاکرات روز دوشنبه بین ایران و آمریکا لغو شد
 مارگارت برنان، خبرنگار سی‌بی‌اس نوشت: یک دیپلمات که در جریان مذاکرات قرار دارد به من گفت آمریکا روز پنجشنبه پیش‌نویس ایران را بررسی و آن را همراه با بازخورد و ملاحظات خود بازگردانده است.</div>
-<div class="tg-footer">👁️ 5.97K · <a href="https://t.me/SBoxxx/21256" target="_blank">📅 22:34 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.99K · <a href="https://t.me/SBoxxx/21256" target="_blank">📅 22:34 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21255">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">بنیامین نتانیاهو دستور داده است که یک تیم بین‌وزارتی و مقامات حقوقی پرونده‌ای علیه رجب طیب اردوغان، رئیس‌جمهور ترکیه، در دادگاه کیفری بین‌المللی (ICC) آماده کنند.
 پرونده پیشنهادی عمدتاً بر «رفتار ترکیه با جمعیت کرد خود» و ادعاها مبنی بر اینکه دولت اردوغان حماس را تأمین مالی کرده، تمرکز خواهد داشت.</div>
-<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/SBoxxx/21255" target="_blank">📅 21:51 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.61K · <a href="https://t.me/SBoxxx/21255" target="_blank">📅 21:51 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21254">
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">به نظر من جمهوری اسلامی بزودی گزینه آخرالزمانی حمله به چاههای نفت و تاسیسات انرژی منطقه را فعال خواهدکرد که در پی آن نفت به بالای ۱۳۰ دلار و طلا به زیر ۴۰۰۰ دلار خواهندرفت.</div>
-<div class="tg-footer">👁️ 5.51K · <a href="https://t.me/SBoxxx/21254" target="_blank">📅 20:02 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/SBoxxx/21254" target="_blank">📅 20:02 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21253">
@@ -726,13 +726,13 @@
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">عراقچی:
 ما برای جنگ آخرالزمانی آماده هستیم</div>
-<div class="tg-footer">👁️ 5.62K · <a href="https://t.me/SBoxxx/21252" target="_blank">📅 20:02 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/SBoxxx/21252" target="_blank">📅 20:02 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21251">
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">پلیس ضدتروریسم بریتانیا در حال بررسی این موضوع است که آیا ایران با طرح ناکام‌مانده حمله به پایگاه هوایی در پایگاه نیروی هوایی سلطنتی فیرفورد (RAF Fairford) ارتباط دارد یا نه.</div>
-<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/SBoxxx/21251" target="_blank">📅 19:41 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SBoxxx/21251" target="_blank">📅 19:41 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21250">
@@ -744,7 +744,7 @@
 <br>
 <a href="https://cdn4.telesco.pe/file/904c5f3c14.mp4?token=gR0nNFXe-gpn4p0k-yXB8TambmpXuEM7Vhcy2BkBZ3q4zJMrnnXsQJwSxKZddO9ImkBQco0n5ZqkriXgraAVPT-O4nuBCBSMsW1nj7abm3YFf9PyRT8EgdTuPk8_HbMEBzctZ-Xp5DeCrPxG5IJrXSKw7jKPFu1AcT6j1zQjdHfRVonqwc1PMSALcPBnm6mj-6DTpUnOjMiRuVqJuFY-gMDX-bhWcYjCLjDq281Imsvzqd6uppl8cGcNhGEAEYCAWSbAxn5Hz_QBNl1pvYJdFYg2jx9mqOLmW4MM4g4dS2kBhLnalzxc6ps4_nKdoNe2FAYaGnyUhdHz4rdGxOCoJQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/SBoxxx/21250" target="_blank">📅 19:36 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.46K · <a href="https://t.me/SBoxxx/21250" target="_blank">📅 19:36 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21249">
@@ -765,7 +765,7 @@
 <div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">حرف درستی است. به این پفیوزها گاز و برق ندهید دستکم خودمان اینقدر قطعی نداشته باشیم.
 زیبنده ابرقدرت چهارم دنیا نیست.</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SBoxxx/21247" target="_blank">📅 19:19 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SBoxxx/21247" target="_blank">📅 19:19 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21246">
@@ -783,13 +783,13 @@
 البته این پیش‌بینی محقق نشده است. شاخص S&P 500 به صعود خود ادامه داده و در سال ۲۰۲۶ به بالاترین سطح تاریخی رسیده است، نه اینکه فرو بپاشد.
 کیوساکی همچنان درباره سهام، صندوق‌های قابل معامله در بورس (ETF)، صندوق‌های سرمایه‌گذاری مشترک، حساب‌های 401(k) و IRA هشدار می‌دهد و در همان حال طلا، نقره و بیت‌کوین را تبلیغ می‌کند. استدلال اصلی او ثابت مانده است: سرمایه‌گذاران نباید صرفاً به این دلیل که دارایی‌های سنتی آشنا هستند، فرض کنند که امن‌اند.
 تمایز مهم، میان آماده شدن برای یک رکود و تلاش برای زمان‌بندی دقیق وقوع آن است.</div>
-<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/SBoxxx/21245" target="_blank">📅 19:10 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/SBoxxx/21245" target="_blank">📅 19:10 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21244">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mgKeadWezu8QpUZCLSQhkO1MXTUMtHUVlvJ_5M0X2NiBTzhdiUm0r2WGW_5jlloWRMcAPBjZi2BpYLhmyLKNJreJr2XxXBtsb-iYvrf8aW6rtRYP8WmrPtF4GVcj1IPpm6EgQnvuhccKTkO3c7n7j_sGRyC8O81zcHbbycIUshsC3A4BcVAup6ud0aS7rc2AfPQuTzMRMQfD4Gl2-e-h-9G4I5-Q10YE4QANxS4by4-SiOVqefafsKOsmOOyJmSLVl1E9reB4QCXx0CXKSX5L_DZ5B98wejvLtkdMJoRENMhZ-Vm1MgxfAL5awqKwRHKWwELqhYj1M5KOjwKGwdVxA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 5.73K · <a href="https://t.me/SBoxxx/21244" target="_blank">📅 17:11 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/SBoxxx/21244" target="_blank">📅 17:11 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21243">
@@ -803,27 +803,27 @@
 <div class="tg-text">حاجی‌بابایی، نماینده مجلس:
 ایران باید با قدرت [مسیر] انرژی را بر روی همه ببندد؛ یا همه یا هیچکس
 نایب رییس مجلس با بیان اینکه امروز مقاومت با محوریت ملت بزرگ ایران تازیانه الهی بر فرق ترامپ جنایتکار است، گفت: تنگه هرمز همان دریا و همان رودی است که فرعون در آن غرق شد؟ آیا آمریکا در منطقه و در تنگه هرمز در نبرد با ملتی که خدایی فکر می‌کند و توحیدی فکر می‌کند غرق نخواهد شد؟ دیپلماسی با قدرت امکان‌پذیر است و ما باید حرفمان را از قدرت و اقتدار و جایگاه قدرت اقتدار بزنیم.</div>
-<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/SBoxxx/21242" target="_blank">📅 13:23 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.46K · <a href="https://t.me/SBoxxx/21242" target="_blank">📅 13:23 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21241">
 <div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">باز هم تاکید میکنم خواهرمیانه جای مبتدی ها نیست :
 حکم ۱۰ ماه زندان حمید رسایی اجرا می‌شود</div>
-<div class="tg-footer">👁️ 5.44K · <a href="https://t.me/SBoxxx/21241" target="_blank">📅 12:20 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/SBoxxx/21241" target="_blank">📅 12:20 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21240">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FFZ4KmtTgzR2BnGkhLmb1tSz2iFl4me38MJHZa601tZmn2Qd96jNQ7oI5DtXR0rK9wzGjzP6RzE0twmkRMJB8H_c7a1HFci7k0pEcAMJnk2s_u9ygNNw7x_14qqNx5a5r4q7fyb2sV08eTBUUVDfOQ3m9WpcJ12pjZOeW68Ozt1d3bH6V8xJubwyUdX9YxeGbltKRhfnO2IzEU3Dn0uUFobgr5HYfu-VJMyhqgAV2qaSVUN9uBeHGXUwLICfa6ZHSHGAkzRp3os9qHjaIIczBrHhkK4hpSDuLLFyEjGMYugucPAdvuvme2c4wl3dhhjZ_9Wu3dSDQOVaJqBdwlfk_Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خواهرمیانه برای مبتدی ها نیست!</div>
-<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/SBoxxx/21240" target="_blank">📅 12:10 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.53K · <a href="https://t.me/SBoxxx/21240" target="_blank">📅 12:10 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21239">
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">وقتی برخی سرمایه گذاران به امانتداری بانک انگلستان با ۴۰۰ سال سابقه برای طلایشان شک می‌کنند؛ در عجبم از ملتی که در پلتفرم های آنلاین ایرانی طلا میخرند!  راستی میدانستید آلمان چند سال است از آمریکا درخواست انتقال طلاهایش از فدرال رزرو به انبار بوندس بانک در…</div>
-<div class="tg-footer">👁️ 5.61K · <a href="https://t.me/SBoxxx/21239" target="_blank">📅 10:28 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/SBoxxx/21239" target="_blank">📅 10:28 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21238">
@@ -837,19 +837,19 @@
 <div class="tg-post" id="msg-21237">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">یک نفر دایرکت داده خب استاد ما که به قله رسیده و سرش نشسته ایم، حالا اگر پنبه نایاب شد بیاییم خود قله را آغشته به روغن بنفشه کنیم!</div>
-<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/SBoxxx/21237" target="_blank">📅 09:05 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/SBoxxx/21237" target="_blank">📅 09:05 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21236">
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">ترسم این است که پنبه هم نایاب شود؛ آن وقت با چی روغن بنفشه را داخل آنجایمان قرار بدهیم؟!  اصلاً آدم یک جوری می شود!</div>
-<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/SBoxxx/21236" target="_blank">📅 09:02 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SBoxxx/21236" target="_blank">📅 09:02 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21235">
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">شیوه درست استفاده از روغن بنفشه</div>
-<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SBoxxx/21235" target="_blank">📅 09:01 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/21235" target="_blank">📅 09:01 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21234">
@@ -862,7 +862,7 @@
 <a href="https://cdn4.telesco.pe/file/134b1ed686.mp4?token=DnrH0cMm-kqylOQHPNQSkDSbsb8MqEMlJ1salGt0Qs5dWeHuGR3t1f7SNoSIsWAz6yabyX80PGPv8HIVQM91XL2z7pEcsMIGCQ2u-i-gFaF4tDggiIscv_CU7lchnIgTuNm2dTXgyUQU30we_IRa1KrUotgilb8ztSP54V81ddvfwX-9bWtbJvyo2Ifb2G4hEzvR_1XKmJg0jNoFqO-NACuDEvcvd4Xf0tEaQovOPf6UEuoMuwpBv_T9ZP3S15pM6lexMBoyocCzXv_NlN-a_2GgouuL2H17LCnDvwZ0dfREgoHD14mMBBQGW4GG87yK0LnNmjthStijMUDJp1ts1w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">عزیزان پنبه و روغن بنفشه به همراه داشته باشید که داروهای مدرن نایاب می شود.  در ضمن انجام سرویس تعویض روغن به صورت رایگان انجام می شود.</div>
-<div class="tg-footer">👁️ 5.48K · <a href="https://t.me/SBoxxx/21234" target="_blank">📅 08:59 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.49K · <a href="https://t.me/SBoxxx/21234" target="_blank">📅 08:59 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21233">
@@ -870,19 +870,19 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/b7jfPlpMQXwt_WGzVUKFrSIn2s6j1Al_fTIxwSSzVzRTjYw5dwW3JBsu1cFiT2_mwUpR5wj3odm5_NgAUkYWiVMwBZyhgYoqavE1Zj4S87yjC2YiXpSBZBPWo9bqIG1Z9-NQIJ9l-5EUoW9OHv0xGh81O-NcEi_Nz7ZD-JhSJni6Tv_hZgmyuR0oebBdsgpnzcocBD55IjzYj81GSHEIqPE6fZjB_1H_aoNGQ-4yKDtXPJ1MgYdySM-Ond3rt3rGbppyKB6s_3lkznHcQHLcCQKQ-48_133pdG6FkOyI5oyZxYJ7fu2bogFT7R8Cp4UoXsRg3GKYpb4I59osnqCi1A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عزیزان پنبه و روغن بنفشه به همراه داشته باشید که داروهای مدرن نایاب می شود.
 در ضمن انجام سرویس تعویض روغن به صورت رایگان انجام می شود.</div>
-<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/SBoxxx/21233" target="_blank">📅 08:57 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.53K · <a href="https://t.me/SBoxxx/21233" target="_blank">📅 08:57 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21232">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">بوی محاصره زمینی می آید…</div>
-<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/SBoxxx/21232" target="_blank">📅 08:07 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.75K · <a href="https://t.me/SBoxxx/21232" target="_blank">📅 08:07 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21231">
 <div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">حملات موشکی گسترده سپاه در تنگه هرمز</div>
-<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/SBoxxx/21231" target="_blank">📅 07:11 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.64K · <a href="https://t.me/SBoxxx/21231" target="_blank">📅 07:11 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21230">
@@ -895,7 +895,7 @@
 😄
 شب خوش!
 @PiknikAnalyst</div>
-<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/21230" target="_blank">📅 01:15 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SBoxxx/21230" target="_blank">📅 01:15 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21229">
@@ -925,7 +925,7 @@
 <div class="tg-post" id="msg-21226">
 <div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">مخبر، مشاور رهبر انقلاب:  پرواز در منطقه یا برای همه آزاد است یا برای هیچ‌کس  اگر ایران امکان پرواز و دریافت خدمات فرودگاهی نداشته باشد هیچ کشوری در منطقه هم این امکان را نخواهد داشت.</div>
-<div class="tg-footer">👁️ 5.66K · <a href="https://t.me/SBoxxx/21226" target="_blank">📅 17:55 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.67K · <a href="https://t.me/SBoxxx/21226" target="_blank">📅 17:55 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21225">
@@ -998,13 +998,13 @@
 <div class="tg-text">سفیر ایالات متحده در چین، گفت که رئیس‌جمهور ترامپ در مذاکرات خود در کاخ سفید، از رئیس‌جمهور چین، شی جین‌پینگ، خواسته است تا هرگونه کمک چین به ایران را متوقف کند.
 او اظهار داشت که واشنگتن به وضوح اعلام کرده است که «هرگونه کمکی که چین به ایران ارائه می‌دهد، کاملاً غیرقابل قبول است».
 او افزود: «ما از قبل حرکتی در این زمینه مشاهده کرده‌ایم. این همان تعهدی است که داده شده است. آن‌ها به ما اطمینان دادند که چنین کاری انجام نمی‌دهند.»</div>
-<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SBoxxx/21217" target="_blank">📅 02:22 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/21217" target="_blank">📅 02:22 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21216">
 <div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">فیلم کامل مستند BBC درباره نسل کشی ترکیه ضد کردها در عراق</div>
-<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/SBoxxx/21216" target="_blank">📅 00:05 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.46K · <a href="https://t.me/SBoxxx/21216" target="_blank">📅 00:05 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21215">
@@ -1048,13 +1048,13 @@
 <div class="tg-post" id="msg-21210">
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">به پزشکیان رای دادیم که جنگ نشود، هر هفته 15 بار جنگ می شود!</div>
-<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/SBoxxx/21210" target="_blank">📅 23:03 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SBoxxx/21210" target="_blank">📅 23:03 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21209">
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">خداوکیلی راست می گوید ؛ این بار دیگر غافلگیر نشویم!</div>
-<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/SBoxxx/21209" target="_blank">📅 23:02 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/SBoxxx/21209" target="_blank">📅 23:02 · 03 Mehr 1405</a></div>
 </div>
 
 <hr>
