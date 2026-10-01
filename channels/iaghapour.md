@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/bvGtniESU0p0EKoHV10e7xhUlboob7VErSftqKqhc8pOxFLQJHqoHfvoGgMFgCHaFebLOSV-qPx_vv4YskgKA-089SGCAZHYiMu-5STlOF-ma5Moi4u5DRBUX7bxCTSIhUN8c2osTeRoK-jKS_TTkqt9Q_8lWQQXyS4My6aGPcUHffk4ca33wzsZKPwtBqRMGe0qug1vZ14jneR754YpmbvwqLNMkgjb_YcGeMuYCPsPHjw0UJRwcp7nTExBzReH3BqHL5z0yBrCtDyhxXkZkFAYdCT9O2X9Xy_jTJUS54s16TGnvNO4d79GqUjRqqwq5NKOOXchdWGb_HetkGQd6Q.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/Eqsa-afFy8wiY1kLRpbzLwy2Ln4EXXUXF6YQnKFO65ZajpOlBuS7kF2l36OkDM162xCHGT90KXYfa9g_ZX9N-VY5TijeCFD9IW8YPZYDzYMqh5jkoN_EsDlMpHlPJbQ1XnRCny2XqXMjCLPMkmI_aqvA_r-Jg72Jhk3u5Pt911r3rYSBLR0xYiXE6cBoQvYBYlV8pRCau0kzavkL83ccafDFCrzvZdiONuO5h0VbrVcdIwaqf8cesu8JoTtsDfu-hqmLBoZBcxcr3oDdbDx3u4u8xWJxBdfPm2SYGBhn_cOliS-AdZJF0jqTOEeMierRfZSlQUYSW-R0bDNdKxefYQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
 <p>@iaghapour • 👥 51.5K عضو</p>
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-09 03:46:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-09 09:45:22</div>
 <hr>
 
 <div class="tg-post" id="msg-3079">
@@ -306,7 +306,7 @@
 یه قابلیت کاربردی دیگه: اگه سرعت اینترنتتون کمه و می‌خواید فایلی رو توی تلگرام آپلود کنید، فقط لینک فایل رو به ربات بدید؛ ربات خودش فایل رو دانلود و داخل تلگرام براتون آپلود می‌کنه
 ✨
 تبلیغات و جوین اجباری هم نداره</div>
-<div class="tg-footer">👁️ 3.7K · <a href="https://t.me/iaghapour/3079" target="_blank">📅 21:01 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.22K · <a href="https://t.me/iaghapour/3079" target="_blank">📅 21:01 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3078">
@@ -321,7 +321,7 @@
 رفقای زرنگِ من! فارغ از اینکه این هدیه واقعاً ناقابله و فدای سرتون، ولی یوتیوب یه چیزی داره به اسم Handle (همون آیدی با @) که تو کل دنیا یکتاست! یعنی هیچ‌کس نمی‌تونه آیدی تکراری داشته باشه. ما هم موقع تحویل جایزه، فقط همون آیدیِ اورجینال رو چک می‌کنیم، نه یه اسم و عکسِ فیک!
 🕵️‍♂️
 خلاصه که سرعت عمل و خلاقیتتون قابل ستایشه، اما متأسفانه جواب نمیده!</div>
-<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/iaghapour/3078" target="_blank">📅 20:32 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/iaghapour/3078" target="_blank">📅 20:32 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3077">
@@ -353,7 +353,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/iaghapour/3077" target="_blank">📅 18:36 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.91K · <a href="https://t.me/iaghapour/3077" target="_blank">📅 18:36 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3076">
@@ -375,12 +375,12 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.51K · <a href="https://t.me/iaghapour/3076" target="_blank">📅 14:06 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.69K · <a href="https://t.me/iaghapour/3076" target="_blank">📅 14:06 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3074">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-footer">👁️ 7.71K · <a href="https://t.me/iaghapour/3074" target="_blank">📅 20:47 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.84K · <a href="https://t.me/iaghapour/3074" target="_blank">📅 20:47 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3073">
@@ -411,7 +411,7 @@ Gemini Omni 1.1 Flash
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.86K · <a href="https://t.me/iaghapour/3073" target="_blank">📅 18:47 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.95K · <a href="https://t.me/iaghapour/3073" target="_blank">📅 18:47 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3071">
@@ -447,7 +447,7 @@ www.doprax.com
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.87K · <a href="https://t.me/iaghapour/3071" target="_blank">📅 20:03 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.94K · <a href="https://t.me/iaghapour/3071" target="_blank">📅 20:03 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3069">
@@ -475,7 +475,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.07K · <a href="https://t.me/iaghapour/3069" target="_blank">📅 17:03 · 06 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.13K · <a href="https://t.me/iaghapour/3069" target="_blank">📅 17:03 · 06 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3067">
@@ -505,7 +505,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.62K · <a href="https://t.me/iaghapour/3067" target="_blank">📅 17:20 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/iaghapour/3067" target="_blank">📅 17:20 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3066">
@@ -530,7 +530,7 @@ YouTube</div>
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 8.55K · <a href="https://t.me/iaghapour/3066" target="_blank">📅 16:20 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.62K · <a href="https://t.me/iaghapour/3066" target="_blank">📅 16:20 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3065">
@@ -561,7 +561,7 @@ Repair-Network.cmd
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.7K · <a href="https://t.me/iaghapour/3065" target="_blank">📅 15:31 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.78K · <a href="https://t.me/iaghapour/3065" target="_blank">📅 15:31 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3063">
@@ -599,7 +599,7 @@ cyberpolice.gov.ir
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.02K · <a href="https://t.me/iaghapour/3063" target="_blank">📅 20:39 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.09K · <a href="https://t.me/iaghapour/3063" target="_blank">📅 20:39 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3062">
@@ -639,7 +639,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/iaghapour/3062" target="_blank">📅 18:37 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.68K · <a href="https://t.me/iaghapour/3062" target="_blank">📅 18:37 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3060">
@@ -663,7 +663,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/iaghapour/3060" target="_blank">📅 14:35 · 04 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.83K · <a href="https://t.me/iaghapour/3060" target="_blank">📅 14:35 · 04 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3058">
@@ -681,7 +681,7 @@ YouTube</div>
 متن‌هایی که شبیه اسپم هستن سریع فیلتر میشن. مثلاً طرف فقط نوشته «کامنت» یا یه ایموجی خالی و چند تا حرف بی‌معنی فرستاده. سعی کنید یه جمله معنادار یا نظرتون درباره ویدیو رو بنویسید.
 راستش منم سیستمم طوری نیست که مدام بخش تایید دستی رو چک کنم و خیلی وقتا یادم میره؛ همین باعث میشه پیام‌هاتون یا خیلی دیر تایید بشه یا اصلاً به قرعه‌کشی نرسه. پس حتماً این دو تا مورد رو رعایت کنید. دم همه‌تون گرم!
 👌🏻</div>
-<div class="tg-footer">👁️ 9.54K · <a href="https://t.me/iaghapour/3058" target="_blank">📅 20:44 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.57K · <a href="https://t.me/iaghapour/3058" target="_blank">📅 20:44 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3057">
@@ -704,7 +704,7 @@ Behrad Javed
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.14K · <a href="https://t.me/iaghapour/3057" target="_blank">📅 20:29 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.16K · <a href="https://t.me/iaghapour/3057" target="_blank">📅 20:29 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3055">
@@ -727,7 +727,7 @@ Gemini 4
 کاووک‌چوغلو علت تأخیر در عرضه پرچمدار را تمرکز موقت روی بهینه‌سازی مدل‌های سبک و سریع Flash دانست و تأکید کرد گوگل همچنان جایگاه خود در خط مقدم هوش مصنوعی را حفظ خواهد کرد.
 🧠
 @NovinAIplus</div>
-<div class="tg-footer">👁️ 9.53K · <a href="https://t.me/iaghapour/3055" target="_blank">📅 16:07 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.56K · <a href="https://t.me/iaghapour/3055" target="_blank">📅 16:07 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3052">
@@ -779,7 +779,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/iaghapour/3051" target="_blank">📅 18:41 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/iaghapour/3051" target="_blank">📅 18:41 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3049">
@@ -810,7 +810,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/3049" target="_blank">📅 17:14 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/iaghapour/3049" target="_blank">📅 17:14 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3048">
@@ -844,7 +844,7 @@ gpt-6-luna
 ، ابزار Codex و به‌صورت تدریجی در ChatGPT Work و دسکتاپ.
 🧠
 @NovinAIplus</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/3048" target="_blank">📅 16:19 · 01 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/iaghapour/3048" target="_blank">📅 16:19 · 01 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3045">
@@ -869,7 +869,7 @@ gpt-6-luna
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/iaghapour/3045" target="_blank">📅 20:31 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/iaghapour/3045" target="_blank">📅 20:31 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3044">
@@ -952,7 +952,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/3042" target="_blank">📅 16:28 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/3042" target="_blank">📅 16:28 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3040">
@@ -1120,7 +1120,7 @@ FFmpeg، pngquant و jpegoptim
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/iaghapour/3035" target="_blank">📅 16:56 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/iaghapour/3035" target="_blank">📅 16:56 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3034">
@@ -1213,7 +1213,7 @@ YouTube</div>
 بچه‌ها چطوره تو ویدیوی بعدی به جای اکانت ۱ ماهه هوش مصنوعی، اکانت ۱۸ ماهه جایزه بدیم؟ نظرتون چیه؟
 🔹
 راستی، موضوع ویدیوی قبلی چطور بود؟ سعی کردیم یه خورده از شبکه فاصله بگیریم :) اگه دوست داشتید بگید از این سبک ویدیوها بیشتر بسازیم براتون.</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/iaghapour/3028" target="_blank">📅 20:42 · 27 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/iaghapour/3028" target="_blank">📅 20:42 · 27 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3027">
@@ -2268,7 +2268,7 @@ Project Zenith
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/2967" target="_blank">📅 16:32 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/iaghapour/2967" target="_blank">📅 16:32 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2966">
