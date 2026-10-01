@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/Bng2PJ1z5saNp9dRpwH9id_V2j_94r2_aywhzscTyOkfo7hXwksuVLbUG3SmoBOUoL7d5A8aqD4HKHuhSI5Tmeveoy5CKLHmA2hABaZZ2ctYNa2wH4JWy3as645pStl87pNRDvZ6Pt8WC818oRvCcMA0XmQugJ_NRGMs-ULbZbxgTcUqsNa79DtmRQRYY9WynGTfKAegjTEVBrye5TuNs-gcdcxgWBYyNi89OBN3_cFqx8lHATsnyD_wqCHyokeMeXMg62LNUaS5sgf8VI1N8bTAlfWmar9mdWHQidIicIaIYBHopOpYvhvJRQii3WkUE38IGZ0nYLzvSATU_0ap2A.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/alQS8MGaEW6wJvR4O6khQsrnpFMIRbZqh9Zph4ev6QeTG9KmoW4T8wrLfS2ZZYsojSvVNcxV9DP4mNADll2I-0DbRlHQcAIZxGU2ox69rEi9GFzjXuF9PyT29cqnzii_G6dvymxVrHGyVqqo8uc3HQWsgTLM5Fx5cYtUT9ODiuBzF17NA1_tstgaRrdCdRvVQ3HTU9v9-smUjupYBBLtctxmu1vxKXPNHW-heiDv19RGtXNXKsoLhW5TqmSqCoyeb2sWA43VmKf7PdmdI525z7BiZbJWyVaYh9PVsrhc5mcUDm1VkkZ8xmI2Hpm0V_bfB16DqLaC20EWpnTvIg09_w.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 ورود به کانال آقای تحلیلگر</h1>
 <p>@tahlilgar • 👥 113K عضو</p>
 <a href="https://t.me/tahlilgar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 در این کانال عضو باشید تا درصورت تغییر لینک کانال اصلی لینک جدید اطلاع رسانی شود.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-09 17:07:54</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-09 22:39:44</div>
 <hr>
 
 <div class="tg-post" id="msg-352">
