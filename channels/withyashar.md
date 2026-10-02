@@ -292,7 +292,7 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیل📸instagram.com/yashar🐦x.com/yasharrapfa📺youtube.com/yasharrapfa⛑️paypal.com/paypalme/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-10 02:47:57</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-10 05:52:28</div>
 <hr>
 
 <div class="tg-post" id="msg-24732">
@@ -304,18 +304,18 @@
 ادغام سامانه‌های ارتباطی و راه‌اندازی یک مرکز ارتباطات سیار
 همکاری و برای تهیه تجهیزات آن کمک کرده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/withyashar/24732" target="_blank">📅 02:33 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/withyashar/24732" target="_blank">📅 02:33 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24731">
 <div class="tg-post-header">📌 پیام #99</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/withyashar/24731" target="_blank">📅 02:29 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 38.3K · <a href="https://t.me/withyashar/24731" target="_blank">📅 02:29 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24730">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">😥</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/withyashar/24730" target="_blank">📅 02:23 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/withyashar/24730" target="_blank">📅 02:23 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24729">
@@ -326,7 +326,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/withyashar/24729" target="_blank">📅 02:16 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/withyashar/24729" target="_blank">📅 02:16 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24728">
@@ -343,7 +343,7 @@
 ایران در فوریه ۲۰۲۶، تنها سه تا چهار هفته با دستیابی به سلاح هسته‌ای فاصله داشت؛ شاید هم زودتر
 »
 @WarRoom</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/withyashar/24728" target="_blank">📅 02:03 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47.8K · <a href="https://t.me/withyashar/24728" target="_blank">📅 02:03 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24727">
@@ -362,7 +362,7 @@
 زنده‌زنده خورده می‌شوند
 .»
 @WarRoom</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/withyashar/24727" target="_blank">📅 02:00 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/withyashar/24727" target="_blank">📅 02:00 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24726">
@@ -386,7 +386,7 @@
 به آن پایبند نمانند
 .»
 @WarRoom</div>
-<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/withyashar/24726" target="_blank">📅 01:58 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 48.5K · <a href="https://t.me/withyashar/24726" target="_blank">📅 01:58 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24725">
@@ -409,7 +409,7 @@
 با یک نفر وارد مذاکره و تعامل شویم
 ، درست است؟»
 @WarRoom</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/withyashar/24725" target="_blank">📅 01:56 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/withyashar/24725" target="_blank">📅 01:56 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24724">
@@ -429,14 +429,14 @@
 »
 من یقین دارم درست بعد از انتخابات ، شاید هم قبلش
 @WarRoom</div>
-<div class="tg-footer">👁️ 34K · <a href="https://t.me/withyashar/24724" target="_blank">📅 01:50 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/withyashar/24724" target="_blank">📅 01:50 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24723">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">ویولن بیژن در قم فعال شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 75.2K · <a href="https://t.me/withyashar/24723" target="_blank">📅 00:28 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 85.4K · <a href="https://t.me/withyashar/24723" target="_blank">📅 00:28 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24722">
@@ -449,7 +449,7 @@
 <a href="https://cdn4.telesco.pe/file/87a86dcf7b.mp4?token=oeJgOD4y7fwGvyE-lHKsPIUlxt5cXoV5NgAkYS88Tk2_968bADAIyK4gqDXMf6UMf0QK-xw_Ka5SaUvutmi3yGFsi3QyakWWml3iwxhFK6bWTXjofCndNp3-VUrbQoEE0uOXewXRlU2i_bdwjUjhubNdtLwlq24bURSoTOWHgzvTnK56R4tyaxqyl5AJEH-CE_5TC94mhkF4tqwXk4cd7VAT4DUJTlAtUTbaJEbJCjFI4FSm7e54WD0obIPumTxStN9Syk-u230ORN4Z1uuRF5dsy28K3IN9t9j7DL-7jGFBZT8P6WrWcpMt-1LXcgmtROOD7Sisg-z6T2ViDoB-Tw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">خبرگزاری سان : پلیس ضدتروریسم بریتانیا یک شهروند ۲۷ ساله ایرانی سیتیزن بریتانیا را به ظن آماده‌سازی اقدامات تروریستی و ارتباط با توطئه برای هدف قرار دادن پایگاه هوایی RAF Fairford دستگیر کرد. یک مرد ۲۶ ساله بریتانیایی نیز تحت بازجویی قرار گرفته و دو ملک در…</div>
-<div class="tg-footer">👁️ 75.1K · <a href="https://t.me/withyashar/24722" target="_blank">📅 00:26 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 85.4K · <a href="https://t.me/withyashar/24722" target="_blank">📅 00:26 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24721">
@@ -474,7 +474,7 @@
 هدف قرار گرفتن سه نفتکش با پرچم لیبریا در تنگه هرمز
 حکایت دارد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 85.4K · <a href="https://t.me/withyashar/24721" target="_blank">📅 23:56 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 94K · <a href="https://t.me/withyashar/24721" target="_blank">📅 23:56 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24720">
@@ -487,7 +487,7 @@
 با یک پرتابه ناشناس برخورد کرده و در پی آن دچار آتش‌سوزی شده است. این گزارش از سوی یک منبع ثالث دریافت شده و
 خدمه سالم هستند
 @WarRoom</div>
-<div class="tg-footer">👁️ 86.4K · <a href="https://t.me/withyashar/24720" target="_blank">📅 23:49 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 94.4K · <a href="https://t.me/withyashar/24720" target="_blank">📅 23:49 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24719">
@@ -497,7 +497,7 @@
 کین گفت ترامپ در حال بررسی زمان‌بندی چنین اقدامی است و عملیات می‌تواند پیش از انتخابات یا پس از آن آغاز شود. او همچنین گفت
 عملیات مخفی موساد علیه ایران در حال انجام است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 88.4K · <a href="https://t.me/withyashar/24719" target="_blank">📅 23:37 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 95.8K · <a href="https://t.me/withyashar/24719" target="_blank">📅 23:37 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24718">
@@ -511,7 +511,7 @@
 </div>
 <div class="tg-text">سنتکام : ناو یو‌اس‌اس جورج واشنگتن (CVN 73) در حین حرکت در آب‌های منطقه‌ای خاورمیانه، عملیات پروازی انجام می‌دهد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 90.5K · <a href="https://t.me/withyashar/24718" target="_blank">📅 23:22 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 97.7K · <a href="https://t.me/withyashar/24718" target="_blank">📅 23:22 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24717">
@@ -522,7 +522,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/24717" target="_blank">📅 22:58 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/24717" target="_blank">📅 22:58 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24716">
@@ -538,7 +538,7 @@
 همچنان کاملاً روی میز است
 . اما سپس آمریکا موضع خود را سخت‌تر کرد و گفت انتقال اورانیوم تنها باید به آمریکا انجام شود. از آنجا بود که ایران نیز تصمیم گرفت موضع خود را سخت‌تر کند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 98.6K · <a href="https://t.me/withyashar/24716" target="_blank">📅 22:38 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/24716" target="_blank">📅 22:38 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24715">
@@ -548,24 +548,24 @@
 کاهش تحریم‌ها، دسترسی بازرسان آژانس بین‌المللی انرژی اتمی به تمامی تأسیسات هسته‌ای آسیب‌دیده ایران را از سر بگیرد
 . این پیشنهاد در چارچوب تلاش‌های دیپلماتیک برای دستیابی به توافق میان ایران و آمریکا مطرح شده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/24715" target="_blank">📅 22:16 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/24715" target="_blank">📅 22:16 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24714">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-footer">👁️ 99.7K · <a href="https://t.me/withyashar/24714" target="_blank">📅 22:14 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/24714" target="_blank">📅 22:14 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24713">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/24713" target="_blank">📅 22:08 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/24713" target="_blank">📅 22:08 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24712">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">گزارش زیاد از ایست بازرسی های پی در پی در شهر های ایران مخصوصا کرج
 @WarRoom</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/24712" target="_blank">📅 21:56 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/24712" target="_blank">📅 21:56 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24711">
@@ -573,7 +573,7 @@
 <div class="tg-text">(پدافند) بیژنه غرب ایران کرمانشاه فعال شد
 @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/24711" target="_blank">📅 21:48 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/24711" target="_blank">📅 21:48 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24710">
@@ -592,7 +592,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/24710" target="_blank">📅 21:44 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/24710" target="_blank">📅 21:44 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24709">
@@ -605,13 +605,13 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 99.6K · <a href="https://t.me/withyashar/24709" target="_blank">📅 21:42 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/24709" target="_blank">📅 21:42 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24708">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">اسکات بسنت، وزیر خزانه‌داری آمریکا: تحریم‌های جدید علیه ایران، بخش‌های خودروسازی و راه‌آهن و شبکه‌های تأمین‌کننده و حامی آنها را هدف قرار می‌دهد و با هدف خشکاندن منابع مالی جمهوری اسلامی اعمال شده است. وزارت خزانه‌داری آمریکا امروز ایران‌خودرو و سایپا و همچنین…</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/24708" target="_blank">📅 21:38 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/24708" target="_blank">📅 21:38 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24707">
@@ -626,14 +626,14 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/24707" target="_blank">📅 21:37 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/24707" target="_blank">📅 21:37 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24706">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">BTC 85000$
 @WarRoom</div>
-<div class="tg-footer">👁️ 98.6K · <a href="https://t.me/withyashar/24706" target="_blank">📅 21:35 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/24706" target="_blank">📅 21:35 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24705">
@@ -645,7 +645,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 97.5K · <a href="https://t.me/withyashar/24705" target="_blank">📅 21:34 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/24705" target="_blank">📅 21:34 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24704">
@@ -655,7 +655,7 @@
 تهدید هسته‌ای ایران
 ۴ تا ۶ هفته زمان می‌برد، اما من این کار را در یک شب انجام دادم! بقیه این مدت فقط برای اطمینان از این است که وضعیت همین‌طور باقی بماند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 98.5K · <a href="https://t.me/withyashar/24704" target="_blank">📅 21:29 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/24704" target="_blank">📅 21:29 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24703">
@@ -671,7 +671,7 @@
 «عملیات طرد اقتصادی»
 برای قطع منابع مالی حکومت ایران و افزایش فشار اقتصادی بر تهران است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 98.6K · <a href="https://t.me/withyashar/24703" target="_blank">📅 21:19 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/24703" target="_blank">📅 21:19 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24702">
@@ -685,7 +685,7 @@
 </div>
 <div class="tg-text">کانال 14 اسرائیل: «این عملیات برای دستیابی به سه هدف طراحی شده بود: کشتن تعداد زیادی از اسرائیلی‌ها، آسیب رساندن به روابط ما با امارات، و آسیب رساندن به خود امارات.»(زیرنویس فارسی)
 @WarRoom</div>
-<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/24702" target="_blank">📅 21:01 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/24702" target="_blank">📅 21:01 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24701">
@@ -700,7 +700,7 @@
 <div class="tg-text">پیتر دوکی از شبکه فاکس: این خلبان فلای دوبی ممکن است توسط سپاه پاسداران منصوب شده باشد، یا به نوعی دیگر افراطی شده باشد و سپس سعی کرده باشد هواپیما را سرنگون کند؟
 ترامپ: ممکن است، بله.
 @WarRoom</div>
-<div class="tg-footer">👁️ 93.5K · <a href="https://t.me/withyashar/24701" target="_blank">📅 21:00 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 97.5K · <a href="https://t.me/withyashar/24701" target="_blank">📅 21:00 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24700">
@@ -714,7 +714,7 @@
 </div>
 <div class="tg-text">ترامپ در پاسخ به این سوال که آیا ایران در حادثه مربوط به هواپیمای فلاي‌دبي دخیل است یا خیر، گفت: "به نظر من، با توجه به اطلاعاتی که دارم، بله، اما ما در حال حاضر در این زمینه کار می‌کنیم."
 @WarRoom</div>
-<div class="tg-footer">👁️ 89.4K · <a href="https://t.me/withyashar/24700" target="_blank">📅 20:58 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/withyashar/24700" target="_blank">📅 20:58 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24699">
@@ -728,13 +728,13 @@
 </div>
 <div class="tg-text">ترامپ برای شرکت در گردهمایی انتخاباتی جمهوری‌خواهان عازم اوکلاهوما شد. دونالد ترامپ، رئیس‌جمهور آمریکا، پنجشنبه ۹ مهر برای حضور در یک تجمع انتخاباتی جمهوری‌خواهان در شهر دورانِت، اوکلاهوما، به این ایالت سفر کرد. این مراسم در چارچوب انتخابات میان‌دوره‌ای کنگره آمریکا برگزار می‌شود و ترامپ در حمایت از نامزدهای جمهوری‌خواه سخنرانی خواهد کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 87.3K · <a href="https://t.me/withyashar/24699" target="_blank">📅 20:52 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 90.5K · <a href="https://t.me/withyashar/24699" target="_blank">📅 20:52 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24698">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">اتاق جنگ با یاشار : اولین تصاویر از خروج خلبان هندی زخمی پرواز فلای دوبی با بانداژ سنگین و کمک‌خلبان مهاجم با دست‌های بسته منتشر شد. نکته مهم درباره پرواز دبی–اسرائیل، هویت خلبانان دوم جایگزین است که عربستان آن را مخفی نگه داشته. هواپیما در آسمان اردن و نزدیک…</div>
-<div class="tg-footer">👁️ 84.3K · <a href="https://t.me/withyashar/24698" target="_blank">📅 20:47 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 87.4K · <a href="https://t.me/withyashar/24698" target="_blank">📅 20:47 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24697">
@@ -749,7 +749,7 @@
 <div class="tg-text">خبرنگار : «در مورد نیروهای نیابتی ایران، مثل حزب‌الله، چه نظری دارید؟»
 ترامپ: «هر اتفاقی برای ایران بیفتد، برای نیروهای نیابتی آن هم همان اتفاق می‌افتد.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 83.2K · <a href="https://t.me/withyashar/24697" target="_blank">📅 20:46 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 85.9K · <a href="https://t.me/withyashar/24697" target="_blank">📅 20:46 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24696">
@@ -763,14 +763,14 @@
 </div>
 <div class="tg-text">ترامپ درباره ایران: به جرئت می‌گویم که صددرصد مردم,  از جمله در سراسر جهان , با دستیابی ایران به سلاح هسته‌ای مخالف‌اند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 81.1K · <a href="https://t.me/withyashar/24696" target="_blank">📅 20:45 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 83.8K · <a href="https://t.me/withyashar/24696" target="_blank">📅 20:45 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24695">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">اتاق جنگ با یاشار : اولین تصاویر از خروج خلبان هندی زخمی پرواز فلای دوبی با بانداژ سنگین و کمک‌خلبان مهاجم با دست‌های بسته منتشر شد. نکته مهم درباره پرواز دبی–اسرائیل، هویت خلبانان دوم جایگزین است که عربستان آن را مخفی نگه داشته. هواپیما در آسمان اردن و نزدیک مرز اسرائیل بود، اما دو خلبان جایگزین تمرینی به‌جای فرود در مقصد ، مسیر را تغییر داده و بدون فرود حتی در اردن، هواپیما را به عربستان بردند. نتیجه این اقدام، نجات خلبان تروریست عمانی و جلوگیری از مشخص‌شدن اسناد این عملیات بود. یکی از دو خلبان بریتانیایی بوده و هویت خلبان دوم اعلام نشده؛ احتمالاً فرانسوی یا اسپانیایی باشد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 83.2K · <a href="https://t.me/withyashar/24695" target="_blank">📅 20:41 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 85.8K · <a href="https://t.me/withyashar/24695" target="_blank">📅 20:41 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24694">
@@ -785,7 +785,7 @@
 <div class="tg-text">خبرنگار: اگر ایران پشت حمله به هواپیما باشد، آیا شما علیه آن اقدام تلافی‌جویانه خواهید کرد؟ آیا ایالات متحده تلافی خواهد کرد؟
 ترامپ: آنها ضربه سختی خواهند خورد، نگران نباش. فقط از آنها بپرس؟ آنها می‌دانند چه اتفاقی می‌افتد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 81.2K · <a href="https://t.me/withyashar/24694" target="_blank">📅 20:36 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 84.2K · <a href="https://t.me/withyashar/24694" target="_blank">📅 20:36 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24693">
@@ -799,7 +799,7 @@
 </div>
 <div class="tg-text">ترامپ درباره ایران: ایران نمی‌تواند سلاح هسته‌ای داشته باشد و نخواهد داشت؛ آن‌ها نیز پذیرفته‌اند که چنین سلاحی نداشته باشند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 87.3K · <a href="https://t.me/withyashar/24693" target="_blank">📅 20:33 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 90.1K · <a href="https://t.me/withyashar/24693" target="_blank">📅 20:33 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24692">
@@ -813,7 +813,7 @@
 </div>
 <div class="tg-text">ترامپ: نرخ‌های بهره می‌توانند رشد را کند کنند. ما خواهان رشد هستیم؛ و رشد موجب تورم نمی‌شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 88.3K · <a href="https://t.me/withyashar/24692" target="_blank">📅 20:33 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 90.5K · <a href="https://t.me/withyashar/24692" target="_blank">📅 20:33 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24691">
@@ -827,7 +827,7 @@
 </div>
 <div class="tg-text">ترامپ درباره ایران: اکنون باید تصمیمی بگیرم: یا ایران توافق را امضا می‌کند، یا دیگر وجود نخواهد داشت.
 @WarRoom</div>
-<div class="tg-footer">👁️ 86.3K · <a href="https://t.me/withyashar/24691" target="_blank">📅 20:29 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 89.2K · <a href="https://t.me/withyashar/24691" target="_blank">📅 20:29 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24690">
@@ -836,7 +836,7 @@
 ایرانی سیتیزن بریتانیا
 را به ظن آماده‌سازی اقدامات تروریستی و ارتباط با توطئه برای هدف قرار دادن پایگاه هوایی RAF Fairford دستگیر کرد. یک مرد ۲۶ ساله بریتانیایی نیز تحت بازجویی قرار گرفته و دو ملک در لندن بازرسی شده‌اند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 87.4K · <a href="https://t.me/withyashar/24690" target="_blank">📅 20:20 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 90.2K · <a href="https://t.me/withyashar/24690" target="_blank">📅 20:20 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24689">
@@ -849,14 +849,14 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 86.3K · <a href="https://t.me/withyashar/24689" target="_blank">📅 20:19 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 88.6K · <a href="https://t.me/withyashar/24689" target="_blank">📅 20:19 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24688">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">ترامپ: موضوع ایران می‌تواند به انتخابات میان‌دوره‌ای آسیب برساند
 @WarRoom</div>
-<div class="tg-footer">👁️ 89.4K · <a href="https://t.me/withyashar/24688" target="_blank">📅 20:17 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 91.7K · <a href="https://t.me/withyashar/24688" target="_blank">📅 20:17 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24687">
@@ -865,7 +865,7 @@
 ؛ او پیش‌تر در ۳ ژوئن گفته بود «آنها قبلاً موافقت کرده‌اند که سلاح هسته‌ای نداشته باشند» و در ۱۵ ژوئن نیز تأکید کرده بود ایران «کاملاً» با این موضوع موافقت کرده است. ترامپ امروز، اول اکتبر، بار دیگر در اظهارات خود درباره ایران تأکید کرد که تهران نباید به سلاح هسته‌ای دست پیدا کند.
 @WarRoom
 😂</div>
-<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/withyashar/24687" target="_blank">📅 20:17 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 94.6K · <a href="https://t.me/withyashar/24687" target="_blank">📅 20:17 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24686">
@@ -875,7 +875,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 92.5K · <a href="https://t.me/withyashar/24686" target="_blank">📅 20:13 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 95.3K · <a href="https://t.me/withyashar/24686" target="_blank">📅 20:13 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24685">
@@ -890,14 +890,14 @@
 <div class="tg-text">پوتین , رئیس‌جمهور روسیه
 : اگر صحبتی از حمله مستقیم به فدراسیون روسیه، به کالینینگراد برسد، استفاده از تمام تسلیحات موجود در زرادخانه ما، اجتناب‌ناپذیر و فوری خواهد بود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 92.5K · <a href="https://t.me/withyashar/24685" target="_blank">📅 19:59 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 94.5K · <a href="https://t.me/withyashar/24685" target="_blank">📅 19:59 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24684">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">سخنگوی نیروهای ائتلاف: گروه حوثی با استفاده از یک پهپاد، ایستگاه توزیع برق "طیبه" در شهر مدینه منوره را مورد هدف قرار داد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 90.4K · <a href="https://t.me/withyashar/24684" target="_blank">📅 19:53 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 92.3K · <a href="https://t.me/withyashar/24684" target="_blank">📅 19:53 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24683">
@@ -906,7 +906,7 @@
 <div class="tg-text">‏یک جنگنده‌ی A10 که از درگیری با ایران برگشته! نشان های پرتاب بمب‌های جیدم و sub به همراه کیل مارک«نشان نابودی» دو قایق تندرو سپاه را هم بر بدنه دارد!
 @WarRoom
 🔥</div>
-<div class="tg-footer">👁️ 93.5K · <a href="https://t.me/withyashar/24683" target="_blank">📅 19:28 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 95.6K · <a href="https://t.me/withyashar/24683" target="_blank">📅 19:28 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24682">
@@ -920,14 +920,14 @@
 </div>
 <div class="tg-text">‏امیر قاسمی و رو‌کردن نام کسانی که با سپاه در ارتباط کامل قرار دارند ، آیا نفر بعدی که در ایران خواهید دید معین است؟ گزارشهایی هم هست که در کنسرت اخیر معین اجازه ورود پرچم شیر و خورشید داده نشد و فقط آهنگی برای ایران خوانده شد و در نمایشگر هم پرچمی نمایش داده نشد و اشاره‌ای هم به انقلاب شیر و خورشید نشده
 @WarRoom</div>
-<div class="tg-footer">👁️ 96.6K · <a href="https://t.me/withyashar/24682" target="_blank">📅 19:23 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 98.6K · <a href="https://t.me/withyashar/24682" target="_blank">📅 19:23 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24681">
 <div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">مرد خردمند ، مارک لوین : مردم ایران را مسلح کنید!!!
 @WarRoom</div>
-<div class="tg-footer">👁️ 96.5K · <a href="https://t.me/withyashar/24681" target="_blank">📅 19:01 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 98.4K · <a href="https://t.me/withyashar/24681" target="_blank">📅 19:01 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24680">
@@ -937,14 +937,14 @@
 ..!!؟
 ‏تصاویری از فرود دو فروند هواپیمای ترابری C-17 گلوب‌مستر III نیروی هوایی آمریکا روی یک باند خاکی غیرمتعارف در محدوده تمرینی نِلیس
 @WarRoom</div>
-<div class="tg-footer">👁️ 97.7K · <a href="https://t.me/withyashar/24680" target="_blank">📅 18:47 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 99.8K · <a href="https://t.me/withyashar/24680" target="_blank">📅 18:47 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24679">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">الجزیره: ناو هواپیمابر روزولت به همراه گروه ضربت خود بعد از ترک اسکله سن دیگو همچنان به سمت خاورمیانه (غرب آسیا) در حرکت است
 @WarRoom</div>
-<div class="tg-footer">👁️ 96.6K · <a href="https://t.me/withyashar/24679" target="_blank">📅 18:42 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 98.1K · <a href="https://t.me/withyashar/24679" target="_blank">📅 18:42 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24678">
@@ -952,7 +952,7 @@
 <div class="tg-text">امشب مهلت ۴۵ روزه شورای عالی امنیت ملی برای برداشتن محاصره دریایی تموم میشه!
 محسن رضایی اعلام کرده بود اگر در پایان این ۴۵ روز محاصره برداشته نشه، بصورت نظامی و با زور محاصره رو میشکنیم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 98.7K · <a href="https://t.me/withyashar/24678" target="_blank">📅 18:37 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 100K · <a href="https://t.me/withyashar/24678" target="_blank">📅 18:37 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24677">
@@ -966,7 +966,7 @@
 </div>
 <div class="tg-text">صفحه فارسی وزارت امورخارجه اسرائیل با انتشار ویدیویی درباره ماجرای هواپیمای کیش‌ایر نوشت: حالا که بحث هواپیما داغه، بد نیست یادی کنیم از هواپیمای کیش‌ایر که ۳۱ سال پیش در مسیر تهران به کیش با ۱۷۴ سرنشین ربوده شد. وقتی سوخت هواپیما رو به اتمام بود و خطر سقوط وجود داشت، اسرائیل تنها کشوری بود که اجازه فرود به این هواپیما داد و جان سرنشینان رو نجات داد.جمهوری اسلامی هرگز نتونست پیوند میان دو ملت ایران و اسرائیل رو از بین ببره.
 @WarRoom</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/24677" target="_blank">📅 18:09 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/24677" target="_blank">📅 18:09 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24676">
@@ -974,14 +974,14 @@
 <div class="tg-text">رویترز: آمریکا مصر را نقره داغ کرد
 و به‌دلیل همکاری مصر در جنگ با ایران، شروط حقوق بشری (فراهم کردن شرایط نقض حقوق بشر) کمک نظامی به این کشور را کنار گذاشت. وزارت خارجه آمریکا تصمیم گرفته است شروط مربوط به رعایت حقوق بشر در مصر را برای تحویل تجهیزات نظامی به ارزش حدود ۳۰۰ میلیون دلار اعمال نکند. این تصمیم در پی نقشی اتخاذ شده که واشنگتن آن را «کمک‌کننده» توصیف کرده است؛ با این حال، جزئیات دقیق همکاری مصر مشخص نیست
 @WarRoom</div>
-<div class="tg-footer">👁️ 96.6K · <a href="https://t.me/withyashar/24676" target="_blank">📅 18:03 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 97.8K · <a href="https://t.me/withyashar/24676" target="_blank">📅 18:03 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24674">
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">عراقچی : سفیر بریتانیا در تهران به دلیل اتهاماتی که به ما در مورد حادثه در نزدیکی پایگاه ویرفورد وارد شده است، احضار شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 97.6K · <a href="https://t.me/withyashar/24674" target="_blank">📅 17:31 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 99.4K · <a href="https://t.me/withyashar/24674" target="_blank">📅 17:31 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24673">
@@ -991,14 +991,14 @@
 ترامپ:
 خوب است. رابطه‌ام با آنها بسیار خوب است و رابطه خوبی با ولیعهد دارم( پاسخ نمیدهد)
 @WarRoom</div>
-<div class="tg-footer">👁️ 99.7K · <a href="https://t.me/withyashar/24673" target="_blank">📅 17:05 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/24673" target="_blank">📅 17:05 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24672">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">ترامپ به تایم : خیلی‌ها می‌گویند جنگ با ایران بیش از حد طولانی شده، اما ما در جنگ‌های زیادی سال‌ها جنگیده‌ایم؛ در ویتنام سال‌ها حضور داشتیم، در افغانستان سال‌ها جنگیدیم و در کره هم سال‌ها آنجا بودیم. جنگ ایران حدود شش ماه است ادامه دارد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 99.7K · <a href="https://t.me/withyashar/24672" target="_blank">📅 17:02 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/24672" target="_blank">📅 17:02 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24671">
@@ -1006,7 +1006,7 @@
 <div class="tg-text">ترامپ درباره ادامه دار بود حمله به ایران به مجله تایم :
 من آنها را از بین بردم و می‌توانستم همان‌جا متوقف شوم، اما تصمیم گرفتم ادامه بدهم. وقتی سایت‌های هسته‌ای آنها را با بمب‌افکن‌های B-2 زدیم، آن تأسیسات زیر هزاران تن آوار قرار گرفتند. می‌توانستم همان‌جا متوقف شوم ، اما احساس کردم این کار درست نیست، چون آنها می‌توانستند به شکل دیگری دوباره فعالیت کنند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 99.6K · <a href="https://t.me/withyashar/24671" target="_blank">📅 16:59 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/24671" target="_blank">📅 16:59 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24670">
@@ -1016,7 +1016,7 @@
 ترامپ:
 نمی‌دانم. درباره او چیز بدی نشنیده‌ام. اما نباید نتانیاهو را دست‌کم گرفت. بارها او را کنار گذاشته‌شده تصور کرده‌اند، همان‌طور که بارها من را کنار گذاشته‌شده تصور کرده‌اند. من او را دست‌کم نمی‌گیرم
 @WarRoom</div>
-<div class="tg-footer">👁️ 95.6K · <a href="https://t.me/withyashar/24670" target="_blank">📅 16:56 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 97.4K · <a href="https://t.me/withyashar/24670" target="_blank">📅 16:56 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24669">
@@ -1024,7 +1024,7 @@
 <div class="tg-text">ترامپ درباره اسرائیل و ایران‌به مجله تایم :
 هدف اصلی من کمک به دفاع از اسرائیل است. ایران نمی‌تواند قدرت هسته‌ای داشته باشد، چون آنها دیوانه هستند و نمی‌توان اجازه داد افراد دیوانه سلاح هسته‌ای داشته باشند
 @WarRoom</div>
-<div class="tg-footer">👁️ 93.5K · <a href="https://t.me/withyashar/24669" target="_blank">📅 16:54 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 95.1K · <a href="https://t.me/withyashar/24669" target="_blank">📅 16:54 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24668">
@@ -1032,7 +1032,7 @@
 <div class="tg-text">رویترز:
 چین صادرات سوخت به خارج از هنگ‌کنگ و ماکائو را برای ماه اکتبر متوقف کرده است؛ این تصمیم در شرایط اختلال عرضه ناشی از جنگ ایران و حملات به پالایشگاه‌های روسیه، می‌تواند فشار بیشتری بر بازار جهانی سوخت وارد کند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 94.5K · <a href="https://t.me/withyashar/24668" target="_blank">📅 16:52 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 96.2K · <a href="https://t.me/withyashar/24668" target="_blank">📅 16:52 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24667">
@@ -1040,7 +1040,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ng64JLq9WIvh0WVNKSdy4xnSfqhF9-FpudpTQgDjnHSNYgILWohdYmVNqiT0rNhaDEEfROD0XhOczffuE5viOY_RqekT9lhWghteRbFL1yBHAFZggtZmZTNqRof-j4nfflDBkvz6pexHowxxlvVNbpi5fxhooiLbSYMY1-DF5OeEki4Wwq3KnHCmZ-Hk0iCqavknnGWeYV2s1P1wR8l023GCG04Wr_N3iD2VCJKKJHw9Km5as4kq5eH9vBvjNzbXiueKnq6sP3xjWzfpijnsibIvXeaDlci8a0jyCotSZRt9qctYci-vv76lKu95AsoIa2-3aMOy_xsE8asq-iASIQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سخنگوی ارتش اسرائیل: ارتش اسرائیل دو تروریست را که در حمله ۷ اکتبر به اسرائیل شرکت داشتند، از پای درآورد. یکی از آنها در حمله به کیبوتص بئری و ربودن ۶ نفر (شارون هرتسمن-آویگدوری، نوعام آویگدوری، عدی شوهم، نِوِه شوهم، یاهل شوهم و شوشان هاران) نقش داشت.
 @WarRoom</div>
-<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/24667" target="_blank">📅 16:50 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 97.5K · <a href="https://t.me/withyashar/24667" target="_blank">📅 16:50 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24666">
@@ -1048,14 +1048,14 @@
 <div class="tg-text">ترامپ در مصاحبه‌ با مجله تایم:
 هزینه‌های مربوط به جنگ ایران برای ما کمتر از درآمدی است که از نفت ونزوئلا در یک ماه به دست می‌آوریم
 @WarRoom</div>
-<div class="tg-footer">👁️ 93.5K · <a href="https://t.me/withyashar/24666" target="_blank">📅 16:41 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 95.2K · <a href="https://t.me/withyashar/24666" target="_blank">📅 16:41 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24665">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">ترامپ به مجله تایم : ممکن است ایران نابود شود ، این یک احتمال است چون احتمالا دارد پس از انتخابات میان‌دوره‌ای، حملات به ایران را بیشتر کنیم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 96.6K · <a href="https://t.me/withyashar/24665" target="_blank">📅 16:27 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 98K · <a href="https://t.me/withyashar/24665" target="_blank">📅 16:27 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24664">
@@ -1064,7 +1064,7 @@
 تحت یک فرآیند آموزش ایدئولوژیک افراطی
 قرار داشته است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 96.6K · <a href="https://t.me/withyashar/24664" target="_blank">📅 16:24 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 98.1K · <a href="https://t.me/withyashar/24664" target="_blank">📅 16:24 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24663">
@@ -1074,14 +1074,14 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 99.7K · <a href="https://t.me/withyashar/24663" target="_blank">📅 16:06 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/24663" target="_blank">📅 16:06 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24662">
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">نتانیاهو: «ظرف چند روز آینده متوجه میشم که آیا کمک‌خلبان ارتباطی با ایران داشته است یا خیر.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 98.6K · <a href="https://t.me/withyashar/24662" target="_blank">📅 15:59 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 100K · <a href="https://t.me/withyashar/24662" target="_blank">📅 15:59 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24661">
@@ -1090,7 +1090,7 @@
 بیتکوین ۸۳،۹۹۰
 نفت برنت : ۹۹،۸۰
 @WarRoom</div>
-<div class="tg-footer">👁️ 98.6K · <a href="https://t.me/withyashar/24661" target="_blank">📅 15:57 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 99.9K · <a href="https://t.me/withyashar/24661" target="_blank">📅 15:57 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24660">
@@ -1098,7 +1098,7 @@
 <div class="tg-text">دونالد ترامپ با روزنامه تایم: خبرنگار: آیا در نظر دارید که قبل از پایان دوره ریاست‌جمهوری خود، اعضای دولت خود را مورد عفو قرار دهید
 دونالد ترامپ: بله، قطعا این کار را خواهم کرد؛ جو بایدن که به خواب علاقه زیادی دارد، برای همه عفو صادر کرد؛ من بالاترین ضریب هوشی را دارم. من بالاترین را بین همگی دارم و بسیار خوب هستم
 @WarRoom</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/24660" target="_blank">📅 15:42 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/24660" target="_blank">📅 15:42 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24659">
@@ -1110,14 +1110,14 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/24659" target="_blank">📅 15:28 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/24659" target="_blank">📅 15:28 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24658">
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">ترامپ به مجله تایم : اگر من رئیس‌جمهور نبودم، امروز عربستان و اسرائیلی وجود نداشت
 @WarRoom</div>
-<div class="tg-footer">👁️ 93.5K · <a href="https://t.me/withyashar/24658" target="_blank">📅 15:15 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 95K · <a href="https://t.me/withyashar/24658" target="_blank">📅 15:15 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24657">
@@ -1135,7 +1135,7 @@
 شما را «شیطان بزرگ»
 ، و آنها به دنبال از بین بردن «شیطان بزرگ» هستند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/24657" target="_blank">📅 15:14 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 96.8K · <a href="https://t.me/withyashar/24657" target="_blank">📅 15:14 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24656">
@@ -1144,67 +1144,67 @@
 خبرنگار تایم از ترامپ پرسید: «ابتدا گفته بودید جنگ ایران حدود شش تا هشت هفته طول می‌کشد؛ اکنون وارد ماه هفتم شده‌ایم. چرا جنگ این‌قدر طولانی شده است؟»
 ترامپ پاسخ داد: «فقط به این دلیل که می‌خواستم جلوتر بروم. آن‌ها را از میدان خارج کردم و همان زمان می‌توانستم جنگ را متوقف کنم، اما می‌خواستم ادامه دهم.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/withyashar/24656" target="_blank">📅 15:12 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 93.3K · <a href="https://t.me/withyashar/24656" target="_blank">📅 15:12 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24655">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">ترامپ: ما سلاح‌های زیادی داریم و وضعیت ما عالی است. در حال حاضر، حجم زیادی از سلاح‌ها را ذخیره کرده‌ایم و آن‌ها را نگه داشته‌ایم و به متحدان خود توزیع خواهیم کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 92.5K · <a href="https://t.me/withyashar/24655" target="_blank">📅 15:06 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 93.8K · <a href="https://t.me/withyashar/24655" target="_blank">📅 15:06 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24654">
 <div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">رئیس جمهور ایران: آمریکا باید از این خیال پوچ که می‌تواند ما را از طریق ترور و آدم‌کشی وادار به تسلیم کند، دست بردارد. @WarRoom</div>
-<div class="tg-footer">👁️ 94.5K · <a href="https://t.me/withyashar/24654" target="_blank">📅 15:05 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 95.4K · <a href="https://t.me/withyashar/24654" target="_blank">📅 15:05 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24652">
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">دونالد ترامپ در مصاحبه با مجله تایم: وضعیت ایران بسیار وخیم است و اقتصاد آن‌ها در حال فروپاشی است. آن‌ها می‌خواهند یک توافق انجام دهند، اما من می‌خواهم یک توافق واقعی داشته باشم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/24652" target="_blank">📅 15:04 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 96.8K · <a href="https://t.me/withyashar/24652" target="_blank">📅 15:04 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24651">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">رئیس جمهور ایران: آمریکا باید از این خیال پوچ که می‌تواند ما را از طریق ترور و آدم‌کشی وادار به تسلیم کند، دست بردارد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 97.6K · <a href="https://t.me/withyashar/24651" target="_blank">📅 15:04 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 99.1K · <a href="https://t.me/withyashar/24651" target="_blank">📅 15:04 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24650">
 <div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">ترامپ درباره ایران : ایرانی‌ها پیشنهادی برای باز کردن تنگه هرمز ارائه کردند. من برخی از جنبه های آن را بررسی کردم، اما نه همه آن، اما به سادگی کافی نیست.‌‌
 @WarRoom</div>
-<div class="tg-footer">👁️ 99.6K · <a href="https://t.me/withyashar/24650" target="_blank">📅 15:03 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/24650" target="_blank">📅 15:03 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24649">
 <div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">مجله تایم: ترامپ احتمال افزایش حملات هوایی به ایران پس از انتخابات میان‌دوره‌ای را مطرح کرده است @WarRoom</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/24649" target="_blank">📅 15:02 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/24649" target="_blank">📅 15:02 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24648">
 <div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">مجله تایم: ترامپ احتمال افزایش حملات هوایی به ایران پس از انتخابات میان‌دوره‌ای را مطرح کرده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/24648" target="_blank">📅 14:57 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/24648" target="_blank">📅 14:57 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24647">
 <div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">در‌ انتظار‌ تایید : در همین لحظه خواهر عباس عراقچی، پری سادت عراقچی، (لواسانی)، رئیس انجمن دیپلماتیک بانوان وزارت خارجه، ریق رحمت را سر کشید و مرد @WarRoom دیروز شایعه مردن میرحسین موسوی هم پخش شد که تکذیب شد</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/24647" target="_blank">📅 14:26 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/24647" target="_blank">📅 14:26 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24646">
 <div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">وزارت خارجه امارات: دادستان کل دستور تشکیل تیم ویژه‌ای از دادستانی عمومی را برای تحقیق درباره حادثه پرواز فلای دبی و نقش احتمالی ایران صادر کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/24646" target="_blank">📅 13:32 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/24646" target="_blank">📅 13:32 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24645">
@@ -1213,7 +1213,7 @@
 <div class="tg-text">ترامپ گزارش نیویورک‌پست درباره هشدار اسکات بسنت درباره اقتصاد ایران رو بازنشر کرد.
 بسنت: احتمالا ظرف دو هفته چیزی از اقتصاد ایران باقی نمی ماند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/24645" target="_blank">📅 13:09 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/24645" target="_blank">📅 13:09 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24644">
@@ -1233,7 +1233,7 @@
 STRIKER، Scorpio 500 و Scorpio 1000
 برای شناسایی، عملیات در محیط‌های شهری و بسته که حملات دقیق با پهپادهای قابل‌بازیابی و گروه‌های پهپادی را شامل میشود
 @WarRoom</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/24644" target="_blank">📅 13:08 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/24644" target="_blank">📅 13:08 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24643">
@@ -1248,7 +1248,7 @@ STRIKER، Scorpio 500 و Scorpio 1000
 <div class="tg-text">سکانس پایانی تایتانیک…
 سکانس پایانی رژیم هم یه نوازنده ویلون نداشت که اومد…
 @WarRoom</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/24643" target="_blank">📅 12:36 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/24643" target="_blank">📅 12:36 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24642">
@@ -1266,7 +1266,7 @@ STRIKER، Scorpio 500 و Scorpio 1000
 «واقعاً چقدر ساده‌لوحانه است که فکر کنیم شعار «مرگ بر آمریکا» معنای دیگری دارد؟ سپاه پاسداران می‌گوید این شعار هیچ خصومتی با مردم آمریکا ندارد، اما هم‌زمان از آمریکایی‌ها می‌خواهد علیه دولت ترامپ موضع بگیرند. انتخابات آمریکا پیامد دارد؛
 ایران این را می‌داند، کارتل‌ها می‌دانند و چین هم می‌داند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/24642" target="_blank">📅 12:07 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/24642" target="_blank">📅 12:07 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24641">
@@ -1281,7 +1281,7 @@ STRIKER، Scorpio 500 و Scorpio 1000
 <div class="tg-text">‏درگیری مسلحانه شدید در زاهدان ادامه دارد ؛ صدای تیراندازی و شلیک آرپی‌جی
 ‏از حدود ساعت ۶ صبح درگیری مسلحانه میان نیروهای نظامی و امنیتی جمهوری اسلامی و افراد مسلح بومی در منطقه منزل‌آب زاهدان آغاز شده و همچنان ادامه دارد. صدای تیراندازی سنگین و شلیک آرپی‌جی از منطقه شنیده می‌شود و تاکنون گزارشی از شمار کشته‌ها یا مجروحان منتشر نشده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/24641" target="_blank">📅 11:58 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/24641" target="_blank">📅 11:58 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24640">
@@ -1289,13 +1289,13 @@ STRIKER، Scorpio 500 و Scorpio 1000
 <div class="tg-text">آسوشیتدپرس:
 ایران تأیید کرد پاسخ رسمی آمریکا به پیشنهاد تهران برای پایان جنگ را دریافت کرده است؛ جزئیات پاسخ هنوز منتشر نشده و موضع ترامپ درباره این طرح همچنان منفی است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/24640" target="_blank">📅 11:31 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/24640" target="_blank">📅 11:31 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24639">
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">در‌ انتظار‌ تایید : در همین لحظه خواهر عباس عراقچی، پری سادت عراقچی، (لواسانی)، رئیس انجمن دیپلماتیک بانوان وزارت خارجه، ریق رحمت را سر کشید و مرد @WarRoom دیروز شایعه مردن میرحسین موسوی هم پخش شد که تکذیب شد</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/24639" target="_blank">📅 11:01 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/24639" target="_blank">📅 11:01 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24638">
@@ -1303,7 +1303,7 @@ STRIKER، Scorpio 500 و Scorpio 1000
 <div class="tg-text">در‌ انتظار‌ تایید : در همین لحظه خواهر عباس عراقچی، پری سادت عراقچی، (لواسانی)، رئیس انجمن دیپلماتیک بانوان وزارت خارجه، ریق رحمت را سر کشید و مرد
 @WarRoom
 دیروز شایعه مردن میرحسین موسوی هم پخش شد که تکذیب شد</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/24638" target="_blank">📅 10:59 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/24638" target="_blank">📅 10:59 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24637">
@@ -1317,7 +1317,7 @@ STRIKER، Scorpio 500 و Scorpio 1000
 عربستان سعودی
 صادر کرده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/24637" target="_blank">📅 10:35 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/24637" target="_blank">📅 10:35 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24636">
@@ -1341,7 +1341,7 @@ STRIKER، Scorpio 500 و Scorpio 1000
 (منظور او از «بربرها» افراد بی تمدن و وحشی است
 )
 @WarRoom</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/24636" target="_blank">📅 10:06 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/24636" target="_blank">📅 10:06 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24635">
@@ -1400,7 +1400,7 @@ STRIKER، Scorpio 500 و Scorpio 1000
 سلاح‌های هسته‌ای و ابزارهای لازم برای رساندن آن به هر شهر آمریکا
 را توسعه دهند. این کار مدتی زمان خواهد برد، اما آنها در حال کار روی آن هستند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/24633" target="_blank">📅 09:23 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/24633" target="_blank">📅 09:23 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24632">
@@ -1418,7 +1418,7 @@ STRIKER، Scorpio 500 و Scorpio 1000
 ، به دنبال انجام حملاتی پیش از انتخابات هستند و ما شواهد روشنی در این زمینه داریم. اما اینکه
 حادثه فلای‌دبی نیز بخشی از این طرح بوده یا نه، هنوز نمی‌دانیم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/24632" target="_blank">📅 09:20 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/24632" target="_blank">📅 09:20 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24631">
@@ -1433,7 +1433,7 @@ STRIKER، Scorpio 500 و Scorpio 1000
 <div class="tg-text">نتانیاهو در گفت‌وگو با فاکس‌نیوز:
 به ریشه این حمله‌کننده خواهیم رسید؛ اینکه آیا همدستانی داشته و آیا ایران پشت این ماجرا بوده است. فکر می‌کنم خیلی زود مشخص خواهد شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/24631" target="_blank">📅 09:18 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/24631" target="_blank">📅 09:18 · 09 Mehr 1405</a></div>
 </div>
 
 <hr>
