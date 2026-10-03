@@ -292,20 +292,20 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-11 03:23:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-11 06:32:46</div>
 <hr>
 
 <div class="tg-post" id="msg-21430">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OC3i5pST81T0Bs3LYz5JPjnxK_bbp0YrxTQmMKXtXMtAvWV3ydqTlrFNb4inuTqx3geC_jli4fVUt42AzN_MWmfJx5i5KzKE0FEt3U5NW41nLBOcNZOD1dVp4BjH9-W3GYnCUKz7lPcThGMwfWKMyut7pqEvBkGuCwzAuSnxffD9LXXglYECypUXPbl5X2S0q-UNvpZPGnlcUwlMjCVuuUm1A6hlZFHxd9Na0YNkPUo5u_eDRjPfggaxD_StpSyFTGIyr-1rBjtrRPtPZH3gMAuCEFfaZoneUPHiiTyJiewAf9eykuah1HhNbwYd6WxQpCLU0qaKY-vFu1N6lnaXOg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی عجیب است.   خود ترامپ در مارس ۲۰۱۹ منطقه جولان را به عنوان بخشی از خاک اسراییل به رسمیت شناخته آن وقت سفیرش در ترکیه صحبت از «اشغال» جولان می‌کند!  حدس میزنم عمر سیاسی  — و شاید زیستی — تام باراک (که عرب تبار است) بزودی به پایان برسد.</div>
-<div class="tg-footer">👁️ 339 · <a href="https://t.me/SBoxxx/21430" target="_blank">📅 02:55 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.38K · <a href="https://t.me/SBoxxx/21430" target="_blank">📅 02:55 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21429">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">ادعای جدید ترامپ:  یکی از دلایل بمباران ایران، مقابله با مواد مخدر بود  به گفته رئیس جمهور ایالات متحده بمب‌ها مستقیما از مجراهای هوایی وارد "کارخانه‌های مواد مخدر" شدند.  ترامپ مدعی شد که در این تاسیسات فعالیت هسته‌ای و فعالیت مرتبط با مواد مخدر انجام می‌شد…</div>
-<div class="tg-footer">👁️ 3.77K · <a href="https://t.me/SBoxxx/21429" target="_blank">📅 22:36 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.16K · <a href="https://t.me/SBoxxx/21429" target="_blank">📅 22:36 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21428">
@@ -315,7 +315,7 @@
 به گفته رئیس جمهور ایالات متحده بمب‌ها مستقیما از مجراهای هوایی وارد "کارخانه‌های مواد مخدر" شدند.
 ترامپ مدعی شد که در این تاسیسات فعالیت هسته‌ای و فعالیت مرتبط با مواد مخدر انجام می‌شد و این "کارخانه‌های مواد مخدر و هسته‌ای" به‌شدت هدف قرار گرفتند.
 بر اساس گزارش رسانه‌های آمریکا این نخستین بار است که ترامپ به طور مستقیم از "کارخانه‌های مواد مخدر" در ایران به‌عنوان یکی از اهداف حملات هوایی آمریکا نام می‌برد.</div>
-<div class="tg-footer">👁️ 3.85K · <a href="https://t.me/SBoxxx/21428" target="_blank">📅 22:35 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.24K · <a href="https://t.me/SBoxxx/21428" target="_blank">📅 22:35 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21427">
@@ -329,25 +329,25 @@
 <a href="https://t.me/SBoxxx/21427" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">نشست لایو لغو شد.  در یک پادکست مفصل، خواهم کوشید اوضاع را از دید خودم بررسی کنم.</div>
-<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/SBoxxx/21427" target="_blank">📅 17:36 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/SBoxxx/21427" target="_blank">📅 17:36 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21424">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">حمله با سلاح سرد به یک روحانی در رشت؛ ضارب متواری است</div>
-<div class="tg-footer">👁️ 5.53K · <a href="https://t.me/SBoxxx/21424" target="_blank">📅 16:58 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.69K · <a href="https://t.me/SBoxxx/21424" target="_blank">📅 16:58 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21423">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">تا پیش از NFP به نظرم در همین باکسی که از پریروز تشکیل شده بازی کند. پس اکنون که در سقف باکس هستیم می توانیم با تارگت های 4155 و 4141 بفروشیم و استاپ را پشت همین باکس قرار بدهیم (حدود 4220)</div>
-<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SBoxxx/21423" target="_blank">📅 15:56 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/SBoxxx/21423" target="_blank">📅 15:56 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21422">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">به نظر می رسد برای موج 5، مدل سوریه و ایجاد جزیره های گریز از مرکز درون کشور برنامه ریزی شده ا ست.</div>
-<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SBoxxx/21422" target="_blank">📅 15:39 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SBoxxx/21422" target="_blank">📅 15:39 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21421">
@@ -360,20 +360,20 @@
 <a href="https://cdn4.telesco.pe/file/50fb5b5a1b.mp4?token=HHlpr3ACH9psyMfxnsbM0aNqRyi3zaV6QiPJC9bUdztwQeE7R8BsINS_Z0CcDSCl1qmVPvXMCINwDPV3lyVdB6HAWJcE3vRfB_dFtIrPnYBp4qb-gkki91pRXIbbB0MZhZyXlO49Y5H0OGaH_oEgJZE4w8cMlb3EIKIzTwySCiiHj9CsrPhjXWLzqO-goO-oZXXtll2dyqhQ2teBw6X58exyeQEAbuTVxM0-tTvdwMzIBPbGDTWiw65iA5tKgJIkXMkaC4dGbjZjQp4MmbBiQV-jDqyo07PyDHVYBrtW0qKH978w_IylEHqey89D-9I-Tp9AuOGwAEXCDEI9nvN3rQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">جانوران تبهکار Afro-Arab در فرانسه دوباره شورش کرده و در حال کشتار و آتش سوزی و ویرانگری هستند!</div>
-<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SBoxxx/21421" target="_blank">📅 15:37 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SBoxxx/21421" target="_blank">📅 15:37 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21420">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">جانوران تبهکار Afro-Arab در فرانسه دوباره شورش کرده و در حال کشتار و آتش سوزی و ویرانگری هستند!</div>
-<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SBoxxx/21420" target="_blank">📅 15:35 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/SBoxxx/21420" target="_blank">📅 15:35 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21419">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">واشنگتن پست:
 وزارت جنگ آمریکا برای اعزام 20 هزار نیروی نظامی دیگر ارتش آمریکا به خاورمیانه آماده می‌شود.</div>
-<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/21419" target="_blank">📅 13:11 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.27K · <a href="https://t.me/SBoxxx/21419" target="_blank">📅 13:11 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21418">
@@ -383,14 +383,14 @@
 برخی منابع از درگیری مسلحانه میان نیروهای امنیتی و عناصر گروهک تروریستی در یکی از روستاهای شهرستان راسک در جنوب سیستان‌ و بلوچستان خبر دادند.
 نیروهای امنیتی در حال پاکسازی منطقه و بررسی اوضاع هستند.
 تاکنون جزئیات بیشتری درباره وضعیت عناصر تروریستی منتشر نشده است.</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SBoxxx/21418" target="_blank">📅 12:37 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SBoxxx/21418" target="_blank">📅 12:37 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21417">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lxVQX2TE3DeroU9meLMlQ9BM7vMZF-5xFTPCOPioVIQF7tvrJX8dcdJ1NWvZZLGv0UcfGRNwDECIwvbGtaeIIvsFwBCiXeYOmMRqP1NYbRcVC22YdxtoUJNfC70RrbiUrKuDvHMPM6uwoXCNjOWIL5FHRiRQ8beaQ5UCZEGzwgb6SCe7-Gf8rss_W5ITGdZ7PR9nBqpCShafxy64IN8-Y7Wi1zFQvIB9MGtLnScX7OrRH0ztsaGTGkFamXl-sNM-J0W_ty4n_QB9XZ-lkVx2hjwXbjo6l4snlDQxLBoXrih0vYnTOafkZxOaQOhrwZZxK2UOAOtBOja0B2vyRhrQRw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تا پیش از NFP به نظرم در همین باکسی که از پریروز تشکیل شده بازی کند. پس اکنون که در سقف باکس هستیم می توانیم با تارگت های 4155 و 4141 بفروشیم و استاپ را پشت همین باکس قرار بدهیم (حدود 4220)</div>
-<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SBoxxx/21417" target="_blank">📅 11:37 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SBoxxx/21417" target="_blank">📅 11:37 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21416">
@@ -398,7 +398,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/poDyD_QevNYyeh_XHmLB6OM4U_eGejqeQxjoDKUQ3SwTDxDSEosEbDQkL6_BKJyAOfqiWPICPCjLNYyACamgEYMGiyFju-98Le0RzDGhw_hvUvbei4fgpUdbFVPftQa2XxG55zt4-VfjnIneMZOOgk_sO2I3gYoLnzh7PBwUKDCAauD-dUuiJt92nPAPNHDEDEFzv6R0AYhuZgaU47MKjler4Febxb38LcN6aumtkrGz-ZjDov8Pm-N3JZ2nZop_qIm9vKT8yh0Dxtz58SUJeXoJSWO2EPFAd9a55_KzRJvnO0Wp9b3tpWuj45rHN2_Vgm5ifp1TgwyaB2BX-aU6lw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#FairValueGap
 نمایه FVC هم تغییر خاصی نسبت به پریروز و دیروز نداشته است چون عملاً قیمت همانجایی است که دیروز بوده</div>
-<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SBoxxx/21416" target="_blank">📅 11:34 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/21416" target="_blank">📅 11:34 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21415">
@@ -406,25 +406,25 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hYNMo9Elyzz56QxwsTcd01u6rIIi94ag3RjTnYuYD0p-Smvi2kAXqj3kiSiAk8cyqIxPyENfCdRHVcv0xQTmxEJ1QXWJ7AJEm6GAXkcSj1cmJ0JwTvIYgC7umh8_ex27XTFuwDmMeitASte7zZ7EhdXUraiKfDFSwfeeDIQnLj_455KuhYkK8YrrisTLZztz6tNFJVUgS-1hrK_ukSZiTlotFiVlJQ-K6eYjxatSDhbtMSdIz08GOT7UX7qEke5OxVU91bYwHFVC-NF6SjoMw7QvVw0AOVuRX8wo0V07tN7dKPxc_j-0naEK-iE1Hj7EsPdyht4QkZyV_z_nEaMPpg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک + تقویم اقتصادی برای امروز در سطح متوسط به بالا قرار دارد.</div>
-<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/SBoxxx/21415" target="_blank">📅 11:32 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/SBoxxx/21415" target="_blank">📅 11:32 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21414">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">اگر دوباره به پایین برگشت، تنها روی محدوده دوم ۴۱۴۸ ورود مجاز است.</div>
-<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/21414" target="_blank">📅 09:43 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SBoxxx/21414" target="_blank">📅 09:43 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21413">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">شخصی قصد انجام عملیات انتحاری در مسجدالحرام داشته که کمربند انفجاری وی فعال نمی شود و توسط نیروهای امنیتی سعودی دستگیر شد</div>
-<div class="tg-footer">👁️ 5.75K · <a href="https://t.me/SBoxxx/21413" target="_blank">📅 00:59 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.77K · <a href="https://t.me/SBoxxx/21413" target="_blank">📅 00:59 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21412">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">شخصی قصد انجام عملیات انتحاری در مسجدالحرام داشته که کمربند انفجاری وی فعال نمی شود و توسط نیروهای امنیتی سعودی دستگیر شد</div>
-<div class="tg-footer">👁️ 5.43K · <a href="https://t.me/SBoxxx/21412" target="_blank">📅 00:50 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.44K · <a href="https://t.me/SBoxxx/21412" target="_blank">📅 00:50 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21411">
@@ -437,7 +437,7 @@
 <a href="https://cdn4.telesco.pe/file/51530cf576.mp4?token=KaZSmvxMXNTZp4oF_8pEEGnkBTIB6EcRKsask1QSS0UkMGhhM3bNljTJ8rXL3Sxd3hSYJOv2mqURIsgh8KD61dTZQV8Qjp0DS4IxWYhaLcIDOKOS3tHNnoW-5y79bsH_dxSW31_Xo3TDXk03F3X8GFYR8v5PrUR8u3Nab70qVO8Cm8XTBXk-jF5i86YiKpOtkpf-M2BjsmSEmV1RabiiYtHmWJJLB5f7yThYtnKR4RGhvyBUOF44ATZUZ_RDsScNLlFMRRCslBg8hNri4fWJQ3uQWw08ZdhDzXXhbO1Ped4CFOKxZ7YQ5mGhjhvWjH7nppcWj5Nr9DqA-i-zlOkuPg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">شخصی قصد انجام عملیات انتحاری در مسجدالحرام داشته که کمربند انفجاری وی فعال نمی شود و توسط نیروهای امنیتی سعودی دستگیر شد</div>
-<div class="tg-footer">👁️ 5.92K · <a href="https://t.me/SBoxxx/21411" target="_blank">📅 00:37 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.93K · <a href="https://t.me/SBoxxx/21411" target="_blank">📅 00:37 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21410">
@@ -446,33 +446,33 @@
 «آیا ایران در حادثه پایگاه هوایی فرفورد دخالت داشت؟»
 ترامپ:
 «به نظر می‌رسد که بله.»</div>
-<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/SBoxxx/21410" target="_blank">📅 00:18 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/SBoxxx/21410" target="_blank">📅 00:18 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21409">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">ادعای وزیر خزانه‌داری آمریکا:
 جمهوری اسلامی در یکماه گذشته حتی یک قطره نفت هم نفروخته است!</div>
-<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/SBoxxx/21409" target="_blank">📅 23:50 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SBoxxx/21409" target="_blank">📅 23:50 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21408">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">هدف قرار گرفتن شرکت آرامکو در شهر ینبع عربستان</div>
-<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/SBoxxx/21408" target="_blank">📅 23:35 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.49K · <a href="https://t.me/SBoxxx/21408" target="_blank">📅 23:35 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21407">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">مقام ایرانی:
 ادعاهای بلومبرگ در مورد پیشنهاد هسته‌ای ارائه شده توسط ایران به طرف آمریکایی در جریان گفتگوها با میانجی‌گران نادرست است</div>
-<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SBoxxx/21407" target="_blank">📅 23:32 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SBoxxx/21407" target="_blank">📅 23:32 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21406">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">سوپرنفتکش ۲.۵ میلیون بشکه‌ای در تنگه هرمز هدف قرار گرفت</div>
-<div class="tg-footer">👁️ 5.48K · <a href="https://t.me/SBoxxx/21406" target="_blank">📅 23:02 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.53K · <a href="https://t.me/SBoxxx/21406" target="_blank">📅 23:02 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21405">
@@ -481,32 +481,32 @@
 معاون وزیر ارتباطات
 :
 اگر استفاده از استارلینک گسترده شود ، در مواقع بحران مجبوریم تمام برق را قطع کنیم تا مودم های استارلینک هم از کار بیفتد؛ چراکه حکمرانی اینترنت را نخواهیم داشت</div>
-<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/SBoxxx/21405" target="_blank">📅 23:00 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.59K · <a href="https://t.me/SBoxxx/21405" target="_blank">📅 23:00 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21404">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">مقامات ایالات متحده به الجزیره:  ناو هواپیمابر یو‌اس‌اس تئودور روزولت به همراه گروه ضربتی خود، پایگاه سن دیگو را ترک کرده و به سمت خاورمیانه در حرکت است.  تا پایان نوامبر، ۳ ناو هواپیمابر و ۲ گروه ویژه حملات آبی-خاکی در اطراف ایران مستقر خواهند شد.</div>
-<div class="tg-footer">👁️ 5.51K · <a href="https://t.me/SBoxxx/21404" target="_blank">📅 20:35 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/SBoxxx/21404" target="_blank">📅 20:35 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21403">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">ترامپ:  به زودی با حمله به ایران، ما صلح را در جهان ایجاد خواهیم کرد.</div>
-<div class="tg-footer">👁️ 5.72K · <a href="https://t.me/SBoxxx/21403" target="_blank">📅 18:27 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.73K · <a href="https://t.me/SBoxxx/21403" target="_blank">📅 18:27 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21402">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">ترامپ:
 به زودی با حمله به ایران، ما صلح را در جهان ایجاد خواهیم کرد.</div>
-<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/SBoxxx/21402" target="_blank">📅 18:21 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.64K · <a href="https://t.me/SBoxxx/21402" target="_blank">📅 18:21 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21401">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">به نظر می رسد محاصره شهر راهبردی تعز در یمن از سوی حوثی ها تکمیل شده و کار نیروهای مورد حمایت سعودی در این شهر به پایان خود نزدیک می‌شود</div>
-<div class="tg-footer">👁️ 5.55K · <a href="https://t.me/SBoxxx/21401" target="_blank">📅 17:12 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.59K · <a href="https://t.me/SBoxxx/21401" target="_blank">📅 17:12 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21400">
@@ -518,14 +518,14 @@
 <div class="tg-post" id="msg-21399">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">#FairValueCurve  نمایه FVC تغییر خاصی نسبت به دیروز نداشته.  محدوده های مناسب خرید:  4165 4148  تارگت ها:  4187 4213</div>
-<div class="tg-footer">👁️ 5.43K · <a href="https://t.me/SBoxxx/21399" target="_blank">📅 15:21 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.44K · <a href="https://t.me/SBoxxx/21399" target="_blank">📅 15:21 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21398">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M7BNn-KpRbesJjWvOsEcIYpHpkyr_U77RH6dWpUm1NByVosLfS9cfiFnwAQ2qJKc1mT7xocs_eFXrWHM9u4CNO7t4fDGN6F2iiQ-v53DQ0MJYRssr3Fzif2-rWBkZDtRRpcgp1PI_dq6HVXi7juBqGRbZEhFN4bTZ_A5wMTitKGMZE_SoXHAeUE05xJ8_GszkGJ7RJXCfb3LvY8Vu148kysbO5fcFIYL6ghaq3_vAfQWUG96Gtd_0OncfSDiWHnHupM7hKA71MAYpGKx2PzGLCzxsAuqHfwOh7DsIhrZQXw1XOkP32c0bFpEKTVypWj81SGaaS985PToVwmL5TxdxA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پیآمدهای نظامی امپراتوری ایلان ماسک</div>
-<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SBoxxx/21398" target="_blank">📅 14:53 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.42K · <a href="https://t.me/SBoxxx/21398" target="_blank">📅 14:53 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21397">
@@ -580,7 +580,7 @@ October 1, 2026
 📌
 کانال ما :
 @cyclicalwaves</div>
-<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SBoxxx/21395" target="_blank">📅 12:09 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/21395" target="_blank">📅 12:09 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21394">
@@ -592,7 +592,7 @@ October 1, 2026
 <div class="tg-post" id="msg-21393">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">به نظر می رسد برای موج 5، مدل سوریه و ایجاد جزیره های گریز از مرکز درون کشور برنامه ریزی شده ا ست.</div>
-<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SBoxxx/21393" target="_blank">📅 10:37 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/21393" target="_blank">📅 10:37 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21392">
@@ -606,7 +606,7 @@ October 1, 2026
 تارگت ها:
 4187
 4213</div>
-<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SBoxxx/21392" target="_blank">📅 10:35 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SBoxxx/21392" target="_blank">📅 10:35 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21391">
@@ -614,20 +614,20 @@ October 1, 2026
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qwUT72IyZdm7lQ_4Hiw40K9mJ0inj5jhu5ET-0qwTHjwcXcItM_KIC_5kDOg2p_P8oUM-VvJ0xVSE_ngaUsw0DEulx5kxm1I89aJFu-RdK2IlXXGQ5o_voKaTkC61bmjuzFyZV2Kdf82JfSA66tcRXLe3cn7FoQFu5rLCCbLc-TlfqIXx6qVBbj05GECaP0hRJ4Riowk_ziqWbeJVBm5zEcUxL8TZyZnBHdRQF5dWql2fAjOXQYSDqaJUpsFhpmCtPcE-4yAZ_YxRN8Z8P7krZSbK9waEEEJWmRg5K7K3d6D0f-jDzGqPTtzRMy0KoHFwqgoKs8zvWrRFAGKU_Zfdw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک + تقویم اقتصادی برای امروز در سطح پایینی قرار دارد و خرید در اصلاحی ها توصیه می شود.</div>
-<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SBoxxx/21391" target="_blank">📅 10:30 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SBoxxx/21391" target="_blank">📅 10:30 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21390">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">اکسیوس:     روبیو روز دوشنبه پس از توقف مذاکرات، از هیئت ایرانی خواست فوراً نیویورک را ترک کند.</div>
-<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/SBoxxx/21390" target="_blank">📅 10:04 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.07K · <a href="https://t.me/SBoxxx/21390" target="_blank">📅 10:04 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21389">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">اکسیوس:
 روبیو روز دوشنبه پس از توقف مذاکرات، از هیئت ایرانی خواست فوراً نیویورک را ترک کند.</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SBoxxx/21389" target="_blank">📅 10:03 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SBoxxx/21389" target="_blank">📅 10:03 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21388">
@@ -653,7 +653,7 @@ October 1, 2026
 📌
 کانال ما :
 @cyclicalwaves</div>
-<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/21387" target="_blank">📅 09:19 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SBoxxx/21387" target="_blank">📅 09:19 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21386">
@@ -691,7 +691,7 @@ October 1, 2026
 <div class="tg-post" id="msg-21382">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ssWlFrjuWGnF9VkdLgEb2skAeGw4mDCX6LXSCKnsJY_uaM2jpq54DyoSR2LZz-VmJELpmLuQMIZy4Is8liEQc2ICq_w9t7DBfBviK0_dwk81DIRyqi1s8HJjTLkgs30J9OFu6b3Lpav3YzeXo6nZBKi6m6nwx9BOGL1S4OOpKV-sm2yE8MV-zhdE9AVVuASRdaFhvfZiNifx8hMJM5giwIbGzkJVQS-CafCA_vW6Z77_RifQOFYZd3zNFhm9tE1dc3C3gFjEMiEHrQpN_Wu7hkt38SHM--DXTrteM4J1Xek9SESt43vje3yAMQLApjJrXGSHiqaJXriHviesYAZ0rQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/SBoxxx/21382" target="_blank">📅 19:56 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/SBoxxx/21382" target="_blank">📅 19:56 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21381">
@@ -766,14 +766,14 @@ October 1, 2026
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZbsfOu8owz-DUFtdqX-OVMinkK-mgG7GR7OZ5OO-JJJKRXIWBc8E3bbVwD0uYlU7nBUGcfgC9cdZ74e8Rdb2iLpqerDKjtEJMPmHyMpt5bUJSEKBsBohoo2qrSwwh_eyyXtAtaXXog3EE4-quCRAUTwZmHJzYbvnuI57-77mSb4OthRrCKeZ1_KKd4Eddi_B-i65MvjFzzzNlIXO8kgvEom0o0ueWVnmurot6A9F41rwRG1nfb0wJ8tbHwywiSVfLHhdUJSvbU5d8RbBvfIUWqB7P5H5eSHopBl9yVM0jodEGDrYGQlZ4ZSjcdJVIU2JXlnf5UrzGl0dhyqn6eZW_g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مسیر احتمالی طلا تا آخر هفته</div>
-<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SBoxxx/21370" target="_blank">📅 18:43 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SBoxxx/21370" target="_blank">📅 18:43 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21369">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WP34FspBL6iBvwtm3n0WTTnpKJtbFweVRj7f_nrpPhz6IDf9kOjkuk0oPVAcw7RoHA1ENupGmOLWsfDMCpsgbqKgicemGV_PlhMpGeo2FoiHWa91fNeskPBrdl32491eJCqHHucjhtgNHD0qjYq5-c1HUOmTYOgeVqAQM1VhfNXieKlq7wn-Js3j_96PMLfVbyl6AuVOJ8kANF50d4b01B5BopVRTk2Dj7Hkp1zpz7t2sYdz194-CMwidLRJNAzklTvleJLm-pA5p0v0qXRIEKTztUGX3JAwjWx1DM_cdJE8fqJVL2V_1j3jshILZM2eyyaytUBTS5dUh7Dte79ydg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جدول سناریوهای قیمتی</div>
-<div class="tg-footer">👁️ 4.83K · <a href="https://t.me/SBoxxx/21369" target="_blank">📅 18:23 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SBoxxx/21369" target="_blank">📅 18:23 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21367">
@@ -793,7 +793,7 @@ October 1, 2026
 <div class="tg-post" id="msg-21366">
 <div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">حمله دوباره یمنی ها به تاسیسات نفتی آرامکو</div>
-<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SBoxxx/21366" target="_blank">📅 18:07 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SBoxxx/21366" target="_blank">📅 18:07 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21365">
@@ -819,7 +819,7 @@ October 1, 2026
 <div class="tg-post" id="msg-21363">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">⁨ پاسخ همتی به وزیر خزانه داری آمریکا:   جوجه رو آخر پاییز می‌شمارند!</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SBoxxx/21363" target="_blank">📅 17:20 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SBoxxx/21363" target="_blank">📅 17:20 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21362">
@@ -832,7 +832,7 @@ October 1, 2026
 <div class="tg-post" id="msg-21361">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">رسانه‌های اسرائیلی گزارش می‌دهند که هواپیمای شرکت FlyDubai دارای یک خلبان روسی و یک کمک‌خلبان اوکراینی بوده است، که ممکن است دلیل درگیری ایجاد شده باشد.</div>
-<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SBoxxx/21361" target="_blank">📅 17:16 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SBoxxx/21361" target="_blank">📅 17:16 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21360">
@@ -846,7 +846,7 @@ October 1, 2026
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">فلایت‌رادار از تغییر مسیر یک پرواز دیگر شرکت «فلای‌دبی» به مقصد اسرائیل خبر می‌دهد
 بر اساس این گزارش، هواپیما در حال بازگشت به دبی است</div>
-<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SBoxxx/21359" target="_blank">📅 14:47 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/SBoxxx/21359" target="_blank">📅 14:47 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21358">
@@ -858,7 +858,7 @@ October 1, 2026
 <div class="tg-post" id="msg-21357">
 <div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">فردا ساعت ۱۳:۳۰ با نیما درباره آخرین تحولات مربوط به جنگ گفتگو خواهیم کرد  لینک تماشای نشست Live</div>
-<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/SBoxxx/21357" target="_blank">📅 13:21 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/SBoxxx/21357" target="_blank">📅 13:21 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21356">
@@ -1001,7 +1001,7 @@ September 30, 2026
 <div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">کاپیتان شهبازی:
 با ۲۵ سال سابقه میگویم؛ علت این حادثه این بود که سوخت هواپیما گران شده و تصمیم گرفته شد در مقصد نزدیک تر فرود صورت بگیرد تا در مصرف سوخت صرفه جویی بشود</div>
-<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/SBoxxx/21343" target="_blank">📅 10:23 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SBoxxx/21343" target="_blank">📅 10:23 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21342">
@@ -1025,7 +1025,7 @@ September 30, 2026
 <div class="tg-post" id="msg-21339">
 <div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">هواپیماربایی در مسیر امارات—اسراییل!</div>
-<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/SBoxxx/21339" target="_blank">📅 10:14 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.53K · <a href="https://t.me/SBoxxx/21339" target="_blank">📅 10:14 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21338">
@@ -1064,7 +1064,7 @@ September 30, 2026
 <div class="tg-post" id="msg-21333">
 <div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">روس‌ها همیشه موقع مذاکره ایران با آمریکا کرم میریزند</div>
-<div class="tg-footer">👁️ 5.65K · <a href="https://t.me/SBoxxx/21333" target="_blank">📅 00:07 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.66K · <a href="https://t.me/SBoxxx/21333" target="_blank">📅 00:07 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21332">
