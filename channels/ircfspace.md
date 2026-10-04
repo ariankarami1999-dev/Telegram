@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-12 01:05:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-12 03:45:05</div>
 <hr>
 
 <div class="tg-post" id="msg-2638">
@@ -308,7 +308,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/ircfspace/2638" target="_blank">📅 19:42 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/ircfspace/2638" target="_blank">📅 19:42 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2637">
@@ -326,7 +326,7 @@ github.com/nexora-vpn/panel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/ircfspace/2637" target="_blank">📅 19:26 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/ircfspace/2637" target="_blank">📅 19:26 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2635">
@@ -343,7 +343,7 @@ theverge
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/ircfspace/2635" target="_blank">📅 19:09 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/ircfspace/2635" target="_blank">📅 19:09 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2634">
@@ -358,7 +358,7 @@ theverge
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/ircfspace/2634" target="_blank">📅 18:57 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/ircfspace/2634" target="_blank">📅 18:57 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2633">
@@ -437,7 +437,7 @@ Hamed
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/ircfspace/2629" target="_blank">📅 07:37 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/ircfspace/2629" target="_blank">📅 07:37 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2628">
@@ -471,7 +471,7 @@ GrizzlyBTCloverr
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/ircfspace/2627" target="_blank">📅 20:16 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/ircfspace/2627" target="_blank">📅 20:16 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2626">
@@ -516,7 +516,7 @@ leakfarsi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/ircfspace/2623" target="_blank">📅 20:05 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/ircfspace/2623" target="_blank">📅 20:05 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2622">
@@ -1595,7 +1595,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 50.7K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.8K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -1820,7 +1820,7 @@ manageit
 
 <div class="tg-post" id="msg-2541">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/pvmRe4NGdApvJJLvZMSH3crZQxsokg_N8uIDLdTK4Hybrk-fpEvqr8uWspeB-bcwIZpVMzgbMESVKIXCT2wdm6NHLUPx8jxvPhGWnYWTDA29ku6Ab0kOJgMQQjnX90kRBMQGx7GzPPnRGV2O6IogF_K9vonQto5Z0pgLEvrWCW794zrgKMItNZPqmSlmrqvu0756u27IUFfTvTgbSU2BbKHQ0QdLN1XbujmRZhYuKogaqvcHOswUpPYIFV-5tiSWJBqBJAXpjDO3C257VzLQMWNWbzWP5crYZ4Uj4x4-gIPSP552vVCCqO7lwBmaffQr3wzsB5P3VyIEiU3ZQYpaxA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FckiZaymqB1fWAcL6i3jv4LDyO0NTV2c5RGwE1_iaZeqfPd-PbBNydzH3zBkvnftyCmni_JPc92m2m3zHDQ3Zdcn06U5AVoh1slL9ExlO2te1JHb3wO3W1l3BXi4a0AODB4sriI0wChk-nE1FWYpBqhaUFw-ZR1-GY47ewRzFlNXBEa9Y48GmZSZErBw_Xj3kwqNvEx13dC_ZDynid7Z7YxSNzKZ04qKJc6tF2c46M3vOJ8zLSmTkjCfVuKfBDoufzc3L9Om5MFI_0CqLLlGoGVf-h4OQtulwjkQb3-ww6R5qxnlTFXV-YzSW4-F7RmnwWyZ2OGLJYDeUHh_eNnbHQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باورم نمیشد که بعد از ۸۸ روز قطع سراسری اینترنت به جای اینکه بیرون بندازنشون، به نمایندگان حکومت تریبون دادن که در اجلاس جهانی اینترنت سخنرانی کنن؛ بعد دیدم این اجلاس در چین برگزار شده!
 روابط عمومی وزارت قطع‌ارتباطات گفته نمایندگان جمهوری اسلامی در پنل‌های تخصصی اجلاس جهانی اینترنت که دیروز برگزار شد، مجموعه‌ای از پیشنهادهای راهبردی برای توسعه همکاری‌های جهانی در حوزه‌های اقتصاد دیجیتال، هوش مصنوعی، امنیت سایبری، خدمات ابری و تاب‌آوری زیرساخت‌های ارتباطی ارائه کردن.
 🔗
@@ -1914,7 +1914,7 @@ github.com/shapeshed/aerial/releases
 
 <div class="tg-post" id="msg-2535">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IoDI_3qaPtRt2Higz62dZcKcfkxYtbD6L-O8EL1X4N1S10JQZmmGGepy3GNb39-29H6gjkJ5q4qjO2c-KYGT3p8zoNSZa-_vnFB-6nckaPuxXFMdIKPs_K7heGN0Ufnp2vScqJSsma1glIHb0J9E7wxD3M5lx-psXe4buo5y0x1vJBmegBUYO8lpYmPCM4vhn9YkWBNs0Rvwhcdx1GuA-gAi-5jVUQB5BaZAkgW0Y6FtNOMFiiOP8r6tOs7s9ArrpvX4lKUAW0kG7f3NEHEh65I8JbJQ6gi6zJhIS2_eCfV4A2MXvqX8mNjlIqsyA8HeyWcHoSTMch46r3MEvrOYYg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/p6qMOBlCFmXRjqMvfT1Ss9WP01QcNduIRb9d3MhMQ5khxdzs0l1S9ZxY4i6aILwyVlBjP60TQFA3BDXkaFO5Z6b6WeclnO_xVILcSAxKrdKHXItjCwIE3feRvEYsM2xY5vArFLcuw_jY2Zy2rXKBgk8EljOJsUpYMa7SV1LTdpyw18OPoNmHN8W62sa5ufqMNsk1C_oY7tTX62vfYfLJiQXjJbo0q2HHZKRQKWILhAi7zzyE4FS1vDDlJghHGBtWifagUvMLLswrBuug2QRAatC8qDM2DeRO76mhwKkM3rAnomJ7s1QPl-lFZhJCbjv_ij66uIUKa6MWPWfa1R0kag.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی از راه‌ها مخفی‌کردن صورت مسئله، اینه که چندهفته پیام خطا نمایش بدی!
 ©
 AmirMahdi
