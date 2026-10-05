@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/jXIYav4D_SjO_lEOvA3YbmkCBpoktP-s9aVERQYmH87SLROFAxpC2ppuJE1pWppo_2nUsgcPFb4decgLrVniL3vyDerOwvMFXUQq3XghT4cTikF6pZnvqSapSqBE2bZ8jri9u5DKWaJpBUuRS000uf2veipC_OGpObw3gIJk--1uC7-wVioNnfOxcaTLjI-3mb2JdyJVVouu9StJPeBEWFOKuEFStdR0IvFpnf5zqW1iK1GjXzw2jlyLCNi0AyoRh3o-gui6cSnWnNwWZP_90KotIJY-kvYES25PJjg-w1AFlThoeFqb2AeZtahG_y4leZwN_9FIjIPv-X1F3ub4qQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/t_iq3yu-nitKXYX0uLOG58WkVL3GreOzULcH148j0odTLhIrlS51gmG3ge8ZJgnkFYNoSy5BQ5zn5cBIu9k_3zgfLH_WerVpoWyWu5N8PTYwSlvAhsMtiXw8ngXr4XjjcQ6Cf9PnRtNivXF1iJ353wBWeRR1TvXPFiNRgRiXHYoej-1qqu9R7iJqJluDQixyzEOX2LysCEWEo7PcHgX4Cmrobl3uIPHExjY4jHJqFCT20EYoWT535BCdhUnAHsBB2CszoSaCDnPe68zhQZ53hd-z3eyafWdKvdmGg3dznXly3QNKXZys8s8Ck2tJv3d4NdPpfDJA2rBld0guc-nH2g.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
 <p>@iaghapour • 👥 51.4K عضو</p>
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-13 02:51:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-13 05:41:06</div>
 <hr>
 
 <div class="tg-post" id="msg-3093">
@@ -323,7 +323,7 @@ arnovps.com
 پشتیبانی تلگرام :
 💬
 @ARNO_VPS</div>
-<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/iaghapour/3093" target="_blank">📅 21:05 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/iaghapour/3093" target="_blank">📅 21:05 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3092">
@@ -349,7 +349,7 @@ KillSec
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/iaghapour/3092" target="_blank">📅 20:29 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/iaghapour/3092" target="_blank">📅 20:29 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3091">
@@ -382,7 +382,7 @@ Deep Think
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.93K · <a href="https://t.me/iaghapour/3091" target="_blank">📅 17:51 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.03K · <a href="https://t.me/iaghapour/3091" target="_blank">📅 17:51 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3090">
@@ -426,7 +426,7 @@ KlingAI
 |
 👍
 رضایت مشتریان</div>
-<div class="tg-footer">👁️ 8.35K · <a href="https://t.me/iaghapour/3090" target="_blank">📅 21:01 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.4K · <a href="https://t.me/iaghapour/3090" target="_blank">📅 21:01 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3089">
@@ -455,7 +455,7 @@ FleetPanel
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.17K · <a href="https://t.me/iaghapour/3089" target="_blank">📅 20:50 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.22K · <a href="https://t.me/iaghapour/3089" target="_blank">📅 20:50 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3082">
@@ -486,7 +486,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/3081" target="_blank">📅 19:05 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/iaghapour/3081" target="_blank">📅 19:05 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3078">
@@ -528,7 +528,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-3074">
 <div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/iaghapour/3074" target="_blank">📅 20:47 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/3074" target="_blank">📅 20:47 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3073">

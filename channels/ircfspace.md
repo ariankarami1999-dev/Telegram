@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-13 02:51:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-13 05:41:06</div>
 <hr>
 
 <div class="tg-post" id="msg-2644">
@@ -310,7 +310,7 @@ play.google.com/store/apps/details?id=com.psiphon3
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 8.02K · <a href="https://t.me/ircfspace/2644" target="_blank">📅 23:38 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.81K · <a href="https://t.me/ircfspace/2644" target="_blank">📅 23:38 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2643">
@@ -326,7 +326,7 @@ mahsanet
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 9.9K · <a href="https://t.me/ircfspace/2643" target="_blank">📅 23:31 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/ircfspace/2643" target="_blank">📅 23:31 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2642">
@@ -350,7 +350,7 @@ github.com/patterniha/PattN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 9.11K · <a href="https://t.me/ircfspace/2642" target="_blank">📅 23:19 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.77K · <a href="https://t.me/ircfspace/2642" target="_blank">📅 23:19 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2640">
@@ -367,7 +367,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/ircfspace/2640" target="_blank">📅 23:05 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/ircfspace/2640" target="_blank">📅 23:05 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2639">
@@ -385,7 +385,7 @@ github.com/GFW-knocker/MahsaNG/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/ircfspace/2639" target="_blank">📅 08:22 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/ircfspace/2639" target="_blank">📅 08:22 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2638">
@@ -401,7 +401,7 @@ github.com/GFW-knocker/MahsaNG/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/ircfspace/2638" target="_blank">📅 19:42 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/ircfspace/2638" target="_blank">📅 19:42 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2637">
@@ -419,7 +419,7 @@ github.com/nexora-vpn/panel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/ircfspace/2637" target="_blank">📅 19:26 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/ircfspace/2637" target="_blank">📅 19:26 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2635">
@@ -436,7 +436,7 @@ theverge
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/ircfspace/2635" target="_blank">📅 19:09 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/ircfspace/2635" target="_blank">📅 19:09 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2634">
@@ -451,7 +451,7 @@ theverge
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.6K · <a href="https://t.me/ircfspace/2634" target="_blank">📅 18:57 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/ircfspace/2634" target="_blank">📅 18:57 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2633">
@@ -468,7 +468,7 @@ bleepingcomputer
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/ircfspace/2633" target="_blank">📅 19:03 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/ircfspace/2633" target="_blank">📅 19:03 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2632">
@@ -484,7 +484,7 @@ ArminSoleimany
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/ircfspace/2632" target="_blank">📅 18:56 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/ircfspace/2632" target="_blank">📅 18:56 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2631">
@@ -501,7 +501,7 @@ Hamed
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/ircfspace/2631" target="_blank">📅 18:51 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/ircfspace/2631" target="_blank">📅 18:51 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2630">
@@ -517,7 +517,7 @@ Hamed
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/ircfspace/2630" target="_blank">📅 18:46 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/ircfspace/2630" target="_blank">📅 18:46 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2629">
@@ -530,7 +530,7 @@ Hamed
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/ircfspace/2629" target="_blank">📅 07:37 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/ircfspace/2629" target="_blank">📅 07:37 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2628">
@@ -545,7 +545,7 @@ Hamed
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/ircfspace/2628" target="_blank">📅 21:06 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/ircfspace/2628" target="_blank">📅 21:06 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2627">
@@ -564,7 +564,7 @@ GrizzlyBTCloverr
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24K · <a href="https://t.me/ircfspace/2627" target="_blank">📅 20:16 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/ircfspace/2627" target="_blank">📅 20:16 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2626">
@@ -592,7 +592,7 @@ GrizzlyBTCloverr
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/ircfspace/2625" target="_blank">📅 20:09 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/ircfspace/2625" target="_blank">📅 20:09 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2623">
@@ -609,7 +609,7 @@ leakfarsi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/ircfspace/2623" target="_blank">📅 20:05 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/ircfspace/2623" target="_blank">📅 20:05 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2622">
@@ -654,7 +654,7 @@ leakfarsi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/ircfspace/2620" target="_blank">📅 19:47 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/ircfspace/2620" target="_blank">📅 19:47 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2619">
@@ -669,12 +669,12 @@ leakfarsi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/ircfspace/2619" target="_blank">📅 07:48 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/ircfspace/2619" target="_blank">📅 07:48 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2618">
 <div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Q5QgAvcDYfx1UGP6sHuJg8o2cJxYp-CYfBiNMJjC5c1mf-ch0r8DpHrY6BGnI7d4sExm6QU1RohLE33jTfDxEiOoNucN3wL4FWYP3Z7x4TYK-7bI4DgC1Dor9avoIGy2Iy5XM17IMMGZmIaPCa4QpoTf5dr-cDcGSJPQVY4EQeCxj-lFFf-e17HF54W3qfarytlrqWpJBVV_OlFJy5yt3jZ-pLxrfrUE3r02TfOc8BDeZJSJRpyVUW-i0fBmOanMUddzVGkEG6fKltd_eZfZTDhs98mvR7aNEmzaDfRxvKjdKl_1TuYX8RrT_8RFBcLIkQOPgg99Tyt4ALoZ9vXXPQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vjZ-P1Id-VXk9g-izl68K4-uAPWHeFho0-RRwbDeGeKg8yqOXhMrvtIj9ztP-JHuG6y1xNMxatakUqc3GiMYVqnnoeB8ih-Q8G_kdA3SqZau6O_jeTdmxz7Anx4bZVnsu9rBFpWRSMz2N4DeKjI69loJU4J0aVznMoKAExlfNcTS4NBRhLW7UHsPM83hwPYk-56tfWFWDN1X3p2ap1COOEvrUzU3XEf3CVUaAmj_oZ9qTNXwGLQLoMIfyRoXWTF7zcFazR19Xm6NBHj8UY-bZLwt4UL85dFF1TvBbGRVS8OlmUfoaLX1nDIaZRFCCinck180FeLGZrVk5vmcNZ-GTA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ sushTun یک کلاینت متن‌باز و رایگان برای هسته ایکس‌ری هست، که از پروتکل‌هایی مثل VLESS، VMess، Trojan، Shadowsocks، Hysteria2 و WireGuard پشتیبانی می‌کنه و تمام ترافیک سیستم رو از طریق تانل ایکس‌ری عبور میده.
 یکی از بخش‌های کاربردی این‌برنامه که برای ویندوز، لینوکس و مک ارائه شده، مسیریابی هوشمنده؛ تا بتونین مشخص کنین ترافیک ایران، روسیه، چین، تبلیغات و دامنه‌ها یا IPهای دلخواه از تانل عبور نکنن. امکان تنظیم DNS، فرگمنت برای TLS، Multiplexing و چند قابلیت دیگه هم وجود داره. حالت کم‌مصرف هم اجازه میده ترافیک‌های پس‌زمینه سیستم مثل Telemetry و آپدیت‌ها مستقیماً به اینترنت وصل بشن و از پروکسی عبور نکنن.
 👉
@@ -686,12 +686,12 @@ github.com/soroushdeimi/sushTun/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.3K · <a href="https://t.me/ircfspace/2618" target="_blank">📅 07:38 · 05 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/ircfspace/2618" target="_blank">📅 07:38 · 05 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2617">
 <div class="tg-post-header">📌 پیام #76</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/W-KBmnxR5MyyAzIBj914YdX4aYSWy081bwHMq2SLSyqiqXRVPr46lgqpgUEPjGpCWzUwh_4093s0RgFjmaN8nvu-VKfoSwX0DmHqmeLTRHQ4qN1tS-LlHW-P_yX-vQcsaoRarQn7_b1HpFQi1I2hzDlOBpfquJzKPxQ3LRhXE_4Dfved_AQxSCBScyFNPWDzEG7rO-6rUlIMMj2zlclzoGzACPxexkRf_Pa4oglG4SCWToRwO-Uc1opHLp6kuIcgqgQBlFH1tVGIv4M1gGaVQP5rZT20RBXTB_y7_7W8EiZNV2uSsslygz3IS09Sufa7mD03KgR8wDdyTYpYeKO26A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sqdVjKI4yce5j13aWOu2x4qyPw7CuvqbHuSgJaauZF5ymMB7A0lEugglwnoUwiTEA-yDH-_-277OATFi6NnpmbZCaFGTstMJ6JvJ0NZmintXQyLWK3pSwZC6nQb_cgwNK4e-HzVwQeVclqI4u5CU70BB3oatjF_FJC7Jw3Y0UY0bNuDiP0wwUT6NC_igOQ6cQY2jIHCPJGWPwKxMK3NxUM8QT-WHyPMDk_okS5X6sklKEAhXzsbDmx_Dt2_TrdPvrEr9oWlXBYmFj6Y4EJWWsMg4YedvTAMPCWSYdio293D968FPKbtlQbbmW4gJ1mnNXJtIm3_-nx0L9uXGJTu6kg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلاینت Satelite یک اپ پروکسی متن‌باز و رایگان برای اندروید، ویندوز، لینوکس و مک هست، که می‌تونه بین هسته‌‌های sing-box، Xray و mihomo سوییچ کنه.
 از وارد کردن انواع سابسکریپشن و کانفیگ گرفته، تا Rule-based Routing، پراکسی‌چین، DNS هوشمند، System Proxy و TUN رو پوشش میده و یکی از قابلیت‌های جالبش، حالت Multi-Core هست که اجازه میده چند هسته همزمان کنار هم کار کنن؛ مثلاً سینگ‌باکس هسته اصلی باشه و بعضی پروتکل‌ها رو به ایکس‌ری یا mihomo بسپره.
 انتخاب هوشمند نودها، تست تأخیر و IP خروجی، مدیریت DNS و Hosts، تشخیص اتوماتیک پروسه‌ها و اجرای دائمی در System Tray هم از دیگر امکاناتشه.
@@ -711,7 +711,7 @@ github.com/zn0wii/satelite-one/releases
 
 <div class="tg-post" id="msg-2616">
 <div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vjHnfc98S87vH7vmgqeZXywvV4lGawltvK3SgCaIuAwiXoopqUHI1Tui29YyqfnXYCUrmWn70CMyx0nnNHizYueoXuyOC8AbwU87Ede_Tmp8czOOLIVVyA43LgAG4_jbBfYmsd6mQXPmW-ElPR-HWzjDvv3hZR2B8Eb1Pv8f3ZGs_4dpjHYdwLFXayorvFoYFgHzy4LgeRH-M8GiWR0ITARRPrIoKtsn8GtwOGWtfC9HERhacfYxeQbwZKp7xGaoZtNBwTxMkSacNmN1j-ptLAe8y4XLbYFDqmkC7RebFaCHi3oiJr7HtGcQnwp1lo3WYIvzyZ0X0uvfjXUf62MBxQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Xo0XUtlpQ-Qlq0Vhzm67efm9z936FCSJmGu3BstKx0FDbr98qL-QUgUqlwxYR-LKlYlVKHAFasqThBlFu8lCZSiIK-u3OuMtyEhDyVHFKt9bplGzxiqVkMawb7useMHlhpS15rbHdB89bxiJh9rRcEGlGS1OxumJIsxrZHCieLceVSTAElllQZlblFyPNkm-zOQx_lIU1yRxaABNqqyJi7ZlnfeTFxxvcHIIOtqaecIeH5tJ1bwXpdDePRVwOXgqq6vmbFgU0Ops0r9LoLnC-G987fx-EKteex4XsJL17l9GFcJ_D3HM28DbRqok1ULrCfMgr2KuxAm0qMtHwnmJ8g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جمهوری اسلامی فقط دسترسی به شبکه‌های اجتماعی را محدود نمی‌کند؛ محتوای حساب‌های شخصی را هم زیر کنترل می‌برد.
 شماری از کاربران با انتشار پرچم حکومت نوشته‌اند که درباره فعالیت‌های «غیرمجاز» توجیه شده و تعهد داده‌اند در چارچوب قوانین جمهوری اسلامی فعالیت کنند. پیش‌تر، انتشار لوگوی پلیس فتا در صفحات اینفلوئنسرها و کسب‌وکارها نشانه توقیف یا محدودسازی آن‌ها بود. حالا انتشار این تعهدنامه‌ها، نگرانی از تبدیل حساب‌های شخصی به محل نمایش اطاعت را بیشتر می‌کند؛ جایی که مخاطب نمی‌داند آنچه می‌خواند، انتخاب صاحب حساب است یا حاصل فشار بر او.
 ©
@@ -723,7 +723,7 @@ filterbaan
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/ircfspace/2616" target="_blank">📅 07:38 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 37K · <a href="https://t.me/ircfspace/2616" target="_blank">📅 07:38 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2615">
@@ -742,7 +742,7 @@ filterbaan
 
 <div class="tg-post" id="msg-2614">
 <div class="tg-post-header">📌 پیام #73</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gaydQtU5pwUvSJWjI32RAfZRXrMWmkTaaYuY1adwdW_oLhX1Ik8MjdA3gabjuZjfJnMySyKa-O03QuwiZ-IYNeXUbPlO23d6wIvGh0ECzze4rjUc8Wt7jJtwG_6qWtvbQnce_PyytuuGqGLSNJblwsDzoWT7fo0HM13fGJrY0M5CeFSr-5i0ETSv55choZCee_gKgck9wnBeFHxdjt3Bi5rrt5PmDmX1I-uggh9EMY6upGiVdxMk3CC5EhBTnK3SdlNKzPqNl3oauw7qlQsfYmnxRTtEx8pzFuioJIfDXLfHDrtLRKtMCmcwcNzNJwxPZUmRIfg4-8Rk7ERuQwHBcw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/s2NcM5yLKXsDnjBllkygy09efxnDgk_84bJ4kBnMuwlvNOfw4aIBARAs7EXiGuGuNMF3NuKHPl6lJYW7dpQQslFRDCVxENyn9ntOF4z6QGvd1qPC4ISaP32M8kMFUQ7xfkO2GVGRoNb11xsibIWeq-qs64dnsnSTU7-s5eCJLQSbPJSqSKpx2fIW5EmFmAL7NB36w4lkhMhkOcSztdD_houYV99kS2KgRiwf_fCmVbIJKxOfxgXfxECLR-jP6tLuFLnAFaNr4wZf6IZW4Dp4XFBw-6iByjNv5uX3FKGeTpMa41aAAW-ELXAIZABmThOj0ARyemJRZSM720EfJNjK5Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طبق گزارش Qrator Radar، شبکه همراه اول با شناسه AS197207 در ساعت ۱۳ روز ۲۹ شهریور، بطور ناگهانی ۱۹۰ پیشوند شبکه رو اعلام کرد که باعث ایجاد ۱۰٬۸۶۵ تداخل مسیریابی با ۱٬۵۲۴ شبکه در ۱۰۰ کشور شد.
 این رخداد که بعنوان BGP Hijack ثبت شده، در ۲ مرحله اتفاق افتاد؛ مرحله اول حدود ۸ دقیقه و مرحله دوم حدود ۱۵ دقیقه طول کشید و حداکثر انتشار اون به ۱۰۰ درصد رسید.
 وقوع BGP Hijack میتونه باعث قطع دسترسی، انحراف ترافیک، اختلال گسترده و در بعضی شرایط شنود یا دستکاری ارتباطات بشه!
@@ -780,7 +780,7 @@ raaznet
 
 <div class="tg-post" id="msg-2612">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HFqzneMzPpzh28nMunquj0PfJ7ZWQMO39Y9fDxFKo-aLrFltptltiflk4v3Yir_TR04pzbTgJ_nAFlw9sdgTu7BcaJa12a--FHmmsnGp1CLwl80kJ_97eu6i66Fex1yw-CRSws_KdHF7mo2QipSHQKdc_Ro1HXLWjpDg0MAVaSysUmt4e-bw3EEUfzTCYPV89C43wywS2zkE_AX6oUg9FQZuKsZ7MZC6ZjInZpm1F_pYqdu1AJmffZ7wWuCNnRqOCNQvh4zyCfcH7YhjWEqKF98qjD5A10lq0vNPJUygS14tvY3vkNhqrQr7D57O0rk8zZpfF5Lz4o5FaXmCWuUnuQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lH4Q7D0kFY-rMyNvIXBD7ZGr98rD2UTrByoAMWFK7uRpVAMeUlnke3t1a7ulvpGpndSFK2SLFA53XSpZxPL442o3_5Gl_aGFT71MGf0vP7WhY24nOZLYvThAi2HPVjtzWkfMVF0GYkfMVroWAsIbXktctqr8P5ayGQ6U_YHXvpMKazlKe6mkzcTksIXpXpnZOPr3sLfzrn81JwLQUosAGGAA3oFtoVtLGiOJeixmg7yt1W5rbOCDQx-ICaF_sHFXKxyREvj2Sf6x-rdRbjMq3OaPKaLTvzpsmisjyZMueWQqQILxueHk4H4tB1rggLiFlvfpaJP5Z4NGUYXaM6cYTw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مراقب این نوع هک باشید!
 یه صفحه جعلی شبیه Cloudflare میگه برای تأیید ربات نبودن، Win + R رو باز کن و Ctrl + V بزن.
 چون شبیه تأییدیه‌های معمول کلودفلره، ممکنه طبق عادت انجامش بدید، اما در واقع دارید یه دستور مخرب رو اجرا می‌کنید.
@@ -798,7 +798,7 @@ milad_joodi
 
 <div class="tg-post" id="msg-2611">
 <div class="tg-post-header">📌 پیام #70</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/C74WHE1mtx883uHfFIGPABxi0SEq7Wy79nKQtfAzP00yGS-9QRqlGypWvikmWshPbgKwEGDnJmuSabqADcJd3R0LK-wTfyjJZ-ZlNh1ESMrIqiqQRAo71-5DvyuWqgu4SMiy8V8XcO1_tRF9WDi58nNQ-fPiFdaTxN9iu0go9ayqPRgFWbdiZjF_2ZZgR4YBAL9y2ma3lElPgiAlIrWfVeRwJq_nzAT5fkLvT0VO_c_D9hYds6lh3j_JfVOkdjRz3PBWrwmqE8un0155glhRzsYd87EXEhy8sURvrUa-AA2RLfazMAlljajVzATKVplTwDG3Aho2fD8jysMWFtPmVQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DXNRCm6Ff_xfBrePsM-XhotyDcbcrSQYKePjib5YVgHpwFps9kMczOSnAaCbep8fRQEO2b2lZQpYbk2h7FsqNLH2JFKs9rUsLiKMZnMXrXRNSjSulZN1r3Gey5vF73ovsAbw8ZY0ptkIgawgacyDE-gAZqQ5-Gse334r93Bk0cLWOeYSKy4onE_Y7jbMGsHEIwAi1ke3TR-0yC3qcGYNaoSf3ZNjyaofqxWyYucLdUY4rvXVOSm198HSigYR4vMX30MN_8hnopJwpxoq710uO2BbLUPKor_h6n1QD6y-mQeyEGMgHDTLqD4X_cUbtuJvWAckaAZmvTfdLTK0v2hNBA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">زپتون یه موتور شبکه‌ی جدید، متن‌باز و بدون وابستگیه که با Zig نوشته شده و برای کار با رابط‌های TUN طراحی شده. ایده‌اش اینه که ترافیکی رو که سیستم‌عامل وارد TUN می‌کنه، مدیریت کنه و اون رو به ارتباط‌های TCP، UDP و ICMP تبدیل کنه؛ بعد هم ترافیک رو مستقیم یا از طریق SOCKS5 در اختیار برنامه‌ی دیگه‌ای قرار بده.
 پروژه Zeptun امکاناتی مثل پشتیبانی همزمان از IPv4 و IPv6، NAT، مدیریت DNS، مسیریابی خودکار، فوروارد ICMP و پردازش چندصفی TUN رو داره و برای Linux، Android، Windows، macOS، iOS و FreeBSD ساخته شده. طبق بنچمارکی که روی یک رانر گیت‌هاب گرفته شده، زپتون عملکرد بهتری نسبت به Sing-box، Hev و Tun2socks داشته.
 این مدل هسته‌های مستقل، می‌تونه برای پروژه‌هایی که نمیخوان تمام شبکه و TUN خودشون رو به هسته‌هایی مثل سینگ‌باکس وابسته کنن جالب باشه؛ مخصوصاً با توجه به اینکه استفاده و توزیع کدهای پروژه‌های دیگه می‌تونه الزامات لایسنس و کپی‌رایت خودش رو برای توسعه‌دهندگان داشته باشه.
@@ -811,12 +811,12 @@ github.com/Noisemux/zeptun
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/ircfspace/2611" target="_blank">📅 08:20 · 29 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/ircfspace/2611" target="_blank">📅 08:20 · 29 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2610">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WxV9Yd5RKhUCwq9D9uOl8YzPBoqB3jyUjG-W7wywQI6bq9jE6CRksxlIZI0cNue2F5-L9i89XQbA1Xqou2Iz-fNTXQ6jjg440_LdtCBxO8ObQwMOI4orBFJGNePZj9OeGQEpaCXl_VsOC2KatCV87W2XW41u3_sr_rD6g8Lk2C4mAKAqaLQOCpBOoeKs-rWvm0VlxjtPouUFzaJSVeJix7f5GRPhEjGbzpjtPAob_qxmjw3T8UJgbWEdq2RmD6FLO7ONA3g_v7xa4WVcqiWoTl00coc96KwDJb00bt7tkEcjZsYvPnayHgpd4z66B_uB17ZHRnOL-JOJB2_ZHhzHAQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fG3GHvQG-NibbkMx8gorzK6k9p6GWU_-fpQVAy067zvnWOgiwmigCjjkChncE9BuoYGHQfG2vbv7O-7WOXU5FHRBWeAF3KdBTDJWp3z_7vsSC_PUIMrMXlVnk1PWywfeyNMy-4W1PpDJgitowaCBtDIL9XjkW_44mQ0__6pxIqDoUXwUM09p0LfHgkhdAkuXv1zOt5aC-58XY1dt-rkHYfJGSC4c6YrYeW-_Lyn_7xGG2oAsJg26MIT53mF9aAOAZQ2ovaSiiIG9z0IEDKi4_ze8umzj_QRuTCwyjZeWSlHVoHTzrqK0PgmTBa4I3iXw3g9VLWmCfGH0BmNlA10-tg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وای، چه گوگولی
 😄
 فرمودن "مجلس بدلیل پایین بودن کیفیت دسترسی، با افزایش قیمت اینترنت مخالفه و انتظار داریم وزیر ارتباطات از حقوق مردم و افزایش سرعت و کیفیت اینترنت دفاع کنه".
@@ -832,7 +832,7 @@ github.com/Noisemux/zeptun
 
 <div class="tg-post" id="msg-2609">
 <div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cC64uz2uJXFEH5Fp3DBrBcdW8IUcTZS0BACGaL2dmNofCm3W-oFnQItxTdaM-NRsz177f4ypzfgka1m5VljSSMjYO-T3EhwwSFndy2aHng-iMWecBRgr4AAPD9zsoYqMy-wZdzHgqbXB04P8CGadcyPhEzsBnrAaVnA70ZIaTaE48MBtnbyC5f1mAgLxs0NurpwRZ-1riTm76L1TJRwIQ1yR-3AOn3DKKm7ZTPp8nOJR5ng4H86GF7KOSIbb_5FDf0_x1VUKpOtIOGGh-XwHGp4UCOSaankiozy7i21RYMc9NfE-VvHKRvhwDpgfYbvPW8s-yGZamOMlBLUCZuvqyQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Jj8O-eouxlwB2AiQWNXiVqgQoQqC1T7RNS4ibqn_e7UNgNGWM5tVysf4qDTwvlJ9n1YBNMwlXS-vkLlOuSfgRVZfTP6sdu8LNWweDP-SxSJykDQoG6HA5NN46iDC_RlLVnWHpWeuIghqemf7V-Kk6doeTxLxEUrpX0UWUaN0QGnR_brJBu_6ou1THkBMUqirg8T8dSHqhb8BH6012uh4YRFhoD1CER4RoW9XZNIF6GxQtNoyG8lBHezIjo_hara6Qvb7fpCTavBpOGgbctTUZETqpMdB7XxZnTSB2KI68rcorgypocG6ce4mnn3aIYtuF2Bih7fUP1KVFZHz-TJKHg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکریپت Google Flow Helper برای اجرا از طریق افزونه مرورگر Tampermonkey ساخته شده و کمک می‌کنه محدودیت‌های دسترسی به Google Flow برای کاربران ایرانی دور زده بشه.
 این اسکریپت درخواست‌های داخلی Google Flow رو زیر نظر می‌گیره و وقتی به پاسخ مربوط به تنظیمات و محدودیت‌های سرویس میرسه، یه فلگ مشخص رو پیدا می‌کنه و مقدارش رو از false به true تغییر میده. بعد پاسخ اصلاح‌شده رو به خود رابط Flow تحویل میده؛ در نتیجه فرانت‌اند تصور می‌کنه اون قابلیت برای کاربر فعال شده و محدودیت مربوطه رو اعمال نمی‌کنه.
 این ابزار VPN یا فیلترشکن نیست و خودش محدودیت شبکه یا فیلترینگ اینترنت ایران رو دور نمیزنه. آدرس
@@ -1362,7 +1362,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/ircfspace/2577" target="_blank">📅 18:47 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/ircfspace/2577" target="_blank">📅 18:47 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2576">

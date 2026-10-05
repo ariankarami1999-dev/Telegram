@@ -292,7 +292,7 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیل📸instagram.com/yashar🐦x.com/yasharrapfa📺youtube.com/yasharrapfa⛑️paypal.com/paypalme/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-13 02:51:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-13 05:41:06</div>
 <hr>
 
 <div class="tg-post" id="msg-24924">
@@ -303,7 +303,7 @@
 امروز دادستان و رئیس کل دادگستری با امیر تتلو صحبت کردند و به گفته او، این گفت‌وگو مثبت بوده است. او همچنین به بخشی از آهنگ «من و خدا» اشاره کرد که تتلو در آن می‌گوید «همین روزا دیگه باید بیاید استقبالم» و ابراز امیدواری کرد فردا خبرهای خوبی درباره وضعیت او منتشر شود و ممکنه که آزاد شود
 @RapFA
 @WarRoom</div>
-<div class="tg-footer">👁️ 60.6K · <a href="https://t.me/withyashar/24924" target="_blank">📅 00:29 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.9K · <a href="https://t.me/withyashar/24924" target="_blank">📅 00:29 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24923">
@@ -321,7 +321,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 77.3K · <a href="https://t.me/withyashar/24923" target="_blank">📅 23:55 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 86K · <a href="https://t.me/withyashar/24923" target="_blank">📅 23:55 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24922">
@@ -329,68 +329,68 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hzgNiCsHU93I6GKhLuU1gym3wVDCH0DWW5MTTuYq3h1oRjTk_jEwG3kOlCAgEjA7bm-gveeC7H_Bho2EgTZx4FzsS-ocKzFrReuN3m6g4sG05iO7v2WqtHWdCwtsh5DuK_jSKwAfdW5itiDUxJFCRvAM0AxSKsmsLW6LclpQnymSTc7EfxqZqIclEdciNUdxOyfseNwtE54iZIvRiNMxYb8l9X90etPxcB-LAX1LFEegkL9hXtWytBBbBQlm0jdC1d7vrNlvqEnhlWqDlyiKxQ3swxXM6O0F05-u6kQi_jwsV9N6PxIQ77Wawmm6Wa7cLk_mpfentqWz4_ifEoxNWQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مجلس ختم خواهر عراقچی
 @WarRoom</div>
-<div class="tg-footer">👁️ 87K · <a href="https://t.me/withyashar/24922" target="_blank">📅 23:41 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 95K · <a href="https://t.me/withyashar/24922" target="_blank">📅 23:41 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24921">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromWarRoom with YASHAR</strong></div>
-<div class="tg-footer">👁️ 81.6K · <a href="https://t.me/withyashar/24921" target="_blank">📅 23:38 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 89.2K · <a href="https://t.me/withyashar/24921" target="_blank">📅 23:38 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24919">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cqg-nTzzYnAeHee8dz1abJj3qcUTv4HA3Sq_acACm9V2H3bq5dqykbMYi9b-35KyXRMADdUh6mhUwkIubI2P0iDsayb7ogeGmTm8Cgb7JSnuylAKRthUxzVU1eKtN9puZQAf9NIHSwtjmZ8w9LDz5bxYew0OjOREvQnXUdE6NzTdPTEZmFbezTxCWvgMHs-jEJKXfuVOg2WlCswR_ZXGmNSZlpk4gXmKeyTuHhjX-PT7vo6-we8xNBSoeE5U4Dny_jTTf5u4MszPbTKNpy-9k_ygAK914Rf3e6yDqFj2vD6ZbhJrDxN4Y0Qkq-9r50cUS3JYJv6z4G0uWaIosdnP1Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هر ۱۲ فروند بمب‌افکن راهبردی B-1B Lancer نیروی هوایی آمریکا، پایگاه هوایی سلطنتی فیرفورد در انگلستان را ترک کرده‌اند تا به خاک اصلی ایالات متحده بازگردند. @WarRoom</div>
-<div class="tg-footer">👁️ 90K · <a href="https://t.me/withyashar/24919" target="_blank">📅 23:33 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 97.4K · <a href="https://t.me/withyashar/24919" target="_blank">📅 23:33 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24918">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">تصاویر خبرنگاران از پرواز چندین بمب‌افکن راهبردی بی-۱ لنسر آمریکا از پایگاه نیروی هوایی سلطنتی فیرفورد در بریتانیا منتشر شده است. @WarRoom</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/24918" target="_blank">📅 22:55 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/24918" target="_blank">📅 22:55 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24917">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">سازمان تجارت دریایی بریتانیا : حمله به یک کشتی در تنگه باب‌المندب
 @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/24917" target="_blank">📅 22:28 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/24917" target="_blank">📅 22:28 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24916">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">کانال ۱۵ درباره خلبان تروریست: مادرش اصالتی سوری دارد، و در حساب کاربری او ویدیوهایی از هواپیماهای اسرائیلی منتشر شده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/24916" target="_blank">📅 22:26 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/24916" target="_blank">📅 22:26 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24915">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">تنگه صدای منصوره زن موشلی میاد @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/24915" target="_blank">📅 22:24 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/24915" target="_blank">📅 22:24 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24914">
 <div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/24914" target="_blank">📅 22:07 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/24914" target="_blank">📅 22:07 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24913">
 <div class="tg-post-header">📌 پیام #90</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/24913" target="_blank">📅 22:04 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/24913" target="_blank">📅 22:04 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24912">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">اصغر فرهادی، کارگردان سینما: اصلا چه کسی از آمریکایی‌ها خواسته بیان مارو نجات بدن؟
 @WarRoom</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/24912" target="_blank">📅 21:56 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/24912" target="_blank">📅 21:56 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24911">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/24911" target="_blank">📅 21:52 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/24911" target="_blank">📅 21:52 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24910">
@@ -400,14 +400,14 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/24910" target="_blank">📅 21:39 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/24910" target="_blank">📅 21:39 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24909">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">تنگه صدای منصوره زن موشلی میاد
 @WarRoom</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/24909" target="_blank">📅 21:09 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/24909" target="_blank">📅 21:09 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24908">
@@ -422,7 +422,7 @@
 <div class="tg-text">کریس رایت، وزیر انرژی آمریکا:
 رئیس‌جمهور آمریکا کاملاً از خطری که حمله به ایران می‌توانست برای جریان انرژی خارج‌شده از منطقه خلیج فارس ایجاد کند، آگاه بود. او گفت: «دنیا نمی‌تواند یک ایران مجهز به سلاح هسته‌ای را تحمل کند و من قرار نیست اجازه بدهم چنین اتفاقی بیفتد.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/24908" target="_blank">📅 20:49 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/24908" target="_blank">📅 20:49 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24907">
@@ -430,7 +430,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gGq96xyAm5QwjEA3F_gnaBRIbvYio7CbaRv8H-wUcdJ7I_1baJy8tXNMEZGQKd1L6k5-itS2RBJW-nzn5ABm8tR2qPA4kHCy9CgGuTpSuW6Np1IkAE1JZdSXLvWpoF-CVJnz242JN1e1PisV8DDC87dXcSZ7_i5KHkJpKQIBn4GyMaayy7gq0xLwmVUuSBqxWAxVDER9eMgA_wvI_Df8QrnLXcwgLrJSoS0wKFMnOTTcOhtebxrvbdW3ApJgbUDJgSDe1lF_MDTJaJ5Vm1SA-5U51HecoX8X9oC4GJJL0e_I73A-t786cJk3d_ZPBTok2la8dIzsafMG5Ba3akP3ng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک فروند پی-۸ پوسایدون ، ۶ فروند سوخترسان و یک فروند ترابری سنگین سی۱۷ در‌ محدوده خلیج فارس در حال انجام مأموریت خود می‌باشند
 @WarRoom</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/24907" target="_blank">📅 20:39 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/24907" target="_blank">📅 20:39 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24906">
@@ -438,7 +438,7 @@
 <div class="tg-text">وزیر نفت استعفا داد
 طباطبایی معاون دفتر پزشکیان : با پذیرش استعفای محسن پاک نژاد طی حکمی از سوی پزشکیان رئیس جمهور، حمید بورد به عنوان سرپرست وزارت نفت منصوب شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/24906" target="_blank">📅 20:36 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/24906" target="_blank">📅 20:36 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24905">
@@ -448,7 +448,7 @@
 هواپیما را به فرودگاه بن‌گوریون بکوبد
 . به همین دلیل، او تنها زمانی به خلبان دیگر حمله کرده که هواپیما بر فراز اردن و در نزدیکی اسرائیل بوده است. او قصد داشته هواپیما را به‌طور عادی برای فرود آماده کند و در آخرین ثانیه‌ها، زمانی که دیگر امکان رهگیری وجود نداشته باشد، هواپیما را به ترمینال فرودگاه بکوبد. این نقشه تنها به لطف تصمیم سرنوشت‌ساز خلبان هندیِ مجروح برای باز کردن درِ کابین به هر قیمتی خنثی شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/24905" target="_blank">📅 20:29 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/24905" target="_blank">📅 20:29 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24904">
@@ -464,7 +464,7 @@
 سنتکام
 برای مقابله با حملات موشکی احتمالی ادامه دارد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/24904" target="_blank">📅 20:27 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/24904" target="_blank">📅 20:27 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24903">
@@ -478,7 +478,7 @@
 </div>
 <div class="tg-text">بی بی و مجید ، فرق دیروز و امروز
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/24903" target="_blank">📅 20:13 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/24903" target="_blank">📅 20:13 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24902">
@@ -489,7 +489,7 @@
 آنها تلاش می‌کنند رأی‌دهندگان را سرکوب کنند، اما من امسال هر ۷ ایالت نوسانی، آرای مردمی، ۸۶ درصد شهرستان‌ها و ۹۹ درصد انتخابات مقدماتی را بردم.
 من روی برگه رأی هستم!
 @WarRoom</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/24902" target="_blank">📅 19:59 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/24902" target="_blank">📅 19:59 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24901">
@@ -500,12 +500,12 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/24901" target="_blank">📅 19:48 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/24901" target="_blank">📅 19:48 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24900">
 <div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/24900" target="_blank">📅 19:40 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/24900" target="_blank">📅 19:40 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24896">
@@ -522,14 +522,14 @@
 😂
 🙌🏾
 ولی اوین بهتر بود</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/24896" target="_blank">📅 19:37 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/24896" target="_blank">📅 19:37 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24895">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">آکسیوس: نیروهای دولت یمن با حمایت عربستان ضدحمله علیه حوثی‌ها را آغاز کرده‌اند؛ هدف این عملیات بازپس‌گیری مناطق تحت کنترل حوثی‌ها، از جمله کنترل مجدد باب‌المندب و در نهایت بازپس‌گیری صنعا، پایتخت یمن، است ، آمریکا فعلاً در عملیات مشارکت مستقیم ندارد، اما در زمینه اطلاعات و شناسایی اهداف به عربستان کمک می‌کند و در صورت شکست عملیات، ممکن است وارد اقدام نظامی شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/24895" target="_blank">📅 19:19 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/24895" target="_blank">📅 19:19 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24894">
@@ -541,7 +541,7 @@
 نارضایتی ایران از عملکرد حماس و ناتوانی این گروه در تغییر وضعیت امنیتی کرانه باختری
 از دلایل این تصمیم است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/24894" target="_blank">📅 19:13 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/24894" target="_blank">📅 19:13 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24893">
@@ -562,7 +562,7 @@
 هم روی سطح آب و هم زیر آب به یکی از کشورهای پیشرو جهان در این حوزه تبدیل شود.
 ما از اسرائیل از دریا نیز محافظت خواهیم کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/24893" target="_blank">📅 18:36 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/24893" target="_blank">📅 18:36 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24892">
@@ -572,7 +572,7 @@
 تمرکز و توان عملیاتی ارتش آمریکا را از جنگ و اقدامات علیه ایران منحرف کند
 .
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/24892" target="_blank">📅 18:20 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/24892" target="_blank">📅 18:20 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24891">
@@ -587,7 +587,7 @@
 نیز سال‌هاست با غیبت کامل و روایت‌های متناقض درباره سرنوشتش، به یک معمای اطلاعاتی تبدیل به مضحکه شده است. بنابراین الان شاید سؤال اصلی این نباشد که مجتبی زنده است یا مرده؛ بلکه این باشد که
 نام او به ابزار چه کسانی برای اداره قدرت در پشت پرده تبدیل شده است؟
 @WarRoom</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/24891" target="_blank">📅 18:07 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/24891" target="_blank">📅 18:07 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24890">
@@ -609,7 +609,7 @@
 عملیات نظامی علیه ایران انجام داده است
 . این نخستین توقف بندری ناو از زمان آغاز عملیات آن در خاورمیانه محسوب می‌شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/24890" target="_blank">📅 17:19 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/24890" target="_blank">📅 17:19 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24889">
@@ -620,7 +620,7 @@
 امنیت تنگه هرمز، توقف اخلال در کشتیرانی تجاری و رفع تحریم‌ها
 متمرکز است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/24889" target="_blank">📅 17:06 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/24889" target="_blank">📅 17:06 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24888">
@@ -628,7 +628,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/P3Fx333QiI76r4aNZbZrxKqL3T3pqjc_OhSG2i2FsyNApwCO2QfcXRVAoHMn7Z1qcxsKM6fVInfKkkNXud-CoM8pwuw6KjfxqX5yH0mz5C5RV38-j5kAhrvzVzvNQhAtlYexwQc_Up-akHmGHCXB4uxHifSab1PXjaROPDdyVbMRhFVUufJ8sSWuPC1vlQ-mwVycem_Gj8a1ycNdZHXdDXaFgcV4SoZ3RHL1O2GcKvDen4_zYRZPg4fmZKM3_NGIcww5zeds1A2jdVh-1KLnH_Foz_Z3Ic-eWaPzpMzyyDxycnnHEs4K9qdbXZpbrtsxu7CXr9AAJrKidd3rmSX5ZQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ساعت ۱۲:۳۳ ظهر، یک فروند هواپیمای ترابری C-130 با ترانسپوندر خاموش در فرودگاه مهرآباد تهران فرود آمد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/24888" target="_blank">📅 17:02 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/24888" target="_blank">📅 17:02 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24887">
@@ -638,7 +638,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/24887" target="_blank">📅 16:59 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/24887" target="_blank">📅 16:59 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24886">
@@ -648,7 +648,7 @@
 اینها معترضان پولی هستند، مگر نه؟
 »
 @WarRoom</div>
-<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/24886" target="_blank">📅 16:24 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/24886" target="_blank">📅 16:24 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24885">
@@ -664,14 +664,14 @@
 پرواز چندین بمب‌افکن راهبردی بی-۱ لنسر آمریکا
 از پایگاه نیروی هوایی سلطنتی فیرفورد در بریتانیا منتشر شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/24885" target="_blank">📅 16:02 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/24885" target="_blank">📅 16:02 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24884">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">سخنگوی وزارت خارجه: بحث خروج ایران از NPT بسیار جدی است و در محافل سیاسی کشور مطرح است
 @WarRoom</div>
-<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/24884" target="_blank">📅 14:16 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/24884" target="_blank">📅 14:16 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24883">
@@ -689,7 +689,7 @@
 یا راه آسان را انتخاب می‌کنیم یا راه سخت را.
 »
 @WarRoom</div>
-<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/24883" target="_blank">📅 13:58 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 141K · <a href="https://t.me/withyashar/24883" target="_blank">📅 13:58 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24882">
@@ -710,7 +710,7 @@
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">رویترز: نیروهای مسلح یمن بامداد امروز یکشنبه اعلام کردند حملات گسترده‌ای را علیه مواضع حوثی‌ها در صنعا و صعده آغاز کرده‌اند. این حملات در ادامه تشدید درگیری میان نیروهای مورد حمایت عربستان و حوثی‌های مورد حمایت ایران انجام شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 142K · <a href="https://t.me/withyashar/24880" target="_blank">📅 12:08 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 143K · <a href="https://t.me/withyashar/24880" target="_blank">📅 12:08 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24879">
@@ -753,13 +753,13 @@
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">مم باقر : دوران دیکته‌ کردن مطالبات یک‌طرفه  گذشته است و تا زمانی که هفت شرط ما بر اساس تفاهم نامه اسلام آباد، محقق نشود تنگه‌ هرمز باز نخواهد شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/24875" target="_blank">📅 09:45 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/24875" target="_blank">📅 09:45 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24874">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">دایرکت پره که اصفهان صدای انفجار سنگینی اومده ، فعلا نمیشه تایید کرد</div>
-<div class="tg-footer">👁️ 145K · <a href="https://t.me/withyashar/24874" target="_blank">📅 09:31 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/24874" target="_blank">📅 09:31 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24873">
@@ -773,7 +773,7 @@
 ⚠️
 🚨
 ادکی صبر میکنیم خبر‌ درست بیاد</div>
-<div class="tg-footer">👁️ 148K · <a href="https://t.me/withyashar/24873" target="_blank">📅 09:29 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 149K · <a href="https://t.me/withyashar/24873" target="_blank">📅 09:29 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24872">
@@ -795,26 +795,26 @@
 ارزش ریال طی دو ماه ۲۵ درصد افت کرده و ایران در سپتامبر هیچ نفت خامی از طریق نفتکش‌ها صادر نکرده است. مقام‌های ایرانی انتظار دارند
 پس از انتخابات ۳ نوامبر آمریکا، تنش‌ها افزایش یابد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 150K · <a href="https://t.me/withyashar/24871" target="_blank">📅 03:15 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 151K · <a href="https://t.me/withyashar/24871" target="_blank">📅 03:15 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24870">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">کان نیوز عبری : تا قبل از ۵ آبان، هر لحظه؛ جنگ قریب الوقوع است
 @WarRoom</div>
-<div class="tg-footer">👁️ 150K · <a href="https://t.me/withyashar/24870" target="_blank">📅 02:44 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 151K · <a href="https://t.me/withyashar/24870" target="_blank">📅 02:44 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24869">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-footer">👁️ 148K · <a href="https://t.me/withyashar/24869" target="_blank">📅 02:12 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 149K · <a href="https://t.me/withyashar/24869" target="_blank">📅 02:12 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24868">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">نیویورک‌تایمز: مقام‌های بریتانیا و آمریکا معتقدند افرادی که در ارتباط با حادثه پایگاه هوایی RAF فیرفورد بازداشت شدند، با عملیاتی مرتبط بوده‌اند که از سوی ایران حمایت می‌شده است. مقام‌ها میگویند سپاه پاسداران یا یکی دیگر از نهادهای نظامی ایران در این ماجرا نقش داشته؛ زیرا پایگاه فیرفورد در حملات بمب‌افکن‌های آمریکایی علیه ایران مورد استفاده قرار گرفته بود. پنج مرد بریتانیایی و یک فرد دوتابعیتی بریتانیایی-ایرانی بازداشت شدند. ایران هرگونه دخالت در این ماجرا را رد کرده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 150K · <a href="https://t.me/withyashar/24868" target="_blank">📅 02:08 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 151K · <a href="https://t.me/withyashar/24868" target="_blank">📅 02:08 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24866">
@@ -877,7 +877,7 @@
 <div class="tg-text">مقام ارشد آمریکایی به آکسیوس:
 2 دیپلمات ایرانی امروز صبح از آمریکا اخراج شدند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 156K · <a href="https://t.me/withyashar/24861" target="_blank">📅 23:42 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 157K · <a href="https://t.me/withyashar/24861" target="_blank">📅 23:42 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24860">
@@ -1018,7 +1018,7 @@ https://instagram.com/yashar</div>
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">آکسیوس درباره وزیر خزانه‌داری آمریکا: ما در جنگ خود با ایران به سیاست "دیوار آهنی" و تحریم‌ها و محاصره روی آورده‌ایم، سیاستی که واشنگتن قبلاً هرگز آن را اجرا نکرده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 151K · <a href="https://t.me/withyashar/24843" target="_blank">📅 17:40 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 152K · <a href="https://t.me/withyashar/24843" target="_blank">📅 17:40 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24842">
@@ -1146,7 +1146,7 @@ https://instagram.com/yashar</div>
 <div class="tg-post" id="msg-24829">
 <div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">الجزیره: حمله هوایی هدفمند اسرائیل به یک آپارتمان مسکونی در غرب شهر غزه. @WarRoom</div>
-<div class="tg-footer">👁️ 147K · <a href="https://t.me/withyashar/24829" target="_blank">📅 13:41 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 148K · <a href="https://t.me/withyashar/24829" target="_blank">📅 13:41 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24828">
@@ -1170,7 +1170,7 @@ https://instagram.com/yashar</div>
 <div class="tg-text">دلار ۲۶۸،۰۰۰ تومان ( رکورد تاریخی )
 @WarRoom
 🚀</div>
-<div class="tg-footer">👁️ 145K · <a href="https://t.me/withyashar/24827" target="_blank">📅 12:47 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/24827" target="_blank">📅 12:47 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-24826">

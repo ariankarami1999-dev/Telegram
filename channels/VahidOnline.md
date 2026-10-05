@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-13 02:51:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-13 05:41:06</div>
 <hr>
 
 <div class="tg-post" id="msg-78623">
@@ -310,7 +310,7 @@
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 214K · <a href="https://t.me/VahidOnline/78623" target="_blank">📅 21:42 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 227K · <a href="https://t.me/VahidOnline/78623" target="_blank">📅 21:42 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78622">
@@ -324,7 +324,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 278K · <a href="https://t.me/VahidOnline/78622" target="_blank">📅 15:58 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 285K · <a href="https://t.me/VahidOnline/78622" target="_blank">📅 15:58 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78621">
@@ -337,7 +337,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 255K · <a href="https://t.me/VahidOnline/78621" target="_blank">📅 15:55 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 261K · <a href="https://t.me/VahidOnline/78621" target="_blank">📅 15:55 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78619">
@@ -362,7 +362,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 235K · <a href="https://t.me/VahidOnline/78619" target="_blank">📅 15:54 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/78619" target="_blank">📅 15:54 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78615">
@@ -381,7 +381,7 @@ VahidHeadline
 🔸
 هر سه زن با خطر اجرای حکم اعدام روبه‌رو هستند.
 @IranRights</div>
-<div class="tg-footer">👁️ 235K · <a href="https://t.me/VahidOnline/78615" target="_blank">📅 15:54 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/78615" target="_blank">📅 15:54 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78614">
@@ -394,7 +394,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 333K · <a href="https://t.me/VahidOnline/78614" target="_blank">📅 20:20 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 335K · <a href="https://t.me/VahidOnline/78614" target="_blank">📅 20:20 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78613">
@@ -410,14 +410,14 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 314K · <a href="https://t.me/VahidOnline/78613" target="_blank">📅 20:20 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 316K · <a href="https://t.me/VahidOnline/78613" target="_blank">📅 20:20 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78612">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/iXVt26EmE1VuAOWmmtGDhdmcffnQv-wMN_osvre6Piy8_H6J883EUKcVbJHxC6UsZAODXwxJwmCBD5TPxGYtXMUpQXx1_TwGE8EoEhlF58IXkym0YKt323VYou5uKhHQ1fZJsTL-BA5KZtYRmA_87XdbN8ctX-PDw_m3BOuSQrNhpGRgltnBBHDURD82DATMKMvEttB_t5hhUSYywSaCCIlpdMpJjnIKLWteenoBXvQ_RmoubKi-FDah2N3F0q6ZJSgNhuIG1-73_EetEmwbSdEhCEn9fJVsKO85k0gpP9mSqmPvQMGMJHNf8Nl5PijRyr4wvXS881xd3BiHsCO0Rg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پیام‌های دریافتی از قشم  حدود ساعت ۱۶:۳۰:  صدای جنگنده خیلی نزدیک اومد صدا زیاد قشم  همین الان قشم موشک شلیک کردن  16:34 دقیقه   وحید جان از قشم سمت اسکله بهمن موشک شلیک کردن صداش خیلی وحشتناک بود معلوم نیست شلیک کردن یا جنگنده بود ولی هرچی بود صداش خیلی زیاد…</div>
-<div class="tg-footer">👁️ 331K · <a href="https://t.me/VahidOnline/78612" target="_blank">📅 17:51 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 332K · <a href="https://t.me/VahidOnline/78612" target="_blank">📅 17:51 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78611">
@@ -434,7 +434,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 309K · <a href="https://t.me/VahidOnline/78611" target="_blank">📅 17:45 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 310K · <a href="https://t.me/VahidOnline/78611" target="_blank">📅 17:45 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78610">
@@ -447,7 +447,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 268K · <a href="https://t.me/VahidOnline/78610" target="_blank">📅 17:44 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 269K · <a href="https://t.me/VahidOnline/78610" target="_blank">📅 17:44 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78609">
@@ -470,7 +470,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 251K · <a href="https://t.me/VahidOnline/78609" target="_blank">📅 17:43 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 252K · <a href="https://t.me/VahidOnline/78609" target="_blank">📅 17:43 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78607">
@@ -495,7 +495,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 232K · <a href="https://t.me/VahidOnline/78607" target="_blank">📅 17:41 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 233K · <a href="https://t.me/VahidOnline/78607" target="_blank">📅 17:41 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78606">
@@ -509,7 +509,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 239K · <a href="https://t.me/VahidOnline/78606" target="_blank">📅 17:38 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/78606" target="_blank">📅 17:38 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78605">
@@ -523,7 +523,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 228K · <a href="https://t.me/VahidOnline/78605" target="_blank">📅 17:35 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 229K · <a href="https://t.me/VahidOnline/78605" target="_blank">📅 17:35 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78604">
@@ -540,7 +540,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 230K · <a href="https://t.me/VahidOnline/78604" target="_blank">📅 17:32 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 231K · <a href="https://t.me/VahidOnline/78604" target="_blank">📅 17:32 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78603">
@@ -566,17 +566,17 @@ VahidHeadline
 رادار تازه ۳ روز بود درست کرده بودن
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/78603" target="_blank">📅 17:29 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 290K · <a href="https://t.me/VahidOnline/78603" target="_blank">📅 17:29 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78602">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/742b2ddd5c.mp4?token=I9nM5dnKz4us-arHxYS9cqARUszWwrfpvUihr59qmsu44paakyTd2uG57s02txTDDBXFL1XVYAIlpvew877nMWfKxm3oBwpRvLw-wmVW7peoUXujYpE1Q3MJg_P7xJ4Su2YBwOQixmIb0gMq0IoltqcebzH49QrAE5dE1-qXXaF2l1zYEIV5u0sLCMR0q26C2uoSmimG-NG-ysvrqFaNZADmiycIC5LcSPuJsYApfozdHALALYCQ7FjOvuaIWEl0cos4ln6mDiArjqO_ulTferb3dc5fLHacRqVg_K9wuys5eil0YNpmtz5g8RqPamU09fTSwpDT8r6gQRv5HVAeAA" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/742b2ddd5c.mp4?token=rM7teubLrKGVEHpQPnJG-E2ktqWjBaRBikURdZe4XECV4KyR-852sMhlrOkhrnoGC-Stc8o3QaAXCwMMDu_2EJPI0M25P74W7UL1JPvi_Y6jMnicdWHbFym2sg2toXjUPR3CdlIsH5t3tvbBkOUciHgN9wtIKGGbK_Ydm141pIJRHFtrIxnQ3eyBKVc0_vT1RhWQADy_YKiMzquoqpc3asn8jaylYP67YaKZ_HHC9viHfPFZoTVdnjqw7Wx47bp2iw8rxsJd6mOCUrvu1dx45_lbAJP-a_mKWaKypn33t3bzXwDeg2lzn6Tfn-Kr7lAzdU7LGWfmuajvMr9zhz6KRw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/742b2ddd5c.mp4?token=I9nM5dnKz4us-arHxYS9cqARUszWwrfpvUihr59qmsu44paakyTd2uG57s02txTDDBXFL1XVYAIlpvew877nMWfKxm3oBwpRvLw-wmVW7peoUXujYpE1Q3MJg_P7xJ4Su2YBwOQixmIb0gMq0IoltqcebzH49QrAE5dE1-qXXaF2l1zYEIV5u0sLCMR0q26C2uoSmimG-NG-ysvrqFaNZADmiycIC5LcSPuJsYApfozdHALALYCQ7FjOvuaIWEl0cos4ln6mDiArjqO_ulTferb3dc5fLHacRqVg_K9wuys5eil0YNpmtz5g8RqPamU09fTSwpDT8r6gQRv5HVAeAA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/742b2ddd5c.mp4?token=rM7teubLrKGVEHpQPnJG-E2ktqWjBaRBikURdZe4XECV4KyR-852sMhlrOkhrnoGC-Stc8o3QaAXCwMMDu_2EJPI0M25P74W7UL1JPvi_Y6jMnicdWHbFym2sg2toXjUPR3CdlIsH5t3tvbBkOUciHgN9wtIKGGbK_Ydm141pIJRHFtrIxnQ3eyBKVc0_vT1RhWQADy_YKiMzquoqpc3asn8jaylYP67YaKZ_HHC9viHfPFZoTVdnjqw7Wx47bp2iw8rxsJd6mOCUrvu1dx45_lbAJP-a_mKWaKypn33t3bzXwDeg2lzn6Tfn-Kr7lAzdU7LGWfmuajvMr9zhz6KRw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">دونالد ترامپ، روز جمعه، در سخنرانی خود در آلاباما با اشاره به ضربات نظامی به ایران و انتقاد از برخی رسانه‌ها گفت:  آنها نمی‌خواهند موفقیت ما را ببینند. وقتی نیروی دریایی‌شان را منهدم کردیم، نیروی هوایی‌شان را از بین بردیم و چند ماه پیش ضربه‌ای مهلک به ایران زدیم، نیویورک‌تایمز و رسانه‌های جعلی می‌‌گفتند اوضاع ایران فوق‌العاده است. آنها همه‌چیزشان را از دست داده‌اند، از جمله رهبرانشان را.
 او با تاکید بر خلأ رهبری در جمهوری اسلامی افزود: آن‌ها یک دور از رهبرانشان را از دست دادند، بعد دور دیگری را، و سپس نیمی از دسته سوم را. حتی یک دور رقابت راه انداختند که ببینند چه کسی حاضر است رهبر شود، اما هیچ شرکت‌کننده‌ای نبود و همه می‌گفتند من نمی‌خواهم.
@@ -587,7 +587,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 357K · <a href="https://t.me/VahidOnline/78602" target="_blank">📅 05:16 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 358K · <a href="https://t.me/VahidOnline/78602" target="_blank">📅 05:16 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78600">
@@ -643,7 +643,7 @@ GadbanWaleed
 ادامه  مقاله در لینک زیر در دسترس است:
 https://www.bbc.com/persian/articles/cr9dw7dvjxj1o
 @HosseinBastaniChannel</div>
-<div class="tg-footer">👁️ 339K · <a href="https://t.me/VahidOnline/78598" target="_blank">📅 16:37 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 340K · <a href="https://t.me/VahidOnline/78598" target="_blank">📅 16:37 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78597">
@@ -658,7 +658,7 @@ https://www.bbc.com/persian/articles/cr9dw7dvjxj1o
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 286K · <a href="https://t.me/VahidOnline/78597" target="_blank">📅 16:36 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 287K · <a href="https://t.me/VahidOnline/78597" target="_blank">📅 16:36 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78596">
@@ -699,7 +699,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 300K · <a href="https://t.me/VahidOnline/78594" target="_blank">📅 16:34 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/78594" target="_blank">📅 16:34 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78593">
@@ -711,7 +711,7 @@ VahidHeadline
 UK_MTO
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 359K · <a href="https://t.me/VahidOnline/78593" target="_blank">📅 23:52 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 361K · <a href="https://t.me/VahidOnline/78593" target="_blank">📅 23:52 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78592">
@@ -777,7 +777,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 309K · <a href="https://t.me/VahidOnline/78589" target="_blank">📅 17:44 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 310K · <a href="https://t.me/VahidOnline/78589" target="_blank">📅 17:44 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78588">
@@ -796,7 +796,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-78587">
 <div class="tg-post-header">📌 پیام #70</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZnmEzrfH_R_g7_Jd7nyOBEI1WS65JBKGjq4lTmLkGLp0arby1VoviE3thZSV6KQ3Jd9y0-NAXPbRnSGok3pXEFHWs4mXxk6zTgil1_gjBgjQHqUK-N6cpWfeqjmC3PJTRfsKad0DtyFG2VdNbsPbNj772wPwK16seNhnOsr91YEGg-w7IcsmNsCoep77wXWU64Cr657bu7IocLdE3AsJiS7hR5-smMaCLUZO0gGrQ-XYjAOlnNu_KxnN7Pr_cjBHK9kqyyNuDo8ZX0W2_D5bkvEDNgzkq9INBw5BPDTmvQ3Mrp3zTNplwfGsp7rowZHZLY7wblPW7MwqfMSmCdSX7g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Mp_pXbaKj_nwAXp5-4l1RV8CnczoVA_2cogP41H9VNsFcywdvoTdd_FUfOpu8ZmzgIrIrAhnVHXRpcbrqlko_HNCln8vNiiVt3gkckIfZBLhxTamKUnSYUjfjKPvHZE8A6eCO3L7n1ZYb6BYn7-RESgZsQ8FFf3P-pGXvnGkxTaBOobrwlhXA1ZzTxmFcYJKkYwAuIqHJksqWI9rDIA6bK9UCvGYRuJIu5_sQUbAN9e4fof2gqwJSAD6yXMZu2kpZfTximBGrlJvFqPqRi6Oc1YKGUryUn3MJFVZp5scAudlhbmwkyWS551EyxOUkf7qaal8r-kn-U32XZzXKzMk9w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دونالد ترامپ، رئیس‌جمهوری آمریکا، چهارشنبه شب، گزارش نیویورک‌پست از اظهارات اسکات بسنت، وزیر خزانه‌داری آمریکا را منتشر کرد که گفته است اقتصاد جمهوری اسلامی ایران، «ظرف دو هفته» هیچ‌چیزی برای تجارت نخواهد داشت.
 محاصره دریایی بنادر ایران مانع آن شده است که جمهوری اسلامی از طریق دریا بتواند نفتی صادر کند. دلار آمریکا نیز در روزهای اخیر با سقوط خیره کننده ریال جمهوری اسلامی، رکوردهای تازه‌ای زده است.
 آقای بسنت به فاکس‌نیوز گفت اقتصاد تحت محاصره جمهوری اسلامی ایران به‌زودی و پس از تحویل آخرین محموله‌های نفتی خود، در حدود دو هفته دیگر «چیزی برای مبادله» نخواهد داشت.
@@ -1045,7 +1045,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 282K · <a href="https://t.me/VahidOnline/78564" target="_blank">📅 17:31 · 07 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 283K · <a href="https://t.me/VahidOnline/78564" target="_blank">📅 17:31 · 07 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78562">
@@ -1145,10 +1145,10 @@ realDonaldTrump
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/e65799ad06.mp4?token=NIA2F7JY89U9LjFUk-UQeC6XumuUL9iaZkrLewLoj1lNhBpvIRoWCJEc5QaAbNOl6zGo7_96llhrekf57n9gYXsYpAw8LsNSdvmybS2sJMVc5VKxacL32YgPRdIY0ptnk0fLfwo1NrBcrwX02BNUl9aWtz4Noie2YS-qb6v7GZ8yfzoOioc_S9Og9o9g3xGNPHAOmYHi-NS4IwQepWeOXZR-9Sk_iwdPcEBIiSStlp_CHlJk81XK4eiL-R8p7tZNfvHoK7_W7y9AZjqkD6CGgZYxYWd9Sg2P7WF-PQTs9Ra1jWdbAs0-gHWb4uH8kTQGHTCitsAT_FEgC6nInMPf0w" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/e65799ad06.mp4?token=P8_saluDLl0qFPazg8-6nR8p5Kvjt0lwXd_iU0uYmgUL4HB23oqmakfTrZFvYyKPxPqELyv3M-lNWT0Mh5SnkB290HSqLviOfEm2RFbeOACLjJpPnQoX9CEZSXocucV2ItQXttGXgxOPXwQrRPq_82sZV0QDHmZ2WdrClMvK0Ws8EVcI49j1JfAfb2UQtCJX0W44ixqYztDcm17Pd_hK-cpN0ZJB2daavcnoUVur9QUORuLrSTcRseV_9oqzMyinPzKIxXVmD49UcFWsnY4yPycdxcGSmUn-5WqYizBKPBoxrS2r7MVRoK78px6bB2mrzDYQGrsIUwMHu-nrC9l6rQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/e65799ad06.mp4?token=NIA2F7JY89U9LjFUk-UQeC6XumuUL9iaZkrLewLoj1lNhBpvIRoWCJEc5QaAbNOl6zGo7_96llhrekf57n9gYXsYpAw8LsNSdvmybS2sJMVc5VKxacL32YgPRdIY0ptnk0fLfwo1NrBcrwX02BNUl9aWtz4Noie2YS-qb6v7GZ8yfzoOioc_S9Og9o9g3xGNPHAOmYHi-NS4IwQepWeOXZR-9Sk_iwdPcEBIiSStlp_CHlJk81XK4eiL-R8p7tZNfvHoK7_W7y9AZjqkD6CGgZYxYWd9Sg2P7WF-PQTs9Ra1jWdbAs0-gHWb4uH8kTQGHTCitsAT_FEgC6nInMPf0w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/e65799ad06.mp4?token=P8_saluDLl0qFPazg8-6nR8p5Kvjt0lwXd_iU0uYmgUL4HB23oqmakfTrZFvYyKPxPqELyv3M-lNWT0Mh5SnkB290HSqLviOfEm2RFbeOACLjJpPnQoX9CEZSXocucV2ItQXttGXgxOPXwQrRPq_82sZV0QDHmZ2WdrClMvK0Ws8EVcI49j1JfAfb2UQtCJX0W44ixqYztDcm17Pd_hK-cpN0ZJB2daavcnoUVur9QUORuLrSTcRseV_9oqzMyinPzKIxXVmD49UcFWsnY4yPycdxcGSmUn-5WqYizBKPBoxrS2r7MVRoK78px6bB2mrzDYQGrsIUwMHu-nrC9l6rQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">دونالد ترامپ، رییس‌جمهوری آمریکا، روز دوشنبه ۶ مهر ۱۴۰۵، در کاخ سفید گفت آمریکا «خیلی زود» در جنگ با جمهوری اسلامی پیروز خواهد شد و پس از پایان جنگ، قیمت بنزین به‌شدت کاهش خواهد یافت.
 ترامپ گفت: «این جنگ تمام خواهد شد و ما در این جنگ پیروز می‌شویم و قیمت بنزین با سرعت زیادی پایین خواهد آمد. هیچ‌کس دیگری نمی‌توانست چنین کاری را انجام دهد.»
@@ -1572,7 +1572,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-78530">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/dsGjWgzDJ1DELh-2lRBSgLJJGcWxt8Dhq_f6XuJ70HRsXtTzS1WPNiX19Dh29_QvafQ2qG7l6TdoOnbq8oYZWx9L5GKl_BjYcYijkzNXd3gJswchrzT70X4tQ0S_5TdX9EJyDNdPc7whtFUvAbV5luHdDvp-6UvI6B_08k97fQezCf4aLVlVhGOvmQlyYCJChaBukQZpJcYayJzN8yGC_t4A9w9ODQU3unKstR5GWxWr0khVVisMOuVKBqIINT03BQFn69TOVsk_O24nSyF2MVJVmXZLNU1SV3bCylldjWp6nUY9kxAAKYCunxQiO6hSziPmBi_e-Hprdm25q06SwQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Z-6i55o98D91eyemMs1pdr65kk6UJSxICgS0f3gYxo0e9SpeB2amXGCJV8-P4ccFgs2Ne5WSq6YP6FWcfm75Bgyog7RCLn3FIJd6f15h1kL8Ksg1Phv-iSdXqakrrCZ0l0DieqnR-v10Ah7IpcBBszyFMBDR74iBCG2QMD03jIbQPXvJOOvMzSp6dgfmYeeaIW8Q1xLcoFZNFU7mXHEI13Rn5mbeiRuFqbYuX7ueufI7S1796Bzx59FlkTDQ9788qOmBsGINyNG8e7dX4c3ftZUlYoUIKn3TaIBmWd8fp25C0e0-IPnLy2X0oFPVORwaaGViGZIo2woSY4ZnkD4C2w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">روزنامه وال‌استریت ژورنال به نقل از «مقامات آمریکایی» گزارش داد که رئیس‌جمهوری آمریکا، پیشنهاد جمهوری اسلامی برای برقراری آتش‌بس هفت‌روزه را رد کرده و به دستیاران خود گفته است که انتظار دارد پس از انتخابات میان‌دوره‌ای ماه نوامبر، بمباران را از سر بگیرد.
 دونالد ترامپ بارها هشدار داده است که در مورد تاسیسات هسته‌ای «کوه کلنگ» ممکن است دست به اقدام نظامی بزند.
 وال‌استریت ژورنال می‌گوید که پیشنهاد جمهوری اسلامی شامل بازگشایی تنگه هرمز و ازسرگیری مذاکرات هسته‌ای در ازای لغو محاصره بنادر ایران توسط ایالات متحده بود.
@@ -1712,7 +1712,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-78520">
 <div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/scksXwkFiuzV4whF_iwSD1O-17bEx1pbxLrUogzxiqaYBcmpTVRPw-flYKQr7EBM6UfnCD5h2UaaI7sWC31f8ZmnubOLZ_cQfV271c8hwhynAcMtKM8JxInU8-pV42M0I6W6l963FALVm5nffJhsLufGZtn8r9X8vgO4GCw0rm5RgZtiT7dvGjiwW-Lrh3aVaEORKksqjfADmPVhMmkP_kbS_hRm9c3dpOuLW0x27M-TJF_MtcHPI2dI9cRedYL7MZH1_DVaIS1pbplmp9VLp1Sksq-SzAZfUsTYXdS4pMcC0w-ZkEDIEiFUvrshsjj6n8cZIrdW9urDKGr509pKtw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kyHGnXMeUl4B8W9Fo8QIRrZakwDOAzm5S5bBIt6tKQI1O4Q4rbRrWB-Cexj1pyHqb0NfBlGxl4fzy1l86mf0D0N60BS81B_w59NpgRWepslfYWx9agoKDl6Xix1IDgmrcSU1ji0WyXLeC8EdHtbtoNl99v2f66Cyh7h6EjTueEhpdxcP6W98GUKDBgnXkqyPd1RzYxma3qvbM_A4Lk7SkOWydwGoz6Q1iuJw0P1j2hCgvWr80ajBxVCVcva0zFpt8mGiQBhFdyO3tEO5ZMfpjdXyjXZA6md6-gXHr9GKn1SKGTs9dmFysftN6FGjx0W34ruKIRDfABd6fyEqx44aqQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به گزارش سی‌ان‌ان، عباس عراقچی، وزیر امور خارجه جمهوری اسلامی ایران، پنجشنبه دوم مهر گفت تهران پیشنهادی به آمریکا ارائه کرده است که می‌تواند به بازگشایی تنگه هرمز و ازسرگیری مذاکرات برای دستیابی به یک «توافق نهایی» منجر شود.
 عراقچی گفت این پیشنهاد در هفته جاری از طریق میانجی‌ها به واشنگتن ارائه شده و بر اساس آن، آمریکا باید ظرف هفت روز شروط مشخصی را اجرا کند تا مذاکرات از سر گرفته شود و تنگه هرمز بازگشایی شود. او جزئیات این شروط را بیان نکرد، اما گفت این موارد «چیزی بیشتر» از مفاد تفاهم‌نامه اسلام‌آباد نیستند.
 بر اساس این گزارش، تفاهم‌نامه اسلام‌آباد که در خرداد میان ایران و آمریکا به دست آمد، شامل کاهش تحریم‌ها، آزادسازی دارایی‌های مسدودشده ایران و توقف عملیات نظامی، از جمله در لبنان، بود. یک مقام کاخ سفید نیز در واکنش به اظهارات عراقچی به سی‌ان‌ان گفت گفتگوها از طریق میانجی‌ها «مثبت و سازنده» بوده است.
@@ -1777,10 +1777,10 @@ VahidOOnLine
 <div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/475bcac205.mp4?token=Zi3KPE9s1GAiHKKkParlNGXzrCEU8Dc0ReLoOrff-QX1GLI_B3Ur3yObYnji_BeU2I_8SG_irD2egGRG3xWTuJhm2bKL0aduIUsr90tsh2Qj6Sh3yLYmAIXzF6_NbEyOtPXWtJ_bmsSpqLGBkP75rZ4NQrmz_ZH-502qg_ZmB4JkIRwky9IWDYqAzLm2iljvvSrYjbHx2j3WoSZ0HBbRhVw4q6HyWWd8mv4Y5ZIsvkkyAo7MiDAfxUcYAV53NUnl3T8wrAxehx7wEfg3A5gXONnv201QKJ34WVTB-pdz-QzcEoxukhc4PslTW3nKsxxHCocflwSEXOtlLFxMwpLWqg" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/475bcac205.mp4?token=UDMKM8Y5gA1efXpx19-8Fp65PWN3phvDPE9hOTfq0MLeqArat8PD967tQKBOpTn3-DriisV2HhZIMRG5bquWIhVaz7RZd4d7rNYm4_KK34Gv4_vALjTPBg6FtMpFoZwN5JkACceVxGXl0-RXommGrkSFXlyR0FE1kJC7OSLk65hPrJiH69aU294A-ZxOTQQD8-W98io16lFLgEJR8KTXOAE7Zb32G_HrKqGNbQ5Zyu-TVRs-61X1MGGt0dBtsxRMT86Y15lJYqIGbvjf7cHoi7SeOSatcQ8xKsYTelZT_gEXrWKK22Yfi828mnVdXthOwkUWpsAwfxfPyGTwu0WXew" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/475bcac205.mp4?token=Zi3KPE9s1GAiHKKkParlNGXzrCEU8Dc0ReLoOrff-QX1GLI_B3Ur3yObYnji_BeU2I_8SG_irD2egGRG3xWTuJhm2bKL0aduIUsr90tsh2Qj6Sh3yLYmAIXzF6_NbEyOtPXWtJ_bmsSpqLGBkP75rZ4NQrmz_ZH-502qg_ZmB4JkIRwky9IWDYqAzLm2iljvvSrYjbHx2j3WoSZ0HBbRhVw4q6HyWWd8mv4Y5ZIsvkkyAo7MiDAfxUcYAV53NUnl3T8wrAxehx7wEfg3A5gXONnv201QKJ34WVTB-pdz-QzcEoxukhc4PslTW3nKsxxHCocflwSEXOtlLFxMwpLWqg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/475bcac205.mp4?token=UDMKM8Y5gA1efXpx19-8Fp65PWN3phvDPE9hOTfq0MLeqArat8PD967tQKBOpTn3-DriisV2HhZIMRG5bquWIhVaz7RZd4d7rNYm4_KK34Gv4_vALjTPBg6FtMpFoZwN5JkACceVxGXl0-RXommGrkSFXlyR0FE1kJC7OSLk65hPrJiH69aU294A-ZxOTQQD8-W98io16lFLgEJR8KTXOAE7Zb32G_HrKqGNbQ5Zyu-TVRs-61X1MGGt0dBtsxRMT86Y15lJYqIGbvjf7cHoi7SeOSatcQ8xKsYTelZT_gEXrWKK22Yfi828mnVdXthOwkUWpsAwfxfPyGTwu0WXew" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">رهبران دو اقتصاد بزرگ جهان روز پنج‌شنبه، دوم مهر، در کاخ سفید دیدار و دربارهٔ موضوعاتی از تجارت و تعرفه‌ها گرفته تا تایوان، هوش مصنوعی و جنگ ایران گفت‌وگو کردند.
 در این دیدار که در کاخ سفید برگزار شد، شی جین‌پینگ از ایران و آمریکا خواست که در اسرع وقت مشکلاتشان را با گفت‌وگو حل‌وفصل کنند. رئیس‌جمهور چین همزمان از میزبان آمریکایی‌اش خواست که به‌سرعت و از طریق مذاکره، جنگ با ایران را پایان دهد.
@@ -1962,7 +1962,7 @@ VahidOOnLine
 سلام حدود ساعت ۱۲ یه موج شدید پنجره های ما رو تو بندرعباس لرزوند
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 449K · <a href="https://t.me/VahidOnline/78505" target="_blank">📅 00:33 · 02 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 450K · <a href="https://t.me/VahidOnline/78505" target="_blank">📅 00:33 · 02 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78504">
