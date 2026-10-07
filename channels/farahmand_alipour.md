@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 62.5K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-15 02:39:50</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-15 06:03:32</div>
 <hr>
 
 <div class="tg-post" id="msg-6799">
@@ -308,14 +308,14 @@
 در این ویدئو یکی از دیگر از اینفلونسر‌های مسلمان رو به دوربین به صراحت میگه :« باید اصول کشور مبدا خودمون رو به اینجا بیاریم. باید به کشور مبدا خودمون احترام بگذاریم.
 دیدید دیروز در فرانسه چه کار کردیم؟
 همین کار رو در این «فاکینگ» کشور [ایتالیا] ، این کشور گوه، انجام میدیم! تغییرش میدیم ، مگه نه؟ تغییرش میدیم!»</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/farahmand_alipour/6799" target="_blank">📅 12:52 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/farahmand_alipour/6799" target="_blank">📅 12:52 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6798">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DAAJtGsYhKZ2KbSpP-gz4HwySCzd2d1BcUFVb6GKmvRov4SPbb3C2zfV9TK97aiSc817z2r4rm9jyEux3Z8m6menLemd1bLdqmbyEsRmmI-kNTJi0j6NZxwSVGvMxoQlQSCEILFK8GHtMTncs7Z_8aXgAFXrAsOuwvv67kWPq_-ymLm7A90ZvdRSZUkxBnHmZ8K0W2Xbv1DYQk9SMIvaWuZ6DUw6OI-0Ojz4lFw8Y-ifFtcfzipf9tXyC8A30-tc5wlxbgWd9w2PdOg0Nr5R6kgpbDfFlbDuz18jb6jrwCyAOABX_4GCjoMx3LzlRZ_5CK2YKST1bgg6bnET35PowA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">روزنامه فرانسوی لوپون از همکاری چپ افراطی فرانسه و «اخوان المسلمین»  در تخریب‌های اخیر خبر میده. دولت فرانسه نیز دیروز بر اساس اطلاعات نهادهای امنیتی از حضور چپ افراطی در گسترش دادن اعتراضات و به آشوب کشیدن اعتراضات خبر داده بود.  در حالی که اعتراضات دانش‌آموزان…</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farahmand_alipour/6798" target="_blank">📅 12:45 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farahmand_alipour/6798" target="_blank">📅 12:45 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6796">
@@ -332,7 +332,7 @@
 عده زیادی با پرچم فلسطین، الجزایر و مراکش،
 در تجمعات حضور دارند و دست به تخریب میزنند. دقیقا مثل هر بار که بازی فوتبال هست
 و همین جماعت شهر رو به آشوب میکشن.</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farahmand_alipour/6796" target="_blank">📅 12:43 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farahmand_alipour/6796" target="_blank">📅 12:43 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6795">
@@ -351,7 +351,7 @@
 در قضیه ایران ناراحتن که چرا آمریکا حمله کرد
 و اکثر مردم ضد آمریکا نشدن؟
 البته به جز اقلیت مزدور اسلامگرا و اقلیت بی‌آبروی چپ که هر دو اساس انقلاب ۵۷ رو داشتند.</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/farahmand_alipour/6795" target="_blank">📅 13:10 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/farahmand_alipour/6795" target="_blank">📅 13:10 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6794">
@@ -423,7 +423,7 @@
 <div class="tg-post" id="msg-6782">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">لابد در این ماه‌های اخیر زیاد دیدید که حامیان حکومت،  در دفاع از خودشون میگن :  بله درسته، ما نیم قرنه علیه آمریکا و اسرائیل شعار میدیم، ولی کدوم کشور به خاطر  شعار دادن و پرچم آتش زدن و حرف،  حمله کرده به یک کشور دیگه؟   البته که همین جا هم صادق نیستند، …</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/farahmand_alipour/6782" target="_blank">📅 11:44 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/farahmand_alipour/6782" target="_blank">📅 11:44 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6781">
@@ -485,7 +485,7 @@
 اینها مثلا زرنگی کرده بودن بریم تنگه رو ببندیم در آستانه انتخابات قیمت نفت بره بالا،
 آمریکا بیاد گریه و التماس کنه!
 برای «زمستان سخت اروپا» هم منتظر بودن روسای جمهور اروپا برن بیت رهبری گریه کنه، لکن هیچ کس بهشون محل نگذاشت و خودشون دچار مشکل کبود گاز و برق شدن!</div>
-<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/farahmand_alipour/6778" target="_blank">📅 09:57 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/farahmand_alipour/6778" target="_blank">📅 09:57 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6777">
@@ -612,7 +612,7 @@
 </div>
 <div class="tg-text">موج جدید پناهجویان و مهاجران افغان
 به سوی مرزهای ایران</div>
-<div class="tg-footer">👁️ 37.5K · <a href="https://t.me/farahmand_alipour/6767" target="_blank">📅 17:45 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/farahmand_alipour/6767" target="_blank">📅 17:45 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6766">
@@ -1122,10 +1122,10 @@
 <div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/0dc8790870.mp4?token=cClpZj4oZGaJCf4SLPlyi0u2exRZL2TPpyNAKj7-kZrcbBsj6asWcjq4ExVzDDZ7AZ3lidbHQmz-vqt1npcrAt4vAOkfB_0ciUJOfyb5bQOJECS8Hfx_RQlERPAAMY5H7o9L5ZPCQwX9KTG3ttg6IGHH4RdKFwvEzeeRRTCTBjtuVYhuFedKsi97EctehACGT49CBDFMrKK9_DWx4mFrksJXURk3hxgxNDesxBKEYbIK5-k6imo124U7kD_tFsvS3NVHZBHiFoY11DVawAax27byHTuMEzCw-C6zS--0K0yg_O0RHLD6c4wgzViRhJ5P9IZ6xt-bLUplVP5rDZP01Q" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/0dc8790870.mp4?token=g50eDGST2NRhus2_9QOAf47-iXA4w13EzM16yl-IDtzIv4-XtSYVks3qaUAAMg_OzX4exA-5xOJeR2F8AQL2pqQ9gGUo7QrhzAxD2gS7n3HQRKeBR-zENvFx9MqhgqaLTmG-JlST0SHFPGfEP8y834Vu24y2TbrqCtrnDt1ti9sL4OAyd2YA85lHXZUI7adKA31PrXLsll4E2s68_83Lm05LdhKPvPRU93a6bYxEQj1oOgP2ayHaUavgFzNplaTCryOOyULZW3X4vADpKAwCXnvS0u_yQ9pMT1oDoQ1L3ZQeQLTG6bMgv8MX32piS_hHsocq8QkZSkPp1cKVsDNnHw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/0dc8790870.mp4?token=cClpZj4oZGaJCf4SLPlyi0u2exRZL2TPpyNAKj7-kZrcbBsj6asWcjq4ExVzDDZ7AZ3lidbHQmz-vqt1npcrAt4vAOkfB_0ciUJOfyb5bQOJECS8Hfx_RQlERPAAMY5H7o9L5ZPCQwX9KTG3ttg6IGHH4RdKFwvEzeeRRTCTBjtuVYhuFedKsi97EctehACGT49CBDFMrKK9_DWx4mFrksJXURk3hxgxNDesxBKEYbIK5-k6imo124U7kD_tFsvS3NVHZBHiFoY11DVawAax27byHTuMEzCw-C6zS--0K0yg_O0RHLD6c4wgzViRhJ5P9IZ6xt-bLUplVP5rDZP01Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/0dc8790870.mp4?token=g50eDGST2NRhus2_9QOAf47-iXA4w13EzM16yl-IDtzIv4-XtSYVks3qaUAAMg_OzX4exA-5xOJeR2F8AQL2pqQ9gGUo7QrhzAxD2gS7n3HQRKeBR-zENvFx9MqhgqaLTmG-JlST0SHFPGfEP8y834Vu24y2TbrqCtrnDt1ti9sL4OAyd2YA85lHXZUI7adKA31PrXLsll4E2s68_83Lm05LdhKPvPRU93a6bYxEQj1oOgP2ayHaUavgFzNplaTCryOOyULZW3X4vADpKAwCXnvS0u_yQ9pMT1oDoQ1L3ZQeQLTG6bMgv8MX32piS_hHsocq8QkZSkPp1cKVsDNnHw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حالا که  اسد فرار  کرد و سوریه تصرف شد میگن قبر حضرت زینب در مدینه است.
 به اینها باشه پسفردا میگن جنوب لبنانه!</div>
@@ -1418,7 +1418,7 @@
 
 <div class="tg-post" id="msg-6694">
 <div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jxadd1A9OURdDBJpXRWNEIjqtPco3ux4JFpuvJ-CjO3H1710vdxEUpNxajX3JmgKBMDs9rdGJgYI3Ob3y5-6tFktZey4h6q2hBRiDnGntcv9vDhDLbYNpOi9A8O400tTjdbVp2IacMsK3B0CnXfKILX-WZbmxKVEwg9VeOPrULnebdaPbD1J0EPzRn5ZUoONxT-kP_EbgGbWBtw3AIVUch6qhfSI9rjaTPKcC1QYAHvV3XvA3u01O137-HdDNdR4n9i5myu_OZYboPh55GUj1o9Pj8J8yej7pCaiuvkB25amB7zwDKQPIU1OD-fRzDHPyZPKNARjj8Xh0wy_OhaI5A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/POBvAqmktSwyaW8KSTZZp4TyLYsAyXewg77FWhyr02yW1sbJi0p3RrrdfIQHeZRNmf0hX9pYaHuWKCUHlBLWTMY4wU6oNXIZ6f9wmJHann5In6_U59tsPVEIeYaAmDWnlD4Lf0XoSiXNeBK1CVa5ilT60AOzY6Gn-Yu6N_dAwMNjiRkNpvFJbaCpMT0DtJ9BJN5oPRqAZZcUPzMqmloEe9ocZFCCHPKVtFcKJObGQXuptnEdlTjOLq9tKDEIZPLxiXspXoC2hbUkoJ1xOgUO0qf6kfRDmUa1pfVPOZMBlo8KlNMR_TZss--rEksSJ9yyJLZiWtl3dFTCMC3sBSnw5Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بارها به تکرار نوشتم،
 تنگه هرمز، تنگه احد اینها میشه،
 به وسوسه غنیمت گرفتن و پول‌ درآورن از تنگه و اعمال فشار بر بازار نفت،

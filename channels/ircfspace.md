@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-15 02:39:50</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-15 06:03:32</div>
 <hr>
 
 <div class="tg-post" id="msg-2657">
@@ -309,7 +309,7 @@ github.com/CluvexStudio/ZedSecure/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 8.72K · <a href="https://t.me/ircfspace/2657" target="_blank">📅 20:13 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.08K · <a href="https://t.me/ircfspace/2657" target="_blank">📅 20:13 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2656">
@@ -323,7 +323,7 @@ github.com/CluvexStudio/ZedSecure/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/ircfspace/2656" target="_blank">📅 20:03 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/ircfspace/2656" target="_blank">📅 20:03 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2655">
@@ -338,7 +338,7 @@ github.com/CluvexStudio/ZedSecure/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/ircfspace/2655" target="_blank">📅 19:55 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/ircfspace/2655" target="_blank">📅 19:55 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2654">
@@ -355,7 +355,7 @@ github.com/MatinSenPai/SenPaiScanner/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/ircfspace/2654" target="_blank">📅 19:45 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/ircfspace/2654" target="_blank">📅 19:45 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2653">
@@ -370,7 +370,7 @@ stup360
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/ircfspace/2653" target="_blank">📅 19:38 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/ircfspace/2653" target="_blank">📅 19:38 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2652">
@@ -386,7 +386,7 @@ stup360
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/ircfspace/2652" target="_blank">📅 23:57 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/ircfspace/2652" target="_blank">📅 23:57 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2651">
@@ -403,7 +403,7 @@ defyxvpn.com/download
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/ircfspace/2651" target="_blank">📅 23:34 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/ircfspace/2651" target="_blank">📅 23:34 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2650">
@@ -417,7 +417,7 @@ defyxvpn.com/download
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/ircfspace/2650" target="_blank">📅 18:02 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/ircfspace/2650" target="_blank">📅 18:02 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2649">
@@ -434,7 +434,7 @@ defyxvpn.com/download
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/ircfspace/2649" target="_blank">📅 17:53 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/ircfspace/2649" target="_blank">📅 17:53 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2648">
@@ -464,7 +464,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/ircfspace/2647" target="_blank">📅 17:41 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/ircfspace/2647" target="_blank">📅 17:41 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2646">
@@ -528,7 +528,7 @@ mahsanet
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 62.5K · <a href="https://t.me/ircfspace/2643" target="_blank">📅 23:31 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 62.6K · <a href="https://t.me/ircfspace/2643" target="_blank">📅 23:31 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2642">
@@ -638,7 +638,7 @@ theverge
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/ircfspace/2635" target="_blank">📅 19:09 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/ircfspace/2635" target="_blank">📅 19:09 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2634">
@@ -653,7 +653,7 @@ theverge
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 45.6K · <a href="https://t.me/ircfspace/2634" target="_blank">📅 18:57 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/ircfspace/2634" target="_blank">📅 18:57 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2633">
@@ -732,7 +732,7 @@ Hamed
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/ircfspace/2629" target="_blank">📅 07:37 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/ircfspace/2629" target="_blank">📅 07:37 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2628">
@@ -794,7 +794,7 @@ GrizzlyBTCloverr
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/ircfspace/2625" target="_blank">📅 20:09 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/ircfspace/2625" target="_blank">📅 20:09 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2623">
@@ -944,7 +944,7 @@ filterbaan
 
 <div class="tg-post" id="msg-2614">
 <div class="tg-post-header">📌 پیام #60</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/YS8tDfg2mdidAtuWJdetlQuLMp3l1kFN3q72KvaOvm4LCT1t7ZrY7mEPA11juakgmLf9qh5eh3PGz6H2uSW-p-1hTmI6eS8ORroOklLj-KAYHPNrpfZ4hCbBtb3hSwJQpMO3kc82hCknslEzCYbq_2dJm8XvfNggASOWXSmMIilIfqSqa-tqm83eACOBrekAOadfilDruFXC8PbxfE20WRi0w0Pn20PKNXxbQYT2sspIl1-j-PXahA9GoBSTtYvC8DfUm44gP-VfhWxkQSyffCCpqeFN4zTTVZn8r4zyr30fg_izKGBe2oI26wl1sjKQ0WvhzFnEMLnZL7yRzbF0hw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WeoiOZdRq5JSCf0Xxgr3pe4hbMEeRQGkLHsonm_dx_1Llj9bmJ5DJgkvYcwkx1_fKFl8c7NhObLGBXEaWo7PzPNtJknDoHu3xs0gA16GwY2QPrUuroX6eWRN6Hhni5Rs81m8mk_02Ul-iCB8tK1xZloyJoIyzm2KgcZdw2_pY-TV7U9eXfGHTkVM5086zCeTgFoN21omyuIOYznePxJyhHY4ZZ7lLEQo1YB-slghUQ3Z7Nu5uSMFD2hwTCGKo2dPDUA512dui6jhHU6a_slDHwTYo2YLt22nPKMvocr0gskfNXd6L43hzLw5MOaKAWNYUcErBIKTTkfNBEQ7xDknnQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طبق گزارش Qrator Radar، شبکه همراه اول با شناسه AS197207 در ساعت ۱۳ روز ۲۹ شهریور، بطور ناگهانی ۱۹۰ پیشوند شبکه رو اعلام کرد که باعث ایجاد ۱۰٬۸۶۵ تداخل مسیریابی با ۱٬۵۲۴ شبکه در ۱۰۰ کشور شد.
 این رخداد که بعنوان BGP Hijack ثبت شده، در ۲ مرحله اتفاق افتاد؛ مرحله اول حدود ۸ دقیقه و مرحله دوم حدود ۱۵ دقیقه طول کشید و حداکثر انتشار اون به ۱۰۰ درصد رسید.
 وقوع BGP Hijack میتونه باعث قطع دسترسی، انحراف ترافیک، اختلال گسترده و در بعضی شرایط شنود یا دستکاری ارتباطات بشه!
@@ -956,7 +956,7 @@ filterbaan
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.5K · <a href="https://t.me/ircfspace/2614" target="_blank">📅 08:01 · 31 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 38.6K · <a href="https://t.me/ircfspace/2614" target="_blank">📅 08:01 · 31 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2613">
@@ -1389,7 +1389,7 @@ defyxvpn.com/download
 
 <div class="tg-post" id="msg-2587">
 <div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/eTOifUnyR4mnOiI3fUmtWOuVFBoRjWFkb6Nv5_jXqqL8bsgUjNCw2XNdsbkrffzC1MM-4y8ATWcxovE6-2gJ-pN-zwTOxRcTO12L-curJ131FVpWDOMrxsFoWeZ5c7mt52WLUPqj2cYwYMa8O6eFPIcbvt_ogQ2PI4eC8Dc77Fpd-GpA3NVhUu39IhcyCU39Ns8xIQkLFF2TpLwiWgIq5_wva4uYau_kB_zlq4NfUUMk9uLlKnOVppIc8_-V0Su1OGld_bVKNTf8zTk0nH3AqyOkA7CSG_uJJ3MzWt-tfjPrCTTud3ql-Gm-Hn_u8qHlOAw-VVamlI6RL-EGugr8nA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/TANJtHwBAh8aSXGydY9PKsvJc6DA12-lnVyzVqjDPAM-bsy7slac_fxAX6hZN6oZVONK3luXy_HuGRnpl-hRbI0y7SmVIMomNttBhlwqvThuaOL3grjK-a5YP3BPnD3UV_P4M7vMNlyVTbMz0KjWVyPDtQIh7DSo0L49vBbOalC0tBwsBE3zlPUEF-Mn_5-eCBE55FxAs3YK2Pc9n4Ksq7xvelaIWwbmwpoxlJRP-7m-YrPUGapcCKqqpdRlVMMPIhakjLqj6twNpBt7XmXjR_NysNDN-_JvGhNb7Jgjv9WjPT0K2hJJY3gEq_ix8yRBkkGQJ6ObsRQV7egdd7hrxg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مجلسی که خودش کارت قرمز داره، به وزیر قطع‌ارتباطات کارت زرد داده
 🤡
 🔗
@@ -1419,7 +1419,7 @@ defyxvpn.com/download
 
 <div class="tg-post" id="msg-2585">
 <div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/H3WdX4rQjGAXRaV02iNyE6liuFWjp23J8WxbvWqMEIaRnCXjZRDc8OXauIzXG1NyNWldaw9r7Zdw_HEzWnQ5WdUkuaH1ixIhGqvPpSMIesFl-7UQCY_LOH3JYc9yGBV_ywAxJRHE4wXRNkNr71fyW-psUa8yiQ-TUlMgA41GU48cvt3ARTCElmb0uTWhSqy0F6cNd5ttbfHnDr8TzbZ2uhQo8GxI2YP7MTbnuiN-11uarVZGuLDE4TuuOvvCUZqIMjtzeEFn-dQn5j36pxt5nfVoKCCtIA1Huty7NCMmmptbg3VR2yCc0isU_8UhKxZkXrRsAgYpj9ujHenr4_X2pg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZFsJUNdJkm0JUzxOLj2jUPKKHzxOWJtDHFrCuB3-UN0CFhx04jCEE6TBfF21y1NzwMEbxQltYeoeKNGk2hACc7o337hhQkU4QOL6ltVmyvWKJa2ckV-CbjIulBHBWR0WNKf4-9sbUdDGKiHKmMqaeuf-QzeijOZxT_8ZwpKEUBZKJrpAuPHVWKZ-3iP7O7-9FDNwys6IzHD9wm1BVQjyYz9VFZwvlycF3B5i3RX4ai9q-y6i-g15t9mesIkuSBDcTEKpN2dms6NcZ5tGnF54XmUYsfdFractDseIWeMQ880NhVN7Jpx9auhIBlqe_haz_jFf5fzoxWiNKIcwhriENA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کاسپین یه ابزار رایگان و متن‌باز برای ویندوز، مک، لینوکس و رزبری‌پای هست، که دستگاهتون رو به یک هات‌اسپات مجهز به VPN تبدیل می‌کنه تا بتونین فیلترشکن رو با همه دستگاه‌های خونه به اشتراک بذارین.
 کافیه لینک VLESS، VMess، Trojan، Shadowsocks یا Hysteria2 خودتون رو وارد کنید، تا ترافیک دستگاه‌هایی که به Wifi کاسپین وصل میشن، از تانل Xray رد بشه؛ بدون اینکه لازم باشه روی تک‌تک دستگاه‌ها VPN یا پروکسی نصب کنین. درضمن اگه تانل قطع بشه، کاسپین دسترسی اینترنت دستگاه‌های متصل رو قطع می‌کنه.
 👉
@@ -1488,7 +1488,7 @@ SePeHr
 
 <div class="tg-post" id="msg-2581">
 <div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/LimrXcURBh7Bmb24dNCr3M_2uWHfpefmAC9gyE1ofRMnW668BDDWDsUC5d5EJNuxnn1aLUmNO6FoKxjXZfXzZ9SSEVVZoY76_oOuhD5ILvL1QfttRTfKOo6xBVeN9XOikEFH56LF6cnHmz3J_nvo1LndVWGvmqS2DWT3FV3i0m1vNrghPWU7UgI-_UjlY3HdDXwmBCnypm7LT4CTrq0-I_u03kFLEbT9OOzw3HeKVyBGnmyMmvWpvNVzcz-Wp2d7qp1WNW8gmWCrCyJaqYZ_Qtt3MdN8vK9xLaZaEtNKr3soekC_wNgnfbGiaR2WkoLMqITyBxIrvO-yGwxHMIB7Yw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vBN0M48ZYjWKY-fI6CGE3Ti4BJN39Vz2mMXPnKvq9P9hQAjKHBLTzqzCpQeVr8V1kLfw-NKsy8IfK5dlutYss8WYnIbLomPWGcPNVut6OKk_DbubUe4Hy-f6zPQpldGkl79uv-IEnCSDRxZugRWv5IDEV39sIhiNPtfKwv7tD4EVe9HcKdex00V-9tzqIZQr2J9cffAnuhQheebHMawzo2BbyMfJvWFEP4kxS4g7tHAhRTk2zMdg8sD-oLoOZLKmTr-5WW2E82T56NzDmot2gETQ6hr3oSU1lBZgliQpjKfdJPnyGz38ZxcF8P3R4-XHiSpNnikkUUdmHwIT3Jf-qA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فیلترشکن متن‌باز و رایگان دیفیکس اطلاع‌رسانی کرده که امکان تغییر زبان رو در گزینه Diagnostics & Experiments مربوط به بخش "ترجیحات" این‌برنامه قرار داده و حالا کاربرانی که به چینی، روسی و فارسی صحبت می‌کنن، می‌تونن DefyxVPN رو به زبان مورد نظرشون تغییر بدن.
 البته این‌بروزرسانی بصورت آزمایشی از طریق گیت‌هاب در دسترسه و بزودی از طریق استور هم در دسترس قرار می‌گیره.
 👉
@@ -1569,7 +1569,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2576">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IwHAJn6HEqCD-BXdoAHpWbEE9JHd4oNjWTQNHUPeW6sZKQMkQ2qKTxll0gf1ZCBKDcmGptyVwud_99vmpqI1t7CoVomAXZe6Tpie_XWzmEq0fcgZvoeaMmPmrt18ukEjHDqcHhGNCHT8VjVuoNQIa8ElGyg_QrR9ii0blqzEBJSBmu5fTtyGOqxvtobW3ChnXgGPFNYcX7uRkIViR-bJq7lTvjWL4kceexojmEE7yP7Ax0yw48W4kXV8Bf5FiJhQmLhEKPSSn3f2BrxYaN8irRvg30aLnZU4v2T5bkIoPQo0RhqFw1cfkol6nt9oHNHd3VM9tAmJQt36noItS0a0_w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hgsIJrunVt87tU1xoQYf_s9WstY4ShCA005_vhCCg9m2bhBreIAKwue3nSNqeQraOeUJcCFt7HuHiBEnwdwd0YAVK6-XskRQ_7jq4y0-wTY4u6QwI9g-_YePBl3WM0BKE5f2E70LukvR_Dxd3mcpkJHZobGdYmzbEUkc7iUL7sMgVNBOUefsVdYXD6hKhUG9Jo8s10onLK5aXoh2Ol-wWfxvCKJ52Hp2vfieY6zSM4kBD-thmAEgL9EcPG4WjwPXvIj8CNOBPFvxK0rXBW6y7b5auRgBcBp3HkwrQ6IFLx0bOe3Gn3n_ivWAOPdx3H_AxY-ha4Z-50_mVV3Cp7owAQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه باگ توی واتس‌اپ اندروید پیدا شده که روی بعضی گوشی‌ها می‌تونه اجازه بده بدون باز کردن قفل گوشی، به گالری و عکس‌های شخصی دسترسی پیدا بشه. این کار نه هک پیچیده‌ای میخواد و نه دانش فنی؛ فقط فرد باید گوشی رو در اختیار داشته باشه.
 ماجرا از طریق تماس ویدیویی واتس‌اپ و گزینه‌های Meta AI انجام میشه و روی گوشی‌هایی مثل Pixel 6 Pro و Oppo K13 جواب داده، اما مثلاً Galaxy S25 Ultra جلوی این دسترسی رو می‌گیره.
 ©
