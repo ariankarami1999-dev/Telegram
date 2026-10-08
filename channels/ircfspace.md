@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-16 01:37:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-16 05:37:29</div>
 <hr>
 
 <div class="tg-post" id="msg-2657">
@@ -309,7 +309,7 @@ github.com/CluvexStudio/ZedSecure/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/ircfspace/2657" target="_blank">📅 20:13 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/ircfspace/2657" target="_blank">📅 20:13 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2656">
@@ -323,7 +323,7 @@ github.com/CluvexStudio/ZedSecure/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/ircfspace/2656" target="_blank">📅 20:03 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/ircfspace/2656" target="_blank">📅 20:03 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2655">
@@ -338,7 +338,7 @@ github.com/CluvexStudio/ZedSecure/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/ircfspace/2655" target="_blank">📅 19:55 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/ircfspace/2655" target="_blank">📅 19:55 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2654">
@@ -355,7 +355,7 @@ github.com/MatinSenPai/SenPaiScanner/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/ircfspace/2654" target="_blank">📅 19:45 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/ircfspace/2654" target="_blank">📅 19:45 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2653">
@@ -370,7 +370,7 @@ stup360
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/ircfspace/2653" target="_blank">📅 19:38 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/ircfspace/2653" target="_blank">📅 19:38 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2652">
@@ -403,7 +403,7 @@ defyxvpn.com/download
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/ircfspace/2651" target="_blank">📅 23:34 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/ircfspace/2651" target="_blank">📅 23:34 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2650">
@@ -434,7 +434,7 @@ defyxvpn.com/download
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/ircfspace/2649" target="_blank">📅 17:53 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/ircfspace/2649" target="_blank">📅 17:53 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2648">
@@ -448,7 +448,7 @@ defyxvpn.com/download
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/ircfspace/2648" target="_blank">📅 17:45 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/ircfspace/2648" target="_blank">📅 17:45 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2647">
@@ -494,7 +494,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/ircfspace/2645" target="_blank">📅 17:28 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/ircfspace/2645" target="_blank">📅 17:28 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2644">
@@ -528,7 +528,7 @@ mahsanet
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 65.3K · <a href="https://t.me/ircfspace/2643" target="_blank">📅 23:31 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 65.4K · <a href="https://t.me/ircfspace/2643" target="_blank">📅 23:31 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2642">
@@ -1389,7 +1389,7 @@ defyxvpn.com/download
 
 <div class="tg-post" id="msg-2587">
 <div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sMMOk4Jk6K3sXeBGJkDezEMzkXAEwynEjXZOd9sdZnxLlLoWjTcHd1xS0rr9jypp_WgYHKrt0nyrFtRkzOCwV5GEy35u7v5MtBiklYd4a74jNN1BiTleuGa3Yd3Ieu0666459kD-yo6mGD8rZPsde-Gmp6cKBQ4ATaQ3mf5bluWnxCpAt8fHVdwcghqFfiZRb59tirln4oLp01vd1-kYCxyqOXs9YczyyyHqJQ_WTH7OCwWmcVXFdosklHy2oTWQSARNSLIL5Nd3bfv-bywBGVaVoFPF8SVfRcQT7HAXmT3I5oYbah26QhFRos-8HUnysYiIfLhkQ06UqCLdOiOpJQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/TIT38wsqzseuYltMmbo0gVAi0mhGwLZ74BFedeIxW5F26IyzSS1fnuoRta5FHdth3nrtY4DEVelTFlUHeB8rLWGBYqBi8MLkNMqJ__ygHT5YJ4hOc-gYF9KKqyxf-OMrnCfTA6M5YyyvyQKH-ZoinX7Pb5Jig_MVS3FDP3dm3viNaDnSDIM7Syi5QR-CFCq639U3c12Cc_eNEQGKKZdOH90CQJvHP3PLXQYhmteAxfsoB7jNcrqn95ul18d6ao6HuzmamSAQEmasEE31ky5Ei_RwGiM0q6ankzWxTgGhbL2LdBH-BsrbgkdXcTpkWlPLsF7QMsWHelzrkmtriba0UQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مجلسی که خودش کارت قرمز داره، به وزیر قطع‌ارتباطات کارت زرد داده
 🤡
 🔗
@@ -1488,7 +1488,7 @@ SePeHr
 
 <div class="tg-post" id="msg-2581">
 <div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/S6cQJpX4gIkq9fgvuugNLnFOC_GeHax7F5OHQrC0yUNX0B484-Minmyt4r4a5qPufxLRxVmt-GCjm4Jo7WjvpEI7sYQSVD8PFqblFqoYhdFXO6X-0kNecIoZKfv7M5BiDV1NByQWDTgOLqPqk17yD96uEurcb711X6g3CqmNVH3_kGiNZrcjQ_l2s29i1UnviW5lPjXMqf2J2vk1anoV2wFjdLJB3288jxwqh53DD3V8efIo0hOUVheG4jaPqUgOekJBZ7Pi7BPALsQ0ZR2-GiILefL5BuSeMNosi945ly_d4ESWYdhxNZILjZHxgo2QJzuiOHgRMFcwsYlqrV4PrA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nzYi5cgk9oP3wq2bJt6Zd48EHaRpWCjs9GqiT1OzzS_MLO3cn7bzUJwBN9VwGr665Geoa3v4FmNZvQ6Ni55sPQhR9edtPvGlosb68fUYEk2jcXL8N40oPlRJtRIFYBL5b1Mawkim4-7fecFUL2shiZvK5iE8VPh_rXAkTKopC-S1i7FBMUXlt7Ad7IWmkr_JP5whKBQMqkfDG1ozPc1vC2N_d2793vjV-5IljMsG8MbihY0vlPsrLiRUzdidCSQf7vfE7b_gvZ9P2ohUuNp5ZZopzQWoMaBY9LfSBLKBG9__m2LC8N3fKiDd4r5RlwJcFaEVeTdNK7Tpilr9_0W8jA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فیلترشکن متن‌باز و رایگان دیفیکس اطلاع‌رسانی کرده که امکان تغییر زبان رو در گزینه Diagnostics & Experiments مربوط به بخش "ترجیحات" این‌برنامه قرار داده و حالا کاربرانی که به چینی، روسی و فارسی صحبت می‌کنن، می‌تونن DefyxVPN رو به زبان مورد نظرشون تغییر بدن.
 البته این‌بروزرسانی بصورت آزمایشی از طریق گیت‌هاب در دسترسه و بزودی از طریق استور هم در دسترس قرار می‌گیره.
 👉
@@ -1569,7 +1569,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2576">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/F6vq9P7hkGQp_J0v1NQjfdqrmFbWKoSvHutjrg50m7r20z_eI75Fe_g-dqIJjmkWKqH6wI36EIR-u1B0QFmiZ5BRTjohQOsGu2jPSJEL6cJVFOpZohDuIhNpobQEtS8_HuoxFp5POFYxqRsSDwIdGEdwXZ8LLykp7jg_R7nNC5aLiQ-blp7oigTDcyA4C1SNEG3HkJCNSVmLRi89X0OdR9PtY0aoLMo34gR5KM1ZPUs0DlDi9woxkoo-cnicg5Et0-RceBc2W5OHHjfnqcnHyCW2PshU2O2xJ2pIYFiAaUtm3i2vv3cCN8__N59DZuGNeUXyRpKmi5hZ6UXuYASo5w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/C1onCLpIL3JAOKTYwnbnXzcnT1ORkywHcjBa2lDNb4jLYt-5ejB6Q04i3ZpdvV86M6aV2z-NoEhoOjlXuWT8AoSoMzlplIgkFY48kf3Jb52uT2EVwqPsycL5CYrXGlQ0L_F0hpXYZH-jchrwmJoKpkFAbe5g6SKaatdsMM7QRRErazz9TWeKWOX6uoVj_trV6t3V5aSji8wBFRKDALVjndFhAz7jC1YeQv4iqWltJ8kui_G1AAE3V8b73HS7YUTYEZUA9TlVcQAcMOzt2UqM6jeRvOsyais-2COnpIuNSHXZ5yYPcnEGEF06pCLEtol2-Obk45lPaWExVXUxnPL-zA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه باگ توی واتس‌اپ اندروید پیدا شده که روی بعضی گوشی‌ها می‌تونه اجازه بده بدون باز کردن قفل گوشی، به گالری و عکس‌های شخصی دسترسی پیدا بشه. این کار نه هک پیچیده‌ای میخواد و نه دانش فنی؛ فقط فرد باید گوشی رو در اختیار داشته باشه.
 ماجرا از طریق تماس ویدیویی واتس‌اپ و گزینه‌های Meta AI انجام میشه و روی گوشی‌هایی مثل Pixel 6 Pro و Oppo K13 جواب داده، اما مثلاً Galaxy S25 Ultra جلوی این دسترسی رو می‌گیره.
 ©

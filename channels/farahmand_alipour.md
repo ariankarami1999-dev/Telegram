@@ -291,14 +291,14 @@
 <p>@farahmand_alipour • 👥 62.5K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-16 01:37:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-16 05:37:29</div>
 <hr>
 
 <div class="tg-post" id="msg-6802">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gbRNohQNMJwKjiqfXQ0XChBg4e6gJ0ux0aI70Ml7_gB3Rd-01f5Ldzf5jJgXyjmYQ5zAi7-qEbOew_VdPBiR3aK8X_N2jyHIf6GzP56rbp-auRJy4whOw5HY_ClzYTDXqWwBV-8-jffVvIb39mL0gWqiANvzmGpg-sjcP6JwYw2y3ofW4NmEAv5rjkOOJ-dOhAUkY7Un6dEGtpUDoc75pCnWT3f94W_PqjrF_p052rwhDy85JtpFXjQfkgXseXqRrIXqSkNaMAdgM7J5q9uDzo0ooiD5KBh7ycuteb1q_uVMhuYTjJ8ceQkLFvSHC5STkb46sEWYVbIGh7oOFgQ1GQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">می‌د‌ونستید یکی از معروفترین آیات قرآن  که آخوندها دائم به نفع خودشون و شیعه و….. استفاده می‌کنن آیه ای است که دقیقا و مستقیما در مورد یهودیانه؟  یعنی قرآن وسط تعریف یک داستانه، و آیه  قبل و بعدش داره در خصوص جدال بنی‌اسرائیل  و فرعون صحبت میکنه و  اینکه خدا…</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farahmand_alipour/6802" target="_blank">📅 10:52 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/farahmand_alipour/6802" target="_blank">📅 10:52 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6801">
@@ -316,13 +316,13 @@
 این آیه مکی است و این نکته مهمیه!
 چون آیات قرآن در مکه همه در مدح و ستایش یهودیان و مسیحیان بود، تا زمانی که اسلام در مدینه قدرتمند شد و شمشیر و سرباز هم به دست آورد!
 اون موقع آیات متفاوتی نازل شد سراسر سرزنش یهودیان و مسیحیانی که مسلمون‌ها  رو تحویل نمی‌گرفتن!</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farahmand_alipour/6801" target="_blank">📅 10:42 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/farahmand_alipour/6801" target="_blank">📅 10:42 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6800">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">روز ۷ اکتبر ۲۰۲۳  وقتی به اسرائیل حمله کردن،  نوشتن که دنبال کنیز اسرائیلی هستن!  هر چقدر اونجا کنیز گرفتید اینجا از تنگه‌ پول در میارید!</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farahmand_alipour/6800" target="_blank">📅 10:41 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/farahmand_alipour/6800" target="_blank">📅 10:41 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6799">
@@ -346,7 +346,7 @@
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/E4MI5XsLbkYJVxKdTuBVEJg7sopC0Splyx39IDxnGJQ2_o6dTlejlu-2gwFO8ms4fKpySmU3noG5Fp07k_WDH_hgaz8hcZXO-8RI0d1d4dsO_4o-rKGAta24IXx95qHFqMbOBiLSNtNFNjgDpngYRNGdfnl0mWujwGOIpZquTDLy8Pj7RRqEqi25IJtxhph8bgOEGKPsDslGUpt23C6B1iR_HzZOBDhSqZH9OF0mfQRRdY-KFww0q5fQE9O5LV-lOXqhzrOPTCGP7zGY7Iz3_V3gU-AH5dO33QBck7snARW8DqujQ1gSEzG8pgcAL0d0cXy4vmSezgBxEn1et5HkuQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">روزنامه فرانسوی لوپون از همکاری چپ افراطی فرانسه و «اخوان المسلمین»  در تخریب‌های اخیر خبر میده. دولت فرانسه نیز دیروز بر اساس اطلاعات نهادهای امنیتی از حضور چپ افراطی در گسترش دادن اعتراضات و به آشوب کشیدن اعتراضات خبر داده بود.  در حالی که اعتراضات دانش‌آموزان…</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/farahmand_alipour/6798" target="_blank">📅 12:45 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/farahmand_alipour/6798" target="_blank">📅 12:45 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6796">
@@ -363,7 +363,7 @@
 عده زیادی با پرچم فلسطین، الجزایر و مراکش،
 در تجمعات حضور دارند و دست به تخریب میزنند. دقیقا مثل هر بار که بازی فوتبال هست
 و همین جماعت شهر رو به آشوب میکشن.</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/farahmand_alipour/6796" target="_blank">📅 12:43 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/farahmand_alipour/6796" target="_blank">📅 12:43 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6795">
@@ -382,7 +382,7 @@
 در قضیه ایران ناراحتن که چرا آمریکا حمله کرد
 و اکثر مردم ضد آمریکا نشدن؟
 البته به جز اقلیت مزدور اسلامگرا و اقلیت بی‌آبروی چپ که هر دو اساس انقلاب ۵۷ رو داشتند.</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/farahmand_alipour/6795" target="_blank">📅 13:10 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/6795" target="_blank">📅 13:10 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6794">
@@ -394,7 +394,7 @@
 <div class="tg-post" id="msg-6793">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">بالاخره امام علی در کوفه  تونست ۲ هزار نفر جمع کنه!  برای کمک به محمد بن‌ابی‌بکر!  در حالی که در خود مصر ۱۰ هزار نفر مصری جمع شده بودند علیه محمد بن‌ابی‌بکر و به لشکر ۶ هزار نفری عمر و عاص پیوسته بودند!  این ۲ هزار نفر از کوفه،  تا راه افتاد و …..  هنوز وسط…</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/6793" target="_blank">📅 13:02 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/6793" target="_blank">📅 13:02 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6792">
@@ -418,7 +418,7 @@
 <div class="tg-post" id="msg-6789">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">بعد از چندین نامه تند که معاویه نامه‌ها رو هم می‌فرستاد برای نخبگان و مردم مصر،  (البته محمد بن‌ابی‌بکر هم خوشحال میشد که نامه‌هاش خطاب به معاویه،  دوباره برمیگرده به مصر و‌ مردم مصر هم می‌بینن نامه‌ها رو!  اما قضاوت مردم به سود محمد بن‌ابی‌بکر نبود! نمی‌گفتن…</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/farahmand_alipour/6789" target="_blank">📅 12:33 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/farahmand_alipour/6789" target="_blank">📅 12:33 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6788">
@@ -448,7 +448,7 @@
 <div class="tg-post" id="msg-6783">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">پس تا اینجا همه می‌دونیم که  فقط شعار ندادند!!  همه ما این قوم رو می‌شناسیم و ۵۰ ساله که حیاتشون در تنش و بحرانه!  اما فرض بگیریم،  فقط شعار دادن و حرفهای تند زدن بود آیا در تاریخ داشتیم که حرفهای تند زدن باعث جنگ و ….. بشه؟   بله! و اتفاقا دو مثال روشن در…</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/farahmand_alipour/6783" target="_blank">📅 11:52 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/farahmand_alipour/6783" target="_blank">📅 11:52 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6782">
@@ -495,7 +495,7 @@
 کار خود حکومته و مافیای حکومتیه، برای افزایش
 قیمت‌ها و افزایش قیمت ارز
 و افزایش درآمدهای خودش!</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/farahmand_alipour/6780" target="_blank">📅 14:21 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/farahmand_alipour/6780" target="_blank">📅 14:21 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6779">
@@ -1153,10 +1153,10 @@
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/0dc8790870.mp4?token=vNTs329BLiTqUPoyrKEESCC3cmhP0qr7JgXiwNRkV7rDbbzFqKvFL9bTSTK2TI31rLPOs9OKMRhtIztyLRojZ_pNOqsag1g4gzbmo8XRGwUCQI5YhSeQacQfRldFtnOR7hEiz0BdJ_xAl6zUuPfJCket5ihe53Ff8LPfu5G3GSPU5r7SynpxV0AHn9nhw6LADFyZgMcPdqVrYpCDNiw8CNmDUcs3s_wtmOpzOh_1dUOCw9_ETyG2jZnsy2nyBUOPgFbe_Md6drN5NxwvYl10FxQ8IQsskoj0zgO-Fq2Oe20_ZSowBOYyNe3UbRw_t_k3kweWN-qpJsEFwJiNRlAElg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/0dc8790870.mp4?token=K0ezL-TV0f_7Flaora51X5hv-OG4ZtbNp8ss244jsSeYjVFHjlu6BsWHimrN3xUQNPbDdVGOQy0VgcwzAfV_M_BzhiZw78vGuYEBCRcoBUbgfENPc8fatUWEJNWYiUBYlVYQlcR-VFXtKI_KzrAh5HYZqtJqLHGnGZvvRduS79SSYwl6kEJFHU2JPmCa2QsU65ms1etZ_bd6d09ZD1O6tRu1m0bw8rEjg3InUePdrUfbT1KU2L_U0fNVHXz5e0m_f4o03uoUxYzc0AuRWntYPHn88w0GchRgzMib-oRNj6IYVBf3GBy41URyAjOnEl__wi5aA6aqp31PLxeqa7DEpQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/0dc8790870.mp4?token=vNTs329BLiTqUPoyrKEESCC3cmhP0qr7JgXiwNRkV7rDbbzFqKvFL9bTSTK2TI31rLPOs9OKMRhtIztyLRojZ_pNOqsag1g4gzbmo8XRGwUCQI5YhSeQacQfRldFtnOR7hEiz0BdJ_xAl6zUuPfJCket5ihe53Ff8LPfu5G3GSPU5r7SynpxV0AHn9nhw6LADFyZgMcPdqVrYpCDNiw8CNmDUcs3s_wtmOpzOh_1dUOCw9_ETyG2jZnsy2nyBUOPgFbe_Md6drN5NxwvYl10FxQ8IQsskoj0zgO-Fq2Oe20_ZSowBOYyNe3UbRw_t_k3kweWN-qpJsEFwJiNRlAElg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/0dc8790870.mp4?token=K0ezL-TV0f_7Flaora51X5hv-OG4ZtbNp8ss244jsSeYjVFHjlu6BsWHimrN3xUQNPbDdVGOQy0VgcwzAfV_M_BzhiZw78vGuYEBCRcoBUbgfENPc8fatUWEJNWYiUBYlVYQlcR-VFXtKI_KzrAh5HYZqtJqLHGnGZvvRduS79SSYwl6kEJFHU2JPmCa2QsU65ms1etZ_bd6d09ZD1O6tRu1m0bw8rEjg3InUePdrUfbT1KU2L_U0fNVHXz5e0m_f4o03uoUxYzc0AuRWntYPHn88w0GchRgzMib-oRNj6IYVBf3GBy41URyAjOnEl__wi5aA6aqp31PLxeqa7DEpQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حالا که  اسد فرار  کرد و سوریه تصرف شد میگن قبر حضرت زینب در مدینه است.
 به اینها باشه پسفردا میگن جنوب لبنانه!</div>
@@ -1214,7 +1214,7 @@
 تو تاریکی می‌نشینیم، دلاری گوشت میگیریم،مهریه کم میگیریم!
 موجودیتتون ذلته!
 دیگه ذلت چیه!</div>
-<div class="tg-footer">👁️ 35.9K · <a href="https://t.me/farahmand_alipour/6719" target="_blank">📅 14:17 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 36K · <a href="https://t.me/farahmand_alipour/6719" target="_blank">📅 14:17 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6718">
@@ -1429,7 +1429,7 @@
 
 <div class="tg-post" id="msg-6697">
 <div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QDVr9qpIHsXf89e1md62hPhZeJGUvtayWi-RocCiHNBScrrYh7dyGK96yLvN08Io3i5sMD_MymiPsgC3ci--nNWE5d-dDRS8YanH72JpbMCPM2hxnF6KWqMHVfd4-lZAJPMeZs9DKMmSbQjIrYmoh_lzd5ADo7nwExL5VP58A5iHS5_-pJqzEQvYzlGd9e7lbVkBGto8h9o1kzr4zSexLNcXshTM6dM76M6-bEhyVImNgmObiNPiBpG7e9X5iVnCUD-tvFSnUVXkp6YDSGunSHcHbiftqkiEMJhHS-1gOcyNZaSeVdIWTQ7mWPQ9UJeHH-_3LQcH4bBYdio52attjQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DEWF7-60gt_uio3zn4mRcMuF9sV_UjYQL3fj17lQKrC9zfOLWUiE2iGTfByJq5FAk8v2ATJGVw02wKrdomgGrJrUU_u2zvrNH6XQiuXgg5M1c_k7N5by-GuXx_QCeQgbBQ6Fe2_DpRzb3fD1r9eSO19VGH6RccPf-RG2pvBOoCb98wC9rKC5WxeB9PSELLBB2ro9Lq_0o8OnjB4uCrreO1FDm4Hf-B3LnBIQUatxrqkm_lasgXl2StMLALfNqUAwhnYxMZnCdTO1tw1g8dorR7QOwon8uJnVfw8W-WIZiEoC9U_h1NHvB_TrtMdjx9979llpFeoWS-mnLrcip-8Kig.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-footer">👁️ 31.5K · <a href="https://t.me/farahmand_alipour/6697" target="_blank">📅 15:12 · 14 Shahrivar 1405</a></div>
 </div>
 
@@ -1441,7 +1441,7 @@
 
 <div class="tg-post" id="msg-6695">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oOggHwtGcUOShcp6pX3sCU58kist4ftnzG77p5pTzg3ebVMQNHcaN-jyBlVZzcrKRCOGAh5Ls17B4K11d8j_i6jpou1bxBLNMxJCT59oIVNGoeXkEg1QI5rYS3fv8P9aXhbtHj4mMpDpif4e2I_ZtYzWO1wDS-LtvMcY4siIxGPK55Dbm-W6QcqHma18NIjYMpSIu2mruu4mV2SZUuZvROEHGN-WqgHvGqfaja0Xr7TryRPWPBfV9iliLB1McppKw0G5clZXcurq3FEXFj10YWOAZn6bN_A9Hfv29WhjdosDC7lsHjXLojVKvnKZq0qIDphcKRHTUxQqbIt_8PaNQA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Cb1yW-5gT5SawmJ6wnNeGjldC4DJjVmRBSoRuZcNnor8vBk5AaYSpQqOZQEoDE55zn8nOSVaP0kJLC7ZlX-G3Zjpv-8hQfEm67P6zylT1R1M2rhtqmX7PPKOlJ8KCDw0aVrnFGsT96-lLL2TLrctrAAcguB5hWj2mXMb3fItWdJ_ECGWBe_rgO4xztS9pvYQSS0TOcQX9JxiXnjr2sHe8A0B17N6FVUASDeaGFfcIS1m4T3yO2h_2CMFbTUpqfnhOPS1udSCTHftbNep4fJUEgOQJGEtE6F2yIkm2naPp66Au67jHCspqC6wzHaYoq23zYHMhPJUvNt08uytK2-59g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">می‌گفتن : دریا هم بسته بشه،
 کلی مرز زمینی داریم!</div>
 <div class="tg-footer">👁️ 29.1K · <a href="https://t.me/farahmand_alipour/6695" target="_blank">📅 15:06 · 14 Shahrivar 1405</a></div>
@@ -1449,7 +1449,7 @@
 
 <div class="tg-post" id="msg-6694">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KgfnQMunM-MZQvHOp_wNAdUgPU3w1aUAQQo9A07kF64NUnNPe7lrrLEKtIiAi8Xozy-Kt9zf5ZHe2bWRshqUALDmVKEUGFD-Dw2Z_HKkGrBXS5V5RsMhHl1e1u-kxeFNQamrOq00RTKpZ620R8Ovdjr95IFNupk72IAjYKAJ2DI_2oHpv6qNqhJ4b9PugmG8lXMsX3iSIzq8l9y2L51qm8cgvKFBq412xulQoqf_moCzJfnslcy1veH7wo9saSU1C0QwbvcpNfQZPKOOqJH3ReasUMYCvXNyaQFb4Aw0ZEXa5J_mxwZsE1BZQFvcLkWea2e663KkIKWrA1GgjeKcsQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/P1kY-Tww0DrMAP3aDJ3N8qAzz2JdDxzaqJJkBcSKSAiq50BvgA9jO_ScdfEQuNzCM21asokk5jMWa1rRg7Ky0xcylUiZPLLljiaefRz-uFr_xXN3ciubWF2njlWIBmszGvEEKQYsGKK7eOr62h9xBTukGAwKXme8fhe11SrMwx1ScwVufm4acA-yPMgEFumW9Mrdl6bh85M2Zck0C-_QsS6yntP0E9D9YgssSGuVAILMPW3VElzLqBVSn66fYrEWzphwvOCmMzP8Vbg4kzyxFgwvSnLmjqVogNexoERr4RMeikdzp7TmllYIURMZKRKOiSq4kC2o9hCghYRNuXUO4g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بارها به تکرار نوشتم،
 تنگه هرمز، تنگه احد اینها میشه،
 به وسوسه غنیمت گرفتن و پول‌ درآورن از تنگه و اعمال فشار بر بازار نفت،

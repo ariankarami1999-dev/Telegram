@@ -292,23 +292,23 @@
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-16 01:37:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-16 05:37:29</div>
 <hr>
 
 <div class="tg-post" id="msg-108043">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-footer">👁️ 1.79K · <a href="https://t.me/Futball180TV/108043" target="_blank">📅 01:10 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.85K · <a href="https://t.me/Futball180TV/108043" target="_blank">📅 01:10 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108042">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTrexBet IR</strong></div>
-<div class="tg-footer">👁️ 1.58K · <a href="https://t.me/Futball180TV/108042" target="_blank">📅 01:10 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.23K · <a href="https://t.me/Futball180TV/108042" target="_blank">📅 01:10 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108041">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-footer">👁️ 1.73K · <a href="https://t.me/Futball180TV/108041" target="_blank">📅 01:10 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.75K · <a href="https://t.me/Futball180TV/108041" target="_blank">📅 01:10 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108040">
@@ -324,7 +324,7 @@
 اشک‌های تلخ امی‌مارتینز حین تماشای مسی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.08K · <a href="https://t.me/Futball180TV/108040" target="_blank">📅 00:53 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/Futball180TV/108040" target="_blank">📅 00:53 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108039">
@@ -332,7 +332,7 @@
 <div class="tg-text">احساسی‌شدن دیشب آنتونلا‌ و فرزندان لیونل‌مسی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.7K · <a href="https://t.me/Futball180TV/108039" target="_blank">📅 23:02 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.86K · <a href="https://t.me/Futball180TV/108039" target="_blank">📅 23:02 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108038">
@@ -348,7 +348,7 @@
 میانگین نمرات لیونل‌مسی در ۲۱ سال حضور ملی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.91K · <a href="https://t.me/Futball180TV/108038" target="_blank">📅 22:30 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/Futball180TV/108038" target="_blank">📅 22:30 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108037">
@@ -370,7 +370,7 @@
 ‏رفتن را متوقف کن، یک بار دیگر به این موضوع فکر کن، ‏این چیزی است که همه در استادیوم مونومنتال از تو می‌خواهند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.82K · <a href="https://t.me/Futball180TV/108037" target="_blank">📅 22:13 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/Futball180TV/108037" target="_blank">📅 22:13 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108036">
@@ -386,7 +386,7 @@
 خوبان‌عالم وقتی راجب تیم‌ملی حرف میزنه:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.81K · <a href="https://t.me/Futball180TV/108036" target="_blank">📅 22:04 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/Futball180TV/108036" target="_blank">📅 22:04 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108035">
@@ -399,7 +399,7 @@
 ❤️
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/Futball180TV/108035" target="_blank">📅 21:43 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/Futball180TV/108035" target="_blank">📅 21:43 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108034">
@@ -417,7 +417,7 @@
 🔥
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/Futball180TV/108034" target="_blank">📅 21:31 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/Futball180TV/108034" target="_blank">📅 21:31 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108033">
@@ -432,7 +432,7 @@
 <div class="tg-text">هیجان آرژانتینی‌ها بعد از آخرین جمله لیونل‌مسی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/Futball180TV/108033" target="_blank">📅 21:04 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/Futball180TV/108033" target="_blank">📅 21:04 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108032">
@@ -449,7 +449,7 @@
 لیونل اسکالونی: "اون «جذبه» یا هاله‌ای که داره. من تو تمام عمرم چنین چیزی رو تو هیچ‌کس ندیدم. اون شور و حسی که مسی ایجاد می‌کنه رو تو هیچ‌کس دیگه‌ای ندیدم."
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/Futball180TV/108032" target="_blank">📅 20:31 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/Futball180TV/108032" target="_blank">📅 20:31 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108031">
@@ -466,7 +466,7 @@
 ❤️
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/Futball180TV/108031" target="_blank">📅 20:00 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/Futball180TV/108031" target="_blank">📅 20:00 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108030">
@@ -482,7 +482,7 @@
 تیترهاش حسابی آدمو به فکر می‌بره!»
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/Futball180TV/108030" target="_blank">📅 19:31 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/Futball180TV/108030" target="_blank">📅 19:31 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108029">
@@ -493,7 +493,7 @@
 تمام 126 گل ملی لیونل مسی به تفکیک هر کشور.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/Futball180TV/108029" target="_blank">📅 19:01 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/Futball180TV/108029" target="_blank">📅 19:01 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108028">
@@ -509,7 +509,7 @@
 اهدای تابلو فرش به صالح‌حردانی توسط تبریزی‌ها
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/Futball180TV/108028" target="_blank">📅 18:54 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/Futball180TV/108028" target="_blank">📅 18:54 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108027">
@@ -527,7 +527,7 @@
 استقبال گرم وصمیمی مردم تبریز از اعضای باشگاه استقلال در هنگام ورود به این شهر
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/Futball180TV/108027" target="_blank">📅 18:45 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/Futball180TV/108027" target="_blank">📅 18:45 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108026">
@@ -545,7 +545,7 @@
 چرا او آقای خاص است؟⁣ وسلی اسنایدار در مصاحبه اخیر خود با ذکر یک مثال به این سوال جواب داد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/Futball180TV/108026" target="_blank">📅 18:33 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/Futball180TV/108026" target="_blank">📅 18:33 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108025">
@@ -562,7 +562,7 @@
 دریاچه ارومیه پس از نخستین باران پاییزی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/Futball180TV/108025" target="_blank">📅 18:19 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/Futball180TV/108025" target="_blank">📅 18:19 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108024">
@@ -580,7 +580,7 @@
 حماسه ای دیگر از آقا جواد؛ آموزش زبان اسپانیایی با لهجه ایتالیایی‌فارسی توسط جواد خیابانی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/Futball180TV/108024" target="_blank">📅 18:11 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/108024" target="_blank">📅 18:11 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108023">
@@ -593,7 +593,7 @@
 تماشای بازی او لذت‌بخش بود هرچند که هم در سطح ملی و هم در رئال مادرید، مقابل او سختی زیادی کشیدم.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/Futball180TV/108023" target="_blank">📅 17:59 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/108023" target="_blank">📅 17:59 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108022">
@@ -610,7 +610,7 @@
 خواهر امیر مقصودلو در ویدیویی اعلام کرد خبر‌ ادعایی مرتبط با عفو تتلو، صحت ندارد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/Futball180TV/108022" target="_blank">📅 17:54 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/Futball180TV/108022" target="_blank">📅 17:54 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108021">
@@ -630,7 +630,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/Futball180TV/108021" target="_blank">📅 17:54 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/Futball180TV/108021" target="_blank">📅 17:54 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108020">
@@ -660,7 +660,7 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/Futball180TV/108020" target="_blank">📅 17:54 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/Futball180TV/108020" target="_blank">📅 17:54 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108019">
@@ -675,7 +675,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">دیگه دیره! خیلی دیر جناب ماله‌کش اعظم!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/Futball180TV/108019" target="_blank">📅 17:20 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/108019" target="_blank">📅 17:20 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108018">
@@ -692,7 +692,7 @@ T.me/TrexBet_Ir</div>
 کنایه امیر ژوله به لغو بازی با گینه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/108018" target="_blank">📅 16:55 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/Futball180TV/108018" target="_blank">📅 16:55 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108017">
@@ -709,7 +709,7 @@ T.me/TrexBet_Ir</div>
 اینتر تحت هدایت کریستین کیبو با تاکتیک خاص خودش یکی از پرس گریزترین تیم‌های اروپاست.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/Futball180TV/108017" target="_blank">📅 16:31 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/108017" target="_blank">📅 16:31 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108016">
@@ -728,7 +728,7 @@ T.me/TrexBet_Ir</div>
 یکی هوش مصنوعی رو از مردم بگیره، رم یجوری گرون شده که شرکت تولید کنندش به خودش هم رحم نمیکنه!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/108016" target="_blank">📅 16:05 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/108016" target="_blank">📅 16:05 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108015">
@@ -746,7 +746,7 @@ T.me/TrexBet_Ir</div>
 نکونام: از پرسپولیس محبی و بیفوما و از استقلال آسانی و کوشکی را بگیرید، چطور می‌توانند گل بزنند؟
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/108015" target="_blank">📅 15:51 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/108015" target="_blank">📅 15:51 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108014">
@@ -763,7 +763,7 @@ T.me/TrexBet_Ir</div>
 و این شب دارک در ۱۴۰ ثانیه!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/108014" target="_blank">📅 15:40 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/108014" target="_blank">📅 15:40 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108013">
@@ -779,7 +779,7 @@ T.me/TrexBet_Ir</div>
 فقط از خودگذشتگی مهدی مهدوی‌کیا رو ببینید ۵۵ تا بازی برای تیم ملی نکردم تا به جوون‌ترها بازی برسه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/108013" target="_blank">📅 15:15 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/108013" target="_blank">📅 15:15 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108012">
@@ -796,7 +796,7 @@ T.me/TrexBet_Ir</div>
 🐐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/108012" target="_blank">📅 14:50 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/108012" target="_blank">📅 14:50 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108011">
@@ -813,7 +813,7 @@ T.me/TrexBet_Ir</div>
 یادگاری‌دیشب داور بازی به لیونل‌مسی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/108011" target="_blank">📅 14:01 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/108011" target="_blank">📅 14:01 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108010">
@@ -824,7 +824,7 @@ T.me/TrexBet_Ir</div>
 هفت‌بازی اخیر پرتغال بدون حضور‌ رونالدو
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/108010" target="_blank">📅 13:35 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/108010" target="_blank">📅 13:35 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108009">
@@ -835,7 +835,7 @@ T.me/TrexBet_Ir</div>
 خلاصه‌ای از بیانیه کریس رونالدو:
 🔻
 رونالدو تأکید کرد که مربی قبلاً با او توافق کرده بود که در یک برنامه مشخصی برای بازی‌ها شرکت کند، و بازی با نروژ در این برنامه نبود. سپس، به طور ناگهانی از او خواسته شد که برای بازی 30 دقیقه آماده شود، و در نهایت، با وجود…</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/108009" target="_blank">📅 13:33 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/108009" target="_blank">📅 13:33 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108008">
@@ -847,7 +847,7 @@ T.me/TrexBet_Ir</div>
 فرشید سمیعی مدیرعامل سابق استقلال و کارشناس حقوقی: هیچ خطری یاسر‌آسانی و استقلال را تهدید نمی‌کند
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/108008" target="_blank">📅 13:12 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/108008" target="_blank">📅 13:12 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108007">
@@ -864,7 +864,7 @@ T.me/TrexBet_Ir</div>
 عملکرد تماشایی دیشب لیونل‌مسی جلو‌ بنین
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/108007" target="_blank">📅 13:10 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/108007" target="_blank">📅 13:10 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108006">
@@ -882,7 +882,7 @@ T.me/TrexBet_Ir</div>
 کنایه ابوطالب‌حسینی به مصاحبه اخیر مربی تیم‌ملی: امیر خان ما رو بهمون پس بدین
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/108006" target="_blank">📅 12:45 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/108006" target="_blank">📅 12:45 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108005">
@@ -893,7 +893,7 @@ T.me/TrexBet_Ir</div>
 پوستر باشگاه استقلال برای بازی با تراکتور
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/108005" target="_blank">📅 12:43 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/108005" target="_blank">📅 12:43 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108004">
@@ -910,7 +910,7 @@ T.me/TrexBet_Ir</div>
 دبیر: اگر اسم قوه قضاییه را می‌آوردم باید می‌ترسیدید؛ خداراشکر فوتبالی‌ها دوم جهان شدن را برای کشتی شکست می‌بینند!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/108004" target="_blank">📅 12:27 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/108004" target="_blank">📅 12:27 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108003">
@@ -928,7 +928,7 @@ T.me/TrexBet_Ir</div>
 لئو مسی: از همه کسایی که کمک کردن آرزوی کودکیم برآورده بشه ممنونم!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/108003" target="_blank">📅 12:20 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/108003" target="_blank">📅 12:20 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108002">
@@ -946,7 +946,7 @@ T.me/TrexBet_Ir</div>
 طنز فاخر ابوطالب؛ ۸۰ ثانیه تلخ!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/108002" target="_blank">📅 11:55 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/108002" target="_blank">📅 11:55 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108001">
@@ -957,7 +957,7 @@ T.me/TrexBet_Ir</div>
 الغرافه قطر اعلام کرد که استقلال بدلیل تحریم خطوط هوایی ایران حق پرواز مستقیم به قطر را ندارد و باید راهی جایگزین برای حضور در قطر انتخاب کند. آبی‌ها احتمالا باید ابتدا به عراق سفر کرده و سپس با پروازی مستقیم عازم دوحه شوند
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/108001" target="_blank">📅 11:51 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/108001" target="_blank">📅 11:51 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108000">
@@ -974,7 +974,7 @@ T.me/TrexBet_Ir</div>
 پیام‌ویژه یک مادربزرگ ایرانی به لیونل‌مسی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/108000" target="_blank">📅 11:43 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/108000" target="_blank">📅 11:43 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107999">
@@ -986,7 +986,7 @@ T.me/TrexBet_Ir</div>
 لیونل مسی با همراهی استفانو دی کارلو، رئیس باشگاه ریورپلاته، کارت عضویت خود به‌عنوان عضو افتخاری این باشگاه را دریافت کرد. همچنین یک پیراهن ریورپلاته با نام مسی، به اسطوره آرژانتینی اهدا شد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/107999" target="_blank">📅 11:33 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/107999" target="_blank">📅 11:33 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107995">
@@ -1002,7 +1002,7 @@ T.me/TrexBet_Ir</div>
 کیت دوم و فوق‌العاده ملوان با الهام از تورهای ماهیگیری و امواج دریا رونمایی شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/Futball180TV/107995" target="_blank">📅 11:24 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/Futball180TV/107995" target="_blank">📅 11:24 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107994">
@@ -1013,7 +1013,7 @@ T.me/TrexBet_Ir</div>
 لحظه گزارش آخرین گل مسی در آخرین مسابقه‌اش برای آرژانتین توسط جواد خیابانی، رسول مجیدی و نیما دلاوری⁩
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/107994" target="_blank">📅 11:23 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/107994" target="_blank">📅 11:23 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107993">
@@ -1033,7 +1033,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/Futball180TV/107993" target="_blank">📅 11:23 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/Futball180TV/107993" target="_blank">📅 11:23 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107992">
@@ -1065,7 +1065,7 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/107992" target="_blank">📅 11:23 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/Futball180TV/107992" target="_blank">📅 11:23 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107991">
@@ -1081,7 +1081,7 @@ T.me/TrexBet_Ir</div>
 اشک‌های تلخ انزو فرناندز در بازی دیشب
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/107991" target="_blank">📅 11:05 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/Futball180TV/107991" target="_blank">📅 11:05 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107990">
@@ -1099,7 +1099,7 @@ T.me/TrexBet_Ir</div>
 💔
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/Futball180TV/107990" target="_blank">📅 10:40 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/107990" target="_blank">📅 10:40 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107989">
@@ -1112,7 +1112,7 @@ T.me/TrexBet_Ir</div>
 مارکا: هرناندز هرناندز داور ال‌کلاسیکوی پیش‌رو خواهد بود.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/107989" target="_blank">📅 10:21 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/107989" target="_blank">📅 10:21 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107988">
@@ -1129,7 +1129,7 @@ T.me/TrexBet_Ir</div>
 بازی تو دقیقه ۱۰ به افتخار مسی متوقف شد و کل ورزشگاه مسی رو تشویق کردن. همه هم گریه کردن و اسکالونی کنار زمین همش داشت اشک‌هاشو پاک میکرد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/107988" target="_blank">📅 10:15 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/107988" target="_blank">📅 10:15 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107987">
@@ -1145,7 +1145,7 @@ T.me/TrexBet_Ir</div>
 گل‌دیشب اسطوره از نمایی متفاوت
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/107987" target="_blank">📅 10:07 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/107987" target="_blank">📅 10:07 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107986">
@@ -1161,7 +1161,7 @@ T.me/TrexBet_Ir</div>
 فوتبال ما شبیه شوروی است اما در مناقصه باید وعده اسپانیا را بدهی تا برنده شوی!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/107986" target="_blank">📅 09:50 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/107986" target="_blank">📅 09:50 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107985">
@@ -1178,7 +1178,7 @@ T.me/TrexBet_Ir</div>
 خیابانی: سه ماه دیگه صبر کنید تا بفهمید اسم واقعی من جواد هست یا جمشید!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/107985" target="_blank">📅 09:25 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/107985" target="_blank">📅 09:25 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107984">
@@ -1196,7 +1196,7 @@ T.me/TrexBet_Ir</div>
 پاسخ جالب حمید محمدی مجری تلویزیون و برنامه فوتبال‌120 به دعوت ضیا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/107984" target="_blank">📅 09:02 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/107984" target="_blank">📅 09:02 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107983">
@@ -1204,7 +1204,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">نورپردازی و تمجید پهپادی از مسی پس از پایان بازی آرژانتین و بنین
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/107983" target="_blank">📅 06:13 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/Futball180TV/107983" target="_blank">📅 06:13 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107981">
@@ -1236,7 +1236,7 @@ T.me/TrexBet_Ir</div>
 آرامش‌خاص و لبخند‌های لئو در حین ورود
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/107980" target="_blank">📅 01:45 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/Futball180TV/107980" target="_blank">📅 01:45 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107979">
@@ -1262,7 +1262,7 @@ T.me/TrexBet_Ir</div>
 لحظه رسیدن لیونل‌مسی به استادیوم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/107978" target="_blank">📅 01:35 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/107978" target="_blank">📅 01:35 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107977">
@@ -1273,7 +1273,7 @@ T.me/TrexBet_Ir</div>
 نمایی از استادیوم مونومنتال آرژانتین
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/107977" target="_blank">📅 01:29 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/107977" target="_blank">📅 01:29 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107976">
@@ -1290,7 +1290,7 @@ T.me/TrexBet_Ir</div>
 استوری امی‌مارتینز از سیل‌جمعیت اطراف ورزشگاه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/107976" target="_blank">📅 01:27 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/Futball180TV/107976" target="_blank">📅 01:27 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107975">
@@ -1355,7 +1355,7 @@ The Last One...
 گریه‌های لیونل‌مسی در بدو ورود به استادیوم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/107970" target="_blank">📅 01:08 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/107970" target="_blank">📅 01:08 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107969">
@@ -1366,12 +1366,12 @@ The Last One...
 گریه‌های لیونل‌مسی در بدو ورود به استادیوم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/107969" target="_blank">📅 01:03 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/107969" target="_blank">📅 01:03 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107968">
 <div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uQ_zCrThV0jY4516wSRBJTTGMFeh0otrqiTQkuv_nIWIEgXSJG5G1WlcCFJmT5OnwrZRo3RTcFRWJ4GXnWDv5F1L9MLcXG7_vzUdNeWxbM8tn-_cSPTUVvHGwwUJfytSR7WdioXFIqqKaeOqFuQxy13zIluGyjgQFX2W8fJ2XmKq4IL6_ZxcXWqacQ2ASm1zNmXMzxtjAFz3Kv0OJI6WBeZuk3xgSK1H07Ll-14Ql5IrSO8fOeaMBgEi_qmnhT5gaHm7DfUIHsXMRThQTsiZM9IsN5QxrCSp4o28XhoHLOQ26fpmh6yDbJNzOKNXczKTeHTRMP7iEBYltIlfjdh3Qw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ozYNcpXHy1fwGk5nQHfpkxUbJ2cD-zFmb5GBQhw6xgBzr_vfKj1SodFeL5Mx22Rtiu5Ua974AiWV7ZoMdm_9SrV5fUOAZ7J2lx4ii2YZYLPdY0sBlU4Cy37Ny3wnlBHFCkHcjy4ho9eqGnUddBCcui70Bbp2qvhIkfdjy5Nu_KIB-AXbbALUbEwLg8PuiicaV5VuowbOhhd11OSq7dIGYv6YxddFwZE3UoFq_hSZ5VVaIVf7MYhG5C--vnY4WrkCoH0oLcPKgP9R96bK5Qs0k-ts6qvYXYj76LthhfQr14LvPPfAZDHD96ZoDyT46TwZ6oCEsIUuLJAlMODtYeMhhg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🚨
 🚨
@@ -1392,7 +1392,7 @@ The Last One...
 🐐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/107968" target="_blank">📅 01:01 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/107968" target="_blank">📅 01:01 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107967">
@@ -1424,7 +1424,7 @@ The Last One...
 <div class="tg-text">دویدن مردم آرژانتین همراه با اتوبوس لیونل‌مسی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/107966" target="_blank">📅 00:49 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/107966" target="_blank">📅 00:49 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107965">
@@ -1462,17 +1462,17 @@ The Last One...
 😍
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/107964" target="_blank">📅 00:33 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/107964" target="_blank">📅 00:33 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107963">
 <div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/5582bd1932.mp4?token=FEy1DVqVyQgYJNZZY6OdbIk2-9uyfNzHSgOkxPwLdAHK-s3_B1oc9_ZHHu1YmqpG9N_nPg2NiBbvdlRibHCdu5UyBj1fXlaKW4smpsgIBOCYSQpmsTnhyFFHk3MOpFgG0uwU-vAfMpSVcQUplVeD1NBcZUi_s250WeWxBnEnA2D9snudhGud5ex9U70nD4LOMAdf0X0jRs5zcWAmmv0FYzbKIK0ShcIaSuCa1kkr5fHg7TuPRP1oMo17aPXNhg8Um6yzhmgYiOnLqzdB8-2ZT-YBA86Xn-QAY3pDMOSUXNj8P4BkzSkMF1MbCzjrbUPK2zifja3Za3uhWrrL_9FwCg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/5582bd1932.mp4?token=mKnk8xvOPMhiZNjsD8vCoISqlFFoofdCv8M24YonYGRFyCYNkpoP2Njp-3tVdHp6LF5fu0AOHmVnbknyzx1xpzn2r1lt3nF9kj_A6sGmqtum_yJnG4OJD4dA_aEXkPMhLNKURS9au-iBc2LrC5WSENJ6vE0e6nZS938nvOP27_CdEdzniBDjhm1qzzd0z_T8QXMKLofihRWKInGqiQu34kRkNdrDWjALTAMJDBrCDYou9va_OVMW0YJbsD0g1zAuRTkpDhdOY9l5sEK4THM7J3WvfT-_nN8_ePaqgw8bD7nIHoyhnIrv0pceYdNcr0OWoZBhqvUs-eqRNqyUIAtEIA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/5582bd1932.mp4?token=FEy1DVqVyQgYJNZZY6OdbIk2-9uyfNzHSgOkxPwLdAHK-s3_B1oc9_ZHHu1YmqpG9N_nPg2NiBbvdlRibHCdu5UyBj1fXlaKW4smpsgIBOCYSQpmsTnhyFFHk3MOpFgG0uwU-vAfMpSVcQUplVeD1NBcZUi_s250WeWxBnEnA2D9snudhGud5ex9U70nD4LOMAdf0X0jRs5zcWAmmv0FYzbKIK0ShcIaSuCa1kkr5fHg7TuPRP1oMo17aPXNhg8Um6yzhmgYiOnLqzdB8-2ZT-YBA86Xn-QAY3pDMOSUXNj8P4BkzSkMF1MbCzjrbUPK2zifja3Za3uhWrrL_9FwCg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/5582bd1932.mp4?token=mKnk8xvOPMhiZNjsD8vCoISqlFFoofdCv8M24YonYGRFyCYNkpoP2Njp-3tVdHp6LF5fu0AOHmVnbknyzx1xpzn2r1lt3nF9kj_A6sGmqtum_yJnG4OJD4dA_aEXkPMhLNKURS9au-iBc2LrC5WSENJ6vE0e6nZS938nvOP27_CdEdzniBDjhm1qzzd0z_T8QXMKLofihRWKInGqiQu34kRkNdrDWjALTAMJDBrCDYou9va_OVMW0YJbsD0g1zAuRTkpDhdOY9l5sEK4THM7J3WvfT-_nN8_ePaqgw8bD7nIHoyhnIrv0pceYdNcr0OWoZBhqvUs-eqRNqyUIAtEIA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">خلاصه‌ای از دستاوردهای همتی در بانک مرکزی:
 ⚽️
@@ -1488,7 +1488,7 @@ The Last One...
 ترکیب تیم‌ملی آرژانتین مقابل بنین
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/107962" target="_blank">📅 00:20 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/107962" target="_blank">📅 00:20 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107961">
@@ -1499,7 +1499,7 @@ The Last One...
 ✅
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/107961" target="_blank">📅 00:11 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/107961" target="_blank">📅 00:11 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107960">
@@ -1534,7 +1534,7 @@ The Last One...
 فیفادی کسشر و طولانی سپتامبر و اکتبر رسما به پایان رسید
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/107959" target="_blank">📅 00:07 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/107959" target="_blank">📅 00:07 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107958">
@@ -1549,7 +1549,7 @@ The Last One...
 <div class="tg-text">گل دوم اسپانیا به کرواسی توسط میکل مرینو
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/Futball180TV/107958" target="_blank">📅 00:03 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/107958" target="_blank">📅 00:03 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107957">
@@ -1564,17 +1564,17 @@ The Last One...
 <div class="tg-text">گل اول اسپانیا به کرواسی توسط میکل مرینو
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/107957" target="_blank">📅 00:02 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/107957" target="_blank">📅 00:02 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107956">
 <div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/9fa7164783.mp4?token=DYwTLu1nTYkv39cn7uoFp9IozTijTWH86L1KqDhdzDRLsr8FRoUZ5yIqKZ_Ge2ldHC3nAsCIXtzdxRMLhmKXUNtkn4SzlL35-GofOmgybRrWpcrVhUECm_VU_VyuBo31qeclG7T483WTcNU3cQjKBe_soNIJPZ00ODWbNglZLpiKZcvw8FXQrXgvFQGX_qpT6FmecKwfjJoFgwF0yb9t_6FHDDhwWfDmlnGBiWoVFlVuPKyO-f94qRLYg3FL1Vlap8JkvqmfeY508j1EiYqmes_YrHlUhi8a2DRWUWngxzWpbTWybZJrxLQTdtGL5QHGqMNblfX-ZHkruHTiT4cyeA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/9fa7164783.mp4?token=r3jlGmpP7aFkfemsmBUxGTaw79CoY5lXRntNJdG3YuCcrSqbr17XxtPdqEH1fJTJ8SJqY-RH2ZAnMS9EfsC4-l3eyWddsvCZwK-PtWjJ10_cQ7KGQIfAFoiWOBndXDNK36j8fTo75iqQV0EnG1lQFIjqkvix1wTeEibKy6S9qSAENYwNoQ_nFMlFMRYrU3zdMNh86cA_X0pY95P8HUrLGuIA1pB8Sl141YYgzo7SiBVmtypr5Sq-39BFDhrErLnhPJvvBnCH9xOBLTBY0Kr04Lq6-dCyRtiQPhnu4-ZKmFCFLhKAeMQ2cBiDnkMI9bqPIjx8W24V8ZBp0IpGP92iAg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/9fa7164783.mp4?token=DYwTLu1nTYkv39cn7uoFp9IozTijTWH86L1KqDhdzDRLsr8FRoUZ5yIqKZ_Ge2ldHC3nAsCIXtzdxRMLhmKXUNtkn4SzlL35-GofOmgybRrWpcrVhUECm_VU_VyuBo31qeclG7T483WTcNU3cQjKBe_soNIJPZ00ODWbNglZLpiKZcvw8FXQrXgvFQGX_qpT6FmecKwfjJoFgwF0yb9t_6FHDDhwWfDmlnGBiWoVFlVuPKyO-f94qRLYg3FL1Vlap8JkvqmfeY508j1EiYqmes_YrHlUhi8a2DRWUWngxzWpbTWybZJrxLQTdtGL5QHGqMNblfX-ZHkruHTiT4cyeA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/9fa7164783.mp4?token=r3jlGmpP7aFkfemsmBUxGTaw79CoY5lXRntNJdG3YuCcrSqbr17XxtPdqEH1fJTJ8SJqY-RH2ZAnMS9EfsC4-l3eyWddsvCZwK-PtWjJ10_cQ7KGQIfAFoiWOBndXDNK36j8fTo75iqQV0EnG1lQFIjqkvix1wTeEibKy6S9qSAENYwNoQ_nFMlFMRYrU3zdMNh86cA_X0pY95P8HUrLGuIA1pB8Sl141YYgzo7SiBVmtypr5Sq-39BFDhrErLnhPJvvBnCH9xOBLTBY0Kr04Lq6-dCyRtiQPhnu4-ZKmFCFLhKAeMQ2cBiDnkMI9bqPIjx8W24V8ZBp0IpGP92iAg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">👍
 تنها سه‌ساعت تا پایان افسانه لیونل‌مسی در آرژانتین
@@ -1598,22 +1598,22 @@ The Last One...
 به کمک هلیکوپتر بر فراز شهر زادگاه وی ، روساریو ، قبل از شروع بازی خداحافظی لباس غول‌پیکر مسی به پرواز درآمد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/107955" target="_blank">📅 23:04 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/Futball180TV/107955" target="_blank">📅 23:04 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107954">
 <div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/6c2d316bd4.mp4?token=NsqlLcMMWlgVj9Z7SJDAEDhc4N0cbuDnjlPo45wxrvWuxD8vgFCtmhsXyQmhbG0hgyGlMKLlqv6xu6B0fuXm1kA-7FV44zlr43J_BDQQqJerdT497HqUSu3a-DY6cRF-G-ORxw5h4kIWuEruMmPA_s4IYCNtoKkLBydBa7yOIZSJiVnm7GfswOjBxmQXmDNKJ-ufEDiaMazJS92W2nV96hCDQcd8lATZGpppT59UKaEfCGQlrymIYmIe5mJWUZJPokueBG9jhZHJWLQEOo7fbcGp9omPTc8Z1MzvvT7QmCCJaat4jvSXxL4POvPZw29OE8uKbnC0_kVG1VWaNAZnA5WQffZTKTaRnwiheSvKI2_c9U4Ul_CXR7ZVwF_9lyAJGB1nG0TsD7kftsEX7TbJMwSUz6seQxh2vOcvi3X_jtNdIqvw5hkDNaArX6hSi27r_nSAzhDqGuW1SDHuH61WqlGFrs-z2NrHGoQyL1vkWE3qJ_Dg0wTtvqK4Xs5OxrKxYy31QhI2btG_0ZBmYg5g3vwmwCWy5D09_u75jEnTiAjje4nxuf2sfobsYx79FqF2E000QEY5Ml8wyciXDTc4Hnq1mRbTrQ7wc-Tp_N9BC-_jxOc1KbhtbzESoiCBZTS8xPniIDUV5RGfb4HZVPeb71SdYma0HTqxrRLjmJlwIXo" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/6c2d316bd4.mp4?token=ihUa0jH9LmrIpQiF3Gs7Ziq11t9udXvytlLhgVwYaAoBSnReE53gYP9u0oR1BTSnxDU91gX2mtypYXjHVJdBCDqi5H-iVMzEbKEGZDiUcmfduBFy2DQTG8mBvXu-TerX9nTGO41Ah2HqYRekMmr1DwNBT4cbU_OzCM8ciLTs2TaRAbDD0FrbPK0OQyGaSvbCUF9XuzcteE4BLczx_pItVorwC4cDAeBiRTLtn0npc567bJB1iQQqEs-ITMILKNmp7wFA3bMC0Jxc-6zvgOW2IS1izfvDM1Ja4QtD_Bcs5sSMLqNLvDE-fwAgFpAEqshn1VdglT0FErHjlJGOpoQQE5pwQOmJU6VPeK3yiTeeW5chY-2RRENjsbaTXfsuHGGiSrTL9JqP6wqPQfed3D6V84emOSlg67ltEAi4jTNIycBfPUBEFswzqJf9uJOrjiRsNhlQVQZmETu2PdoIHrvBy1HuH7V4Biu0vclU3311l8zS0DrW7i32oZbRho6LUXdzQ9oYSnfzGHlaTrpd-SIi-9KGvvFQU-wEyFko9D_oA046kxJcmfrgEjNTHU39ZIDvCwInaAfVdAP_LJiWtlYwSC2Fqzb8G9M4qA79u53nvuOIlDhFK224BvCXoaA4gyDcchG0r3e-4PY6e7DwNOIlFUkge8UCQsvZUbb_nuIaK5A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/6c2d316bd4.mp4?token=NsqlLcMMWlgVj9Z7SJDAEDhc4N0cbuDnjlPo45wxrvWuxD8vgFCtmhsXyQmhbG0hgyGlMKLlqv6xu6B0fuXm1kA-7FV44zlr43J_BDQQqJerdT497HqUSu3a-DY6cRF-G-ORxw5h4kIWuEruMmPA_s4IYCNtoKkLBydBa7yOIZSJiVnm7GfswOjBxmQXmDNKJ-ufEDiaMazJS92W2nV96hCDQcd8lATZGpppT59UKaEfCGQlrymIYmIe5mJWUZJPokueBG9jhZHJWLQEOo7fbcGp9omPTc8Z1MzvvT7QmCCJaat4jvSXxL4POvPZw29OE8uKbnC0_kVG1VWaNAZnA5WQffZTKTaRnwiheSvKI2_c9U4Ul_CXR7ZVwF_9lyAJGB1nG0TsD7kftsEX7TbJMwSUz6seQxh2vOcvi3X_jtNdIqvw5hkDNaArX6hSi27r_nSAzhDqGuW1SDHuH61WqlGFrs-z2NrHGoQyL1vkWE3qJ_Dg0wTtvqK4Xs5OxrKxYy31QhI2btG_0ZBmYg5g3vwmwCWy5D09_u75jEnTiAjje4nxuf2sfobsYx79FqF2E000QEY5Ml8wyciXDTc4Hnq1mRbTrQ7wc-Tp_N9BC-_jxOc1KbhtbzESoiCBZTS8xPniIDUV5RGfb4HZVPeb71SdYma0HTqxrRLjmJlwIXo" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/6c2d316bd4.mp4?token=ihUa0jH9LmrIpQiF3Gs7Ziq11t9udXvytlLhgVwYaAoBSnReE53gYP9u0oR1BTSnxDU91gX2mtypYXjHVJdBCDqi5H-iVMzEbKEGZDiUcmfduBFy2DQTG8mBvXu-TerX9nTGO41Ah2HqYRekMmr1DwNBT4cbU_OzCM8ciLTs2TaRAbDD0FrbPK0OQyGaSvbCUF9XuzcteE4BLczx_pItVorwC4cDAeBiRTLtn0npc567bJB1iQQqEs-ITMILKNmp7wFA3bMC0Jxc-6zvgOW2IS1izfvDM1Ja4QtD_Bcs5sSMLqNLvDE-fwAgFpAEqshn1VdglT0FErHjlJGOpoQQE5pwQOmJU6VPeK3yiTeeW5chY-2RRENjsbaTXfsuHGGiSrTL9JqP6wqPQfed3D6V84emOSlg67ltEAi4jTNIycBfPUBEFswzqJf9uJOrjiRsNhlQVQZmETu2PdoIHrvBy1HuH7V4Biu0vclU3311l8zS0DrW7i32oZbRho6LUXdzQ9oYSnfzGHlaTrpd-SIi-9KGvvFQU-wEyFko9D_oA046kxJcmfrgEjNTHU39ZIDvCwInaAfVdAP_LJiWtlYwSC2Fqzb8G9M4qA79u53nvuOIlDhFK224BvCXoaA4gyDcchG0r3e-4PY6e7DwNOIlFUkge8UCQsvZUbb_nuIaK5A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">گل‌دوم انگلیس به جمهوری چک توسط هری‌کین
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/107954" target="_blank">📅 22:58 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/107954" target="_blank">📅 22:58 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107953">
@@ -1644,7 +1644,7 @@ The Last One...
 <div class="tg-text">گل‌اول انگلیس به جمهوری چک با گل‌بخودی عجیب
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/107952" target="_blank">📅 22:51 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/107952" target="_blank">📅 22:51 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107951">
@@ -1753,7 +1753,7 @@ The Last One...
 بعد از مسابقات، رئیس فدراسیون فوتبال پرتغال از من خواست که با تیم ملی به همکاری خود ادامه دهم، و همچنین از من در مورد انتخاب مربی فعلی نظر خواست. من به او گفتم که این انتخاب، گزینه درستی است. بنابراین، از انتصاب او خوشحال بودم.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/107944" target="_blank">📅 21:57 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/107944" target="_blank">📅 21:57 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107943">
@@ -1783,7 +1783,7 @@ The Last One...
 حمله تند خداداد عزیزی به مدیرعامل تراکتور حجت‌کریمی بابت مصاحبه دیشب در فوتبال برتر
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/107942" target="_blank">📅 21:42 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/107942" target="_blank">📅 21:42 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-107941">
@@ -1834,7 +1834,7 @@ The Last One...
 ترویج دروغگویی به دستور فدراسیون و کادرفنی؛ لو رفتن ماجرای تعویض زودهنگام محبی مقابل روسیه در مصاحبه احسان حاج‌صفی؛ ناراضی بود، گفت بخواب زمین!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/107939" target="_blank">📅 20:15 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/Futball180TV/107939" target="_blank">📅 20:15 · 14 Mehr 1405</a></div>
 </div>
 
 <hr>
