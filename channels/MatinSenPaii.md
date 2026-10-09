@@ -292,7 +292,7 @@
 <a href="https://t.me/MatinSenPaii" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)ارتباط با من:https://linktr.ee/matinsenpai</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-17 18:54:21</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-17 23:40:59</div>
 <hr>
 
 <div class="tg-post" id="msg-5548">
@@ -300,7 +300,7 @@
 <div class="tg-text">هفت نرم‌افزار Adobe، رایگان و متن‌باز!  آرت‌کرفت نسخه‌ی رایگان فتوشاپ، ایلاستریتور، پریمیر، افترافکت و چند ابزار دیگه رو از صفر ساخته. همه‌چی آفلاین روی سیستم خودت اجرا می‌شه، با سرور MCP که ایجنت‌های هوش مصنوعی هم می‌تونن باهاش کار کنن.
 ⚠️
 هنوز نسخه‌ی اولیه‌ست،…</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/MatinSenPaii/5548" target="_blank">📅 13:44 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/MatinSenPaii/5548" target="_blank">📅 13:44 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5547">
@@ -313,7 +313,7 @@
 getartcraft.com/apps
 ✍️
 CallMeDiegoJr</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/MatinSenPaii/5547" target="_blank">📅 13:09 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/MatinSenPaii/5547" target="_blank">📅 13:09 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5546">
@@ -322,7 +322,7 @@ CallMeDiegoJr</div>
 <div class="tg-text">به به
 ببینید چی برگشته:)) Haiku 5.5
 خفن‌تر از GPT 6 Luna</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/MatinSenPaii/5546" target="_blank">📅 09:23 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/MatinSenPaii/5546" target="_blank">📅 09:23 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5545">
@@ -330,7 +330,7 @@ CallMeDiegoJr</div>
 <div class="tg-text">یادم رفته بود بگم. من از اینجا گرفتم. تا الان مشکلی نداشت اکانتا.  توی رباتش بخش هوش مصنوعی، دوباره هوش مصنوعی یه کم دسته‌بندیاش درب و داغانه
 👍
 اما کار میکنه @OrcaSubBot</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/MatinSenPaii/5545" target="_blank">📅 08:58 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/MatinSenPaii/5545" target="_blank">📅 08:58 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5544">
@@ -342,7 +342,7 @@ CallMeDiegoJr</div>
 منبع
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/MatinSenPaii/5544" target="_blank">📅 08:31 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/MatinSenPaii/5544" target="_blank">📅 08:31 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5543">
@@ -390,13 +390,13 @@ TestFlight
 رو از App Store بگیرید و لینک بالا رو باز کنید.
 🐞
 اگه کرش یا مشکلی تو اتصال دیدید، همین‌جا بگید تا سریع درست بشه.</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/MatinSenPaii/5542" target="_blank">📅 22:47 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/MatinSenPaii/5542" target="_blank">📅 22:47 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5541">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromxsfilternet | فیلترنت(امیرپارسا گودمن)</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GZoY0yWfxO-fMkb1cOl7HnCswKFoR1IzVupaiQiLxBWTlSE3zZ368TWP4BSiH30M0fVEu5SOCmVD3Z4h3zm1FNsewr7FZ19ViuYNGejM6j4qwFhXAjQ8NKeSbFeB8cGvTNVw1mx5rSCZsZP6I_UvAYS0ccIm9uSJZSn_6GsMN2rDE_sv6q186S-hPt_zmfOZc0N5m60Lw_Q7tZEDLziaHBbHI6D3szs4-zqVeOD9HxQzAA5I9sKA3yPs2v4paiohSJZ6QzPUe7J6m_EWtoKaHxDudkcZYRdKGtqhavvhfS_jDohnooNbcpduOCaMcseI_IzVaxNrQG80GbQ0v1TqVg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lBNBmHgp1paoOQ0HV52BiQKVGZ9KkM5hPVB-4EGpbhm110m_fuv85jb1UKmCjfgAQ-RABtkPWZ_Hx52PNLWWNve9YDAIDY7iHhs8t9__iUTncNvV2iw85SkAipsCg-nPcMV-_RQLjhVNLQwDDkBYLxniekLK32Y80oeUmSugW2JGXUBRNAwdybu04IaCSM79Y10Hepe_54oecq6valOEaw_aN1bM3bIvR_sltF4zZXPdRnx-r7u_0Cd8EjKpDLKXddlY4KHjw_wtEU5v_Srrj9Xzn-rbIxOk152Drb8lQObzUXMlgQ67VgN13bPPdgMIKr0HYnmrI-9-vEV6vlSPjg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🍷
 درود به همه رفقا...
 بعد از محدودیت های اخیر در فیلترنت و محدود شدن بیشتر پروتوکل ها و روش های رایگان مربوط به کلودفلر و...
@@ -455,7 +455,7 @@ https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt#Patte
 توجه:ممکنه بسیاری از روش های دیگه مثل وارپ(AETHER) یا حتی SERVER LESS رو نت شما کار کنه اما این بیشتر بستگی به محدودیت های اینترنت و منطقه شما داره این روش ها رو داخل این پست اشاره نکردم زیرا روی همه نتا متصل نیست و منتظر آپدیت جدید از CluvexStudio و patterniha برای هسته Aether و همچنین sni spoof میمونم و بعد از رفع مشکل معرفی میکنم.
 @xsfilterrnet
 🙂</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/MatinSenPaii/5541" target="_blank">📅 22:38 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/MatinSenPaii/5541" target="_blank">📅 22:38 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5540">
@@ -463,32 +463,32 @@ https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt#Patte
 <div class="tg-text">دوست دارم چیزای واقعی بسازم توی ویدئوها. محصولات واقعی
 و فکر میکنم با ویدئوی بعدی
 یه قدم بهش نزدیک تر میشیم</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/MatinSenPaii/5540" target="_blank">📅 15:41 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/MatinSenPaii/5540" target="_blank">📅 15:41 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5539">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">برای ترجمه و کارهای روزمره‌ام، اکانت آنتی گرویتی کم آوردم گفتم به یکی از بچه‌ها دوتا اکانت بهم بده توی پنج دقیقه بهم داد:) اصلا باورم نمیشه و چقدر ارزون. یک دهم کلاد یک ماهه، 18 ماه داد هرچند خب استفاده‌ی دیگه‌ای داره کلا.  اگر که اوکی بودش و نپرید و اینها،…</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/MatinSenPaii/5539" target="_blank">📅 15:36 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/MatinSenPaii/5539" target="_blank">📅 15:36 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5538">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">رفتیم توی ویت لیست اپ Muse متا ببینم این چیه که همه ازش تعریف می‌کنن</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/MatinSenPaii/5538" target="_blank">📅 15:11 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/MatinSenPaii/5538" target="_blank">📅 15:11 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5537">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">Math lovers, check this out:
 https://github.com/openai/math</div>
-<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/MatinSenPaii/5537" target="_blank">📅 14:40 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/MatinSenPaii/5537" target="_blank">📅 14:40 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5536">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">یه skill واسه claude و بقیه اجینت‌ها نوشتم که اون حس اسلایدشو رو از ویدیو حذف میکنه و با استفاده از ۸ تا تکنیک مختلف که برای فارسی بهینه شده، موشن دیزاین‌های جذاب میسازه!  تکنیک‌ها رو از حدود ۳۰ تا توییت motion design درآوردم و بعد با کتابخونه harfbuzz واسه…</div>
-<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/MatinSenPaii/5536" target="_blank">📅 11:10 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/MatinSenPaii/5536" target="_blank">📅 11:10 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5535">
@@ -505,41 +505,41 @@ https://github.com/openai/math</div>
 https://github.com/atmirrr/persian-motion-director
 ✍️
 AmirAnonn</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/MatinSenPaii/5535" target="_blank">📅 11:09 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/MatinSenPaii/5535" target="_blank">📅 11:09 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5534">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">کم کم دارم فکر می‌کنم یه نسخه از خودم کلون کنم بذارم هرمس جام کار کنه
 🍿</div>
-<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/MatinSenPaii/5534" target="_blank">📅 00:46 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/MatinSenPaii/5534" target="_blank">📅 00:46 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5533">
 <div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fKYx7bKuUJWKglgDR2sdqT2F7pdH_syWlaVge5-k1UwqR07B0VOUE3Ej2-h0AvptVToqk092VviDjCz79THFJxHNJENbxpcd3O-vRFHJvTNPG6_LGC_Z3jPDhTZ4UwjJIX2rWO9O1l66-xkA4fqJbFYy1MoUfFns7dMbn-NyluTB8FKfvyMcz9PizoeuN-O9I1BHOQXaBBdH-zcR5RKxD35a05bTZrsVBu2m6r-8muEXwJgGM-JmtpkxC1dXHI08tXrHRm4RJRV8sS_Q0OyLHmOtPAI-GJEray3krtEJ0nvbp3yskBWRxxy3H8q_Ko5uBPHU_31vv2juUsEh1Z51mg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sPrrnuffeWRj3n6bmt-r9SYaxpJl9_V6L0bSpVOB_Ufsk2_SNc8bKVIOqtGgA51A2kiCuZTaY3w-EGIj4SRLxHX0LJ_8pfkA3CblffGY4_yOmbzSwlemPl3EMm1QC9uBluqfPLqd40PkR70Ak_w7wQubZ-5RRuAtrvzEUtEQdcAgDCaY7P7H32Aca9iDj6nA3cGxEE2GHaIyciwSqPgfoqxVbIJaZVn74AulB1XqEaFLDmClMlJbgURIY2HJyK-_FTy1CRUf15x33K1eipBHEIVn8Udk64O890y790lFt_eglWWDXPdDQrdoGnDOmRFXsNGlBVhe-01PSX15W4-Ffw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپلیکیشن OpenChamber؛ یه اپ موبایل جمع‌وجور برای مدیریت سشن opencode
 نویسنده این پست توی ردیت گفته بود اولش فکر می‌کرده پست‌های OpenChamber فیکه، بعد از تست کردنش می‌گه در عمل، به طرز عجیبی خوبه؛ جایگزین opencode نیست و همچنان opencode رو روی سرورش ران می‌کنه، فقط با OpenChamber از روی گوشی به‌صورت نیتیو به همون سرور وصل می‌شه و تسک می‌ده. برای کسی که opencode رو ریموت اجرا می‌کنه و نیاز به اپ موبایل داره، تجربه‌ی تر و تمیزی داره.
 🔗
 منبع
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/MatinSenPaii/5533" target="_blank">📅 23:26 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/MatinSenPaii/5533" target="_blank">📅 23:26 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5532">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VZeyyIMivDon7uWBLmA2nuzAbVdKUcSn8J-7jhVS0FVSxwuq1jgDhunpFljZcMObTz1oPsfjAen3sMt-qamhWfM-6C6ERcYFzSvbwXlunx-GPxRQhqfC2jifcudKGUcNTSHdMWz6sqf9cWJHTsbRELDKoUTTETX8qO6bOMBBdElSDybYHoddNU0VNw5_gUNGKqiKvm_zeNT1PdY5eqf7HyiHo1BxvjYZINzaYJGRG30LsxedV69CBbyS-sd5PvEVO1WVvMS7Kl8h3KodYsKCh5QB0r4Dd_HsKNv64_2_BHv_GeHg3nsehavbpq2dmUCL8JDxppL5CL_yUdJDJcVazA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/S0ZdIdjhXO856nxOr98ZNehJw0MwVEbB5lQiq6IyPLMet_I1wGQfXJL4nqTWxpusFZNUy1pqmNbkCYFH_dZ-vRYAKITgftVgLM8IuWiTTkoGq2wuRl9EkkYaNDO2RQkVxHidjOZmih1oUpj8VFjNsHfv73M1NlD3Bqz2mid_KMLV5tiGmuZB7YzqQZjnFb98thlVceRhriznnH15zq3Y6M4GIO59_BbpgSVvwa5t2wu5Q9Wo30MTqUbgrHMvhcfbTYmGRCnRkK7Zo5h55pKIpBNqAaSPHP3egzljYT7lPYswwfJgk67qTa9DOwkLbBNuKD7r_MuhFetP-UHiCB2HKA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مدل نانو بنانا 2.1 اومد روی Google flow من، و افتضاحه. اینجا با GPT 2.5 مقایسه‌اش کردم:
 https://x.com/MatinSenPai/status/2107527090019131503</div>
-<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/MatinSenPaii/5532" target="_blank">📅 21:15 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/MatinSenPaii/5532" target="_blank">📅 21:15 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5531">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">اینم کانال تلگرام یزدانه پرسیده بودید توی چت فراموش کردم بگم:
 https://t.me/antimatter0x1</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/MatinSenPaii/5531" target="_blank">📅 18:05 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/MatinSenPaii/5531" target="_blank">📅 18:05 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5530">
@@ -551,7 +551,7 @@ https://t.me/antimatter0x1</div>
 https://www.youtube.com/live/nbOls9zPckM?si=xnkhmSfdlmhENs_2
 توی لایو توضیح دادم که همین overlay رو هم کلاد توی 15 دقیقه زد قبل از لایو
 😂</div>
-<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/MatinSenPaii/5530" target="_blank">📅 18:04 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/MatinSenPaii/5530" target="_blank">📅 18:04 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5529">
@@ -560,13 +560,13 @@ https://www.youtube.com/live/nbOls9zPckM?si=xnkhmSfdlmhENs_2
 <div class="tg-text">لایو انتخاب رشته و دانشگاه بریم یا نریم برای برنامه نویس شدن؟
 🥸
 https://www.youtube.com/live/nbOls9zPckM?si=dnW0hyhkqq7wyJ4-</div>
-<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/MatinSenPaii/5529" target="_blank">📅 16:03 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/MatinSenPaii/5529" target="_blank">📅 16:03 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5528">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">نانو بنانا 2.1 توی Google Flow در دسترسه(رایگان) با این پروژه می‌تونید کانفیگ مناسب وارد شدن به Flow رو پیدا کنید: https://github.com/MatinSenPai/Gemini-Config-Checker/</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/MatinSenPaii/5528" target="_blank">📅 13:35 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/MatinSenPaii/5528" target="_blank">📅 13:35 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5527">
@@ -575,7 +575,7 @@ https://www.youtube.com/live/nbOls9zPckM?si=dnW0hyhkqq7wyJ4-</div>
 <div class="tg-text">نانو بنانا 2.1 توی Google Flow در دسترسه(رایگان)
 با این پروژه می‌تونید کانفیگ مناسب وارد شدن به Flow رو پیدا کنید:
 https://github.com/MatinSenPai/Gemini-Config-Checker/</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/MatinSenPaii/5527" target="_blank">📅 13:33 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/MatinSenPaii/5527" target="_blank">📅 13:33 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5526">
@@ -593,13 +593,13 @@ pinned «
 <div class="tg-text">دیتای کشور به قدری اوپن سورسه که الان سایت زدن کد ملی و اسممون رو با شغلمون میفروشن که مخاطب مارکتینگ بقیه شیم :)))
 ✍️
 davodm</div>
-<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/MatinSenPaii/5525" target="_blank">📅 11:20 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/MatinSenPaii/5525" target="_blank">📅 11:20 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5524">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">یه قابلیت خفن به Cursor SDK اضافه شده که بهت اجازه می‌ده هوش مصنوعی رو حین اجرا هدایت کنی. دیگه لازم نیست صبر کنی تا کارش تموم بشه؛ با تابع run.steer() می‌تونی پیامتو به نوبت بعدی اضافه کنی و مسیر رو تغییر بدی.</div>
-<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/MatinSenPaii/5524" target="_blank">📅 08:51 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.5K · <a href="https://t.me/MatinSenPaii/5524" target="_blank">📅 08:51 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5523">
@@ -610,19 +610,19 @@ davodm</div>
 و چقدر ارزون. یک دهم کلاد یک ماهه، 18 ماه داد
 هرچند خب استفاده‌ی دیگه‌ای داره کلا.
 اگر که اوکی بودش و نپرید و اینها، معرفی میکنم</div>
-<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/MatinSenPaii/5523" target="_blank">📅 23:15 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/MatinSenPaii/5523" target="_blank">📅 23:15 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5522">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArasTey</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/W_t8pJLQ7Iq2OjsNR3rAuz7e0LsbC0nZd84AeXN-PezmfjrPnXdINe4co1zCKeVQhHbWYWnKeJP9LNLwryFQR0qi9gR_ZmhH4sBy0ETQxG5mA3UI-6Y6CkiuL8OmAYxYXaUoKTeLR1IYLlBqrQtCpHkgVsAYLsGh9EJppxFP6DhuS7w3sjXjbVNrsSbTN6Vx7jKCjXF-u3TcL9btOIj993pttkDzZ2m-sbOtl9xYOsIO-JhaYtCV7p4VbxOGSwcttRukW4LfObHhxaYVbHeasGxfJmUfrtLIzWmQCLx95VC_YjKLigdacFZJIoIWaF-bvruYC46mbwVUhzKlSrVaeg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EJS2rIVduuAjSNwruJy3JXftiCBuYpdOo-Ei-XEMVbdaMpJEoVqQaXtcSU49zvwaugkN3nHB70ldTB-OeR4D8a0Q3xaLWiymliPuqUXPY8AuuZzY5i5YEBuGgAPSr_w1emdKodci5X1g1sC_Rc1wAHCXsJMyax2ShfjEqGPLC13cbjKpXmsptYqA41b0EOApvE21UTa-uS3pChhAbHc01SCj87oj_-l1xZtScEV2xFE2IVxr2b-CENCXwMyfZC_Ed_rs6z5reHdhXnT2i2K4MjTQV4ppq10Uiy2I93rwNxQ5gbA6Qh9EZmQUP7vqXtnHLwg4TgQET9PF0x8hmN0IzQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه آپدیت هم دادم روی
 بهینه ساز
 که الان میتونید خیلی راحت ECH اضافه کنید به کانفیگا و کارتون راحت شد.
 ArasTey.Github.io/cf-optimizor
 Github.com/ArasTey/cf-optimizor</div>
-<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/MatinSenPaii/5522" target="_blank">📅 22:53 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 34K · <a href="https://t.me/MatinSenPaii/5522" target="_blank">📅 22:53 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5521">
@@ -654,38 +654,38 @@ cloudflare-ech.com
 ////////////////////
 دقت کنید در برخی مناطق سیم کارتتون میتونه همراه اول باشه ولی فایروالتون ایرانسل باشه و بالعکس سیم کارتتون میتونه ایرانسل باشه ولی فایروالتون همراه اول باشه.
 سایر نت ها هم معمولا از یکی از این دو فایروال استفاده میکنند.</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/MatinSenPaii/5521" target="_blank">📅 22:06 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/MatinSenPaii/5521" target="_blank">📅 22:06 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5520">
 <div class="tg-post-header">📌 پیام #72</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gHVPia_bA6esNwaoJB7sKvRludYplv4xIBLJ7abKCWJMuWyY2LYIqCvIko-YD_aYKwcPnftNlfPrmebMnYr7ncquwNAX2rNDpxZfP0qsimxeM0K3Nc10BCJkUOLpgJrdtrO2zNvXYII9TfK0M68NkuJ2t4FCGjyt1YyVYwFYfgsvKoESAQvLrJ8GqM6vYDIT2KQoXkwm7zXeBcborDhQNGpYaksyoq5F2fYeWtY4RICHf58sez5l4Nnu-VHiTNZMJWzY9bZg3HaQWlgOflMs95zk3JuPAq_DAY7UVZAdyZhR3qBmi_258lh2N0iwpO3wkUT_BoPq2z29SOmAPUGemQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OfWUlAhVluWt5XxgN42pVUVqwr1DC81rqIZMHSD-cZkNT5DD0mER2c-E_4_ZWuLDAOgSb9NKyWOn20vN9H0xl_FdYHQ9rl5OomUeHSf7HLAuLlEYjOBLed9usYDItiOQi9Nb-Z1hM_AH5ITf_a57SAfQ4RaAAwsUFcB7B-xucOwYcBtbt8hwDYl2642iqn5uZEHLPnESlgFGIKGYe2hzgmqZieiK43d5hA2XHl6yeuYBjBsd-SNyZFQy6WtGbUxllseUXuc9AAYT0qonNGt39-LpNWiAAAowZmIi6RqpmI7ZCHHxddIqZhiOJItayL84T6TnPcxGr4JsgVVyIGQrBA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ستاپ مموری Muse رو کپی کردم برای Hermes خودم
 یه کاربر توضیح داده چطور ستاپ مموری Muse رو برای Hermes خودش پیاده کرده؛ بحث اصلیش هم انتخاب پرووایدر، مدیریت پنجره کانتکست و مشکل فراموش کردن زمینه‌ی موضوعی بحثه. اگه ایجنتتون وسط کار یادش میره چی به چیه، ایده‌های توی تصویر ممکنه به دردتون بخوره.
 🔗
 منبع
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/MatinSenPaii/5520" target="_blank">📅 21:08 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/MatinSenPaii/5520" target="_blank">📅 21:08 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5519">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromMatin's Dungeon(᯽マティ️️ン先輩)</strong></div>
-<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/MatinSenPaii/5519" target="_blank">📅 17:21 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/MatinSenPaii/5519" target="_blank">📅 17:21 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5518">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">استریم ما داریم میاییم</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/MatinSenPaii/5518" target="_blank">📅 17:17 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/MatinSenPaii/5518" target="_blank">📅 17:17 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5517">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/BrbL8592uBHTJWgTiQKpUXsLnBWbv29oZrRzRUcvWfpFnREcQOs_s0_FbukOkmOV6PTdyyKw7ENqSw3HJGn_dcafk-PqGxS2Aa2vuPCxN1nO6-wSjcXL5cV9JEtiZSGI95sPAuyS4drNSCpy0aowPXO30I3FQvaXh4aQ3BKQ8Uk2zewmYLLqL4nnXiv16NlF1Qp5cbBhw_z5d1Uh-oqfanMLZFGrgLXxEFqJkw0iLHh3RrvhPB-eetZehgxiAKxzFaFkOXyCxrNy1PnsCe2YnXH1anQJWVbMD5JrcoVtc4jOkyTpw7fJ4K9eXogDa7zvAbcS7b2tXkVA-qm3tiz5Gg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">استریم ما داریم میاییم</div>
-<div class="tg-footer">👁️ 32.5K · <a href="https://t.me/MatinSenPaii/5517" target="_blank">📅 16:34 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/MatinSenPaii/5517" target="_blank">📅 16:34 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5516">
@@ -697,27 +697,27 @@ t.me/MatinSenPaii</div>
 و الان اتصال از خود ایران به خارج شروع میشه و همه چیز اوکیه فعلا
 این روش فقط mux و reconnect نداره اما چون فورواردش توی کرنله، چیزی برای قطع شدن نداره عملا.
 همون آیپی تیبل خودمونه</div>
-<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/MatinSenPaii/5516" target="_blank">📅 16:31 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/MatinSenPaii/5516" target="_blank">📅 16:31 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5515">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OcLfdYvqYABvlZQ9JK8CW0mLKEazDitI3AhZ6HZhvZpgqRLyckJOM3eMjZcjXBNihLN6xBsRKtl5yRD8x0KYblTZQcdiC_rszLh8INYe1dABBXe_Hf01eaGoThWEI3-TXKMb7zdjbpC1V7kZXihncMD-OaAkPkuzN0lkhfS_D5qZbviXz9C_9R89jG_7LQuBdxFG0VC7RDqX1TlD4E7X6Rmhc5lbHI56P6i8jQ0fJl81RnW0nE2dwRefDPyTBQrtWrk1CZjQOYnXhdcP5wTT5n09XUEWq9NfDmeMUZgsKZIWkn1T83MOVf6M47cA8JDD__xs5hTO2OmyxWysLF9rQg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فعلا Claude رو گذاشتم تانل بک‌هال بزنه بین ایران و هتزنرم ببینم چی میشه</div>
-<div class="tg-footer">👁️ 32.5K · <a href="https://t.me/MatinSenPaii/5515" target="_blank">📅 16:26 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/MatinSenPaii/5515" target="_blank">📅 16:26 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5514">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">سعی میکنم استریم انتخاب رشته رو امروز یا فردا بریم. متاسفانه تا الان هم که نرفتیم به خاطر وضعیت نت بوده</div>
-<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/MatinSenPaii/5514" target="_blank">📅 14:44 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35K · <a href="https://t.me/MatinSenPaii/5514" target="_blank">📅 14:44 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5513">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">سعی میکنم استریم انتخاب رشته رو امروز یا فردا بریم.
 متاسفانه تا الان هم که نرفتیم به خاطر وضعیت نت بوده</div>
-<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/MatinSenPaii/5513" target="_blank">📅 14:31 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/MatinSenPaii/5513" target="_blank">📅 14:31 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5512">
@@ -725,14 +725,14 @@ t.me/MatinSenPaii</div>
 <div class="tg-text">از اخبار بی اطلاع بودم.. نمیدونستم صبح چه اتفاقی افتاده...
 🖤
 🥀</div>
-<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/MatinSenPaii/5512" target="_blank">📅 12:39 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/MatinSenPaii/5512" target="_blank">📅 12:39 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5511">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">ای کاش OpenAI این تیم مارکتینگ و مدیریت محصولش رو از کف توییتر جمع میکرد
 https://x.com/MatinSenPai/status/2107032765916999892</div>
-<div class="tg-footer">👁️ 38.1K · <a href="https://t.me/MatinSenPaii/5511" target="_blank">📅 12:30 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 38.2K · <a href="https://t.me/MatinSenPaii/5511" target="_blank">📅 12:30 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5510">
@@ -749,52 +749,52 @@ mahsanet
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/MatinSenPaii/5510" target="_blank">📅 08:23 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/MatinSenPaii/5510" target="_blank">📅 08:23 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5509">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">اگر سیمکارت همراه اول دارید هرچه سریعتر از پنجره بندازیدش بیرون. اعصابمو به هم ریخت دیگه فیلترینگ روی همراه اول</div>
-<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/MatinSenPaii/5509" target="_blank">📅 01:29 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/MatinSenPaii/5509" target="_blank">📅 01:29 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5508">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">سه تا ویدئو ضبط کردم واسه AI اما اصلا حتی دلم نمی‌خواد بفرستمش برای ادیتور. خیلی وضعیت نت زده توی ذوقم
 الان اینطوریم که خب من آموزش بدم، کی می‌تونه اجرا کنه اصلا</div>
-<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/MatinSenPaii/5508" target="_blank">📅 00:49 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41K · <a href="https://t.me/MatinSenPaii/5508" target="_blank">📅 00:49 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5507">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">متد یوسف قبادی</div>
-<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/MatinSenPaii/5507" target="_blank">📅 20:53 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/MatinSenPaii/5507" target="_blank">📅 20:53 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5506">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">Fragment
 🪦</div>
-<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/MatinSenPaii/5506" target="_blank">📅 20:50 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/MatinSenPaii/5506" target="_blank">📅 20:50 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5505">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">حساب رسمی مایکروسافت در ایکس با بیش از ۱۳ میلیون دنبال‌کننده هک شد</div>
-<div class="tg-footer">👁️ 40K · <a href="https://t.me/MatinSenPaii/5505" target="_blank">📅 18:12 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/MatinSenPaii/5505" target="_blank">📅 18:12 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5504">
 <div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Bm9qcOjM84TxfTjrx4BVCfM3hqlGFfktT2mtxczYu5WD8XwwOVMGxS2qEhbEhTe8PrLcnQOxdVss8SzQOzxZRoBzlRUMx-aZ5yuIJTZQm_V0jqoRBUsnMNlmb349_jrG2UZ8I52zq0RmWPaKnPv51DA9bBfAh47VzswxJ2PqnbZnFCyoWPztAjjd-amqc_kLm7Zwgwabkh_OM3Xi2Yfd9jpGmb_FgrsbhZ1MhXsSM5RxIrQzIWDhqCgWtpQN_ATBh3PF_MSoLruGQqX7Hv7sHgmdDhDAqrORE35yMWWF_DRN4W_oBxRRTn5DC-6MNBZjJy-hxeFMJC6RK80MXIpLJQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/E2Lwk79XwqqrVipcuNLxmmpChTvDO2SmUWxK7ZKmQBJl7EMGRxifEIQIMsu5sFxtOZKefShb3eQe7kltyIkoHWBoOQmAGzEwe6g28nMzXlCYWNgecR_fQYYlCwgWGA32fE5LlgkJs_jlvW4eDd7G_EyjsjJAVFZPtnr9yiY9UCbcSKqOl7zPz_sV3j2v9pRxrwniXPfg77UUYlcO0iXcRbwaZKzjwNwXKeitOL9V8fSgaJD1iNiFqXQqi7GX9P4jr7yPzrz9pLh4RH8skbCQ-NNtrNlbiz6dWBclVip1pz5oxNg_u6kRuArfcPqCuO95Ht_QtDOXq80ybxOGnRnm4Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مدل Ling 3.1 Flash روی Cline تا ده روزِ آینده رایگانه</div>
-<div class="tg-footer">👁️ 39.6K · <a href="https://t.me/MatinSenPaii/5504" target="_blank">📅 16:59 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/MatinSenPaii/5504" target="_blank">📅 16:59 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5503">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">استارلینک توی ایتالیا با کمک اپراتور fastweb سرویس direct to cell رو تست کرده. توی سرویس direct to cell شما میتونید با یه گوشی معمولی نسل ۴ به استارلینک وصل بشید. مثل یه اپراتور معمولی موبایل. توی حالت عادی وقتی آنتن موبایل وجود داره، گوشی به همون شبکه زمینی…</div>
-<div class="tg-footer">👁️ 37K · <a href="https://t.me/MatinSenPaii/5503" target="_blank">📅 16:26 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 37.1K · <a href="https://t.me/MatinSenPaii/5503" target="_blank">📅 16:26 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5502">
@@ -810,7 +810,7 @@ mahsanet
 ولی میشه گفت توی مناطقی خالی از جمعیت که پوشش شبکه وجود نداره و در نتیجه پارازیت هم نیست، این روش جواب میده چون پارازیت پخش کردن توی همه نقاط ایران اقتصادی نیست.
 ✍️
 aleskxyz</div>
-<div class="tg-footer">👁️ 39.4K · <a href="https://t.me/MatinSenPaii/5502" target="_blank">📅 15:38 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 39.5K · <a href="https://t.me/MatinSenPaii/5502" target="_blank">📅 15:38 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5501">
@@ -818,12 +818,12 @@ aleskxyz</div>
 <div class="tg-text">امروز روز آپدیت بود
 دیگه تموم شد فعلا خدا رو شکر
 🥸</div>
-<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/MatinSenPaii/5501" target="_blank">📅 13:50 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/MatinSenPaii/5501" target="_blank">📅 13:50 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5500">
 <div class="tg-post-header">📌 پیام #52</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/rVzL9YT6WcxHF4PGPHYrC5BZo-9mHCTwqqbH-_h_SvGLcN7U7nIoXpNT-n1ehaUI_-qohLE1lwAt-Im-WFGio3eVDi4PHQbdqyaSTKQXMfWwFZP2LAnU9Kh1dtEMPdPUxMxi3-Plo7HoXfvbb9YrJV2Gp-tl6wkQ30Xu0Ii3KVAWPF_q0FoKWy8VMt5AJa7YBKtWp4KQp6zI0PDtatQkmg1WhlSD1IacvrOUsQeANqP72ddl2tbuwhhOLAqomE5n5J91suXSVsjGqiuJy8dCIg4YhaqfflpjXNNcsdQQPdsm3SrVvUeTvnfAkus1NpIl0GPP6trWhSeE9H4Rs7y8uQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JE5313KZC0OrZP3qP3lzomxW_tC_cw7kj-pdFKL3P5L2yES-7vuDgo7kdY1hSwOZs_sN_U_7vaKzORsbh-yiVJxrhtFMax4i4NUtYV76l8i8JRbktuxFVhyKLpOgb5lTqA1hlubAu2qthQTcqh5XIJ8N6LiJOXRQmbBIOm-1QfmS7yugQdDg_766dQYVlG8wqqMDpB4eli9nhA0niOR-RP7OYl7QD4qA2WjmvcyucRZj2NTtqWeyHnD0Kfnw8FDzB6bZvIprGNjSNvGRQNBPArYJntxY6R9-ufvNkqkJV_NZpX6fBpV1vf_NdCxLBqE9uxvG514ZQx1yruMgMYzBaw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه 0.8.0 از Aether-GUI منتشر شد
 👋
 - آپدیت هسته‌ی Aether به آخرین نسخه
@@ -833,21 +833,21 @@ aleskxyz</div>
 🐱
 دانلود از گیتهاب:
 https://github.com/MatinSenPai/Aether-GUI/releases/tag/v0.8.0</div>
-<div class="tg-footer">👁️ 49.4K · <a href="https://t.me/MatinSenPaii/5500" target="_blank">📅 13:31 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/MatinSenPaii/5500" target="_blank">📅 13:31 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5499">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromMatin's Dungeon(᯽マティ️️ン先輩)</strong></div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Tp3KVdFKwd2zl-TiPewrofODKkflPz3CdwlZkFd2aWlLOdFgfIkVJ2kVRKVFBvyoTye01OcjWDdlhgjnv2fHUDso-M9taTe8xcdOH_fL7J9XdRrTSUbz3YAiB5Pi6m5HwgDX3ySbRnCJdNQdTUuTzoXzpayxloI0BWM3oT4s55HQUQtMnrftcDX_aSwxQoi18Z5gYSmxcF8zRk_tFh7CMo_VJTo33D0ZdYtNWACfuWnL0Lph4nHPzVt8ykkObhMLjol6DoIOITg0ulftPDUDOFv2b31LdKYHG_zt0ZK3zYe9pkTdyRkt6E8uFlXDusbLM53eaI8WOWBx7FKCm_1xJA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AE6OBL79GBv7HVYU7d20hH4azvw6gedcGOTh1gxaruZD3P4tuL_B8kzfioe6Ls0dkJKqD3rpRtahfFLwCPs_AMh3EqLJce4X69EzxHTjS0L-ZkYmHqtoPrfrTh_m1VWRUBZ99annVSjiGsM-e2K-o1yKTfsDZEl3aY03_vFvfm0AMIPv0MjmI4xjD1cWSJ5IU3Qn8ZBDJL6RQI_VsRcifBhVwtB_ZGVbIQg1pb1sRKph-yVJpzijF6zVq4nYASf_Jj_3hGzBAauElnxsqPpwmr804rRHq5yf2Xr_DsBKQG4VFSosHepIXhE_QK_q7NSZ_7hBMH5YSBy1tVBAiB4dlg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ری استریم رو هم اوکی کردم، به زودی میریم لایو، روی یوتوب
 🤠</div>
-<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/MatinSenPaii/5499" target="_blank">📅 13:25 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/MatinSenPaii/5499" target="_blank">📅 13:25 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5498">
 <div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/rswlTzZoPjHhNc9TjCe1EKNAa7rtcnllpvCO5QRMfILYG4hAHRqe9VWSU-S8gSDVhJKdOVKfNOsfz8sw7wAqby75RDRD1higiZFIu625vgQV13wD4PHOeIS55A0JIygzyWVsUR87dTbugLqXyc7PFzwUnFWdnUrK2_SIBUC5KKxktceB8lPUa8cjm9Xhbbp0_FL6-8DpfkU-6OAKWBJujVa83zvTMg-kE9SWNxVr-u3f-FQ-qx-yqDa_whvSP_LurdmbeGYlVXBsETRpHFR_0BVfuIUuyn8yShj06DxEsZRfqFqzGefom_n49XkD6lXnETvt80kc7IZuU19fS908Aw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vaTRvXjLXY5rDtG2tF8xC9UIrIt6kwB3gX0kYp8qMt3T0yUkX2YOvUZ1SnE_b1jWvmVsqlicpsksWDTCz2CKRrFf6OS-N9hboiT93J303rI9G0TXRwasR-zXFCGrT36L0YV-m6Dd-P5tZbTi-M7mev0cWEr1Th2IQLCyRg7i86l7jgZ6zjfPZcL8x1lTxnSlgxM4mcnwkSjAaC3tl6NhCKK2Ny0zkHhmgzOPGF6SxenRifpuXdL7TdXbCsvDqbVghEwNI_uPyBaxW2ggYEAmCkaasb887xiOvbEWtf9_vQvI3y3FnJyiQeflV_1MfrcEVup0iPveLvnql6tyr1eGHw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه SenPai Scanner v1.1.1 منتشر شد
 "برای اندروید، ورژن قبلی رو حذف و نسخه جدید رو نصب کنید"
 • حالت متنی برای صفحه‌خوان (NVDA / JAWS) و افراد نابینا(ببخشید از اون سه عزیز نابینا که درخواست داده بودن و انقدر طول کشید. این آپدیت رو به خاطر شما خیلی زودتر دادم
@@ -872,19 +872,19 @@ https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.1.1
 👋
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/MatinSenPaii/5498" target="_blank">📅 12:31 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/MatinSenPaii/5498" target="_blank">📅 12:31 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5497">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PpN_pRO1AM2T-w-tjqEMbQpwcQibAWc4tSG2OMt6jjsmBCMNQ6GmUXCk8ZlOWbdQOSCFJPxP-sMs0VlaMdeV6UDJYB23oFAZVHCOGJnvgYarMsykipBXinGzgxEeZPCetg1RT5p20aYJFK1Un6CmMlJ7TtTBqlpEfRzyMVRFDm--KfqCCDivkcSAknVUqjoDRioZxni11a0h-rb-xL6b8OdGIVe44WPHLqHPRxKvxB5UaB8-hFC7GuYjDy7AByCBaKLfRp8hag7nhJYOBY1Reb3RbsUEblFyeQXxIfDROsi73w9iXgErzDI_LQpNDXEvDwAVvkLAd1W8GR_SFu8V5Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Aq_0qSbUtj4TnpYx4IUkTgyZAAc29GBWtRtWVQKE3rqMrmjCM2gbzozWu-v7TNG60zeibgm4AHhu_-gSJeeJBYp1m4oMmwN97mH9mHpMCDG71XxG521sj1wquQiY2HUVi1BreO9K74T6Uua_lMkEU3k231zzGFkIaiNIildB0Z0AB510ufmthoNQxi7bzml68RhMLYxSXeWC5ZwH1hXuY0SPUV3WAG0lRpLlEtqBXIFMUOX1LYYLGcvFsK7_ofFc1C4p1dVZhUatUMi3EuD_o7rvr_97iKi0-azVvT3IIZrq7OCFVP0vF-jiJwttyli_y3M69gMFspVVlmUzQs7RUA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ایجنت گفت تمومه، دیتابیس قبول نداشت!
 مایکروسافت با همکاری هاگینگ‌فیس بنچمارک ThinkingBox رو منتشر کرده که ایجنت‌های هوش مصنوعی رو نه از روی حرف‌هاشون، بلکه از روی ردپایی که تو دیتابیس و state نهایی می‌ذارن نمره می‌ده. مثالش بامزه‌ست: ایجنت ۹ تا تول‌کال تمیز می‌زنه ولی تیکت مشتری رو بدون حل واقعی می‌بنده. این بنچمارک ۵۰۷ ورک‌فلو واقعی کسب‌وکاری رو هر کدوم ۲۰ بار با مدل‌های مختلف اجرا می‌کنه تا معلوم بشه کدوم ایجنت واقعاً قابل اعتماده.
 🔗
 منبع
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/MatinSenPaii/5497" target="_blank">📅 11:46 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/MatinSenPaii/5497" target="_blank">📅 11:46 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5496">
@@ -895,7 +895,7 @@ t.me/MatinSenPaii</div>
 
 <div class="tg-post" id="msg-5495">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/f5E9HdoXAvo8l-goi5LyXIT3tN0xNKBdi2b4K_RSvDAd2VCmaebtboy2CRZA6YhyKXKTnVYEznq7mZ0sJq-_xkNbz57Ob_bEsLvkBfcqmD3jseXcJOFLm9XSkOo09bGCO62Pq442tkW_GJ6ieN-xYdCkRYWtl-xnt73KWEiN9VzntjRXaq1jnJpFuwZsGelhB9oxEqWMboDUeSQmFPTKjBS4P4Ic-v3NhX1H2hFkJLvJCJzrXDgGoJQDB2nA7vT1vLiMO_BVmzK1FqCCBPT3-woC9gIy4VqU4wxJ9jtp7lsWA7RSwC0cnrXIYk3jI6WCTYRulzpj4rmxTMsNChjU5w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Wg0pnF838ZmKNHcLwOUtKOnqiK10QN_q5dzKfQDKJwFojzGMgWs-_bm9CARDIs1I5xUeUt1AJyrcY1lDqHvWbFonxpsbs9LlRkelvmHzGLFW-Z1Xrz-TWD2X95J2EuekmySEK_0P5mlS8yMzp_h-LaZ2Qk1wIMOZ5ppCZB4NKr5kc-tPO3g75gJkZRhn2sJOxaXJDOSNxpG75H5M5YQJwKliqg53RGw9oUHo4o0iVweI1dC5pQWtFVB7KUPLBNqtu9iLZLVQX0DjMatdZU71rDBusj_Q3-0DQIww5abBLEWyjb81ZJdDj3wmjD4JA1CUqQ59HMphFFGiavLNsltOnQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکنر زنجیره‌ای کانفیگ برای Google AI Studio، Gemini و Antigravity
 https://github.com/MatinSenPai/Gemini-Config-Checker
 " دقت کنید قبل از استفاده از این ابزار، طبق این آموزش حتما باید ریجن اکانتتون رو تغییر بدید:
@@ -936,13 +936,13 @@ https://t.me/MatinSenPaii/2881
 https://github.com/MatinSenPai/Gemini-Config-Checker
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/MatinSenPaii/5495" target="_blank">📅 22:55 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 42.6K · <a href="https://t.me/MatinSenPaii/5495" target="_blank">📅 22:55 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5494">
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">یه اندروید کوچولو هم براش زدم سعی می‌کنم تا شب منتشر بشه</div>
-<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/MatinSenPaii/5494" target="_blank">📅 22:33 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/MatinSenPaii/5494" target="_blank">📅 22:33 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5493">
@@ -950,12 +950,12 @@ t.me/MatinSenPaii</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromLinuxor ?</strong></div>
 <div class="tg-text">وقتی یه مدل رایگان لوکال پیدا کردی و پروژه رو باهاش می‌بری جلو...
 @Linuxor</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/MatinSenPaii/5493" target="_blank">📅 22:15 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/MatinSenPaii/5493" target="_blank">📅 22:15 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5492">
 <div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/pbNQiazXZ4IE8ZXuN8q_AtoJupvZXiaeDJ2833RFdqTWpvPpjQNg_6tMBlBVq-P_ad-_Tcni8tolUjr9ugH6TsmQ7NKKM2MBR_s9m8zxaA1DkqauQHrH7Ppm0zKzb7q6jmeUXIgTAjTn4aQorvnlLA3LEWBPLREvpgrZibOcXJNF8OHVONIOADTlj6RuBZlnc2AV34ktI5ARXCKxAsci0VgKssQj7IJFy3pUrPXMNM-c9FFw1_1pE4pFiVKiBc-j1jF8VRqHbrOGtJB0PjSllBw0K48qpQAYihfSIHPGignrJMhTUOnbjjhRSvgn37MQYpLn0eejkq2sARN1tOtAlQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nwa5KRq4Df5-Z592TVYwtv-ahms3Zbt4J0GqjJZzVpLPl-MUJMLVTE7eX0ArszgeDD2kfF3SsTwlsih7jICX-S4Zwf2OM_BfEtMnj09m8i0UJT20azz5XjC8JMhqYtNBcAsY-QVD0k1UNLcD9Xb4jNR6hpqoHpGliI4QgrgbS-RkrMcxJHeFzbH3cOd-_0U1G8FN-rmxm7YqZ4BlSPmfRVgLt1iQRR96Bc_TY3rIN-sR84sP8T37PUChElN2on478MtbX1FCd6qS0shX552-2i12Ia6qPY4-C0xC815yjXzZiL693XiqQsRPQybDO7yKsoYP03GEsNTFdN6_u6j9sQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه دسکتاپ Cline برای لینوکس، منتشر شد
 روی Cline می‌تونید از مدلهایی نظیر
 Muse spark 1.3
@@ -966,17 +966,17 @@ https://cline.bot/desktop
 ویندوز، مک و لینوکس
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/MatinSenPaii/5492" target="_blank">📅 19:51 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/MatinSenPaii/5492" target="_blank">📅 19:51 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5491">
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/d6249e0466.mp4?token=lNv7ZNeNbYN1j4mT8WSx2fcolrvZ6XcnCuYP-CCWMyYdmAQqkKiiBQ7plOCF0SaVCdTzAt2nGCL-oMj_VHrmV4SD0ADtQic8-Xewt_zjb11h_OzwKxEvPhFfuHfOvOiH07VTk_0IH47etz-i-z0_wraitEpXnCZfvuakZOMd1dZ64DdRtzbllAHVswKy9bt_XRMArNSVWrpTA2yKGRhT5NJKyyj5gHF7m-_84CfA601JSNH2d1KQwk6Pv9uN4CLbKxH8FUpkvHbfLvMJWGhRzUnkzoSD9AHnuIUdMw2h4OS-OEYCSgSAhew0XfRg36a-qtoP-lq0CAsKTSTcSdECAQ" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/d6249e0466.mp4?token=V4yNHP8glwImjSAhaVNzFO1igLXRnxeAhXq2tJ0OvrVbCmrAKcxbJc_Cfh672Ca_rqYj-FpwjgauPQSXeiAJ0A-9cTC9LIXakc8P6O6i4c3WaGWOJ6S11vh-xum9tcLSjE-Q11Z69Cf2gxNSSx44Vb-NOHrx8gfhiIPHBUurpMjTTb6g4YkMmo1XIFwsmIckiqLwmtxBX3Oj7IklbyGMWXpqMVrPzYp47OFCGOQPdcN1HI4QkVMEvLyuOzDYQxKS753uEVxfKEk1n5nR2aWnEgQgcxTgXsQrwIze3E54WnT3ZAgoro7DCXjRNcllYDty_LMvgrqN89LCXKS0UV0guQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/d6249e0466.mp4?token=lNv7ZNeNbYN1j4mT8WSx2fcolrvZ6XcnCuYP-CCWMyYdmAQqkKiiBQ7plOCF0SaVCdTzAt2nGCL-oMj_VHrmV4SD0ADtQic8-Xewt_zjb11h_OzwKxEvPhFfuHfOvOiH07VTk_0IH47etz-i-z0_wraitEpXnCZfvuakZOMd1dZ64DdRtzbllAHVswKy9bt_XRMArNSVWrpTA2yKGRhT5NJKyyj5gHF7m-_84CfA601JSNH2d1KQwk6Pv9uN4CLbKxH8FUpkvHbfLvMJWGhRzUnkzoSD9AHnuIUdMw2h4OS-OEYCSgSAhew0XfRg36a-qtoP-lq0CAsKTSTcSdECAQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/d6249e0466.mp4?token=V4yNHP8glwImjSAhaVNzFO1igLXRnxeAhXq2tJ0OvrVbCmrAKcxbJc_Cfh672Ca_rqYj-FpwjgauPQSXeiAJ0A-9cTC9LIXakc8P6O6i4c3WaGWOJ6S11vh-xum9tcLSjE-Q11Z69Cf2gxNSSx44Vb-NOHrx8gfhiIPHBUurpMjTTb6g4YkMmo1XIFwsmIckiqLwmtxBX3Oj7IklbyGMWXpqMVrPzYp47OFCGOQPdcN1HI4QkVMEvLyuOzDYQxKS753uEVxfKEk1n5nR2aWnEgQgcxTgXsQrwIze3E54WnT3ZAgoro7DCXjRNcllYDty_LMvgrqN89LCXKS0UV0guQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">یه اندروید کوچولو هم براش زدم
 سعی می‌کنم تا شب منتشر بشه</div>
@@ -986,7 +986,7 @@ t.me/MatinSenPaii</div>
 <div class="tg-post" id="msg-5490">
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromIRCF | اینترنت آزاد برای همه</strong></div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/iy7eOnic81vL8vR_uetG3SCzJ-HpMO25cEdx9RuoJ47tUf0NfQUfjlzlNnYG8q4n7jpqZL3TIV_gif-EJXpmZGn3zNOkSu0JuXpu1wcArOQ673gDAszV98o6PEhCsjomuKJYerM8g7BO31Q_k2tgR-2rIv0wwUb226LEQpJVocWluFUK4-nPhH0lBSFe0dAYO-srelvSuvoRW5n1DrO1QYmIgLujGnG9Xp17LD1DoQbcg5U7DLCKy5oPiiGTdqA5XZRPFFIubsnRH8LTgJsRZw_iSM0EHk2z0vEZZJp7YbU4ZpAXszYJcOde9wfrMR69-FXKW_qRAW-wyRAG696lZA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hDmfhJtVE4eJypEntQ01ciIW6YNWBXOZ8i_DgV3DZGghoSJ4yncH6rZ97diihLO7BEHwmDrrWB-6ezK_8F9oa385Fx2bDY239KH_ErubkmawXMn1thM9cJtHc4zGd4iYJg1lTWp1ZZQO1PDr9JzMFS2CXn289bllIb1RWL3UyhILTkOBr1_HArhR2lpPauO9Lh9gz0ZoiAEmFA81eOavy06bb1Itn8G4Qd5Wk6Nw6nEMxZbsUAmOgkSOUpXpJhCPfjlQU81I__Cb10plx_14F9jhpfy_Gun_Q0mOuezIdK-bcaoDKBOE7X4ufw1FH3kCURreaEcEfq7YrFqLiIcstw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلودفلر میخواد تبدیل به یک مرجع عمومی صدور گواهی دیجیتال (CA) بشه و در قدم بعد، گواهی‌های جدیدی به اسم Merkle Tree Certificates رو هم در مقیاس بالا صادر کنه.
 هدف اصلی این کار آماده‌کردن زیرساخت وب برای دوران کامپیوترهای کوانتومیه؛ چون الگوریتم‌های فعلی مثل RSA و ECC در برابر کامپیوترهای کوانتومی قدرتمند آسیب‌پذیر میشن. MTCها کمک می‌کنن گواهی‌های پساکوانتومی بدون اینکه حجم و فشار رمزنگاری روی اینترنت به شکل شدیدی زیاد بشه، قابل استفاده باشن. کلودفلر گفته هدفش اینه که این گواهی‌ها رو از اوایل ۲۰۲۷ وارد محیط عملیاتی کنه.
 🔗
@@ -996,23 +996,23 @@ t.me/MatinSenPaii</div>
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/MatinSenPaii/5490" target="_blank">📅 18:20 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/MatinSenPaii/5490" target="_blank">📅 18:20 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5488">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/NvV24TGPpeuV9wq-blYQQPg2_xxGt7oP7TjVBNMgVWg9yOanW1xLVvRmyY65IRwtttaidaGnJMiSHrzhqAG6VyoW7u35uRvzWqbHc8x1XhrR7zIS6ZKJ0ggMeqbJHk-9Dy62swOrIemTcLVGOmj_4yOHDXIuyR8gGRrjxel_Z3KPJC7dLgt4T04v8gRIU31BuFRQIM3B78B-cOOjXeb5Y8c7TFL2UJBAtRtRgKJdi-f2qVl7pwsqsfkGHVajR9sbGH9DwC9iyOtfQlxST9XCLTv1gTQ0ZOiu7F2ngjomSd7MWo7AD8uOJcEIs4BW1nn3o1k5xXB1oFuZftkP5ePfVw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/eoruu_wxorePc47cGvJE56SFpef3DvXnpR-jVPjruj1oX11-1qpv0Rf5k6TuWPKuam1UfMqfqdtb05vVKhAhA_t9mRxqeYF2274sayQE3wbF2wcuEnUZS66I5lf7uUqWEVt-C3TGoOjDmd3Z4T4v45_PZT41_mAYa0nAaMqDXGcBgqV6QP32-G7cEbRZqmZjw-MRvAfSPtn4GWuQvANY_hvAZHeHPc5coF0aEOpVq7rt64wSMrMPbijF31EoD-HO9RWDJJsa6rWwrZKUaMxQDxsvTZdfS7EpZ13_nRteNouufUA1f1Au2uwnfFZe-f5GGqavU5BSu2qMuGOg9mFL8Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/W6UfVOTUQFyhesVs8LwmiKTCa6w5ATUu2q9ZrWZdTUJy5vjsTvUzLbdDDYUH01PKMIwX6xV-kSsY6O7GwOGviiHlPyyFWmeahUfHa0PK94tntQJ2Jr8ZkzS5ea2t8MXSTU8OCFSjtXzLWOCaDN-TvThoUxIcGyLqUL6eyQEhG8Y8EcFiPHLDN5KBzNzT88u9rXH6RLz7ptymi04b0s6ZIwTydw5gsAXRgRhZckL16x74yAnUX57Gul0zJob2-UuuHFvz_gtDqlbMV_zGfchIwvCyg7On7YNuDc0epVftQjgzeqAhEt7VNrjeCobbBcOKxilCTJptFxyKpwP2wWrylA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">دنبال راه رایگان، عمومی و بدون دردسر برای دور زدن تحریم Gemini و AiStudio بدون نیاز به Veepn و این ابزارهای ناامن هستم. تونستم دورش بزنم، صرفا در تلاشم یه ابزار بنویسم که عمومی بتونید استفاده کنید بدون نیاز به VPS و..</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/MatinSenPaii/5488" target="_blank">📅 16:18 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 29K · <a href="https://t.me/MatinSenPaii/5488" target="_blank">📅 16:18 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5487">
 <div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTaleo Comics | مانگا، مانهوا، ناول و کامیک</strong></div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WbjiUztvN4tui7PcGzeAiZKN0gSgkPWo1ooOpdosyaQiB_QHrzHQWlgyM8KaAKREt7zn6NiCL3SpfxC9rzFHklNuHfKUyu475r8ATjvPhUlHI_C0cv8QpfZhHvZyF9bkqpONVKT3dbrs6Mn5Oo4QH_1uxlj7kyIR7WUcxd80WYiIh14zYcNRIrJcCouLb-7S7KmBRlWLJCuH2vxy8Mj9XyRBbMOxFk-igR42CsWCUgaRO2C_5LnBvYljxdWtCMzR4ZfGeWj1D92Ub73bfrl0_Qz0THmXlpL-IfO5BF-8yS6k7mt8yfL-u8sM20NBl2ife6GPshkfv53FdF43v4AFdw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/EnaCCmLlB3h_lyMv50nNHL1cLMMaQUUnq158RX4BS0JtpHUFSySkX_bCBCHPBVFMag8xkhvyk8kvE97XlgMVVYcaXjtCoA_kelSxX50jvoG9m7Y-NtFHT_RCV8dykV9B8l64y_59dJFIBhEgF-myYRMpGRwVz9MmJnKItVM5wkNqIevMmbrk1ny9hCLT0yrrYBsNvGpJcM52kt_2bsyXv5WAWi_Jzgp7kEBB0Oj5Bnpa9j0XplUwHCqpW9OJuQ7Q3_ZJSfBkPZsRACKKpXvqCQy9SiDjWv8-Bwn91J83Rv-ANucOtS_QgwI3CTAo8CGF3siqoE7RFTGb4cF14RONKw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔤
 🔤
 🔤
@@ -1058,7 +1058,7 @@ https://youtu.be/PAHA55mHLWs
 منبع
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/MatinSenPaii/5485" target="_blank">📅 13:12 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/MatinSenPaii/5485" target="_blank">📅 13:12 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5483">
@@ -1087,7 +1087,7 @@ t.me/MatinSenPaii</div>
 
 <div class="tg-post" id="msg-5482">
 <div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Wp5NrGbZPjOt0EzCCpmnwYpYLchbZ6_8Vr92vbjB8DQKAnpzGzE5LRmcSiH2GimsaZGtuaVFojC6Lptt9xYLQb_3qZ-Syjdlg_HOXC7UPP3iNwVh63y48P17RmQ0Cn_j72iqcBoSUiz7s6X2rRpKoKAs5TTBChRktLQ3cqkTwzLHc2aFlL4dmIQJ9g-Gydc8FrwPH7o8U2j_Xsw5hwW6SaZgycdIFN69n0EgHnkcJjN74EFT3-QizT1dPubBIj3F3D9wHmxoweuV5FpFehbg22hggUVMmZs4YiLugKi8Pv0-Be4p9H7Vu0kyCn16O3fWUDDxGPtIObRcYXPW7oi4Ng.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tZ9TTqyJTbpyokriIn-BRGn4CN0LiNqGaFpe4mJw3ZcIwBEKgg5QE6lBP2h_f-NdjA0SZJ9M3aEck7NqCwkg0e9hFPdzVjpiWFXa3dxIhu7KRqpGkX0kVcCjdX9RLELaDMSFUhe9msziAmF_hu2WCMQxPaY_TdkPDcz7iNCUyH2nFaHVdDKAFIv06I-IyxzUCJsgfALAqkgSNBVvImftGUCriA0G6rruYTfogtTYhdU-kW2Qm6QP8MhorNEKJwqvwX7cNvCgmA9_C1bLEDnoawEDCtsHnAkYWUrFSZED9PmA6UAjCYHeMkU1BEh9yQNVQgVO9YeBU5T8GXreYzOycw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گوگل رسماً سراغ سوئیفت سمت سرور رفت
 گوگل کلاینت‌لایبرری‌های Google Cloud API برای سوئیفت را منتشر کرد؛ مخصوص سوئیفت ۶.۲ به بالا با SwiftNIO، مولتی‌پلکس HTTP/2، انتقال gRPC و ایمنی race در کامپایل‌تایم. گوگل می‌گوید با کانکارنسی سخت‌گیرانه سوئیفت ۶، این زبان با ایمنی شبه‌راست و پرفورمنس قابل‌پیش‌بینی ARC برای میکروسرویس با Hummingbird و Vapor و زیرساخت ابری ایده‌آل شده.
 مبارک سوئیفتیا
@@ -1096,21 +1096,21 @@ t.me/MatinSenPaii</div>
 منبع
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/MatinSenPaii/5482" target="_blank">📅 09:55 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/MatinSenPaii/5482" target="_blank">📅 09:55 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5481">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/MES_XJICwSHT223s00IrVdmGQ9pc0GRzmV356KL5LGAHNYCSbvzP2lovIskIelZBBid8d9hDjnjV7FwSI1pNKAqyWxjZMhYeBRpo0DNmOF1QcQNUuUwFbgkYRPhsnMdQ5iHozAa9nxveedfldCZsULbDivPS3pMWJoRkrqlVR6nON3T4dPFOa_NHGOl4lYTu2_L--1JbI3qkhOM9zw1Uc7pLymDrQipCVrxZ4cmcdSdjHbd_l-xo2nnIwe21tmDL76HeF-1RHqoXEuZuHb5aTqmewY72GYkjKAdqxAEcDVWbgQ6g7RTuEfnT1a4DuL8WhNvcitu9cswQhDBRp-lKzA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JSQNnyP7tm1wrxihhyEQCQGFY3fQnOZo_n5OtRtXVprvYpilgjE_2-VWU_3MFR8aXE0iJS5gztTRQwdL2hdXD_ueaO7v66EHAPmczWdGq7e8cIm979tdsDogLG6EHGQ9J3opvss3c8dGx9A9zgVGuuj7SdHEXT-2DjuAAmZXhjugE5c0YAj9cr2XdNuUbK642eLg1k_oValu0DMyTBmU7hU2Pv-dJ5h2XN2C-wgh0yoqs-ITUWUzXcus2zmDACcQJz48WUdP6kKIH-zE6crcBcPZyptLJHgCr_HD_0SLfP_u-VSmHwnghOA9BRn5Bx3UcOZj44l9yu9NnSUsITEMlw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اجرای آفلاین LLMها، روی سیستم شخصی! | مدلهای هوش مصنوعی Local با OLLAMA  من این کار رو توی دوران قطعی نت کرده بودم و بدون هزینه، هوش مصنوعی داشتم روی سیستمم و همونطور که توی ویدئو توضیح دادم، ازش استفاده کردم. الان، تکنولوژی‌های جدیدتری اومده و توی ویدئو یاد…</div>
-<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/MatinSenPaii/5481" target="_blank">📅 18:52 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/MatinSenPaii/5481" target="_blank">📅 18:52 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5479">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/sclls9QUFo2V_4DIGGhFMyY1c_L66yXttkfi_3abXMH9BPCstQulOtrFQXJkgGaVLqizgPIqdSKdVA92vkStItk61P3KyArxt0hlQn_WdhMiXDaNZANVqQJhaskJWsbG2LdVX7hMvwfrrOpGLDJkfwMv2NrvpouHAnBSiULQThmVk8_qJa-Z6NgvBeyKwee_RyBprhDACHGe5DNsZ8WVLSjmIkUSJBXc9kQtgeRqSuhF91AFzl_Z_1sxPKe50UJDLnACRBmBrYlOHywHuXe7pFMUQ6w1lafkHkh_LWMWdC2ABXD0Lzkjhu1ZtCco6HYp3vDCANB-UgR0gAJfJAidpw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/u1JtL1hqONhNe9SOas4xOpcmreVxb2_KsDjkQJ3KLRVTk-L-vbRlgC73Kafpv8nKwidblsSU0d-0cncl3gkjXWgK0X6PayWhTRmByVsQ1RkgEOkUceZq6zIqHLgN7Tnn0mRaCws19ZlmMEysA_XVMx2MlHWxxxHugc40z1PV360PHbbCNzSsioiv_FvqwsDDKMxYg1KmrIehZl5qUgfUKrB7BGYFfUWPw1aw5FyFlvcNQ-we7m-z5uQE6q3_fNyoeVtJKIM4vL4pkWnO9qz8A6bhdiuCd-fuukRI-26ukbdIH_2qd243UQFTanoxDxpmlWCt8FA-wbbSZuf6TYmwvQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/sWbXsLrfg7vmCXhMZm2udUa2eX1di5Q5STS-5CIRcEy-hGk6HSRXO1aGhwxxyzdfR-3iwkUfqmw60E8gCCKHDcqGpgon03Hyc5aNQfCdglVuENau8ZkCSbLBCazoHgsO8KKram_cFDGvTwuNHV0lv0GCEOmW_huTL1ElrJMooiHi-66XF-2fr85d4zCCEPG5_Ov5fUoN-kmPbBL4_H2h8W4HGTdZFDaAxktvcVJUX4-gXUGICd3ofGfQNXJnrnwbxv1hfAytFTyqOPWvvwpWzxHJlL0WMe5vRr_cNLsfYvuSqYbDIavQ1S172826-kPegP-k8hK1_mqxKB_4BB0y4w.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">هر ویدئویی رو رایگان به فارسی دوبله کن! آموزش Gemini 3.5 Live Translate  توی این ویدئو بهتون یاد میدم که چه شکلی، هر ویدئویی رو از هر زبان به یه زبان دیگه، دوبله کنید!
 📹
@@ -1130,19 +1130,19 @@ https://ollama.com/download
 📹
 تماشا در یوتوب:
 https://youtu.be/EAF-hMPUMYc</div>
-<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/MatinSenPaii/5478" target="_blank">📅 18:22 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/MatinSenPaii/5478" target="_blank">📅 18:22 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5477">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">آموزش دور زدن فیلترینگ کانفیگ‌های کلودفلر با PattN و PattNG (نسخه آپدیت شده)  1- ابتدا اپلیکیشن PattNG(برای اندروید از اینجا https://github.com/patterniha/PattNG/releases) یا نرم‌افزار PattN(برای ویندوز از اینجا https://github.com/patterniha/PattN/releases)…</div>
-<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/MatinSenPaii/5477" target="_blank">📅 17:55 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/MatinSenPaii/5477" target="_blank">📅 17:55 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5476">
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromPedi | پِدی</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/p49dkPQStk35X-sChs6ZS7gi5jDa4fXgC1h5xfwESWpEf_CWzuVA25P_Fb2l6wWfO_TQBtm1wWoxdQDZDiNcATtEHpGv7KUIVkIfTiiTpoEu2NwL536hSkH5AFYSIyZRDfjgHAlYQKOlerKuXFQMJcd6W1zpxSErxhwfct6Avc7V_u8A2Po25rAR6QNbvz5CHY3FWOny-iOZnOvoiIlX5V1IxQLHKYm5xD7Iw3Wmd3o47ZjxjelccsJTz81E3zqtQ6cNM_aGjCQKNM-qCZHe3a0E1aLNIQndoZ8q3jFBBHTrxsJB2wwk-M7UstILNMkN0i6qDJxc3V30sldotpkuZw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bV1Jmrj6IM0gwfiNPlYQ-sONNClcjuSxGkAvb33SrCxbhar_mN7X0hudxf5Fb3SvDCu3Fn2NfnwhKKL0_QgUPvO7XwAYU_8ENAjGUDmSYdjgGKij39n_MPpFzNaq7iKORTTMo7hn6rK6qYKL8RD10kzHQsjwrEq_WKLKHaMWpQqraJDvfKHie1_GOLSXDg0N8EQsF2x-pHSHBIecYCfFic3g9Arr3CZqFcSf3hwNImJpn151Mb9ZrJU5Cb-dMcBU-2-nWWnRfNTDsIpPLt1U9ZO7lNVZVU-3KGSo0_TkgXa6_Tuk51XnXp-00xSR2-cTvM4gwNZGy1x-3rh7-EvQ1w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به جای توضیح دادن «اون دکمه رو می‌گم»، روش کلیک کن
 👀
 اگه با Codex یا Claude Code رابط کاربری می‌سازین، احتمالا پیش اومده نصف پرامپتتون صرف توضیح دادن این بشه که دقیقا کدوم قسمت صفحه باید تغییر کنه
@@ -1161,7 +1161,7 @@ npx skills add benjitaylor/agentation
 معرفی و دمو
 ·
 راهنمای نصب</div>
-<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/MatinSenPaii/5476" target="_blank">📅 16:10 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/MatinSenPaii/5476" target="_blank">📅 16:10 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5475">
@@ -1221,12 +1221,12 @@ pinned a photo</div>
 😂
 خداست این مدل
 https://www.youtube.com/watch?v=h5EL5zThKaI</div>
-<div class="tg-footer">👁️ 34.3K · <a href="https://t.me/MatinSenPaii/5470" target="_blank">📅 23:04 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/MatinSenPaii/5470" target="_blank">📅 23:04 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5469">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/G8meokBvt_GyiVnFNwoXTpLIX0I_SZu14VBvqoovcS42q6ArsvWM_86mg8eUTV3jok6pL8y4VV9L9ReCqf6WvkvEBxvDJjo7ChuHR8ctcct2IQH8-pbMH8eCyB8dXqXQZdUaWnKrwFTBbZF99XRHAdpk_8GkVk46JwZffh57mYRmxTI1F1x8owDOzxkuBCC9X7T5xr8bAO3WnMKlyv1Tu7I_HEDI2MytgEkSJJIuLo-l6FjgkGP9IGlzdjDahBPSVP5tJJmNXfKe5sZiJ1bluBvWwvJ-HpBJR1pwZYE14Uay0VYKF7m0ZGRuHZHnFSHCo1yDQ3pFf3482xf9sSqcXw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gVVyPEgzboTJ9Fqg5Rj-0HPDs6WPAxvsXcVZOMVXSqhImbDTkTGtZgvuFMGjZTgyd4MmqF1T_vki6ZPCYRGqxFd2jdhGWUlpBndof4qFJisOAbpxIN_gESLFlokRun0yEK-3rSgwBGr7MU9ZvOMve2yYbw9CVkUsdEsIMts3CcgxE1MM5Z5bbzivrIKNS5W9u0IZ0ShwmQHFWZ-wzrioOln60pKD6aG2uh6GTnFdpfQkKo-pT41N5fYgdQkgkUNtyKbjZpYmTgRitD5T7hFH97hWiQpIE-sDv3m7b4ukDkytoYG_32tIfXb1SGRhxgv5oEmYLzo9-Qf9d9aG6GE8mQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آموزش دور زدن فیلترینگ کانفیگ‌های کلودفلر با PattN و PattNG (نسخه آپدیت شده)
 1- ابتدا اپلیکیشن PattNG(برای اندروید از اینجا
 https://github.com/patterniha/PattNG/releases
@@ -1256,7 +1256,7 @@ https://github.com/MatinSenPai/SenPaiScanner/releases
 موفق باشید
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 38.1K · <a href="https://t.me/MatinSenPaii/5469" target="_blank">📅 21:17 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 38.3K · <a href="https://t.me/MatinSenPaii/5469" target="_blank">📅 21:17 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5468">
@@ -1272,7 +1272,7 @@ t.me/MatinSenPaii</div>
 منبع
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/MatinSenPaii/5468" target="_blank">📅 20:20 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30K · <a href="https://t.me/MatinSenPaii/5468" target="_blank">📅 20:20 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5467">
@@ -1280,7 +1280,7 @@ t.me/MatinSenPaii</div>
 <div class="tg-text">بزرگترین مزیتی که ایجنت‌های شرکتی(Muse, Grokbot و Dots) دارن اینه که با مدل خود کمپانی یکپارچه هستن
 برای هرمس، یه کم چون دستمون توی انتخاب مدل بازه ممکنه گاهی اوقات گیج بزنه یا دو نفر با کار یکسان، تجربه‌ی متفاوتی داشته باشن
 اما همچنان هرمس رو ترجیحش میدم</div>
-<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/MatinSenPaii/5467" target="_blank">📅 19:22 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/MatinSenPaii/5467" target="_blank">📅 19:22 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5466">
@@ -1291,7 +1291,7 @@ t.me/MatinSenPaii</div>
 
 <div class="tg-post" id="msg-5465">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/rtaCuN0WzsINn4VXbghfyKJceCSf6t8RFSfrr0On_v8I497HngvC3v51fnrmrUXsm92b6ELKQ7f0VARDhxiMlJgYuuUjDtlT1deYMKBxLc1Bh0JDzuXtG3Iy0G0_pITxMglMEKngphmaEIaJOZhpTZgeWIG6ff3p2kZyGRCGEW7x04y337BgSEs1nJnXDcYdznuZjO4hSDh4yh0dAeXB0DOLSN8wT2DYo920b8KnQ5AjOCplXFT5_QqnNZQMsAzdxEaX-JfCF02tEC-xBMRbg1WTusMoPuZtTJteeoONQ1ntOI9AqAnw71_kfc0q8e9bZ_CKIbbaqabseusD6mJ-Kg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vp0VfTeANHjqgHkC9KSj4RFSkrq5C6AIkBs4xGTodFucmlVBOjEsXoNAWNksw9OhNxqbFCmbLqUZMg22u7qSImAjSVeVHXWusxkdMFYxkStSfsGazf0b4YA5ELdC1xpDykqKQibwxrm2f9LD0Un6SuTGt0YH5z5k6Jtr4QEdgl8Q3ri8R_WDqQF0IO_bbrawwXRuFJyyYb86iQL89a72AnHIagpZwd02XJr7t9zwN3C_0HYjcSvbh3Bq9ipvIszq4ujL33qhDPHjNZ83DhU2Ll-ky7sTbc0WyTJ9ELLHu9VHLO_QzcSh54f_LBAy7zf6s9IGPw0pmgEJrKqutMg5-Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ردیت فیدهای RSS را متوقف و دسترسی عمومی به API را مسدود می‌کند
 ردیت اعلام کرد که به دلیل اسکرپ گسترده داده‌ها توسط بات‌های هوش مصنوعی، پشتیبانی از تمامی فیدهای RSS را از ۱۳ نوامبر به پایان می‌رساند. این شرکت همچنین تاریخ توقف کامل دسترسی به API عمومی را مارس ۲۰۲۷ تعیین کرده است. این تصمیم در شرایطی گرفته می‌شود که فروش داده‌های کاربران به غول‌های هوش مصنوعی به بخش پرسودی از درآمدهای ردیت تبدیل شده و این پلتفرم دسترسی رایگان را کاملا محدود می‌کند.
 که خبر بدیه برای ما
@@ -1322,7 +1322,7 @@ t.me/MatinSenPaii</div>
 
 <div class="tg-post" id="msg-5462">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mxnff-KA_l1o8F9v3MNzb8n9TwFTGeAdKPDaoso7VbnAX9qhVhJDBU2d9j0ywT1yaS1Lhf3Zr6Exx0XlnHqFuSRvREdrW--Zso7T2uH8jmX6_nqUi8Grm5ffv_FDwgr9GY9SxJdKnwVnqMPhg3WzjV59NcToT8JKvst5zSJooqpUXip3Rpq6WQfKp3K7HhTmNbPPL5tkTF2z3NQ8nhzM3iIQuyC707DhaMf2Z07SgdzhpEEOJ19CsFP7By263Z8XdP3MilC1RhUApkAShO2cY_dCG2t09qCPii-kybsDIgRbYbA7mYIGwvAosac_CrTois-kRFTaj7qEoYiR-rEiqA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Z2tqVfzXtGig6E79hJ7QGAsl2mZd66IEP5U8j2UUjOw6LSlnzHdfJWa9mPdtSM4OrJyATwLpf8J_AJxaOdPUV63PZO5zaJTJvUfOL8NQcukvE9d60VnFE5vR7V_NyzASkMpe2-cGCBEGH2EsZIXzD51FGJXvHXfb5Z3FERpGcRcFBbhhq7lyJDItNt7U7dGb8uAAVc376LHyr9PVSR1DExXEjpz2W5vw0DkplkVh2qcuvBcGPZGPgK5SHpAXU2n-vuQLbOdMbq_GUJ7hB-meHYvrYeTE-U8qsW1ceXsTOg06-yw43O8GbhFQTWpkL9EdK5KTZ3VPW0lV1bWIm6lyGg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هر ویدئویی رو رایگان به فارسی دوبله کن! آموزش Gemini 3.5 Live Translate  توی این ویدئو بهتون یاد میدم که چه شکلی، هر ویدئویی رو از هر زبان به یه زبان دیگه، دوبله کنید!
 📹
 تماشا در یوتوب: https://youtu.be/dPKSMUR5cQE</div>
@@ -1331,14 +1331,14 @@ t.me/MatinSenPaii</div>
 
 <div class="tg-post" id="msg-5461">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JivRhXtdWE6j9TX-fwHaBskKGvoqOl7jo2o3KcodEIHYDGzeZfDZeaTlYkerAcykPEue6duy5rlbkAt0GdVHnISZFnjp9lkZrLs80SZlpzDena78OYDQbW3AEt6Pmh7iVxX1pHUL6W9VOta5GxL_JeeXRSUlNXqHKv0ONOmZxxN80E0pRuZDq9rAFJXdqJli4-gLRYvnqe2mxsHnrJcjWgl3-GBc9ioAG3UvD9vYESWn79507ny9Z-NbWvCNyWWXNwZhbdjUho8g9-eDD4KsGcWyOzDFbL42taHtQLzZ1qlrbBj2HSkaQSdle3bSdIIeKsjvZYi_UAjB_hQOSRHK3Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/J0C0LlpXeAWXXTtFfNBHeczKvTzyPg-7vNwOmjiOG6NTQhedpQtbyDd0FN5DiUclv6DzMjYeLh3L89BOQ0qAuhXV4uZBiJT_7n9ssV2LtUQ-uka4Q351y8N5lguUgmPjXLKvBC4IsCPaqUnjla9_8cUQUPa5UoX-euV9XsQi2vMkDqJJR1noKbMptMppilL9ieGKPdWnOs5nHieNhFOpOt9EsVpKP1uqThv-JnmAEHDKmxGDSyChsisYqGAvImHhUQcIUVXz5saoAxVDesUWT1XG3E5rx8NwsfR8uJwmhujw3BBi4iniOzeOenie8HYmOYRwf9YB3WgxaSejNPh4_Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">معرفی Decisions API توسط OpenAI برای اتوماسیون فوق‌سریع تصمیم‌گیری در ایجنت‌ها
 سم آلتمن از عرضه قابلیت جدیدی به نام Decisions API خبر داد که ساختاری مشابه مدل سریع Jev از استارتاپ TypeSafe دارد. این رابط برنامه‌نویسی به توسعه‌دهندگان اجازه می‌دهد مجموعه‌ای مشخص از گزینه‌ها را به مدل Luna بدهند تا با سرعت بسیار بالا و هزینه بسیار ناچیز، به صورت احتمالی بهترین تصمیم یا اکشن را انتخاب کند. این رویکرد به ویژه برای کنترل ازدحام ایجنت‌ها و اتوماسیون لحظه‌ای نرم‌افزارها کاربرد دارد.
 🔗
 منبع
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/MatinSenPaii/5461" target="_blank">📅 17:13 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/MatinSenPaii/5461" target="_blank">📅 17:13 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5460">
@@ -1352,10 +1352,10 @@ t.me/MatinSenPaii</div>
 
 <div class="tg-post" id="msg-5459">
 <div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/SwzRHmT17Oo0X2MYtd6QmfrBbUxJOcS9ASR266DelKOvhe4F6dZx3qxbGl6QK7RfAScwUWkdgob_LvepSSA7lfu0lEQUut0fItloRyQ3w5mMMKmpxyE95kvoQJVWrKkokUmjRpLifnn2lWiDl1QfOMMNIDHnDVVEQpTCR_lp5GCc0A8SE038Kq5VhPF6lCptU8ECKuSkRPiz-SnGu-jpbKyy-lHeFY1haWKND2jfvx-qpQja4CgRklY2-onvh_R-a_DR3cp304ZxvIcgg_xW4-upDqhGRkO91v_6r0AzYjhCVZ58PKt2KJCY0DgI7p_v0zo9z31C_ZWe9U8tvqFniw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RjboWbTMrZl07MpHm8CFQk44Bux5nbj6S6DBPSXlb1xu0A5ocX7UNhG5A-zT1W1uajEJHzPc1TwrOKBTa1d37Wj-9arqciJ5fJ489v_PpHmRa6zXv31kZc5slzrgtYz2qTYfEOSSyZ2WFmOosGSXQ1XU-r5GpwFxH_wTUu3tbDqtdSnHCLfxyfVDvmwPDBy8XJgxTNb55AZaRMrCRvg5zEdH3CPxFo3yjkETSaYGl5F7s_OL9hkExFkxC6g0aF8C9Nt1e08U5ot2SF2hhafxaL39u83aM-Xh05iDGNVaoEa0qdbElrHBr-0iU_6ozEtPe4GEuKZ20SwBnBipmaO8uA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بله ما نسل Z هستیم
 😂</div>
-<div class="tg-footer">👁️ 33.3K · <a href="https://t.me/MatinSenPaii/5459" target="_blank">📅 12:41 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/MatinSenPaii/5459" target="_blank">📅 12:41 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5458">
@@ -1366,7 +1366,7 @@ t.me/MatinSenPaii</div>
 📹
 تماشا در یوتوب:
 https://youtu.be/dPKSMUR5cQE</div>
-<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/MatinSenPaii/5458" target="_blank">📅 12:30 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 40.2K · <a href="https://t.me/MatinSenPaii/5458" target="_blank">📅 12:30 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5457">
@@ -1374,7 +1374,7 @@ https://youtu.be/dPKSMUR5cQE</div>
 <div class="tg-text">شدیدا حس میکنم مدلهای چینی اوایل که اومدن غول بودن، بعد از عرضه یهو ضعیف شدن
 مثلا هممون به Ox Alpha دسترسی داشتیم، بعدش که glm 5.3 flash معرفی شد اصلا اون هوش رو نداشت.
 یا من به Qwen 3.8 preview دسترسی داشتم و خارق‌العاده بود. سرچ کنید توی چنل نوشتم از تجربیاتم. اما الان Qwen 3.8 max وقتی ریلیز شد هم از مدلهای Frontier خیلی عقبت‌تره هم توی بنچمارک و هم توی عمل</div>
-<div class="tg-footer">👁️ 33.5K · <a href="https://t.me/MatinSenPaii/5457" target="_blank">📅 11:35 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.6K · <a href="https://t.me/MatinSenPaii/5457" target="_blank">📅 11:35 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5456">
@@ -1398,9 +1398,9 @@ Hallucination یعنی توهم زدن ai
 <div class="tg-post" id="msg-5451">
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/NSbeDX1NR9E5LzQo_7ewIvgwPIUifkbkujJpFMk-bB0cX0-xA_s9vQpe13Dss2UkpqlGpgfS9HAamv1zU9Ho5xlRSnIoq0Lcc9_jxXggE5nnZLnfg0DTYBgC-dMrcj14uPqC3mESWy8q3KfLeEWIul_5EYa0xorT_-MVo-GjEZ0ogYpCW0EDnd881qx5wl9qu5hmAM5TB2lU96YQ4yykX0EU-BPGdolt-yneh-QBJzBatI4b1jZY4aRAwnSx57KUarKW2Qhe0p2KxDplqtcT7UeXItxbUNjfcOf6C8i_j29QkB-oqEwSqwuFEZOT056A_fE92rtw3dUU8ZrXlW85Uw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/usUVgkKwYsOkvysPprdqaZSWarEZxcCKgxzEioaPIB87EJseMtd-kjSIJZrisTZ9BTede6LxCsjgb6GKtK6FpeEhB1cf7PcT2Q0srFEjCW1r07-jP4DN0IG4mwDqBljXF28p7wYX72KkE4lOGnN0BbZw-fvSIdwzRnT8uXZVidiZDou0ngTCr3KVNZFcfoRo5NCaY0M3AbQjPFnEo5VT3UpsS1s6IicoUD3lM18401i1DEAZp14AVG-tcN08U5INJ6vgKRj6ye_v2Rc-aYpWDCElhKQJbELwnCfAoxN7uIq8VGlwqFj83yiiOt5wPo2VKOvEwqPCaL8QhwwfTBbZUA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/ucZeydmCNbjAEhZfB03AnNHc3eXjdCqOVVGBCdwPBoXi7lOE18y_HsFq7amVn0lk_atYoNljvfO-oURjIOVYKYe47MozhTetlSYleNOXlDJY1foWIvE4u3nmZDdWP3Fpk1ROgVhjcm3M28wlAWtta1WyueCvytGtAbfvHPCIJzcGYrhRWCw6u2EofNQxCCWaTXFXF5QDDPvDTMurb6m4XElW3ZNeZp70jkJFubK20IgeWlz9GPZJDN09A24Wcb2Wb_Rdc6TOt492ARftWP28Rds85TyO0g2SwJZI7gPPWangGMVw8NzIBor3Pkfb05CU5k6MN4TQuFCe1kNT1QOl_g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/mPJ9lwpC7O2SxCI8oBDyRWx36qadEeCFlZrl0zJF0qnWBqvm_0U8yZV3tCzoeGBuaYtrdCSLzIBpwQ0xnu039tNIN8pDbHso8o3dgaoGvkh-b4YWWVwoCzbO3AQuaKmiKXeh9CkKTFelK7S304g8G1r37P-XnX1uIAtA_A4rcGXAs3VnleafNYY6SWeq8jJNerIgLM8wuSxkj-Axr-S4s-DIJB7HpHhGBYai2S1Kf9xyktZVGLgYtE0x2es7hzC2aVp8KmIa3-6gDdhzCGgGp9XEZRWw-Gn23wYRZFqPO5xInVGK6-SKoGyHnFz9PJYI0ykspXEQucmLe33jVoi6lA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/RT1vxRVAq5c_V6CqdVxkp-gM0zGjFRfud2z8e9M2KIpvOriS1clGHmakF4ikLMUaw7kxcq9yLwI0sGBUf8l_-wrVIFb6WrW60gxBk97Ql0tieJHD9B7ybvgvEmMeo75SwGbbvSc3BSXcUOJ-S-avMA-llsx4_y6AcgcbdsFEaTxPxRw7qVGpKKccXOZm-Ecw03PdTQvFFf62HYYOEeS9H2Qo4I5NCRGLIZfotm9fAYHE58A6td4ZYRtc6CjZ_9DMIL1jG3l0fP_nppkXZnEP_vYxXixAiOrnAp8AVa0aFeRnKSlIFjdjrlqw2UivOyOgn_sKT1fRxruuvr2PHHUXUA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/TrnLBr1LZAabSZ5ppgy0_CBeaMoDgGgd0w0-n_0FfstqaAa1xoWUmhNnW1m8xXf4LkPNMDS1GeyY3w9aIvJMBd-abmDTnrwMtL35ai9DRaKl_FXEOiIZ7OUjNwRJRAaypZQPcXPj8x-NeS2_FPOWQ2vmCdg6kDB2erOSFJR4P3rHOcPZYpjCOhU-LSj5k8mB_kR_I0RnOJrHwuhuBZYbPZAUy7BPaZd0K5BIZl7E_8XLLlpSBUtDfHC4l-bdtH4KOOGdfCDrbyyYcYpyUTieXGwB6EP1vXiYwJulaPtUZEPTakcXT47AKTIk73xkZhEWp8wnzlPiEOB13lJ0TNFdtg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Frck1Er7sS7EajPObIvgFRy6naCa6NB-enzndjnPs5F2pofUXJISVBtrzPbefD8mOYCY14JCZ2RhMO3ySMNLufCfgB7miyohGvNpTnbUYxth9ZeG_NVIQ7T2zvwJLVxHimE7KrWP5LafFgBMpPkKg5oiBnVfrc3hB1RcG7qm9EQGnCgLVMDcoDLw_fyAiBUydP1CbBXwwb4y0X_HkYdim7ZoH2wApfGXL4IUeUH4T9EXVTSIAUHIehU-R8v_sSmab68AAHw35x_GCvj25_dflTAW1cJNh4738Jw6_Div8fr8uFhHq7D7mgz2wC694jNlrKwQjfZWu-Du5wC1BxYocw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">گوگل از Gemini 4 Argon رونمایی کرد: تمرکز ویژه روی مهندسی نرم‌افزار و امنیت سایبری  گوگل دیپ‌مایند نسل جدید مدل‌های پیشروی خودش رو با نام Gemini 4 Argon معرفی کرد. این مدل خروجی وحشتناک تا سقف ۱ میلیون توکن(پنجره Context نه ها. Outputای که همیشه 128K بود برای…</div>
@@ -1412,10 +1412,10 @@ Hallucination یعنی توهم زدن ai
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromMatin SenPai(᯽マティ️️ン先輩)</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/9eb66b496c.mp4?token=TzuRQwPyhI1ygfoosZFeDe3pi2xhhxeGPA7F0_9Wj1JibDEOC4_HNOiXbkbtpJ0kmWGe9I1-ZKnj-0EvVlZ5sj9LkUB8MHdDArCe4LTLwcLJ0KIO6FtarOMAVtVxqQjrDxA_RQAHM6eyuNOLSefriHxwL1m5S6Whs3pP7EaDFhn7iP0o68Kz3Y-pm-7OOw4MULP2_0hHom-HJznyNEnBPKwjNfOwqFTIj70Wmo5k8kKLZr2Potga1vp1--TrR_0Dc_LnJGT5hhPCJ6kN3q3YDhczXfvhnYjk7GKb-0NVheyY774L4SIk_O_SpD_Paq84TJQIrs2jX-DPqKNsyNaJqg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/9eb66b496c.mp4?token=esaodc6oL_aH6xUOYlmd2wbsjpwA69R88zs4fed6C13cqXGF-M7lMT08sfePj-4FhInqMewpTOxopb65nXe1PI-l7uuM-7jUPud7rr3KhJG2JGfvlLOAXVwdNWD0vxlKGLTBdd2Vdn4qIzZ3vvyDZhtpvP5JJNHXaeOdR1c7Mf960Ezexj5wWAvkn7Sbb3FIwEW2cb8BwGx2546G6F65OXMYWvPaeguUQXzP42Z3d5bvbZg0KaeWzBkI5Ry-OIxV1VVaDzAeFj_GW9yAwHu29R-dmgDFY2XqPq_JZGswJVDZRo_kdkrmzzndMoftjcmWCj0YZjXDy32xTjKGC4z__w" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/9eb66b496c.mp4?token=TzuRQwPyhI1ygfoosZFeDe3pi2xhhxeGPA7F0_9Wj1JibDEOC4_HNOiXbkbtpJ0kmWGe9I1-ZKnj-0EvVlZ5sj9LkUB8MHdDArCe4LTLwcLJ0KIO6FtarOMAVtVxqQjrDxA_RQAHM6eyuNOLSefriHxwL1m5S6Whs3pP7EaDFhn7iP0o68Kz3Y-pm-7OOw4MULP2_0hHom-HJznyNEnBPKwjNfOwqFTIj70Wmo5k8kKLZr2Potga1vp1--TrR_0Dc_LnJGT5hhPCJ6kN3q3YDhczXfvhnYjk7GKb-0NVheyY774L4SIk_O_SpD_Paq84TJQIrs2jX-DPqKNsyNaJqg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/9eb66b496c.mp4?token=esaodc6oL_aH6xUOYlmd2wbsjpwA69R88zs4fed6C13cqXGF-M7lMT08sfePj-4FhInqMewpTOxopb65nXe1PI-l7uuM-7jUPud7rr3KhJG2JGfvlLOAXVwdNWD0vxlKGLTBdd2Vdn4qIzZ3vvyDZhtpvP5JJNHXaeOdR1c7Mf960Ezexj5wWAvkn7Sbb3FIwEW2cb8BwGx2546G6F65OXMYWvPaeguUQXzP42Z3d5bvbZg0KaeWzBkI5Ry-OIxV1VVaDzAeFj_GW9yAwHu29R-dmgDFY2XqPq_JZGswJVDZRo_kdkrmzzndMoftjcmWCj0YZjXDy32xTjKGC4z__w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">گوگل اون پشت در حال آپدیت دادنای مرموزانه و کار کردن روی مدل‌های Aiاش و بیرون دادن شایعه‌های مختلف:</div>
 <div class="tg-footer">👁️ 29K · <a href="https://t.me/MatinSenPaii/5450" target="_blank">📅 01:11 · 09 Mehr 1405</a></div>
@@ -1435,7 +1435,7 @@ Hallucination یعنی توهم زدن ai
 باید فردا ببرمش زیر تست ببینم گوگل واقعا پرقدرت برگشت یا هایپ الکیه:)
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/MatinSenPaii/5449" target="_blank">📅 01:03 · 09 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/MatinSenPaii/5449" target="_blank">📅 01:03 · 09 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5448">
@@ -1447,7 +1447,7 @@ t.me/MatinSenPaii</div>
 
 <div class="tg-post" id="msg-5447">
 <div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nbSyKB4dcedmeX6SMBZFYFFK_AkS40h0H6hvcZg6H3olS6LehDs1fPDCZDL7pwvaUs5oCLMmBcFZSroA20ajq99mD-3SXAiOhhZzQ0G7lJqUCcM4P9G-BDiYL3sogvXugVHiiYfv13f5-McENOjvYLZaxcGQ8wonksaA7kXgK3QGQjCCYhcUfZdzTWMRyoPQ1iECbcs7tekImgeDjie1hCOklQrN5OyMlLer1crWOepBbFP8laa7xf9RzXAr4NGnRG3FXxmQnQJlpQeKvrzSzick3ZRHWpRVvudCOsssSKQc87hfp1JUMjHYZBIjLkLmYZrE89ckjT9U5Zw6qFw7EQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RUOm_hNy_XluVGvF0VH9Q4jZ2KcmGxq5nT_EqzzaBPkEOiB6V5NWIDDcz5JzdFYM8K3vcoWKu21xVoEInsIgHIHce4PQ4NsfVbtbhMCyVi96iiIqYgEcEJQnxP_gpVUBbFEgAxVWkUni9tZwOWsY25-FFoIBuoKfwt8whZrQEJYPDyMlis49k0i4npH4q0ctmnoMekRtAus1_sl2_soz4NOx-385sPKrqm1KBsQE4EJuijWhDdkNgq4nQOwR6d1FVfdTLL-tL2liIaar2MxyVFs2INXq-QFoJ5fjWEbUhi4nvau85E4mIOja0tIfzFJxuwb-OZ5ZfCRzgeEcC8BUPw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کاهش هزینه‌های هوش‌مصنوعی با Auto Router در Cloudflare
 کلودفلر قابلیت جدید Auto Router رو به سرویس AI Gateway اضافه کرده. این سیستم توی لبه شبکه (Edge) پیچیدگی هر درخواست رو می‌سنجه و به‌صورت خودکار بهینه‌ترین مدل رو انتخاب می‌کنه؛ یعنی برای پرامپت‌های ساده مدل‌های سبک و ارزون‌تر رو صدا می‌زنه و فقط کارهای پیچیده رو به مدل‌های گرون می‌سپاره تا بدون افت کیفیت، هزینه‌های پردازش به‌شدت کم بشه.
 🔗
@@ -1463,7 +1463,7 @@ t.me/MatinSenPaii</div>
 و به زودی برای اثباتش، یه سری کار انجام میدم
 چون میبینم دور و اطرافم کسایی رو که هیچ کاری نمی‌کنن، تلاشی نمی‌کنن، به بهونه‌ی اینکه من اشتراک Claude یا GPT plus ندارم و...
 و این کارو انجام خواهم داد که شاید انگیزه‌ای بشه، و شاید ترغیب بشن یه سری افراد که شروع کنن ایده‌هاشون رو بسازن</div>
-<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/MatinSenPaii/5446" target="_blank">📅 21:10 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/MatinSenPaii/5446" target="_blank">📅 21:10 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5445">
@@ -1480,12 +1480,12 @@ t.me/MatinSenPaii</div>
 <div class="tg-text">بچه‌ها ما قراره استریم داشته باشیم راجب دانشگاه و انتخاب رشته
 اگر سؤالی دارید، می‌تونید به ایمیل matinsdungeon@gmail.com سؤالتون رو بفرستید با Subject استریم
 روی استریم می‌خونیم سؤالاتتون و جواب می‌دیم با مهمونای گل</div>
-<div class="tg-footer">👁️ 34.2K · <a href="https://t.me/MatinSenPaii/5444" target="_blank">📅 14:54 · 08 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 34.3K · <a href="https://t.me/MatinSenPaii/5444" target="_blank">📅 14:54 · 08 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5443">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/h3xuibcMqpP_89aJg_d4pP6AMYOkCe8ehklExixFEyqFrBJoSd6_3o7su2KlBQ8oR38hLZvPQ_R-aT2_9cfXzTfV9llxRS39P9mNGYbd-y1X0x7SWXnz09QaVgr3dn5eVufOJso_k7zKFpTygVWuOiYZ7HGqR_KyERrw2U7ZttQC5AAwUt_cR65zq3-Et04UmqjmHgo8lbN7kXW6bEW0DoS1A3HUh2adi5UQPcsTePWRsxQ73jX3U4B3ouUOBZekXW-mD9dN1A2FbIkdVur8yf-oeXQreq8IaVb3_sAcerO0nJlUC3FYlO1sTVVaYntkpTi_zT8o58si_bbAWeIe-Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/peYN-VZ3Y2ayPpvEW4cBpRIMdNZoUZXi9jQdaZ-OoGfgDRoOr26hU31aWmVVbxrBddv1XvS4FMW7CUPcVS55DwmfEebMK2kWjUIMEGXgtZICgguXM5JVqNDXEWl-YLZhs-a4OvoIByUHnF6m6hnHOifPLeWX8M3iPvXz0_uEcuLf3EkaeHRcBQRuoEfrsmbBnRTqYawYunQSVRnobYsH_tV7bUcLowyAJVwcQYteZe-hUMn7k2_FOp0_w48htoCmwYEhA5xvVm_m_uCsbbwM2XsOB5_QVuX10XhQrOn6vydeZ0osxKAVH2MyC4434Tlo324Gio32tVGO5XgWhKQohQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همکاری رسمی OpenAI با پلتفرم Hermes
 در اعلامیه‌ای جدید، همکاری رسمی OpenAI با اکوسیستم ایجنت هوشمند Hermes(Nous Research) تأیید شده است تا قابلیت‌های مدل‌های جدید و ابزارهای کدکس به شکلی منسجم‌تر در اختیار کاربران و توسعه‌دهندگان این پلتفرم قرار گیرد.
 🔗
