@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/gnaEFnK0wFd5Ae4KqCDoK9C0F9i8yJ5SocR_0uYgaalj5NrebynFDXPDNQzQFfaKooXA9mtbFGNpteuLUPusz582HWi0Zjt_jg-KzD7IjkyXu3PmdIJEpaVlKu0p-dwxOz5FGaFIhzLkmmK4R2N1RmzCdGqv2nCzBeidZ-SN6p3Qt0UUZb7mwdhEb842AOOXuczxnBwiaIAhJ8QbTvyXhKTRA69iPaikikDZEcrTxo7XHdD6-Rf2IkWoN3JBoOV84zOW-jGjjC6EISk6XFLMU0dOikXjEfvv-SS8OA2cIX7IGIx7e5dr4xKhg8C1FwqrX1ValZSZ206iHbgSWCQdnA.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/Kqrw2d3HeKeAT43vrt5UezAERteLlF-rCB0pYoIw-c7Q1qXHWyzfMhGCeSgQaMKstOqVwp-SmZlcqYUh1NDYKX5ceuwe9I5XP4jHhURtNo2iyocUQWzD8CFP8DUEEJOKNtHpp1PxFmKcdzmJB_f9Y8tJgv2-aZUbX_oEjPwhZ-k2ckyZR7STAkGRDGv7utTudeDGSCua0FvMBgzEwdWfAj2Q2L8j6S_dlD2sBevTbTKV3kWluSb8o4c4BoNcC_z8veBKFiqghPt4lNs4lFwkwfjgSsZoDDHIouUZZ0GsFlnrw7tjfr72cXMY0wkCmxQwVz0YQgpokU9LT-ONX6rACQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 🚩سرخ تایمز🚩</h1>
 <p>@sorkhtimes • 👥 21.5K عضو</p>
 <a href="https://t.me/sorkhtimes" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽ورزشی نویس پرسپولیس👤🎗️«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس.⛔رسانه سرخ تایمز مسئولیتی در قبال تبلیغات ندارد.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-17 01:09:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-17 05:04:34</div>
 <hr>
 
 <div class="tg-post" id="msg-141163">
@@ -317,7 +317,7 @@
 کانال رسمی وینکوبت:
 🔵
 @Wincobetofficial</div>
-<div class="tg-footer">👁️ 244 · <a href="https://t.me/SorkhTimes/141163" target="_blank">📅 01:03 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 1.52K · <a href="https://t.me/SorkhTimes/141163" target="_blank">📅 01:03 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141162">
@@ -329,7 +329,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 1.64K · <a href="https://t.me/SorkhTimes/141162" target="_blank">📅 00:34 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 2.66K · <a href="https://t.me/SorkhTimes/141162" target="_blank">📅 00:34 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141161">
@@ -343,7 +343,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 1.7K · <a href="https://t.me/SorkhTimes/141161" target="_blank">📅 00:32 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 2.72K · <a href="https://t.me/SorkhTimes/141161" target="_blank">📅 00:32 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141160">
@@ -355,7 +355,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/SorkhTimes/141160" target="_blank">📅 00:21 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.04K · <a href="https://t.me/SorkhTimes/141160" target="_blank">📅 00:21 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141159">
@@ -368,7 +368,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/SorkhTimes/141159" target="_blank">📅 00:20 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3K · <a href="https://t.me/SorkhTimes/141159" target="_blank">📅 00:20 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141158">
@@ -380,7 +380,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/SorkhTimes/141158" target="_blank">📅 00:09 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.29K · <a href="https://t.me/SorkhTimes/141158" target="_blank">📅 00:09 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141157">
@@ -396,7 +396,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/SorkhTimes/141157" target="_blank">📅 00:09 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.22K · <a href="https://t.me/SorkhTimes/141157" target="_blank">📅 00:09 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141155">
@@ -412,7 +412,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.41K · <a href="https://t.me/SorkhTimes/141155" target="_blank">📅 23:24 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/SorkhTimes/141155" target="_blank">📅 23:24 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141154">
@@ -439,7 +439,7 @@
 9_پوریا لطیفی فر
 ❗
 10_محمد‌…</div>
-<div class="tg-footer">👁️ 3.68K · <a href="https://t.me/SorkhTimes/141154" target="_blank">📅 23:02 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/SorkhTimes/141154" target="_blank">📅 23:02 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141153">
@@ -466,7 +466,7 @@
 9_پوریا لطیفی فر
 ❗
 10_محمد‌…</div>
-<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/SorkhTimes/141153" target="_blank">📅 22:53 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SorkhTimes/141153" target="_blank">📅 22:53 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141152">
@@ -478,7 +478,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.68K · <a href="https://t.me/SorkhTimes/141152" target="_blank">📅 22:51 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/SorkhTimes/141152" target="_blank">📅 22:51 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141151">
@@ -490,7 +490,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.53K · <a href="https://t.me/SorkhTimes/141151" target="_blank">📅 22:47 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/SorkhTimes/141151" target="_blank">📅 22:47 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141150">
@@ -504,7 +504,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.56K · <a href="https://t.me/SorkhTimes/141150" target="_blank">📅 22:45 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/SorkhTimes/141150" target="_blank">📅 22:45 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141149">
@@ -519,7 +519,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.56K · <a href="https://t.me/SorkhTimes/141149" target="_blank">📅 22:42 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.12K · <a href="https://t.me/SorkhTimes/141149" target="_blank">📅 22:42 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141148">
@@ -530,7 +530,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.5K · <a href="https://t.me/SorkhTimes/141148" target="_blank">📅 22:40 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.03K · <a href="https://t.me/SorkhTimes/141148" target="_blank">📅 22:40 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141147">
@@ -554,14 +554,14 @@
 𝓣𝓲𝓶𝓮
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.99K · <a href="https://t.me/SorkhTimes/141147" target="_blank">📅 22:01 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SorkhTimes/141147" target="_blank">📅 22:01 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141146">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">🚨
 بیرانوند هم ظاهراً از همین حالا خودش را در استقلال می‌بیند! برای همین بدون نگرانی علیه زنوزی و مدیران تراکتور مصاحبه می‌کند. خودش هم از سربازی و بازیکن آزاد شدن حرف زده؛ انگار تصمیمش را برای آینده گرفته و دیگر نگرانی چندانی بابت واکنش مدیران باشگاه ندارد.…</div>
-<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/SorkhTimes/141146" target="_blank">📅 21:58 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SorkhTimes/141146" target="_blank">📅 21:58 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141145">
@@ -573,7 +573,7 @@
 ❌
 ❌
 از سوی دیگر، گزارش‌های تأییدنشده از کاهش شدید پروازهای هواپیمایی آتا حکایت دارند؛ شرکتی که گفته می‌شود در سال‌های گذشته روزانه ۵۰ تا ۷۰ پرواز داشت و حالا تعداد پروازهایش به چند مورد رسیده است. اگر این آمار درست باشد، می‌تواند زنگ خطری درباره وضعیت اقتصادی…</div>
-<div class="tg-footer">👁️ 3.93K · <a href="https://t.me/SorkhTimes/141145" target="_blank">📅 21:55 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SorkhTimes/141145" target="_blank">📅 21:55 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141144">
@@ -585,7 +585,7 @@
 ❌
 ❌
 سرانجام نوبت به زنوزی و مدیران تراکتور رسید تا طعم گس داشتن علیرضا بیرانوند را تجربه کنند؛ همان مصاحبه‌ها، همان گلایه‌های مالی و همان کنایه‌هایی که پیش‌تر مدیران پرسپولیس بارها با آن مواجه شده بودند.…</div>
-<div class="tg-footer">👁️ 3.96K · <a href="https://t.me/SorkhTimes/141144" target="_blank">📅 21:54 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/SorkhTimes/141144" target="_blank">📅 21:54 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141143">
@@ -604,7 +604,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.08K · <a href="https://t.me/SorkhTimes/141143" target="_blank">📅 21:53 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SorkhTimes/141143" target="_blank">📅 21:53 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141142">
@@ -616,7 +616,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.93K · <a href="https://t.me/SorkhTimes/141142" target="_blank">📅 21:50 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SorkhTimes/141142" target="_blank">📅 21:50 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141141">
@@ -628,7 +628,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/SorkhTimes/141141" target="_blank">📅 21:45 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SorkhTimes/141141" target="_blank">📅 21:45 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141140">
@@ -638,7 +638,7 @@
 مصاحبه بیرانوند:
 ✖️
 اکثر بازیکنان می دانند که این جام ملتها آخرین جام ملتهای آنها است و باید یک کاری انجام دهند/ از آقای زنوزی خواهش می کنم به داد بازیکنان تراکتور برسد/ چندتا بازی دیگر نیم فصل تمام می شود اما بازیکنان تیم ما فقط 7 درصد پول گرفته اند/ تراکتور…</div>
-<div class="tg-footer">👁️ 4.08K · <a href="https://t.me/SorkhTimes/141140" target="_blank">📅 21:44 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SorkhTimes/141140" target="_blank">📅 21:44 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141139">
@@ -650,7 +650,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SorkhTimes/141139" target="_blank">📅 21:29 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SorkhTimes/141139" target="_blank">📅 21:29 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141138">
@@ -661,7 +661,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 4.14K · <a href="https://t.me/SorkhTimes/141138" target="_blank">📅 21:27 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SorkhTimes/141138" target="_blank">📅 21:27 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141137">
@@ -672,7 +672,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 4.08K · <a href="https://t.me/SorkhTimes/141137" target="_blank">📅 21:26 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SorkhTimes/141137" target="_blank">📅 21:26 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141136">
@@ -702,7 +702,7 @@ Naghshe Jahan
 کانال رسمی وینکوبت:
 🔵
 @Wincobetofficial</div>
-<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/SorkhTimes/141136" target="_blank">📅 21:12 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SorkhTimes/141136" target="_blank">📅 21:12 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141135">
@@ -714,7 +714,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.96K · <a href="https://t.me/SorkhTimes/141135" target="_blank">📅 21:09 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.32K · <a href="https://t.me/SorkhTimes/141135" target="_blank">📅 21:09 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141133">
@@ -727,7 +727,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/SorkhTimes/141133" target="_blank">📅 21:07 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SorkhTimes/141133" target="_blank">📅 21:07 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141132">
@@ -742,7 +742,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.08K · <a href="https://t.me/SorkhTimes/141132" target="_blank">📅 21:03 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SorkhTimes/141132" target="_blank">📅 21:03 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141131">
@@ -756,7 +756,7 @@ Naghshe Jahan
 میشد که قبل از فیفادی یک برد دیگه و یک بازی دلچسب دیگه از تیم محبوبمون ببینیم اما کارشکنی‌ها جلوی برد دلچسبمون رو گرفت..
 ❌
 دم تک تک بازیکنامون و کادر فنیمون گرم که کاری…</div>
-<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/SorkhTimes/141131" target="_blank">📅 21:02 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SorkhTimes/141131" target="_blank">📅 21:02 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141129">
@@ -768,7 +768,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/SorkhTimes/141129" target="_blank">📅 20:51 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SorkhTimes/141129" target="_blank">📅 20:51 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141128">
@@ -780,7 +780,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SorkhTimes/141128" target="_blank">📅 20:46 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SorkhTimes/141128" target="_blank">📅 20:46 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141127">
@@ -800,7 +800,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/SorkhTimes/141127" target="_blank">📅 20:44 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SorkhTimes/141127" target="_blank">📅 20:44 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141126">
@@ -821,7 +821,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SorkhTimes/141126" target="_blank">📅 20:40 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SorkhTimes/141126" target="_blank">📅 20:40 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141125">
@@ -843,7 +843,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SorkhTimes/141125" target="_blank">📅 20:38 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SorkhTimes/141125" target="_blank">📅 20:38 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141124">
@@ -855,7 +855,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/SorkhTimes/141124" target="_blank">📅 20:35 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SorkhTimes/141124" target="_blank">📅 20:35 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141123">
@@ -871,7 +871,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SorkhTimes/141123" target="_blank">📅 20:26 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SorkhTimes/141123" target="_blank">📅 20:26 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141122">
@@ -888,7 +888,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SorkhTimes/141122" target="_blank">📅 20:24 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SorkhTimes/141122" target="_blank">📅 20:24 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141121">
@@ -899,7 +899,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SorkhTimes/141121" target="_blank">📅 20:11 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SorkhTimes/141121" target="_blank">📅 20:11 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141120">
@@ -913,7 +913,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SorkhTimes/141120" target="_blank">📅 19:36 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SorkhTimes/141120" target="_blank">📅 19:36 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141119">
@@ -927,7 +927,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.56K · <a href="https://t.me/SorkhTimes/141119" target="_blank">📅 19:35 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SorkhTimes/141119" target="_blank">📅 19:35 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141118">
@@ -946,7 +946,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SorkhTimes/141118" target="_blank">📅 19:33 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SorkhTimes/141118" target="_blank">📅 19:33 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141117">
@@ -958,7 +958,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SorkhTimes/141117" target="_blank">📅 19:31 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SorkhTimes/141117" target="_blank">📅 19:31 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141116">
@@ -972,7 +972,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.9K · <a href="https://t.me/SorkhTimes/141116" target="_blank">📅 18:21 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/SorkhTimes/141116" target="_blank">📅 18:21 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141115">
@@ -984,7 +984,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/SorkhTimes/141115" target="_blank">📅 18:20 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SorkhTimes/141115" target="_blank">📅 18:20 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141114">
@@ -995,7 +995,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SorkhTimes/141114" target="_blank">📅 17:47 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SorkhTimes/141114" target="_blank">📅 17:47 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141113">
@@ -1006,7 +1006,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SorkhTimes/141113" target="_blank">📅 16:57 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SorkhTimes/141113" target="_blank">📅 16:57 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141112">
@@ -1024,7 +1024,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SorkhTimes/141112" target="_blank">📅 16:50 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SorkhTimes/141112" target="_blank">📅 16:50 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141111">
@@ -1037,7 +1037,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SorkhTimes/141111" target="_blank">📅 16:48 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SorkhTimes/141111" target="_blank">📅 16:48 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141110">
@@ -1048,7 +1048,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SorkhTimes/141110" target="_blank">📅 16:27 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SorkhTimes/141110" target="_blank">📅 16:27 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141109">
@@ -1066,7 +1066,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SorkhTimes/141109" target="_blank">📅 16:18 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5K · <a href="https://t.me/SorkhTimes/141109" target="_blank">📅 16:18 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141108">
@@ -1077,7 +1077,7 @@ Naghshe Jahan
 ❌
 ❌
 زمان و مکان نشست خبری پیش از دیدار تیم‌های پرسپولیس و نفت آبادان مشخص شد. بر این اساس، نشست خبری سرمربیان دو تیم، فردا در هتل المپیک و طبق برنامه زمانی زیر برگزار خواهد شد:  • ساعت ۱۴:۳۰، محمد نوری…</div>
-<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SorkhTimes/141108" target="_blank">📅 16:10 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SorkhTimes/141108" target="_blank">📅 16:10 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141107">
@@ -1088,7 +1088,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SorkhTimes/141107" target="_blank">📅 15:54 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SorkhTimes/141107" target="_blank">📅 15:54 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141106">
@@ -1100,7 +1100,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SorkhTimes/141106" target="_blank">📅 15:46 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SorkhTimes/141106" target="_blank">📅 15:46 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141105">
@@ -1112,7 +1112,7 @@ Naghshe Jahan
 همچنین در نامه ارسالی به تاریخ فسخ اشاره شده است و این یعنی آسانی با استقلال فسخ انجام داده است!
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی…</div>
-<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SorkhTimes/141105" target="_blank">📅 15:42 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SorkhTimes/141105" target="_blank">📅 15:42 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141104">
@@ -1124,7 +1124,7 @@ Naghshe Jahan
 در مورد تیم امید باید بگویم یکی از بهترین نسل های خود را سوزاندیم. نتایج و کیفیت بازی فاجعه بود و در همین حد حرف میزنم چون فردا بازی مهم داریم
 🚨
 تیم…</div>
-<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SorkhTimes/141104" target="_blank">📅 15:41 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SorkhTimes/141104" target="_blank">📅 15:41 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141103">
@@ -1133,7 +1133,7 @@ Naghshe Jahan
 مهدی تارتار: ما قبل از تعطیلات شرایط خوبی داشتیم اما تعطیلی به دلیل نبود بچه ها به ما ضربه زد. بازیکنان شناخت خوبی از کادرفنی و ما از آنها پیدا کردیم. فکر نمی کنم به جز مصدومیت یکی دو بازیکن مشکل دیگری نداریم.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و…</div>
-<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SorkhTimes/141103" target="_blank">📅 15:37 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SorkhTimes/141103" target="_blank">📅 15:37 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141102">
@@ -1145,7 +1145,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SorkhTimes/141102" target="_blank">📅 15:36 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SorkhTimes/141102" target="_blank">📅 15:36 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141101">
@@ -1156,7 +1156,7 @@ Naghshe Jahan
 ❌
 ❌
 زمان و مکان نشست خبری پیش از دیدار تیم‌های پرسپولیس و نفت آبادان مشخص شد. بر این اساس، نشست خبری سرمربیان دو تیم، فردا در هتل المپیک و طبق برنامه زمانی زیر برگزار خواهد شد:  • ساعت ۱۴:۳۰، محمد نوری…</div>
-<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SorkhTimes/141101" target="_blank">📅 15:35 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SorkhTimes/141101" target="_blank">📅 15:35 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141100">
@@ -1180,7 +1180,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SorkhTimes/141100" target="_blank">📅 14:13 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.83K · <a href="https://t.me/SorkhTimes/141100" target="_blank">📅 14:13 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141099">
@@ -1200,7 +1200,7 @@ Naghshe Jahan
 اینها همه سند قرارداد مجدد استقلال با آسانیه
 🎗️
 «سرخ تایمز» دریچه ای تازه…</div>
-<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SorkhTimes/141099" target="_blank">📅 14:11 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SorkhTimes/141099" target="_blank">📅 14:11 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141098">
@@ -1212,7 +1212,7 @@ Naghshe Jahan
 همچنین در نامه ارسالی به تاریخ فسخ اشاره شده است و این یعنی آسانی با استقلال فسخ انجام داده است!
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی…</div>
-<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SorkhTimes/141098" target="_blank">📅 14:07 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SorkhTimes/141098" target="_blank">📅 14:07 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141097">
@@ -1226,7 +1226,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SorkhTimes/141097" target="_blank">📅 14:06 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SorkhTimes/141097" target="_blank">📅 14:06 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141096">
@@ -1241,7 +1241,7 @@ Naghshe Jahan
 اگر لابی گری‌ و زد و بند های عجیبی در داخل صورت نگیرد ، یاسر آسانی حداقل ۶ ماه از فوتبال محروم و تیم استقلال هم ۲ پنجره نقل و انتقالات محروم خواهد شد.ضمن اینکه کسر‌ امتیاز و سقوط به دسته پایین تر هم میتواند شامل شود
 🎗️
 «سرخ تایمز»…</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SorkhTimes/141096" target="_blank">📅 14:05 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SorkhTimes/141096" target="_blank">📅 14:05 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141095">
@@ -1275,7 +1275,7 @@ Naghshe Jahan
 👇
 🔵
 @Sportnavad</div>
-<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/SorkhTimes/141095" target="_blank">📅 13:59 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SorkhTimes/141095" target="_blank">📅 13:59 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141094">
@@ -1285,7 +1285,7 @@ Naghshe Jahan
 «رسول باختر»کارشناس حقوقی فوتبال:  کسری طاهری چهار ماه محروم میشه اما نتیجه مسابقه تغییری نمیکنه. سپاهان هم یک پنجره نقل و انتقالاتی محروم خواهد شد.  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SorkhTimes/141094" target="_blank">📅 13:53 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SorkhTimes/141094" target="_blank">📅 13:53 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141093">
@@ -1295,7 +1295,7 @@ Naghshe Jahan
 ⭕️
 ⭕️
 ⭕️</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SorkhTimes/141093" target="_blank">📅 13:51 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SorkhTimes/141093" target="_blank">📅 13:51 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141092">
@@ -1308,7 +1308,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SorkhTimes/141092" target="_blank">📅 13:48 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SorkhTimes/141092" target="_blank">📅 13:48 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141091">
@@ -1319,7 +1319,7 @@ Naghshe Jahan
 علیرضا بیرانوند، دروازه‌بان تراکتور، روز گذشته در نخستین جلسه کمیسیون پزشکی در تبریز حاضر شد.
 🖍
 بیرانوند که به دلیل خالکوبی به کمیسیون پزشکی اعصاب و روان نظام پزشکی ارجاع شده، همچنین برای بررسی…</div>
-<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SorkhTimes/141091" target="_blank">📅 13:23 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SorkhTimes/141091" target="_blank">📅 13:23 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141090">
@@ -1330,7 +1330,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SorkhTimes/141090" target="_blank">📅 12:31 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SorkhTimes/141090" target="_blank">📅 12:31 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141089">
@@ -1370,7 +1370,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SorkhTimes/141089" target="_blank">📅 12:26 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SorkhTimes/141089" target="_blank">📅 12:26 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141088">
@@ -1383,7 +1383,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SorkhTimes/141088" target="_blank">📅 12:12 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SorkhTimes/141088" target="_blank">📅 12:12 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141087">
@@ -1395,7 +1395,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SorkhTimes/141087" target="_blank">📅 12:10 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.83K · <a href="https://t.me/SorkhTimes/141087" target="_blank">📅 12:10 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141086">
@@ -1404,7 +1404,7 @@ Naghshe Jahan
 فکت: پرسپولیس در تاریخ خود در خانه به صنعت نفت نباخته است  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SorkhTimes/141086" target="_blank">📅 10:32 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SorkhTimes/141086" target="_blank">📅 10:32 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141085">
@@ -1418,7 +1418,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SorkhTimes/141085" target="_blank">📅 10:28 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SorkhTimes/141085" target="_blank">📅 10:28 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141084">
@@ -1435,7 +1435,7 @@ Naghshe Jahan
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/SorkhTimes/141084" target="_blank">📅 10:27 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SorkhTimes/141084" target="_blank">📅 10:27 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141083">
@@ -1463,7 +1463,7 @@ Sport90.bet
 👇
 🔵
 @Sportnavad</div>
-<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/SorkhTimes/141083" target="_blank">📅 02:09 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/SorkhTimes/141083" target="_blank">📅 02:09 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141082">
@@ -1472,7 +1472,7 @@ Sport90.bet
 فارس: مجوز خروج پادیاب خلخال از استانش صادر نشده و همین موضوع باعث منتفی شدن این انتقال شده.  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/SorkhTimes/141082" target="_blank">📅 23:41 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SorkhTimes/141082" target="_blank">📅 23:41 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141081">
@@ -1483,7 +1483,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/SorkhTimes/141081" target="_blank">📅 23:39 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/SorkhTimes/141081" target="_blank">📅 23:39 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141080">
@@ -1508,7 +1508,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/SorkhTimes/141079" target="_blank">📅 23:28 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/SorkhTimes/141079" target="_blank">📅 23:28 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141078">
@@ -1553,7 +1553,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🚨
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/SorkhTimes/141076" target="_blank">📅 22:43 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SorkhTimes/141076" target="_blank">📅 22:43 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141075">
@@ -1562,7 +1562,7 @@ Sport90.bet
 پرسپولیس و دانیل گرا بر سر فسخ قرارداد به توافق نرسیدن/فارس  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/SorkhTimes/141075" target="_blank">📅 22:17 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SorkhTimes/141075" target="_blank">📅 22:17 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141074">
@@ -1586,7 +1586,7 @@ Sport90.bet
 ✖️
 ✖️
 امروز احساسات زیادی دارم، اما اولین کسی که به او فکر می‌کنم پدرم است.چیزی جز تشکر از این پیراهن برایم نمانده. ۲۰ سال، حتی در سخت‌ترین لحظات، هرگز دست از جنگیدن، تلاش کردن، تمام توانم را گذاشتن و خواستنِ حضور در…</div>
-<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SorkhTimes/141073" target="_blank">📅 22:07 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SorkhTimes/141073" target="_blank">📅 22:07 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141072">
@@ -1614,7 +1614,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SorkhTimes/141071" target="_blank">📅 21:03 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SorkhTimes/141071" target="_blank">📅 21:03 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141070">
@@ -1642,7 +1642,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/SorkhTimes/141069" target="_blank">📅 20:59 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SorkhTimes/141069" target="_blank">📅 20:59 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141068">
@@ -1654,7 +1654,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SorkhTimes/141068" target="_blank">📅 20:44 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SorkhTimes/141068" target="_blank">📅 20:44 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141067">
@@ -1666,7 +1666,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SorkhTimes/141067" target="_blank">📅 20:42 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SorkhTimes/141067" target="_blank">📅 20:42 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141066">
@@ -1728,7 +1728,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SorkhTimes/141065" target="_blank">📅 20:00 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SorkhTimes/141065" target="_blank">📅 20:00 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141064">
@@ -1744,7 +1744,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SorkhTimes/141064" target="_blank">📅 19:47 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SorkhTimes/141064" target="_blank">📅 19:47 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141063">
@@ -1757,7 +1757,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/SorkhTimes/141063" target="_blank">📅 19:43 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SorkhTimes/141063" target="_blank">📅 19:43 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141062">
@@ -1773,7 +1773,7 @@ Sport90.bet
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/SorkhTimes/141062" target="_blank">📅 17:33 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/SorkhTimes/141062" target="_blank">📅 17:33 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141061">

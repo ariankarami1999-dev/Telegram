@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 62.5K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-17 01:09:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-17 05:04:34</div>
 <hr>
 
 <div class="tg-post" id="msg-6804">
@@ -315,7 +315,7 @@
 در ایران بودند و سیاست خارجه و داخله
 و جنگ و بحران و تنفر و انزوا
 و عقب افتادگی  رو برای ایران آوردند.</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farahmand_alipour/6804" target="_blank">📅 15:30 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/farahmand_alipour/6804" target="_blank">📅 15:30 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6803">
@@ -328,14 +328,14 @@
 <a href="https://cdn4.telesco.pe/file/04f7f5c283.mp4?token=gr4RQrVTUaT5QD3rE3L3qccM97CCfGfI955KRmGp8JrATQnLx3w9q7vzL1A2hBQVpHwLbLMyXsfdtzyO3OsH1rTMIcta9yqZJnNojRt4fI15ZArP_TIQjmN8MBY-s3MnC4MxoHWBOr1p8M5ZWNrHvSfIGWGiyNi3y0h9ubgPX7GFDGCQnp5c7yBqH7-eTd0jq4aY4Ci620vhOiSso38v8XhFoW4hJhYcFs3Yef32UgmuJoHb2GED861Ho9QIMZQEFQdwuGS1NwXmIaOdJ7loDOpjBKF0XWQUpt7rkHNIGLmHhBDPp09Su3ZhDhPZu0TKFksReZY58qoA2KpOjujIGw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">روز ۷ اکتبر ۲۰۲۳  وقتی به اسرائیل حمله کردن،  نوشتن که دنبال کنیز اسرائیلی هستن!  هر چقدر اونجا کنیز گرفتید اینجا از تنگه‌ پول در میارید!</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/farahmand_alipour/6803" target="_blank">📅 11:29 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/farahmand_alipour/6803" target="_blank">📅 11:29 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6802">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fkU7GP-7UdRPPrkQxpLzz2Ubr7NZLzhYLK5ylbjiGMH68dQssEh2c8-XBy9VO-OOiWIUOLdMrJxJk_MJWSGsNvdHgM1mmySixaOQGJoo_Ky_EPA8j4R-DrtTEljhYectwB-l_NsJkYdHZBJ--SXN-6EhO4hKyYAI6zvJckOK1jAC-Jum7LE6O_3rUug1ckOh5BLCGYjDLEfXrNvz38T_DsPsHt0C4lON6Puj6u88NBrh8jZyS1PdO5pZ5lWG6zXyVr5FdubYOlDEq7YlKt0KIsUlx11dxVDIWfcjJ37KqGyCYU2CjUeR1DxSPsXWq7dX69Pw81lCp9LZD-1r14kOdA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">می‌د‌ونستید یکی از معروفترین آیات قرآن  که آخوندها دائم به نفع خودشون و شیعه و….. استفاده می‌کنن آیه ای است که دقیقا و مستقیما در مورد یهودیانه؟  یعنی قرآن وسط تعریف یک داستانه، و آیه  قبل و بعدش داره در خصوص جدال بنی‌اسرائیل  و فرعون صحبت میکنه و  اینکه خدا…</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/farahmand_alipour/6802" target="_blank">📅 10:52 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/farahmand_alipour/6802" target="_blank">📅 10:52 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6801">
@@ -353,13 +353,13 @@
 این آیه مکی است و این نکته مهمیه!
 چون آیات قرآن در مکه همه در مدح و ستایش یهودیان و مسیحیان بود، تا زمانی که اسلام در مدینه قدرتمند شد و شمشیر و سرباز هم به دست آورد!
 اون موقع آیات متفاوتی نازل شد سراسر سرزنش یهودیان و مسیحیانی که مسلمون‌ها  رو تحویل نمی‌گرفتن!</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/farahmand_alipour/6801" target="_blank">📅 10:42 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/farahmand_alipour/6801" target="_blank">📅 10:42 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6800">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">روز ۷ اکتبر ۲۰۲۳  وقتی به اسرائیل حمله کردن،  نوشتن که دنبال کنیز اسرائیلی هستن!  هر چقدر اونجا کنیز گرفتید اینجا از تنگه‌ پول در میارید!</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/farahmand_alipour/6800" target="_blank">📅 10:41 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/farahmand_alipour/6800" target="_blank">📅 10:41 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6799">
@@ -376,7 +376,7 @@
 در این ویدئو یکی از دیگر از اینفلونسر‌های مسلمان رو به دوربین به صراحت میگه :« باید اصول کشور مبدا خودمون رو به اینجا بیاریم. باید به کشور مبدا خودمون احترام بگذاریم.
 دیدید دیروز در فرانسه چه کار کردیم؟
 همین کار رو در این «فاکینگ» کشور [ایتالیا] ، این کشور گوه، انجام میدیم! تغییرش میدیم ، مگه نه؟ تغییرش میدیم!»</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/farahmand_alipour/6799" target="_blank">📅 12:52 · 14 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/farahmand_alipour/6799" target="_blank">📅 12:52 · 14 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6798">
@@ -419,37 +419,37 @@
 در قضیه ایران ناراحتن که چرا آمریکا حمله کرد
 و اکثر مردم ضد آمریکا نشدن؟
 البته به جز اقلیت مزدور اسلامگرا و اقلیت بی‌آبروی چپ که هر دو اساس انقلاب ۵۷ رو داشتند.</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/6795" target="_blank">📅 13:10 · 13 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/6795" target="_blank">📅 13:10 · 13 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6794">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">مثال دوم گنده‌گویی‌ها و شعارها که کار رو به جنگ کشوند و به شکست سنگین  هم ماجرای شاه اسماعیل صفویه شیعه افراطی بود که چند باری داستانش رو مرور کردیم که دائم نامه‌های فحاشی  برای خلیفه عثمانی می‌فرستاد،  یک لباس زنانه هم همراه با نامه می‌فرستاد،  پایان نامه…</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/farahmand_alipour/6794" target="_blank">📅 14:41 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/farahmand_alipour/6794" target="_blank">📅 14:41 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6793">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">بالاخره امام علی در کوفه  تونست ۲ هزار نفر جمع کنه!  برای کمک به محمد بن‌ابی‌بکر!  در حالی که در خود مصر ۱۰ هزار نفر مصری جمع شده بودند علیه محمد بن‌ابی‌بکر و به لشکر ۶ هزار نفری عمر و عاص پیوسته بودند!  این ۲ هزار نفر از کوفه،  تا راه افتاد و …..  هنوز وسط…</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/6793" target="_blank">📅 13:02 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/farahmand_alipour/6793" target="_blank">📅 13:02 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6792">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">امام علی هم که خلیفه بود و در کوفه بود، قبلا هم گفته بودم که کوفه (و بصره)  اساسا شهرهای پادگانی - نظامی بودند. احداث شده بودند برای حمله به شهرهای ایران و تصرف مناطق مرکزی ایران.  با این وجود به خاطر جنگ‌های پشت سر هم مثلا جنگ صفین که نزدیک دو سال طول کشید،…</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/6792" target="_blank">📅 12:57 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/6792" target="_blank">📅 12:57 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6791">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">کار به جایی رسید که جنگی بین  محمد بن‌ابی‌بکر و «عمر و عاص»  بر سر حکومت مصر شکل گرفت!  عمر و عاص، دفاع قبل توضیح داده بودم که اولین حاکم مصر بود!  و جایگاه محکمی هم در مصر داشت!  و مرور کردیم  که اوضاع مصر هم از زمان حکومت  محمد بن‌ابوبکر از لحاظ اقتصادی…</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/6791" target="_blank">📅 12:52 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/6791" target="_blank">📅 12:52 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6790">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">معاویه برای محمد بن‌ابو‌بکر  نوشت که تو که هر بار توی نامه‌‌ات علیه پدر من می‌نویسی، و یادآوری میکنی پدر من فلان بود و بهمان بود، پس من حقی ندارم و خلافت حق علی است،  پس چرا پدر خود تو (ابوبکر)  همراه با عمر در سقیفه بنی‌ساعده،  حق خلافت رو از علی گرفتند ؟؟…</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/farahmand_alipour/6790" target="_blank">📅 12:43 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/farahmand_alipour/6790" target="_blank">📅 12:43 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6789">
@@ -461,7 +461,7 @@
 <div class="tg-post" id="msg-6788">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">محمد بن‌ابی‌بکر نامه می‌فرستاد بدون سلام!  همون اولش به مادر معاویه فحش میداد!  (این موضوع فحش دادن کلا در بین شیعه به شدت رایجه! حتی در متن سخنرانی‌های امام حسین در کربلا!  یکبار هم مستقیما معاویه برگشت به خود امام علی گفت تو با من مشکل داری با مادر من چی…</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/farahmand_alipour/6788" target="_blank">📅 12:27 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/farahmand_alipour/6788" target="_blank">📅 12:27 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6787">
@@ -485,7 +485,7 @@
 <div class="tg-post" id="msg-6783">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">پس تا اینجا همه می‌دونیم که  فقط شعار ندادند!!  همه ما این قوم رو می‌شناسیم و ۵۰ ساله که حیاتشون در تنش و بحرانه!  اما فرض بگیریم،  فقط شعار دادن و حرفهای تند زدن بود آیا در تاریخ داشتیم که حرفهای تند زدن باعث جنگ و ….. بشه؟   بله! و اتفاقا دو مثال روشن در…</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/farahmand_alipour/6783" target="_blank">📅 11:52 · 12 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/farahmand_alipour/6783" target="_blank">📅 11:52 · 12 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6782">
@@ -532,7 +532,7 @@
 کار خود حکومته و مافیای حکومتیه، برای افزایش
 قیمت‌ها و افزایش قیمت ارز
 و افزایش درآمدهای خودش!</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/farahmand_alipour/6780" target="_blank">📅 14:21 · 11 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/farahmand_alipour/6780" target="_blank">📅 14:21 · 11 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6779">
@@ -680,7 +680,7 @@
 </div>
 <div class="tg-text">موج جدید پناهجویان و مهاجران افغان
 به سوی مرزهای ایران</div>
-<div class="tg-footer">👁️ 37.9K · <a href="https://t.me/farahmand_alipour/6767" target="_blank">📅 17:45 · 03 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 38K · <a href="https://t.me/farahmand_alipour/6767" target="_blank">📅 17:45 · 03 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6766">
@@ -1190,10 +1190,10 @@
 <div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/0dc8790870.mp4?token=tRnrBIvgXxz84r7bszF2_LfCOnZjnwX6z4k2KhSXKhb5vvqskRT-1gHGaQYKJgmRwQRk1Xy0z_BDO-DBgM9hmC1RsG7bKrWCy0sIiU9h5DweIcSYP6qu7dmVXChSg5Pb5ygsXK4DqalR8Zy-d0mP3POBTDiif8CbuW_2oHXjlFFCo7MmgnOc0IO4l6ky7rwpBi_eLyWrEi9gn56QysbP5WCrTMAVepPZ6CVjuOgPo-CpFse82nZCjuG13BRCRQNWDboHLb2cLL7Bf7iRSz7iveW8Lr6Uk-a9JHmgAeeFBW3BnKPwznUmyt-Tk0YHn2qLSN-JWsgxa2DLPV9Ggn0l4Q" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/0dc8790870.mp4?token=Z4DC3k0KnbYUMOc9G-zprBD5tEFKpNpi7kB-rpSuROV_0VC6YfYvj-qH5GWuETrSG-wvBSaFlbJJAsinNhev74CdjUsz8Yk3XIoGrbxBSgyo3ZD8G0vuMQnQ9iVuf0rUFGiUZoj9P2Es9SC6o7wYpSXAhHQQLQURRo6rUIt461b_YZv02lGKToc4R3ssrntH6w6xKeo1i8G0zIb7yqbrq1eoFWdsxt5huggAdnvd0M9k-7-CrnLraRJ1xHM9esu5F5utfr9PLCXBPd76Q5Xmg61OhLfjyoQZBsXc_iawazrCFGzUtykoUKvujC_YnHkTpfO2_qUDatLZgLQDCbRz3A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/0dc8790870.mp4?token=tRnrBIvgXxz84r7bszF2_LfCOnZjnwX6z4k2KhSXKhb5vvqskRT-1gHGaQYKJgmRwQRk1Xy0z_BDO-DBgM9hmC1RsG7bKrWCy0sIiU9h5DweIcSYP6qu7dmVXChSg5Pb5ygsXK4DqalR8Zy-d0mP3POBTDiif8CbuW_2oHXjlFFCo7MmgnOc0IO4l6ky7rwpBi_eLyWrEi9gn56QysbP5WCrTMAVepPZ6CVjuOgPo-CpFse82nZCjuG13BRCRQNWDboHLb2cLL7Bf7iRSz7iveW8Lr6Uk-a9JHmgAeeFBW3BnKPwznUmyt-Tk0YHn2qLSN-JWsgxa2DLPV9Ggn0l4Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/0dc8790870.mp4?token=Z4DC3k0KnbYUMOc9G-zprBD5tEFKpNpi7kB-rpSuROV_0VC6YfYvj-qH5GWuETrSG-wvBSaFlbJJAsinNhev74CdjUsz8Yk3XIoGrbxBSgyo3ZD8G0vuMQnQ9iVuf0rUFGiUZoj9P2Es9SC6o7wYpSXAhHQQLQURRo6rUIt461b_YZv02lGKToc4R3ssrntH6w6xKeo1i8G0zIb7yqbrq1eoFWdsxt5huggAdnvd0M9k-7-CrnLraRJ1xHM9esu5F5utfr9PLCXBPd76Q5Xmg61OhLfjyoQZBsXc_iawazrCFGzUtykoUKvujC_YnHkTpfO2_qUDatLZgLQDCbRz3A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حالا که  اسد فرار  کرد و سوریه تصرف شد میگن قبر حضرت زینب در مدینه است.
 به اینها باشه پسفردا میگن جنوب لبنانه!</div>

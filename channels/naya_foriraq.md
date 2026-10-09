@@ -292,14 +292,14 @@
 <a href="https://t.me/naya_foriraq" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اخبار ؛ امن ؛ دراسات ، خرائط ، OSINT ، تسريباتلا تظن الإدارة الأمريكية انها قادرة على إسكات شعوب المنطقة والله لن نسكت .. يوما ما سوف نعيد أيام عماد مغنية وسوف تبث العملية على هذة القناة ..🪪للمراسلة وارسال الاخبار@Nayaforiraq_bot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-17 01:09:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-17 05:04:34</div>
 <hr>
 
 <div class="tg-post" id="msg-93047">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">🇺🇸
 البنتاغون : سيتم بث إعدام مطلق النار في فورت هود رمياً بالرصاص في الولايات المتحدة على الهواء مباشرة</div>
-<div class="tg-footer">👁️ 3.95K · <a href="https://t.me/naya_foriraq/93047" target="_blank">📅 00:52 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/93047" target="_blank">📅 00:52 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93046">
@@ -313,7 +313,7 @@
 </div>
 <div class="tg-text">🔻
 مشاهد حصرية لنايا... لانطلاق الدفاعات الجوية السعودية من وسط مطار الملك خالد الدولي بعد استهدافه بصواريخ اليمنية.</div>
-<div class="tg-footer">👁️ 7.57K · <a href="https://t.me/naya_foriraq/93046" target="_blank">📅 00:20 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/93046" target="_blank">📅 00:20 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93045">
@@ -326,7 +326,7 @@
 <a href="https://cdn4.telesco.pe/file/b786078ca8.mp4?token=sC0jojLC5cttBVawG-Dia9ZPnwnYeKnRYsk-Oo8oVZv4xE8dC6dc20hmSDlKqTU8q19JicNqQvhMy0G08uIziElTAagywqS1Z0Rv5tKZxw4AMfY_WcTWrSss1hv4b651xzXgZx-Q4MkhyGhi1HJzHMqqzvTNCTgmmmbS3d0B1vN1_QGnxs4ozslIxtHsJCSpbLeLD8Kz2KsosJPsLhTr15G6M1F22pmtesQBn3OO_AU9ic8w5pRX7_yOUIvWzg1ibsfVneF7-Vl9raiJADq-i1dZXRCS2wdz78R4OvmnOeyw0pGNwNgUJfGjE4jFK2KMlSwwTAjv2VdGSEtF5DhM8w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">لحظة الهجوم اليمني على مطار الرياض الدولي</div>
-<div class="tg-footer">👁️ 7.82K · <a href="https://t.me/naya_foriraq/93045" target="_blank">📅 00:16 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/93045" target="_blank">📅 00:16 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93044">
@@ -334,7 +334,7 @@
 <div class="tg-text">🇺🇸
 الاعلام الاميركي
 : وزارة الدفاع الأمريكية تضع خططًا جديدة لضربة محتملة ضد إيران في الوقت الذي يتردد فيه ترامب.</div>
-<div class="tg-footer">👁️ 7.85K · <a href="https://t.me/naya_foriraq/93044" target="_blank">📅 00:13 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/93044" target="_blank">📅 00:13 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93043">
@@ -343,7 +343,7 @@
 🇸🇦
 رئيس الأركان الفرنسي:
 لا نزال ندرس مع السعودية خيارات تتضمن وسائل عسكرية للمساعدة بحماية ميناء ينبع النفطي.</div>
-<div class="tg-footer">👁️ 8.8K · <a href="https://t.me/naya_foriraq/93043" target="_blank">📅 00:01 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/93043" target="_blank">📅 00:01 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93042">
@@ -362,7 +362,7 @@ pinned a photo</div>
 🇸🇦
 🔻
 أصدرت السفارة الأمريكية في القدس تنبيهاً أمنياً تحث فيه الأمريكيين في جميع أنحاء الشرق الأوسط على توخي الحذر الشديد، محذرةً من احتمال حدوث اضطرابات في الرحلات الجوية وتصاعد سريع في الأعمال العدائية بين السعودية " والحوثيين " ..</div>
-<div class="tg-footer">👁️ 9.15K · <a href="https://t.me/naya_foriraq/93041" target="_blank">📅 23:59 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/93041" target="_blank">📅 23:59 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93040">
@@ -371,20 +371,20 @@ pinned a photo</div>
 <div class="tg-text">🇮🇶
 متداول
 وثيقة تتضمن شمول رئيس هيئة الاستثمار العراقي بقيد جنائي ! الأمر الذي يطرح تسأل عن كيفية الموافقة عليه بمنصبه الحالي !</div>
-<div class="tg-footer">👁️ 9.38K · <a href="https://t.me/naya_foriraq/93040" target="_blank">📅 23:47 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/93040" target="_blank">📅 23:47 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93039">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mWsMoga7GES3DCFYHv8ZcsN8Er-u5Ov31HJPAoGy35R6eMtX50szGNe13IK9-MFwoRGCgUBvkQBoapZEqoX5nSAVCR-zei1Ls05iApP-anghS2CKN1uKu_NXesz8bRQV6rEdGiQ5gVcEb4Gip5J9sipgmh3dFJOkSICBEcJ101Tc68_TJ296Id0LBlJ0zlYBIL7ICtItcF2WJwkBGDd_UTOVIGPugQc5tF16df-E4SCHlr9bbV7l3WCbChfexVxnfWpa--PBDk_oJ7rIgViNzybBS3xzJQoBy0HJXaKG4LiP775LLgcqmDMZp0lkQg-AhW7J33BnuCtqHwz_E7ce4Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اصوات انفجارات في صنعاء</div>
-<div class="tg-footer">👁️ 9.08K · <a href="https://t.me/naya_foriraq/93039" target="_blank">📅 23:44 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/93039" target="_blank">📅 23:44 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93038">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">اصوات انفجارات في صنعاء</div>
-<div class="tg-footer">👁️ 9.44K · <a href="https://t.me/naya_foriraq/93038" target="_blank">📅 23:36 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/93038" target="_blank">📅 23:36 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93037">
@@ -393,7 +393,7 @@ pinned a photo</div>
 <div class="tg-text">🇺🇸
 🇮🇶
 تحذير أمني جديد من السفارة الأمريكية في بغداد للمواطنين الأمريكيين في العراق</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/naya_foriraq/93037" target="_blank">📅 23:30 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/93037" target="_blank">📅 23:30 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93036">
@@ -401,7 +401,7 @@ pinned a photo</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/L926QE9lYRT0yT2PDz9P8qbMSUWSpvgDstyLWXM_4sT4Gydt22kChtfGmCWiwVuMFER6Jl9pnmWHc_LhIaluTusOfY5OKlaLxH-1EDS5Plge2733t8ITIcaBCsL1YMCqNWNbs8mvVeUbk0uwvru35AMjielKmJ3jZYUhDwmRpv3atdPyTjJ25JK9_mJ26AKfGWUhp82SBZ89sS7cyXCrdjbkqh5LRz6x0_N7VeGTxpGRdHooz4473wEM_dvMeqFmj9w9q44fRX8dmn2O7etwNi-7bR-6XmO0xZI8AhEAoZLNJSTqfVaspDV1egW4zbCjF-Dfn1qsN9iC1QkidRaJvQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇮🇶
 اندلاع نزاع عشائري في محافظة ميسان جنوبي العراق مقتل طفل واحد كحصيلة اولية.</div>
-<div class="tg-footer">👁️ 9.86K · <a href="https://t.me/naya_foriraq/93036" target="_blank">📅 23:28 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/93036" target="_blank">📅 23:28 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93035">
@@ -410,7 +410,7 @@ pinned a photo</div>
 🇮🇱
 السفارة الأمريكية في القدس تحذر المواطنين الأمريكيين الموجودين في إسرائيل:
 يجب على المواطنين الأمريكيين الاستعداد لاحتمالية إلغاء الرحلات الجوية.</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/naya_foriraq/93035" target="_blank">📅 23:20 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/93035" target="_blank">📅 23:20 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93034">
@@ -424,7 +424,7 @@ pinned a photo</div>
 </div>
 <div class="tg-text">🇮🇶
 توثيق قريب ومباشر للحظة استهداف احد مقرات الاحزاب المعارضة الايرانية في محافظة اربيل شمالي العراق.</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/naya_foriraq/93034" target="_blank">📅 23:13 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/93034" target="_blank">📅 23:13 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93032">
@@ -437,7 +437,7 @@ pinned a photo</div>
 <a href="https://cdn4.telesco.pe/file/9c0ef9968e.mp4?token=ZzlEeayY7y9loR8WG0PiwN9Vp3N4f0YBnVgtjt2BdrR2c4Fby1E_-ok57K8tkkaJmy9n-dZalhqiYM5pYqpYQD3QC0dB7a5QBmmDErHY7m-IBOrMV_TJPM-YlaCcIOaA_kJUigIC5mN8-9j3OJv6nKbEx1X4wwO9Tdwg1Pl2M3WOpGoMH1LYe3M6HA8NDiFRLLQ97JhrgFDlvqd-HIwbep2oqtM4JNKiqiaBLHPCOmHOhqRGOUutFn5ShrRDm_2sVcgejD4xdgzKp1JTsFyRWJEKJK5UnxFD0Ej1ibHVWrdXRxi_G-URVL9ZPI7qxQ1YBenzl8DWHZD3TcYigkfJAQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">مشاهد من مقرات الاحزاب المعارضة في اربيل</div>
-<div class="tg-footer">👁️ 9.87K · <a href="https://t.me/naya_foriraq/93032" target="_blank">📅 23:11 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/93032" target="_blank">📅 23:11 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93031">
@@ -451,7 +451,7 @@ pinned a photo</div>
 </div>
 <div class="tg-text">🇮🇶
 مشاهد قريبة للحظات الاولى لسقوط المباشر على احد مقرات الاحزاب الايرانية المعارضة في اربيل.  https://t.me/naya_foriraq</div>
-<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/naya_foriraq/93031" target="_blank">📅 23:09 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/93031" target="_blank">📅 23:09 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93030">
@@ -465,7 +465,7 @@ pinned a photo</div>
 </div>
 <div class="tg-text">🇮🇶
 مشاهد من محاولات اسقاط الطارئات المسيرة المتجهة الى مقرات الاحزاب الايرانية في محافظة اربيل قبل ان تسقط على اهدافها بشكل مباشر.  https://t.me/naya_foriraq</div>
-<div class="tg-footer">👁️ 9.13K · <a href="https://t.me/naya_foriraq/93030" target="_blank">📅 23:04 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/naya_foriraq/93030" target="_blank">📅 23:04 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93029">
@@ -478,7 +478,7 @@ pinned a photo</div>
 <a href="https://cdn4.telesco.pe/file/4bf39202dd.mp4?token=D6JTJ1LlW3kBl_44S6ZLIRkLGvJHorhe4nQvp2EsoDj4duzIaNWen7s8Gco9qSnnqnGcP7yrvMfwK4l3bPvc7UuvjI03-L03DRheg1OZpELk0I4ljpq4vhzhSqjR34ebpPVqoJfXSOLbiQP2PZyS-kV3N9F-hTamXqCU17qSJCKA6256YaZVNlQA4UzK9_CHJyPieAbc2lUub9eimss51ljr2uSsbc7fEDHQPnt8Xq-Ue8wuSs1NzF3CdR3_1jysqNS-nsgDrEKLtrjN1tqlD8375jTXVQutzzFWPIllIulD8uCqd3zdMjlym_Yhs9YbS_Yfr24kNPxrFB3ImVg9Sw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حرائق واسعة تطال مقرات المعارضة في اربيل.</div>
-<div class="tg-footer">👁️ 9.04K · <a href="https://t.me/naya_foriraq/93029" target="_blank">📅 23:02 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/naya_foriraq/93029" target="_blank">📅 23:02 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93028">
@@ -492,7 +492,7 @@ pinned a photo</div>
 </div>
 <div class="tg-text">🇮🇶
 مشاهد اخرى للحظات الاستهداف الت طالت مقرات الاحزاب الايراني المعارضة في اربيل.</div>
-<div class="tg-footer">👁️ 8.82K · <a href="https://t.me/naya_foriraq/93028" target="_blank">📅 23:00 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/naya_foriraq/93028" target="_blank">📅 23:00 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93027">
@@ -506,7 +506,7 @@ pinned a photo</div>
 </div>
 <div class="tg-text">🇮🇶
 استهداف مباشر لمقرات الاحزاب المعارضة في محافظة اربيل شمالي العراق.</div>
-<div class="tg-footer">👁️ 8.67K · <a href="https://t.me/naya_foriraq/93027" target="_blank">📅 23:00 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/naya_foriraq/93027" target="_blank">📅 23:00 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93026">
@@ -520,7 +520,7 @@ pinned a photo</div>
 </div>
 <div class="tg-text">🇮🇶
 لحظة استهداف احد مقرات الاحزاب المعارضة في محافظة اربيل شمالي العراق.</div>
-<div class="tg-footer">👁️ 8.57K · <a href="https://t.me/naya_foriraq/93026" target="_blank">📅 22:59 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/naya_foriraq/93026" target="_blank">📅 22:59 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93025">
@@ -534,7 +534,7 @@ pinned a photo</div>
 </div>
 <div class="tg-text">🇮🇶
 انفجارات عنيفة في محافظة اربيل شمالي العراق.</div>
-<div class="tg-footer">👁️ 8.9K · <a href="https://t.me/naya_foriraq/93025" target="_blank">📅 22:57 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/naya_foriraq/93025" target="_blank">📅 22:57 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93024">
@@ -548,7 +548,7 @@ pinned a photo</div>
 </div>
 <div class="tg-text">🇮🇶
 انفجارات عنيفة في محافظة اربيل شمالي العراق.</div>
-<div class="tg-footer">👁️ 9.53K · <a href="https://t.me/naya_foriraq/93024" target="_blank">📅 22:55 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/naya_foriraq/93024" target="_blank">📅 22:55 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93023">
@@ -556,14 +556,14 @@ pinned a photo</div>
 <div class="tg-text">الله اكبر
 🇾🇪
 اليمن تفرض حصار جوي على السعودية</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/naya_foriraq/93023" target="_blank">📅 22:40 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/93023" target="_blank">📅 22:40 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93022">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">السفارة الكندية في الرياض
 : نحذر من احتمال فرض قيود على المجال الجوي واضطراب الرحلات الجوية في السعودية.</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/naya_foriraq/93022" target="_blank">📅 22:39 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/93022" target="_blank">📅 22:39 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93021">
@@ -571,14 +571,14 @@ pinned a photo</div>
 <div class="tg-text">🇬🇧
 🇸🇦
 بريطانيا تنصح الآن بعدم سفر أي شخص إلى الرياض، في المملكة العربية السعودية.</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/naya_foriraq/93021" target="_blank">📅 22:26 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/93021" target="_blank">📅 22:26 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93020">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">🇮🇶
 حدث هام بعد قليل يخص الملف العراقي ..</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/93020" target="_blank">📅 22:07 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/93020" target="_blank">📅 22:07 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93019">
@@ -592,7 +592,7 @@ pinned a photo</div>
 - طائرات مسيّرة (MQ9) عدد 4 .
 طائرة مسيّرة (MQ1) عدد 1.
 طوال ساعات يوم الاربعاء 7-10-2026 .</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/93019" target="_blank">📅 21:59 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/93019" target="_blank">📅 21:59 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93018">
@@ -603,7 +603,7 @@ pinned a photo</div>
 🔻
 الحشد الشعبي يمثل العراق في موسكو
 حضور د مهند العقابي مع وزير الاتصالات ورئيس خلية الاعلام الأمني في مؤتمر الإعلام والذكاء الصناعي بمشاركة ٧٠ دولة حول العالم</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/93018" target="_blank">📅 21:59 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/93018" target="_blank">📅 21:59 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93017">
@@ -611,7 +611,7 @@ pinned a photo</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sKMLh5eeulAVGOBizmHKsBQRDjEyt0G__AUPocbjSpUv55Qu8j8X8XqBLjDQTeXqIvtcgBspuKdc0r9NLtiClxQh3E9dVB3IdogH7YALTzfGLvvw0frNSU7jYetW_om_UyH3dD_GOTULUlX4vEUZJwPrykjuw0lGWIXofe816DB15HUu559kDO0tB3sgolnM2dFmQY0uo0FSsZ2RvwfqsFWhW_GItsGmORqb_6K8CufWjivF0V2AOP2iPORmBFN3Juf1-UJGjACg6Yd2i3ilKRQfEPr-hT_iNxDJ4fDoySjNahyxFF4nPytEjwzbYSvDdB1lutbv9IItVK3IzbFCPg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇮🇱
 احد الجنود الصهاينة الذي قتل في جنوب لبنان اثر حادث عملياتي حسب وصفهم.</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/93017" target="_blank">📅 21:42 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/naya_foriraq/93017" target="_blank">📅 21:42 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93016">
@@ -620,14 +620,14 @@ pinned a photo</div>
 🇮🇷
 بوتين
 :  طلب من بزشكيان نقل أفضل التمنيات إلى المرشد الأعلى لإيران مجتبى خامنئي، روسيا مستعدة لفعل كل شيء لمساعدة إيران في تسوية الوضع الذي نشأ في الشرق الأوسط.</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/93016" target="_blank">📅 21:41 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/93016" target="_blank">📅 21:41 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93015">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">🇮🇶
 ازدياد حدة التظاهرات في محافظة البصرة بعد القرار الأخير برفع سعر الصرف.</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/93015" target="_blank">📅 21:30 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/93015" target="_blank">📅 21:30 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93014">
@@ -635,7 +635,7 @@ pinned a photo</div>
 <div class="tg-text">🇮🇶
 مشاهد لطرد التحشيدات التابعة للعدو السعودي من مديرية الشمايتين بمحافظة تعز - 8 أكتوبر 2026م
 .</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/naya_foriraq/93014" target="_blank">📅 21:30 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/93014" target="_blank">📅 21:30 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93013">
@@ -645,7 +645,7 @@ pinned a photo</div>
 كتائب سيد الشهداء تحسم الجدل
 لا تسليم للسلاح إلا بعدما يكون العراق سيد نفسه .
 https://t.me/naya_foriraq</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/93013" target="_blank">📅 21:20 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/93013" target="_blank">📅 21:20 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93012">
@@ -654,28 +654,28 @@ https://t.me/naya_foriraq</div>
 العميد يحيى السريع:
 شن الطيران الحربي السعودي خلال الـ24 ساعة الماضية 59 غارةً جويةً وصاروخاً استهدف بها العاصمة صنعاء ومحافظات الجوف وتعز ومأرب وحجة وصعدة والحديدة ولحج وريمة وإب والبيضاء من خلال طائرات "F-15" و "تايفون" أقلعت من قاعدتي خميس مشيط والطائف والعدوان الصاروخي من نجران وخلفت شهداء وجرحى بينهم نساء وأطفال.
 ليبلغ إجمالي غارات العدوان السعودي منذ بدء التصعيد على بلدِنا العزيز 1857 غارةً جويةً وصاروخاً.</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/naya_foriraq/93012" target="_blank">📅 21:18 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/93012" target="_blank">📅 21:18 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93011">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">🇮🇶
 رئيس مجلس النواب العراقي: قرار تغيير سعر الصرف لا رجعة عنه.</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/93011" target="_blank">📅 21:10 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/93011" target="_blank">📅 21:10 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93010">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">🇮🇶
 رئيس مجلس الوزراء العراقي أمام مجلس النواب: كانت أمامنا ثلاثة خيارات الأول الذهاب إلى الادّخار الإجباري وترك الموظف يعيش بالوعود والثاني توزيع الرواتب كل 45 يوماً والثالث الذهاب إلى الاقتراض وإغراق البلد بالديون وهو مثقل بها أصلاً، تسلّمتُ المهمة واقتصادنا…</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/93010" target="_blank">📅 21:09 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/93010" target="_blank">📅 21:09 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93009">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">🇮🇶
 مجموعة من النواب يعلنون استضافة رئيس الوزراء ووزير المالية ومحافظ البنك المركزي لمناقشة تداعيات قرار تغيير سعر الصرف.</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/93009" target="_blank">📅 21:05 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/93009" target="_blank">📅 21:05 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93008">
@@ -683,7 +683,7 @@ https://t.me/naya_foriraq</div>
 <div class="tg-text">🇮🇷
 قائد الثورة الإسلامية سماحة السيد مجتبى الخامنئي:
 إن تركيز العدو الأمريكي الصهيوني المجرم وإصراره على ضرب مختلف مستويات الفرج، من أعلى المستويات إلى أدنى مستوياته، كشف عن أهمية هذه المؤسسة أكثر من أي وقت مضى. ومع ذلك، فإن هذا الجهد اليائس والهجمات الخبيثة على أركان النظام والأمن الاجتماعي، والتي لا مثيل لها في التاريخ، لم تثنِ قوات الفرج الباسلة عن أداء مهمتها قيد أنملة، بل واصلت، حتى في الشوارع والسيارات، أداء الدور والواجبات نفسها التي كانت تؤديها في مواقعها ومقراتها.</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/93008" target="_blank">📅 20:56 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/93008" target="_blank">📅 20:56 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93007">
@@ -693,7 +693,7 @@ https://t.me/naya_foriraq</div>
 🔻
 الشيخ اكرم الكعبي:
 ندعو الإخوة في مجلس النواب والحكومة العراقية إلى النظر لهذه الاعتبارات، وتقديم أولوية مراعاة معيشة المواطن والعمل على خطط شفافة لإعادة الاستقرار في السوق بعيداً عن المهاترات السياسية.</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/93007" target="_blank">📅 20:52 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/93007" target="_blank">📅 20:52 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93006">
@@ -707,7 +707,7 @@ https://t.me/naya_foriraq</div>
 </div>
 <div class="tg-text">🇮🇶
 ازدياد حدة التظاهرات في محافظة البصرة بعد القرار الأخير برفع سعر الصرف.</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/93006" target="_blank">📅 20:41 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/93006" target="_blank">📅 20:41 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93005">
@@ -722,7 +722,7 @@ https://t.me/naya_foriraq</div>
 <div class="tg-text">🇸🇦
 🇾🇪
 مقيمة في السعودية تشتكي وتناشد بفتح المطارات السعودية بعد اغلاقها بسبب هجمات قوات المسلحة اليمنية ليتسنى لها العودة إلى بلدها بعد بقائها في السعودية لعدة أسابيع.</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/93005" target="_blank">📅 20:25 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/93005" target="_blank">📅 20:25 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93002">
@@ -734,7 +734,7 @@ https://t.me/naya_foriraq</div>
 </div>
 <div class="tg-text">🇮🇶
 مجموعة من النواب يعلنون استضافة رئيس الوزراء ووزير المالية ومحافظ البنك المركزي لمناقشة تداعيات قرار تغيير سعر الصرف.</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/93002" target="_blank">📅 20:14 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/93002" target="_blank">📅 20:14 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93001">
@@ -748,7 +748,7 @@ https://t.me/naya_foriraq</div>
 </div>
 <div class="tg-text">🇮🇶
 مجموعة من النواب يعلنون استضافة رئيس الوزراء ووزير المالية ومحافظ البنك المركزي لمناقشة تداعيات قرار تغيير سعر الصرف.</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/93001" target="_blank">📅 20:11 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/93001" target="_blank">📅 20:11 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-93000">
@@ -756,7 +756,7 @@ https://t.me/naya_foriraq</div>
 <div class="tg-text">🇺🇸
 🇸🇦
 البعثة الأمريكية في السعودية تصدر تحذير امني لبعثتها خوفا من الهجمات اليمنية.</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/93000" target="_blank">📅 20:07 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/93000" target="_blank">📅 20:07 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92999">
@@ -766,7 +766,7 @@ https://t.me/naya_foriraq</div>
 🔻
 المعاون العسكري لحركة النجباء الحاج عبد القادر الكربلائي:
 فيا أنصار الله ورسوله والإسلام، إننا معكم ولن نتخلى عنكم.</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/92999" target="_blank">📅 20:05 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/92999" target="_blank">📅 20:05 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92998">
@@ -774,7 +774,7 @@ https://t.me/naya_foriraq</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vqvMFLaXrXrIpPCK_NG2VcEasASuzPutGjX0p8HxVMfhMrgNkWIWaBnw59lNLOidAqDg5B3X4c0mzFLmeEogyurkE-H7qzjg-jhQI0TAx61UvvanJquIgv9QvRK_P2HoxsoMEJN5PxvgLT2PHVE2Z7vLZVdEh_9CBxd5VJ2j1HJ7kwud6paqy2Hlouu987wC0S3NhmCTFOfiAVVF7bXnnNUgxawcVT2JFg6sRwf2BQm_a5ITMQ6I-O-HXfQUWMYAVbWfXLvhX-Hy9SPH7EDQmUEhgBQEiEr1K3tt6vMYnO7dnu4sVwaMxlJ69fzldAQrCSalxyX0dKkYY6JT-R_ksQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇺🇸
 ترامب: لن نشن هجومًا على إيران في أي وقت قبل الانتخابات النصفية، نحن نجري محادثات مثمرة مع إيران.</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/92998" target="_blank">📅 19:50 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/92998" target="_blank">📅 19:50 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92997">
@@ -783,13 +783,13 @@ https://t.me/naya_foriraq</div>
 <div class="tg-text">🇺🇸
 ترامب
 : لن نشن هجومًا على إيران في أي وقت قبل الانتخابات النصفية، نحن نجري محادثات مثمرة مع إيران.</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/92997" target="_blank">📅 19:48 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/92997" target="_blank">📅 19:48 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92996">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">تدمير طائرة في مطار الرياض الدولي</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/92996" target="_blank">📅 19:42 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/92996" target="_blank">📅 19:42 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92995">
@@ -798,14 +798,14 @@ https://t.me/naya_foriraq</div>
 ‏
 مستشار الأمن القومي العراقي:
 العراق رفض طلبا من سوريا لإعادة آلاف الأشخاص المشتبه في انتمائهم إلى داعش، اجتماع عُقد مؤخرا بين سوريا والعراق وأميركا لبحث مصير سجناء داعش، العراق أعاد إلى سوريا نحو 50 محتجزا سوريا ثبت أنهم ليسوا أعضاء في داعش.</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/92995" target="_blank">📅 19:38 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/92995" target="_blank">📅 19:38 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92994">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Sv7iCY6xEnQJuqRNKDMQJbnKuEE7TQTsYE5kP3IOEeLpCMeunpxEV48a8kBjYXDHJ6S3XCD3cLQGezBynujM6TRkh73I40K0Ikl2xQBZEQlHmNZpJG6tGu5ss_ctTaGUAAkUHOa2OfMk1KuGjXJNy9nX7x2KMQaM7Lf8am3VEg4t8IqxeB9Gf2MbeWWXiNXP2Z3iSkpzr5AvU-_5Oj8jQTmtEy2eT1sMibDzkSGz4_4Ha_6qsD4lDUXPQOA-Rg6_djqjvlu7h6s6yGbaHSxjxtSgr399bg67JHaRSlgoMpxsMd-0LuEVysRJqJm5F0VcphUAkRlBTE8Y8shenN4DyQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">لحظة الهجوم اليمني على مطار الرياض الدولي</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/92994" target="_blank">📅 19:23 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/92994" target="_blank">📅 19:23 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92993">
@@ -819,7 +819,7 @@ https://t.me/naya_foriraq</div>
 </div>
 <div class="tg-text">🇮🇱
 اشتباكات مسلحة بين يهود حريديم وقوات الامن اثناء تضاهراتهم في الكيان الصهيوني.</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/92993" target="_blank">📅 19:18 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/92993" target="_blank">📅 19:18 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92992">
@@ -827,7 +827,7 @@ https://t.me/naya_foriraq</div>
 <div class="tg-text">🇾🇪
 العميد يحيى السريع:
 استهدف قواتنا المسلحة مساء اليوم مطار الملك خالد بالرياض بصاروخين مجنحين، ومطار نجران بصاروخ باليستي، والقاعدة الجوية في خميس مشيط بصاروخ باليستي، وكانت الإصابات دقيقة ومباشرة بفضل الله، وأدت إلى تعطل حركة الملاحة في المطارين وإلحاق أضرار بهما وبالقاعدة الجوية.</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/92992" target="_blank">📅 19:13 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/92992" target="_blank">📅 19:13 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92991">
@@ -836,13 +836,13 @@ https://t.me/naya_foriraq</div>
 🇮🇷
 اللواء وحيدي
 : نذكر أن استراتيجيتنا في هذا المجال واضحة ومبدئية وغير قابلة للتغيير: أمن الخليج الفارسي ومضيق هرمز هو أمن داخلي وإقليمي، ولا يحق لأي قوة خارجية تهديده أو التواجد بشكل استعماري أو التدخل فيه. مضيق هرمز هو شريان الحياة للطاقة في العالم، والخط الأحمر الاستراتيجي لإيران الإسلامية، والحفاظ عليه هو الحفاظ على المصالح الوطنية وأمن الأمة وكرامة إيران.</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/92991" target="_blank">📅 19:12 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/92991" target="_blank">📅 19:12 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92990">
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">انفجارات تهز مضيق هرمز: ناقلة نفط خام تعرضت للاستهداف بمقذوف أثناء عبورها المضيق.</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/92990" target="_blank">📅 18:58 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/92990" target="_blank">📅 18:58 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92989">
@@ -850,7 +850,7 @@ https://t.me/naya_foriraq</div>
 <div class="tg-text">😀
 الخطوط الجوية الهندية تلغي رحلاتها من وإلى الرياض حتى 10 أكتوبر نظراً لتطورات الوضع في المنطقة.
 المطار بالمطار</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/92989" target="_blank">📅 18:33 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/92989" target="_blank">📅 18:33 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92988">
@@ -863,13 +863,13 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/e92d6aa9cc.mp4?token=oz35TEKU2x5hA1R2aQKLmkJev5NXgFu8nBnx8_6gGJRp3IFlLRduLymGaPqrNVRu0_0UQ9vtoEcPTkGGyHX9SE0UEm4SkZBoUrutOy4auDdSfEtbD1wYWNzgt359TSjdtQtIiuLwblDW-dZ7YHt_KQYDOJe_tzeBk-6Z1JXL5sbBv3dLDtTjcaWk3XXLia6Sif1vkouMYpHd6IKcratS-IM6-NwE9xdVr617GtI8EHyHpl3BFWp6FGqwWqzJ2sdZW-E-_Pb5VKWJHspbAlGxqnYohvCB_b6-NkeAqp3wG9JCgPc-aVpU3gO0CCtU1An3JaSfsuS0D2zAfZHT7L7ifg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اشتباكات بين الشرطة الصهيونية ويهود الحريديم في مدينة القدس المحتلة.</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/92988" target="_blank">📅 18:22 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/92988" target="_blank">📅 18:22 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92987">
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">وزارة المواصلات الصهيونية تصدر تعليمات لشركات الطيران الأجنبية تُلزمها بإجراء فحص لأفراد الطاقم والجنسيات التي يحملونها، في كل رحلة إلى "إسرائيل" أو تعبر مجالها الجوي. ودخلت التعليمات حيز التنفيذ بشكل فوري.</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/92987" target="_blank">📅 18:21 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/92987" target="_blank">📅 18:21 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92983">
@@ -886,14 +886,14 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/479a877651.mp4?token=J89fOySF1TA8b-EkniSOaji8GSDmBulh9CpF-vUnbVevR2smzEEDCCosB8SYFUUOJDtc6F1AkHYM4damKrH0kbSYnEqmiXLGC-PWQOLx6LBqwweOj5bqItbrPgARZjtQfARGAIb8gM9vsMXRANDGIo_yU2D7lR9JtF3ZnUHRHl-IjEh2G0nDRQvGXorKcCfbIkNP18rFdN4XUSr9m5EdMybGPeTFy5Y6uYKwLyaex4f20O3l2APwjZZorqXRmm6CLu656lP--d0O_P1vyaegREWC5YgdPPU23TAdadg-LtGvQ3ZgKlKh25lEIk8iiyk_M8z-vYfmGF-Xf_wFWJTmbA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">القوات اليمنية تدك منشأت ارامكو في بقيق</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/92983" target="_blank">📅 18:19 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/92983" target="_blank">📅 18:19 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92982">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UUSWUgtyv0II_p7u2vS3LT0jexS8xV9iRnv7bXTkCRdQqtrvPiKjuZGyBrjRhi_HGwA89ShRsGqcGzPBYWn7wrOfwXqNl0mwfX0UBhycPu-48i7Z8UB3-e3GSKwniGufUGGQKwJ8Buy82zBW7y1YJLhxzhdGIQpJjXukHi1_9j-mef1z4GDKvFjWHIOf0C7ucqUYvtYi1V7VJ4DqzO4YI0Jw5M3WxnSf8QBeDKwaPaiMgciLU0KKhShizyVC8ulN2zM_3MXTZXnDikeoIf3LUa-jetEGoKxPj1ijlmTwE9v0CQJxCpJHxv86h4elfxK6Yj304Eu2QThogHCILx8Oxg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">انفجارات تهز مضيق هرمز: ناقلة نفط خام تعرضت للاستهداف بمقذوف أثناء عبورها المضيق.</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/92982" target="_blank">📅 18:12 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/92982" target="_blank">📅 18:12 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92981">
@@ -901,7 +901,7 @@ https://t.me/naya_foriraq</div>
 <div class="tg-text">🇾🇪
 التلفزيون اليمني:
 العدو السعودي استهدف بغارتين باص نقل مواطنين ما أسفر عن شهداء وجرحى في طريق شرجب التربة.</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/92981" target="_blank">📅 18:05 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/92981" target="_blank">📅 18:05 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92980">
@@ -914,7 +914,7 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/c545f6ef23.mp4?token=I-eMKoBcWa0ZNA0nvfxDuFnXIdtEsvNBcVyvXnozMI-RrWw1BK4GD7-JAqGhy-gfa0EVKIVNYzWwTyUJa2Yl2AQ1Ytv_830iwlCmGMZ89UahaY6qyPX0ukVc13L2uvEFQGTIC5x9AQv9u5eC9oZpEJRF_7uYmcHhbqeMLWysA1vHqWZuBFPO2zsZN-drkpR1jrXg7bGJJlVizzzk1EyADDWYXJTV0eij3zebpm7DS_8F1O_MzZpuOxknWZxGXSD9vBw6ufJICtfebdNoSGqHiEn4Cy2pPe_0p0Yj_4n-Mk0YzB3SjlIx_alMtxJsE30wxEoNYj2WL_ungdL1QtjpPTeIMR0iyO4e3LSC0lbp039EY13EijIdIdznNQm_-RDWYq_zxxf4IEZDknd8SeLk7216h6_3wd85NrEhl3fN625KJ3C6EifemKWD345t3X12IacgbfBdOjtRPjXcOeir9igjjfFLX8rM3zOJMFsrE4ixGEizcxBXHOf12HcEKzYEbUP78aS386p8edHMc-3jejQ58kmK9cIsMQGPD2nWXYxYYHjkR34baaDfphomYo5xsXTKbDQ-De-CTwHUgq3mUd8Kp6xGJQIUQKFv1lv3GC850d8rUF4aq8POPtnOtX7kP_OCDrVaP8YAf9F_85RZjtLwUSMRZRQDvEhng_EMOeE" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">الغاء عشرات الرحلات الجوية المتجهة إلى مطار الرياض بعد استهدافه من قبل القوات المسلحة اليمنية ولم يتبقَّ سوى عدد قليل من الرحلات.</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/92980" target="_blank">📅 17:48 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/92980" target="_blank">📅 17:48 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92979">
@@ -936,7 +936,7 @@ https://t.me/naya_foriraq</div>
 قطر عملت إبان الأمير حمد على حل النزاعات إلى درجة الغيظ السعودي منها، والعودة الآن للتبعية للسعودي في السياسات الخارجية تراجع كبير جدا
 -
 ننصح القطري نصحا أخويا بمراجعة حساباته، وشعبنا في موقف مظلومية ويدافع عن حريته</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/92979" target="_blank">📅 17:47 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/92979" target="_blank">📅 17:47 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92977">
@@ -947,7 +947,7 @@ https://t.me/naya_foriraq</div>
 </div>
 <div class="tg-text">🇮🇱
 قوات الاحتلال الإسرائيلي تسيطر على قرية جبة في وسط منطقة القنيطرة في سوريا بعد تسلل دبابات ومركبات عسكرية.</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/92977" target="_blank">📅 17:37 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/92977" target="_blank">📅 17:37 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92976">
@@ -960,7 +960,7 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/bde9df01ca.mp4?token=IMllopSMuhPicfXyZ876X-X3sRZPu6nRf4ouGk-SDQCxBd8duKd0viv9cV5uyydsDJg7iGT0mNCGMIgt46b2ibQjL4l3I2hXvmuWu9LEhYcUmX_LtVGSgaTLTj4Cq89mcZMHH9wWVFEqewF_WeaMo83rH2981JGUI7pNRlZURTFJc8s9CoAvGqjwdSnBwl7Lh2_U6ldD8VGzyHZa0rFvCxiW2DwPG3bxrVZdJbaA8fEOakR8DexrD24ukeyTLb8oM62vjxAq7Tvn4jem_90NZ6waPHkToOM_RpAVm1FzCwomPgF-T8DBeEP3ceARfK5R74XWINECjaLKbYdfzmh4pQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">وقفة احتجاجية في محافظة البصرة رفضاً لرفع سعر صرف الدولار والمطالبة بالتراجع عن القرار</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/92976" target="_blank">📅 17:26 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/92976" target="_blank">📅 17:26 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92975">
@@ -973,7 +973,7 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/5b86a06f11.mp4?token=tvXLGBr_kBfjWRfLlkzK1MXddOhvU2OjOVwPGFp5p7pdfnVMNreVNwNgX2jjrDPXqK2CCgM8VsRIx5VU5rybEWG7CqRUTynjbLDLe6Z2mXwIiAa9wKSPsuNsuwLmH7q0Df0TBz7ARp35MKcLWQ-9NiIgn9Zt0uH57wdJ8hC1KCji7rVDJAg0iWaP6aY8ZPdXrb7KNEgJETvNW4HkZhKGx1FFsEr4tp2glfA8TdOgmHT20vIpVePhrItlG7pwG1DQvTM0WA1SUkg8mHBaJKqHC5tJ7RlZNOOQxGkQYulcHI8mwevbYFERWzxTw4wto1grysiCO1XSzkqbKsP6Qh7qDw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">لحظة الهجوم اليمني على مطار الرياض الدولي</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/92975" target="_blank">📅 17:25 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/92975" target="_blank">📅 17:25 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92974">
@@ -986,7 +986,7 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/a8fc6292df.mp4?token=EVDmozho_UvBAivqW8OTrHdyOWAp_ZKzgtt--llBCXldvMZR6pkj9d7N0ZiqENLtCLXAZ9jFcjY1eUk-J2S1Lx-UOeYGH8947zjlMM4GYRd25KE3kojJeDeKtkB3pMMaoGAUa6YOCldmJFuyPL_lTL7g55NtZSNvEaL0W9WWmmlrCRkNwy5MECF-NlHoo52R6vmYKq4SNewQ3Rs5_EJ1NYoUz6gAEcAGmb12S26b2UCDepvYghXbk38GPzhcW1srPQ16dgfM6Z-jTiflInqAg8HHjzvd0fKTMgWU-F3VjTzenzUIFGA4RV5dgKcJdQaTxpsgjEz13qReF-ABTsn48Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">الصواريخ اليمنية تصول وتجول في سماء السعودية</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/92974" target="_blank">📅 17:21 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/92974" target="_blank">📅 17:21 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92973">
@@ -999,13 +999,13 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/77c997f9f6.mp4?token=fIKrGSLQPfMTBv7YkZG0STLIBiKYk-6XRxkGcZNtfzDgAplYHodNrJ_9wobT8D2fv0ycXvdy7_woxHcn7waPP2faP3iDdMGtlU_SenZP77hLpqZnGtX8eagidn1HJQaC_mmVCXvbSPmch3e0yhSjHNH40IlSPg1CnZ6LDtyyxXQ-sCwqDLdSBsRtCE28upy0f8pNH5S7rDSPdqyiB3I3zag06vc_CVoZlosnkY0bfbE-hW6kpwlBUVCfX3a7nNlYlH6Nj1uE-3iixsQULdMP64X_1g-txxEA5VyYRBrjNshm_JO6QCDcLhBj7PVWlraMAjCCBUVgsyX-Z0PtsogCDA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">رصد عشرات الصواريخ اليمنية في سماء السعودية</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/92973" target="_blank">📅 17:16 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/92973" target="_blank">📅 17:16 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92972">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">السعودية تعلن عن اضرار جسيمة في عدد من المنشأت بسبب "سقوط شظايا".</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/92972" target="_blank">📅 17:07 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/92972" target="_blank">📅 17:07 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92971">
@@ -1013,21 +1013,21 @@ https://t.me/naya_foriraq</div>
 <div class="tg-text">🇮🇱
 اعلام العدو:
 اصيب جنديان من الجيش الإسرائيلي إصابة خطيرة في حادث عملياتي في جنوب لبنان.</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/92971" target="_blank">📅 16:49 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/92971" target="_blank">📅 16:49 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92970">
 <div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">مطار الرياض الدولي يشير الى الغاء الرحلات:
 ننوه للمسافرين بضرورة التواصل مع الناقلات الجوية، والتحقق من حالة الرحلة قبل التوجه إلى المطار</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/92970" target="_blank">📅 16:41 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/92970" target="_blank">📅 16:41 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92969">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QgewXXedLZM_pfjh22uXcN4wwPhT1WA50Us1PJMF4fQ4SpextIVSmen9jYCySvua9rF8xzE0EgoCiCY4vCB_OS9py6h9Uf74tZT_ZbmrbQFkCP2IbIXXZQc4MDQt7qksBKTRDqUMsDzdlMJxsOMJiA7IoMIUvoyuHfb-fVghXmNPf1eQT2y1zxs_j2XwbyuaXZH2wIC0bI_z3-DjIoy7gIxKstgn2aGuYyPeeLug6FKFWMpuS2OgUR1XpIjMuOaeuCxLD7ouluoTcnky1xfpsaT3YxTJ_XWEsmhnOnE0Uio6ZoE146LzMPkuvEs8ybeqJSpHW2sJMKGsK6-_MkeyhQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسعاف جوي يتجه الى الرياض لنقل اصابات وقتلى بعد هجوم القوات المسلحة اليمنية</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/92969" target="_blank">📅 16:30 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/92969" target="_blank">📅 16:30 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92968">
@@ -1042,7 +1042,7 @@ https://t.me/naya_foriraq</div>
 <div class="tg-text">#ترفيهي
 🇺🇸
 وزير الخارجية الامريكي ماركو روبيو: لن نخرق أبدًا سيادة أي دولة.</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/92968" target="_blank">📅 16:27 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/92968" target="_blank">📅 16:27 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92966">
@@ -1052,13 +1052,13 @@ https://t.me/naya_foriraq</div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/fn2cxOsM7gLH29p9SV-rBesm0ejrsGm8oe2Leewd4uu3eH9EBU1_9m32wktlfgAzSR43RBvxZZqS2rrRGsyS1jKIlxy98BWuvud5-ucnmEbifHsgI2iGKyRijlIEHIjEq4YkOZWdUmjG-Fcbbd90u82J4D2BhBLNPdIWaqtzZSOh2pk3UII57VUqoaXerqMdIW6eNJjeD3dkZb6-ajSzbkiXTJ5Nbm58aCjT4jUYxkhCX3LnYqiUUYVTUfFWJ9j87P88x1AGV5Lyr6N_vcVMY30cq0PPIYjUZfqFxwFXGAZqe0LJnAwMawrGS8oa7IVFz_enxIA0boeWcqs1RQ0jnw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">القوات اليمنية تدك منشأت ارامكو في بقيق</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/92966" target="_blank">📅 16:15 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/92966" target="_blank">📅 16:15 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92965">
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">القوات اليمنية تدك منشأت ارامكو في بقيق</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/92965" target="_blank">📅 16:12 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/92965" target="_blank">📅 16:12 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92964">
@@ -1067,26 +1067,26 @@ https://t.me/naya_foriraq</div>
 🇾🇪
 القوات المسلحة اليمنية:
 تمكنت قواتنا المسلحة بفضل الله من استهداف مطار الملك خالد في الرياض بصاروخ باليستي ظهر اليوم وقد أصاب هدفه بنجاح وتسبب في حدوث أضرار وتعطيل الحركة الملاحية في المطار.</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/92964" target="_blank">📅 16:05 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/92964" target="_blank">📅 16:05 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92963">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">الله اكبر</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/92963" target="_blank">📅 16:01 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/92963" target="_blank">📅 16:01 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92962">
 <div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">الله اكبر</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/92962" target="_blank">📅 16:01 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/92962" target="_blank">📅 16:01 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92961">
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/V6u_ntK-aX2D4luTByePDjyCmngiUBbmtndPNiWf-M0wUpJZgD7MH8CgVQIJ9VmAPBWtINScgDQUnKKys28Y0bSyplfmhNCMM_Ywz_-veDHkALpqupl53bAU3CAwC9UR7CjwcJtzuM6JOsnHRbddydR-puIheADNObEKhSHhNQN6eo0TPm3fVt9lKAHobM9gSm4iuBjiFfNRXI7VY7q7j22r9feujWbBm8O_inEEw40RTBfeTQM7Ry_-stLJe1EJDQ0s2VZaXYh_3MtUuXNr4l_y1Ag1AG9t6NzRrk7BSBPYeEq6dryhsXth2M1EcoOKuzKeZSGGOMmh6jX3GIA99w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#ترفيهي  السعودية تزعم صد هجوم على الرياض</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/92961" target="_blank">📅 16:00 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/92961" target="_blank">📅 16:00 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92960">
@@ -1094,7 +1094,7 @@ https://t.me/naya_foriraq</div>
 <div class="tg-text">#
 ترفيهي
 السعودية تزعم صد هجوم على الرياض</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/92960" target="_blank">📅 15:59 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/92960" target="_blank">📅 15:59 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92959">
@@ -1107,7 +1107,7 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/d9efb2a7c2.mp4?token=eUwJ9hdNIown3wsB4fHCXFEFqR-rI9G5x2J_UnA4WADxvs3lNNu7DT7yoC8tn8AtSdLUh59b1yYACfTjDHAkyUQFW11CCJmsMqPbq7iwYUKgXZaGJe_OC0qdHjtIHODZjcL-cOBM-pPgoPqlCXxiar4v8bn1EOk-gNdY65iqX2yYh_CzL7iVdt6fjELCtT81dj3I7qKuWNh9wB942MG53Gq9D5McngxeCRAUaQqtp3n-JxltVbX_ibXIsixg6WytuqchVGYVsuyDyDmN0r3NERxkJBEAvAxnRdON-1qhTV0aWSHzEZWBZrn7YQsFsEhxZo7dB71B4gnZTCsCAzcTDA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">القوات المسلحة اليمنية تحرر جبل حبشي ومحيطه في تعز بالكامل</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/92959" target="_blank">📅 15:55 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/92959" target="_blank">📅 15:55 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92958">
@@ -1116,7 +1116,7 @@ https://t.me/naya_foriraq</div>
 🇾🇪
 يحيى سريع:
 القوات المسلحة اليمنية تحذر جميع الموظفين من الخبراء والمهندسين والعمال في جميع المنشآت النفطية السعودية من التواجد في الأماكن التي تمثل أهدافا لقواتنا حتى لا يعرضوا حياتهم للخطر سواء التي تم استهدافُها من قبل أو غيرها كما تجدد تحذيرها لشركات الملاحة الجوية في المجالات والمطارات والمسافرين والعاملين فيها التي تم الإعلان عنها سابقا.</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/92958" target="_blank">📅 15:46 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/92958" target="_blank">📅 15:46 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92957">
@@ -1129,7 +1129,7 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/f2c7b71acb.mp4?token=HlVRHUBFf0pMTcLvevXgJ6oeJTD2x_dYB9STJ8NZGnQWmz7-eSFzYjf5J95V2K1qekbmN6jbYFaF1RuLHa3gohH43YjJoN_JRFh4zq_QTaW4NYQdfJ-ftR4Dws7QJ45OfmqqF0FvJ2st46MWg61uWl440GT5MPCF7sIMbpXZj4MUbTON_WcU6hGEY6ZpLPzbM9WxtnzVoD8dWbLKmLL2MMEW06NZMbkqQ-r9oXUvUAWVvxVB4-cINP4KcSid4-cRuNGpxkZmcieSe6_36QUkNqb73KRQL37RVYVOVksD81-JM4Ze9XBF6D_okBkotqj6fX3vxtW2c9O_8u5l9NWsBw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">لحظة الهجوم اليمني على الرياض</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/92957" target="_blank">📅 15:36 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/92957" target="_blank">📅 15:36 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92955">
@@ -1144,13 +1144,13 @@ https://t.me/naya_foriraq</div>
 <div class="tg-text">🇾🇪
 🇾🇪
 لحظة الهجوم اليمني: مقيمين هنود يشاهدون الصاروخ اليمني وهو يتجه لدك مطار ال سعود في الرياض.</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/92955" target="_blank">📅 15:30 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/92955" target="_blank">📅 15:30 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92954">
 <div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">لحظة دك مطار الرياض بصواريخ القوات المسلحة اليمنية</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/92954" target="_blank">📅 15:27 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/92954" target="_blank">📅 15:27 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92953">
@@ -1163,7 +1163,7 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/201a76143b.mp4?token=l_-YnaC-63qmszzfKt_pcwvEJCMgh1R7p4vi36U33WgAeG2jouyv88gopMFgjswOv8bmHrVZlLILVsS-dl2ASdHcyThDFaVxVRINefAjzelUbNmOQXOiCljRD6ND7G0zHc24oW8k0uSUJMS2yI6LBFqZNMjOcCuTQHoGm-Z3IWJO_03Mg2fLe2jSKTPIIYj2BxJr6gOES8wXG59sUua3gGx0xBqQvgE4EgIS080-YYZ008vQKB5GNswYwBv2Ibpl4eGYkh0qg9KxompUUSc6wU-YTGCcqZtsu6ODOO4LvrIkhW1cwLgXEGAtJcXw5vLsPqq7_2u5qMF7Yub8vrNaWw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">مطار الرياض يحترق بعد الهجوم اليماني</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/92953" target="_blank">📅 15:14 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/92953" target="_blank">📅 15:14 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92952">
@@ -1176,7 +1176,7 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/9230f8f37d.mp4?token=HK3WvP8D_QlToR9MAuyEPBD5J0t6Tgv97QzKLRmeSKdOybar93jiMb2qBGCVAavAFnMsC2pFrRkU4ka1L_DJ432h82MMhry5MsbahJnMqGbGFFpritumCSljc465WbHZeer3ed1u2ZCvXS4udFS-biEsth0W5T1BwjSa5t5G7fY7bt6xkXwFwrgCvv-O52jKKnGCLzWZliujJ_oUOwawlBrqDzF7Jr8tHBjy25PASs9zmQ3HOexpv38diiSldtIMus_rtuu-sSlvKQ3a-LrNZubBrSrFWXADaprfW4aGQdNuXLVZCSYlaR_6Cb-ZgVDxPhKu-ovjFHAmi81Zb5_76Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اعمدة الدخان تتصاعد من مطار الرياض الدولي</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/92952" target="_blank">📅 15:13 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/92952" target="_blank">📅 15:13 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92951">
@@ -1189,19 +1189,19 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/7009ef3ba7.mp4?token=OTa848wC5wpPpYtxy_r7TnT8xZp4NTnxG1QnikMYcSDMSRJk8kJXRZ0gX1AZjCkvdyp6fIMIyyxi67k74kKTKhV_HZ8pvvnF3UqpkM3qdRcYfKGR3o-ljMOjB3kyhHVJ9mjtVktKHu3yws6TVm2PxTr1cVbL0YHIjKWm6kRIC2e1Yg_Zerztr4SzjeG9b0oSpru3d3pknjfT7D7PNRu-3IGlLE5TR62zFhUKi411_-TCxviUc7Rzu3jThtgfWdgkG_Me9nIA9adQs4TbK-EG6ItluOlgTHA06RC8crPv1jeHd6Pd4kUp7GM7w6zZQLVmjj821uaAQ7XpUkJo4IkKkQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">مطار الرياض يحترق</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/92951" target="_blank">📅 15:11 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/92951" target="_blank">📅 15:11 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92950">
 <div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">تصاعد اعمدة الدخان من الرياض</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/92950" target="_blank">📅 15:10 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/92950" target="_blank">📅 15:10 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92949">
 <div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">انفجارات تهز الرياض</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/92949" target="_blank">📅 15:09 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/92949" target="_blank">📅 15:09 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92948">
@@ -1214,34 +1214,34 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/5e4d22faab.mp4?token=eGuWnDBKJ3HIz4dfiRhdBkcHQxrDajFRcPpbS2p6CLFK-JuHzYQimYBUctK-PyGiYZDW_rf7IHrG4kw1qJ8CnQAJ_2BO9T4m_oTNPPyt5gC3Llm68u__cACM80sXJzwxRfpkIoSMZwh43KInEniiCfhFmsTpQItvA432xictILGYmsOSJpIUuavZZOAyvrCVmEcoG6UO26ieAioFh2SgBHCfbcDkWrcRSjMCfzbT2UM_gJeB6w8zGpY8GGTpEbdgsJx6OVRFD_hhLL1aqmRN3q9Xzhvoekzjl_f-4UemLMMaUa9jXvUT01_KAUR3dN5atVaPBuYyrbJihNZgvi8fRA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">الله اكبر</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/92948" target="_blank">📅 15:07 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/92948" target="_blank">📅 15:07 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92947">
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">الله اكبر</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/92947" target="_blank">📅 15:07 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/92947" target="_blank">📅 15:07 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92946">
 <div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">محافظ البنك المركزي العراقي:
 سعر الصرف الجديد ثابت ولا يمكن تغييره أبداً</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/92946" target="_blank">📅 15:02 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/92946" target="_blank">📅 15:02 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92945">
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">الله اكبر
 انفجارات عنيفة تهز الرياض الان</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/92945" target="_blank">📅 15:01 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/92945" target="_blank">📅 15:01 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92944">
 <div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MmTOocpgn039bJwvmkYdgFZSKrs2nj6HoWMVxAsYPdDcZHerPedgWXb-_vh7iz0T2yem9tswmkNvTLQPYDDw_8qUdeha8cDWlYBsMFkxBzte9qOfhazbteFfUoDGz35q-wfOXb5tA4Plu5GkKLH102k0xIkR2I8PsxcyZ9tsbYaGza5jfVH9AGQdo7LpBbvOjJ-fzUtHEjl3XdWcGoI7JLAQnJ8DTKMwsZTN7axf5nlXJr2sDv46tWZmwASh9jPK5UouSw5czIcRqB7ybYhx7SwTGDsGKLH4CjD-FJEiSrFZP8r18Kmluznn-lpRI0KylMk_oIK_esJB9hIRXNIlhg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عدوان سعودي يطال مطار الحديدة اليمني</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/92944" target="_blank">📅 14:54 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/92944" target="_blank">📅 14:54 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92943">
@@ -1254,13 +1254,13 @@ https://t.me/naya_foriraq</div>
 <a href="https://cdn4.telesco.pe/file/0a46942fb8.mp4?token=AR80KJPP6mKza2l_a74xxSvtNEzphaDWATbFa8bL2r-DzrKuCIQcCqL94ZWYN9Jm1rxpQSXiUOL6d4OFHwAnTnjyYcYCQyXT4EyzEQ5uoF-X1_b9PTuloQTyNfGHGz6rNp31m0IQTYxbhjnk8_-P1kjPX3kfsguuzSgyuFxEmSuOpr7J7DT8_aqZq6nDFruNfHI4KcaIFhjUhEMSLmMrOIEeGBdH7iVd17G4leF78KZzEXASHMEXm_NmmexpWpoEgEhx8_U79i59g-Sy3hedb9LsloJSMycejR20ZX1i4xl5eDWUhMaT0FByZ2YoG03a0aaVDiIvOW-GDTrhxc9vKg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">طيران العدو السعودي يستهدف منازل المواطنين في مدينة اليريم اليمنية</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/92943" target="_blank">📅 14:48 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/92943" target="_blank">📅 14:48 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92942">
 <div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">عدوان سعودي يطال مطار الحديدة اليمني</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/92942" target="_blank">📅 14:35 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/92942" target="_blank">📅 14:35 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92941">
@@ -1270,7 +1270,7 @@ https://t.me/naya_foriraq</div>
 معكم امريكا وبريطانيا وباكستان و تركيا واليونان وإيطاليا وألمانيا وفرنسا
 🇾🇪
 ومعنا الله و بندقية ابو الفضل طومر و الشعب اليمني و الأحرار في العالم .</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/92941" target="_blank">📅 14:30 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/92941" target="_blank">📅 14:30 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92940">
@@ -1285,7 +1285,7 @@ https://t.me/naya_foriraq</div>
 <a href="https://t.me/naya_foriraq/92940" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">قولو له الرياض اقرب</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/92940" target="_blank">📅 14:28 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/92940" target="_blank">📅 14:28 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92939">
@@ -1293,7 +1293,7 @@ https://t.me/naya_foriraq</div>
 <div class="tg-text">🇸🇦
 🔻
 مصدر محلي لنايا   اكثر من ١٠ انفجارات تهز العاصمة السعودية الرياض نتيجة هجمات أنصار الله في اليمن ..</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/92939" target="_blank">📅 14:25 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/92939" target="_blank">📅 14:25 · 16 Mehr 1405</a></div>
 </div>
 
 <hr>
