@@ -292,15 +292,15 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-17 05:04:34</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-17 11:42:18</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gWKxNBcr8_fLJI3STggNT5OBB9q8jMxY_TgCAlstHmad4k5zQe0QiK3phlOynoImkIC3J1i6sq5GeHuPVdzn55BXGVqch_-7bF1mlmOu353ptJcRbReletC899OyNOKUJodPzLw1Rb9j8xOx9apP-pa7mpkyBP2ojBJOMDVmI1Z0vuFhaYAbfzntS3zK9--oiQcMb480U47Mc2XR8RXMhMybDbRngz2gvFYSKTeVHiDDUjx6GdYKW7MD7KJrMU22Adbjc4HvsDnRJi9hI7SriHuLIRYvHHiwJbokp8nHTboNU6sQWKD-Jc7VedyDSHLfcDA5cdl6HIJIDfU1LKKWZg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GVTDni4haZjR1oAVjY-IinNPdjmxyuDiyvoL7JP3RuDdVC4rH3HTJxMailTL4uIxqlzDY_9BeQLrXoX1IBsdxXc_51n91YoQPRQWfzkL2-tlo9JxDPQF1z2vkGJj3mef0gvS0UXoOV30toTgtjD27Y98JisisTkmutskoBj8zucsmqlcLjdw5YwvReY2mebio9H_zOxeXWbBG8jcUa0iAxLlpI1r5Oukxw3ijxzN9jJ-i9vNb7I3XdrRZw-KAnj6VmTT-OCUxHb0yXbML0EXQr4nNfRPg_KlX-ZftudJPFcfVQAAtPBC7VVVx5cX3SDa_HAPMrNvDcp7S43lKkDd4Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 GLM5.3 با رشد خیره کننده ای معرفی شد.   z.ai این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده    @danialtaherifar</div>
-<div class="tg-footer">👁️ 502 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 504 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-951">
@@ -311,16 +311,16 @@ GLM5.3 با رشد خیره کننده ای معرفی شد.
 z.ai
 این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 492 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 494 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-950">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UuWhWS9kFW_I7Fq5-2aXgKmfAOFQU5JLPhk0il8P1prn3mGHK68oD3sRYzNrTPbpxyfNLsoxJMnaN16pdMkPY5Qs-4-p0FC1jaWYundWO5lpGcp6woiEkBdj0paPB2Dap_gXmBTkvCZ5pTc2EOyQ45hvYZ_exILzC1klUwKWoH84tYqcWbDJf1eYxEXe-qP3OtF33Ty8qVEzRmD4p_uE9gEqsgKnuL6Zt0yKek3B6M9Nr5iX7QPlpboWWE8xbj3g16f68rblWQPguwfKYtfpLWw8Njm8dhS-b6bLAVz7Gs7AUYVV8bsHJ9zHI1Op82Exncgg2ErN4d-v8L19m8S56Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ejQ-PjaalsyU4rpXs2jBIRejgObsqXGlpX4OTAMtsd8HDOzyjz4sDoIDH8upcdiDO4PeG-Sb9S2Vu1D-wRRw1henUzsiUNNGwTMjSaCO_HH8Hvm6lCqeASJKd-70XYKubPtXq-lE7g0ddb2JcLeniKuBmHbGbxRyANtcRIWC5TsW67uwNgdpOOs2msRZOVEGltr0iITGw8IhzeyySfI8Zd9q3OZl7wPEEsYpc5X9UhPM1LnQxp_QIAO444_Ib6Yt3_2zgHi_mVR-kb4uKSqDdPm62O6EDXf4YcO_3OQ0OY9VZPN-Ds_YeBuMTaSFqIvlLq0NGtFQhMk17RRVptcaUg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 اضافه کردن پراپرتی های سوشال به سرچ کنسول اضافه شد به صورت سراسری
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 670 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 671 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-948">
@@ -334,7 +334,7 @@ z.ai
 دلخوش میشی که شاید ....
 و بعد با تصویر دوم روبرو میشی :/
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 749 · <a href="https://t.me/danialtaherifar/948" target="_blank">📅 14:52 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 750 · <a href="https://t.me/danialtaherifar/948" target="_blank">📅 14:52 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-947">
@@ -576,7 +576,7 @@ Google Discover
 
 <div class="tg-post" id="msg-929">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CDypG4OCYAErg7PpNjedM3KyYLNtP2qgYm_FkZrI8Icwx4-iek0k8XXuU-KlWctIKY6vXm8VuyWeTKeUxB6k63gbZc_1KrbBS9mE89_Izqm4QgRfIyOoO6rzS0aBlPa_OKsElbX3VjcsvVROme_RZ5-XzoGl8MXqJUOQ6FunZRINBS4g4k9_SQMlFoeqhVWnjA-QCAHcL1U1aAr0J1eurFGknFU_PKOy2nl5HfB_2FfTIoioKyp4xfCoMcGSc72VqNoitLGVlgf9tg-Q_CSPsy__-xSSnqd7OS63eCASe276UKdOu3gwMb7y1vYtmtrukLr6-zUiMvVfvV1kzQDOpQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Mi2HpZV6beWku2MyDkl0JXVY8fPLRN-W43SpS11-njRiB44d2ElJHU9tOATIeGMo8SZ8aijvIOzZeCCjFpc1wJfQiPc-cV8LULCB256IQksB6I_eKWpOoeo6ZTml4WpTMI5uZKw0w_f5UKnQAbeiDxkzQKX1W9a1hEpEsb8saCLVlwk1ii3IkvVlIPJrltsMjktOACPpyRr19gdtaoAsPEvPvigZgklnigZGZiB8Ttu0xewK282-385lT6OnD_uVbER0K0UYIq975F7VhPyPlMga1Vt5LIIC6Zc0tO_yElHqlrpQO-K8l_tDz2bDv-htmkb3SvdZT3eJAjMDQZMbzQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 آپدیت هسته مارچ 2026 شروع شد.   بختت ایرانی...  @danialtaherifar</div>
 <div class="tg-footer">👁️ 1.24K · <a href="https://t.me/danialtaherifar/929" target="_blank">📅 13:24 · 02 Khordad 1405</a></div>
@@ -590,7 +590,7 @@ Google Discover
 
 <div class="tg-post" id="msg-927">
 <div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/efRi-aENixmNPDRovilJfcKyP-IVwrenIci8MFqqqgpEXQrfZk-KXQtCssXsD8LronNCuoFKCZ-tKQXFz9N_WwHIhKx00t3rAFhR_ByU5UG5k6zGfRaj3_2RDDzkC4CONhkTYA-LAsXlf1_fWXQldGEu4p6UyNyCs_19tXOZCiXUBr1IM0NAl_LexY4dKxv8buOT9gfYre_sfKVIsSOKSleuhL_jlZwYPdIiyXtsqtBjqNQ-cknD-zJ9s0TOqqAyXah_D2PgwgDC8TbjI-_5BX1qkqFXkjsV4P81niUyDeY6mXHTe-C52Vwhh_5wHoAjwc2NGnS4PvTp8FPwErNCuA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NRkxLB5fLC2GS95EFFXnMaAMpm15zwtEtUef93mrHtZe7w5w_tZ81_LkAwtUrDk8f_Ic3nYzDuzRFflYYYsb0Z97NhmZfpdvA-Lt9wuBRdsi3amiAL5MOmKYGJjEqm8-saBsAR2WNHBxtUlmZPGo6jiCkia56JPV-gNfA5gM5WLxq9mCuanStAGoKNdTGiCvgt_iw5gMF6hcF57aYzMQGF3k_bx4-BoT8ZwGPZZANe69KglciaBa7z0LOxzmJemOVi3uU7RUa36YJSsWTPkEvW10QsMOulzGBQ9Y0XnLW_f6ULEDcuY9BW6Cz2IH31HsD-PSOMB3rUA5LSfq6fnsBg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده
 @danialtaherifar</div>
 <div class="tg-footer">👁️ 1.27K · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
@@ -607,7 +607,7 @@ Google Discover
 
 <div class="tg-post" id="msg-925">
 <div class="tg-post-header">📌 پیام #76</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vO9URKdRBZy_L5RljySPhuu5dFi3FXEHRupgIm2L7WoJ3O2f_bTHOBpkSP0nHxEtSfUv4UVNCL1pyxqI15p6LAUruC1qGe8W4mm0lhZc10W0cjggEipSFUwguIrMHE4Dy2nYMH2BtTcYBlOQOnvhygkinW4x75tlIDuHdBlPxbE_Lh7IJ8mcvHQHI1KPYcjSG1w84ItC-STtxaTb1Gd-afc8GMRCXJuuQZXo5CceNS5QH-O6dKJPZ6OulSzFDKijdKyYYXvm9yABrNQq-Orc8GntM5DWYohqsuZhKd4Em9fu0BnxldFdvIYMT9_aqKYyS2UG2YOQDpsWfLKfuxFEcw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LJu1St0Qn_27vYksJnccE8IVfJ-FBMg4G3SkWeP8Bsht9SoszNuuS08tMlDa6pUhH_ws5k32L2_R8lM6FLzbzHzCPIpP46J_0Mh6PtPy4RfneDI-Aycg3ANgNL2kp4nO-Io0IyAo8865e9qmg7oNRP7zsKF6nHkEpsq6MYA1lLHUon91UBQJtVzb1OjSHLsY7Cc0o_8Q6MjJJeg9r7j7pYIgiuWS6TdFgEFPjRmKWBNvoaD2mHv1kIHwzmvto9DGRKSlxzF_H4xpK5xHr_szOy_BsJeXE0jHd4Sfv5KddGOfO4h_XjrCrptDpfhFQryurLv1jYG73PITFSoYRpQb3Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">درود
 ظاهرا دسترسی به یک سری دیتاسنترهای بین المللی برقرار شده.
 @danialtaherifar</div>
@@ -616,7 +616,7 @@ Google Discover
 
 <div class="tg-post" id="msg-924">
 <div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a5xdoCQSrFlEt1cAJxRLybyhLhb_f3PzExMLn3hY4UQ9V8LLplOMjQtH_yYXrHNMVU23WEnWejsxcCnvkkszi4MjRnNhnrLxxxhcLxUHnnRn-ExlIHWXqsMR7T1b_aJds_aeTxVv6H5dVf5hoON-GeiWJqFwHgNHmkmMF77rFNjA7P0nEV-nHKQ1bfE8J-bbqU7k0CfXsGzOFq0pNC99vPmjAxmEXdqo7QLJ33E5B4w0kreMk60utr20aNUtWQZVU7GwqaP_htCHJuvSeF4ABVoopdn9kgzklFCD2yNL0Pmjwrz6gQHP8h7vvY_Hjs_3LrDBpVKib3l3Srs1QuE8Mw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ucTqaTUZQPZI4lkDbiipP9_igr6t2V3QZvzLxpNSqHtpNfbgpJu6nqznoL8icfHaD2np-eytmqNwiqKahvdKZSWmh2Qe6sceUBsydyQ1nbn9QfQ8mPleAlgCaWt0XBNJh66BKO-j1pUV8CLkT8354A4ouFIC7KOmTEFMZiNeZWlB99Pe4wI6osvyDrnhQ3P1U6F1juENfkktbOBfXBuTPMQEUeYbbSuxxf6qnkostzgVxmpsU2xlxE8-JiMW96KXL9N5U2LnsMhFK2zvmxOCJdfh-q5FanWVbP5Om8AAtw-C2V3aO3LVSEr4x3mPuUsJcZ_nnBVn42-VRQcs2LLVlA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبدیل ضربان قلب کسب‌وکارهای اینترنتی به یک «خط صاف» صفر...
 💔
 ما کسانی هستیم که زندگی‌مان، تخصص‌مان و آرزوهایمان به این «ریسمان نازک» وصل بود.
@@ -637,7 +637,7 @@ Google Discover
 
 <div class="tg-post" id="msg-923">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/m3iJp1ghW1ATDS-s2LDpX_HaOnMnc9LEWiIP3EspubJQ00GraYQjo_MBCGm910pehfEwH33MuEUA58xPKAgTLyZWokVePJb_vOAmplqLuXzKHhY0Fk37TnmIvNIzGW7V1Mp31fOnjBallFgxq6DQDUDvICN6IDGe4-054G2myEDTayODsXH3frh_kcNzskx1P9NWaCpUUhhAaiTwm8IQqXhFwVVEyrN6G3IUYXOqeTD2d1PMdfMNEG2ZBf56QSyq9b5ZyVCWxIjVsFtohIOnFSSb0KBcqu6cRHk8Sd3s65VYOqPFNPc8_PDtWaUj6FDYwRTpWcqJWF88TPCcGskpoQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XDS9cJp6kJLWx7THncBw2UhFY28-pW9awV9lZuyDtBD8bhkLO4iBLpPdn0wRtlDknn8S09OmQLA1MictTrF3aq60nau6P6KJkGNEoMMHZFe6vvr4fh2TBnCmQ_d6UPrIdjooXa3E91xXqZ0VRpSZbGQheVgw3w4i4QFvo6898GHxd5KUvyO-5Y8CXP-pchM6USngRKdjVCnSzEKyt-U8nS9JjuRsdOuRWqyR35CYu5UaPR0ylQLmLSMkPIMfjvoH-2DBq7hVSExSBVRlAftKgkIO5Tbbupzj0mBkdIP7fOvxVxeDx9S0s4D0CqeCiJ3I9T_WiUiqwKcEIerpT-ECYA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 آپدیت هسته مارچ 2026 شروع شد.
 بختت ایرانی...
@@ -683,7 +683,7 @@ Google Discover
 
 <div class="tg-post" id="msg-918">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ijwmFGiSsD8bYOP6qeqVrtgBQrTzbuyIiP5rZDnqFmK_iLdeitjnjTbgTlAHle44zDglF-mdleZuETTOs9aP2pzCuUCcXG8V03i_JxIXHB2QzoefSbtN6m9dyQGFHmj-GmIWOj9YG3Ti3ENoHipHE1BAuMGQ-i7Vxxb-0aP8xwfPE_HhsgevQbVQ3aBvN_lbomgtIk80GrOarZiseiU34VipTezp-n_K-RHywZgz4aYJHU7CMatSpRXoMjSN3huFDjgzuUEUD6CJSIDxrqdDvdfD27IGWYEFCIRHJ0cJWrIB4k8r_tcP5Rc1_Gg2xiH5ddg8qYo5lNcYOcewMserLQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ajp-xY1s-2Tlhsap9_lFBHoygmJKiAZ5VmrHvft13YAQitzvf6TCxjcrIx2b9Sy3DrI05-L6Ti8lkQlJHdS7WMNmKn5oW68AJdqH95yS64NJnzig6fT9wALzffg3F2FXDUY9hdw6dtN0_1nVEBfYyt76nYJq_OPXEdtBVLy0xd27IeXIXy61HtNLQeW6ug0qln5JAqFz73ygP5Yr9NtA6WgOXNHlq3kosvYl_AYPe0KSOWIhqTlbbjfjUFSVO2LAoZGza-hPlf3obvxXNg1L0CUo-eAtUwBhffQPuVUBm0a140chFKkq0owDzDPjTRD1f4ZuPB5r2kdNZx6QAq8J2w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 اینم کسب و کاره ما داریم؟
 با هر ماجرایی باید صفر بشیم! باید کلی استرس بکشیم.
@@ -695,8 +695,8 @@ Google Discover
 <div class="tg-post" id="msg-916">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Zn46-NfGmItaKZm3ac41X9873t5Sqga8nJhXt64HmsDJpgk0Vr6DBL5xcHhfwKUjpA1-ej2FSvGu8ik40xcpX0YsAmOwfIv_DsPItkUj8bs9uhOJqRUxSHGr36oQjcb420L2dUJeKzAbbNLDQtpty1K_41cef_tCCe-KR0Fb9d370n9acs5RiM1jxAC3WeOChiqfYiVGRP1OGfeLoRaS73xV5hky9TgVXM64LMlf5SojQ2ObEV34_36QIn5G14LwnHEe_Kl24Hba3wi1X8D6nloUDLiy_OWTM6osADQsm7OU9QOdMIH2_5WC6U8_sLjs-BddC-qm9PU7ZLsdm9Loig.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ctiwWgyEDN3c8zOcQBz_4uU7gnBfirZNuJNGq9wDXpSnLGTEM7YIw_bOeu4eraPeaUM7rD6l_ljQL-DVlNmvRURefwZQ04Z95LTlxGH4vsTYTSAd2-4FbJ6QXcriltkluE0as09hailvySj02o-NLek5vTUMw4AOHAnBRaHPFstTvAdaL85BDzerIzr9MFu4yeSZ7jqvqNx84fcWO4f4G-IZMF2iQnCtEio17VqwDljjIQuyXoFu-RQYYlDDjU9SoEBdAIZVE-tzCULF9axHO-160-d80fuRc6wnSgcW--ZcWJglEOwg4RV234su_x-0ECQkVaTKxq-Fvt52ZzKxqg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/TddfxpAYQIKlVZI92fBNF2DVToOLqV4CxYIhxBfExCYqHhoFYfg3-bjrkVvCTFQlYnv8bVrngk-mfXL_Kng3MRhu79tUnJu0EuL9K6QeeciUbMCSaJR9O4QcOC9IwGZeNUDHKiP9wSVVjwgT4UZgzlUTm1c_fmFuHnLC03cY-1RPwJGAZysx-4zONf5zJjtYzuSNEgNbUMxuW6Y5znqKCnj_McFv-iBBxEJoDN0vB92urPnK5LuAtYOttR46sKjrSXcfVud_fYFtQgL9ZxoaJ01RMfRZQ-687NnjqJoRV_1hOIXZ8_hDZP3ICvyG9no19a06kXykEL1eMNUUR3k3Kg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/vrUUV8MKjDmTke17ic49BmMHMLgPXNspaQHH87KgXEWBkXnqbcm_9fc0aeQU4PP-_6peHCjpnJS366vailgDoQvXzFCp5XGtPp6z4mHtDdEz5DFM1uPUygzTmWpQpe5Pv34cWgQ4kDvkUGwVKnwIllGEHiQrXzkCVrzhU3017uEeV_J9cGtDI-L_U1rznRKSb_BF2_6J0tPKauA6M6nEv5H4VMHup3IbhWvCLsVZpt5b5jC62yaw__RsxR_-T_W3TpUoeLe15gAYbj96RgS9CzL-fa0wo9rrlQxruvvuWso2G_h0Gg-aoA_rg_8aXi0KcYSbEAefZjiHJaH5VwNiEw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">مقایسه سرچ کنسول سایت های میزبانی شده در ایران و خارج از ایران:  نکته جالبی که تو این تغییرات به چشمم اومد این بود که سایت هایی که رتبه‌های عالی داشتن بیشتر آسیب دیدن و سایت های رده سوم در سرور ایران هم موقتا رشد گرفتن و بالا اومدن، که البته با توجه به قطعی…</div>
 <div class="tg-footer">👁️ 1.29K · <a href="https://t.me/danialtaherifar/916" target="_blank">📅 13:01 · 10 Bahman 1404</a></div>
@@ -704,7 +704,7 @@ Google Discover
 
 <div class="tg-post" id="msg-915">
 <div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hOvoz5M0mKjUB1qxulUu4F1Sbb3ke1u68OwGLYT9-TaMPgx7tif2B1gzbh-ioVADR5coYjAkjdkSYqpn-iqvoGfPVRwH0EeJJlxdY0NID9_lgAux05wkAaUHb2c2MuqU5mhwWeQrf_HU-I6ES57fdDg2lfgASZveWtN1JSQSn0tTEMguO12l81OsJxVEOlQ77GoYhh6Bd5xt_H8dJy-DK4Ytb5QJwuiKx8JFHKWoS3oPiQ6Dd8D9dgusCBVSstwlxR0p3D_eLWFMPK5Lik9vxh9Ihq3YFcaJcMmQpPwJ0Oef5fEXbDoJLVsDTucII0wadxxfOuuz4C2bHkkjgmIC_w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DPdXyjhE_dRXC9T7qWVrjf6-U6njDSh7nKwFzOXt9o3gbLPnJbd7hNGFMEI5BSCS10nUi4yIzQUgvGDLZnyhhvJ20tfAgwfXzfl3dVom7Li_XzyNcvJA4w4laYd4gCB9Jkdf51C_OyU3qF2s87wIJ47-cKKr1UDstasG6cKNsv6NsqpAR2fAeyaK5xKZyo2txj5IrGSnNCSKfpFamaklsBNTUpQAk6fQ_iP0GmVEGQCzL27eULANXwaWsPDq434_l6_APB41jCm5dHpuzw0_B5WlmdH7TpDQcGBw3SKmKJ5qaOfp1-neFPjBpQj0a-Izq0TNVU5vcffXpfY_ju5RVQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">💥
 دسترسی گوگل به هاست ایران باز شد.
 @danialtaherifar</div>
@@ -750,7 +750,7 @@ Google Discover
 
 <div class="tg-post" id="msg-910">
 <div class="tg-post-header">📌 پیام #62</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/isXOvFQC_m87itvEW_w9ViIDV03Yt36f7aSEhCS4136sdXcxBGHQabnq0WYpy46K3ptIq5xNGMsUCgNydtNLKwgpzRLJJyKOfLgAeOuakI2FAmvo2QlQAFdvqWtrKYn6Ijp7cjhxUWl7QVEyW8pH_PcRKDdQ7V5nHuA0QJ5s5oU3gWGHGl_PM6jKUwbeeWWPkAwJ4U4AnSF-BWd462vw4zJXzj0C_sM4mIxsvl1AOJ1I1UMfECtZ0xAxrn2mhnartBOzLBoFusTRpN5jqu_1O1lOeo8H5ooTHuVx0-BJQeo5k7fSOkMH71OPCA-K6_mGqhUF2lcxFh0IerOIE4eD_g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QZT6N84qhiPEwQiBhLgsqyoaVV62lhtBPAOZY2nIUp9A9__J09mPejkxLxwe07MJtknih9hTxcqHmyZD9w4r285Do44zJaY8G2eB3ie2-Y2amz4iHlnTxeTiHHGP_H-nZTPQ4A2ENRiNgbMhDj46PjClJXbUt87CnRGLMysUK4WFe0-PpsB71gbbgG_sgN4X076uMTyxaIsJE2oebhVsZCMpc2asG4gzcvXm0Ov0SPQOyixbeVvzdVEg8CeFMsQYdyLVwAIbfq5CYkipCyElhvC2Nk_cUc0QYnRQ59vNW_YGOGgWE99NnPTJlS1Ht1WdUG1MRcCmXyI5A4rNPMBNFw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مقایسه سرچ کنسول سایت های میزبانی شده در ایران و خارج از ایران:  نکته جالبی که تو این تغییرات به چشمم اومد این بود که سایت هایی که رتبه‌های عالی داشتن بیشتر آسیب دیدن و سایت های رده سوم در سرور ایران هم موقتا رشد گرفتن و بالا اومدن، که البته با توجه به قطعی…</div>
 <div class="tg-footer">👁️ 917 · <a href="https://t.me/danialtaherifar/910" target="_blank">📅 00:38 · 07 Bahman 1404</a></div>
 </div>
@@ -808,7 +808,7 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 
 <div class="tg-post" id="msg-905">
 <div class="tg-post-header">📌 پیام #58</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/p1iZHBsV4QZZvTssfXr3hbmwe09FfhMCgKYUK13dZ8UU6BLuoVlk61fgmtdBGGbmBfdblMPk3FNATdfBeFobs3ssUr8A4CqAfOSbz6bR1vh1ly7y0LHG9vwg2Dp1mU29s8GPAhuhyOBNompynae-BrnF6ABm3DIA1jQa6Ti-9q8euJjNmtTB5b6rf-V9TwXdjujfIcVFlfZ39ML18Lfx7j_6H38rFOPETlrqDRZSIUIn9EGPPiCr7NFx-f-TxV6RcnXhKqWvUQ9kdrJfTHo68fRL9t62tiJDtp_uoaKeVc_a7uxFM0uuRXOZ77r-Ys_pPlTrUUORrhJwm-DXQW6iLg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IBcdUrBd9vKhvgQ5VtSFQ6gt6-ZqXW9wHulT8tvpiCGjioRfeUNE6JJntKj3ZKGygvHO64ZthckRuxMS_t3koquxcUHuO30_zX6pupcg-nFJ4nEYeFVclJ2lTGoqA3yYte-30e_FW0eLyZzH_UlNYY3inumqK9-tiMhJqAdlM27Xm484DB0seRrPmL1LbEbnkUvEW02a-AfRYyHbzbYVKF1ogRhImQgm5qKXF6cwTTBCbCKVfNup2-8SYQIzQ_rGyvsNjpWNkq2Vj-wFBMdBE7zC5R9yTfkcQZBg9Uy-QhNU5a8vEUkrta5gr-ANNeLn9WBDsS7HXn6BxtEEiuaqpg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">متاسفانه اکثر سایت هایی که در ایران میزبانی میشدن ایندکسشون به صفر و نزدیک صفر رسیده ...
 💔
 اینکه بعد از اتصال اینترنت چه رفتاری با سایت ها میشه دقیقا مشخص نیست، اما به دلیل اتصال یک‌طرفه‌ی گوگل(و در دسترس قرار نگرفتن سایت های میزبانی شده در ایران برای گوگل)…</div>
@@ -831,7 +831,7 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 
 <div class="tg-post" id="msg-903">
 <div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mz-NgeREBTW30zpqehiHOLAqkdZh3zwyXR6WgT-GYCipPSDwG7UOcybEZvZC8Y_BDtkaMwsBjPO7R8nqRkMcqaADTr33zxZXwwljMvVi8TPr3vURnbesX6SCNF86cvC9ERbyjk6MP0NSjeO_FM4vPN1dwiYiRsJLMo_29ZFcaVvQfxHKDDNi1f79vhILS7O9tRRFI5oVNcEuLpP011klrtXqZ1aZgVirjKUcI_WMyYSCg2dcYa27mjWCNRxyN-WLr_RPUtq76BkeWa9m_89OrzGIsWZzt8adTemClUpOLyJ9o7GSQm_D9nzZeJhd85y5VincVTtKo4elNyYLF7jdeQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JfhWJ65hyjqY87HmwDcp5KutNB_Wpp5ZFcKFhVzeu9KNQO8usvznpxRldYm5bgW6YHPwsHH6Cr2NGfe9x99fM12vu-pNuaFuTB6zsw-7Ii97MB24XRO1E2Tu6rUscIRHnZYsQhohOuLNY8W7LnhIFDdAxLW7PiqjkHf0Yytn7Pn_xeNsQWZy6GZ8IWs9QXiNqJvSMKsN2UxOa-QwvG4f_-U45whyv9yMTsrFz82bBwM6NbmVN5onWKr-6Cbb-H6bjL8qqNsANw7aXx5t2Z5Y6634dNBiGTd5DXckU5LeJTlVYf98BZKMGGsxZQ_jOhWwfBvaUxBn02SH7YwQ48bLmQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 تایم‌فریم‌های هفتگی و ماهانه به سرچ کنسول اضافه شد.
 از این به بعد می‌تونید روندهای بلندمدت رو راحت‌تر ببینید و تحلیل تکنیکال بلندمدت روی نمودارهای سرچ کنسول انجام بدید.
@@ -843,10 +843,10 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 <div class="tg-post" id="msg-899">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/XkVihrY1M_iPGCoxKIsM4RiPtflEMPf7N9wqMfrK48rPlkcfVfNuz18Th5ONCYMUreV_AOnfatfJKyUVGf54Hc2pktzWqKWxEWe8JNLuZy3JOz1z3yy820R7v1dxUWzvKARgMVBYuYT5eNd00EvyJinhV3kvSnhKA3kwxtOvVq4QIbC6rPQMGoSeWT2Q-9oc4n7ZjJJHERhhE5SGS_FUWHwyPSX2I2TX6JdQgR9pOp6thnkfOY5Hc15_UkAnwMwLlyOvXsfaChqk_t0HaQIXrsFOuzt-WkTdUQJMDXEbyFGaW9aqpvzZvpQ17TmSudqw3yD-3Gf9ilQag_CnMHdRfg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/i2YZ2lSPg9B0Wy5I7AfLnYBan17E8O3HtEKlWoVlUFXuvIMKAyVN8cDsjBE9lp8iPqkMisbkVDv7bVOKD96jO1XodWPsUz0_ttsSzlJ0l9cSxpN3EHVkL9TmhioVpagmuBLP9oSuCcNvIlcTij37bRbr39pmQ9GU_s0m8DvTGIKx8qsomOnx3cWcpOLzOVRL2LoLgNmixNJ11GlX9SsM1iEJegO8AUHBl4Jkl0Uz8VZ5GygPznm3OUsAq2i6ODYMdyEVBdte5XQRNUbygaSZ9oaTDucoMey6vOAUG5PXD4lrS47q_cvNAhhlKxoRFHpyzGxyrDxi6RfI1kAR50wkdA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/SIA7L8pRoVcJu6sAtzZdlkkpRokR7dSJdkeeoyWNtKbt_1c92MqT8RtqaBfQBLkCYq5nwptAn3-zQ43eIZevh1uywnZf0nauY1hwBNsZe7D43goHOk4MJUKMM2uK9IFs6YUI15anWOc-oU8-V9gVBUIa7z2y5oGfuwK0IOt0H05z5ctVzsYkXqWogpy9SxFX38J2Qe29d69193k43xPKnf6wdvpk-EXkAhOg6lchT3Fnvnc53cSTBAy5QF8CL1NP0ATD5ePQDgVVAD6KzgC7NkP7wHZyq8NRHoUioGtOsOp9D1dzhjgJHrhCliNZDec5qWegQv0JH-6Qv2pSO-D1AA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/hKnfsgWHHQeJzUQdQ3L7LKmoek7d0zkqz8p3M8IMcw2VkIqJtf6--Kq5ApdMRUC177rH-P_Of3HHucUpCrykgZJXOBtdCbmAFFqnZ56w8Bg3vqkS7djNctGoUq_CxKr6SYIDL1tPB_bdyWiw2TYv2HH4dOyKBwaLqq6PWi9Sz8VdMaHZ3Vhe29PZplosZgGszRgwyE0d34OnmPnGkAo3m-812m5AkvQ7SDiho02OADrYurGB6-JYHLa1K8XqtA__AiqsUyqrZBu0BtR1o1vvPpKAAGsxekeKIwHCeGfzzqx-hi4__5vbWp8P8IMFPWAi4j2q304-N1XFrgAVm6RVlg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/b4h9IZev2PDzaj4fDxRycWdB2CeZ-ESGeFVWaozXlqX42Au52Zqdpz68Wi43Dipdl-SATqZMVPxvaaqsz0hMnOvqWk71779gOyHDyKCXGp7kmoqdrSCLiJDC2yB7qy0J8raOyPhJqgcP62KptbKbxsbqg4hOIGHVaIV7XuGR7SkmjLaWP5Q8g7jh5V4g87CqYEsONTW9wKlCvhKW2LPuN0AgjclJo-g3NniG63OsSq6dkg8N2PJKklDcq3PgefFDFRyl0eKNjSEzBkmgeJev-u8ggs_AiIDKKJupeQOU2yxA0DTvFIzqpgDQGhtqTcEHDEj3-9HEC0FSwtR-EWcmXQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/KN8lyPZrt7Z-AZM_cBQxIISYSvpNzW9pKmrMyQmeUB33IyEVILdcBPNlGixiWieY4p0ZZk0Sp3BzEYDlm2roHstzVa1XCt1US0GavUyW33BjUdc4tw2LjJUarqzMfHNVEowzVuCjDBx8Wq3PBUrkUjCoQ7zR9FZarPsuiyTbHjRBPRcbAzSeHSTSuL4tJ571evlmpYh_FCMEMcn3gO169jv3IMFHZQndswVA1gkSy1EGSZOlWCVFCQK0Vkue_uG7QsJ7OLVo0DIraRLg2D0q3cRRUYRMkMcYUq27qL55Hz3Hpna0fWWV_poRyFYAJdfV-NYy5_kaTj4zhPU4dkzHvw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Ikw3K1W8rD51GYElQTp1YVSrA92CPMQTV8N2GGAr_cejvziCA44BJqA0hC1Pnx7hYQLjAfLBXl9rMjtj_5TNjm10WbqpaM9F27vt0FYsPDa40NRmI2qhuKqTyzoqdZl0N4oxE8G5NLC3wzmjHE0dVpinBP4XVI9cgYUT_7tgbtjFhX9VicM_R0_bi3jaBf-gZKWZvwk9112vVyeQYHX6Z-hYdawBI4AWVO8hYnhqLINHz8KT8tB2JdVVKILI-Qb04697gcuynl-u_ijEt9pnwPiZYi7RFITLZKs4UY0WHWPS4bUMy_S4k_lr6qMDmuIuq_OysfTw9o-X2k1GNXDiOg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/FejTy7aRlpG2wPaOiKeQmY40V3X2l1CeI5qulxYWA-BrKAUXPi1A2kyWg9kwH3-xb4SPVCQZQpvvJPT2KFYdTvvVf6ccW4tiSRMmbl0Jo-B9PXitk_qH7dnzJJpsSjUo7-1nvh95fSlpobN1jIXuN_oO3eCTw4PX0HfZIX3bkfalYzfinLeoUVdk1Z9UTKu4sUuJMO_vSNYHdY5cznYVZNvL9BXD4iVUhnKri8h72vENjEwtzR7f4ZLM2YVbzMUIP9iFJ3BWUieirYA8fbjclmd3Gcf5PCATRaPEhLogJ2eL92ohgQqaVMC4qabGNfClxoQY0o6eLPlj-f4c8Kpv4A.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">✅
 اضافه شدن فیلتر «Branded Queries» به گزارش Performance سرچ کنسول
@@ -860,7 +860,7 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 
 <div class="tg-post" id="msg-898">
 <div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bmuA41pqBVOPRaD74yHgJDDV3f2zOSagb_Ds1-s7eEBo3jZszk61KH7y3L2CLWINyW90CVqBw88kW_9PotjZI2qt8isEN2ILvEGH_Czri_JBTB3aqPkkTFsq2NvXzPCrp2bbzMbcSLG6hfls8TdVeVZtD2p8QKuqjZonvUYi0L-NxRK0_dVJWk2pTtRVkcoBWN3i3ZIgNvzwnJnEiBMNSt8s5MAjXr1ByI-AcUvh02jnfzsVMSWaHolxBn1AQnuXO9-tcmWU4Sd4B-EcoCs5wmxc2nqLrgJ7W5zo35jUIxgLqZz48O1WDW2Uay0DKrLNupZ6T-H9Ql9GfpA7S_N6eQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vRFCOVjiKoZR7s7iaPXZe3N94LJDYNsG7BEYi-XJV2kEtmfQEs7tU_3wyHMA1H5m3r9N4JnnSpvZ0e9VU_7trIgBq9ziyogPm_h2EstdBufxNfrkFkwThOAXk9VlZUjRFa_xF97fCoUmtfc24trkMc_7g5Wc6FtHXzcRage4SXb4iHEBfiNejK8qsJfUFp2_lGjDacXtDeZyAs2OPmnQVSoxPuy23G2k4bzRjMCMYnCMwuwyb0A9aR1ZijfZZX8Kw363wl8Vysg7AGipPCxMn9t2uoIG1xZ5WOHTFOiBqtqmKRFg6_CI_TnEhDtF6nyKAje6ABckTZxf_ETLGJ2LzA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 قابلیت تولید اینفوگرافیک به Google NotebookLM اضافه شد
 این تصویر حاصل پردازش سه ویدیوی یوتیوب انگلیسی‌زبان توسط سرویس
@@ -876,10 +876,10 @@ NotebookLM
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/3745059056.mp4?token=CQg6BVz4Ed7BvjHzCT64xItdd9GagMc3cGaq6G_Pa6T_aHOOviGEV3Z10m9g3ZppXe93hMK6lJgqf-QxhWkOTXhsB32LRVDSgkRRuo-LzVR4j1kURxST6ljBVv5HxmQknWoo_61a1l0-gAeXeuwLPMawQkXlqsbpSWUBdqhR0gpT9tqLKsYX046Wj-mNLgqW9WktnR-vN5gjP-3_OdRFe6hAZLU410BQw3zOk8S8CSRY6u-utlUGA1C6Eeb-_BFapvsDFzasa8BvIcglHLcbzuJjpGlYf_VYgOmVw1vequnW4j8SsBF7wNzqDeESJg7IKfHOhtJIGo0d0-ajpAy3nA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/3745059056.mp4?token=eWBG_SLgi26CnwU4IqhCa-0s0axb-qGvXXrc1D5wSfvyyWq-8SaMrjQ7K5Pd00XmEHfyh5hfDvLjksJ3YV56Nt7kVzVFjFYMZyiHkcMNV1KTNBMn9jMiVb7y0bZN6uv6e1MeEOh9o5s5I_5gD6VGYbEXWe7M-obyPwrx9xOz2RbxF6gBWBGGno3NgJXicQhGhqDPCWklu9FkhTCUkR2WVi-pEPrSUWMtoyylnip9o8MGJ0rFkbDYQv_ibcyTYYH9DnaUy2lcJjq9mZZUZWX7ATcEWYtExKC1kIaUwvRbwtDwc97hGJkgfUhgDxGsiXzDWwsyMU3j_W3al6w5yokzYA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/3745059056.mp4?token=CQg6BVz4Ed7BvjHzCT64xItdd9GagMc3cGaq6G_Pa6T_aHOOviGEV3Z10m9g3ZppXe93hMK6lJgqf-QxhWkOTXhsB32LRVDSgkRRuo-LzVR4j1kURxST6ljBVv5HxmQknWoo_61a1l0-gAeXeuwLPMawQkXlqsbpSWUBdqhR0gpT9tqLKsYX046Wj-mNLgqW9WktnR-vN5gjP-3_OdRFe6hAZLU410BQw3zOk8S8CSRY6u-utlUGA1C6Eeb-_BFapvsDFzasa8BvIcglHLcbzuJjpGlYf_VYgOmVw1vequnW4j8SsBF7wNzqDeESJg7IKfHOhtJIGo0d0-ajpAy3nA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/3745059056.mp4?token=eWBG_SLgi26CnwU4IqhCa-0s0axb-qGvXXrc1D5wSfvyyWq-8SaMrjQ7K5Pd00XmEHfyh5hfDvLjksJ3YV56Nt7kVzVFjFYMZyiHkcMNV1KTNBMn9jMiVb7y0bZN6uv6e1MeEOh9o5s5I_5gD6VGYbEXWe7M-obyPwrx9xOz2RbxF6gBWBGGno3NgJXicQhGhqDPCWklu9FkhTCUkR2WVi-pEPrSUWMtoyylnip9o8MGJ0rFkbDYQv_ibcyTYYH9DnaUy2lcJjq9mZZUZWX7ATcEWYtExKC1kIaUwvRbwtDwc97hGJkgfUhgDxGsiXzDWwsyMU3j_W3al6w5yokzYA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">✅
 اضافه کردن Note به چارت سرچ کنسول گوگل
@@ -891,7 +891,7 @@ NotebookLM
 
 <div class="tg-post" id="msg-896">
 <div class="tg-post-header">📌 پیام #52</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cf7zXoIGM79I0VWXUTdK6wfsZrx1qiaf9xYjFLl-Q--G0my00_L94OIncLH3F8MQZpjJfAp3Zxej4237F4uSg0mo2FGrSRF9tnZCmVFURdveN8R1PO0QTE6TJpjeTIWfdleQ0R8C-bAIA6001jvtFInINHJwGNCo2rBIiH4bf7fqAVJv2f9nY-_7BmFjs9GMK8J2Q2--EYR9xIEVfAPKbdgomhgYkbHv_tXbUwcWYWnBQihB_sDbta6BXdi0OxF-6pWoKMmdBRh0KJhg3Mm8hYh57q_2PzOqV5SYHylgzY_xgc6jYuQa_eUzsiv9Yu42Cn-EL1_8tTmqZo9rFAXgVg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vGQ2jqGVvtjXSbJk2vXMnDYxktpsMr9fL7VCIAF11hyvAr4I275CX_aXE3QU5JADksvo0HIDiDLGcMgFCKeogBpkkrtf8gRU9o9anwXdB1Kg-aPSGtLm8s9IraXHrme_w0TBMauNrHk232n0-rlUPF4tU8ECgcRPBoRawa4pDhN-KUWiLjuaWtLl975OxwIjRLriifODTSMjz4JwcjgItZf9dKtKiCzOP_AAOaM8xJOEFYy2bHCFPoZk1VK3mH_58wNGk2sGvZLYd_vP4SjdeGYWYnKRzSW9NqfVjJFa9rnP9wlTVNeWVIaSQmPQg9ooc4SuOix7XtNxGHe1icbrdA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📌
 برای دیده شدن در AI Overviews چی کار کنیم ؟
 برای حضور در پاسخ‌های خلاصه ‌شده هوشمند (AI Overviews) نیازی به AEO یا GEO نیست! فقط همون سئو کلاسیک کافیه.
@@ -935,7 +935,7 @@ NotebookLM
 
 <div class="tg-post" id="msg-894">
 <div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/E8m3c8tsZ0Xdx9-bUvwSSOGaGedqY46XuyEOSx0ywR-aUPvsrrZ65CD2Z9vXn9vWqVp9OGVUPppvx2-nI5hPxFjRzRlguI8ptYtsDfMJnLT5viZkmOUau0e8vaP9PzuH964jqUEqfv-KY_DW3gO-zeOh7SAoWOalKoQGlFe2DwmHEWK24DB1fOHQhhGK3eKwQxiT06C3I0D6HaPQiup9d6t3WqlBMcydhFOHDI-ioq5sTTkDiNKQgzKsDOElFXmAWtMQUNEna4EZvchAlipem94QoTTOxBVFQJbunfjSFtGt3txYE_8lnDTH1titcyVkNaOnOH6sqzGFwf95UDW5dA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UsFcwJa-fBoe5mGxOtcGnSJGzon_rCpwgjj-2Ew41HdByo8tlDgUpO133ZiiBAnBx17oHVG2RT_VYuQSHd_enprq99e6Oh7E9fQwjm3Msyt6AciRspapGauyHn_Q32mvQ0KB3H5iXPItwP1IBDAzh5aAaggk0i8rcO25q4IIjYC7IJu88Mr7ojHQqZwqtKqTvSTHC_t9MXw3D1EUw-XXRPSHisCwTF-ysJrc4oRiiApMbLLhIUZpZSVhrabeJcAFsIXFZ960QYrXy4Q-vs9MhyRtGHO9KRYKu5UbY61Lcp3U86lr2u3fe5603VFuUsNfk3F-aJSa3m1yQKqxKFfR9A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">😳
 بررسی آپدیت ژوئن ۲۰۲۵ گوگل: چه اتفاقی افتاد؟
 ✅
@@ -967,8 +967,8 @@ GFM (مدل گراف-محور برای ارزیابی اعتبار محتوا)
 <div class="tg-post" id="msg-892">
 <div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/K1MCbliLK0SURjIMjVMj_4d8N-xyJ0dSxprSfW6jA4hoH0Q9Yb88L4H_OetFKrI5NYbPQt7SkhVKg0dLXKVtYUh4UMz2yFkzVxKBWdN3Dm7jFwgiK6LW2_S3n7i8OOsKN6IwwBrjWAwFYuX-9v8svKNCcRVJOZn8sr6U0IusWRjsBjJwkIC6WicwUOKqla4lgbD-_zrrkGpRRR0dG8HRrrrW6tI3IXKkwsArNWbTZgyPzTIfif6cyg4n1AigTJFGk_zEWjROjcYPLgQN8QfOrL6pNAoGxBrYsRUaHJqkyTewN70y4a3Yn5q5-A2ReAAsjZ89Yxtdu5_p0r1D6vrMFg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/fDD4_crFKq6YjgztICTP8ZJCNbjRTdM3AOeY_JZQ3x1LLWNNox17XljAnOlcTJMd0Q7RNQmy746jzni_y5D-6Q7d510G3IzTeqESsefsCuZjqCxVdksAB-Hr2uEVP47Du2x3TqZ8om0v6MeqseEY52ATUnliblUgSAElVtwFzA38LoinrGCUaqHIjdLOZqXwM31PIyKbFH617a50Y1tl-rGoY3COfT5YjAzgzhN3lyqwfHbVLu7htEpTFEzpggG5KVZX-VK2FPkgpF-NMUWepvAt5zK3k2miagd1cSG5cfFPdR-3aDcdB-P43c-mHSW2eeeImn18VFsXCPrRTPiqDw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/QTfMbtLAB4yYjvYCQyUDt7SPioKWPWJaGGBZLO4h9YeQlqE7Em1RvMDq9uYsDCIPcoPyanXgeZBnY5_B3gNS4LuQz6YgrAly3Ha75W-QPrMGKxjB43-mwVtPPVaNkvRpPBkXZ4Q2fm8rAcSoAS-n_XNpU0ikeRzKDuDoMG6FJ9pHAg3GR1Bj8EvmkTA2sTBVImSNvNlZxtvxNrD_mLpHcgpyycXQ8XEdQt1hloHsuvOIijJ6nJY6Lhfv3OkUiU2FOexdjoe-M-B8UtMeHzPjr1tTL-zn8qyWUhSeQuE6euJCYVHWjbG7A-uROskf62GcmXUpK98Xei0CEI0lv4u3yg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/BEzZa5dRhOK5JQrycvDaGtiZfdhxxQEgwqa1lwEoZuZgqJIiI14Jz5EdJgrNAVyQxtQ-1udVIYrsjwMPKOfRAR9d4ROsO9wAKoLfbPCsT6ksOyCtaJb_a1ezyQ1zj4sLPDOn9dJYKUwwTfZteB4vkE3G0QlwFaElDBot04leKc_cCKVz5hIL8tpcA0KBMr7I_XkTIY9H2RXaoDjP9RPd-SDNCQ2tG6OlYRnai_SGuvNeTmTyXjpVNutY0QFLuJ3o-J5y8JErzuVLPcez4ovfrIvJRAUi-1zSDNSxncBimcGScmRa19GM8FB7CVaa59T5jiCFO_iBuxkV4a1tuidIrQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">✅
 اضافه شدن بخش Insights  در سرچ کنسول گوگل
@@ -1034,7 +1034,7 @@ GFM (مدل گراف-محور برای ارزیابی اعتبار محتوا)
 
 <div class="tg-post" id="msg-890">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GM3-q4qlyQzMmaAag7Tdg98PIKSaPv5Vtt-9PRllGoBereLUHL_5uNOxdvcsG_Dbv45gJbWDN6HP4xwPRQ9fbmG9To8IdK9rw8RrhlpJJE-kL5A8GizplXxu-WWl0BkRUfsKkjs0Pqkc2WkgMP_duxbWmgnZsP2kaLij-gtFziVMMPOcTakPJ8DNi_NjdB_vae0Cm-QhrwyGuKxAj7DegWsaO2wjbWC15Z6rPDyar4ze20FuGROVmvlgaeVZlPEddPtp6O_XtxBvQoeYXx0BZ2e-qYs-YCZ5PxcKb_i_7QK9hxVOgYxZSbQCVQUdRNxZqUShaLAczF_R6oQutgUHfw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CO9oQ22SSwv2TeYFJAyWpudRRMAFx0BQ28KrzrQSuf6kJQMHGFcxqRuAxh1NbtvTIwqFohz6uLT09W7srA6txXyS04SDFjapIw0E9WSKBZbogi3z7r7ZMXkDc2OxwNMuqLB7q3cIpcbP42XS8fw9GzFUtK_eqvIZFVZRKhsT9hEOrifFfRLJw-j_kMBEnQQzgPDmkk9P4W3FaNhrYG8CZVnNkluNj-OgYVlDN16YHVUGtHnobTYM6xEECM8nsgLrOyiD1t8xLigXls2IOgXhZVUTftlqWoYoQw2SWmnymGGzu0ZMO9cSbTLTfcBJsVkTawhBt51xHcyw2m7wBQz4RA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 گوگل: ترجمه خودکار رو دیگه با robots.txt نبند!
 📰
@@ -1052,7 +1052,7 @@ GFM (مدل گراف-محور برای ارزیابی اعتبار محتوا)
 
 <div class="tg-post" id="msg-889">
 <div class="tg-post-header">📌 پیام #46</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YpxIzf6d5wtD_TZknF3zTje_Ulvpyx63BBWP6App7MmMx12EiJJDy-9u0gs9cY0WxL4DD0qbQvdz_p9jndzFSunzYCzN45qIL5YRfEiiMWfzxzVtsIT7HZfyziRoRqFxDvxdS0jtMChgSJKbelmhdruv-5PbsPsEWG8SQ4sQv0cypi4fJmQL0EjhvStw_qsYuhm9gFQjJqYZ4Ix6_vB_8sqthSK2_rUUMGII4OQHj14SflJq7iPAJxGtqaXCwgK6oMI1BzBiadmAmUIoEdCEcYrzb4Us5RvK2XVlH9m_IFFZlUWMo5Nj6hxi2GJ_hjFRKOQA5QHeI0nso3fRtTsuiA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c9f_wbu1LXR5H3Q9VgTmSYnxoY7TdbTudL432JjAIvn4Jx10AWsPMhVglyBSKUz3xOmhXDbjyDV6IUBw4uHJnb7rewcZHY8FkwKRTIEaqg6ZRgO84ANFkmXq_ME8qvyyX9OYGIuVHuDhdNBWheEoDl3f9GxDxkQ64PNOrxTx5Y38ELhpjzsIo-c8EUcIC72jq31o6IhGLOS68m9U-tIES769XwDahP2yyVtc_2vV6YwQh8bjOz6qJEiFwZRIsrVpE3nn1lduGZA02g3Hz-2MN94a8nzQnWoht11470yNAG1J4fvXyFVEd5tLjh2j9wIlU74Qv49eNZhJkdr8ezUeUQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔥
 نوسان شدید رتبه‌ گوگل در ژوئن ۲۰۲۵
 🌪
@@ -1067,8 +1067,8 @@ GFM (مدل گراف-محور برای ارزیابی اعتبار محتوا)
 <div class="tg-post" id="msg-887">
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/WpTTYLUUcBZxs0NMF6yxoSeAwu8lE69WaUkL_CpFkR9f-HbSeOT-rJq5W_Y6oOiFb0LFD14F4Ki-GzTNMD_c8Ss0wtXHuwnh-U9peyTr6fgT2o8Qo-hTpWBppYsxiSlpzODNBuug4YJnCklFwaQhu89uc1D1YZn0e0dZ5bJU5NOC6KZkrrk2Yr-wD2I5Dz1m4DhxQF19LV-8X-h3m3vH7exxAH_-iadKQn1VZqNPTm8Rfj3j107X-PN_ftcARBZx6vrDKj217Zp6vlSCl-ntU6cSJ36HQOBdd41R0buhHvXoTppFRxhXQY8Ja1ks_l_kEbthIUThImlhRQ7YJpx50Q.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/C-cA4UG6L510qEWEiCZPLFgZ6vM0-egMm_hsZOSBoRWiajb-j99EQFXIVMeV-93vcqYcI42NstDLwUrK8HBk28Hh6HwPcvA3HP4HVqMOg_yi1LR7k_Cx85EgBkcalqAgH9KjWDoZ7ckhyMgabvF4ONgrKrlJYUkJ8knIOGCCG7h99iI1c_0i0EiujbVMXI_VRrD8j-XLd0_qpDkdIx0HRu08VJjEXgPE-cW1R6V7hU2QBCqwl3nBfh37r3VXXVz47a4gd9I5SQX8Za2PF7AFjTbTs16kLPMyYs8P_BCQ8vq5FatKP6tvw0Y7KVMytlONJuZ5NtnzNYB8kqf6UcSQwA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/h8YAfjxycGOwKA5c0XuEQ9REnLY3V8NYsn5GqheyHcttRhuqVyBvmWdNRUlKX4-OCeXRpCOOqVChQe8d-B7650vDSKcRl-nOHlu_rHyc9C1ABJBkIBq7W81ORccGBUkjPulm_NEaeSz5Z1eJbnN63X448l1EEx5Tn9NKZ5aw6cY18mI7ZNTy7f5PG5QKJvMSBveXbqtdZLIr96tJ_sD2gts-pEU9VfqBx-Dm4usq4i8bHNc_bc1_d-EJNvvWxNhSLnEdQ0OZMm7yu_hgAdCJbyNys7d1wagmu63Te-e126o2sGdIZcjn4CEy6t4eCAxf3bqsQvHftKZbNkOJTuqYIA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/PTkQ662mlJQZFKIiZHDDtvrT6xfzvEfahrDr1oNMPjVcCA4AMOglt3kQUQyuAa_aDXwqxcEWCH5u972WSKzn2VTM2R04r_TEW_Dl5gvc0WKk6fhSXjNFomXas1RW-laUuGk8y3TeBScioynTSakM5xRMFH0T65PYKy3ms3-nSguH_jZuT0CojlzBvq8wIrSZ2QilPtQhfQIC4Oc3NI4zMOYr6EG4qBrRFEfCEnpKeg_o-OnkxFV2JAwQhsLxJm9Nqx06-07_FnomcMg5aFVPzuno8JEMRNPemBl6Ra4PO_aBfwX4dv1TxL9CeUrtrF_3J_WB_PCqi8Y7zdOoP0VYoA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">📢
 آپدیت جدید گوگل برای داده‌های ساختاریافته Event و Recipe
@@ -1100,7 +1100,7 @@ GFM (مدل گراف-محور برای ارزیابی اعتبار محتوا)
 
 <div class="tg-post" id="msg-886">
 <div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/anQADgI6P_NXp8cKqyvZqNnEJDhZvuUKnBfYTvpH9CQJv1yvnNlfE7GH975Zkmnqp_aQhzMLBZGrfohtiMgLNi2CZmCRJssjv-R-1M31utiyQ-Yl98U-cF0Moto_bj3j_OkFPlfrpRdzpNhtlBv1PhfNNtWbLQkntCNR1iF64c4b0w7-XBhqcN12sAY6SPYljf64auTNA-QcYhJmmCgqvGHevUbk6bdrhTJD8MWmn65n4BW5QuKRMHmwZF172CY01aa9a-4AKiRIlgleX9KLx4XcaTr_LZKzA51HCQZE8k6iAF_Z2dwROSV_iKfPgGEVoudXkJY2vO35PCaOqTEZ5g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZbfNkdSVVLJpVYyzdEJwma4jgspCgNoHuaUZ739jZkF5UDn_GJ4nZjpYIFa_llI6dQymHTyjfceD5mGvgtH7tTi5pRWxho3mfS8bNhyr2RJclJHxbYs0XFEsD7Llu2yHHMcpypH-luRC8M-1qKkQAXOSUiLPOWRM2uslc3nvl6UE0VcVM1gRZWsG9bC4xcI8WnmRjDSKovVKfd3Db6vqiucfwQAQL-Q3p2-1HHaaaML7V8aG1-DicV0Jv_vWHgYv9XuahG07m5LIftv6l8W3p_H8SWSBDIWNf7qWkqkT4npPClw0wO78Wpt8PLtymdcTtWIlWgaJw5XinHDVFrkrZw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل سیگنال‌ های زمینه‌ای رو به نتایج جستجو اضافه می‌کنه
 📌
@@ -1229,7 +1229,7 @@ US9031929B1
 
 <div class="tg-post" id="msg-882">
 <div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pv8HnxDsbP6VvJDvCdfjTw2UlRXBQNb0EtH44QvtsZA8vWwjqrAMG3pfUJ-GUgKNTJkI7kxEpgY3aUIgNS5kg41frlRjJz634yOPmWvYu-zJaEnFWOJKgh2ASYFI3bntqmMHUY2d32lzez0y-6dw_OxT81T_-J5ehmEZKPGFGt1V32cOjhBvBUc-NiVKS8jvGoSqFl19YpxToQUtxbdzxMc0FEJkL28G_b96w94RPNhjEvbWiRyj9_VZgRs_bb8Aj259olg1-xaWgL-5_VN3FM0VenTwf7eUhJ-TRmGrNiQ6k18W-2CpXtNJxPQiYsEQIxACOZ7u2T9PE-7SVr3DbQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DEh_aUSHuhGjtcwzps0N2TGeumok2d7k3AkCYPgFo6EJD2S7n1qVGruE75wsmVGMifHw7c5qxBVO11bYrwx1VFhD4ycknfHQLjGiPiHp0Pi8DLInNjdXc8oubb3BB6YVYy3WrWNGJC56dRBO5QBsXNaneACXu1oAUVSdy4-TeUCDfABSOvq8noYb1HHc7QQd_89c1pAh4iU6sq6Eq2kRtj7v4aLsuTVCSg7BQiOIY4R-UtRkULNzhL_LlFsvjuODfgb0Oaxrq1KTbVKRJUyKJuCq3fNYIY9fDDVMsGRTSgVkBiBGBZnXp021UznAIXdfiyK66rt0sAPAnxEyfvCoGw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📌
 رتبه‌ی یکسان برای همه لینک‌ها در بخش AI گوگل
 📈
@@ -1256,7 +1256,7 @@ US9031929B1
 
 <div class="tg-post" id="msg-881">
 <div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WiDDF6vM5w_aMuS2x1lVwC0STl3689vRn2zq7TK2hpECOjJ3oOsCaM-GRKl1b9lBBzlqh7Hz3DwLiYTLgILj_agNG6z_sc82TPA6uz1MNfrCnaK7kWFNbQ43B68KKtmm-nhodlIQXD1WpzjZpiF0GCAPqJa0KF-RYqGTK4P72o26KMjCA2rhbO4dQvyIfV5xVFZs5IbbZA3KI4zPVov1WmUZYT-sUL0K5H5aVBVyB7Quhutp_cDzL4tTrA4XcNGV5394JH42TglvND-oO3icQ04Y74DPXCJZdxl0nPNsdSh9zUd5ymaTH_i6W6aIiRlkOu4R-yfa1Ej-UeK96NQdPw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B811Ywtn-VAuh_mMubGoXi5RN7VpoLWJCTVKOGGQVdnn8_BZLtOzAsSpq_Cw6Tga7ENNx7JG28QnEhiKkc06GxM4Bb9s-7ix1XkOj7wk2TdfEeuE9eBZNxJ90vxxurWsWotlVg9AWZXS7z1f9MNPPMN3ZdEGvFf0BWHdna8F6yFK6AR9nWrbQVlSO0YTMvQFrJHpWggjk7Jd2ah7WSALjRLlUSp6KqvIiAVinn09oKwceUbXhQw-DcLpHQBqBJ6pmtnO-QxNaVV27cEcqJ0dNVEypwQDr8FSha_RKGFOZFV_DoDgh0wRwrq9MZA_UqXO1XaJaOWLMwNa8x5zJDm8pw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل: Navboost یک سیستم یادگیری ماشین نیست!
 در تازه‌ترین افشاگری‌ها پیرامون سیستم‌های رتبه‌بندی گوگل، یک نکته بسیار مهم روشن شد:
@@ -1279,7 +1279,7 @@ US9031929B1
 
 <div class="tg-post" id="msg-880">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YqWnKuFQE7bRX8qFXwPcwizJdzkrYocjwCzz0l1YmHTUK9MpzPHilIqNzbJ8frI9max4OhagfXzH-6MjwzH7usngy_f7ZJPLCxZvs8MR8L-fxlQAX0txYnqG49AAXxU0ftI91TQyCrfc-23oU4r7iEAmWfTuh_ZjSYinFU6hjIoFJ-GD8fzVBBNnz4_8OHaeFri8yUQ4K7Ywh1Eq2qM2HOyrMHnOR8un_H1qhsDFVYy2odTfBwxtMwKVnuokcbV5-Y0URExZY5XBToyEBkkI-YvdvUjt2NB2kYzp5TKgdeNLRVsHQ6ITsp47v0cGIpklh7tJsp0Qn0ISXJ95x6KidA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/faA-IM1g2WJZl4emNQksDZMM56IZoU5b4I0cZeX-i4MRd0sBTevsIKTNqD-KqGOWaneeFubAcqsfkKKqZhEw2G2mivJUO5liLq82hYB2sVWT1sdpq38KYBszbaDb6FjCxDDl5sdtvY4s01Sli6TcfnVLMw_mfz0ZSRWEoCO7QLNIhd4n1NXtU6IsMMhCxYmuhBgsVd4a40LryGPqog1EcxBkw9clQHnZEvBsmGk6kuNVwcEYULNhyXhlXaPwuKqAnqNwgLsmGLNaRXmN_Qk9cLtdYLUh_Pv7MUmT_Q08Djg_RRlmF2PGTLsfr0Uf5PLQvJZnyiPh0KFDkCAttdgwEg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 چطور توی Google Discover بیشتر دیده بشیم؟
 🔹
@@ -1361,11 +1361,11 @@ Schema.org
 <div class="tg-post" id="msg-874">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/bWXnimyn51ngyFgb49syYF8nmBMFiwNYxsk7LINXRPcT7-l0AzdJ1rkJsAa-H1vKAIgy6nXIVPU8xZelgLVBngmeOS46LtsIMfBPVIrxD-3hbKLqoRS50sphpkDBHYAozR53TM8ngM-HVM5rd-dknxU2UwGdJ0IJfYhFGNcU0GpAQn-lRakImol1LbRL7YfQ8lusPC2nE12Wr-04l7C0xztNOk9iJsy8bY-AXiTIEMcUFZtSt-WXGt5CTYQPZUwzSNIU24jzur8NECYwcRDGDLF1MNWwX6acc6LSoQg575HT8e_MqZU2-e4QDJa182CvJR1FrqLiQQxxgjyqBZU0Dw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/I3Mv9Z36wpF43XhbLUHQhvXg6yWqofPry6k6EmDWTZkPY3y-NA3D0iVrnI2Ltk2nCW8RGN4R3NVDYHDWLw_Q0Jsgp15ksuAwHdYLTDqccIp33EHF3OIzunVrMHWuiQE2IrDsurs1d8E3O2_zcH2NL-OVqeqsGs6b9LSuJlF1eHEHvZLfOspgHbHiUSeFzXDlft8ClJ98meGcEqxeO7zYiV6uARmYizNROg3KNQzmmbCxMdB8-YrDeq_i9C5tZRsJCgbQdE5JyLlNLoyi7teVblyzObKjrUnlZdMCaSMb49jKokFAYdVYZ01WumdhGqguRF1woZcqkVPL1CAlFRSA2w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/umWaOBvtegTXWHUGxoD57OaCZRvKqdJMUk3rK9_fgTcD6WJBoSOiZqAwgnDstIhpMu7YExZMhlxHpYJg2qraGhwCgDdYEXwAzlq5-8yeuHF-kxOfxoazkFkj4Ux4px5i33NaPJZE_XLy_TVUzK2KDdH2XXUxbB9NDJ61KbBTp1enYGIXXFQH-GIEYeBuM7hEOvelpStorlnFiJ-6L0Six4D0HCOkQYZazLU07pLz5jp4DMxr5HPUvX8-vuvuYY1XDRVa0puoUPCmKZehKvFcIonthUctJvP0M4sDHl6TI-LdcniiBs3OoPqFK8Dd8yTQqSttA9OOQJXdslt-K8sRLg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/bo0qLc7TRb40N8zUTEBR2Mz6JBsrTG31Pp6gz2y2dsbQK_nipWjp9_kWk8URRd_AbIeZ35Y7gPiDCrn742_DxbFJ67Jgy_L9IUzVHMPNjR6VX3qoza7CObb4_5-ZdK-iW8Yb5ymR5yDRwBJ1nle0tYUMKFO4-IaxIH4njMhb4N9hrI9noKqftFf_Aj0s-TjUYBqsu_jZ7D2QhstIWWj6UZKiCQcARZm9cr5tMre59kQQ2kVql6tRatMlb98Lre_EwyUSAokhDaMvP2OuCoSeHLqFmErhpq-AvUjohIiPuE18me0MJSG5vBC6oUfzSFBTg-6nolcWeW1__Lkev4_nOg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/s-Tvkwh5PRTYMh4gjElaTessbOczlrWnvS0Ek6wzwj40Mg4g0_e0CHVeA-I6M02p0HIjybn-da2lzLkivYsjG-iGVOx6jVSYI0lvRUZcE2-q1YXZBixbtVSQHjlPnRp35x7dVa_DP9Ol3UhZkaxS25xJr7TQ_ZH42ocLvN79UomTx75R584fFVtTsBJ2s_WWqZWLsOu2OXIe1upj_J2qZUg9BJ2WxvdjFkwzuBuxQQ6AlPZiufmj1v8UImUb3sCVp7kZYsOks5F5rWI17BHIWqK69iDrlXW8-tZf20fGly3do2P7njOh2ufGASRg8KP2tMhqVj214GWFWx03y42peQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/gtaGB4u0E9-lK_eFA8pe86Mbsuyvp5PS06PLkdeRCv_Nj15Yhl490X4p032_XcW6fHHg8CBcGCeZX2QTvlkzSG4iyd_-X7Ly2O0pPlzY08pLXOtkHWbet9TT6IMNve87j8Vsnwn8r5XJx8IuI5rxt9Q2sT2jb7gEGRO8_m-_Io4aC_z0rQ1Lq159AVCTqYJKSvB8_tSaT8jtPkMMx1LGjDETaosv70atmOIURSMg441tf-LCVnQ_6uiDl1H2P_aP-PrYcqrZBqx5u6AHCZAYjgguOO9M0vYVst3eY24V6I0u3qDT5GT2mEpV9J5MiZTcWfuNFikJw79pVwL0dSX3ng.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/TP6JtucVs3bbiEr1ZPUw2bmd7dB9MNXCJZLW1i1_qw-sQsZ2M9EeuvKPNE65INUKIe4Ql9dKHmbjX06pwlg43BorLJGyB1cguE-mL7zNsG2y5BE32zg6ORMY33r6sdjuFgEqTwi562XmtqtdYLtwyQaVMIWgvFp3xY0pCGMUsy5Kcemwd_lUoSxRHHaB1YH0Pfc93BkAVeyJmFVU9RXzQhwgPRbfRh_PPxpG5ZekFzWrAJve0-HPreNdizSHKkKLWWfBPKUXYWS_DoESp63rBARih7vha3hq_4fPlMHEY0vvZS8Tm_xloXJAeObq2_KjUv0I8-VLPGn5fJaNSXvGMg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/PBJBXEMHtx-SKN3XmgoX7t4a21sZVpAjtthhu9iGqDQIpeWgpcS3SNoLkquRXf1zrs7rGByvtbNM4FP7K_w9_w2F4zz8TDd62s6hL9YXskJjWzYQwwbGMr9Os45ZKi98v41q0w14K7QrQUIgDdrQd6x3sjePb4s7YsoYivS5UBIG8kRSKL70J114f52HilC6r6YUQPcFTAuMpsHwTFDC3Bi6IpObbaL3i8sfZ-IjkkTc5YnSCIfXXzg5J05LfYxaIDVRDW1lGHdFtp9Wn9tjaVTcTIU4nmc6CRHB4_VkkYIkdEBkUdDshz9bIce9bBY9TrpfbYvbfNxv4anNqWm1nA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/MyXrVt4Qit6I_9S41yHl6u0jr2i3H1iRyYMXEwE6JmhFZpUr2bp6LRbGxE3Avr_-nhQThAGLdIBOvF6MpZfNvFdFzp9dBgLs92v30oPPPTLOOnufkJ9k-mjyJH5nKHEH8k9Prsds34bkB5lvmRQx7Q9x_f8Vk896ycEA6nE9YFpI0u5RCu1pg3XWNcYY5GiMrQ8SlLoXbGP51dK7p-SidPsZdy59vVFtyPbIk16G6ShNzFbgpvQA6q-GLmdUF_u2Eva-wlVBE6IRX4z5A_JeSEQYz1KMNia4ufqqrKEBX2FTI2HB-MzsJwMaz2VTPJ57kwZiIjNBZ-rWXlRAlhypaA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/H25rP-UgLw4L228iPs4UaYmtDQPHlFfRAlZozSWHGBCnZ3uAwP0oCDbj0XF4d_qPiX3qCb5hBInSkaki4b9ZroCNO4Vd4vmYvA3Js6lsjNUiSwdb6GshO6N7CFAeg4Ck7QtltwvLZG-R1FoiyXaSDWgn2Orc1sT-q257j_iOggILdqU-2jbaVd6glS0PGAlMjulZC2o0iNAkKPvCrs6-vgOL38p3zj13I984Fo_u27kHYKwT1IXqV4PObTpSv6bzZTwYmY5YKmx7cAJOZo4T_u4Fk5PpaDAumnjdO26RmmPRkksYDiJBK_wv0hnrdwJulMaB_LKIIgRVz4MuDTSMCQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">📊
 سهم جستجو (Share of Search) چیست و چگونه محاسبه میشود ؟
@@ -1376,7 +1376,7 @@ Schema.org
 
 <div class="tg-post" id="msg-873">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OtLkmGP1rYum3QhGdwkYa_F13IBqe00mUcpZ430PUx-R8vhnk-BGFIDYxh3uWcO2Uq-_HBcKY7UUUxy8W37pPdU6v_uwd-LBAYKd8ROssrHfDLaIdVuRSP8qpIfaGIIsNKVvfcgsFJm_KIl9_M3sS-mVU8iQeSL4-k_QbJpT3khKYe1GO0r1YkLefcD7-I86eNAZDyWSmuqOxeC4p03w4pF-XSGSIux-9tIrmuZDGXrtoo97JEj1SAn8hM8RQQXnEUNMYPZ2hxvxSf4hr__vdA3MQsi7l4t2rsBJ03VZv2gRGyAWH6Sy6YCDR9xxdVnnkLmBDmVhGl9V33TnYpwDow.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qPLN_RC1q8yT9W_Eg2-8r8CFusPr15WtQ2_W7O7GCu7UKyxZCrOzb4aH1OUU-cBceYsMoy7AUcZte5Mash0LgcdmMEL9Phn1xffQiOiZXEXqnRckdEia0NW3dhwn0e7818cNvdzeAvy-_L7DmWk_SD8F2oBrNAp2UscpjEcULEYRugUMPKWVt368w3nqzhoi13F1FvHUii9Do2PO8_ND2HCb3ZNEeUcIP81ddBcIrmZlCexBBR7ANurcvw-Oa_PGvlmIHnE092cqsBaneehd-LQOeuuLafz2vKokfb52LyUhkLzpbU93FRjfoC5TMXhCF8CMDeWTlOTufiap6WFk-Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 سهم جستجو (Share of Search) چیست و چگونه محاسبه میشود ؟
 📌
@@ -1401,7 +1401,7 @@ Schema.org
 
 <div class="tg-post" id="msg-872">
 <div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LMVQtJm-aUn7-BpXGtHZy8E102_gDPfexfoTEOK8WNFgZyHrYqIccjdjzgGC99R-I-0kSZnLDyc49vajP3-OcC49F0E9PSZPNNMzXEBQtckG7L1SwlG8qCuJXyM2eP3hIUpsmUiSuRFlETiU3wDUTiP7Jz6dfo_UpeoI-XFQzC28GlQc4T7YOVttrVBN6ecf48NJBAcvWp1j74i4n5K557vL8ek3fwVv8cZr7nJiTeZ4wNO_C2Zp67cpkCHXoHWpx1eO5O2tLyCJaE2uslw-eNa7Eoz5q3G-Hsn4fp6dLEE1sdtUQnI1Sw7hElDV4gJl7RMJRnWeii5_9wfBSu4MAw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lUJEyLdamAaM3RNBCP3-BXmdZkc1W2YrGBwXk3T3znh9OuYBdimeBxrWP7rUVmPO_yQUhcMNwxlvuA66biw8Z9IacUPGmcy14pdPlIOqHgqSu3dERKzpS3CWC9t7nDiPJ9Z1KINK_V3ezgwBaCTrfl3I9ImCyJ8RdMjQNiGHfyadrAtNM1olz5F8ZXtmemPJB_H9rsSGWzkCTGn9wqUiX6WNIEWyIfJcLHo_dGtExBzcKYGEIccszZ0jfjbYyDih7JAhuSxLBPrjY0laT_KB0KT2mPibFGRSvfcT6TNxgoe_7cwk5p_9SEirMqEkumCdlybq9xkuvdo552UOsw2ZVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📌
 نحوه استفاده از پارامترهای زبان و کشور در جستجوی گوگل
 اگر به دنبال راهی هستید تا نتایج جستجوی گوگل را بر اساس زبان یا کشور خاصی مشاهده کنید (مثلاً فقط نتایج فارسی برای ایران)، گوگل راهکاری ساده اما بسیار کاربردی در اختیارتان گذاشته است. کافی‌ست از دو پارامتر ویژه در انتهای لینک جستجو استفاده کنید.
@@ -1428,7 +1428,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-871">
 <div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/riqLSgjsIH6OTZ2HpY2kcHfCfxHEsoZnFWuxbapThI5_llrkg5xKwJ0L708DjTKNrsY6UZNm6i2p5B6xR5sD5lloQ9aMlY8fh6K2dlX9-2DAFaJlG_X2azD63YWNoDF4XiH7aDVHFRBinIm3iLDfC0IUHGaVI1T2yTtyjkDAa1qPANIovtl55CdY0UXdL_g0MIJXI4qUwOeHLYz4_i8D1JsDDyR71vtx9ooSX8rjWki9gWvUISOE2FkYduGU2DgyGx5BW3oKju9bW2tiGY55N5vhke_yKoIP1yUl1P_Z7Edfib2FnFeQUfdmJGf7FLeftlafSk3lJTDaAu2S6cI93w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AoAppteUJyHlEP8Zf9gluvVDw9mc_Q-Pn3uSD1dXvv8uWjT2KHUl41ZZa3S3OEckkQ7b_MKA5rPVoDWalENykCiU_rkEsJxvzTGErOTFV1guReG5sh0r8ouS9Fq7ZSdgk0dc_Mvl185I0XjeV_ym5Y1iWc9CfKUtMV9Ku4B7udO6ACzGC29agDt0__5CE8bHVCptTAhd_NurIdm8UAkWP36EQBlPhmY8FvVoBpsYzhUg670LSJjjamKeG0ywdM8QKxgOHVfjrdpKelMUXaprjqAxhzSFqannBA8MQJ2Y0rot-C-c3ckUPCvCBSOh8JWBipvfo2Twxg_dVgXDvrwoVA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 گوگل علیه محتوای فیک E-E-A-T وارد عمل شد!
 گوگل توی آخرین آپدیت دستورالعمل‌های ارزیاب‌هاش، تمرکز ویژه‌ای روی مقابله با محتوای تقلبی و مخصوصاً محتوایی که به‌دروغ نشون میده تجربه یا تخصص داره (E-E-A-T) گذاشته!
@@ -1450,7 +1450,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-870">
 <div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Dj_ZFw_C6I5k4CERM-c876Bs8h9l-al8tqhD1aqULxM97HwfEr59bfqYMWbh69K6CL6mgr09y6U_xtFOOBwxH7F5lPUgc10pcLUnXW6rql1dHirURUXNJPpaxOYehl5VbZx-jnl_wSR5R8z_L1ulVCkqR8uGXnante_5WSZZX4g7fRJGH8N1DpvY7JrX1TSybU00B1VNCezpTjVXwTG8Rbs2kZnddJBbdUGhyYZzShE2k7J7wNBz7b9OtXx2gzUx3R8WYIBrZEYDDdSi7hPgRjeaBSLSfWGG8uxO-z_naLfbEqSo86FKGvH-Iy9qpSbyb7rlWnX7Agq_qe5gMwTKYw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GGP5bqGGQ4FwP21tmy-F7Vra5Fz5NmeuyLWPbA1_BWJCO9iOcanA0UHCUfh85Vsl46hCmM1G8y65hJHjmNDH3848CpqtOZMHXcxTU6bUBX3KHiMSJmpoUfVBukE_VvN2Rm_hMJfSqeXOMva_9NDIqv3CT9lptW6wSkgqLQiv_ON7cm-a8ToLStzA_HdwOIzSdcpN4wJS99LuMty_xpeVMH4hitHYWdhCj8dIGcEez_FJKoFJoMKr-GTB08ihc_vmoYRDosT27gfxqbjwxUHT3WBSIoyVbpno4XFUqnGrjksziTtcj5y06qk35ir4ir09C_jrTEInvOjYRiZT_pQJrQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔍
 رندرینگ سمت سرور در مقابل سمت کلاینت: توصیه‌ های گوگل
 👨‍💻
@@ -1474,7 +1474,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-869">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XAa9FTVHSj8YHJJMGrnwI7bSAafocjCBATH3v2U_8yRVnRkx6GjqxkjouF1kO0_EXLUlOtfTFz7B8ggF0-Ha48f4sdjWtT9vryUrDS7LGh1XGQhCRhj9pXuMEucP1kWl2e07eXWnMRf38CScqujvCghxhXZR9exYrQkBSQXmJbzSoIIK5CCmZ6NdDPuLNUq90XJQrUlJQav0Qu6Q7jymbWRSJNbR2mF8sB9q8zHkmIf43ra1UVHYdzpiEKPIaH44uYBpHzOyQlPYc4IZhp0oYs78DtcCQ8iyGruOoi8Usaa-y9vtRXhk4978QRpWOiZvYGhtLGVQmf_Khi8c2jg7lw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/h4qaJN8XjoNM1qd1NauzYWXobdXhtRwoV2oMs9w_MreDpKLzNiJBf9KZOY47qCvDF0QS_YDyHANeyhrOfeTK71K-4WJsN2RYjZPkn-0dbolOxRm9pmX16L1FUcrCGTmdmOvRUw0ETBrApLUNT57yJ6CNaqEhz5Y_V0gLSt0rogALQ8XXdCJAUo1byIn0E-xijTGi5tdfYKLdLIj06FfNZ5Kq-5KNewQj1_v_CNznPn6RRd5KebvfVPcRKuan7xwC1P50jspS13drSdaWal0GtGlYiczzurK9lDquZepb0PX0-9fdmWsFAEa-i4dP3ID5-JRhMpn1Yt1ktr6ZsXoNug.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎧
 ابزار NotebookLM گوگل حالا در بیش از ۵۰ زبان در دسترس است!
 📢
@@ -1491,7 +1491,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-868">
 <div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HwzgYycSZsYjxLyF9yhoSw41qjRAAj4tbELfsxCkvu8ima92NiR40BC5583hwuroEt6eIsMI2u6azBSioYGkCc_ttfzeviC21vbRaPOKKM0339k_S3nZux3vKUPXXSTP87QbQe4oPTBrslV-rUWlOrNRc7dwVO-uSdcgvzUXemkMdOSgQmHsl4VGQeKDINTgVhe7fVXxHkvpGWlJoLfAY_045E1DKzmKaLh_J8KoZoBcNguP_2qf8pcJ5i01eR8HC9Bytlj-ZfhCYkHYmmmaq4nkpn8skOMZWUzOXBlqvSDcGH9g_4vNGIvIb1mw9sMrTbuY_44sqQZfpAQ2bd_bdg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZMaPUeOgNCDnNa3S-iWRXVRW6YYVpAGosMu-_HtYPzIZLnH_R90bHxNK3tnSY4itjHP22OfamPPvJnCLdpN1wsmgSTjpGWiTu0KOsmBTKMNCF1sb9mLDm9QY0LovdA0q-8FN-rcFQ5UWDJeWkx-M9H9tMbOAoRuLPeZv4kHtu4f_vQynuFm9rJeAgjc80P4mFpKJmouSYWiwowDePih0pIL19hKY_hXjkqhXzkQONjGo3NR_pKFlIhzl61AhvjTnPAp8mOzAZIiTw6GOjDPhmc7RbULL1M7-S1koKoQBKQso_XeAU9Y_F7sNVgz_l0LDscmVbUeu5vlAMleSsbh11g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 جان مولر: آپدیت تاریخ XML Sitemap تأثیری روی سئو ندارد !
 🗣
@@ -1511,7 +1511,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-867">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bNp96DkhrR5mX7C_dXBV0BKAdYXADgltlUKxjRLGp42pBbcvTltiYzdu4VCZdr7oBlbS99XODe8qQJMxHFIf_278nx7OOr2JH8WVHQGIZuYvNS7A0TuJ7LEfBHPUjkSEx74YjDZuih90jxA2dDVsuXqHIiXvvpnW4Ew5d-oEc4c_pjLrstK7lQS0vC9rvJpcFU18XbV9j6ekEwWYmXdxjYmGUAf1Zocp_lkSV_AudDs2LvRJAPSduG5ZDC0R0NtbJnCwYm8PUb4v6oDRW_Mdup63k_x_5JGwjGSLwMft-04bn7CImQQw6yC6pL__KiF3RgL6165lbe6B5NOvQESaRA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iw0bkkMXU2DN6uPtxWufcdlxHTZiwXlH02RV61510Q0-xxvdcJ1kVFwx1iOpCdi0I-bcBhPQFydlZwKbV3xrdRlOSjLBRZOF7TElO9vO7dw4Itwz611_rh5IHNlM1TD9YzTdzo7zqbRhizNXXmoGIEhucFBcQQuSOPpLbTCflq7yVAPAgefQ6622vhUVqVtBittLgLHlao0XfNCBBPbhxltuvlu4Sz9iUCmHSGQ_itwuzWmA_rUEIj4ZK77L5of0VU9jpfNt4u3eLWPLxRQGw2o-PisVwXLZdFKCe6JW0BAgWT43JLG5ViwhzSZuKJft-9I4sYEy4RNpb5hqSbYY7g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل مستندات Google-Extended را آپدیت کرد: کنترل بیشتر روی داده‌های آموزش AI!
 🌐
@@ -1528,8 +1528,8 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 <div class="tg-post" id="msg-865">
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/vuoVNMyqAHu36a60ecZ10ihh9Kea1YXozsQkircoQi3C74lNw6fiXl25cwE1A6P7KLcg9zek14FmMY24_T1jDxUrYIsP4FKNxVgz3KKj3q79216KMWA0KiV6dSfcaDfjMM7EOEeLECIx18QO8ZHSB9ZOJyHhKi-CHH6umCsO0u2-yePnV7SJ_rmRa71Ro67TCCt-G4VEE0vEPckZq0QYLQ5PpSHTnAEwjylWiD1VByARCuGJDWqnJ_uaAKmk344HTepvHfB51tg-a6mCX7aA4XabYA0RhWBvx85po8SuPdqt1WzXBzZ-0qW_RK3i1FXrxmgr2NcZM-OR5rXjvEbJzw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/mFXUqAkrlbhkvuVWW9mhTZcVNqqFPgysIrIyqQlf0cmeRO5eUBEywOmv9B6VdC1YMHJ6lI_AZtTxmjebtQR7F_XbbJgtWrMMYe07UUx5MRrI2PBGvpMP1vWe2oL57QmFsVZd5dI9dRNmUhZKYV2eepYC7tBjtxW8B2tm2yLkoQu96GconvBsfB0Bkinfx4QWtPTGX0ElpjvI8kHrgg4Ifm5LO_LA5HkxzbciKcaMDhs48iJUZR7-I90Mobssv2EIiqARaafmifFo-I3gxWhba3IcjkZoNVEFFd7MdKgv6yAXU0QGuFU3VlFK6oaZumGbzp53lrJ_3Sn7zaSAAhzoqg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/l66kgAVzDmzMX4_maN1SC9eIF_mo3TOlIdNn8gA5LJOev8F4db5vMkfXYUmxDeJXjYX7dAdVeqX6JCD87lY7jd2Lgr_yJQDns7omAghZgn8ey_I_U4W_ZSB0O6uz41e-__svzRAZkvMHCkhLJHb1iueJgpLg4W2o-mC_noa75nIwPkgzJ2Q3Ekx_Ozj1U05IThAV_-uygvm9NaOOrxqVcuK94TuhYec1AF3pQ4ovgc9lp-rD3o56CwQCcrZ_BaeYGIstnhdqc3lXr4LnJWq7hjoz7YsxQ3JFbFHoa0BAsuLLzeCHAU8oxA6DAIH7t_DeQyOCmmM1sNo8OzGG-0LrwA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/l2QxLFDEbnbJGUl0mrHdMVL99tnkvMx5poFQ9vLN9AyUZGJJPo_vQQQHBPPKVp4i7CNKnXrtZJrt-Brn97eBnqTZQKqlEr1s1XsAqlKM9ugOBLH-TBXBIhNs1Cxc64FXGU-pJGQ3DwU_JU2_ChDZ9Yf5-uVxLow5xDjgQ1tbmXoaFeZ7skqst9OQaYxgVbsc_toJrGZwEFFxtiGkBLqbT3LkF4sxlEBw4Gxz0fusATXyADP_k9acDYuv3mpNjaVMKJaNOQ9gpY3sIraSCbbjKogiCWMyL8nX5rJDXHbk064uwf6Zl47zumku_sTJeXAhw_QFp6Tk6R5VfzIdiUq9lw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">🚨
 نوسانات شدید رتبه‌ بندی گوگل در چند روز گذشته !
@@ -1554,7 +1554,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-864">
 <div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Wjk5j7ALlzA57-1i1UiJGUBvWR4foot0x-04-_yFnVv2QhMNgE7Gw4Jv_Awrq7t8SkWKs5wUW9yVjA1xEUmQWvqW9eWuRu__C2s4-n8lc1LihJ1HZdZHYMdhruQdRrYqYg98feDY4VgOLtibSvyscov-8tXpOV7zsR5EcNQ0kc3hpLlS9vyNvJnMEh55YYLk3a1ohOetiUTuRhxlhh0Vk0eMaF1wrJNFF1hkdX2JSbgqqv-UPrl-CTT9uP3KJmxR7DD2bAPqK1NWH_-dAUD5p0t-8YIj-wJu3JoaMKuJe2cKjR_-XuAmMIAwUI7Sb92jg-H5ORCjy_XzJ4Cryeqw2Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Bk2tHAaa5viaOn-pWTcLJ066hcYRLcyQD7wGPCwFAJ-sHV78o9vzs2MKqH9YTRTNXamkcl-f9Qplp3Mls8_wiOAtXnKrerxSkuH1zBsgY-E_rAn_-dkASt7Og2zOliwHCMy-rmW7fiKpQ1LSGr7MVPzR9tHepTAjBDiPLaKM3kzMnY-oRY1EEyvOxTaExh409qzYVjkyV-RZbahwD4rm88xpqJe7Xiokb3zt32MpUviM9muF1KOeTWAmrjZ2bOtFUSz2qcfyDyeunK4nME32jjtdnZr32Nvud0-ILgvj2Vtu17Dbun3_V_jdRkhTBm9q6O7aWSMqHuuNi_jP7AZKtw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔵
 گوگل در حال تست URL آبی در نتایج جستجو است!
 🔍
@@ -1575,7 +1575,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-863">
 <div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GB8SQ1CKLliM0xd0MAETNmyBO8Iqq6RxXDG58XgKvW9doeyU-WleAce6LccHm60sre5NDx37HV02cKnEWn_38eS8pQXsLuKZ5oiD6EwiY9PAxqX7ImSUfOew64Vo5G-FxHeWO_gW3vindcZ3xp1e2YvsBoljXv3pFd6DEHWVGurcHAyCLeZBPGQF9nTZEyNwlcrKmAc1MeDaFAAW1NMjkIYj-HA1uasq3afnQm0F-pFVSSQfQPF6bxhjzLk-1FQsSzqDCN8Rp0rb7scX-t97tIOClfFhgrHc9oMKXfZsiDJvAVJY84zxd9fFfxb8yXVcjyD1zqgbuF6oLMnOeBxBVw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AiVlUbSY34ytagEbyFKo6z84vp7GY5s0_LpPKjRGDw9QBfhE-We7pGGto6cooX9PFecgG3r9gicMmFxQujX-HYXpPi3Ps3OGdsDYq7txE8-1LqwKt7Mv-SXWpXE7fu55rwVyhkaFATEQ3KjIzhq1WVpB1Vu3McQzxrFI0l9M6uH6Ftm8E46I3AB2qzRZ9ufEIBidC2h9AExlRDDNy85XxKML7rIurozf9ppDhDSQue6PeXr8SI1nPpLPDJt_uqnu9e41wcbM2XhNyu0w5rcMWVjUBEQbluUlsnKghMHtu2g6tGzkmOZmA_l4EVun-voREXIuzNszvMEo_SRkDrYlVQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📸
 گوگل: استریم تصاویر برای سئو مناسب نیست!
 🔍
@@ -1594,7 +1594,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-862">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mkkZnnqteQr15lJjRVM9XZZlHjx5d4W9ISX5r0dzAEaw-gKclffILStc7qmTtpkV4A9My8r_GcVGGtAtlqT3MOzz1C67uD7Vx9qV5Md8Rzp8WgP-PzT3GjfACI7gdqmzKQQ7riV7I3t7ocLlRBQK4DEOcI_LklwJY7vlQLGIXXOUkdxhQdk9J8Ma3YgjjIqevX3fN78XsZTo6jkhqTY4QHEs8hw1dGBxylcKrGN3kORh5vZqPl0o9SiotPpH4q40pvAg6H9Pjm33VYdrB4Z0NPVgd7d6ahEwn95bChvIEMD-_csbZRHhZ2gBYuyn5sFaqGMNXaBGeeB8CSyVI2H3kw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VxcNT9kOzcRtY1aIRdCmm_0R1tjPaI4iTPshYcdf8qdpdLIcy_6LmXwhktgyLi8ECQgcytzBukjQE_P8v1AzHJJcqn_J7cVUmsdbnXObRXgvdEqMDzg4TWcgLy_fMUTiP1lIzSoJX9mvvNWncXvntXQPe0wmRODIo2f2HlaEhpkUZuPTBedseFfRcTv7y2lVi1M_SD44zl4Scb8BpPHWzzFSv3LqaYxkDfYhssJZf1U5zimgHw528v12vF0VBAgjFkWFJSYD7BDKx1FdvVDcas5f41zKgofXEA6DwpSb-COSCt07qiA8NXM5YFg2jPvfu4k7upXfdp--LyXSIfrohg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 گوگل تأیید کرد: داده‌های ساختاریافته باعث بهبود رتبه سایت نمی‌شوند​
 📢
@@ -1612,7 +1612,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-861">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WsIzD_t3qo0D0052P0fhGHEWC1ZHshnEfarSUSWqucEglAV8DWPleMy55lZmB4iWkRz9lNZ7BcaqfHhlbIC57Osii6ugvlvaZXPZpfyIsJk98M-0jvMsGm2q1HQU1KHr0QXE7dJaNBnsUt8kl-MkUBjHH6WX_-7HqtwVI7aOY-8gTJO3dHASiJR-TYwFIvhhO99F5BGKEvQjbTrB0Y5_47UQj8r2lGLFl4WT0x11mApxC1kTV_te7jg6NoOPLRnQSKPg4hZ_UPAhyYyRvkNJj2-vKccKocAe6SlNYl7oHdizfvVgkVsvw97OGRGLq6DeWqjrbD6mPXmaPQ1BCxxW5Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lHqDjsdZfuns1mNsTeUbLSHLDn6Xf3I8JOg8bzn9DX6n5mQmmQubq-f541vgOub73G9QUERCY_biMj8fm78w93fJP0A4HuwbgKt0Z1vU41RDw_5HQ8N1C0kJhGmXgmACVSoeSRGfkS6I3gDmsA7VefGKForUpWA39eGhvBZdVj57wU_SsXrfYlfxGAVobQGKWEjgLb2cNhMh83xOZKj_2sng0wcEMzHE4k9GRIMhLipDs4suZcJEkVALHFHgOiLW0wFZ2MgcBmo_ehNrohDj_34Q3YkJFevp_t1Sor2N4mb2d6oti3oSc4KR47mbju3wSjhl0B9xQWoTS6uw1no-Zg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔍
 گوگل: فایل LLMs.txt به اندازه تگ متا کیورد بی‌فایده است!​
 📄
@@ -1683,8 +1683,8 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 <div class="tg-post" id="msg-857">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/QJMIQVps1tjyFYnIOzBnyMPA3Xu4Daxk1tIytkEHLeKMNpEuxMrNwcMEwcIh0H59V8-LtQbjyH2af0bIqfOKHUfRqX1YwEwVOuL9CGHXI8bdddS1pRyDUnvFR0jDM1RhcjUnmvC1oXMRSejVgnWBKosAUxqHyG0wF7kLgQy8FPt1xktPdRE8Bzd-CLi4M9xMoErp_xwAsEFDXB3r6omye_tlFXSTq8oPQBdLWz7P9kLx2kMpN9LMXyrYPRX-9HLg5pSaOzaw92ShcSX15NEwe3ZuA4-8oNndLKTaRqQBUCtRNTfRY7JHmFq8KNVAwXyoQWR4oqBSquW4wcQmbn46Vw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/fQQDqflgp5c6ohY-efOqouEcZsQgZpx-F1l6zXOPq6upY4fCIfloEIrhA0bznLZkgx_Hrp6feSgwcACDNZ04dH_1cBkqxEO4FNws60A-codTMiws48NrMCR6Dxgy_OngT6FBRAxYdeZiCGzOKGn9AjDG82u21zqt-IvuBSpS27PaWSwspNsrWnjbawvBHKFEkLzztVFKLgPLeC1BvEFHN6YXiCQgsAP89bgWglg8UAzIzXkzl2hDZE9ORb_8ts6a7B2j91S6HLwS5jGcFVkz6KQMNzNRXbXZye9f6rz7KklyQn4TZzwA0lSPOKw9_iXVJwUNLlHhm2ftldQr6uohHQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/BcsJOUksJ6O599saTcz1Wb7ykpPMMxXU7jIPp11dq7MDNUxSWameaoh1K4BQrmJtl9wZ_Y7YZJfyGwXD_UzvulUPjUafT020AcJ-F9YbRjCQR3VNHedEGkh4J1KN2paBr2CZKhdWIIYW36T4oOu1NEAzqPjT1m0LYIGjlz-giX2VMAWLFxRPpXkLNN02nouYCJSlwXs5B6N6scnegWuLCfeEIBogJ3rpEo2JIi5uKTEfIRAj7u4sASfuM5F7ZyG9DAy_OV97FvTnP_KevuL48vNhKMl-bi0QwG00xKZYaCBlDFHjP1_VxaqXYrplEqQDvGOHeJbOtiwW76JQnH2uvA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/qbA2QavVCUflyI-OgiYLJqahvQK3KpQZCg4aI0GDgw8GXQ6gonpQX7FFYazFIJSNiT2LkDZvTMhxBRQaGiavRSYNENSgRhSCPx0u9QOf_ewj3FddSRINgMOS8izJgXDGLc0tLDwVD_tqydBFqu-5eplGFBVcRS9oS8_ZS2AIKoiw91eiDrnemfygtA2-lX4tM-4l6Bj0Kjp1YX0G1S8HRjjk5yLagakIdV1vO5Fw2pa_Y_47KWZNhFwYhtSdmSDVtvJoVyZgbIVLPtihqWnTwUINRVQxL1IfsTcxRfWhgHyZ28C7cvMWkY0bP69fyGIJZAb2czuyAsRLCyorTxnVeQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">📊
 دسترسی به داده‌های ساعتی در API سرچ کنسول گوگل برای ۱۰ روز گذشته فعال شد!​
@@ -1705,8 +1705,8 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 <div class="tg-post" id="msg-853">
 <div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/jE53QirNqit6yx5Nc4u54TiyR4RUrXxSg1ZdQq-NLzpy_OqaQitESM3JNSx6-2HP2nQtkFXsMiLKBTt16vhrxvEshq-mYemwvbhys3dnLRSO4SIAy9U1qws8kHMw_msdD8t_6_SZqpnX1kKrLlbLLj2ewEvQVVo23oX3oC9Oq21uYOUGw2LmUL6fgwmu94_7fmVNaeI_CkD06077jIfKW7VWsaaPNkHYPFR0pxnEU97YKdV1LQLqZ4-eyCPMbDZnvg7Q1GZsaBtWqkE4OWvw0X1FNib41u3izj0EPZEkZVfPt3VYimeENWD9kpFB0tjlvqRtor8hgNP1E8xbroJ8AQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/VLolYRftadH_r9r1a6UjAsBIO2x79nRWjEOviHkl1YCMM0lROusHclrkPY5R67abBL8elbzEAYfilFPZoVvBQ0UBvewpk8v5UnXZ65KCkRq1E3okwrz_8NoBNYQc2C6j7ftMpdb9Fv6jSAv7zSm-qNdD6vub4pSIJCxJjv8Pj5Q41IUqUe4KDcgCVGthdzh2BbTDyARgJxCJHU5417ezxc6zos22cEWm8rnoN2XKsRSqPG9domeF7hHSxypT2gQIIRGsmlvFhdrrADmrG-bIHsXiDBnB4sAiVHL4ONhWuT3N7ahPqY7XQ45FfXpOetJTOsvmfILvJqFyIpoMx3oM4w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/klJk3wIGq_-JHv-iZ0T6Erh-0AMVQrHKWDekuW3SftAGStfAAi3ohpXLP6GIDd3wZGbTlgdbT8oRXHxi_pfq0mMkUVDGfvquTd14cpYLxMLdrJwIauLYnLskfUuR9OZLvYtODkrCwKqUfmHE0uifxx7ix__0a1IgMGphHKt-0QZew29xrMKIcDJrIv6ptQpgR72rX6Ap7Is1YcE3cSNgYQB_0uokrmzgso2MW3Z_sFux8qvc3Pu0WZSK8K5iZ7sRg0U4w5qPGPj6FeamRRKh6npPZovkNUViSk6cyJfYWe4uK8s2CDgnQCLhDjTAQ4armySBV9eYeGac6sCv_BsxBg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/vkjMQ8xe5CrKo9888CxnlOiMlqUIQJSft-LJu2CVzVA6iqLXekLDPs2jzSU8cntUen75m1aEPCpKL7nU5_JAUPn2bjF8ATsIMkGUdc8S3n2k1kVrucDwQ0KPLRaI_K_ZM87T-YqbbVskbA97Bwt6lXo990kIbgKa8esRVc5ZwwWOiS1PvBG20QPTzNEE9xybyZ0L_g8TiVMAqS_LfhugtJnRNPBb8MLlKLnghz27jbc-CqpBRZ18czAB6iilIXbmwSIGZsEa0qnS7C0BS1JWhkTbgF-JrHanWQVSDKYPSFj7l_bDTlIV0GNSW6uB6BYoO5_vcAwybjOrVj9TZ7_csw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">📉
 نوسانات شدید رتبه‌ بندی گوگل در ۹ و ۱۰ آوریل ۲۰۲۵​
@@ -1721,7 +1721,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-852">
 <div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OY2zPJPbHj6oTmKE2YCfAu6WF3KAS1qchw6kCLPZ7MxFVq7a-QqbTaJrIudrNuAAX05JeDZmc8R-2g8uanjDNTENzRXN9mtt1Etd_tIv1ymrpdSaM5gjOg69sh_r-f5kmBWzu5ThLRr-uX6WbA_n0U-MLfGFHCWZGkRFJygELtps9_MW0j01FslP68CoEHUlEEHIq_sAegjTKHReX8gWSC7RsKDNyIhLU2aDFQenIlrfTFMpbacwF9-ALc4Mu8MdY8Lk9xd6jSo4pdf-bygwttEOG_PZHEivNfDs4ZyCFBALfiK-lN84NK6xad3TbwfelupRncNOxyWdZRXDNJWqMQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/laljc0zcxOJXHorM4J_XKUTmk5frLzrIREn613G9sA5Hr-ep7GcWC54VorAsb7zOZz4iV5uAMPTOn7q-GzN3-_SgI2sTZAdlVZArwR2oR9ym8M-Thui0Q4StYerAZ8Q7AaD4n02uCp3K-RauLH7jIcMvBWfadft1_U44Vvn6yAVgibU_-QHt_o7eqdmPsfsAYrVMhgQW2us_o0U-6XAHmwcq40Twgr7mZKjEWx6Ff9Sn3mfFPJ0dIPRGkmpvGYvE52J87l-bWPYdtRsLhKtzr0KfBVO8FWrgpEhv0qWFXuZ5b5iBrFR09i5DIdx9RhYuPvP4Hrc0Owx7L2F6LJ-HNQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🖥
 🔍
 گوگل دیسکاور به دسکتاپ می‌آید: تغییر بزرگ در صفحه اصلی گوگل
@@ -1805,8 +1805,8 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 <div class="tg-post" id="msg-849">
 <div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/l1vy2j_Fl4iASunseu0501T_Ml1e9IOiIOcSD4vxStqfUBw5b4tPlkGNZNJrmIT37kmo8Gto3aeqriTj8_H7jSdjLAFGoKgBBE15OZXVyBRZhGQTvqB5eTvHnKPVOGrcF7yTqXmhhZ1QwAyy0s8vLi4ZqjV7N6pfisvjBCPJPUK0W6Jp20IcmRUPkhXWxfusb4Xw4tkoO7vZlQW9EEYn-hT5Q794ou-Nv-v4EyIwq4S_3a0BhRJfxZ57hnhzJPSBtQaVHZfrHuhiv8Rx5uZg7XnTPWsRLaPgY45UgWy1B_OeJebTlZOfWKu4SUo5E7D081Dz6E_aVj9ylNihB6AVcQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/WKOd2lEENRCzU_lGJIkhyULjUyMSG9BsX8-mwcv5xiVIa1fafLuACsN5nhdDRyQ9u_FZO9XfdEE00Ic7FOcVqm25Ig0eEYERghoXdNbJE3r1Iu9mqo6BRGiQJTnzZnUIewAeuKl5eCW-54k35wbrIRvN67aGr3en3U9z6M64q5ye_AhTGLNqDR1LLi1oEmJBBdVMN6po2ZKLzNpnJtPzztDnCJFfREyExl6KMw0bh8EE4mnrGrpoOY2VLEMShhfboYOHiU83kwStJBMoU0yUMqCHfVSic65N4IVnF2JVu51Ey_S1usB12svGZ0T8LksA9xNXyn2Kx5wIFM8cJ_H3Pw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/c5F-iErJv0YLupwwg5ad_xsV2X-8gjz49ScE1-5cIgm042pQpri5M2JNjV2F4CqSmxNhaebYhiCcdMBebIhoRBTubN8sNkAdr2Dmo_QuFaWE4tcgzIG8zo3KmY7q6_lpl7wTvujEqldJklifhcnqfCmBT1QDsrDWc1K8oORJdVY1f3RaGzwnePaE_J0acgl856ImMnRK8-WR_efPkBkTObctqByLcwIRj3KgDKSFglaOxPtnjOIk7Ip8lrVjJPcCO8bUU6cw-P6v0Tn_GzUSXmO87EqcBwg8PiBYvGW_AoWOgGWtC-JUG1jRws5NPYVk_b6Hzktq7M7M7RkepPfcGQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/eY4OFsNVjl-9ypEqoRM525xm3EGiVSLLTXPRL5e4K4xZ4xrFwveIK-L7ZrZ9QIbBQQafYxboNfb7prTFMunuyFq1KN2DrOEfAw9yHhM5Ehzje5SNB6DhSOel5WKXpwQAnoAgj_0EL8iBT8RPheGc1_qyDzZ_35_F1JLaAhyNLHIB-eU5kS8U8flLJOAsI_qb_2aI9-xCVBEAMhfMX4lYsZYKUbq--eZaUV3FCkKW6NThFUW1kEinDy4uP4vTWtntZx8u8tmW9akMPgGI_mDfY9l6i7QqanccTl4IKsQrajl8Xn2rQoQCebciEtwAM22C6Fz5veY7XaKKtuc48s_kNw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">🎯
 ویژگی جدید گوگل: نمایش موضوعات مرتبط در جستجو!
@@ -1989,7 +1989,7 @@ https://schema.org/FreeReturn
 
 <div class="tg-post" id="msg-845">
 <div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SEfG2a91GAd6vtdXw3tboR6ssPfLhWplv_XIFzdetbCLK287IWzvubRRWqhyWQFSSGaIfeoOX1YoTwJg6NBkpm4wjU2Zf7ghm_-XjVAqd2TP_65c8FfFJkx4XfRDXETzDRmeDi2hfx0W3ja83O1tkLVf2BjiWbqRpDkBCtbS7kyEtbGmlAgyxG0i67ZPQVGgr2diZ4hQSyEooF9FAjiVAh1zGSnjT_OyP6dC9GCGlJKCSPSFoZ5szGW6Vt11pMT6oZxFLNGlq8w023DBc4EUnNkyjlmfVyhdMr-a6ufhd2RUTs1y9U3Z8Ym955POqcFT2I7hvsb7FOWKH5w4iVIMSA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/K7ywO8NRBmNxUrCUiP3L1gikHNh9bqIqu0sfVcjLLUpkmrgg9kJtw16eYDmcnbkbclP8d1u6g9pD4xm0pmGsQAAfpq7nZQlog1AGaE_nU6At5W1q3tctXGin9ubxIR4EEeTKN7NiFAvBtHMukYNpbjZaKnZ7sj-zKSSLxHb8S2KSnhzuN5jgBnwMsgy5C29uFg6fx9rcCqdXizpqfxqbKb4Y-6cbKRfn7vduHbnEJMWl55tFZdue9C7uAG5Kycbs1_njlbN-df5SSOZSjkKzfyCLlpJr8si9CJdh_9Q73eVdcyZaQjIfT3HaUa4UW_ZbX8W6wdAE7ZydPZwWmqlG9Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📢
 گوگل آغاز آپدیت هسته‌ در مارس 2025 را اعلام کرد
 📅
@@ -2004,7 +2004,7 @@ https://schema.org/FreeReturn
 
 <div class="tg-post" id="msg-843">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gIR72kKxxdafXepvzpFp3JwYPLy76CUpqYKVtwEt9aH3MZV8GszqkO6pUOaTHAM2hQsMzicTQMcFOVt5ml4ZAEq6SQ28WO1RKV69HFHMU6NgcWybhsfJuNq6C26p17UgIsJVlB8Jwo-ay9EehN7symz_o-AfV8hVyiHINVXod8Vcm5QPsulgxOyARNLum770QwTpdrdkaGpm0t7_iEPuN3UvYb9uNsxW4_1eqGebPydEB0EKmkZ3-g_OVJ-YE4tHpAH_Q8rQSBFPa_S-K3T838q7Aj72fDjhCW1-fudFhh5TpOLzYcuXjV8szexY9emR96wG5LGXRyityfulfGzh6A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JRalAIy4HAdzRGogUtuzm6xI1ThAMC_fd0DyhbIOWrw1SNBcgByoGy5JT_QuQtEhck4DP-ZCW5-Utz9mnGq9yoyWB5zOb9GFps81XDzogTo_znyf4JmVtwciXp0auRXBAVfZnLAUgHN5tMnvk_sp6uCQH0qkyS6ci75FBEDiDJlaMYDHdZza6h5RNcSID7-YyjopFtQqkzMUsZEZoqgqimUHbjTl9g7CyD_lrkAzfvtSaMRWWPBMDqZwD2iMy23ysyGFDENCN3mELxfGPmS-Dr2QrgT05dexRYURNtJME9nUhVc_DmNGBiwGccS1nsZeX96acbTcUkzM6FjY22Ddlg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚠️
 🚫
 ریدایرکت کردن صفحات 404 به صفحه اصلی کار درستی نیست!
@@ -2024,7 +2024,7 @@ https://schema.org/FreeReturn
 
 <div class="tg-post" id="msg-842">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mUklkxTuuWgMZAF5vLbXhJmaDTjQZw8eaymYMCg-98w_qzH5EBA2Vs8BGmjYM089G1pD1EBed_giMNVGfi_ywWj-RRPtX2LBDcxZVAG7UHlYyvqcEy1Lrt7KaG-jvEtsjT0LlDqblT96QTLz2IG7DvIhwJMGTDKBWDy7_oKsw3r6GggRwk5I_gfuxECG6DwrmeltvXt5TQQbv4pPUWQBTbz5drSO437nYTEDUAXFYJAog_TjNXyDCXjeQ7SyO3P35TnFTAYTkXjIVfXnvOHN15xAIumQEPKSPKOpUbxQYQmo0ndhz9bUHAkNVNTaVnQgUFA9ENer2vI5jtiQiXAuHw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vLpSbFpTZ216DWjbfGBg39wD6bPLZPU0B04ybJvKnObVV3Km3RS3cf67mPTaE6tx67614SJEsoDYxqgO13Ei_fonBMq5Lf-RkGaORUgHUKOuA6Utuh6Hb0s4ApLG6p9spRYdQLTbqi9xB5VFk6vF48Wi4g451Q_WtcHOBVtnqzZH3ut-02S9ZqIJ0LmQZvUdhjkm-sxtl0FSPOm98tpYZzpVXUUoBOn_HxZuhyZeEbQPJaRgWPVRaIPyWSn48rJ6LaZADTLpPk5GeA0cYTcJoPNcGLH2BKRgJ-cDiVv9x7Singo1XbNaEPmiGYDpU29aFhKxjg0cYMxbuc8DGfkfQg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📉
 هوش مصنوعی AI Overviews گوگل، دشمن جدید سئوکاران؟!
 🔍
@@ -2063,8 +2063,8 @@ https://schema.org/FreeReturn
 <div class="tg-post" id="msg-840">
 <div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/I14CC9Xwf_8dETr9wFlguzeGlbzXKmphSBn4aRzECTRcTBWcrsW_K7Bo4u1jegWRLbm1uHhaWbz99yNiNAfxsy2sKcjIvgVbb5GB3CnTdcUjXmaZvns7ZqThbReZz-AqrAT4h1kKUD6NfqqJCRkjOT0ym8qVi8jUFf7MUimgqZmBFdBNJ9kAFev4GeY_pzjdoKtjtT-G_t0zK1tosbuCD8bZ9Tkqc1-p_Jov8eMTzY6sDVnRtcxsTcbOv2AkC6Y7KC94aQsdRw-69KwBwnQb2-56DmQSr1jINQ8ly9xwtopve5uOsq9DqbLpAUcqHaWxwimZQ9egKIpne3BAnRlzDA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/VyyELXu7ZEdxHPtMQ8ig2tmgEZDnrCc77EsyzMuw3QccLn_nUa7ImlsQRo6AOyXpRvfoVj8AZfN4VcxMjfkx2xTbkDJ0ewU2KKms7vgELCuoasL2xJUHYq79LlRqzZQdchzjf2bcdj0KxbB4fxXCOhRnLMpwS2CxIkpfOH05Qv4o77nrijYpPygLNH_zHTf5ufRi6zpU6-iW_724WGsSA9aM6ANqYcogsAfeBTvVVtadz5gBhTbkhPL8TJjRy17RyodUuFqewBSWwUd7NcYv542kD6fNWV_y0Ny1hq4jBK-YmlQhS3-kjbTbiBcmTXowtp50IJ9kQR-o0TxGScHGvg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/TshRMzrSyRAdh-xRERrp8WmbqFpQeXsJU3ysVS_ohVYAEmDDpPVBbbCzHkSuddVaxqW-sSMb85zkeCOzS3ThK-YcrbGKbaDyaDdJCe0DdDUVB7shfrWOJ2SB7xqeu1-aYUMsNHVSwA9BsF3E-xjmPkc6Vb5m3ZXTf_OjzI5McjI168MVEJKfDUku0Z_ocHBtxFOm6lE5vaKqcQlCdKnNjrs74fMaorXxCJKy4OryAB3X1iMN7RCAOSeOH81W7c_NSb3EBnD0_6jak6_0Bj6b9R_-z8ficiUwgMS7E9MvodvLvHCmxeW9nMNpq857bDOfDXyNPhuIMVWUoI6nuB1ktw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/v35NNd8Yis04NT3imI7JyWcWbt83eBWPyumQyr72QppfboxrIWwX6CCX-u_XNSp8DLQXu_G7iWuKRqbu64GFli5Tvm7ouk27rrZWatudD0wb2hWkWVOmg-AuUMYRP45-gz0c31PjZC_f_-L8LGh8S4_iElIZVQVVjuIuJMJplS6bqnNBMgfQDuTxdtvvCQqu-DCMBVwykZ21oyYQRcr96-EQLIjZQZYAZn-5bNvfDh599uAaYABzQ4fkeS0hnCcIV4nLvieUXvd6G1PCOTzCDUKFud2GEmfil8pUpbBMKKXysOmwZp5MrRbcZ8W3T8LprRXSP_KhJELxz6wZvfoYQQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">🎯
 گوگل مستندات تگ متا ربات‌ها را برای اضافه کردن "AI Mode" به‌روزرسانی کرد!
@@ -2086,7 +2086,7 @@ https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#dire
 
 <div class="tg-post" id="msg-839">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fpKGscgKbOBLQAFCrnPM-wGUmP3l1KI4-OPPk675LH5VjyPkqQgIafS_6skH9jJMou-1NZ1MBY9GmyYMJi1L-uPMTMUrcqGSZbx8xIPSQ5hH2dF7ZF2Bpdmk1KB03a9TQMciFS2LFvS2FF_I0zljbZuq5DQ1UTRxI4fgYhaztPz8s67cBfK0cNiU4GccWAVbF50wQK8mc3z5QPJXS9EZbcjpKtoG-rq0TI1j9ldVvkAwDVsZzeReRxOibjWWx_NPpE7Y9emF1U_p2O2Ect9-V-op8Y4Nj2bzpmPQhPj79GTYhatPhDXQ3ne565xBPFEyP2YHSsuh0ddp5gwY9FGPlA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t3m9NdtGnf9sZpuNBPvKbVHBLoy5fylm9Te82hgLySw0AtViYpQp6dUoNXmItBnK7bCSafgCMFpnvrlC1OIuu2JH14OzSq2P-HLn5xCo02n-CC5IAYZY8SPYquGt67Mx9i-q5Ku9_YdOo0vxFDX9lA8_NReXHsvxHyKS469NFgo0vBLoxexOhSrr42BFu5P2kTBbczDt8Im1mrQnGFSnyUdHUpeVqwUfcZ1xIajpl7edraagKvdFPM4HSJUB785ITxtLLRtIadApvNxmm15-9m0_mwpxxHuYG7YGhshJEEgrebw4Ce1FpxBL1qg-7wKzQTRumHL2lglmHGrCKLv_Ig.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📢
 گوگل اکنون سالانه بیش از ۵ تریلیون جستجو را پردازش می‌کند!
 🚀
@@ -2113,7 +2113,7 @@ https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#dire
 
 <div class="tg-post" id="msg-837">
 <div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fp2av4WkzrLf6Ry_kEobdbuzqjyFZydTVzx8PMcaey42c2vaThRuBVuYAEv7BvbkRSZ03_9k6okvpGUzz_8GOFJxm-ZQxSu0ZT4EW3UlbuHFWPk7jmRK9bqjaKl-pvBzhPBUWwroNrXVfKHCY2FCd1wUzyp0a5rNeZIydZtpVWEtRmXYGKu8lGwplemBSN691NBgTzV7tDUFYE58VrtBKuXKPr0RdB32lQsdSIphXDZ1t8LXQ6-m2BTv2i3WoE4P7m9sesESs-b_px3mNXGprHFau9yfwRBk7DxZ4fcccRUBiqJfI6hZ3MlLa-7tSh9w05ndq77k1t4T8vCYWU_92Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dyGnufsPraVHpmLctNiYYBPAhZN9bjE_Oi5w8EjiB3Nsq0Ey2aoEJoXY6c7d5cNOcJbMAEspffjNPXCOLMY3V5te1WmMQd7ijKxtUrixTNIAdxzqYdhQ8rn7yN6EJGPY4tRS7uu7niPQCr1bXEmq8mxdSGMULJaQCNu2XNwRZFt-8kJAHrT8lTedyw1ZkeZDBj7QzowxgY3LrIb5F0_SBHIUIRzXoIqGzxAG2AijKuUGmiF5-2U5rKpUlqUgd30RWJdKTaWc9UveM3Yks8DYf6S664tGSaLtPBT8q4Akl54HFwwYdXpQaG0iopGWPHRFb9mnFI-JFQ5LKtqW9WwdRw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📢
 گوگل در برابر محتوای کم‌ کیفیت اما خوش ظاهر سختگیر می‌شود!
 🚨
@@ -2368,7 +2368,7 @@ neural networks
 
 <div class="tg-post" id="msg-833">
 <div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ocglm_ELlqCZOW2CWwaW30TkzYO88nb-GHGZcfJESwURngamrnbyWuOEFC-WwSpAaGs6_sr_Nf-R4wO2tu8EPjkirpkmTSGqCpwkWVsxEuKLI2KyjFreE7epZm2lNnFgod_a_m9AXAnbHYV4LzgWQUG_hzf9uo0ADgh8aoT_8UbS1SvKsOKk9lQMeataqMU7BhsbShyMLHumEkehIPLa6UpoLOPLho0eJXEYdO3CO0ouWFnQk2601T6WDZ0Cr0gmpeIUltBUPAKbhaIcaSMeMtO6hQmdoQce7MYyH7k6Hqo7wwShGXk3ZSROW6g59bx_9aTjH_umWQjgeXCUHqG5ow.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VFwUdr1tx8VIe31mOAzUJk-NN5gqvO3CR5hylBCyxD2zCIS5EDKN3c-ZNEInSDj4oie2WFVxpYfu2YlCrIQ-RgBxqKZbnE_kVN4-n5NYzx27ngUOIBb1GiqRuvNZ72v9Lb4IH9q6axaYs0ipEaEXWrtnGe16GDrP-Xxa8T8TvjfW02yW0IWA9wCdLKupho2qtPq6CvvZud6aXxespFKH_d9qxeKQfdTKMAXkRAQQLHSCSNeFMQ3pDhAm5Jhdb2M5CXBDOPHRvaHJMByAMV1xB-oZe9B5ES-tPvb6qkMXhmIWY-2RM7c6z1IePrqRS1ASF9kGgMuCQyn_y4e1PG1QGQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 نرخ‌ ایندکس شدن صفحات در گوگل بهبود یافته است!
 🚀
@@ -2387,7 +2387,7 @@ neural networks
 
 <div class="tg-post" id="msg-832">
 <div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/E-K9dm1vSuXCZCZpArPL7oEPGwGLN5eVJ8mmr_1uUP45HLgsXWfA1hXplgS5u5hzV3ILLr68SmnTRjuTHgUvaqI9lpio_0Rlm36QyuXz90KLihns5sutFVaxu60L9VPXoyDJnTkfPKtYYP2btW3oH5nz8rN7OoEdenoQ5jnRQrGQyiG-THkSAbCB3p8fI7dX5K3jPwr_kpOIoNFsfDgE6txWAvODEVSWh_rAbPs3HWMyHEnYqNvA9X73buRUVqRbXluZHBXSjbTzX1lW5XqNqKHfKYd43wnT4LS8OjIyniK7goJiSwP336fwIgHcDDgA0wFHg9pJ-Wf0MiNL7bdX-w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JTtqtI5gszubdLuygrDTYdZKnj5dSbJz5rqss7KY1f-Dg54N_B_bNgyOLX_WIP4HbinQ162Boms9MkcPaJylAqAOUI-xiuM_q0IIJHir6SX1fg71UnSqKgtZBml0DvY34Z3299-ZXAKcxGvFw_LxEOfei_T14b0AssED77wwOj_y6lf3rOEtQWzfE8vSGElqU9xIOMfSIzq3QxPM1Hp9rH9kwjJmFMptbO_0UDG1kPshzuCXUb5yH_yfDjLgRHJ-aSHgs19HMOzzxqxKZxsST-YhKguCk65Gu58k3yQlYQ02ewPBRp7D-a2shf6MCh4ryqcEe9XZFNCHFfNn45VZQA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📢
 گوگل نسخه جدید Google Ads API v19 را منتشر کرد!
 🚀
@@ -2438,10 +2438,10 @@ neural networks
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6689285f08.mp4?token=UYFOirarm_LxGw31GJOcpOerYAzZ2hEFoRARCqVlaEnwtu8IoXbUOKv3AjG2aGji21Dndu21jtgmrpRyhGY5yvQBz7yeYgUKRvtbr4IGGHKm_q60yKjKi_49thQmn8jDVZ-YV5tkRMlhqxgaXK-QmPLgthHuZQtn5YRGZyRQO3vopEcpi6D-4hyeR2bvGweW3mksoFbkPCoeHZ7UAA1-3AK7gIxiZQz15w6HC_j8SEv5_z4FH2I5cMgUAboI2dxC0xd5uGBlGfsUp1nU8RIulgCLnAZpkbwpuFmTGw570zqm2Nibr8vNy9D4ZzkJw0l2KsUB2QEUklMtNUSHeQCxTA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/6689285f08.mp4?token=Pv5dxi0cex4W86Fh_egdcR4ySZD8jrZa7RgjiGIAHRAyRlLUx3gI0CesGwdMy_uljfzwpBFqIX6zPtrflyHUvW9j77bGN-usx7jrKOUusUvIgXyI6omqYeuI8Joyq-cewX7qNjBQPVnsZBOyhK7XYWr-HokQOVuBMY2mCY0vjjCxQytxg32iwZNNeDiLtE4ZP8KXZ6O7jhJy_ealQdAV62TLi5O5KohNt46cjc1V2Rbgv-PagQV5B0zr0NsQUlSUPBqB6ZPQsXiOSA4DP82JoQF0_9sYOexWLy-ojH-Mxg3bIRvX9_C3Eadlgn5gttwVWc_PK1H7L4Uhb7zHjAfKOQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/6689285f08.mp4?token=UYFOirarm_LxGw31GJOcpOerYAzZ2hEFoRARCqVlaEnwtu8IoXbUOKv3AjG2aGji21Dndu21jtgmrpRyhGY5yvQBz7yeYgUKRvtbr4IGGHKm_q60yKjKi_49thQmn8jDVZ-YV5tkRMlhqxgaXK-QmPLgthHuZQtn5YRGZyRQO3vopEcpi6D-4hyeR2bvGweW3mksoFbkPCoeHZ7UAA1-3AK7gIxiZQz15w6HC_j8SEv5_z4FH2I5cMgUAboI2dxC0xd5uGBlGfsUp1nU8RIulgCLnAZpkbwpuFmTGw570zqm2Nibr8vNy9D4ZzkJw0l2KsUB2QEUklMtNUSHeQCxTA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/6689285f08.mp4?token=Pv5dxi0cex4W86Fh_egdcR4ySZD8jrZa7RgjiGIAHRAyRlLUx3gI0CesGwdMy_uljfzwpBFqIX6zPtrflyHUvW9j77bGN-usx7jrKOUusUvIgXyI6omqYeuI8Joyq-cewX7qNjBQPVnsZBOyhK7XYWr-HokQOVuBMY2mCY0vjjCxQytxg32iwZNNeDiLtE4ZP8KXZ6O7jhJy_ealQdAV62TLi5O5KohNt46cjc1V2Rbgv-PagQV5B0zr0NsQUlSUPBqB6ZPQsXiOSA4DP82JoQF0_9sYOexWLy-ojH-Mxg3bIRvX9_C3Eadlgn5gttwVWc_PK1H7L4Uhb7zHjAfKOQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🔍
 گوگل با ۶۰ لینک در AI Overview!  آیا کسی روی لینک های پیشنهادی کلیک می‌کند؟
@@ -2460,7 +2460,7 @@ neural networks
 
 <div class="tg-post" id="msg-830">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tB2kHZK4mjXCBKlV31HBtNXvAnL1X0GFl6qiBuds2AiZiCyI-y1v5K_jnomatMpshgPLF7gF9OSZcr0yntZkYuKin2e6OPzP_PScjXinsTIXZ2_-WqrU9YedmQfNKp2WEnhm34iuA_mpwO2vRdDWo54zKKVlEUyURxafA2w-FO6UXaVih2oF9L5W3yOSFnSM6HC7J7RNLAg2NOIU40A-VNHx62dB__l0QOWsQMPazFVzVLWmnkgObhEzUNYgiBY2cKYMcrOiMvOYX9oJmQ52imYIpZaqI-96xgNlnXKDYWer10K-HFRVxVss9wrRhnKJ_GYxGBx_fVPb5W2cZnXZ2w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dIOxSe2EC2NdKJ3tw-LqMb3ouseOj9KXuxMM0UyglUhbszB97jEi7ynUtkd_dFPuleITzmxG5Ggt71Nmj2LQtuGw3xyW4BfyrsrNxv3p4Q-bQA1FXj8hTrWHNb9kJjS2-XUKkfuLK09HK3toriAW1uQah3XqXKAfXwpNXIXUjEtB4CqFtAXmT6ek6k9tXaopzMWayKLA1n7Te6hDKRlWG-_r9VurceWhz21MJXJVexia9hA109gAp0DJliOSdMmzunoe3IXWGDNp9DqBlkSesN8j_-Av-ywwzoUBeyqWuYHOfOM62KxLwZ98UkckJRN068vHw6fOsSLD81Dnlym6qw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔥
 زلزله در نتایج جستجوی گوگل ! تغییرات جدید در رتبه‌ بندی
 🔥
