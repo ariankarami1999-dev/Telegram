@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/V2VEBOYmAQ_uahw2NGUfcn2pZG1_y4Axe8PquWEChYFVJCI160dbLBZNujF4GGUGWj1UrwElqOubUygrg0O0KtMcRQk_bmCthTAuZR6pdY4ivLVJk8uX0LiIf0j0jrR9zcB909O3y35zLN548jcKsaqDJmiFuZlb_MtgkoFuU32BhTVw3s_XoRVFrb0nor81IQwKXu1msiqFJBnd1l1t9D_a1uhE_yFz72KYdPpUBZ7Gd6G98qQOkIN__0AjbxC2yQI4UqjkDAdI8W6gbf-zdskWEqUft7SUTuTmXCH0Ih0PSbJ9lFi9OAUyPzP_ro2VJfNdJUf2ydTBe7sJS77Fug.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/U5RxoE1iJEI-7fuDf2Nu3CUZgIY21fSNpUzBk3d7MsUOesjVB_JTLs1WrH0iSJ6TQ58el6lburtmLbi_ji3nIjJmCcouh--SjaOMlD9uJ7zs10IxhaoPn_mKQAIsX7NPbfS67bDOqeIkXPqG5DshmCe2Xl88gkzsCAEVDDb5pXm5cIBbDuMFS1nI2hk0Uu27FO63WGbQkd_hBQGQEH9JNOk1OUJXfJ2tNXHolytDMwauVwOA69O0OPpTjNB7FNfIDptGTkKltf54R4kZkultVfFaJrHTyRXdZfpVjKiUnYQPF5hxQ5fa0wob56sHdKQP5x_zL691FNsqiRnu4y_nUQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 Persiana Soccer</h1>
-<p>@persiana_Soccer • 👥 491K عضو</p>
+<p>@persiana_Soccer • 👥 490K عضو</p>
 <a href="https://t.me/persiana_Soccer" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پرشیانا ساکر دریچه‌ای تازه از اخبار محرمانه و داغ فوتبال ایران و پوشش اخبار اختصاصی نقل و انتقالاتهماهنگی و رزرو تبلیغات:@adspersianaaa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-18 03:38:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-18 09:36:53</div>
 <hr>
 
 <div class="tg-post" id="msg-31295">
@@ -303,7 +303,7 @@
 ؛از تقابل شیاطین‌سرخ برابر تاتنهام تا مسابقات رئال مادرید و بارسلونا در لالیگا
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/persiana_Soccer/31295" target="_blank">📅 01:24 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/persiana_Soccer/31295" target="_blank">📅 01:24 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31294">
@@ -314,7 +314,7 @@
 نزدیک‌شدن پرسپولیسی‌ها به‌صدرجدول‌لیگ و برد النصر در شب گلزنی رونالدو
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.73K · <a href="https://t.me/persiana_Soccer/31294" target="_blank">📅 01:24 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/persiana_Soccer/31294" target="_blank">📅 01:24 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31293">
@@ -324,7 +324,7 @@
 #تکمیلی؛برنامه بازیای معوقه هفته هفتم رقابت های لیگ که روز سه شنبه و چهارشنبه برگزار میشه.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/persiana_Soccer/31293" target="_blank">📅 01:20 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/persiana_Soccer/31293" target="_blank">📅 01:20 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31292">
@@ -332,7 +332,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Yz0d6ZhUdde9rX6Z0vMNkqBgiYFqSR0KipwKXzzJHSC5PFH4csombh6jXYsVGAS1ZMI2oA2RzmD9ohr0feZbKtWUOmwEIc8hJve8kwTPGAcLt14yb06un3YHIXPeZRibCwA-vgh6IbKuVBkOYRE3n3h425WgIE1nm23ITIgQ9AlVcb5gqdJ1uP_7Ecq4OasMXXviXb8YXKp0dPaUBP7dnWjHksA9PMtzOwkF-4WkeM5mQiSi9yWk-DZ39iQTYiXNH0TGTOjyjHmo9HNH5pzdUGcu6HR4TL6ZskIMWqpfm76zrESHYdGorbxECVWoSIeB88DOEcInxBJ1WQlp5ACxWg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 برنامه‌‌‌‌‌‌‌‌ دیدارها‌ی‌‌‌‌‌‌‌‌ امروز؛ نبرد شاگردان تارتار با صنعت نفت و دیدار زنبورهای وستفالن مقابل وردربرمن برای حفظ صدرنشینی در بوندسلیگا   @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.99K · <a href="https://t.me/persiana_Soccer/31292" target="_blank">📅 01:20 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/persiana_Soccer/31292" target="_blank">📅 01:20 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31291">
@@ -367,7 +367,7 @@ https://yewirkxojf.shop/fa/affiliates/?btag=914641_l303106
 👇
 🔗
 https://t.me/BerryBetOfficial</div>
-<div class="tg-footer">👁️ 9.86K · <a href="https://t.me/persiana_Soccer/31291" target="_blank">📅 01:20 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/persiana_Soccer/31291" target="_blank">📅 01:20 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31290">
@@ -376,7 +376,7 @@ https://t.me/BerryBetOfficial</div>
 <div class="tg-text">🟡
 👤
 گلزنی کریس رونالدو دربازی‌امشب النصر با الدرعیه؛ این 980 امین گل کل دوران حرفه‌ای CR7 بود. همچنین رونالدو به اولین بازیکن‌تاریخ‌تبدیل شد که مقابل 160 باشگاه مختلف موفق به گلزنی شده.  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/persiana_Soccer/31290" target="_blank">📅 00:36 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/persiana_Soccer/31290" target="_blank">📅 00:36 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31289">
@@ -386,7 +386,7 @@ https://t.me/BerryBetOfficial</div>
 دختر خانوم پا اسکولز اسطوره باشگاه منچستر یونایتد: جود بلینگهام بازیکن مورد علاقه منه. بنظر من او در حال حاضر بهتریت بازیکن فوتبال جهانه.
 🟠
 @Persiana_Arena</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/persiana_Soccer/31289" target="_blank">📅 00:25 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/persiana_Soccer/31289" target="_blank">📅 00:25 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31288">
@@ -396,7 +396,7 @@ https://t.me/BerryBetOfficial</div>
 جدول رده‌بندی لیگ برتر در پایان هفته هشتم؛ البته بازی‌شمس‌آذر با پیکان و بازی‌های معوقه هفته هفتم بازی مونده تا جدول رقابت‌ها تکمیل شود.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/persiana_Soccer/31288" target="_blank">📅 00:15 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.6K · <a href="https://t.me/persiana_Soccer/31288" target="_blank">📅 00:15 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31287">
@@ -405,7 +405,7 @@ https://t.me/BerryBetOfficial</div>
 سازمان‌نظام‌وظیفه‌به‌علیرضابیرانونداعلام کرده تا زمان مشخص‌شدن‌وضعیت کمیسیون پزشکی‌اش حق خروج از کشورو ندارد. از طرفیم نکونام به مدیریت باشگاه نامه زده و گفته بیرو رو دیگه نمیخوام.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/persiana_Soccer/31287" target="_blank">📅 00:00 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.2K · <a href="https://t.me/persiana_Soccer/31287" target="_blank">📅 00:00 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31286">
@@ -416,7 +416,7 @@ https://t.me/BerryBetOfficial</div>
 تایید شد؛ علی رضا بیرانوند از هتل و اردوی باشگاه تراکتور تبریز اخراج شد و با صلاح دید جواد نکونام برای همیشه از این تیم کنار گذاشته شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/persiana_Soccer/31286" target="_blank">📅 23:40 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/persiana_Soccer/31286" target="_blank">📅 23:40 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31285">
@@ -426,7 +426,7 @@ https://t.me/BerryBetOfficial</div>
 جوانگرایی‌بسبک‌تارتار؛ حضور پویا اسمی بازیکن 16 ساله به جای ابرقویی نژاد در ترکیب پرسپولیس.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 32.4K · <a href="https://t.me/persiana_Soccer/31285" target="_blank">📅 23:24 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/persiana_Soccer/31285" target="_blank">📅 23:24 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31284">
@@ -436,7 +436,7 @@ https://t.me/BerryBetOfficial</div>
 مهدی‌تاج رئیس فدراسیون فوتبال: هیات رئیسه مخالف دادن جام‌قهرمانی به باشگاه استقلال بود ولی این مورد مجددا در حال بررسیه. اگه بخوایم‌جام هم اهدا کنیم توی مراسم برترین‌های فصل اعلام میکنیم.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/persiana_Soccer/31284" target="_blank">📅 23:03 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 42.8K · <a href="https://t.me/persiana_Soccer/31284" target="_blank">📅 23:03 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31282">
@@ -449,7 +449,7 @@ https://t.me/BerryBetOfficial</div>
 قدمت باشگاه‌های فوتبال ایران از ابتدا تا کنون؛ آبی پوشان پایتخت قدیمی ترین باشگاه ایران.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/persiana_Soccer/31282" target="_blank">📅 22:40 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/persiana_Soccer/31282" target="_blank">📅 22:40 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31281">
@@ -466,7 +466,7 @@ https://t.me/BerryBetOfficial</div>
 🟡
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 38.7K · <a href="https://t.me/persiana_Soccer/31281" target="_blank">📅 22:34 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 44.3K · <a href="https://t.me/persiana_Soccer/31281" target="_blank">📅 22:34 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31280">
@@ -476,7 +476,7 @@ https://t.me/BerryBetOfficial</div>
 #تکمیلی؛دستور واتساپی‌شجاع‌خلیل‌زاده کاپیتان تراکتور به‌بازیکنان‌تیم‌تراکتور:همتون علیرضا بیرانوند رو آنفالو کنید. او دیگر جایگاهی در تراکتور ندارد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/persiana_Soccer/31280" target="_blank">📅 22:24 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 46.1K · <a href="https://t.me/persiana_Soccer/31280" target="_blank">📅 22:24 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31279">
@@ -486,7 +486,7 @@ https://t.me/BerryBetOfficial</div>
 #فکت؛ کریستیانو رونالدو در طول کریرش مقابل 159 باشگاه مختلف‌گلزنی کرده است. اگر فردا مقابل باشگاه‌الدرعیه گلزنی کنه اولین بازیکنی خواهد بود که مقابل 160 باشگاه مختلف گلزنی کرده است.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/persiana_Soccer/31279" target="_blank">📅 22:03 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 46.7K · <a href="https://t.me/persiana_Soccer/31279" target="_blank">📅 22:03 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31278">
@@ -494,7 +494,7 @@ https://t.me/BerryBetOfficial</div>
 <div class="tg-text">🚨
 🔵
 #تکمیلی؛ فکر کنم تنها کانالی بودیم که بارها گفتیم که رئیس فدراسیون فوتبال به باشگاه استقلال وعده اهدای جام قهرمانی فصل گذشته لییگ برتر رو داده. حالا هم طبق شنیده‌های رسانه پرشیانا تا اوایل هفته اینده فدراسیون رسما در بیانیه‌ای استقلال رو قهرمان فصل قبل لیگ…</div>
-<div class="tg-footer">👁️ 43.6K · <a href="https://t.me/persiana_Soccer/31278" target="_blank">📅 21:45 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47.7K · <a href="https://t.me/persiana_Soccer/31278" target="_blank">📅 21:45 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31277">
@@ -504,7 +504,7 @@ https://t.me/BerryBetOfficial</div>
 قدمت باشگاه‌های فوتبال ایران از ابتدا تا کنون؛ آبی پوشان پایتخت قدیمی ترین باشگاه ایران.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/persiana_Soccer/31277" target="_blank">📅 21:02 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/persiana_Soccer/31277" target="_blank">📅 21:02 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31276">
@@ -514,7 +514,7 @@ https://t.me/BerryBetOfficial</div>
 با اعلام وزیر آموزش و پروش؛ به احتمال زیاد مدارس بزودی و در روزهای آتی تعطیل خواهد شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 48.3K · <a href="https://t.me/persiana_Soccer/31276" target="_blank">📅 20:46 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 51.4K · <a href="https://t.me/persiana_Soccer/31276" target="_blank">📅 20:46 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31275">
@@ -524,7 +524,7 @@ https://t.me/BerryBetOfficial</div>
 #تکمیلی؛ ادعای بن جیکوبز: خطر این سناریوی فاجعه‌‌بار وجود داره که باشگاه بزرگ منچسترسیتی به‌طور کامل از دنیای فوتبال کنار گذاشته بشه.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 46.6K · <a href="https://t.me/persiana_Soccer/31275" target="_blank">📅 20:16 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 49K · <a href="https://t.me/persiana_Soccer/31275" target="_blank">📅 20:16 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31273">
@@ -537,7 +537,7 @@ https://t.me/BerryBetOfficial</div>
 تفکیک‌ گل‌های کریس رونالدو و لیونل مسی در مسابقات ملی؛ رونالدو 146 گل در کل دوران حرفه ای خود با پیراهن پرتغال به ثمر رسانده و مسی 126 گل برای آرژانتین به ثبت رسانده.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/persiana_Soccer/31273" target="_blank">📅 20:11 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 48.2K · <a href="https://t.me/persiana_Soccer/31273" target="_blank">📅 20:11 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31272">
@@ -553,7 +553,7 @@ https://t.me/BerryBetOfficial</div>
 سوتی‌های عجیب و غریب دروازه‌بانان باشگاه‌ها درهفته هشتم رقابت‌ها بعد از اتمام فیفادی مهر ماه.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 45.3K · <a href="https://t.me/persiana_Soccer/31272" target="_blank">📅 20:03 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47.4K · <a href="https://t.me/persiana_Soccer/31272" target="_blank">📅 20:03 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31271">
@@ -561,7 +561,7 @@ https://t.me/BerryBetOfficial</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sK8MZcpgD1Y8unX60G1xbcXjyv3L7nucl5E1AklspfUWgECejqMZEEfO4PtaFCiI1WEu7IGrTsHIB0UbhGkjVWO3BrMr0x8SL8Ax_vFRFbF3_7nyNHJzFmK1w88XzvQj9OdS1IFYHfD6zVtKeh2zZyRWzGBIl2xzP_7BYU9nCaeIvfnSl-eZ-GJnEGEwvm70vjNmZfdnXVi4JRaLJXxzji93-cFL9-flblJLu8MRgTMOs6r3vIeDKOTK0gTnC9wjvA83sVXuuET7zwu0AvAWRYWaCQMGoRE1BZqcP_-bK3UlBSyBZCci1rrHUl9sPrJb4TPy-g-OHaolyP4gjrPDGQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 طبق اخبار دریافتی رسانه پرشیانا؛ کادر پزشکی باشگاه‌استقلال به‌سهراب‌بختیاری‌زاده سرمربی آبی‌ها توصیه‌کرده دربازی‌روزدوشنبه استقلال مقابل الغرافه ازآسانی استفاده‌‌نکنه‌ تا مصدومیت امروز او از ناحیه ساق پا کامل برطرف شود. بدین‌ترتیب‌به‌احتمال زیاد آسانی در…</div>
-<div class="tg-footer">👁️ 44.6K · <a href="https://t.me/persiana_Soccer/31271" target="_blank">📅 19:55 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 46.6K · <a href="https://t.me/persiana_Soccer/31271" target="_blank">📅 19:55 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31270">
@@ -570,7 +570,7 @@ https://t.me/BerryBetOfficial</div>
 جدول رده‌بندی لیگ برتر در پایان هفته هشتم؛ البته بازی‌شمس‌آذر با پیکان و بازی‌های معوقه هفته هفتم بازی مونده تا جدول رقابت‌ها تکمیل شود.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/persiana_Soccer/31270" target="_blank">📅 19:55 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 45.4K · <a href="https://t.me/persiana_Soccer/31270" target="_blank">📅 19:55 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31269">
@@ -611,7 +611,7 @@ https://yewirkxojf.shop/fa/affiliates/?btag=914641_l303106
 👇
 ✅
 https://t.me/BerryBetOfficial</div>
-<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/persiana_Soccer/31269" target="_blank">📅 19:55 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47K · <a href="https://t.me/persiana_Soccer/31269" target="_blank">📅 19:55 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31268">
@@ -621,7 +621,7 @@ https://t.me/BerryBetOfficial</div>
 #فوری؛ وزیر آموزش و پرورش رسما از تعطیلی احتمالی مدارس به دلیل تهدیدات جنگی خبر داد.
 🟠
 @Persiana_Arena</div>
-<div class="tg-footer">👁️ 48.1K · <a href="https://t.me/persiana_Soccer/31268" target="_blank">📅 19:40 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 50.2K · <a href="https://t.me/persiana_Soccer/31268" target="_blank">📅 19:40 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31266">
@@ -634,7 +634,7 @@ https://t.me/BerryBetOfficial</div>
 بانوان هوادار پرسپولیس درقلعه‌حسن خان.
 🟠
 @Persiana_Arena</div>
-<div class="tg-footer">👁️ 47K · <a href="https://t.me/persiana_Soccer/31266" target="_blank">📅 19:19 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 48.8K · <a href="https://t.me/persiana_Soccer/31266" target="_blank">📅 19:19 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31265">
@@ -651,7 +651,7 @@ https://t.me/BerryBetOfficial</div>
 🟡
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 47.1K · <a href="https://t.me/persiana_Soccer/31265" target="_blank">📅 19:08 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 49.5K · <a href="https://t.me/persiana_Soccer/31265" target="_blank">📅 19:08 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31264">
@@ -668,7 +668,7 @@ https://t.me/BerryBetOfficial</div>
 🟡
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/persiana_Soccer/31264" target="_blank">📅 19:02 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/persiana_Soccer/31264" target="_blank">📅 19:02 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31263">
@@ -678,7 +678,7 @@ https://t.me/BerryBetOfficial</div>
 سرخ‌ها روی‌کرنربازم گل خوردند! گل اول صنعت نفت آبادان به پرسپولیس توسط باصری در دقیقه 66
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 45.4K · <a href="https://t.me/persiana_Soccer/31263" target="_blank">📅 18:59 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/persiana_Soccer/31263" target="_blank">📅 18:59 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31262">
@@ -694,7 +694,7 @@ https://t.me/BerryBetOfficial</div>
 اولین گل‌ستاره‌ ازبک سرخ‌ها درفصل جدید؛ گل سوم پرسپولیس به نفت توسط اورونوف دقیقه 85
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.4K · <a href="https://t.me/persiana_Soccer/31262" target="_blank">📅 18:59 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/persiana_Soccer/31262" target="_blank">📅 18:59 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31261">
@@ -710,7 +710,7 @@ https://t.me/BerryBetOfficial</div>
 سرخ‌ها روی‌کرنربازم گل خوردند! گل اول صنعت نفت آبادان به پرسپولیس توسط باصری در دقیقه 66
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44K · <a href="https://t.me/persiana_Soccer/31261" target="_blank">📅 18:52 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 45.4K · <a href="https://t.me/persiana_Soccer/31261" target="_blank">📅 18:52 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31260">
@@ -726,7 +726,7 @@ https://t.me/BerryBetOfficial</div>
 تثبیت‌پیروزی‌خانگی سرخ‌ها؛ گل دوم پرسپولیس به صنعت نفت توسط علی علیپور در دقیقه 50
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 45K · <a href="https://t.me/persiana_Soccer/31260" target="_blank">📅 18:34 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/persiana_Soccer/31260" target="_blank">📅 18:34 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31259">
@@ -742,7 +742,7 @@ https://t.me/BerryBetOfficial</div>
 شروع‌طوفانی‌شاگردان‌تارتار؛گل اول پرسپولیس به صنعت نفت آبادان توسط تیوی بیفوما در دقیقه 5
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 45K · <a href="https://t.me/persiana_Soccer/31259" target="_blank">📅 18:20 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 46.3K · <a href="https://t.me/persiana_Soccer/31259" target="_blank">📅 18:20 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31258">
@@ -752,7 +752,7 @@ https://t.me/BerryBetOfficial</div>
 تصاویر جدیدی از بازی GTA VI؛ این تصاویر در بخش موسیقی وب‌سایت بازی قرار گرفته‌اند و نگاه تازه‌ای به فضای جهان GTA VI ارائه می‌دهند.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 45K · <a href="https://t.me/persiana_Soccer/31258" target="_blank">📅 17:48 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 46.2K · <a href="https://t.me/persiana_Soccer/31258" target="_blank">📅 17:48 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31257">
@@ -768,7 +768,7 @@ https://t.me/BerryBetOfficial</div>
 از وقتی که مسعود محبی مدافع تیم خیبر توسط رسانه‌ها بولدشد و باشگاه استقلال نیز به دنبال جذب او افتاد هر هفتههه داره سوتی میده لامصب. این چه اشتباهی بود که تو بازی امروز کردی پسر خوب!
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 45.1K · <a href="https://t.me/persiana_Soccer/31257" target="_blank">📅 17:19 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 46.3K · <a href="https://t.me/persiana_Soccer/31257" target="_blank">📅 17:19 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31256">
@@ -785,7 +785,7 @@ https://t.me/BerryBetOfficial</div>
 شماتیک‌ترکیب پرسپولیس برای دیدار امروز مقابل صنعت‌نفت آبادان؛ علی علیپور، کنعانی زادگان و ایری بدلیل‌مصدومیت این بازی رو از دست دادند.
 ⚪️
 Persiana_Soccer</div>
-<div class="tg-footer">👁️ 46.2K · <a href="https://t.me/persiana_Soccer/31256" target="_blank">📅 17:10 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47.3K · <a href="https://t.me/persiana_Soccer/31256" target="_blank">📅 17:10 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31255">
@@ -801,7 +801,7 @@ Persiana_Soccer</div>
 بخش رسانه‌ای باشگاه خیبر خرم آباد در اقدامی جالب شماتیک ترکیب این تیم مقابل چادر ملو رو به این شکل "یه نوع شیرینی محلی" منتشر کرد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/persiana_Soccer/31255" target="_blank">📅 17:00 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 46.8K · <a href="https://t.me/persiana_Soccer/31255" target="_blank">📅 17:00 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31254">
@@ -811,7 +811,7 @@ Persiana_Soccer</div>
 لیست‌کامل بازیکنان دو تیم پرسپولیس و صنعت نفت درهفته‌هشتم لیگ برتر؛ مارکو باکیچ و دنیل گرا از لیست سرخپوشان برای این بازی خط خوردند.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44K · <a href="https://t.me/persiana_Soccer/31254" target="_blank">📅 16:51 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 45K · <a href="https://t.me/persiana_Soccer/31254" target="_blank">📅 16:51 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31253">
@@ -820,7 +820,7 @@ Persiana_Soccer</div>
 #تکمیلی؛دستور واتساپی‌شجاع‌خلیل‌زاده کاپیتان تراکتور به‌بازیکنان‌تیم‌تراکتور:همتون علیرضا بیرانوند رو آنفالو کنید. او دیگر جایگاهی در تراکتور ندارد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/persiana_Soccer/31253" target="_blank">📅 16:47 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/persiana_Soccer/31253" target="_blank">📅 16:47 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31252">
@@ -830,7 +830,7 @@ Persiana_Soccer</div>
 هفته‌هشتم‌لیگ‌برتر؛ ترکیب تیم پرسپولیس برای دیدار امروز مقابل صنعت‌نفت آبادان؛ ساعت 17:00
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/persiana_Soccer/31252" target="_blank">📅 16:30 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/persiana_Soccer/31252" target="_blank">📅 16:30 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31251">
@@ -840,7 +840,7 @@ Persiana_Soccer</div>
 #تکمیلی؛ همانطور که‌چندهفته پیش اعلام کردیم که جدایی دنیل‌گرا و باکیچ ازپرسپولیس در نیم فصل قطعی شده؛ مهدی تارتار نام این دو بازیکن خارجی رو از لیست سرخ‌ها برای دیدارفردا باصنعت‌نفت خط زد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/persiana_Soccer/31251" target="_blank">📅 16:24 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 43.2K · <a href="https://t.me/persiana_Soccer/31251" target="_blank">📅 16:24 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31250">
@@ -851,7 +851,7 @@ Persiana_Soccer</div>
 به احتمال زیاد پرسپولیس امروز عصر با این ارنج به مصاف صنعت نفت آبادان خواهد رفت.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/persiana_Soccer/31250" target="_blank">📅 16:05 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/persiana_Soccer/31250" target="_blank">📅 16:05 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31248">
@@ -864,7 +864,7 @@ Persiana_Soccer</div>
 تشویق‌ده‌ثانیه‌ای‌لیونل‌مسی شماره 10 آرژانتین و ایستادن به افتخار او در برنامه ورزش و مردم بخاطر خداحافظی او از تیم ملی فوتبال آرژانتین در اوج.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/persiana_Soccer/31248" target="_blank">📅 16:05 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 43K · <a href="https://t.me/persiana_Soccer/31248" target="_blank">📅 16:05 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31247">
@@ -877,7 +877,7 @@ Persiana_Soccer</div>
 خرید از اسنپ‌سرمایه
 خرید از اسنپ‌سرمایه
 خرید از اسنپ‌سرمایه</div>
-<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/persiana_Soccer/31247" target="_blank">📅 16:05 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/persiana_Soccer/31247" target="_blank">📅 16:05 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31246">
@@ -887,7 +887,7 @@ Persiana_Soccer</div>
 مقایسه عملکرد نیمار جونیور، گرت بیل، محمد صلاح و ادن هازارد درکل دوران حرفه‌ایشون.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/persiana_Soccer/31246" target="_blank">📅 15:31 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/persiana_Soccer/31246" target="_blank">📅 15:31 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31244">
@@ -904,7 +904,7 @@ Persiana_Soccer</div>
 شعرخوندن‌بازیکنان تیم ارژانتین تو اتوبوس برای مسی : "لئو تو مثل اونشب تو قطر جاودانه ای. مارو ترک نکن همه میخوان تو بمونی و..."
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/persiana_Soccer/31244" target="_blank">📅 15:07 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 43.2K · <a href="https://t.me/persiana_Soccer/31244" target="_blank">📅 15:07 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31243">
@@ -916,7 +916,7 @@ Persiana_Soccer</div>
 #تکمیلی؛ با تاییدیه کادرپزشکی باشگاه بارسلونا؛ مصدومیت جزئی رافینیا دیاز برطرف شده و او مشکلی برای همراهی آبی اناری‌ها در بازی مقابل ختافه در هفته هشتم رقابتای لالیگا نخواهد داشت.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.5K · <a href="https://t.me/persiana_Soccer/31243" target="_blank">📅 14:56 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/persiana_Soccer/31243" target="_blank">📅 14:56 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31242">
@@ -932,7 +932,7 @@ Persiana_Soccer</div>
 بهترین‌نمایشی‌که‌یه‌مهاجم مقابل ایران از خودش نشون داد. استپ سینه‌ هاش آدم رو یاد پرایم زلاتان مینداخت. همون استپ سینه‌اش رفت تو گل ایران.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.6K · <a href="https://t.me/persiana_Soccer/31242" target="_blank">📅 14:51 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/persiana_Soccer/31242" target="_blank">📅 14:51 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31240">
@@ -945,7 +945,7 @@ Persiana_Soccer</div>
 حضور بانوان هوادار تراکتور در ورزشگاه یادگار در جریان مسابقه روز گذشته پرشورها با استقلال.
 🟠
 @Persiana_Arena</div>
-<div class="tg-footer">👁️ 43.6K · <a href="https://t.me/persiana_Soccer/31240" target="_blank">📅 14:40 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 44.3K · <a href="https://t.me/persiana_Soccer/31240" target="_blank">📅 14:40 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31239">
@@ -957,7 +957,7 @@ Persiana_Soccer</div>
 صنعت نفت آبادان درتمام مسابقات: 48 مسابقه، 31 پیروزی پرسپولیس، 6 برد صنعت نفت و 11 بازی مساوی.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/persiana_Soccer/31239" target="_blank">📅 14:33 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 45.3K · <a href="https://t.me/persiana_Soccer/31239" target="_blank">📅 14:33 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31238">
@@ -968,20 +968,20 @@ Persiana_Soccer</div>
 دبل نیمار دربازی‌بامدادامروز سانتوس در لیگ برزیل؛ جفت گل‌های نیمار از روی نقطه پنالتی بود.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 46.6K · <a href="https://t.me/persiana_Soccer/31238" target="_blank">📅 13:57 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47.3K · <a href="https://t.me/persiana_Soccer/31238" target="_blank">📅 13:57 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31236">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/GZ8gHA4n7Nztzs8e2EmUF-bRfb8yJLMpUwqZLMTaIinSP_Xfo7zX6kxwi22poImQVYNWCi7n7gL8ZrVgmVViPAfxVMjV_CNDJgPv7n00wdkoeDmvYl2Cul59nSEPMpxCTiCeRxAhQyqlcXqMuULE6C1EZfHsMwbh8Lu_vhPauaNAfijaEO4dQi5RdGZrqj523rBv9QluaLQbIzsNQH71gLWujN7BBkwU6u5Ho93z90hDSfJktL2rAlgKVG6fJOIMgyZzGJpi5oO6ufv_rLoQtFOZtri0t0vmXuE4CrStDyVmIyGOy9zw6x3BkpxUpqfHecmf7HbnFG7NUsi8Olo4FA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/hmZ5X3XbOhYGSXJP7XHxEIIzV8WAoDl5zC0iDy5T2fFAC5XhhSYUowFkmMd4dxO8vcrEPkvk17_CZNeBkc8uvIOsQYeN6Iy3ZguzsreRl3edTIX4v68cDR3oIX1RnQ0EF1hvPfX9sO5jdvTSoyNZ6Dxo3oVj84HB9V42h2IHal5Z0r_-HYtgkV_1g3dUOL_ZjfbFPp-NvAiUGgy6zzurj5tqSLwIgMOEYzRMadZnrVYjncv42KN8b6E9oqhAO0Je__HSq8wbk-v8HghLSZf72N7JSZ4AzppQqUyxoS9rs89Iihikufk2_4_MLogiQiIzilIkBizBCvyv_OCCXV9b3Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/qsbmz186mqZaBQK4gzXUX6oyzPKCBbMUmKJNYnM5UTvkomMUTH9icFnqQ4gnR8dvf7SpcPNduiFdCruyfFM9VRs1XXt60C37US0Hef1l9ZqZbVUeM1T5A_mPjypGPhBHuWvIiCVWCNbEDLG4m-tIdPCNGCzxECqy7zBmWeEH_mns7t_QNQrS5O8iCOfptLx4h2BgHP6KnlIW_GbZeqQRYvgG73ooQFAiY0t_O95i-lOwTWq3fopRTuv9w86k-o8VqMpzo9X0WnOTJhTMPJPb3yp1b33mH3cAvILz_t1M9MVzivZIsuib_ungyPuRZtzLo2GNuXP3A6pkW_Vqd_f72Q.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">‼️
 صحبت‌های تلخ همسر خدا بیامرز هادی نوروزی اسطوره باشگاه پرسپولیس که با گذشت 12 سال از فوت هادی هنوز لباس مشکی‌اش رو در نیاورده‌.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 47.8K · <a href="https://t.me/persiana_Soccer/31236" target="_blank">📅 12:13 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 48.4K · <a href="https://t.me/persiana_Soccer/31236" target="_blank">📅 12:13 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31235">
@@ -991,7 +991,7 @@ Persiana_Soccer</div>
 تعدادجام‌های‌معتبر کریس‌رونالدو و لیونل مسی دو اسطوره تاریخ فوتبال در کل دوران‌حرفه‌ایشون.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 47K · <a href="https://t.me/persiana_Soccer/31235" target="_blank">📅 11:38 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47.5K · <a href="https://t.me/persiana_Soccer/31235" target="_blank">📅 11:38 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31234">
@@ -1004,7 +1004,7 @@ Persiana_Soccer</div>
 این‌ویویو روببینید تامتوجه بشید که چرا کریس رونالدو اردوی تیم‌ملی پرتغال رو اون شب ترک کرد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 47.1K · <a href="https://t.me/persiana_Soccer/31234" target="_blank">📅 11:21 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47.6K · <a href="https://t.me/persiana_Soccer/31234" target="_blank">📅 11:21 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31233">
@@ -1015,7 +1015,7 @@ Persiana_Soccer</div>
 ویدیو کامل قسمت سوم برنامه ابوطالب رو هم میتونید از طریق پست ریپلای شده مشاهده کنید.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 47.3K · <a href="https://t.me/persiana_Soccer/31233" target="_blank">📅 11:21 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47.8K · <a href="https://t.me/persiana_Soccer/31233" target="_blank">📅 11:21 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31232">
@@ -1047,7 +1047,7 @@ r17
 https://DerbyBet.com
 📩
 @Derbybet</div>
-<div class="tg-footer">👁️ 46.3K · <a href="https://t.me/persiana_Soccer/31232" target="_blank">📅 11:21 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 46.8K · <a href="https://t.me/persiana_Soccer/31232" target="_blank">📅 11:21 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31231">
@@ -1058,7 +1058,7 @@ https://DerbyBet.com
 به احتمال زیاد پرسپولیس امروز عصر با این ارنج به مصاف صنعت نفت آبادان خواهد رفت.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 46.5K · <a href="https://t.me/persiana_Soccer/31231" target="_blank">📅 11:04 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 47K · <a href="https://t.me/persiana_Soccer/31231" target="_blank">📅 11:04 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31230">
@@ -1068,22 +1068,22 @@ https://DerbyBet.com
 صحنه‌ای‌که علیرضا بیرانوند درپایان دیدار دوتیم استقلال و تراکتور به‌این‌شکل‌سراغ‌یاسر آسانی ستاره آلبانیایی تیم استقلال رفت و جویای احوال او شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 48.4K · <a href="https://t.me/persiana_Soccer/31230" target="_blank">📅 10:40 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/persiana_Soccer/31230" target="_blank">📅 10:40 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31229">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/5f9af88968.mp4?token=Lv6A7XKhe3k7_AOgSXZO7ZKYK9mIyWEJfI6G01QWLXyingeiPNeKW5s62ZfLNGWA6Nwyb35aLkK2ZYEhUbUp5QIL21YeZOIHrVHUL6fVob0Il3PKk8QkQxeTUBowjl4dYRPyAjd4ZS7L-Q7Zr1LxCE3NvRWs04OrGJnxFeUz8VyvhUhGIdD09ACrj0W-HQHBUzEF7JzJRrmaQ5pfL3bi-oEL3Z0jJEQy0jSnYgU49iGnsPgXvNbPBw_FiBBS2HXsaEGZgiRHS3Gsm4Vt4bdAgCSW0Vj1jRGKMLgSIeWw9f-w3kZY0ocB0rf-T7yvkaU0lYhTKt5Zx9RLmPFBErBvkw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/5f9af88968.mp4?token=QX-AP4Z4OD_q-_m-3Jctny5JM906c7-NkYAF2Ry0r8MiW-JKxD15P4XxuDbCV6YQm_SQTMIva3kTjHk9OCAywVAMD98B4g9vpzaLrqSJGIzowOMwmM6mAjNcyZ071GuOXvbO7FPSvGy9wRQMqxCnxOZpoEJjdiaYr-RGHV47Kzb7uMzyJDc-wk8f-xIRHp-T-VHR3sBbvVuin6WHbosi0Gn-UtZIsfs4rA6wboUGSdc1uPfv3moYFQdnkiBwYf_2TFL3hsR5n-0Jk3AKmk7oUbM9fDRJgCo6pY0fwDybPaklcRXW5eEVnH3oDfWt8_SyHnjhKukH6Cf8SdSZcGmYKQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/5f9af88968.mp4?token=Lv6A7XKhe3k7_AOgSXZO7ZKYK9mIyWEJfI6G01QWLXyingeiPNeKW5s62ZfLNGWA6Nwyb35aLkK2ZYEhUbUp5QIL21YeZOIHrVHUL6fVob0Il3PKk8QkQxeTUBowjl4dYRPyAjd4ZS7L-Q7Zr1LxCE3NvRWs04OrGJnxFeUz8VyvhUhGIdD09ACrj0W-HQHBUzEF7JzJRrmaQ5pfL3bi-oEL3Z0jJEQy0jSnYgU49iGnsPgXvNbPBw_FiBBS2HXsaEGZgiRHS3Gsm4Vt4bdAgCSW0Vj1jRGKMLgSIeWw9f-w3kZY0ocB0rf-T7yvkaU0lYhTKt5Zx9RLmPFBErBvkw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/5f9af88968.mp4?token=QX-AP4Z4OD_q-_m-3Jctny5JM906c7-NkYAF2Ry0r8MiW-JKxD15P4XxuDbCV6YQm_SQTMIva3kTjHk9OCAywVAMD98B4g9vpzaLrqSJGIzowOMwmM6mAjNcyZ071GuOXvbO7FPSvGy9wRQMqxCnxOZpoEJjdiaYr-RGHV47Kzb7uMzyJDc-wk8f-xIRHp-T-VHR3sBbvVuin6WHbosi0Gn-UtZIsfs4rA6wboUGSdc1uPfv3moYFQdnkiBwYf_2TFL3hsR5n-0Jk3AKmk7oUbM9fDRJgCo6pY0fwDybPaklcRXW5eEVnH3oDfWt8_SyHnjhKukH6Cf8SdSZcGmYKQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🔵
 👤
 ادعای نشریه فوت مرکاتو: نیمار زمانیکه در الهلال بوده به سران این باشگاه گفته جزیره میخوام اونام درجابراش‌خریدن. درامدنیمار درالهلال به حدی بالا بوده که درامد سیزده روزش رو به خرید جزیره اختصاص داده‌. نیمار در تیم الهلال به ازای هر لمس توپ، حدود ۱.۱ میلیون…</div>
-<div class="tg-footer">👁️ 49.2K · <a href="https://t.me/persiana_Soccer/31229" target="_blank">📅 10:19 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 49.7K · <a href="https://t.me/persiana_Soccer/31229" target="_blank">📅 10:19 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31227">
@@ -1094,7 +1094,7 @@ https://DerbyBet.com
 به احتمال زیاد پرسپولیس امروز عصر با این ارنج به مصاف صنعت نفت آبادان خواهد رفت.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 50K · <a href="https://t.me/persiana_Soccer/31227" target="_blank">📅 10:00 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 50.5K · <a href="https://t.me/persiana_Soccer/31227" target="_blank">📅 10:00 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31226">
@@ -1104,7 +1104,7 @@ https://DerbyBet.com
 برنامه‌‌‌‌‌‌‌‌ دیدارها‌ی‌‌‌‌‌‌‌‌ امروز
 ؛ نبرد شاگردان تارتار با صنعت نفت و دیدار زنبورهای وستفالن مقابل وردربرمن برای حفظ صدرنشینی در بوندسلیگا
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 53.9K · <a href="https://t.me/persiana_Soccer/31226" target="_blank">📅 08:05 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 54.3K · <a href="https://t.me/persiana_Soccer/31226" target="_blank">📅 08:05 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31225">
@@ -1114,7 +1114,7 @@ https://DerbyBet.com
 نتایج‌‌‌‌‌‌‌‌‌دیدارها‌ی‌‌‌‌‌‌‌‌‌دیروز؛
 از تساوی‌در نبرد استقلال و تراکتور تا آتش‌بازی سپاهان با درخشش حاج‌صفی
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 53.8K · <a href="https://t.me/persiana_Soccer/31225" target="_blank">📅 08:04 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 54.2K · <a href="https://t.me/persiana_Soccer/31225" target="_blank">📅 08:04 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31224">
@@ -1130,7 +1130,7 @@ https://DerbyBet.com
 🔵
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 55.8K · <a href="https://t.me/persiana_Soccer/31224" target="_blank">📅 01:06 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/persiana_Soccer/31224" target="_blank">📅 01:06 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31223">
@@ -1140,7 +1140,7 @@ https://DerbyBet.com
 صحنه‌ای‌که علیرضا بیرانوند درپایان دیدار دوتیم استقلال و تراکتور به‌این‌شکل‌سراغ‌یاسر آسانی ستاره آلبانیایی تیم استقلال رفت و جویای احوال او شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 56.9K · <a href="https://t.me/persiana_Soccer/31223" target="_blank">📅 00:48 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.2K · <a href="https://t.me/persiana_Soccer/31223" target="_blank">📅 00:48 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31222">
@@ -1149,7 +1149,7 @@ https://DerbyBet.com
 علیرضا بیرانوند به‌دوستان‌نزدیک‌خودگفته تا تیر ماه سربازی‌اش به پایان میرسه و در نقل و انتقالات نیم فصل با قراردادی سه ساله استقلالی میشه.
 🟠
 @Persiana_Arena</div>
-<div class="tg-footer">👁️ 57K · <a href="https://t.me/persiana_Soccer/31222" target="_blank">📅 00:17 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.2K · <a href="https://t.me/persiana_Soccer/31222" target="_blank">📅 00:17 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31221">
@@ -1165,7 +1165,7 @@ https://DerbyBet.com
 صحبت‌های تلخ همسر خدا بیامرز هادی نوروزی اسطوره باشگاه پرسپولیس که با گذشت 12 سال از فوت هادی هنوز لباس مشکی‌اش رو در نیاورده‌.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 57.8K · <a href="https://t.me/persiana_Soccer/31221" target="_blank">📅 00:06 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/persiana_Soccer/31221" target="_blank">📅 00:06 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31220">
@@ -1176,7 +1176,7 @@ https://DerbyBet.com
 #فکت؛ کریستیانو رونالدو در طول کریرش مقابل 159 باشگاه مختلف‌گلزنی کرده است. اگر فردا مقابل باشگاه‌الدرعیه گلزنی کنه اولین بازیکنی خواهد بود که مقابل 160 باشگاه مختلف گلزنی کرده است.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 57.9K · <a href="https://t.me/persiana_Soccer/31220" target="_blank">📅 23:48 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/persiana_Soccer/31220" target="_blank">📅 23:48 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31219">
@@ -1186,7 +1186,7 @@ https://DerbyBet.com
 شجاع خلیل‌زاده بیرانوند رو آنفالو کرده و از همه بازیکنان خواسته‌که‌این‌بازیکن رو آنفالو کنند. بیرو بعد بازی بااستقلال گفته تصمیم نهایی‌ام رو برای پیوستن به این تیم در پایان خدمت سربازی ام گرفته ام.
 🟠
 @Persiana_Arena</div>
-<div class="tg-footer">👁️ 58.8K · <a href="https://t.me/persiana_Soccer/31219" target="_blank">📅 23:30 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/persiana_Soccer/31219" target="_blank">📅 23:30 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31218">
@@ -1199,7 +1199,7 @@ https://DerbyBet.com
 کریستیانو رونالدو در طول کریرش مقابل 159 باشگاه مختلف‌گلزنی کرده است. اگر فردا مقابل باشگاه‌الدرعیه گلزنی کنه اولین بازیکنی خواهد بود که مقابل 160 باشگاه مختلف گلزنی کرده است.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 57.7K · <a href="https://t.me/persiana_Soccer/31218" target="_blank">📅 23:18 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 58K · <a href="https://t.me/persiana_Soccer/31218" target="_blank">📅 23:18 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31217">
@@ -1215,7 +1215,7 @@ https://DerbyBet.com
 نتایج و جدول رده‌بندی لیگ برتر در پایان مسابقات امروز؛ تقابل حساس فردا پرسپولیس مقابل صنعت نفت آبادان در هفته هشتم لیگ.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 57.6K · <a href="https://t.me/persiana_Soccer/31217" target="_blank">📅 22:52 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57.9K · <a href="https://t.me/persiana_Soccer/31217" target="_blank">📅 22:52 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31216">
@@ -1226,7 +1226,7 @@ https://DerbyBet.com
 #تکمیلی؛ طبق آخرین اخبار دریافتی رسانه پرشیانا؛جدایی‌دنیل‌گرا و مارکو باکیچ در نیم فصل از پرسپولیس قطعی‌شده‌است و مهدی تارتار به مدیریت اعلام کرده نیازی به این دو بازیکن خارجی ندارد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/persiana_Soccer/31216" target="_blank">📅 22:44 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 56.3K · <a href="https://t.me/persiana_Soccer/31216" target="_blank">📅 22:44 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31215">
@@ -1236,7 +1236,7 @@ https://DerbyBet.com
 ژاوی اسپارت ستاره 19 ساله تیم بارسلونا قرار دادش رو تا سال 2030 با آبی اناری‌ ها تمدید کرد. اسپارت قابلیت بازی درچهارپست مختلف رو داره و در واقع آچر فرانسه جوان تیم هانسی فلیک است.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 55.4K · <a href="https://t.me/persiana_Soccer/31215" target="_blank">📅 22:34 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 55.7K · <a href="https://t.me/persiana_Soccer/31215" target="_blank">📅 22:34 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31214">
@@ -1246,7 +1246,7 @@ https://DerbyBet.com
 نشریه ال‌ناسیونال: اولیسه خواهان بند آزاد‌سازی ۱۷۵ میلیون‌یورویی درقرارداد جدید با بایرن‌مونیخه و گفته درصورتی تمدیدمیکنم که این بند رو بگنجانید و هر باشگاهی "رئال" این پول رو داد بند رو فعال کنید.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 55.6K · <a href="https://t.me/persiana_Soccer/31214" target="_blank">📅 22:25 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 55.8K · <a href="https://t.me/persiana_Soccer/31214" target="_blank">📅 22:25 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31213">
@@ -1263,7 +1263,7 @@ https://DerbyBet.com
 مهدی طارمی مهاجم 34 ساله تیم الوصل در اقدامی خیر خواهانه 8 زندانی در تهران رو آزاد کرد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/persiana_Soccer/31213" target="_blank">📅 21:59 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 56.7K · <a href="https://t.me/persiana_Soccer/31213" target="_blank">📅 21:59 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31212">
@@ -1273,14 +1273,14 @@ https://DerbyBet.com
 واکنش‌ علیرضا بیرانوند به احتمال حضورش در استقلال: استقلال تیم بزرگیه. من یک تصمیمی گرفته ام و 100 درصد روی تصمیم هم هستم. من نیم فصل سرباز هستم و بعد از نیم فصل بازیکن آزاد هستم و تصمیمی خواهم گرفت که به آینده ام کمک کنه.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 56.8K · <a href="https://t.me/persiana_Soccer/31212" target="_blank">📅 21:28 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 57K · <a href="https://t.me/persiana_Soccer/31212" target="_blank">📅 21:28 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31211">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">‼️
 #تکمیلی؛ علیرضا بیرانوند گلر33ساله تراکتور به دوستان نزدیک خود در تیم تراکتور گفته دیگر برنامه ای برای‌تمدیدقراردادم با تراکتور ندارم و بعد از اتمام خدمت سربازی ام به باشگاه استقلال خواهم رفت. با توجه به این‌که محمد خلیفه نیم فصل به استقلال باز خواهد گشت…</div>
-<div class="tg-footer">👁️ 56.6K · <a href="https://t.me/persiana_Soccer/31211" target="_blank">📅 21:08 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 56.8K · <a href="https://t.me/persiana_Soccer/31211" target="_blank">📅 21:08 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31209">
@@ -1293,7 +1293,7 @@ https://DerbyBet.com
 گل پنجم و ششم سپاهان اصفهان به فجرسپاسی توسط مهدی لیموچی و آریا شفیع دوست؛ هر دو گل خوشکل و تماشایی زده شد جفتشون رو ببینید.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 55.4K · <a href="https://t.me/persiana_Soccer/31209" target="_blank">📅 21:07 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 55.5K · <a href="https://t.me/persiana_Soccer/31209" target="_blank">📅 21:07 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31208">
@@ -1309,7 +1309,7 @@ https://DerbyBet.com
 گل سوم و چهار سپاهان به فجرسپاسی روی دبل دیدنی احسان حاج صفی و آریا یوسفی در نیمه دوم.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 55.3K · <a href="https://t.me/persiana_Soccer/31208" target="_blank">📅 20:34 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 55.4K · <a href="https://t.me/persiana_Soccer/31208" target="_blank">📅 20:34 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31207">
@@ -1325,7 +1325,7 @@ https://DerbyBet.com
 گل سوم و چهار سپاهان به فجرسپاسی روی دبل دیدنی احسان حاج صفی و آریا یوسفی در نیمه دوم.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 55K · <a href="https://t.me/persiana_Soccer/31207" target="_blank">📅 20:30 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 55.1K · <a href="https://t.me/persiana_Soccer/31207" target="_blank">📅 20:30 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31206">
@@ -1335,7 +1335,7 @@ https://DerbyBet.com
 دونالدترامپ رسمااعلام کردکه تاقبل انتخابات که ۲۵ روز دیگر شروع میشه به ایران حمله نخواهد کرد.
 🟠
 @Persiana_Arena</div>
-<div class="tg-footer">👁️ 54.7K · <a href="https://t.me/persiana_Soccer/31206" target="_blank">📅 20:22 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 54.9K · <a href="https://t.me/persiana_Soccer/31206" target="_blank">📅 20:22 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31205">
@@ -1351,7 +1351,7 @@ https://DerbyBet.com
 یادگار رستمی ستاره 21 ساله فجرسپاسی به این شکل از پشت محوطه جریمه روی یک شوت تماشایی دروازه سید حسین حسینی و سپاهان رو باز کرد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/persiana_Soccer/31205" target="_blank">📅 20:12 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 53.2K · <a href="https://t.me/persiana_Soccer/31205" target="_blank">📅 20:12 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31204">
@@ -1368,7 +1368,7 @@ https://DerbyBet.com
 ویدیویی زیبا و دقیق از آنالیز بارسلونا مدل هانسی فلیک در فصل جدید رقابتای لالیگا و UCL.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 53.5K · <a href="https://t.me/persiana_Soccer/31204" target="_blank">📅 20:02 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/persiana_Soccer/31204" target="_blank">📅 20:02 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31203">
@@ -1385,17 +1385,17 @@ https://DerbyBet.com
 گل‌دوم‌سپاهان‌به‌فجرسپاسی‌روی‌شوت دیدنی احسان حاج صفی کاپیتان طلایی پوشان دقیقه 38
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/persiana_Soccer/31203" target="_blank">📅 19:40 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 52.2K · <a href="https://t.me/persiana_Soccer/31203" target="_blank">📅 19:40 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31202">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/L9p3khxQACmS_xlryJ_upcCxqwv9aj4A5EliCOVmnROU52fZj7nkhEUqfOvOmfo6KWbTSVpWy4qv5gs0SW6CyNRAAvGZ-qvwZPGwYBAI-BNnQ3JUFgpu1fqOMrERLHuurdaBp76LmVGXl3Gz8LLBV8cLD0cazkuTrmCfI5JzMZpP7irFCf6FwL2s9bWcdI7fNiWby9m1XrJvXrku0O2BRI8MmX6KJEkANzGDi--YFmzPcIfMaKXc9Wo8ww9Z4x8GkcZ40_rs1xNfOPI5NkNQiTMyZXoeY2hyJgoWiuQ26wltfWX9OACJpLNMzFXkTceZ4eG937WdJPELuv4KeS1I8Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GhwcKy-UIVypDmKsyZYXs3VV-QBKRnCY4yfqiVBl5LpXx4QdFkHGobNpJghcpnyzUZhgQOYdUMEfb-W0D3MWEK6bELYrW5tXS0U2-Y0gheNg-yMBiM2ZsT4nTe5KuoiXeLzWgOeqOZs70TrBLO-sAjelNNKmLvDaxuNjTzF9EaMRFobWo85TsSCc1vqjeobcy588u-Wxo7JkBuckHSuIKHliOer7eXhJ5dGGSTA0PJn9QgVONgc4ZDuRXJ8sXBiJu_oVAsSlJMbp4UBslzYZxf9KAM97O7tJlwfHOPMC7mmbKn8V6Kr9hUFu8I3PTV1IPwfeaLKo62jl8vBkJrjzRg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❌
 خرافات جواب داد؟! یاسر آسانی ستاره آلبانیایی تیم استقلال به دلیل مصدومیت در نیمه اول دیدار با تیم‌تراکتور دربین دونیمه تعویض شد. آسانی چند روز پیش با حضور در برنامه عادل با او گفتگویی داشت.
 ‼️
 پیش‌تر نیز عباس‌کهریزی، پوریاپورعلی دو بازیکن  آلومینیوم و پرسپولیس‌نیزدچار…</div>
-<div class="tg-footer">👁️ 52.6K · <a href="https://t.me/persiana_Soccer/31202" target="_blank">📅 19:36 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 52.8K · <a href="https://t.me/persiana_Soccer/31202" target="_blank">📅 19:36 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31201">
@@ -1412,7 +1412,7 @@ https://DerbyBet.com
 آریایوسفی ستاره‌سپاهان به این شکل گل اول طلایی‌پوشان‌زاینده‌رود وارد دروازه فجر سپاسی کرد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 52K · <a href="https://t.me/persiana_Soccer/31201" target="_blank">📅 19:31 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/persiana_Soccer/31201" target="_blank">📅 19:31 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31200">
@@ -1429,7 +1429,7 @@ https://DerbyBet.com
 سپاهان محرم نوید کیا امروز ساعت 18:45 با این ترکیب به مصاف فجرسپاسی خواهد رفت.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/persiana_Soccer/31200" target="_blank">📅 19:14 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 53.3K · <a href="https://t.me/persiana_Soccer/31200" target="_blank">📅 19:14 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31199">
@@ -1439,24 +1439,24 @@ https://DerbyBet.com
 بالاخره آبی‌ها گل رو خوردند؛ گل اول تراکتور به استقلال توسط سید مهدی حسینی در دقیقه 74.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 52.8K · <a href="https://t.me/persiana_Soccer/31199" target="_blank">📅 18:57 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 52.9K · <a href="https://t.me/persiana_Soccer/31199" target="_blank">📅 18:57 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31198">
 <div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/5e1b0fadf9.mp4?token=LeUNoR7T3DGV44H7-VcJu9uKFvbLqUPbeF56ezqMm9jIIpoWFHhm8q0R8sVHoSI0us9O2VbKFsMAAHvf0XcIJ2xIMI5RIMqdG4OW9mdWUUvDUztj4zmRD52vdYkjUjRSVYc3v56k2jBYX5qsZ-nksU-bTmBvC9OqDr00guCHVIr_d52eGKZwtY1DwmHRI3dMyZlF5kOdlMngPsFqqqrTC-iKWjBDm5yH1z_5L6AezkregBtFnfix8vGNylzAoGJ6xO2v7XOhPlGLT-suPIBy_Prfc6ytY8uW9xqUICUXARGL3q2RsoT83Bydl4givdDS-1WnMLhZ_qvxG5fOIdUB6g" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/5e1b0fadf9.mp4?token=chZ6O397i-mciItuNLOrSwIgO51HLtNx9Y05u-cTiSc1igmKZ3WkdWJ6cnJnMaY7BVb5ord6JYLMLzpZtn0QLve442Dc36I_LtqIZJ-YvmlK3KbuzDc3c4bXy4fRj-_-HwmrpIKhrjO96xuEg5lacGrT7ymxwE-5lto_eAkUoi4Zbla7XmzceRWMD87tVw8017sF0RMCwTmpTudghXCu3StUiTpkchtkTudqr-uiZHSj4K5vp5y-Hl0wuNIpFLJlu8CfKZW3cL85Mhhpb9IyJqEaRlnnXijr63raVW0x77-yHD8C-DQ3hgWWfWhEspLYECi0Y6speIuFJDqB1WgtsA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/5e1b0fadf9.mp4?token=LeUNoR7T3DGV44H7-VcJu9uKFvbLqUPbeF56ezqMm9jIIpoWFHhm8q0R8sVHoSI0us9O2VbKFsMAAHvf0XcIJ2xIMI5RIMqdG4OW9mdWUUvDUztj4zmRD52vdYkjUjRSVYc3v56k2jBYX5qsZ-nksU-bTmBvC9OqDr00guCHVIr_d52eGKZwtY1DwmHRI3dMyZlF5kOdlMngPsFqqqrTC-iKWjBDm5yH1z_5L6AezkregBtFnfix8vGNylzAoGJ6xO2v7XOhPlGLT-suPIBy_Prfc6ytY8uW9xqUICUXARGL3q2RsoT83Bydl4givdDS-1WnMLhZ_qvxG5fOIdUB6g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/5e1b0fadf9.mp4?token=chZ6O397i-mciItuNLOrSwIgO51HLtNx9Y05u-cTiSc1igmKZ3WkdWJ6cnJnMaY7BVb5ord6JYLMLzpZtn0QLve442Dc36I_LtqIZJ-YvmlK3KbuzDc3c4bXy4fRj-_-HwmrpIKhrjO96xuEg5lacGrT7ymxwE-5lto_eAkUoi4Zbla7XmzceRWMD87tVw8017sF0RMCwTmpTudghXCu3StUiTpkchtkTudqr-uiZHSj4K5vp5y-Hl0wuNIpFLJlu8CfKZW3cL85Mhhpb9IyJqEaRlnnXijr63raVW0x77-yHD8C-DQ3hgWWfWhEspLYECi0Y6speIuFJDqB1WgtsA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🔴
 👤
 گل اول تراکتور به استقلال توسط هلیلیوویچ در دقیقه 68 که VAR هند بازیکنان تراکتور گرفت.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 51K · <a href="https://t.me/persiana_Soccer/31198" target="_blank">📅 18:38 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/persiana_Soccer/31198" target="_blank">📅 18:38 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31197">
@@ -1473,7 +1473,7 @@ https://DerbyBet.com
 استارت‌انفجاری‌ستاره‌آبی‌ها؛ گل‌اول استقلال به تراکتور توسط سعید سحر خیزان در دقیقه 28
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 51.9K · <a href="https://t.me/persiana_Soccer/31197" target="_blank">📅 18:33 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 52K · <a href="https://t.me/persiana_Soccer/31197" target="_blank">📅 18:33 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31196">
@@ -1484,7 +1484,7 @@ https://DerbyBet.com
 سپاهان محرم نوید کیا امروز ساعت 18:45 با این ترکیب به مصاف فجرسپاسی خواهد رفت.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/persiana_Soccer/31196" target="_blank">📅 18:22 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 50.5K · <a href="https://t.me/persiana_Soccer/31196" target="_blank">📅 18:22 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31195">
@@ -1495,7 +1495,7 @@ https://DerbyBet.com
 استارت‌انفجاری‌ستاره‌آبی‌ها؛ گل‌اول استقلال به تراکتور توسط سعید سحر خیزان در دقیقه 28
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 50.2K · <a href="https://t.me/persiana_Soccer/31195" target="_blank">📅 18:12 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 50.3K · <a href="https://t.me/persiana_Soccer/31195" target="_blank">📅 18:12 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31193">
@@ -1508,7 +1508,7 @@ https://DerbyBet.com
 سوفی رین اینفلونسر مجازی مدعی شده که لامین یامال ستاره جوان و پدیده بارسا اشتراک 12 ماهه اونلی فنز اون رو خریداری کرده!
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 50.8K · <a href="https://t.me/persiana_Soccer/31193" target="_blank">📅 18:06 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 50.9K · <a href="https://t.me/persiana_Soccer/31193" target="_blank">📅 18:06 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31192">
@@ -1523,7 +1523,7 @@ https://DerbyBet.com
 <div class="tg-text">🟡
 👤
 گلزنی‌سامان‌قدوس‌ستاره33ساله الاتحاد کلبا دربازی‌امروز این تیم مقابل خورفکان در لیگ امارات؛ در پیش فصل باشگاه پرسپولیس خیلی تلاش کرد که قدوس رو به این‌تیم‌بیاره اما مخالفت همسر او باعث شد که این انتقال انجام نشود. همانند مخالف همسر مونیر الحدادی برای بازگشت…</div>
-<div class="tg-footer">👁️ 50.3K · <a href="https://t.me/persiana_Soccer/31192" target="_blank">📅 17:55 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/persiana_Soccer/31192" target="_blank">📅 17:55 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31191">
@@ -1533,24 +1533,24 @@ https://DerbyBet.com
 باخداحافظی پدرو از دنیای‌فوتبال؛ از ترکیب استثنایی بارسلونا در فصل 2011 تنها لیونل مسی باقی مونده و همه خداحافظی کرده‌اند.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 51.9K · <a href="https://t.me/persiana_Soccer/31191" target="_blank">📅 17:47 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 52K · <a href="https://t.me/persiana_Soccer/31191" target="_blank">📅 17:47 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31190">
 <div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/5be0608b6a.mp4?token=qXE5ftwHl6w51IgI89rqGXyyfKZrEuZgIw8twgTzkIr6FcIvumy6LIgBU5d-17sgV0LFHsrOJ3iz9kUxqB7cj8-VgsZ3HMgE78VtW3yd70I_RlNLRP32vVLZVWoOXDZPXqOHrGkF30bGeGNqulzwR0yijhwOqBshU7jdudqFuGMUlP4-hr7_ex2F5DSu-XeLgbJX2AtbMc9C1GPr8nYOz-zfv-XTSB0DMV4yeUaxWaeBHhwWX2UM9q2h-DUfj9D9MC4KbAJhIgYX7JpxGjHccDKHxsKwqQQWejD9zvq_nFsFH-UOCdNOo_RtBig6DYO93q9-wsy6wcOBY8RRRraw0w" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/5be0608b6a.mp4?token=gBrPuiIPDAfQY7Urlrs6sImNEAnVFmeRGj8yVwIPX5ABIa1nDtdzvSu_HquUKS0p-daoAL2pzo01g_iQZdg972DlYBq1CC3iQTnWbyjOIiDjVUC_1i_563mKOinHfkrhnT2kaP947e46TJYoye3wx5Gjq9HkVhD3xdtOa0BoqHFG9oZkU4ODr8sN-761vsmjpcKRCuSCuI2PMUeG1FRHcUrh9X0bklr0b-7ftTiohih30IRGDhXZ2e3ZQDiI5k_tP3SS62OfNUulI8y7vgFvA2LdbMg6vYBTWRDJGzMwHwqM_BChrXk2kTh7_pUe008SWJN6VyG0L6DNcLiLkZznig" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/5be0608b6a.mp4?token=qXE5ftwHl6w51IgI89rqGXyyfKZrEuZgIw8twgTzkIr6FcIvumy6LIgBU5d-17sgV0LFHsrOJ3iz9kUxqB7cj8-VgsZ3HMgE78VtW3yd70I_RlNLRP32vVLZVWoOXDZPXqOHrGkF30bGeGNqulzwR0yijhwOqBshU7jdudqFuGMUlP4-hr7_ex2F5DSu-XeLgbJX2AtbMc9C1GPr8nYOz-zfv-XTSB0DMV4yeUaxWaeBHhwWX2UM9q2h-DUfj9D9MC4KbAJhIgYX7JpxGjHccDKHxsKwqQQWejD9zvq_nFsFH-UOCdNOo_RtBig6DYO93q9-wsy6wcOBY8RRRraw0w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/5be0608b6a.mp4?token=gBrPuiIPDAfQY7Urlrs6sImNEAnVFmeRGj8yVwIPX5ABIa1nDtdzvSu_HquUKS0p-daoAL2pzo01g_iQZdg972DlYBq1CC3iQTnWbyjOIiDjVUC_1i_563mKOinHfkrhnT2kaP947e46TJYoye3wx5Gjq9HkVhD3xdtOa0BoqHFG9oZkU4ODr8sN-761vsmjpcKRCuSCuI2PMUeG1FRHcUrh9X0bklr0b-7ftTiohih30IRGDhXZ2e3ZQDiI5k_tP3SS62OfNUulI8y7vgFvA2LdbMg6vYBTWRDJGzMwHwqM_BChrXk2kTh7_pUe008SWJN6VyG0L6DNcLiLkZznig" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🔵
 👤
 شماتیک‌ترکیب‌تیم استقلال برای دیدار امروز مقابل تراکتور در هفته هشتم رقابت‌های لیگ برتر.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 49.3K · <a href="https://t.me/persiana_Soccer/31190" target="_blank">📅 17:31 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 49.4K · <a href="https://t.me/persiana_Soccer/31190" target="_blank">📅 17:31 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31189">
@@ -1564,7 +1564,7 @@ https://DerbyBet.com
 </div>
 <div class="tg-text">‼️
 درحالیکه هفته‌اخیر سارقان تو اتوبان همت تهران تلفن همراه‌آیفون17پرومکس پیمان حدادی مدیرعامل پرسپولیس رو زده بودند. امروز همین اتفاق تو اتوبان تهران - کرج برای مهدی تارتار سرمربی سرخ‌ها اتفاق افتاد و گوشی جدید آیفون 18 پرومکس او مورد سرقت قرار گرفت. خداروشکر…</div>
-<div class="tg-footer">👁️ 51.6K · <a href="https://t.me/persiana_Soccer/31189" target="_blank">📅 16:40 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 51.7K · <a href="https://t.me/persiana_Soccer/31189" target="_blank">📅 16:40 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31188">
@@ -1575,7 +1575,7 @@ https://DerbyBet.com
 دو مربی به اسم‌میثم و ادیب 5 سال توی تیم فوتبال ستارگان دیواندره‌بودن‌که توی این پنج سال به بیشتر از 50 کودک تجاوز کردند! به کودک ها وعده میدادن که اگه باهامون رابطه جنسی برقرار کنی توی ترکیب اصلی میزاریمت و میفرستیمت تیم های خفن تهران.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 50.5K · <a href="https://t.me/persiana_Soccer/31188" target="_blank">📅 16:31 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 50.6K · <a href="https://t.me/persiana_Soccer/31188" target="_blank">📅 16:31 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31187">
@@ -1585,17 +1585,17 @@ https://DerbyBet.com
 هفته‌هشتم‌لیگ‌برتر؛ شماتیک‌ترکیب‌استقلال برای دیدار حساس امروز مقابل تراکتور؛ ساعت 17:00
 ⚪️
 Persiana_Soccer</div>
-<div class="tg-footer">👁️ 49.4K · <a href="https://t.me/persiana_Soccer/31187" target="_blank">📅 16:14 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 49.5K · <a href="https://t.me/persiana_Soccer/31187" target="_blank">📅 16:14 · 16 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-31186">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HdnC3Eao8hgXGiiiU8YootA8vLooCtLGizvVHOh6A1vTYSIPY2uEifMmMPe5Pg2bRSexedIJS92LxM0bHdqe23Yx1hwA9A24pf3HnXcHyMLR6HSkZVpc3n58_XUGzYjhfjwgAu0qcBBY7pm5hHtLoaL8c6xu4i1cV1g15mkLG7T0yDuQF0e-icmfNaaaLXbQSyPvtAQbdkL4sWocNp9KB7sKuGnok2QdVxUKEZh5zZxf_Xkjsv8q8gYIJU8MWXGnVTngQtMHzZVded5x6ZKpl64kPuGqaR1Hg0tVC8EfyZZ3dqY1AejCrfUG16ckKLmaGq8um0G_7MfPFqfUxIDtqQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UzxU4KPQCRhsyb_xfLcPJBQT8fZfr7mvbDDeLNkD9uW1KLCtwEQ9O2TiQOKmuwbOzsl3mIOSI8Nt55NLzKJViBRfMzrY1POeIkYyG9rhMaPCImuSqXF5oOt3Axcs13eV8b0N6GRjn4fhY_wEZlPWphUNTOsBreYK2zQiAVeR0dc2bBBMysOHOWWepD6T777rhLESsA3uhJfXYT8jj60h-2Xy5voXJVL9J6at7Gu1OzXXzvRZ6JvQLwapLkCUuxzGkKEQ28EVqIwnkQBVC3pnkQ02JNEMAuRhgtzhJGbrgz5Xb35qh82mKmySnx1TipXu7aS0W8hhoKP2NJZjbRtuXg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 هفته‌هشتم‌لیگ‌برتر؛ شماتیک‌ترکیب تراکتور برای دیدار حساس امروز مقابل استقلال؛ ساعت 17:00
 ⚪️
 Persiana_Soccer</div>
-<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/persiana_Soccer/31186" target="_blank">📅 16:00 · 16 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/persiana_Soccer/31186" target="_blank">📅 16:00 · 16 Mehr 1405</a></div>
 </div>
 
 <hr>
