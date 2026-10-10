@@ -286,17 +286,723 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/jnf4tpVuUsnUQFVu6JShczmXpIGXudOhGoAhkuqF7oTInQ43GtsEtKoKHZPZxMQiU_JYqxc4pWISiWx4s16Gy_h3RbtMz3hnXwxyj2CTu_XX7Jj8dgMmSdp46Zpl2vP1URq_lJzY4yz9LqVBKU0fuPmkQPBrltDvOY_uc1LGLzjTLrh9Xpzn_wDH9gzwjkTzMtehrY8w5sNXim2OqPuSimwjB98t6LBwOxW5vfDXP2TmryZ--4P7rgbW_wyTJxHGsGDAWjPmeZEVyaGHCmaAHkhC8HwcEc8bcVdQ3aDtJfM5adjT1wBwLgcoxJ8EMnxR2CwYRekp4mOn7eeePZ1BzQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/JMKqRfaKIVQ2fMHNKU7rXbjRySqRczST6_KjXemvx1qtqUFCF5i-VyjPVLK0pt5t_UgL8xdnDwb4juznMRn9vsi_Qs2qh3eWHbHn3pNF-sKAjXqIWM8Xt65FGLvkpSeKqj7zZhzst0b3koLW6vd0DQgEuCFB_7toCmIugp7RSo-R7l-j5B4XduiyBFsAc9gZAmvjXDjuguWL2F5IT7raYY27aLokpKAJ27rnOZQfWMT_g5em37UXmPYnGNQbsfxWegLj8PdCrT5MtmdQYrL1ByrUiCcY9S9X5I3SZi5L6JAohL0Eb901C-NJJWsA9Ux_A5B9Dm_h_AJAd8gd6krqFw.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 خبرگزاری فارس</h1>
 <p>@farsna • 👥 1.84M عضو</p>
 <a href="https://t.me/farsna" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 حقیقت روشن می‌شود‌‌تبلیغات@Farsnews_adsارتباط@FarsNewsفارس‌پلاس@Fars_Plus‌ورزش@SportFarsجهان@FarsNewsIntعکس@FarsImagesپیام‌رسان‌ها@Farsnaاینستاگرامinstagram.com/farsnews.agencyتوییترtwitter.com/FarsNews_Agency</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-18 09:36:53</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-18 16:17:25</div>
 <hr>
 
-<div class="tg-post" id="msg-467420">
+<div class="tg-post" id="msg-467488">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-text">🎥
+چه کسی پشت بازگشت گلشیفته و خواننده‌هاست
+‌
+🔹
+در قسمت پنجم «پشت صحنه» گپ‌وگفتی داشتیم درباره خبر بازگشت گلشیفته فراهانی به ایران، کناررفتن وزیر نفت، روایت هالیوودی از تنگه هرمز، فروش ۱۰ هزار دلار به مردم، شکایت پرسپولیس از آسانی و موضع ایرانی اصغر فرهادی.
+🔗
+نسخۀ باکیفیت را در
+سایت فارس
+و
+یوتیوب
+ببینید
+@Farsna</div>
+<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/farsna/467488" target="_blank">📅 16:01 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467487">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-text">نیمۀ دوم مهر آغاز</div>
+<div class="tg-footer">👁️ 2.94K · <a href="https://t.me/farsna/467487" target="_blank">📅 15:59 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467480">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/eoXr1Y-IUMNB_A8KxUEXrrK8ZmGqz1-83p9GDHKglcAxJ8egi3fA2noVGvNGEKEOnkWc2hs1crnOH-OTHccqrAjzgyrxjUMTcVoayTMPdJhOe95c7P-hDgy_53-RmiHZg3ZiyFBTUGwrlRjW3SsrqqFYt7fzoF5MGDMZ55jFwFRfZmy3MEzVDW5rqQmRV8GLKQZkzqwRmdOQTcWrMSbcrH1S4yYoK-1Sw4hFNZBDTpUq0dSfBOdq0L4GN7v-D5miQlWlneXqVHDACNe8cTbz-dmVWSdQI3oVut-ifWPZbfj4wZF6tEtLwwlgn_mAnqsfAv59gzsSaEWzFWMAPlSVqw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/tV846eNSt-f7NX5TBzSYTIMz6A9N6ys7FC6ABOq6WR5eL9wkDlICofkLZwfYp0KhrOF0E1Nmn84cl_A4-VRVC8Mezr5573wstsueyR7et0rnQCPRxnRE8flvhmnUIHf77_yRnwealeMYp6c9slQSl5JB36-zhG6WDeyhGC44dQABMtz2PAWnPMTT7O6Bdbj8mzSnJIxOYCOco2Un3kn-37A4WBitcoAfttUJF1yg1yy7DzCQz0t4PTQfP013Cq1hhVmT5qN-zpbJWp0Q9Au5T3-WmRPPWWBP9QDS0BuB78BvmsLiKAUp4KUrINXGrbrTDlcqqggg3JFLkVW-DBYv-Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/onpB3j5XnuL5fs1HPGsDGjmSE8oT_eSWyevGHMg8bOV_izQRgVZQgIVoWmi35g4bDY4z-C1MXE28DETIjM_xgZ2PrBvcK2pFMxk-X3nrpizzUmhjT88hIAXnykSfF6PIgL1_Oz3YDcKtOfmYkE8aRIffHgFczbTJ7A7aYqVnN1BJl2okjxGatrv6l9PBMkmPRBEIwe7SqzYl6SSJrx4r7365PQAfOcRf-W6tIvgGfzC5gvBtOVdsrra2emKjstEuk2AErfQJ5PEIln2hM0KH2coPb14Jb6_P817L7KGwU5Laz1_cASn0Sx6Aym-R0ulP2YMRSGALMk4QoHLbQNt00Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/TTxi6ZOvJIcA5kYaCw34bdIV2MPAoy1NwNEqUH9r8sPvNpLqoi033PlDf1c4FstsLDF3hXPME_CZVSq5hQyog1gHjlsGwBR6jUG5aHUYGJaUaJXn1i6UgeQUoYVZWhahrSsJMW0M53IT8fgtgUe9DGtij7YRm4f6ChUOOW-ZQPDiCaPZ8Iv23_OtG7wVZnhQAEm88QOZfiQOYVTOcnF_YfcvRuLyOqZC1OYfkFIOdYFuIpT-pYzmhnzs648woeSusnm-pMsaGsa-0APArRXhTT4m8x_zvBleIxBn4-2gpsoUOJ4iHWQZmOSjYleMdCzaRzeMLzRFLO4v7aYSZpNAtA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/FrG4PlDcWP4fvDCJAqN-GRBNtRXYuJbXFWUbHg9Gkdz76cntmaNclurkUaftfbQt9eeM434uJK7h1PjvqIk9IyhclyX6fAij7bdxthoO03oMq2FNd9HVq5oVfyVC7ctsilHeamDEWgW4JLyXycbZn8JkFiWufyAEfoGnytC9_j1yxC-69-cNIl4NKguONfWdd8nX9fLD-OHvhd8CuYRv36kEQq55WHwUgILrJM99E0_1MChiNZGUxqH9anfnQ4d8nO8ugIjcd4_orKP3fyPvQhqUTR4n0bqs_8zHzlxOsSenUoo3qCHISZaKQfX700r2LpPIsb2BfAzSkugbBeFfQQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/qmf2lfaTVE6MqNAMeuFaI1-qbXnALUsZHlCCKPOiTnO0YDboJxE2N4F_R1Ti62HEAzkQ2Kn4sjIcI7koj9vAqVDTpI4fIIRbd1xgJbYsNDA8WxRG89Fsf1QNlU_2Da89eTKgRflx6gwX3BiTwKuuq2RhryOYOsoYcmTW2xmcQXofrzy72JsLmeanhpob17KKes6jS5gBDg3tcUoc5phak5-KgnMNJ8VHenRagm1lfJKr9baA6q0PrWrFZJnFSwdiU8alWbuRbuRjtiGWsVM76lM_4xQlesEGamRGASXiRhJSAkkyj8so8JWrOdPFzxoYPnw66ZTpJP72JUzTzmjhvg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Hmv_HfSDSGcrzqeXtgJW9fj7X2tNvB3UXmVvQb9vkJZZvo7z5dVWW9YyiuJ9S8Vm0FEMdhBWDaJmpVM6doIgch4dbgZnma_HWr4u7APtTeTi8rX2HgWgUX9Lzyb5wFJ0t-xTCAY4ltuHd-ZOFwO1xpJRoP7LUTnUDkegv8MtHzW8BB5VYaqB0tg4kTwcxL6IGHw37csongK4sxPL1IEiBWHdsaB_i9yGJIQk9y9LyqLoUqsxUhbh600Jmq840WGZSdGNlbKVWIucjgIQyQoiLWhQb_-ALoy4OUh8ol8PT3OL_k4xTgQuq15IB9NDxqpkDrDCezmy6QfMjZUy1b4OMg.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">📷
+حضور رئیس امداد و نجات هلال احمر در خبرگزاری فارس
+عکس:
+زینب حمزه‌لویی
+@Farsna</div>
+<div class="tg-footer">👁️ 2.97K · <a href="https://t.me/farsna/467480" target="_blank">📅 15:54 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467479">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PySuQ7M8XJEFUIvN5aF5HieEWK5w98lwAi1Y7-WfYlFrfEsMSsRNiMRQsozORuWhggiZVC8OYD6JSrFA8JFVZBusG54hrbWSS12gHxNsbE0Ognru2eA2kaip8A7Epco8etEqqHs4rtgBIVyLNqruUYzME7AJcdJe5KrDqf06aj6XVgiyror-pWlZ-sXsfp5OGR5fU-P8InzL9K926eYNfjsjoqy56cC_tZUBQrwg88NeA-FwFF1rkamp20eLZBqcPsz6EeYX1YGRXOFN0LZGY1kWL_hFQabq2UA6p_ARvcxqCokA3TsM_GPmESe6C_98XltYFj-Mzlnl7VgAhE-egg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">ترکش دعوای بیرو و تراکتور به یک نفر دیگر خورد
+🔹
+ماجرای اختلافات بیرانوند و مسئولان تراکتور ظاهراً به مسائل داخل باشگاه محدود نمانده است.
+🔹
+شنیده‌های خبرنگار فارس حاکی از آن است که فردی که با معرفی بیرانوند در یکی از شرکت‌های تحت مالکیت محمدرضا زنوزی مشغول…</div>
+<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/farsna/467479" target="_blank">📅 15:48 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467478">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/l3a66UUTswg73qyFCmOf7kzOi1WHm02LTskgiaVwfZPX6CgAyVBeRG5tzI_r9g0Eh5u7eVBndQgZaGtfqEPJl8hXvrxcriHILQ7ADzdFyxys9c-JuzSYm2NNq6wXh9W6AeBG906RG5VWF1xRgWXa23CuSM_Ri5H3iiWUQgymgonBvYsufTjk586Aqd9J351wkBidSjM3PZtTYrBqQ544LbUNkmSwAWSZCV-cThkylOJHO701UPfoD9V6G5vxiNRIjFPkxn1a90KGC5Fm--wFBY4CmwVqytFVQ1gKqHzvUkkCTL3pzHNoNfLyQxnhWWLejiTgx6porSpXE9KqH8UH5g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">‌ قالیباف: شهیده نصرت افتخاری در دورافتاده‌ترین نقاط سیستان‌وبلوچستان، پیگیر مشکلات و گره‌گشایی از زندگی مردم بود
+🔹
+شهادت مظلومانه و ناجوانمردانۀ معاون فرهنگی و اجتماعی فرماندهی انتظامی سیستان‌وبلوچستان، در مسیر خدمت به مردم، ضایعه‌ای تلخ و تأثرانگیز است.…</div>
+<div class="tg-footer">👁️ 4.03K · <a href="https://t.me/farsna/467478" target="_blank">📅 15:42 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467477">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/812e55ee69.mp4?token=Zo1Rk1_08S8bwxKd9M35B5bgaCBRHoH_33c09YUJx-dMjLd02k1ngARrBnvBwHY3rhHnPIXtXbyp4QQqcYwVbg2NgvCzUY1Emnu8p09zglTsdHMN_mgj4EXpYgyOtPAHbPawx5Al4bag7mMypu6W1FIbq7lxmVUv6xnpiiQylT3fCR2z2buG_tPCYHVeZQjGUjXnhHhu4EFqsDOosc1jjgWrPSHac97QsoMQ5R-l-lonqjLYIOadzUuWOn_mOiUHpUl4cy5WjOniVvoZ2DufGjoT5dTL0FCwz0N9Vhjk46UL48-AeibH_xK5mkdcmCCvvwE9yayqRVHLl8t73y2m_g" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/812e55ee69.mp4?token=Zo1Rk1_08S8bwxKd9M35B5bgaCBRHoH_33c09YUJx-dMjLd02k1ngARrBnvBwHY3rhHnPIXtXbyp4QQqcYwVbg2NgvCzUY1Emnu8p09zglTsdHMN_mgj4EXpYgyOtPAHbPawx5Al4bag7mMypu6W1FIbq7lxmVUv6xnpiiQylT3fCR2z2buG_tPCYHVeZQjGUjXnhHhu4EFqsDOosc1jjgWrPSHac97QsoMQ5R-l-lonqjLYIOadzUuWOn_mOiUHpUl4cy5WjOniVvoZ2DufGjoT5dTL0FCwz0N9Vhjk46UL48-AeibH_xK5mkdcmCCvvwE9yayqRVHLl8t73y2m_g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎥
+خیابان ستارخان تهران به بزرگراه شهید چمران متصل شد
+🔹
+پل دسترسی خیابان ستارخان به بزرگراه شهید چمران با حضور شهردار تهران و رئیس شورای شهر افتتاح شد.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 3.64K · <a href="https://t.me/farsna/467477" target="_blank">📅 15:38 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467476">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ORqkvGdtSp55qOV_QCjAYPYk6vx7lVo-quesY8RbbmW744t60jNvtOYa0hdjeXA8_vYRNq4HD5WEuvxuHOir18qzP4x0R7Zgydc5HSmwftxw-a0GgkcNvjk8EfQlPh2SUzTzhpalS289xRRotFwXcP4_xronvOzkY718LZqsaCMl7dGjxVRrsQCX71rYRTa2gFQ9P0OIVELmbGcLhStAYWudM3Ljj3FrjpCPCc0-ITmdKOhnJD1gtrLyAC8ESr4cA9ueyLAQXw8Pwgnx2MRVOFhKTDiV4n9LAHDcIadbikucU-UlNSMAaT8c7LJTvVEFGXaiPF_yx7HHt7PIM3FRfA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">‌ واردات ۳۰۰ هزار تن گازوئیل از روسیه، مصرف نیم‌روز آمریکا را کفاف می‌دهد
+🔹
+برآوردها نشان می‌دهد ۳۰۰ هزار تن گازوئیل معادل حدود ۲.۱۷ میلیون بشکه است.
+🔹
+با در نظر گرفتن مصرف روزانه حدود ۳.۹ میلیون بشکه فرآورده‌های میان‌تقطیر در آمریکا، این حجم معادل تقریباً…</div>
+<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/farsna/467476" target="_blank">📅 15:31 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467475">
+<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iT4IrNErztWn9DTbiDmz0ZxC3qLcGUKdJ1LhcG3oA-KUcttPLZdkR7Q3MKmNSQ_oxTfpoLcpXL7fE2N4hcyTRqd4rmcJiBjOt-mMLUfeJ88wj5XvpiUfHUJLRFWMVrmhwnur4QP-GvRIKH9D14LUDYkEBkfpVNOgHYdKuxAu-raEd68Cs4gpUdWxlroGbEPVhmPODUhx55OZ_wNYqeS5hgioxpRco1XX24yF8m1EM4x46xrc5l5rp99oOm2xj2J3vGNSvHOraw9o89u8-Y2OOdhRM16tqA-M9WgUw5o_pQ61QQ0JiOUYXujeVwRIGtIa_5byY_pz1S2_e7PcOlZmHQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">سپاهان خطیبی را به خط پایان رساند
+⚽️
+با اعلام باشگاه فجرسپاسی، در پی کسب نتایج ضعیف و شکست ۶ بر ۱ برابر سپاهان، رسول خطیبی از هدایت این تیم کنار گذاشته شد.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/farsna/467475" target="_blank">📅 15:15 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467474">
+<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bLl4HvOFlOxzXGmdFhdik9jP-w3bpD1trLEmXWG5jxYJ22BFB88RClIN8K5o1Yy1nf0Khwq0k5G4VDQgA6dx9hymMD_Ud6172TUAu3DXvGfbMR6Ut6AUmhhSAe7HxncjcmI29knARt1fFORPkawS85P6LCQDEpVZhie-elkfIwk7G3s_EI8SNyUmiVBAuMxRWXbiDs1-0jO2LfeHhKWFl_IcK6rej3SSkrf8pPSqKW7u0TVqkQ2rIttf4HbhPlc2XdNFHwJQ_28n3F6JBisFncgQcNNiCIHwMBRlOSS_mST64gq8PUCzjPkmg133sKNHDfyEc-oXLJO-OVMLSh9aeA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">رویای نفت ۵۰ دلاری بر باد رفت
+🔹
+رئیس اتاق مشترک ایران و چین: سال گذشته، کارشناسان قیمت نفت در سال ۲۰۲۶ را کمتر از ۵۰ دلار پیش‌بینی می‌کردند؛ اما حالا هزینۀ حمل هر بشکه نفت از خلیج فارس به ۴۱ دلار رسیده است.
+🔹
+گلدمن ساکس، سومین بانک بزرگ آمریکا، نیز پیش‌بینی کرده بود در صورت نبود اختلال جدی در عرضه، قیمت نفت برنت در سال ۲۰۲۶ به محدودۀ ۵۰ دلار کاهش یابد.
+🔹
+با این حال قیمت نفت برنت در پایان معاملات جمعه به ۱۰۴ دلار رسید.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/farsna/467474" target="_blank">📅 15:13 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467472">
+<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromسیاسی خبرگزاری فارس</strong></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NKf9NM99PkVk-1PGo9NYjFhFwtnGDKVHqSLdsJP0aeBZfQglcSXWmQwBRphzK-zclQI0q5689azANYCVl0nrToR8ZNxBrWLcNoOLIEMid2-EqFEqKE9tnDAnxuWZVkEslUA0UGeS0F6KnRXtt5uD80fHhcCE3P47MCTF-KcE8alAQzE81wbVtd5d-39isF0Xb6EHsyH4hQ9KAP3cxhnmPBfsQM6KvcD3OLv4HXot0L-gcwcPOvqV_QNYEWi4buOy_K7mBV3MI00KGvfwQQlaajL8oPDaeO8ImkLwuMho_4A4vMTy_zvfZ8netf81GxAyaqVNO1-aQKSmGClr9QIwwQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">روایتی از «آن روزها» که سفیران دولت‌های مستکبر برای ایران نسخه می‌نوشتند
+🔹
+مقایسه امروز و پیش از انقلاب در پیام رهبر انقلاب در حالی است که اسناد آمریکایی از کودتای ۲۸ مرداد تا روزهای پایانی حکومت پهلوی، از نفوذ آمریکا در تحولات سیاسی، نظامی و امنیتی ایران حکایت دارد.
+🔹
+این روایت فقط در اسناد خارجی نیست. حسین فردوست، از نزدیک‌ترین چهره‌ها به شاه، در خاطراتش از نفوذ آمریکایی‌ها در ارتش و همکاری برخی افسران با مستشاران نظامی آمریکا گفته است.
+🔹
+اسدالله علم نیز در خاطرات خود از گفت‌وگوهای مستقیم با سفیر انگلیس درباره واگذاری بحرین می‌گوید؛ روایتی که نشانگر نقش لندن در مسائل مهم منطقه‌ای ایران است.
+🔹
+خسرو معتضد هم درباره کاپیتولاسیون، دخالت آمریکا و ضرورت بررسی اسناد انگلیس درباره ۲۸ مرداد می‌گوید.
+🔗
+متن این گزارش را
+اینجا
+بخوانید
+@Farspolitics</div>
+<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/farsna/467472" target="_blank">📅 14:59 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467471">
+<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/6642900d47.mp4?token=ozbtmHQ0dWiZloKcTg6p03aDNLHrJV-vKVH8Pu7-aKTx5T3PAwUG-tggU9XFotBx0jFNpnO6-pjKb-mkdFevU4QkF49JaHXSnEZRqSx_miY51dYNIYVzRW-1XMniQcrGoyQVUfvbUSknsv-QrsfvQjqyGTO9UpT1AGWVYtQP2z8R1F6_Wg6dkmyGMnk4YOvo_cO_mjmKdhiOZ0Yda263LD1flOefy0trv7BhcIS8J77pznUpEoHdN-nbzP5jWR6BUttcri32z9ZQmYoGzLQx2mBtycsZIdLWgQsI4OJgXnshmbcCHj48hPj-e7AWXFex4O767q5Sgjnx-L6dsZrFbw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/6642900d47.mp4?token=ozbtmHQ0dWiZloKcTg6p03aDNLHrJV-vKVH8Pu7-aKTx5T3PAwUG-tggU9XFotBx0jFNpnO6-pjKb-mkdFevU4QkF49JaHXSnEZRqSx_miY51dYNIYVzRW-1XMniQcrGoyQVUfvbUSknsv-QrsfvQjqyGTO9UpT1AGWVYtQP2z8R1F6_Wg6dkmyGMnk4YOvo_cO_mjmKdhiOZ0Yda263LD1flOefy0trv7BhcIS8J77pznUpEoHdN-nbzP5jWR6BUttcri32z9ZQmYoGzLQx2mBtycsZIdLWgQsI4OJgXnshmbcCHj48hPj-e7AWXFex4O767q5Sgjnx-L6dsZrFbw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">۲ هزار عنوان کتاب برای فهم رسانه و جهان پیچیده امروز
+🔹
+مرکز جامع کتب رسانه انتشارات فارس با گردآوری نزدیک به ۲ هزار عنوان کتاب از حدود ۷۰ ناشر، مجموعه‌ای تخصصی برای علاقه‌مندان به رسانه و تحولات فکری و فناوری فراهم کرده است.
+موضوعات این مجموعه:
+🔹
+آموزش رسانه و جریان‌شناسی
+🔹
+علوم شناختی و هوش مصنوعی
+🔹
+حکمرانی نوین و آینده‌پژوهی
+🔹
+علاقه‌مندان می‌توانند برای بازدید و خرید کتاب به فروشگاه این مرکز در خیابان انقلاب مراجعه کنند.
+🖼
+برای آشنایی با تازه‌های نشر و معرفی کتاب‌ها، ما را دنبال کنید:
+بله
+|
+ایتا
+|
+تلگرام
+|
+اینستاگرام
+سفارش کتاب:
+عنوان کتاب موردنظر را به شماره ۵۰۰۰۱۶۷۶ پیامک کنید یا با شماره‌های زیر تماس بگیرید:
+۰۲۱۶۶۹۷۳۹۹۶
+۰۲۱۶۶۹۷۳۹۷۴
+🔗
+مشاهده کتاب‌ها در مرکز جامع کتب رسانه
+@Farsna</div>
+<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/farsna/467471" target="_blank">📅 14:56 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467470">
+<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/k1TrhWSelsf1PSp3l1zxrl5QnGzIzixgtrjsWqOVjnllw6QNTrGOJZRFKH47JBNSGN2jayPl-jmcB3hDevnRhmHIgV6cAp25ybpHqSpcUTJWBLXI9h5aVjV16SjP0Y1X6cCiLAqg0k2FhnP94wn_J6o7sxEQUAdPRs-WEOxxrC4AmTeg2RblwxrmVxBm_sxgr6TS9MGGssVG8lMW5hR8eJASlX-Gy-CXh3WIz36O9LJUrRs5LJ-NBOca3UFdpPalv9nfD2bHuRYpZJxP0hqK-7LCGJ9Yag2CCaoSK0bvuhDJ0CD0LslBvACiHfK-uPSH9TdNNDgmcTgijpB1I1FuSA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">📷
+تنهایی نتانیاهو در سازمان ملل برروی دیوارنگاره میدان انقلاب تهران
+🔹
+جدیدترین طرح دیوارنگاره میدان انقلاب تهران به مناسبت سالگرد عملیات طوفان‌الاقصی  با شعار " روز به روز منزوی‌تر" با موضوع پیامدهای جهانی و انزوای رژیم صهیونیستی اکران شد.
+@Farsna</div>
+<div class="tg-footer">👁️ 5K · <a href="https://t.me/farsna/467470" target="_blank">📅 14:49 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467469">
+<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XwFc6860P9IOSsM1jlBrLfwmwf2S4aZ_9ryMq6EJAO8dgbBWUrtYzCPt7ZklUJNi81G7EHU4LbMzMJzn0cFgSGxoE2GSWgDN97ilezcrgZIIiErKNweOCMvlizp3oPBAIi9-23tlaJbYaMiBDxUjm-h6I-ZTq_VKC4rseSol8l9-FfR-VCSSBxl4CzlMhsOiOjkTMqqhI3Sx4dGOyAN3_NOSFwhMJac817FC963bEovPhOF6G1cun-esghxIdykioVurpiafgAw5Ej5TALp6u8H1mH8BliRyT3rfoqBT6wLCMjpfYsH0Op3FeglTULH6Mjl0YHM1AcjuWY-m26HfIQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">یار دبستانی اُپارک شروع شد!
+🎒
+💦
+شروع مدرسه رو با یه خاطره هیجان‌انگیز برای کوچولوها همراه کنید!
+🥳
+اُپارک به نوآموزان متولد سال‌های ۱۳۹۸، ۱۳۹۹ و ۱۴۰۰ یک بلیت هدیه می‌ده.
+🎁
+📅
+۴ تا ۳۰ مهر
+🎟️
+کافیه هنگام مراجعه، کارت شناسایی معتبر کودک رو همراه داشته باشید تا بلیت هدیه‌تون رو دریافت کنید.
+👇
+برای مشاهده شرایط کامل و اطلاعات بیشتر، همین حالا وارد لینک زیر شوید:
+🔗
+لینک</div>
+<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/farsna/467469" target="_blank">📅 14:49 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467468">
+<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/farsna/467468" target="_blank">📅 14:48 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467467">
+<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BaBHBD95ktGk1b1l4bCcPiAGqBXs5x3zLExM7AuJrkvwTaC6O8gIeukN9FQW5gqLb9PnkRb_19HPHbx98aQvWXAo3mMtOZD2qUEHJYWY1WP_ZHJ1Ka7mQFhe95ZbnFBzjZvYKbKo9ljqdVOLg3RIouNNdFiDjYpYFThR-ymEvw_XxjOm89rv7JPv-yiEn2vP94wHg7I7hymhdvIQsLUsVFYipcioOlCvQFYs8Vx_7y7cRa52hgDXqFjLdP1hhoZbkjSrX8ZCt6Bi8_s9xgqCmoerHDLrYq7bwATONmtIov0S1mGcU68AG6BbiW5J-8w66NN5aQGgpOzxb-gtgNLxHw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">چین همچنان از دلار فاصله می‌گیرد
+🔹
+بانک مرکزی چین در سپتامبر حدود ۲۳ تن طلا خرید و ذخایر طلای خود را برای بیست‌وسومین ماه پیاپی افزایش داد. ارزش این ذخایر به حدود ۳۲۳.۵ میلیارد دلار رسید.
+🔹
+در مقابل، دارایی‌های ثبت‌شده چین از اوراق خزانه آمریکا در ژوئیه به حدود ۶۱۸ میلیارد دلار رسید؛ کمترین میزان از اوت ۲۰۰۸ و کمتر از نصف اوج این دارایی‌ها در سال ۲۰۱۳.
+اما دلیل این اقدام چیست؟
+🔸
+پس از مسدودشدن حدود ۳۰۰ میلیارد دلار از ذخایر بانک مرکزی روسیه در سال ۲۰۲۲، توجه بانک‌های مرکزی جهان به طلا به‌عنوان دارایی‌ای که می‌توان آن را در داخل کشور نگهداری کرد، افزایش یافته است.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 5.5K · <a href="https://t.me/farsna/467467" target="_blank">📅 14:42 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467466">
+<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/a85b0adca3.mp4?token=vwSUYmRq0heqqHF1hhpU6zK6AV49OT5aveq8UO9l-fEtxyU1mJbKg6OpnURfUS7LCX97meEfEAwm3_7n8hMPWmI2iMafC5yVWVXkAeKNL1YymM_qt7mz4Z2hwwiwt_vAKHyr-8DkvqKDLBlf4GiWx1tpMatCy0Mi9daU7G5aw-2Ip4J6ROO85lkmLMG_snBHQEEnaUFPC2gGbTV-rx5IQLQRxnBd7g_47F9aAx7NkUZNdmQx6sGWPSAMsWpriJMxT-lG9UAzKm9IN8R4Jce7JllWapfstGPs83Kwrh3SVzTWiomkoZ3a4kH02xW4eZOmoL0jh-Z0061EEBG9-Firew" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/a85b0adca3.mp4?token=vwSUYmRq0heqqHF1hhpU6zK6AV49OT5aveq8UO9l-fEtxyU1mJbKg6OpnURfUS7LCX97meEfEAwm3_7n8hMPWmI2iMafC5yVWVXkAeKNL1YymM_qt7mz4Z2hwwiwt_vAKHyr-8DkvqKDLBlf4GiWx1tpMatCy0Mi9daU7G5aw-2Ip4J6ROO85lkmLMG_snBHQEEnaUFPC2gGbTV-rx5IQLQRxnBd7g_47F9aAx7NkUZNdmQx6sGWPSAMsWpriJMxT-lG9UAzKm9IN8R4Jce7JllWapfstGPs83Kwrh3SVzTWiomkoZ3a4kH02xW4eZOmoL0jh-Z0061EEBG9-Firew" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎥
+رئیس ستادکل نیروهای مسلح: در جنگ تحمیلی دوم و سوم فراجا محکم ایستاد
+🔹
+فراجا باوجود آسیب‌های وارده به مراکز و تجهیزات خود، با ارادۀ الهی محکم و استوار ایستاد و خدمت‌رسانی به مردم و تامین امنیت کشور حتی برای لحظه‌ای متوقف نشد.</div>
+<div class="tg-footer">👁️ 6.15K · <a href="https://t.me/farsna/467466" target="_blank">📅 14:32 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467465">
+<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/651a7ff2a6.mp4?token=fDBRn2C3qn2chi8g9OHFbCeHjKB9WpMq24dImGhZdeB-TveC4tG5EjBWRKHo2YXv2icK_boVu8-FiAYPoafGTnlpH3iQ-28YxXbJj_bZYHMB88Kojlph70MFOc2uBR2SFIISG86eqrXFAysNghyabTwFThXPZMooZhqF3NsvzM8kqKJuy0YOhZoQUzOlB5cd265JlLVVQUP0VcM9xWPaugGziRiZbLuIqSM8eW8pH8nmSTFJ13fl9_Emje2gf3GU1St85PqvXGwGekWT7W6IoxUs8hEwsyKPWD_HWNDYHEtNQu2IPqbaq-0RULgJI4PF78tv5W77PoWGvZENaEF7Yg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/651a7ff2a6.mp4?token=fDBRn2C3qn2chi8g9OHFbCeHjKB9WpMq24dImGhZdeB-TveC4tG5EjBWRKHo2YXv2icK_boVu8-FiAYPoafGTnlpH3iQ-28YxXbJj_bZYHMB88Kojlph70MFOc2uBR2SFIISG86eqrXFAysNghyabTwFThXPZMooZhqF3NsvzM8kqKJuy0YOhZoQUzOlB5cd265JlLVVQUP0VcM9xWPaugGziRiZbLuIqSM8eW8pH8nmSTFJ13fl9_Emje2gf3GU1St85PqvXGwGekWT7W6IoxUs8hEwsyKPWD_HWNDYHEtNQu2IPqbaq-0RULgJI4PF78tv5W77PoWGvZENaEF7Yg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">پزشکیان: قابل‌قبول نیست از دیگران عقب بمانیم
+🔹
+قابل‌قبول نیست که ما به‌عنوان انسان، ایرانی و مسلمان از دیگران عقب‌تر و ناکارآمدتر باشیم؛ باید ببینیم دیگران چه کرده‌اند که در برخی حوزه‌ها از ما جلوتر هستند و ما برای جبران این فاصله چه اقدامی باید انجام دهیم.…</div>
+<div class="tg-footer">👁️ 6.85K · <a href="https://t.me/farsna/467465" target="_blank">📅 14:22 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467464">
+<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eRXiRdWUqwyBkfOnEteVRo_sIr9wViZDvtI9RSaadKM8Y0W-W2v-mBE1Qf6_O_1ldhrA4zL0DuwwqZ7Tf8Wsv0_bS7SJGXposvARrqSUb-Eg2wOcVTsDnRRgv6qwwYKmQatWA8IOKdXKzzsRVZjSmLMWi4TYvsEylybUM2WkqV_oy3yHbvF2z1e1ifhJP_Ex1SXcWnX5EiRfUSMVMe4nEPMg1VNbTbC7qXE-k9WNKXeVNUTaOFejqOpPdiT7xI5nRcBMJsW0FQMqT9Y_oFORWKG8al3WUdh2WV-_FWskCm9NwwI862PlImv1ZT1DRxtx9DE-kyah1xLXWznlaBKPgA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">استقلال محاصرۀ هوایی آمریکا را دور زد
+⚽️
+تلاش باشگاه استقلال برای گرفتن مجوز مجوز پرواز مستقیم به قطر در لحظۀ آخر به نتیجه رسید.
+⚽️
+با وجود محدودیت‌های پروازی اعلام شده، کاروان استقلال با یک پرواز مستقیم به مقصد دوحه ترک می‌کند تا برای دیدار دوشنبه‌شب مقابل الغرافه آماده شود.
+⚽️
+استقلالی‌ها بعداز به بن‌بست خوردن مکاتبات با قطری‌ها این موضوع را از طریق وزارت خارجه پیگیری کردند.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 7.57K · <a href="https://t.me/farsna/467464" target="_blank">📅 14:08 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467463">
+<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aVWy-BcXYz2MlMgvW51rYdehwQasLZt7D-n8jcu9qITXK6U7oz7_NgoMl_vDyip3SkC30UEOGqMHzMVmiCNA8z_VY5S-hlZlyNyGG-9wyOO_64m8ic1Yn0eACEdJfdyvfrD5xsqOc_C1BQM6W_ibc1AJLBPMLqlT3zLnI6HG-LpW2j98kQTe2N4ChrbeH6mNL__JrXO-TEzQSA4hbSJfqPmiyosvHt_TpYkH_tWkFT1Ps9zpKmLaF_Wi57hiuw66E4Rekfm76pnzSHtAytr92CBHUaPzMg4HkzQy5hRrrDg8wSC3aQDsTXu9cG4YGTKjlBHnMSAYD9Jk5aJ6H7CMwA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">تجهیز نیروی زمینی ارتش به سلاح‌هایی با ۳ ویژگی راهبردی
+🔹
+فرمانده نیروی زمینی ارتش: پس‌از جنگ تحمیلی ۱۲ روزه، طرح‌های عملیاتی را بازنگری کردیم، در ساختار و سازمان رزم تغییراتی ایجاد کردیم و تجهیز یگان‌ها به سلاح‌های جدید با ویژگی‌های دقیق‌زن، هوشمند و شبکه‌پذیر…</div>
+<div class="tg-footer">👁️ 8.95K · <a href="https://t.me/farsna/467463" target="_blank">📅 13:40 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467462">
+<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EKHFhg0F6Kmio0VV6x7uUimQO1ErT3-d-zx78-VINYje65aGmtPQgNXEGjvPeDm_Jg9QhGfTT3n03QLAQ27vnes3vDH-fXuP6ZZAPlYSpbixfPyq_pD0jW8Av5g9ql1-idR6VUcfrZraHx7-Re0yBKqbUWnRXRnuLdBt66aGezbRT_LAJEzj0Lih7LHk-A0GRH0_vrqkngNbTccLwvwxXppq0KKuTS5YbwIYi-_Wo_maUNNKvvWHdrjdHIAG5SAWGZ_lQGxH4ygfB_0u1U61hk1kzk2jSO2v1vEbVqUENbHdu1HZdX48mgkV3mVUYMUCbMaomUHRHwopPjuUO7Uw6g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">تجهیز نیروی زمینی ارتش به سلاح‌هایی با ۳ ویژگی راهبردی
+🔹
+فرمانده نیروی زمینی ارتش: پس‌از جنگ تحمیلی ۱۲ روزه، طرح‌های عملیاتی را بازنگری کردیم، در ساختار و سازمان رزم تغییراتی ایجاد کردیم و تجهیز یگان‌ها به سلاح‌های جدید با ویژگی‌های دقیق‌زن، هوشمند و شبکه‌پذیر را در دستور کار قرار دادیم. همچنین سطح مهارت و آموزش کارکنان را ارتقا دادیم.
+🔹
+یکی از تأکیدات فرمانده کل ارتش، کاهش تلفات نیروی انسانی، جلوگیری از آسیب‌پذیری تجهیزات و آماده نگه‌داشتن یگان‌ها برای اجرای مأموریت بود. در سطح پادگان‌ها اقدامات گسترده‌ای انجام شد، کانال‌ها و تونل‌های متعدد با طول زیاد، مواضع آتش و سنگرهای پدافندی ایجاد کردیم.
+🔹
+این اقدامات موجب شد پیش‌از آغاز جنگ رمضان، یگان‌های نیروی زمینی هم از نظر روحیه و هم از نظر عملیاتی آماده باشند.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 8.44K · <a href="https://t.me/farsna/467462" target="_blank">📅 13:35 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467461">
+<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nlE5OJ_lc4Et9Wd2b90hA3l8ucLyYSgoBFip2O6I_YHrwFnPdLTiogRClnsfYn5z-tuJwuBBiHouT7nF9jcyF-T7mcwiMBTFQBR62cWY0HdR39vfusXE5GNhNfIZam212RIauES7FJgNieFPYeyl4eptiTWjrtpZ-n9z_GLS9w5Cl6iaLxqpcyD5jLK25bZKtXtOzt5H8d0hk0OWmy2TyC2IBkbKBbI58UQXRmzwcvjOaSZ312yfCON3-yLf3lJJOqWFgOmSjrVyF6jKek9GQegsiA0a61CdsO0_GQpG3-gYvMBVPSmt8U-zm4c0ccBw4Re0KPDAIcnmPTy_DnOZ1g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">‌ تراکتور به بیرانوند اجازهٔ اقامت در هتل را نداد
+🔹
+در ادامهٔ درگیری‌های مدیران باشگاه تراکتور با علیرضا بیرانوند پس از پایان دیدار این تیم مقابل استقلال، روز گذشته اتفاق عجیب دیگری در تبریز رخ داد.
+🔹
+گفته می‌شود مدیران تراکتور به‌دلیل اختلاف پیش آمده، مانع…</div>
+<div class="tg-footer">👁️ 8.72K · <a href="https://t.me/farsna/467461" target="_blank">📅 13:22 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467460">
+<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/7cd5b650df.mp4?token=Lr1MgmF-cyMEJCzEIB39-nsqoUoqHQJ5G4Deo1tiBFbYdtnndyrVDRfCqnY_8z2_-h6MCt3gmf0ok_gQMGeoM7C6ifDumVMEgaVTmmuUpuNaZNPkNMX9oWqm-3IfmrKAOqEc52xEzk51_BNy1jq_Lh7YFFyu6jMqj3MDYIsG7wQ1QxoPV2PB50KsHhbmRGJKvtcpZGqg2OKlGCPbBM6keupCUASnUcglE4U3oIinvrNWyo7IQjYS5geHcGyYlG71uNDnQIfUI9xi_L9DN1J_7i7DoFFhQIjqGl8Rt7zxK89CxpcKVWCo7WcJc3M9LZNIw6afh3-6eqM4_fnw2Gsx_A" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/7cd5b650df.mp4?token=Lr1MgmF-cyMEJCzEIB39-nsqoUoqHQJ5G4Deo1tiBFbYdtnndyrVDRfCqnY_8z2_-h6MCt3gmf0ok_gQMGeoM7C6ifDumVMEgaVTmmuUpuNaZNPkNMX9oWqm-3IfmrKAOqEc52xEzk51_BNy1jq_Lh7YFFyu6jMqj3MDYIsG7wQ1QxoPV2PB50KsHhbmRGJKvtcpZGqg2OKlGCPbBM6keupCUASnUcglE4U3oIinvrNWyo7IQjYS5geHcGyYlG71uNDnQIfUI9xi_L9DN1J_7i7DoFFhQIjqGl8Rt7zxK89CxpcKVWCo7WcJc3M9LZNIw6afh3-6eqM4_fnw2Gsx_A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎥
+معاون‌اول رئیس‌جمهور: در مرحلهٔ نهایی‌کردن تامین منابع برای افزایش رقم کالابرگ قرار داریم.  @Farsna</div>
+<div class="tg-footer">👁️ 9.06K · <a href="https://t.me/farsna/467460" target="_blank">📅 13:07 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467459">
+<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FmGk-cTxbgKldwovcOilEblnbjCSPYkeXcbFTObpG00jpqzt3TypW9Fl0iKbV8zN4e2m6qjCiU38x-UkoGEgW4LC4d-N6OUqXP3vBbHsQ4Kz9qNd6wtLd1PdQmwn_wkxEhpRjCzb4VpXVMtouCkNOmjoa96S79DbJA6wU0hrjP8RNvCWHJ4mnEppYYuWEXmaulYfHD9tlZHfFAFjMUZXuBMsjtXqRZ81LMQ7sEo6pF2h4_medgYP6h4y58-JwHNQiMPhK1-7ZEEz7qFX6fwSF3w1-ogcK4PvHP1w5dH_hW2byoWGCaUBEN_wBEeNW_L5MbNgq7Q2QzUAXpEhIVhqXg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">📷
+بازدید پزشکیان از نمایشگاه توانمندی‌های روستایی و عشایری
+🔹
+رئیس‌جمهور صبح امروز از غرفه‌های مختلف تولیدات و توانمندی‌های استان‌های کشور بازدید کرد و از نزدیک در جریان ظرفیت‌ها، محصولات و توانمندی‌های ارائه‌شده از سوی روستاییان و عشایر کشور قرار گرفت.
+🔹
+پزشکیان:…</div>
+<div class="tg-footer">👁️ 8.24K · <a href="https://t.me/farsna/467459" target="_blank">📅 13:05 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467456">
+<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/mA1gAE8kloLKOf_83xBKVIH8clnNzJkYjcWn69OWuASSSfxyOczvxnJ00Uww6gQarFWhKT8EXwwE3HsqDk0MkN-EQjtBxi8bJfTLVl2oiAmNqLT3SilcqEeX77me3qSrRneNtz_FGutS080pu4D4-h0aP95dVvhbvTBkpNjCyh2AK52fecjtwOx_YKLZ7cvbF_WeM0NYJlUnRM4TKecH4yBX1zeGQLiz-n5Uam3U_g-xZI_c9nZBy20ZAXsLokmRSaXowMBYHeMkWPQwJ13YEfcOFs6xcepqEapujRfRoFGB_qq5LqsKZYrB37Fud9GrvIQV_U8TuZ4WbXJExUIDbA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/aZ85jYRyYKiWXBLBZmf9-ZuF-SHNIqTStksg0cbWqqWuZF23jkH9xe2k5XQlkt-YgHYt8mf1-irrPbSruLgLvybdk-b32mdUMwpTlSaBUJ6eo2My7BReKUA6h6nxnaKdQD4lS4F7g92_9wXosBERZQseV5ygCet_C-_pUDg7ewHu6Ye_B6jKbxgEZ8AgOz8VaJFd1ZGdh3zYiD4gWw3sm9IXOJ0YqwUnn7-iIaGgTnm9fN30D_aYPCA3gJN0mzgZTN32EsA-79ST8FlZn5aHROA8x5YhAZ9SDYMtVFg1HMdzwXFcdZU7smCGoqcd9TwlS-cYy9w8AO5DIYP1NmJ5-A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/j3Cpwdl-n9knqBvcZO3dE_Phl8h_zRKPvBqrngxiu4gIPlnwUSwn2KKzdo_A-XhgAflXZsSt18JnbKD7fxNaf_thuG3jjIVpgwebHuTjZb0FOOoBRCDNTrc-i10wOclGXMpcC84yAOu5d1g9M3TW-PtWDVVhHbFT9thufYuaHrGWVrlEnq6A4FsKJYWo7_5boXL1r6UBP0UtHUBv1ys1DuBgRBWMJhi6Zj7_Zp3tcX3NfWhKdGDS0bocdyhBapyaoQv3cNyvmBcDQcZHkRvTxKYRtGzbujiiDhWpxiz0hg9VYmq_g38K_tfi5TPPRx4-PtPDxMqdfSdQ39G8ve3eXg.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">پزشکیان برای حضور در گردهمایی آیین سال زراعی ۱۴۰۶ به کرج رفت.  @Farsna - Link</div>
+<div class="tg-footer">👁️ 8.56K · <a href="https://t.me/farsna/467456" target="_blank">📅 13:00 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467455">
+<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/U7b55UAAJTpbE3zugusU9NhklswRVZ6qK-NmY_QWTefiZuSJBU9SNiUyrvKDwSbaAb4Qxf_spgUVD-jANGhZhlVcOY1PRiuPH1Sz33KVaduIciH-AVooNZWN7oFRuMuCZL6PHNEqR7HY3R20ttmDCMWeEecMId2iOD5GVenObk9kJx71k015dhyz7SA-cd1A1rsG4NndHu_3c5WQvw5R_l1mjF0NJptffSTU6CzgfUi1UWrFb5LuhkzXqpkXZd243DHa-zmH8PjrtdMubezdCEEljfhcUjW0TOZTrz8AA34wugt-4g_zheszovM1Rz2P_rpdR-saGs26NMdKZ7lAtg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">صدور مجوز جذب ۱۷۵۰ نخبه در دستگاه‌های اجرایی
+🔹
+معاون علمی رئیس‌جمهور: سازوکارهای استخدام ۱۷۵۰ نخبه در دستگاه‌های اجرایی و دانشگاه‌ها، با همکاری سازمان استخدامی و سازمان برنامه نهایی شد.
+🔹
+فراخوان چهارم جذب نخبگان در دستگاه‌های اجرایی قرار است اوایل آذر از سوی بنیاد ملی نخبگان منتشر شود.
+🔹
+تأمین کدهای استخدامی این تعداد هدیه‌ای به جامعۀ نخبگانی کشور بهمناسبت روز ملی نخبگان است.
+🔹
+برای تسهیل جذب اعضای هیئت علمی نخبه در بازۀ زمانی ۱۴۰۳ تا ۱۴۰۵ توافق شد. براساس این توافق، کدهای استخدامی موردنیاز به‌صورت پیش‌دستانه تأمین شده تا روند جذب اعضای هیئت علمی با مشکلات پیشین در تأمین کد استخدامی مواجه نشود.
+@Farsna</div>
+<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/farsna/467455" target="_blank">📅 12:56 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467454">
+<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RWHk9Im6JHbIz9gPpHfFej11xryGZO_5v_LhmEfmVpmbN-yp_Xti9uEW4KG_egj4cnpz5zrI6AwBQTO84YulgWUb4_6a068trJErKKt1XbK1q-8b1HbRF-C2x12mUYgSooEov1U9RgK-AzmoNbvxbRMANAS7rU1O03y5Y8kcGGhH1vHwemlkl9PFz5tIHaCb7cmhilkyWWXLF-YEaLInJg4StVcX1Vpet1hZqN7vNUcePO6zhU-JQ-Bb4kIGR9I6bRErPkfBWU2-pfMbLXT1NuGEyBoOlevSbxsm2JOWhpFOzjsiQIeeZSi9wgLZv9BdA0T85R8CaHtOnKJQiBZgXw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">شنبهٔ رکوردشکن بورس
+🔹
+شاخص کل بورس در پایان معاملات امروز با جهش ۱۳۴ هزار واحدی به ۸ میلیون و ۲۶۵ هزار واحد رسید و در آغاز معاملات رکورد تاریخی جدید ۸ میلیون و ۲۹۰ هزار واحد را ثبت کرد.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 7.34K · <a href="https://t.me/farsna/467454" target="_blank">📅 12:38 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467453">
+<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/5f2a4a24de.mp4?token=qtPFt9Mgn0qL5iaJMTgOfydp_UABsXyvJ8FMzFbZHG96ObkzN1CbLLo1UpGg99UbY-Nvf4RcBPzBsoF8H6NF1fSqiCC_bFIUifzTAvYVihRMYh45gjh7mRik2g_ohjlQq_zfmPeAkYNSisNLNrQ0LteDITjOxsHyX2bdRT2fg2cx5DZTa7v0fL4SE8l_9kHITQS0dBD-H7O59SauHpKd9NFteoBAm8HrW0a46jL0u7ol21tyzR2Nhg0VaVpIRbbN7I6uZYfZxHr0ascu_AU2ITzw60yJ4s5HYN6RZHnLC8HoD4K8xibnbnGjD_TTE9xAoQzZWNHGJiBvWBVEtkeWUA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/5f2a4a24de.mp4?token=qtPFt9Mgn0qL5iaJMTgOfydp_UABsXyvJ8FMzFbZHG96ObkzN1CbLLo1UpGg99UbY-Nvf4RcBPzBsoF8H6NF1fSqiCC_bFIUifzTAvYVihRMYh45gjh7mRik2g_ohjlQq_zfmPeAkYNSisNLNrQ0LteDITjOxsHyX2bdRT2fg2cx5DZTa7v0fL4SE8l_9kHITQS0dBD-H7O59SauHpKd9NFteoBAm8HrW0a46jL0u7ol21tyzR2Nhg0VaVpIRbbN7I6uZYfZxHr0ascu_AU2ITzw60yJ4s5HYN6RZHnLC8HoD4K8xibnbnGjD_TTE9xAoQzZWNHGJiBvWBVEtkeWUA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎥
+وزیر کشاورزی: نیاز امسال گندم کشور را تولید کرده‌ایم
+🔹
+برای ذخایر احتیاطی چندماهه، بنا داریم گندم و محصولات دیگر وارد کنیم.
+@Farsna</div>
+<div class="tg-footer">👁️ 7.4K · <a href="https://t.me/farsna/467453" target="_blank">📅 12:32 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467452">
+<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-text">انهدام مهمات عمل‌نکردۀ دشمن در ملارد
+🔹
+سپاه سیدالشهدا تهران: انهدام مهمات عمل‌نکردۀ تجاوز آمریکایی‌صهیونی در شهرستان ملارد امروز از ساعت ۱۳ الی ۱۷ صورت می‌گیرد.
+🔹
+احتمال شنیده شدن صدای انفجار، ناشی از عملیات فنی وجود دارد و جای نگرانی برای شهروندان نیست.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 7.53K · <a href="https://t.me/farsna/467452" target="_blank">📅 12:28 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467451">
+<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LxYJITi3PlZA6rBrSb_o2un0yHRF34Mi1HoGdF94Lu71j7OKlCBR7uWQKWgbaT39SIMoBYddIUChAh7TQlcJLRhNnBCBkM-dFkNsHqLPhVA4pe32S6M9Lte86gsv3IgCwFpiJohDt115gPIyVWdxvK98CZ3xEteHWr5zKkyZYdNN5u_QRrELnVWOciE9W1KVysA-x4L-VJs_h_7D4oIigwNVm4ZCS3Pv8GEaCq4ddb-Cm1CMnTTfVg1xJCocRqBHSOomRNy-T773gQt-8O6eiBJ7hbh-q8BZ7cYC3ETCLPFOH3PuDy0WdwXNcPjrOe7r1jJQEEibHV-2AwZF6RpTLw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🖼
+قالیباف در پاسخ به روبیو:به سرنوشت والرین دچار خواهيد شد و زانو خواهید زد!
+🔹
+رپیس مجلس در واکنش به یاوه‌گویی اخیر روبیو در مورد تمدن ایران نوشت: در طول تاریخ، ما ایرانیان با کسانی روبه‌رو شده‌ایم که خود را سروران جهان اعلام کردند و کوشیدند تمدن‌های کهن را…</div>
+<div class="tg-footer">👁️ 8.2K · <a href="https://t.me/farsna/467451" target="_blank">📅 12:14 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467450">
+<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-text">خنجر یمنی سینۀ تأسیسات ابقیق سعودی را هم هدف گرفت
+🔹
+گزارش‌هایی از وقوع حادثه‌ای در تأسیسات نفتی بقیق عربستان سعودی حکایت دارد؛ مرکزی راهبردی در صنعت نفت این کشور که تصاویر منتشرشده از آن، توجه کاربران را جلب کرده است.
+🔹
+براساس تصاویر موجود، مشعل‌های نفتی در…</div>
+<div class="tg-footer">👁️ 7.93K · <a href="https://t.me/farsna/467450" target="_blank">📅 12:09 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467449">
+<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-text">جیش‌الظلم مسئولیت حادثۀ تروریستی سیستان‌وبلوچستان را بر عهده گرفت
+🔹
+گروه تروریستی جیش الظلم مسئولیت حادثه تروریستی شهادت معاون اجتماعی انتظامی سیستان و بلوچستان را بر عهده گرفت.
+🔸
+عصر امروز در پیِ اقدام تروریستی و ناجوانمردانه در محور چشمه زیارت شهرستان زاهدان،…</div>
+<div class="tg-footer">👁️ 8.51K · <a href="https://t.me/farsna/467449" target="_blank">📅 12:02 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467448">
+<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-text">صدای انفجار کنترل‌شدۀ مهمات در بندرلنگه
+🔹
+معاون امنیتی فرمانداری بندرلنگه: به‌دلیل خنثی‌سازی و انفجار کنترل‌شدۀ پرتابۀ عمل‌نکردۀ دشمن در حملات آمریکایی‌‌صهیونی به مناطق مختلف شهرستان به‌ویژه حوالی بندرلنگه توسط تیم‌ تخریب، احتمال شنیدن صدای انفجار شدید امروز وجود دارد.
+🔹
+شهرستان بندرلنگه در ۲۴۰ کیلومتری غرب هرمزگان واقع شده است.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 8.89K · <a href="https://t.me/farsna/467448" target="_blank">📅 11:47 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467447">
+<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-text">ردپای شریفی‌زارچی در حمله به مرکز سخت افزار هوش مصنوعی ایران
+🔹
+اصابت دقیق به زیرساخت‌های پردازشی و GPU دانشگاه صنعتی شریف، بار دیگر بحث «نفوذ در لایه نخبگانی» را داغ کرده است؛ جایی که برخی تحلیل‌ها، نام علی شریفی‌زارچی را به دلیل دسترسی‌های پیشین به این زیرساخت‌ها،…</div>
+<div class="tg-footer">👁️ 9.67K · <a href="https://t.me/farsna/467447" target="_blank">📅 11:37 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467440">
+<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/FupqwLUcS_fCKUI3bRGUYyIdevlZ-jQmHAuydh0PnKGzcCdSi_4UsGxre-IuakhepWhBXFvBPOGweUi0OiWjzlIFt7D35uwYbwjUwPZFUFcxeP_RaVMpB4oVpd_ILOQhhYm5H4DUJWnq4fXfMBNGPni-VjTpL_TFsBPAX4vT2c8ccVrb0QTLjVba3klschcFJkepqneTGQTtWU52RZFiXagnbMBSukt-LFEs6Uy4Qg-YaTOUj8qpzCQEmbKH0skIyCrlC9va_HMdAt2HZw3VJ_-j06BonLMc_pR36QwFRN4seZakImeKlj2CqDJiwOgtoGeDHvFYoTRfLuWUsZgJrw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/u3V5PzKDhnL00wANRMwbXjQJ4s540Bj09zH7Z0uErt2T6ZuYeLtx-hl7j22W9-jLmiZTNctWqym4B4PeQbzrbO1BqlHRWJiXkhg1uStzBSvWG-qpkRtD5Uy81sVhMcCqAi1MYIiVDv64FVa8PYuSxy8pMcV9DXB3QNXQMGR0w0gUrm2Q0mrnhS3IwD-H_Q4XRHqb3lVxm_NQdiwCTyQruSIKBrVbvwqUvuoNr7D5nHISf5-AbI2q5LCWCQtnnwzNsaqB7pj3DHgyJtDHFeZ2WMhur43rpzgC8OD9ryaGDgYFN7gSASp5Fme-hK7pL6A8r4t6mcHTpo-u2rYS18aQpA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/PsRhhcuiLTbiGtTpB5V5F1d_bIwo0ojGf4Fn1JNEf3H_UrgXUwL0YF93EEHfNrSCCR5SkbmkHnbqFG2I27Z7DXz2H30GtPUXgAOHAGiFNqvhkkNef1snIwN1SQJqeJyaGP-MwbCxkXYOR_PxXemXsGXBKLN-PyaEl55PpRJv-ZkJis3UC-bN0TG_nnYweOusx0DXGbXLKruoz5HUlVzrfhRpL8u1cys6wkAdSz5HvdCnXRWysnuXWR1nyTD5mxcwsN-XdX7ASTrBetg8ToDWKI7jwbNYGeGMb5fJmLprVZqeNaWImZnYf96yP8ZNC6VAmAYy4ZcOwZzonaZSY4RxEg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/a936W48yejoFAy2h6hK1Ig-k3OoTa68ROxWkY4uktl378ghukUWqNiOn0_7V6_xgl5Ny1zoHE8WmhRv8H5u6jGQrvjeyMXIE8EeX16Q2aMLRJQEYdT02xehuZ5TxDPxa9zMmmS5HXBJnaQT4RACqEQpMr6pWmsML0B1l306_thw7dZW70U_bj9dMlsQoJFKm-53D4GYGLbWlAUt3DOnbTfatXoK9MalBPa3ED6wkoYOxLNyY8jC4aRgQ_pbKIO9KBQLJL2mt5sZDSLBlB2UOOCh2ZVNHhAgi3RvumcFzhxjxXOqz9FmY7XYP4o-of3LY_QI2GlpM4odtY8_h__oVpg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/KFE6bqbp_SVXojz63EZF8upRDE-RitIdlf4akqBW5G7u_BT0Wfx7RzXZ1Bn2rcQP6XY0_qW0OuGlB-pvrx81njAIe1SOMnOHrHsewnw6s5-JcyAicEsx6-Iv7kSi7-nso5OtxNtAjhFR5L83MI24c3MLgL_lo4XaNMG3IfPuZxTke_tVXPn0P10NqSsnd4skBBkian7067RlqgoUkg_KoJaMDx90VxmR-gjEmzDxTJ7xjFVBEowPD5NvrjI2PJhcFJXqfYRCIHmMJ8tHz96Te_PuYfEEwwtubRyvbiSQoFC0eNP1gWGKDXT-GmXBf6KjTl1Ijzl98TsWSon-Oo-UXw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/kV8WYsKm1wMmvjT8JIj-FDWH6R9vENYyUIzftekpIYIDwpoQNoUtKEBObFiSmzeMj16pLgCxCQd-gtuMdPNyWqqAhahQQV2bdF-YvLu_gg9EcUZcHn2NUiaKfMUipoJo7fk3JXhFDXQwz9xYz8tSt0uic9R_-m_UqJcWMtsZYJL9hCbusj5ko-cebsQsRaVZMFSXJC4fV3tDwq0Eyzs9NrWK8Bo47EJ9yk_FyfEsHYAoTB0LX5m-j5XmlfEwfnBnmz7QZaAeNCZnnf90vevYGXZ8Tn94lyk0EO1UXiazk0-SmHUc1kIqBQVfxeFFalFGbjDNUmgOPYdarvqeZCunEA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/E8PRrzzq7HNFS4jaJB_v90VoMF_Z1Th69Xt6uz2m9pWVla2hfBA6N6szz8vEar0Vf7fYJzTVvgo1c8kB0L1CAZDvZ-uHw8rjPCO3n_jE4urPJ4sSdfonKYiq-1ijDBe4cusxj_QgYP90v4VkA68GceK4mOU4kF144wqZ47fg9Ym2G82gIPu4COlYtbyoFpDsKq94N5ZGAR2YBQgmDOcXmBEH_TV6s2Z1T5m47vtQHZa4dviDe-ustbdVqSiVKbAvXTGomZuu56TrXvJCPItuDRj1_oHNuBzrLRh1BBGJZ3bXZrYjtJCjeAvFD9qUB7xrevMRcmkwCIQXtjETBRtKxA.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">📷
+مُشت‌وآتش در مسابقات رزمی غرب کشور
+🔹
+مسابقات قهرمانی چندجانبۀ رزمی غرب کشور؛ یادوارۀ شهید حاج حسین همدانی به میزبانی همدان در سالن ۶ هزار نفری شهید سلیمانی برگزار شد.
+عکس:
+مبینا لطیفی
+@Farsna</div>
+<div class="tg-footer">👁️ 9.49K · <a href="https://t.me/farsna/467440" target="_blank">📅 11:31 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467439">
+<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-text">‌ رشیدی: جلسۀ رای اعتماد به وزیر پیشنهادیِ دفاع یکشنبه یا سه‌شنبه ۲۶ و ۲۸ مهر برگزار می‌شود
+🔹
+عضو هیئت‌رئیسۀ مجلس: درخصوص برگزاری در صحن مجلس تصمیم نهایی گرفته نشده.  @Farsna - Link</div>
+<div class="tg-footer">👁️ 7.94K · <a href="https://t.me/farsna/467439" target="_blank">📅 11:19 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467435">
+<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس بین‌الملل و سیاست خارجی</strong></div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/alFJFKBw-4CU8T9pnAn0qDo-Cd8pD_EpocislZpVJ3J0R3jzI1gyE_O_5_sUov-Li8DThTjCb0azzPlBkEEITJk2KsbA16v4eyjBRS3cDSAXLcNGmjuh2VOa624A_iBqm8y1a9xWL6X2VqczK3b1PTrdQcGeIqSrKLD-3Obe7zWXobRishaXIl39F5cN92b6xNLxhg1tcifAYGwJsfUfOWwxMChok7c1ri6VIMc6KM0OZYre7R3eRqsLgWCFf0_Veq9xhL5qBwh6yjcTHR872Wb-fDHt1c_pQ3WkZ50DvKY-YBY-1Fp4LnJQXkOub1tsFLpRbUGfnr1K1MM2d1M3dA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/g_lvLDCeqmWu52jYVbmk-ZuEKUFqYlHMcrhtzgRMt9kKquEikli_BeI_OxciL82GzBa9WrDY9E9QKnu3UQkgZUABNV0iOpD-P1cE02KSVXDcwlsZqu7ZyT1SHAycBVxS2iXSpOk-BAf0zaNRd46anmHbp83t9u-ugjlDN5VvsS3C-YlWo4vq_D-Pg0VRRYNpGfSfTN_GPbzVK2kr8L9vFm4poq4uI-v8qFa4aPESsQsPEK2SsN3i1WuZ2_wMDK3TDk_AntoXe8GLVnASJ9c0ezFivkBCmmVg6pyUqP5yEZlgBYda6Qef3X6Uf2vY-o27WzG0ojCYSq5Jo3dDLiRQYA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/G2cCjadhj0wEGcuBbsOExu4gOgwFwnBDRRK7HeXt3paUyxB-0vt628TUiQC6DFxWx32FU-9lD1dfc7ol5H6LxP92Xa8h6T3BTdpEfPIdDkJxwijnooYIjYl-Wk2AsEnvnl7KUzUyc6ijzjOHhe02R6q1MIrDDpUnAZi0pIsZ3XzI9dihyZ7-q1CJ2GpWbbmqGQc88-KNAtsUPk-ViRgtTNiwNt74gkbMgQVxv4FsnWJHFO4NKHB_dXaTE27EWsD29NMVD-Oo74MxjIPajZkTCcfDS-SsPvwLReBWX6B3lylA1OPgqz11_201OOvZ54VFZ-tgJOJl4vylXGelIV8blg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ZktlsR5T2DEBUwX5TyJ5tk6R2igwUpj_3FlUUeOghwV9v4BAsoRCTzOg1nWvNW9Tqb8-fABenNvslaYN8Crk_DK1EwIvKfKvI-dRRTMSRmICgJRy5Lb_F0J2BW5vUBpoNvh6odWxTh2N3olnXRw54U9OMwYjaAzkvfq_hWkpdfvFuGZBNl_oKcXAwcIB-F6SCpj7pk9LuhdqpSo3zbZYd291wkNRHQs7-XIKdinhGWXMF27vSD4KNTEcrSA4SxFGURGuL14W0GPhDlihKUl5hF_v7B2BQSOXpf2TcXePmZid9c9MtgTPLgJS6cq7E9mhOxfZvUYXl_v6gqQejkCdig.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">پنتاگون آمار تلفاتش در جنگ با ایران را باز هم افزایش داد
+🔹
+پنتاگون در ادامه انتشار تدریجی آمار تلفات خود در جنگ علیه ایران، شمار نظامیان آمریکایی کشته‌شده را تا نهم اکتبر (۱۷ مهر) به ۲۱ نفر و شمار زخمی‌ها را به ۸۶۵ نفر افزایش داد.
+@FarsNewsInt
+-
+Link</div>
+<div class="tg-footer">👁️ 7.93K · <a href="https://t.me/farsna/467435" target="_blank">📅 11:17 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467434">
+<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/f07ce55938.mp4?token=MVgn8u49hjdigadVC-0S4MWN1iWkCfJ0sgmChyFM9fdQukVuvKou2ljScKeAQafIqZz6hCxm6YEB-Kd2E-vYtFpsxNDKqXmapI79DfxnwuOZVkmwlo3XoVuRprH1p7dzcv4kclAHizVOkzfWx4_ahNXVPDDjPoxI2DhTrCIwBgsf42fueYK935EaZ83DBWNMBC9970KE-CoxF6fvPV_D6Gsa4-dPs5YeW4moUHG6YF7vKll1YLYMzCRjBXFe393qd6rvc0E8trdEzYPa8jGAS-iXsqwp654xez8pu1a9RTe_g7u4oo4ZHjDhh_yEatgeJwQHu2gafgPCRwvrgioR4w" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/f07ce55938.mp4?token=MVgn8u49hjdigadVC-0S4MWN1iWkCfJ0sgmChyFM9fdQukVuvKou2ljScKeAQafIqZz6hCxm6YEB-Kd2E-vYtFpsxNDKqXmapI79DfxnwuOZVkmwlo3XoVuRprH1p7dzcv4kclAHizVOkzfWx4_ahNXVPDDjPoxI2DhTrCIwBgsf42fueYK935EaZ83DBWNMBC9970KE-CoxF6fvPV_D6Gsa4-dPs5YeW4moUHG6YF7vKll1YLYMzCRjBXFe393qd6rvc0E8trdEzYPa8jGAS-iXsqwp654xez8pu1a9RTe_g7u4oo4ZHjDhh_yEatgeJwQHu2gafgPCRwvrgioR4w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎥
+پرسش و پاسخ‌هایی که رازهای پروندهٔ فساد را مقابل رئیس عدلیه افشا کرد
+🔹
+اعتراف متهمان پرونده علیه هم: در ۲۰۰ پرونده ۱۰۰ میلیارد حق‌الوکاله گرفتم.
+🔹
+متهم دیگر پرونده: حاج آقا این فرد دروغ می‌گوید؛ فقط در یک پرونده ۳۰۰ میلیارد از من گرفت!
+🔸
+متهم وکیل پرونده:…</div>
+<div class="tg-footer">👁️ 8.14K · <a href="https://t.me/farsna/467434" target="_blank">📅 11:07 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467433">
+<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/71d006e0e9.mp4?token=RyAAQFa7dLzSm5Ody72LZWAhVRQ9c9ofg2gNsN3Ot2mGw3oQUhqT0KLBFhQfc3Zgwck7Q2DByV9h09AQdA_kXJyi-rsMftqWYsfqdiqRnuqlLI6Rugzb2seqKc02ZMlhQtGWfaQNIe9HM_vzBcdBfVoWoZx37qIdPaLwP1ORdiEpXwgjFiVyjLZ1cCHisgr7P_pioozRrw8DnW2DgUyZLd3p7b8usRKFFPHJ4faY8_Ek9ChkgVa-38RE4uKLwI74f2zKpoSQjrYbyNBklht5-tAhMvREE9K2j2SRXuAhp63MBAwxn0rduEF_9cQskq_UggoGMuZ3_F4KbhUbxS4KQg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/71d006e0e9.mp4?token=RyAAQFa7dLzSm5Ody72LZWAhVRQ9c9ofg2gNsN3Ot2mGw3oQUhqT0KLBFhQfc3Zgwck7Q2DByV9h09AQdA_kXJyi-rsMftqWYsfqdiqRnuqlLI6Rugzb2seqKc02ZMlhQtGWfaQNIe9HM_vzBcdBfVoWoZx37qIdPaLwP1ORdiEpXwgjFiVyjLZ1cCHisgr7P_pioozRrw8DnW2DgUyZLd3p7b8usRKFFPHJ4faY8_Ek9ChkgVa-38RE4uKLwI74f2zKpoSQjrYbyNBklht5-tAhMvREE9K2j2SRXuAhp63MBAwxn0rduEF_9cQskq_UggoGMuZ3_F4KbhUbxS4KQg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎥
+حکایت دوست‌هایی که باند اخاذی تشکیل دادند و دلارهایی که در یک کیسهٔ پلاستیکی برای نفوذ در پرونده هزینه شد
+🔹
+اژه‌ای خطاب به متهم: می‌گویی «صادقانه صحبت می‌کنم»؛ کجای این صحبت‌ها صادقانه است؟! شما وکیلی با سابقهٔ ۱۸ سال کار هستید؛ کجای این حرف‌ها صادقانه است؟!…</div>
+<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/farsna/467433" target="_blank">📅 11:02 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467432">
+<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/8c2d1e6453.mp4?token=lckD-DwRdZUUKrt-oMA1dbsB2PPlpa_HHt5UU5bI9oMWRALznMtzZbQiky8nntV73KwixoEsEJSA4yb8H57akhNWQreGaIBcGUfi5t3e6oPK4qEEW_1W1TFMCrIpkoLsbiT7XRBdbRtGYsZiLlZc2QRN8D_ilagBV_cTi0ZghRRgoXE6WQpN0XADVDfgB9Wgn8iREkltmmg01ZA-GWe-c7mFJtNNNzyIXkXH2wbd9u38elJjNfHByFgDsN5LbJYF7h9v6pvITg4SKRDxfZaRUJ7kMCoBJ0iCHAtu58dZYVG6ZAocpBwSS7LnhrIry6kHLGgbUJmas9iwJ8r2qsoGAQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/8c2d1e6453.mp4?token=lckD-DwRdZUUKrt-oMA1dbsB2PPlpa_HHt5UU5bI9oMWRALznMtzZbQiky8nntV73KwixoEsEJSA4yb8H57akhNWQreGaIBcGUfi5t3e6oPK4qEEW_1W1TFMCrIpkoLsbiT7XRBdbRtGYsZiLlZc2QRN8D_ilagBV_cTi0ZghRRgoXE6WQpN0XADVDfgB9Wgn8iREkltmmg01ZA-GWe-c7mFJtNNNzyIXkXH2wbd9u38elJjNfHByFgDsN5LbJYF7h9v6pvITg4SKRDxfZaRUJ7kMCoBJ0iCHAtu58dZYVG6ZAocpBwSS7LnhrIry6kHLGgbUJmas9iwJ8r2qsoGAQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎥
+اژه‌ای: کسی که وکیل است و در یک پرونده به‌دروغ می‌گوید «من سابقهٔ کیفری ندارم» درحالی‌که سابقهٔ کیفری دارد، دیگر باید حساب بقیه کارهای او را کرد!
+🔸
+وکیل کارچاق‌کن با وجود داشتن سابقه کیفری به بازپرس پرونده‌اش می‌گوید «بدون سابقه هستم» و در ادامه مشخص می‌شود…</div>
+<div class="tg-footer">👁️ 7.4K · <a href="https://t.me/farsna/467432" target="_blank">📅 10:55 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467431">
+<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/522474d843.mp4?token=m5tQXYsWtKpxdh298RSPNrjdm7DK1KnWK8mvf_-nChta3LcMbGX7wzVyVg8XefroHmr1s_j9-2fgYj3TXuDaH2wdLLUq-y0zS8K7YmKEZwH4TFFCU7jEvfv4wmOot22ay4GsN2zum5Qnw8KFaYV5FpkLxmw0CRvL91dC0PXkHjbFLf-MW-oZpUYHaz5IjorqhnO-WOtqkRwCT7cYKfP8rwv9xM4HxKlVhqmzRm8vUeIfJIsJbImCZvVqqIW6Nl7F9m8A0-LXEjLwkRSJV8sL232Mh2hW5rNsEeWDalrW_wRrX5SoeltmTPwb744Ddm5JthOzbcDVyqTENnHWseoauA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/522474d843.mp4?token=m5tQXYsWtKpxdh298RSPNrjdm7DK1KnWK8mvf_-nChta3LcMbGX7wzVyVg8XefroHmr1s_j9-2fgYj3TXuDaH2wdLLUq-y0zS8K7YmKEZwH4TFFCU7jEvfv4wmOot22ay4GsN2zum5Qnw8KFaYV5FpkLxmw0CRvL91dC0PXkHjbFLf-MW-oZpUYHaz5IjorqhnO-WOtqkRwCT7cYKfP8rwv9xM4HxKlVhqmzRm8vUeIfJIsJbImCZvVqqIW6Nl7F9m8A0-LXEjLwkRSJV8sL232Mh2hW5rNsEeWDalrW_wRrX5SoeltmTPwb744Ddm5JthOzbcDVyqTENnHWseoauA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎥
+اژه‌ای: فیلم روش‌های عملکرد باندهای فساد و کارچاق‌کنی را پخش کنید! مردم نباید گول امثال این افراد را بخورند.  @Farsna</div>
+<div class="tg-footer">👁️ 7.56K · <a href="https://t.me/farsna/467431" target="_blank">📅 10:52 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467428">
+<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/R3wLdNXTPpOPkeGUM8SbZ451DX7zzLmBWldeJeyZG-_xZyahBOpZpoZFAQwoxlhdym42JXEJdtmf6Gi86N3JnBdSCCldan_ftV0JmydVAvF1igKgxzA1t13bpQ_K4ieGqCU9lnrBopiJCEAVL2pz1wDTLPUZeNcg__tU5QwEQDSS1mE0OaDSdjssmN-BdnKkROMFnBgKCi96UABfKr0XBe_zqgtqqP9QrJUqMLoMzC1tzBrOlEVeD8wVyul_Ixofa0X1CeJgoPDZlF8MbLJmFKv3Lx3deaxjl21LYXnpc2iBMMqSjrZwMGfm5P1Wx9cqXM3Q-FBb025yTgFNfEVBug.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/AS8hdrGnXkCO5G9Uj_1AZbUei1n19xUTrLZe03XRPUjll4cJ7Cyy1d9lYDhztr8L45Zc7RPrEInhX7cZgiSt2WG6ANmfvR5TZQZudlea5qEcXlsosZshLrSTlRu90dOfGIMjDk0yjlYil7bqpOGz6jX12Su3TrfaGlEv8RkcnmPHBfJl8bNqZ_blRGX0nwwRMoVuMWaipzRitF21c4TMVB4W-f6WVHJmaLdn9xsqr333dxMfqM4AxN9P6R9zC36dn7AGv8-DffQ0rpVpOaWwiHyHU61wbYvhylO7Qwk2Y1EnbCGuuTqyNW-B3oxL1P5bgjHULlpWf_NwytlGlLpNLA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/N2mI3bI2S1QDC3iDjNZuvgil8wd7ESKfeoK5UwpapA9s_hBJc8cxBd_8tw4ATAz0gjMm2kOKHeyArOiM1NEjhhD4otOuI8RcascNhjYlbaZEmPcMygMIahjy5t0lTgPpfEmS-ol38sVM3MyMvIHjCL0G99nk2ZGJDFRCF741oMqY37aapSWKP8R9z4WgyvyqdjOHFBfNG3CBZyhNAyIQ9kYwVY1KzQID7K9j4Maahskp5LMP3a1agHSQSYW3aMICG_NsSag1eKEP99mU2oyYfWxDcaTdetFAOGf9vOAg7sRi2k4hgXM1wjzekuriY7SqxSFPjfz-jrRs0u8LQUlP1A.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">ورود ۷ اتوبوس ۱۸
+و
+‌ ۲۶ متری چینی به کشور
+🔹
+معاون حمل‌ونقل شهردار تهران: ۲ دستگاه اتوبوس ۲۶ متری برقی، ۵ دستگاه اتوبوس ۱۸ متری برقی و ۱۰ دستگاه شارژر پرتابل مخصوص همین اتوبوس‌ها وارد کشور شده‌اند.
+🔹
+از گمرک ایران درخواست داریم که هرچه سریع‌تر نسبت به ترخیص این وسایل نقلیه اقدام کند.
+@Farsna</div>
+<div class="tg-footer">👁️ 7.49K · <a href="https://t.me/farsna/467428" target="_blank">📅 10:51 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467427">
+<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/6d4c6ed918.mp4?token=sFNrDVzjmWoQ_YZzlDbYwptL7Jt56neVaa1Nfa7T3bTqFEp3FKSgLOOT51RSntMq7DWvCveu6tNIn-ZkWyFzDjiA6bd1NpmX8ogh7ASdpvBkFpPfVyYuiBgsWpbbSEGPniYHd-Nt1yQE3-U0K3pEllhYyy3qsozsmkIKWlHAL__hhVAQqiqjf0rcRAIHTFc5uDq7L3afeuWfUOcQgktZ0Xn_YPxGK73t5Fy34EKliEN7JYGXK0g17on3JU943UugULzBJn1hA4LcWQElLhz4rW_k0-zDPD-dCiIEMz8Pz5cyuDjiGXo3w39MFGuX_k8tJKTsqwkbQZt_gLk4dVdUQQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/6d4c6ed918.mp4?token=sFNrDVzjmWoQ_YZzlDbYwptL7Jt56neVaa1Nfa7T3bTqFEp3FKSgLOOT51RSntMq7DWvCveu6tNIn-ZkWyFzDjiA6bd1NpmX8ogh7ASdpvBkFpPfVyYuiBgsWpbbSEGPniYHd-Nt1yQE3-U0K3pEllhYyy3qsozsmkIKWlHAL__hhVAQqiqjf0rcRAIHTFc5uDq7L3afeuWfUOcQgktZ0Xn_YPxGK73t5Fy34EKliEN7JYGXK0g17on3JU943UugULzBJn1hA4LcWQElLhz4rW_k0-zDPD-dCiIEMz8Pz5cyuDjiGXo3w39MFGuX_k8tJKTsqwkbQZt_gLk4dVdUQQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎥
+تعجب اژه‌ای از مدل رفتار یک وکیل در یک پرونده
+🔹
+رئیس قوه‌قضائیه با سؤالات مکرر از یک وکیل متهم، تناقض حرف‌های او در اعلام اینکه سالانه مالیات پرداخت می‌کند را نشان داد.
+🔹
+متهم: ۹۹ درصد وکلا برای فرار از مالیات دلار یا سکه می‌گیرند؛ من سالانه تا ۱۰۰ میلیون…</div>
+<div class="tg-footer">👁️ 6.8K · <a href="https://t.me/farsna/467427" target="_blank">📅 10:49 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467426">
+<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/78bccbf3da.mp4?token=SjA0koaz31e2oxTi3Ei2-MOrwjcj96EWKGSYUMR955AZ4FRtJiE_SK55QbJ0ztUdiEPWYQTfWr9LTfCezzJX-rSI-11jhI4ZPANGSx1fbfnkJ3EmkTn8tcuXfOz7lxTW4yS_E9lOWjlzXdn4Sy4b5mBOgmwg_rdDkOFqAgymxqZVxOOmdxP8wy0AulUoGLkBKFaVxmENd-ozCc73sZ6Ytf7tmjoh_FR8ttMMhwq1ESkdBgao99EVBDESELr0L57nVZSPpQufUXv6XrQYRzzkZeo9hWy5_2FQ8g8g5cOFHdGMEwG_ywZ_nMmfMrzlS4V8wm5eZ4t6WXFoOXu_xEmZRw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/78bccbf3da.mp4?token=SjA0koaz31e2oxTi3Ei2-MOrwjcj96EWKGSYUMR955AZ4FRtJiE_SK55QbJ0ztUdiEPWYQTfWr9LTfCezzJX-rSI-11jhI4ZPANGSx1fbfnkJ3EmkTn8tcuXfOz7lxTW4yS_E9lOWjlzXdn4Sy4b5mBOgmwg_rdDkOFqAgymxqZVxOOmdxP8wy0AulUoGLkBKFaVxmENd-ozCc73sZ6Ytf7tmjoh_FR8ttMMhwq1ESkdBgao99EVBDESELr0L57nVZSPpQufUXv6XrQYRzzkZeo9hWy5_2FQ8g8g5cOFHdGMEwG_ywZ_nMmfMrzlS4V8wm5eZ4t6WXFoOXu_xEmZRw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎥
+گفت‌وگوی مستقیم اژه‌ای با متهمان یکی از پرونده‌های فساد
+🔹
+رئیس قوه‌قضائیه یکی از پرونده‌‌های فساد با عنوان «ادعای اعمال نفوذ در قوه‌قضائیه و جعل عنوان مقامات» را شخصاً بررسی کرد.
+🔹
+اژه‌ای خطاب به شاکی پرونده: نمی‌توان این عبارت را در قبال شما به‌کار برد…</div>
+<div class="tg-footer">👁️ 7.55K · <a href="https://t.me/farsna/467426" target="_blank">📅 10:42 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467425">
+<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/d77c43ae4f.mp4?token=WeVekmxBSWxKNsk0jktsoUMuxXzQ3ZQ1FMAf37d7IS0CwmU7wIVi-2cdgFakOWy7pR0p1m8SDcLmBk0osZQ5MNIi4YDK-T3panltlMsOmBIexxJj6z2ZyYOqxaofThF1sYmXXLb0M1b1A1bpk8gN0ZCsLU9QqXHFf6s1wUPLQtpZRU8qcEg4l9Tanqv651zeH7xMEEnOgLUGPBTBKq9KQ4P_Gzao7bAX-8ym97LRPc30icpvNq5lA6qh5MMu4DNHQzsX_FjpXWMlXyudjzjp8FK3VJdJIKvZFmsRYzzyDcTVPL7cJrHGX51jyAqQiNq_-Kh3comygut5cpdH5EjEVg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/d77c43ae4f.mp4?token=WeVekmxBSWxKNsk0jktsoUMuxXzQ3ZQ1FMAf37d7IS0CwmU7wIVi-2cdgFakOWy7pR0p1m8SDcLmBk0osZQ5MNIi4YDK-T3panltlMsOmBIexxJj6z2ZyYOqxaofThF1sYmXXLb0M1b1A1bpk8gN0ZCsLU9QqXHFf6s1wUPLQtpZRU8qcEg4l9Tanqv651zeH7xMEEnOgLUGPBTBKq9KQ4P_Gzao7bAX-8ym97LRPc30icpvNq5lA6qh5MMu4DNHQzsX_FjpXWMlXyudjzjp8FK3VJdJIKvZFmsRYzzyDcTVPL7cJrHGX51jyAqQiNq_-Kh3comygut5cpdH5EjEVg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎥
+گفت‌وگوی مستقیم اژه‌ای با متهمان یکی از پرونده‌های فساد
+🔹
+رئیس قوه‌قضائیه یکی از پرونده‌‌های فساد با عنوان «ادعای اعمال نفوذ در قوه‌قضائیه و جعل عنوان مقامات» را شخصاً بررسی کرد.
+🔹
+اژه‌ای خطاب به شاکی پرونده: نمی‌توان این عبارت را در قبال شما به‌کار برد که موردِ اخاذی و کلاهبرداری قرار گرفته‌اید؛ چون شما با علم به غیرقانونی‌بودن فرایندی که متهمان این پرونده پی گرفته بودند، اموالی را در اختیار آن‌ها گذاشتید و از همان ابتدا می‌دانستید که روندهای طی‌شده توسط متهمان، مجرمانه و خلاف قانون است؛ لکن برای نیل به اهداف و اغراض خود، اصطلاحاً به ساز این متهمان رقصیدید و هرآنچه آنان گفتند را اجابت کردید.
+🔹
+بسیاری از افراد تصور می‌کنند صرفِ «ازدست‌دادن مال» آن‌ها را در جایگاهِ بزه‌دیده یا «قربانی» قرار می‌دهد؛ غافل از اینکه علم و آگاهی به نامشروع‌بودنِ معامله یا فرایند، عنصر بزه‌دیدگی را مخدوش می‌کند.
+🔹
+ما قاطعانه و منطبق با قانون، با مدعیان اعمال نفوذ در قوه‌قضاییه، جاعلان حرفه‌ای و شبکه‌ای، غاصبان عناوین و سوء‌استفاده‌کنندگان از نام و امضای مجعول مقامات برخورد می‌کنیم و در این زمینه هیچ اغماض و مماشاتی نخواهیم داشت.
+@Farsna</div>
+<div class="tg-footer">👁️ 7.59K · <a href="https://t.me/farsna/467425" target="_blank">📅 10:35 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467424">
+<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-text">هشدار یمن ۸۱ پرواز صبح شنبهٔ ریاض را لغو کرد
+🔹
+در پی هشدار نیروهای مسلح یمن به شرکت‌های هواپیمایی بین‌المللی دربارهٔ «تبدیل‌شدن حریم هوایی عربستان به صحنهٔ عملیات نظامی»، در ۳ روز گذشته ۵۸۷ پرواز در فرودگاه بین‌المللی ملک خالد ریاض لغو شد.
+🔹
+داده‌های سامانهٔ ردیابی پرواز «فلایت‌رادار» از تداوم اختلالات شدید در تردد هوایی فرودگاه بین‌المللی «ملک خالد» ریاض حکایت دارد؛ به‌گونه‌ای که در ساعات ابتدایی امروز هم ۸۱ پرواز در این فرودگاه لغو شد و دیروز هم ۱۷۱ پرواز لغو شده بود.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 7.87K · <a href="https://t.me/farsna/467424" target="_blank">📅 10:31 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467423">
+<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/00bbbec628.mp4?token=ja70OS2EttcSMN2O9zT9eYy5uW8_fPZk-S_nV5OUzLuNr-sjyl3PBf3y5dNlb0nqjY6npheamBUFuCK0Pnv6TSFxOf_-EtAnta5b4K6tDgl7SPDt1XKCR9mPvUfuGWG_88rtUUYU50XN8pwulj3FkO4vepfrAnWcx6kvEJzhIWqeGeq8LvrbJVJSVaTheyBwtshaKLYI9wzfmN0eUaxP883QZJmLNxkhie_1RQwq8yG0ZNUzSTh4kwRCyfQnBlX7xkjEBe-1qi-xdTtfYuLvBamijUAFu9BRevNenmR6SjBKD7PraGU-Y5dRYH_yOr_f4wiIsvNyYssl18LxFTPRLg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/00bbbec628.mp4?token=ja70OS2EttcSMN2O9zT9eYy5uW8_fPZk-S_nV5OUzLuNr-sjyl3PBf3y5dNlb0nqjY6npheamBUFuCK0Pnv6TSFxOf_-EtAnta5b4K6tDgl7SPDt1XKCR9mPvUfuGWG_88rtUUYU50XN8pwulj3FkO4vepfrAnWcx6kvEJzhIWqeGeq8LvrbJVJSVaTheyBwtshaKLYI9wzfmN0eUaxP883QZJmLNxkhie_1RQwq8yG0ZNUzSTh4kwRCyfQnBlX7xkjEBe-1qi-xdTtfYuLvBamijUAFu9BRevNenmR6SjBKD7PraGU-Y5dRYH_yOr_f4wiIsvNyYssl18LxFTPRLg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎥
+خرید هواپیماهای اطفای حریق در دستور کار مدیریت بحران
+🔹
+رئیس سازمان مدیریت بحران: سفارش ۲ فروند هواپیمای اطفای حریق و قرارداد تأمین ۲۰ فروند پرندۀ امدادی و اطفایی انجام شده است. @Farsna</div>
+<div class="tg-footer">👁️ 8.11K · <a href="https://t.me/farsna/467423" target="_blank">📅 10:26 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467422">
+<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e5KbI_ciVYtuOnDmdcdlcy2PFeV4Ef1UnzjgvZ_7RR0UKHnRVnfmM54YL1VvzeF29b79KaZC5ZLeIkP6PMGGqru9fyOorahxxkpXgg5JfJE3Y5EHIIiISNZyN-oOnEFL0r2Z9cy9m531IcwOgy-oXCUfxwXdovTCR7BG0yFxmSACsHYTLRO__JRJA79GSPTGYraUPs2GnMxqfLP5oWi0LjNf4F3Tbtsdi8uspE9VoFSC2A5MpeLF8tgxK0VuFtxSkn9gwNeQo_l6b68sKGDJuytfQFOH3B78Z4JCN7_uASl6Gc705NXQspP_l5LaaQvTQjKb9JAuI-tqxfK2OAt3_g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">پزشکیان برای حضور در گردهمایی آیین سال زراعی ۱۴۰۶ به کرج رفت.  @Farsna - Link</div>
+<div class="tg-footer">👁️ 8.76K · <a href="https://t.me/farsna/467422" target="_blank">📅 10:13 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467421">
+<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/3f85b96f75.mp4?token=rfTJDqZ6Ujb9ocN9vOrHbVN2MWcX-S1RkY6L7iZfeoXi2xupODx3-4GtsPXZG-Xt_Z3tQjD_4QCWBpJndXVv3U8DKAfsTfBB4YV-ksivBse8HTOeB2sJCv-IVpSzIiU5b1XqWtHAvHtIZYgioOyyUTQRkw51-hEcU1Il6WhecKqft3zAgzaISbqEsQTC-EcnrE4XCX_IFfDwH1zDmwYnrPoAGlZVAAidiVEUg4xvUw56ryxQxgoC-mlR_tELFo2hzWKL362967IE-fRHjVGtz8CPP6H9rG5n0AF7Am3kzxnH9cQIL_C7PMyURGmcHK0vMDRkb4L7r19SJqX5T8Magw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/3f85b96f75.mp4?token=rfTJDqZ6Ujb9ocN9vOrHbVN2MWcX-S1RkY6L7iZfeoXi2xupODx3-4GtsPXZG-Xt_Z3tQjD_4QCWBpJndXVv3U8DKAfsTfBB4YV-ksivBse8HTOeB2sJCv-IVpSzIiU5b1XqWtHAvHtIZYgioOyyUTQRkw51-hEcU1Il6WhecKqft3zAgzaISbqEsQTC-EcnrE4XCX_IFfDwH1zDmwYnrPoAGlZVAAidiVEUg4xvUw56ryxQxgoC-mlR_tELFo2hzWKL362967IE-fRHjVGtz8CPP6H9rG5n0AF7Am3kzxnH9cQIL_C7PMyURGmcHK0vMDRkb4L7r19SJqX5T8Magw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎥
+رئیس سازمان مدیریت بحران: برای پدیدۀ ال‌نینو آمادگی کامل داریم
+🔹
+مردم به هشدارها توجه کنند تا آسیب‌ها کمتر شود. @Farsna</div>
+<div class="tg-footer">👁️ 9.02K · <a href="https://t.me/farsna/467421" target="_blank">📅 09:45 · 18 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-467420">
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/c4fb2e8355.mp4?token=MkJ5mx-1TclcONrpcKT9QVRlmUcF3No3gR7Wv15KoLyNYWa9uZLhyBJgwsHdbEG-2RrnX7MLNTBkuVdoX8UNR6IQhXu2tLhpwRW8k7lyuwb9JqbG_wwe5rjexRPnXLrpaS-VD-BOH4hyKKPAXd4LrmR8C27wbFCRMQdcfhSDIYRRcto8TSZ0x6nc4gRIyozOQ6beg6yE_R7mrGwVso-zbLMxlMmIxLylGhWiJrYMQh2kI69_sT86g3J-1YJOw69AFQ9JLPUbTXFi3IimJaHnuRAmLPVLkdrS0fh3lS6tN_qPUjrJoCFDhYQV0Hq3IE8JCzfE10k9B1jZbyGAMWXjhw" type="video/mp4">
@@ -309,11 +1015,11 @@
 سازمان جهانی هواشناسی به‌تازگی اعلام کرده احتمال شکل‌گیری پدیدۀ النینو در تابستان ۲۰۲۶ حدود ۸۰ درصد است و این احتمال تا پاییز و زمستان به بیش از ۹۰ درصد می‌رسد.
 🔹
 النینو که با گرم شدن غیرعادی آب اقیانوس آرام شناخته می‌شود، معمولاً…</div>
-<div class="tg-footer">👁️ 344 · <a href="https://t.me/farsna/467420" target="_blank">📅 09:37 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.48K · <a href="https://t.me/farsna/467420" target="_blank">📅 09:37 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467419">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromدانشکده خبرگزاری فارس</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/r8g68APR9hcVDt8qH3P5s7XphL8bfX8Cj0Fx6wooYQFAhbm2b7Lu3VyzV9VmzKEG0Nd0cqqAjxF8frTxY0gQ9jrYNIYWcOKC20shM7TOdgYeLwlZC_HCqmHAeVwB53DLZS74IDVYgSRDpzIUr6-wwEcUt7xOL5-BONOokA5rizA23jvkD3K4PCFL2qCSzA9OBzikPHgpQcbbWnQtCyBJQIQNl36VrQMJDRnSERjjG31IT31uyMlp8-oNNBR_E9zb3Uc2nPL6XFUTq0GGDTTrJQ0qAEYpRZiAWoN38nAwE9B1O4FGPSHsZld5v8URRJyqrLgbPlAkLVwzEqaJcov-ng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔰
@@ -344,20 +1050,21 @@ futurix.ir/go/rxDxXO
 🎓
 مرکز آموزش علمی کاربردی خبرگزاری فارس
 🎓</div>
-<div class="tg-footer">👁️ 686 · <a href="https://t.me/farsna/467419" target="_blank">📅 09:30 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 6.9K · <a href="https://t.me/farsna/467419" target="_blank">📅 09:30 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467418">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YklMJPb3WpUiNtWq6p85IEUvib8ZOpNzqgXXaqCRZPQZYCiTJNipT9FxMgQE3dFS8STbJJYzuaWSdzuBXHUn9sQQ-NCgktiFMDcqnkVen2T4JESWcmNwvouOLWRC1KFcMPqFbVYkjTCd0VC5Wum_GzsF5wyQw-VAV_qeOPbrYsAI1uS9YUgrb-HYKE94SC78RLILZBHYjbrRUJwSYWvNVFIYxB15R2afYQRfH0AR00wbZZo8f9Sr6BZ7LQzr5QbpSvpIuWD3Pku-oJfIGCzoSgi1qd5e4gr5mjdjK5hSjujGFpqDC1q6mp9HC-WhG4vp7ncmkGepdEjSkp7065qrKw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پزشکیان برای حضور در گردهمایی آیین سال زراعی ۱۴۰۶ به کرج رفت.
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 3.28K · <a href="https://t.me/farsna/467418" target="_blank">📅 09:01 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/467418" target="_blank">📅 09:01 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467417">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/6cc5ec9619.mp4?token=lK7-rFFrDSaJaeqbIneV9j6TzDuLcWoQOZhZ43pG0nveZyrJ4lTptOq6jpmt7-7S0Lu9xsmx62JqRSnlWKzpXKErcz0nsrbGg4sML5CMGL5WogOdrNvqvnjgzgh05XzbQOgmEnuhAjcQGvAGhSuWXbKSq4L0B550Z_ogHsNvngmskflKCE_SRY7XCrdfA_Hm3ty8CkAXr4Rm1u-H_kEhEpXOCEJfXRHjjgxmoaM5ug4GylwA8J77VwdwBvS4zlkXgbnmagKslAKWb_bY1pY6T4pxf-Jsn9YE5UW8vYf1Fid89yAvpGCrr20AxuOozpyBANnlt9QgH3ooDkpMlIbRMg" type="video/mp4">
@@ -367,30 +1074,30 @@ Link</div>
 </div>
 <div class="tg-text">🖼
 در طرح تورم صفر، قیمت‌ها چه‌طور ثابت می‌ماند؟ پاسخ به چند سوال مهم دربارهٔ طرح تثبیت قیمت‌ها  @Farsna</div>
-<div class="tg-footer">👁️ 3.32K · <a href="https://t.me/farsna/467417" target="_blank">📅 09:00 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/467417" target="_blank">📅 09:00 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467416">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">آمریکا مجوز انجام معاملات مرتبط با واردات گازوئیل از روسیه را صادر کرد
 🔹
 در چرخشی قابل‌توجه در سیاست تحریمی واشنگتن علیه مسکو، وزارت خزانه‌داری آمریکا مجوز انجام معاملات مرتبط با فروش، تحویل، تخلیه و واردات گازوئیل با منشأ روسیه را تا ۷ آوریل ۲۰۲۷ صادر کرد.…</div>
-<div class="tg-footer">👁️ 7.29K · <a href="https://t.me/farsna/467416" target="_blank">📅 07:57 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/farsna/467416" target="_blank">📅 07:57 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467415">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jMvN2Uac8AqWkugoAw09s6LVMKSCBzargA4qezMXm3eYeE3OYBv7PmZKIocRe_032V0oxNF5MmzpzvQ6RymIxIS7ZWAziuxvYQzCoastOpnk5hESeOC_KTSP57NjX_foJu_AkDROPivIsBWmFD2nyKERQUlW1EwrpVWNFOn3VCpzOONbiMrh5oGt5zg-UXi9KFRlB9WforDT7qjZJmFiBW_J4D7u1oO5FFE93zz6_RqaNy0GuoBgweEvhS-0LHneQle4V_1BYhT23Kc1NN4Lygx12CUmiMGYG_wg8Zo15z5qzzsDe0HJHO677nZCyyJS9rH9dFy-GBOu-N2PhFAWqg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‌ رویترز: توافق ترامپ با روسیه تأثیر پایداری بر کاهش قیمت سوخت ندارد
 🔹
 تحلیل‌گران بازار انرژی می‌گویند توافق ترامپ برای عرضهٔ ۳۰۰ هزار تن گازوئیل روسیه به بازار، نمی‌تواند به کاهش پایدار قیمت سوخت منجر شود.
 🔹
 چراکه این کار صرفاً جریان محدودی از عرضه را به…</div>
-<div class="tg-footer">👁️ 8.94K · <a href="https://t.me/farsna/467415" target="_blank">📅 07:21 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farsna/467415" target="_blank">📅 07:21 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467414">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NjPzOKiMoLaMKeesT5gXzNiT81wYGzIecA4fwUeGlBlZpid7DH82C8I5o1uOoROhnvunIqevCLs6fj_tRaEF1LPf16xfaIqQW2ViKDcKbeBVgsJbsU9REzj78vzvSTNX10n8KeVcodXmbexsdevf9_-Sr6UlKMZOFjWWys_45woQDDZPnpcTHNYCX4fW07ovhgw8LowzRUqCO127usCsNMT900IyEXOjpP7dl3-w7g54-dnRG5pAsIezKlHMRTcmAwVsNs-ODjMEw_HvvTc25FAPp4ciukkddQP9UkMrpR9N0aB-jw_VCJrh0CiqXEXVjrmxGpQHiQGL8kwZdgsqoA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دستیاران جدید نکونام، تراکتور را در سفر آسیایی همراهی نمی‌کنند
 🔹
@@ -400,20 +1107,20 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.09K · <a href="https://t.me/farsna/467414" target="_blank">📅 07:03 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farsna/467414" target="_blank">📅 07:03 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467413">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">آغاز هفتهٔ جدید، با هوای «قابل‌قبول» تهران
 🔸
 شاخص امروز کیفیت هوای پایتخت روی عدد ۸۰ و همچنان در وضعیت قابل‌قبول قرار دارد.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.27K · <a href="https://t.me/farsna/467413" target="_blank">📅 06:42 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/farsna/467413" target="_blank">📅 06:42 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467412">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">‌
 مدیریت بحران مازندران: از کوهستان‌ها و مسیرهای پرخطر فاصله بگیرید
 🔹
@@ -423,30 +1130,30 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farsna/467412" target="_blank">📅 06:10 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/farsna/467412" target="_blank">📅 06:10 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467411">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/n3iJD7_ama-NwqJ7d7yOsoeHALmzMIekJCjNToHX7y4F20MU669gj6SZNR8_le5YRS7CQ1CvHvY_oJdx8i7riqZteIvBdNzCLH6VZle3aVxwXPSaHVmd7jEiWgDj9-yPFssnE-4-DfjEl89Lc4zM8dVScXPThibTZhAKeOlzpqXE9MyPT0akprzy4CPbqFwLzWYTBs7jU-mzWhqtdWHqKCovznvpzHq7XMneOcxsIgWrwsGZttFpUcHGw-bXnHHATH6_Hk04aEmKfWg3GmfVQY83H4VC1UZ8eVR52boK8dJTE50tsWmZyTMfmus3QpdL_0OLU-5TtNTGCydL1RaY5Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🖼
 پزشکیان: دیپلماسی منطقه‌ای برای ما، صرفاً به معنای برگزاری نشست‌ها نیست؛ بلکه باید به ابزار مدیریت بحران، حفظ ارتباطات، جلوگیری از گسترش درگیری و فعال‌کردن همکاری‌های عملی تبدیل شود.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.86K · <a href="https://t.me/farsna/467411" target="_blank">📅 05:55 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farsna/467411" target="_blank">📅 05:55 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467410">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gevGMMMbq2xV8k1gVlI1Pc7ZH4adErYey4jrdut5XA_Jj-SZV5jwy6pGzlLuDrwSkDlGZtjOyvqCp3xTLfkkltwNfmE-mTR4PkrNxdbtM0ZeDr6UcEEQ_E2xBoNCcZGlw8bm1xHdcOdtvUMc2Wsktr75_blouFw8EKfXnDfFRFqoEEaBaNKXQzs8LkBkCcZOvESPLUV_0IlYpAnfSmGwbxFMG3dmMw6ia8YisRb2xUz0M7zgg0FXq1iyKlBJhEPwtagrmFaMzGaX75zJqgduuwAoM3moMQVp1zkj-GEAvMNqwz133lHFShVUp-30lD_OUtPXeA26VJUu4zpntvPfIg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🖼
 در طرح تورم صفر، قیمت‌ها چه‌طور ثابت می‌ماند؟
 پاسخ به چند سوال مهم دربارهٔ طرح تثبیت قیمت‌ها
 @Farsna</div>
-<div class="tg-footer">👁️ 9.11K · <a href="https://t.me/farsna/467410" target="_blank">📅 05:39 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/farsna/467410" target="_blank">📅 05:39 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467409">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس بین‌الملل و سیاست خارجی</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -462,11 +1169,11 @@ Link</div>
 🔹
 این تصمیم، لکه‌ای پاک‌نشدنی بر دامن کشور نروژ است؛ تصمیمی شرم‌آور و مایهٔ سرافکندگی!
 @FarsNewsInt</div>
-<div class="tg-footer">👁️ 8.48K · <a href="https://t.me/farsna/467409" target="_blank">📅 05:25 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/467409" target="_blank">📅 05:25 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467408">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Bp_Wiox7jFYR0QdgeoWxU7eyxO3-SBCL2216fLTU0_-zDaYBxXVmpB9qpNZnA29xACwlqoQlOuyO15x-TH6zjWtld_pQZN6xxOEJfy0EgUBtsbpScmod2I4YIgsbZNTj8ci9ej-k96-fug9i5862LT5aiTvgGAUeM7Dlsa_Ut7BgEQ0e2WPYlwCT8y-O_Mz15GH_JxKlLpyazViMaNs2T1vM_J4zN2ayMTczwIYJ-qjFv5qUKoFzM1y7izrncqSI9rjKrl1ZQV6sGl205Mde4tRuHdTbzxeWzvm_HO7zV37wSkbS_NQv5yzYSpGt5XNlSsSMQ9CTdB40-C3QePPoXw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هوش مصنوعی به پلیس گزارش قتل دروغ داد
 🔹
@@ -478,11 +1185,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.19K · <a href="https://t.me/farsna/467408" target="_blank">📅 05:11 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farsna/467408" target="_blank">📅 05:11 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467407">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DYgZ5yv8rEmCI5wFUHiHyZdFiDmSarQbrpdpX9oPfINGTgeP_2EwBYJgX6ydionCZWMzExVOVbX9CzKDcv3VrvL9pZzB_sWKtVNWoPpHn6BckIeIgPTQOe3brRRld_Bs3fhWG2NUBun6feFkT3V98QPwyFk2mUVVIk46txkILNZqMahzYoiT6Is-ijPDAAH5ViLxUheo0ks8b2lth8hIZl59pw8wbN4rLE_am-OKDmzwqbRpl2Uda2h9OsP0ImJWvyXkbEE4_I7E6dNwmL5_7XzbW6WInmpEO7A0G2YfrE97HjEZtcELzVDgip9jH7Cx7bPx7FAj34D00ESj0aCtQg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دموکرات‌های کنگرهٔ آمریکا: بهای جنگ ترامپ با ایران را آمریکایی‌ها می‌پردازند
 🔹
@@ -494,11 +1201,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.09K · <a href="https://t.me/farsna/467407" target="_blank">📅 04:45 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/467407" target="_blank">📅 04:45 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467406">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OAAuZfh_jld9X1LbtGNHSAabhEXmS--XL-vSW2wkXEhyZDItbcCApR0bb0W22J83K6lP8Nkrfe9qBC51zJbddxVFjPftdXjoAcMPrKBON3cEtH2RA9Z7L2gLbwkDYkP87xhnwWYoBK1_WbTn2iATOsyH_-2s5sPlhYTNlO65sziYFSWcz3dMLMd0YA9N_NJU_Zmb_w6Y1i45V9eRaArOaD5wnkWJMHabhtBI4gHchOvNWU4Qvu-ykp43Q7VDTnd_-3v2CZ2Le52YRnVrH4pNJ95g3JX50MFuVPE2lGzWUOElSld2fQlJHi9H8MdiARj9Hy5MjiTl-K4KIKbw5etYFw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وقتی کودکان حرف‌هایشان را قورت می‌دهند
 🔹
@@ -515,20 +1222,20 @@ Link</div>
 اینجا
 بخوانید.
 @Farsna</div>
-<div class="tg-footer">👁️ 7.97K · <a href="https://t.me/farsna/467406" target="_blank">📅 04:15 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/467406" target="_blank">📅 04:15 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467405">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Wg8-oebYWG0tQO4se0m0QzCRj62Yc9GqfYpAO-xfUXeWOpiF5wvWGbIj8Od8yIKzeitKIW_H2wi00HVkZUYDqBukmgo80DcEc7Nkc4D-xY3KrF1rjem2gbWThVavZ72XE8Ks0bB37YaFofyNbVrQ8706A0Wg8c9vY9bxkgjQYZu1t6hMJYSYcusPdZgJnCQF1bDe1AIS1YgXswURxqHudbE9Of4n5G4gg-jGlwON3AE6PxQnkfXVb-3gnsAZ8JgtHTGs8V3mPqZTph71FtwpbVAJot8RdWS7Yz-gJPSGN3ndBDhLtcamRYaniBiWh8ICRjEf-6pZdUXPDYbYJM_MfA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ به مخفی‌شدنش در کامیون حمل غذا واکنش نشان داد
 🔹
 ترامپ دربارۀ واکنش‌های کاربران فضای مجازی به مخفی‌شدن او در کامیون حمل غذا در فرودگاه و تغییر هواپیما از ترس تهدید ایران، گفت: این موضوع مربوط به سرویس مخفی است. من فقط از دستورالعمل‌های آن‌ها پیروی می‌کنم.…</div>
-<div class="tg-footer">👁️ 8.56K · <a href="https://t.me/farsna/467405" target="_blank">📅 03:39 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/467405" target="_blank">📅 03:39 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467404">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس معارف</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -544,30 +1251,30 @@ Link</div>
 شهید زین‌الدین
 @FarsMaaref
 💠</div>
-<div class="tg-footer">👁️ 8.19K · <a href="https://t.me/farsna/467404" target="_blank">📅 03:21 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/467404" target="_blank">📅 03:21 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467403">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">رسانه‌های عراقی از حملهٔ تروریستی عناصر داعش به یک ایستگاه امنیتی در استان کرکوک عراق خبر می‌دهند.
 🔹
 گزارش این منابع از هلاکت و محاصرهٔ مهاجمین تروریست داعشی توسط نیروهای حشد شعبی و پلیس عراق حکایت دارد.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/farsna/467403" target="_blank">📅 02:56 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/farsna/467403" target="_blank">📅 02:56 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467402">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">انتقاد اوکراین از توافق ترامپ با روسیه بر سر گازوئیل
 🔸
 رئیس‌جمهور و وزیر خارجهٔ اوکراین از توافق ترامپ با مسکو برای عرضهٔ نفت و گازوئیل روسیه به بازارهای جهانی انرژی انتقاد کردند.
 🔹
 وزیر خارجه اوکراین با انتقاد از کاهش تحریم‌ها علیه روسیه گفت این اقدام نه…</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farsna/467402" target="_blank">📅 02:26 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/farsna/467402" target="_blank">📅 02:26 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467401">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HUnIm89IOfpzcFBUnAt358lVlj0vdAHondSyTBunFIyp12bLy1jeTqYWDrEJKQfdvk1SjdtTA-nkv7gcJTpm2qneTydsD-SCc_VMG47PywswKEUPxZYLK32nh_uvnLz3jR7UDjut7-725LJrwX46OeTlvW2fchKKJtCtR4KoeCmIJqqrVgOy22IDANr5QuXli0NOfQ_lEn9Qrh9OhPRlYL-wbTzJtpH08zCgXwBbtJCA9a4rhcuk5lwICnjQhWI4BdTVcTgcZwrN6YEpW2dg8pNgh44Xzpc6myiIch6i57u9lPk4cFYynmncCEqVmifdB0wXo7Pj0wqPPt5hNeY99g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شلیک موشک به فضا ارزان‌تر از اجارهٔ یک نفتکش
 !
@@ -582,11 +1289,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/farsna/467401" target="_blank">📅 02:00 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/farsna/467401" target="_blank">📅 02:00 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467400">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">زلزلهٔ قدرتمند ۷.۷ ریشتری پاناما را لرزاند
 🔹
 زمین‌لرزه‌ای به بزرگی ۷.۷ ریشتر روز جمعه جنوب پاناما را لرزاند و به خانه‌ها خسارت وارد کرد، برق مناطقی را قطع کرد و موجب توقف پروازها شد.
@@ -599,16 +1306,16 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/467400" target="_blank">📅 01:47 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farsna/467400" target="_blank">📅 01:47 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467399">
-<div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farsna/467399" target="_blank">📅 01:27 · 18 Mehr 1405</a></div>
+<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/farsna/467399" target="_blank">📅 01:27 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467398">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Hh2-saj57bzxO4MtsZD_KfM1_TIJVzCPLpYAGRHIMrFHRSzUItP_IaSQx7I1ZfzfJAUv-XpFQ3pWvePxfQ0T8urY2DL5sM5c9OWfICHTUJRnJA5Tr6p4E9CBVOzxus0UZhDHm_wK_bjKcZCOw14f0rnjHdMk3NS0B68ZG_-HoskIboo-w_bDWdhDD1qQj1_lT4ZvKvhdakmLFTdgHWFNQbnEgKEiFxyIIurDpbUiNR6x6xrUib0icq1Q4p8ku2EdKgv3dqBL4_jXJXqQiwKl2C6b-rZNxZRLocPy_rFnyT4GpuVuTLdkreUzyhli1LZdF55SQl5zZVBp3GsUpfOC8A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تصادف زنجیره‌ای در محور دامغان-سمنان با ۱۹ مصدوم و یک فوتی
 🔹
@@ -618,11 +1325,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/farsna/467398" target="_blank">📅 01:13 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/farsna/467398" target="_blank">📅 01:13 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467397">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BOfXz2-yk633aZG0eYZ5mqy0kCkwVBgZzytP8_oe3ArOg8mjobuoc23Da2kRUlBLZ-lGr8LdCFq_KWFObCAel61NIg9GsWn_Ah0XaOruhEnbM3j5bw_KgCPPPygUkPTSYO62pEEgvWh1UY2NIzI2-t3lmEVFi7uwTKzPNlwfRd7wHm6j2De18VCyuD5A3RHqtF9_H0cr8HN1N9ox5Fw80gUbPiGIqxWblo5PuLPdgUSRBxVTDBSsU18WrTvF4QLWflSsBUmVb6aE48EDWq4ROyT-eppqOWkBv-h5QhaOv-bflKlXQXXkIDuy3cYrS-5MVNvWQNzizQYuyiLgjocdBw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گزارش اپراتور فرانسوی از اختلال گستردهٔ اینترنت
 🔹
@@ -634,42 +1341,42 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farsna/467397" target="_blank">📅 01:04 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farsna/467397" target="_blank">📅 01:04 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467396">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/E74hAaoJ4bVh_g8-b_Gl92DLzkB30NUcu-f3IctPVNHFvd90vcyavsFsHo9r4rwwziyaKx6Nq7jduLoSw1sojrq9q4jeEeNsfI22O-xQaCG_Kto9dUSOVemQb2n0IwmO13pCf2GcR7431QiNgoe4ElsW-YdMDdzhsqG0jX3rQgjt4b3rFTBBwzsxGRx1cgYNmKzCTzMsAeewtngCPivWbJAXu4iH-cb2OAHROFfWfxzVowmZ3SG3bC8NhtBpAWA-ViRMWk5RcILB2Sf8wA6a2I6Y6TXTetYtYZS23sdDrM-3GPU7-R2aFLVbLLHaea9nGWhJJH66ei5e33ZZHkBc2w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‌ پوتین و ترامپ گفت‌وگو کردند
 🔹
 به‌دنبال انتشار اخباری دربارهٔ توافق میان مسکو و واشنگتن برای عرضهٔ گازوئیل و فرآورده‌های نفتی روسیه به بازارهای جهانی، کاخ کرملین از تماس تلفنی میان روسای جمهور این کشور و آمریکا خبر داد.
 🔹
 الجزیره گزارش داد، براساس بیانیهٔ…</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/farsna/467396" target="_blank">📅 00:55 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/farsna/467396" target="_blank">📅 00:55 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467395">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">پوتین برای عرضهٔ گازوئیل به بازارهای آمریکا اعلام آمادگی کرد
 🔹
 رئیس‌جمهور روسیه: مسکو آمادگی خودش برای عرضه فراورده‌های نفتی به بازارهای آمریکا و کل جهان اعلام می‌دارد.
 🔹
 ورود نفت روسیه به بازارهای آمریکا دلالت‌های مثبتی برای اقتصاد جهان خواهد داشت.  @Farsna</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farsna/467395" target="_blank">📅 00:43 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/farsna/467395" target="_blank">📅 00:43 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467394">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">حضور بیرانوند در محل تمرین تراکتور پس از شب جنجالی یادگار
 🔹
 پس از صحبت‌های شب گذشته علیرضا بیرانوند علیه مدیریت تراکتور، این باشگاه با تصمیم جواد نکونام، دروازه‌بان خود را از تمرینات کنار گذاشته تا روز دوشنبه جلسه کمیته انضباطی بیرانوند تشکیل شود.
 🔹
 با این…</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/farsna/467394" target="_blank">📅 00:25 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/farsna/467394" target="_blank">📅 00:25 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467393">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Y5452qjJzYxcHmuawB2Mvs5jgG3peMRT7mSV0Pzjtg9_0-unA7HRzScRAJe5yCZhmkhz_EP4k33yz49gqzDcxfRS2rMvmekCV8QF5EiqQokBAPIhhatPq98v6emEz2Jb7YKomBRjEmpQuWa31HONqAKOgkaIiFESGB_cMqbt1o4T3forUivlRSJdsphLU3q-6wO23zgqs_4jslhruq6TVA40IkMkdLZzKNMJmHak8a3g0XCPfB--4XFeE4ROT7x5TE2wvoHKnQlqSDn2xDxuRWw31cMBm49yzVIF2D8TTINxJTnqjM_E28zltCXEmZLzT1s69_C0tlxItZphzUTnaQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بیرانوند ممنوع‌الخروج شد
 🔹
@@ -679,11 +1386,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/farsna/467393" target="_blank">📅 00:15 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/farsna/467393" target="_blank">📅 00:15 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467392">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T7f_4NmoEt_mGth9ZuTspJJrWGqKTYyw6gd-KH8HSwLGsaIWT2O6un6QFsEiQauUBbPu6s4Dfeus9bRwQMS9I-j3rgVzwVkgd1IzAkhp1Czfh0D3ONVd7BtDWwXoODnUx4WIznx3Y8tmNxr7HRobB59cuEdLl9cupcOKH_NaL1wj9V-Bw9yvNlFZWXSUHtn8WfOGEk19lT5ymTD6w8Ad7XQksl6s1WKMMEAQ9D86WRJO0gplWEldMiV89dg9UfsLeCtllXJfiXA_YpK2MDgRE7tF4w19VBjbdBwNMqognOvuldw8mUCz4wgFnS_17pz2f8XBPcqHHNpFJzZ1buQJvg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فارس را بدون اختلال دنبال کنید
 🔸
@@ -697,18 +1404,18 @@ Link</div>
 مایکت
 دانلود کنید.
 @Farsna</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/farsna/467392" target="_blank">📅 00:03 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/farsna/467392" target="_blank">📅 00:03 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467391">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VEDrL-doas47UTxMr0Tsfs-3lV42eYrpFLIOqbw962_REpCn9eEuDJT8z_FKgmHzP0JJA8FGpiFD7H1rqJ38KEQowmRsL0ibvI0dqR-59yhyHMrrzYF2KsoY1JRoiwZaCzX2TZuFA_Mm40wGHnna1-3lPqhLoZzppsBA_yh5ZmzAa_huyNb7rAYrOQWluuF3vD8Ql8sedNmXwzE6qls2of1WLiQj4YiML2BQ7c1bIy_EC8_OF0kDbNiICFkWUITUeX2QyjVctyCI68BzlOwN3IUL640ZdEy2U6HZakKrBGCyI8HjFVaEsWdV0K7OlUtW3AvuJE17seVIyBAJQiqbfQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">زلنسکی: اجازه‌دادن به روسیه برای فروش فرآورده‌های نفتی به‌منزلهٔ سرمایه‌گذاری در جنگ علیه اوکراین است.‌  @Farsna</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/farsna/467391" target="_blank">📅 23:59 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/farsna/467391" target="_blank">📅 23:59 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467390">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/b24e30c480.mp4?token=QVFW8b--22wo9emVSN4i5YHUQFd2f8dQmVpz6X3WQBAJFXOBEUU-GOVMeP2ev0GayfWPjj2Too2Q7yd3sY19jzT-oEJhx9l9L5Yn2wWee6ZaS-WW8HVXowwqgvdIgeVyie4rbFQ5M41N4pXXp0eyCEWyvM0ff3u0bBEEUU-79J1chAjbyoRULkGsD2rRxq-1HAGhJqygZONBdcg5lYWxKRnHXll-RvVfTREYaL_SmeW4bkySDc3LBYwd1zl9yhWt-PJXXL7RWKhX73-xYcoaVcnMPIMraGz1tJiHL374pHvj3ehSAKbmACPO9rthLDPQSlWCO_RuGHjg1fN7lfM5jQ" type="video/mp4">
@@ -719,11 +1426,11 @@ Link</div>
 <div class="tg-text">🎥
 بیانات رهبر شهید انقلاب دربارۀ نقش مردم در قدرت رزمی کشور و خطای دشمن دربارۀ قدرت نظامی ایران
 @Farsna</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/farsna/467390" target="_blank">📅 23:58 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farsna/467390" target="_blank">📅 23:58 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467389">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/9c107f3d38.mp4?token=EWRYY1EkRe32pFUKyGt3_HH_75OHOALk9q-oKQ3nMNYAO4KW3daK4AoUHD1BQLksM4tzJkvNu6zqYgMfjbIHqxLGsQj6puQ-In_KEpIlBCZMRX4-cLP5TEAffr4gYLrsz4J0HiQioStuktP5Pb7459mK4S8hQ-mf9Tj6XYBMsbQ1J0m6i0BBzbmpLMO_rhtgu1ndt1LN9f1fjK1DnkphVHrmIBW0eVjJUA61DXkWUU1JP7TOEfmo45TG2Y9m2oY2MmmGEGm9lAXNPBpfYXv6_48QL-nQ0-NWO1rDC_klyQI7JOsdaEQL8qWLcfWcnkpbOfH1cTwYyC9Jygq1f8DXGw" type="video/mp4">
@@ -736,11 +1443,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/farsna/467389" target="_blank">📅 23:57 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farsna/467389" target="_blank">📅 23:57 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467388">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/984e3a9a47.mp4?token=vaaiBVegMEOm004hblec-4huLuts6dDyFFeMURdmxWC0VR3-jsZ1PmupmlEXPogy4g0EWP6tg_sJpzBk1rBVTcFipVua5dUWxiFWdZaGjqMgTUWQQI61tfSRAFaFYRP-ThE28bCd5gaoppAS4x6LtSPtlfOWUBTBkvYh_DKz7tC-1bO3ZO3G1nM5Si9ef1EJndOOl2pcQxtkht6pXI25oWcoCm7KO2UHMRSDnpRf3cfcC0S_8H7o80nn0G7pb4z5HMhzhpipoPwAu4ujUFMAtTiZvJpFpwsFZZpHlaoXjHf6GYXm9wSp1Wq7nZp-Ctb44Imfk5n16f76Vm3blx47GA" type="video/mp4">
@@ -753,11 +1460,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/farsna/467388" target="_blank">📅 23:53 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/farsna/467388" target="_blank">📅 23:53 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467381">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/BAuNN9SygSVSpwRgClG3mvaDPmYiWUaMRmRCc54yBkC0WLXg3Av2KMnRVbg7xjRkvekxm7OxeEpbQ_ozhYkrREssJXzv4MDyMAcgPmD82OgUt0Z-CCfyeiafJOJPAfO37hmfCi4K8jwPKtvK9DlWCaJgLKKiiJRiuD5bWtRAZ3B5vRT_ZQELvSuMD2Q1X47Oa4SUbd4-gQiEbkrin_QdD9aJIwulV1ZMyuDY0Z2RPfwa_IoF5wCEE0gDq-rigaj3fzPkS6jpjGv4c2_Nxk9_3u1lSwKxXjwXg2Sr4hEFCeoldilsAQU4dhrkNGJSfW_7kwa2qNWWqERsMXU1COcjQg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/V-8ihuj7p1ilMKf2MPGtyv6xSoWG7E23maytvI3u2GQK7g8zozh3Sm-wWN2sroBKsXEKFrg1x7kQLKXnwEb1-ZFN8uVBSfT6Q2IJ54z2FOeqVjHfevxMzMQKydbS_pAqtOktiFmPSRUWaG2XrXOvgythGtAwFIaNjULb1YSJzmYN8Myx3ie_YHJHGFlxw_J8FItsZCuLPat6qqanslIqq_D_B-XV3j-Q2CknyTfR4Hy0NLc-uQCqvvVYu0juZyZTQvJnaNUfF0PPi4nQhUpbvEHgy6d70_qToAoRXTPN3YUH5i2Yh0H-jvMYpFsClCKTC2SkvICYxXEarqNUlq9rUg.jpg" alt="photo" loading="lazy"/></div>
@@ -771,11 +1478,11 @@ Link</div>
 گل سوم برای پرسپولیس؛ اورونوف در دقیقه ۸۵ اولین گل فصلش را زد
 ⚽️
 پرسپولیس ۳ - ۱ صنعت‌نفت @Farsna</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/farsna/467381" target="_blank">📅 23:38 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/farsna/467381" target="_blank">📅 23:38 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467380">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EvX8w6TkHano7gxIb8Hb9ZxJYS-eru276RSpkMXWcMyWh4UbNd9gmtBs33YL2qmf6Z2yYSLTT9qDrUJonaUd3rxwE5E_tRPI6487F4vqmq194sijE2OFnJY2RI6E9HBvBtWTs_cBeLk4csRoLoIOydlyCn4P6w9isjKSAcP9y6bQbQNnGUV57XF1JAeqkSjYnBowMeUBxCs_SGqBMc5UnNQNnzNNWiMOsSuV4BQ5BmOPmJu_G_cJj3AuUmFmWLtzBFkYLjd3jqtXmLQo-x8jRq7z_QdAnUxVn1xSgh97hx1AHNnLbPqHryw2CK9gMg45UVPR5h_Rm6-7VBGqMZlteg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کابوس ترامپ به کف ۴۴ ساله رسید
 🔹
@@ -789,20 +1496,20 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/farsna/467380" target="_blank">📅 23:29 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farsna/467380" target="_blank">📅 23:29 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467379">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iU1FYdDR0HnDzxspkfLeY2rYoB0meUISLf3HYZXmCx61psYsZNgXiTewu2IQXweBtVb408UHlE71BtZhnIwu5ZnUE1Mn-vWR1gfnqsm5LXBrJBH2Qg9WDBm23e4gEu-Yrl6Vw2Dfptfquo9i_hCkHVIB6HWAc4rjb1zG2wHzeGrAN_qBWDY-iQfpd88MfUE2iQzyfZbGj3SFuPR9a8eGinQpDKPSHKXAOvpAXwn9XAqa31tq_fJ9Dy1IODqGEcL6Cksbn4aKTfPwb8XQ0NpNsp9A_fTJwnF3ppFoqCiKUSlga13gSI5NKEORD4JO30GFwmWdrgwCJhjtuEFBngpcrQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ادعای ترامپ دربارۀ توافق با روسیه برای تأمین گازوئیل
 🔹
 رئیس‌جمهور آمریکا مدعی شد با پوتین توافق کرده تا مسکو بیش از ۳۰۰ هزار تن سوخت گازوئیل در اختیار آمریکا و بازارهای جهانی قرار دهد.  @Farsna</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farsna/467379" target="_blank">📅 23:25 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/farsna/467379" target="_blank">📅 23:25 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467377">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس ورزشی</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -814,11 +1521,11 @@ Link</div>
 <div class="tg-text">🎥
 تاج: یحیی گل‌محمدی به تیم ملی امید نزدیک است
 @Sportfars</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farsna/467377" target="_blank">📅 23:19 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farsna/467377" target="_blank">📅 23:19 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467376">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FBMSHrQyfWHor9AOaNbi95GE1Ww9Ql2iiHFKa-81qYLp2YSYc3_Tg89et5Zh-b8xIh5akyWPJ1JXQU-04-YfQFObOAU7RZuCiW1Y-wKHHjN3AHwIZLRIa29Ff_VBEJGebiy56_Df8isZT53txZqYssSvYRzlUgA75phn7CKuZ4Nx0ZEKvtLCGMzyzBHdBzS_vhzqURhOsL2UROz7nLCbOoyA20vGjsQjQjCxH_wq3wOJf119Hk9xn8IRYvz9vHf1CsT2rRUYkVcpA_-ZNksQq8JXGmeTnD-xkUyn00i8G7rLM0h3DoZoGrsWxll9T8moT57qPqIhNJ9ayKDWdTz04g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اطلاعیه نهاد آبراه خلیح فارس در مورد وجود دامنه‌های جعلی
 🔹
@@ -826,20 +1533,20 @@ Link</div>
 PGSA.ir
 صورت می‌گیرد و سایر دامنه‌ها فاقد اعتبار است.
 @Farsna</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/farsna/467376" target="_blank">📅 23:16 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/farsna/467376" target="_blank">📅 23:16 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467375">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ls4BHMF2hEnbehwuCB59M7CSjec5Z5kIzqD834pFufTqCzkFuOkdb9EinuIPIVJfeca9LlonUwenQWk-w65VQ-Kemi0CiCImIIQx79ufEkpgWZBLSPqVqZxDN08UAd-LMYJwJ8WoRndleV-eQTse9AXxu7sKv8srWOt1_t4Sp04Uy0O8naKpiJoF6QmP4kqmdklUSbx3yfA_pcHf0GgCL3aVS1yNvlY5alX2-Fp7VnLfy7XRVT1vY504u5t3XKjvutZhfr7McWDofJEVi7venfI7VkucTk1C7w8CmkpkVDBuS8_uDUnjvugCfIzhpzHwt5vGu_CZndM4JVSN4yzOCg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سپاه: کشتی غول پیکر حامل گاز ال پی جی مورد اصابت قرار گرفت و دچار آتش سوزی شد/ مسئولیت تنش افزایی در حمل و نقل دریایی منطقه بر عهده ارتش متجاوز آمریکاست
 🔹
 نیروی دریایی سپاه: ۲۲۰ شب حماسه حضور میلیونی و ایستادگی و پایمردی شما در دفاع از حق و عدالت دنیا را به…</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/farsna/467375" target="_blank">📅 23:11 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/farsna/467375" target="_blank">📅 23:11 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467374">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oxHXtYNWryxVRQHvlnzfkhJp8TAYOkaIMSFgRDjyAFg8sYrA5nRiFU4_jLmiMHkq03kpQcLKZXwl1FkC8TJ5DBg7mImDmopW0QgdpY2eyH85XYQA7bVL9c3GFPuDOhronT6qowgyrIGeHJkbBNU-30t-SOH9ZHsSlMiu76dZMqmjDi9_ksW4QBw84xhWD1Ug-0UViEsTgjAyAstAVxRG-0fcIG2jslvBUVxkZrE92ZZ977M1H8ZWihRQadNTV1fAcqBMMFnYxTyPHXrUyw0RXui1K6bZZ5_hjKE1ccd5gCSW61lRIoT_OWbwvh1KEiLrZXFScJo8i1qmfh5rYbCyUQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎥
 مسیر فرار نفت عربستان از هرمز در آتش سوخت
@@ -847,11 +1554,11 @@ PGSA.ir
 تصاویر ماهواره‌ای جدید یک ایستگاه پمپاژ متعلق به خط لولهٔ راهبردی عربستان سعودی موسوم به «شرق–غرب» را نشان می‌دهد که درپی حملهٔ پنجشنبهٔ گذشتهٔ یمن، به‌شدت آسیب دیده است.
 🔸
 این خط لوله حدود ۱۲۰۰ کیلومتر طول دارد…</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farsna/467374" target="_blank">📅 23:04 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farsna/467374" target="_blank">📅 23:04 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467373">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/d2407f2c6f.mp4?token=O4FWpIhRoPOWmIDKUI1TZ572lmwrCBeQoe_w_2uKLwds-H5SV5H6ce0Lp-EjDOIiP5aVeopJ6NcuHlHdyiJhANBscpOjaJ3FF6iyPE5NEmc97n7DBb-jn5YtgboqRjDGAJYSNxYEDXiYWW6DO9xs2lx902dtfhrxQkKFizxrd3wztVm8xlOXy2GGdybUl9x5tOiXGXpJN9R6IFfvYidSKq6zqWvPVUpuTv_KtbWuMItB3RG22LYb9pPcB4Y6QWt_ACqIIIZNJ4k-ZF3SNmVYk8ap1U_MMGUafmgsznIzHako_bLTAkUIY2ey_gN1wDtd_G8zfg5khFzqjELK0nCjD7UuDfR2Ijt_vfyQr41-tB84-BZV5g-CGPlyAXhDELmQzLk4Hy9aLAuLJC5oKE0RoXaqdCYn4r2SYj37-Zp54fb64Vff-nTEPt7lJnzqH5yJXkLeknne60fB3yz0uKhu_23LFASETc7YAZVKh4ELHwpNlvt5J7CsEjIcvk68SM2e6Pa-PaY0rsLpSEXc6dakGcb9auEGZETXCoE7HUrIq2AH_YdEkpHRHob7lq5dLDWxIh-RebspejWMQyVvlgz30oFxC3QDMJKW4XbExe0zrZEk1Hn2GMuwOLB8lUT23jGyTGmjlUlVeibae7cQQWF5XCVzGj2FRhF_nkiIZfZJCT4" type="video/mp4">
@@ -864,19 +1571,19 @@ PGSA.ir
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/farsna/467373" target="_blank">📅 22:51 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/farsna/467373" target="_blank">📅 22:51 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467372">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RFJpp8jB0Wx23kqP0t5_oAU7O7zVFbGbeQzBmMBuTTNNcuv336m-ezlTh3FuxCcF3Lo17j04bc9fZYlLMiRdCrp4eZgPC4x6cCcLPH1aVUfmDPOlThyEztP-yRP-_FhW8rdg-rXhijE-f5CsUz9_OEItJQM1__hwZNKZritXIXWAvZb9ZoX2lHGjfiQ7MsE3iJEnKXiAwJMUtThu4BvGxLaQ5ODggXxdlTbFx1BD9qmZqb3Ciwu5NmYwikApH-9P9fvCeWduQwLzfuyMypQumlBMlKTslBVoiD_5GZJlF10r_3jsApAttKb6Lf4oHz1FO4Q5sxzxEqSUhyCJBwHaDw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎥
 حالا نوبت دعوای خطیر و کریمی شد؛ جروبحث دو عضو هیئت‌رئیسهٔ فدراسیون بر سر تمدید قرارداد قلعه‌نویی  @Sportfars</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farsna/467372" target="_blank">📅 22:37 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/farsna/467372" target="_blank">📅 22:37 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467371">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/maJA_zalTWhCPp92YfY7qECzZ6LLT5jKFKvYcEPnN5cZPMawwt_PIY3969MmwmLR7Nw6lKH5DKq0I1tfpTTNbemI7oOZGbhTPCWMd9CrMs2E4KF7UPPoXIXiUEuTOZCbuXYYZja6gbi9Ua9o8riUpVeaVoRBQPNS01_q-XJxrYFy-R1gJi-DbvGOElK2dzsGKR2aM2FRZqVPqUEmv6iUMeUyZLplxthV2J9mPv_75Z79GWeCky3YquqmPL4Xxs1Ff-aUBj72jxJPpoOTlAAb6lPL7DqGgmTYNSow247r3xLbQ9Jy9ZhzlbDbjczQ69MW4tePY2oetnJQF0D-hckcKQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🖼
 قالیباف در پاسخ به روبیو:به سرنوشت والرین دچار خواهيد شد و زانو خواهید زد!
@@ -885,11 +1592,11 @@ Link</div>
 🔹
 کسانی که به دنبال میراث اسکندر هستند، سرنوشت والرین را خواهند داشت: زانو خواهید زد.
 @Farsna</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/farsna/467371" target="_blank">📅 22:31 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farsna/467371" target="_blank">📅 22:31 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467370">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8c65ad3179.mp4?token=P_U_mz4r0bwvwrAWFkjQSvxWSuH148FgpluncsVSPjBXdR2WPz0Eu9zait6o-w4QGrVo1VZcfPX5mgdztbCKazxi4YQv0ejGEqs-kFHSMKAO-GrJjFhQbj8fqBligdZ1WBFaby0u-6wmAaqgQ6d35ku4pgId_NtstFn7dzHzmlaPQBcaihdaEKy7fUgWFXwYDgXpSZLiIyXOFTNl6hMUna1BgKt8ruo2p4ye-CsqjnexeBecjucpuhIRhU4T-kjUe2tYqBTo-g4AovCrm5wruLLGRub6JiCGl97xGqhr33-ncRauTTBxDH64Or7VGFgWIWLPupaCS5Auf2T20VDy-Q" type="video/mp4">
@@ -902,29 +1609,29 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/farsna/467370" target="_blank">📅 22:31 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farsna/467370" target="_blank">📅 22:31 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467369">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">شهادت مامور فراجا در حملۀ تروریستی در فاریاب کرمان
 🔹
 سرگرد مهدی جمشیدی، از کارکنان نیروی انتظامی، دقایقی پیش درپی تیراندازی افراد مسلح ناشناس در مرکز شهر فاریاب، به شهادت رسید. @Farsna - Link</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/farsna/467369" target="_blank">📅 22:29 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farsna/467369" target="_blank">📅 22:29 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467368">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sYDSYNOHGV_HNQskSvgqCkeKYuDpsOf87cxcM_4lm3FmQsQxYdF_P1Rkeu-BwBhR2ei6PB6PXVh_OSayjEPn7SidmX9C9VeRJ7PhGx7MC7DXM7KSyAnjOSZKVceiV3tCrr6vlF4tkTbR5m0CErr2hzBVKbpgznOmLsfsPKM6PRhArtR7_S726sICF6FcGqVsID6d2AUrP_tLgquo_reqyI6NVOLC4BzE8ZrTE-v65fchOs0btuQjl7RTHVD8jSNDGLajNLTShR3-F-mw1bH_XE6R2_cBQD3hTNFfTz_PI8-M41owycriZY2LmEONNl8-dmMNQaEUumoluKUMYAvkKg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ادعای ترامپ دربارۀ توافق با روسیه برای تأمین گازوئیل
 🔹
 رئیس‌جمهور آمریکا مدعی شد با پوتین توافق کرده تا مسکو بیش از ۳۰۰ هزار تن سوخت گازوئیل در اختیار آمریکا و بازارهای جهانی قرار دهد.
 @Farsna</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farsna/467368" target="_blank">📅 22:23 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/farsna/467368" target="_blank">📅 22:23 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467367">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8698bd0285.mp4?token=Olo9_324RvL_TJ22bK4lNw7LNCrW_IAOpi1P517jjSYGCwvlNXjCOeo4zx8Bp3vBTEa1w4ut5Lk1ZjFm5gtotebeKZhBGuGbkIO6HDMFLDos9Sr3M7lDRW2heLQczCjmqJGY6vqa_HxM20z5ZJlqEEkCFCo8iwKsFio8fgyg-raM9X2_5gxWwb-nxTRz9yTNOyLUOMvRU9K3gzEcX-3RbiH2xdp0Z_BDZcrfIfCPBhtbGquSQYRc2OAn6obrzF64vVL_ZRahor4oexnYgt3ItF6-mpvg8oYoExZ5YMpZd5WkpqR2L1ZTxBHIciHK95CzaBjrLhXcqFeQbS_KQPc89w" type="video/mp4">
@@ -937,11 +1644,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/farsna/467367" target="_blank">📅 22:19 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/farsna/467367" target="_blank">📅 22:19 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467366">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/78e9475d72.mp4?token=jp1gfgUq2H0120dNBOHq0nNa3-jLbcoyfBXq0rCtkTFD677gYNFkf-FtN1yLHcnwXKY4nLfq2J4flj2pEfjdDw1v_k6grgPbP45X-Rpp0eFcU2Idof2JO44QIdqqD5VF8R9qj1dX26p5gOkVBjTe6GYlC8XHIeblkr2B4Bq42zbesb_A3_iYG2jiW0LyycgUKALXOIx6GmNPhgygo6UJaqtlnqjngi5ha7ks1b2Ks-dmNSMXboR57p2D66TYxapzhXU8h7ZkE8j5kWnVth3fl_fL_H5QS93341J8pptnLmnonfdkrcSMSws9azFo7R0Rrk23JwIM4Tx8b-Z-NhGm4A" type="video/mp4">
@@ -954,11 +1661,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/farsna/467366" target="_blank">📅 22:06 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/farsna/467366" target="_blank">📅 22:06 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467365">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/d06b82efe1.mp4?token=iN-Hw35smnr6Pvay4MkqYvZtQlKyVtob1KQf5tU0PkNXAVIaW_CcfgbIaX10NFi2x8a-Xu2IP4iC2V8LbfWtQhzFBw0phGAoDqgpwt8duJVUIU9XnKKn9wgS3GKtuX3aOHxVwkp3E7iRXpzLTKX1AzP8kCGAy68A4ediRvgAyB-oAv9V3P3AjnTEeJ-W44qvGWRM1NGIRpDT2KvnvIawRoI8IGjxKD735-E-2Kt5JM2cTilVR0_25UiSsUxH0MK8nSVJ76mjjuPd4PlE2A0ztGKwsxg2KGVCojHYd2l-rR2ORtFQzkH3e2jKh0q1_LJ5PfleblmT2U1EGEkl4NTlUQ" type="video/mp4">
@@ -973,11 +1680,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/farsna/467365" target="_blank">📅 21:58 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/farsna/467365" target="_blank">📅 21:58 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467364">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/a1d9e35815.mp4?token=L1WaEyXHxXNaadg-ZtTDcfb_e--Ycij199FuhMUKjR1kooPC_YrYst374oynhPm64xqZkJxUwRExJYB16RvAu1QnIcHjqzImykICEhpg-YE8Q_eZ2R1fuxGAv1MNQg47LtJKW8sypuJKHJqwTUAid78Twtu8018Q1LHGnXEN7iqL5-VFtgKMEoP5BQsxjhR6lkH3Q_K9AAJrXxyrQITeeXx6d-nrn2GpAaKNNIXJsNa1ZyDUWvMKYBsA6wlEwd0_P3YqPXjTx3cE4TvGyfDOzTyHfRKdy1lZtljsxNaNqUTyjBFjqEOpm3z3HFClAktxQW9Oc2xS7QiH7KdRYEdgbw" type="video/mp4">
@@ -990,11 +1697,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farsna/467364" target="_blank">📅 21:51 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/farsna/467364" target="_blank">📅 21:51 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467363">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/1a1f2962c2.mp4?token=Xp82YwfcbrfZwUC3xcFfppUfRjosrJbcykmCy5f1xtDMP1tHzW53F3StZ3TtX_cuALdLU8E7YCeDK7P_E_3w9FG5hKV9QSdRYLKKhFAMXpQ3YkNWGGt6Di01f26SunUD1eLufC9ULzT-ei0sRGQ-XCMqMbKxB63R_ynv7IBh-OAwLGIRqNcw7YPhpqfs6ESl05owpKq0OT2iRxTUeJHx9n-K8KnEhUudOrRP5MLMt9D-0_cMQ5CsEL5pGhv6tC8Tthg-O94L1DHmmifJiXwmSJWZIjnUyJaUoBFuLEjhMn24QHfpCDz7ze-WQDTKxSKxoFzj2wkHqaVTW_UbGba9JQ" type="video/mp4">
@@ -1007,11 +1714,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/farsna/467363" target="_blank">📅 21:44 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/farsna/467363" target="_blank">📅 21:44 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-467362">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/c10040e9d0.mp4?token=j2Ug4WarqoKMJKHwHm5AXainfMBr0nmgh3Z1XycbA22Kn-AjTsjnjM9oPXGzj-UkE2H_73UD5aOWTx0yqbSCjjhaTQjEC34LmZ7w5E2FeRX3S1UFoarIqLy0dOwEyw6eboV6Ur-hoCOAmlP8zAThwQrkeSfMc3IV5li3F859tetegsIelRgNpl0VrdKoMb7PTDZSJpByzH9cBYim92Yy7NWPMdRZW33RP6wcApxODWIzFKz_cYwFYeb-lYSqERqjbW4gKuM45UYbBRB3Wv_QStuIXpXs77p47NlVhsZxfVtvpt0PyUWgCCSQP605rexWQX5pV29pI2Rt5W5eXpu9GA" type="video/mp4">
@@ -1024,703 +1731,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/farsna/467362" target="_blank">📅 21:39 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467361">
-<div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/4e7470cc38.mov?token=Mk0kp1x7KW2h527BnOtPDC27uh3HjFReH162J2Vqa0XaWFtaN05JMt4FIdvow3L_labToBLFRfvSG3PB19HWH2mlEi3T2W8wT9BXR7aiopl3MOew7eXUnT4Du7H-Z4iS6QqP4WFSb1W28HhHuEJBZW-plwmq9lYK9yRwIjKzF_A0EmTtKSBkHM_Ux4cexUCPcZBxpdadfEFho7HINErdOnyRFLQHKYLuhko3hnDoQNks6pM2RChY8KEPm01IhDKoEBxDU6l72sth9TwqBDVf67Vx3uxLs1-enDQBs9d-jsNqR8RgNr_oJj4osHg1_CYV3_OUqHSRBS3fT--Yglxd8g" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/4e7470cc38.mov?token=Mk0kp1x7KW2h527BnOtPDC27uh3HjFReH162J2Vqa0XaWFtaN05JMt4FIdvow3L_labToBLFRfvSG3PB19HWH2mlEi3T2W8wT9BXR7aiopl3MOew7eXUnT4Du7H-Z4iS6QqP4WFSb1W28HhHuEJBZW-plwmq9lYK9yRwIjKzF_A0EmTtKSBkHM_Ux4cexUCPcZBxpdadfEFho7HINErdOnyRFLQHKYLuhko3hnDoQNks6pM2RChY8KEPm01IhDKoEBxDU6l72sth9TwqBDVf67Vx3uxLs1-enDQBs9d-jsNqR8RgNr_oJj4osHg1_CYV3_OUqHSRBS3fT--Yglxd8g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-عراقچی: نشست سه جانبۀ ایران، روسیه و آذربایجان به ابتکار روسیه شکل گرفت
-🔹
-بعضی پروژه‌های مشترک مورد بحث و توافق قرار گرفت که همکاری اقتصادی سه کشور را دربرمی گیرد.
-@Farsna</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farsna/467361" target="_blank">📅 21:33 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467360">
-<div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-text">🎥
-بدون تعارف با روح‌الله رستمی، پرچمدار کاروان پاراآسیایی ایران
-@Farsna</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/farsna/467360" target="_blank">📅 21:27 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467359">
-<div class="tg-post-header">📌 پیام #46</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/93ae424ebf.mp4?token=Dzs0tZMc2N-23uoOLbLS6Ksd7E7hq3a18OBf2EDJDZclyOFyo8SzRQVZF14OSMexnuWb4zilox7wmvOTHrjDjbbVT0VlLJP2xS--20CQidl2mW-OJ5za4_Uk986MUtuUkBW03pMG70Zlj7lCw_o3hl5RcSQ-0L8b8o96l5-wJy8vZ_WMFdzjczHwyCf2slHo-81GM64xNQvlrrItd8s4q35CpnMfTmCBvOTAr3g3Oo4sfePdKZxgt9SsUJry-6VE90t6doZNwquHzG1L3psmZHkb8qsMUEDEV3h0lH9-znejlRlW6bw2Sk0hbpWQe0M_J0smydUkbg0tMK079cd_yg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/93ae424ebf.mp4?token=Dzs0tZMc2N-23uoOLbLS6Ksd7E7hq3a18OBf2EDJDZclyOFyo8SzRQVZF14OSMexnuWb4zilox7wmvOTHrjDjbbVT0VlLJP2xS--20CQidl2mW-OJ5za4_Uk986MUtuUkBW03pMG70Zlj7lCw_o3hl5RcSQ-0L8b8o96l5-wJy8vZ_WMFdzjczHwyCf2slHo-81GM64xNQvlrrItd8s4q35CpnMfTmCBvOTAr3g3Oo4sfePdKZxgt9SsUJry-6VE90t6doZNwquHzG1L3psmZHkb8qsMUEDEV3h0lH9-znejlRlW6bw2Sk0hbpWQe0M_J0smydUkbg0tMK079cd_yg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-منشأ توفیقاتِ معنوی انسان در بیان رهبر معظم انقلاب
-@Farsna</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/farsna/467359" target="_blank">📅 21:21 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467358">
-<div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VhlUrnfCNL0oSRNYpj2wsyA0U2E_8uwh-29BrXOeKwlGMEg_m3wmM9M1LfPAqC_GHwa_AC5s9rebpmWGh3KhUVq3YcQyOHwf8s01d5BU5j0ybSambsHxVpJrg9WfFzdxyE9A6rIyL30-5quIpptiPkPe4yqUpdjKnytMrE2yBHMROsgnvTZsqSVN8JuccUy6bFT_NVl0DxdJoA9xLAYHZ-KuCCqrytNJkqEkXgzRLpDuyzqHpgFAU_Lr1OHaDt-CvPDQleT6AbkJUHRFRWAelLvdjS--TuSH3w26y2SmH4mTbfpy7cSE1DMptma8uFLKdtKu9YbVERZsvUx1MDD9PA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">‌  فلای دبی پروازهای خود به ۳ شهر عربستان را لغو کرد
-🔹
-شرکت هواپیمایی فلای دبی امارات، پروازهای خود به ریاض و ینبع را تا ۱۰ اکتبر و پروازهای خود به ابها را تا ۱۱ اکتبر لغو کرده است. @Farsna</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/467358" target="_blank">📅 21:16 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467357">
-<div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-text">۸ کشور تحریم‌های آمریکا علیه دیوان کیفری بین‌المللی را محکوم کردند
-🔹
-فرانسه، آلمان، ایتالیا، ژاپن، هلند، بریتانیا، کانادا و دانمارک در بیانیه‌ای مشترک، مخالفت خود را با تحریم‌های آمریکا علیه دیوان کیفری بین‌المللی اعلام کردند.
-🔹
-این کشورها هشدار دادند که تحریم‌های آمریکا تأثیر قابل‌توجهی بر فعالیت دیوان کیفری بین‌المللی خواهد گذاشت.
-🔸
-دولت آمریکا به ریاست دونالد ترامپ با متهم کردن دیوان کیفری بین‌المللی به هدف قرار دادن ناعادلانه شهروندان آمریکایی در پرونده‌های جنایات جنگی، اعلام کرد که آمریکا نیازی به این دادگاه ندارد.
-🔸
-دیوان کیفری بین‌المللی در واکنش گفت مقام‌های دولت دونالد ترامپ در حال تلاش برای «اخلال در روند اجرای عدالت» هستند و اقدام آمریکا را «حمله‌ای» به نظم حقوقی بین‌المللی دانست.
-@Farsna</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/467357" target="_blank">📅 21:14 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467356">
-<div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BRjEfVWFlMmLNWl8S42Vsz30CJ1AkbCtKFXkhIoUu5MSqGlUqvoVslDkQItouogfq2l7ZTonIKrKqse5GcZbWMpOyD2jloA0AU_jbArkqio3TeyL5JHKXDhnTwVIAOgLbEsVnKwh5UnbGYl0kI0nSjCqA82UAVOBNA6BmT55iScTyGDgrjpmQj_jGc3N3XdlyyOoCHEG8NvLSQOjUQHQLQSLLAAtaAgXSpv46m34shytNBgJTvAkks9MMQx85pkTmQwhx7U9FpuymBPvildlD6UaYDiWqWqXJ6zlW7GIODPeig3MJtjxQdE34S09AH7kfkn9CGoehoDRfTzg25JlUA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">دو طلایی تکواندو ایران در پاریس
-🔹
-آرین سلیمی و ابوالفضل زندی نمایندگان تکواندو کشورمان در سومین مرحله مسابقات گرندپری تکواندو پاریس موفق به کسب مدال طلا شدند.
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/467356" target="_blank">📅 21:11 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467355">
-<div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/n9NUk_aBLYbsfnckUOWkj5uVYAwCmkQd02jeoJMgQK8KIQ6Jn8dMNq5ycdzrMnbu6t58NZdzSVJAhefEM1CtrfaN5GEsLWm1sfCt5dl_zBmPZQ4t0LNrHtd1jDkc4ZqBQF4iC-54F4_o0dLdrEuX1xIefl7s3PyKWwm2GZsS2e-HFPWM5P0u7inH7UByslkDxjKSeuvlFJ0o3dMNbTtTalFH9x72crvt_YAxr_RdRnsqjXPZf0yE2ForzPFg6hHhJi4STcfPGcUdH_q2num_zW9PNehVlSCEYEczyYjJj9cVoFaRzdzG9Q6eaA2S1_Rnm0FYTmQeXBf3E_WvX9CWlg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">شهادت معاون اجتماعی فراجای سیستان‌وبلوچستان
-🔹
-یک منبع مطلع از شهادت معاون اجتماعی فراجای استان سیستان‌وبلوچستان در منطقهٔ چشمه زیارت زاهدان خبر داد.
-🔹
-شهیده افتخاری ساعتی پیش در جریان منفجر شدن بمب کنار جاده‌ای در مسیر حرکت خودروی پلیس در زاهدان آسمانی شد.…</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/467355" target="_blank">📅 21:05 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467354">
-<div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس بین‌الملل و سیاست خارجی</strong></div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/084aee65df.mp4?token=D8sciSmBCrtoZcyIqxlMttkp1v5JO1sO_v4E0wO7-uSCmLKKRhRO_O1umXq8fngJHBdHP8juAtn6yFUseiJmt4ScLsjxbezvEzFq5nEO7L7Ka7g2l3uvRWOjjU9pH11dpanO9Jj0exlpxZiFT--1A_7sba6mmPb95In4_HiibR6AGwLyJYMRPEEdJgFeTNHVBTpPbkQe8dmULVdY3e_1gciBs0qG94lM4546aSOezn_2OBvBWpLzlt4vKSxxncLOmgE4r6VdMKayKxHz-y9v3c3yqz-97oGk-jYNPco5HbC40qbx2LdWBimzy67mK03OVaURS-_VMDMPxlI18rUqzQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/084aee65df.mp4?token=D8sciSmBCrtoZcyIqxlMttkp1v5JO1sO_v4E0wO7-uSCmLKKRhRO_O1umXq8fngJHBdHP8juAtn6yFUseiJmt4ScLsjxbezvEzFq5nEO7L7Ka7g2l3uvRWOjjU9pH11dpanO9Jj0exlpxZiFT--1A_7sba6mmPb95In4_HiibR6AGwLyJYMRPEEdJgFeTNHVBTpPbkQe8dmULVdY3e_1gciBs0qG94lM4546aSOezn_2OBvBWpLzlt4vKSxxncLOmgE4r6VdMKayKxHz-y9v3c3yqz-97oGk-jYNPco5HbC40qbx2LdWBimzy67mK03OVaURS-_VMDMPxlI18rUqzQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">ترامپ؛ از «اعدام نکنید» تا دفاع از پخش مستقیم اعدام با تیرباران
-🔹
-رئیس‌جمهور آمریکا که سال ۱۳۹۸ در حمایت از دو سارق مسلح که اقدام به سرقت از یک زن با سلاح سرد کرده بودند پیامی با هشتگ اعدام نکنید منتشر کرده بود امروز از اعدام یک افسر سابق ارتش آمریکا با جوخه تیرباران دفاع کرد.
-🔹
-او گفت: «ما برای مردی که ۱۴ سرباز را کشت حکم اعدام از طریق جوخه تیرباران در نظر گرفتیم. حق او همین است.»
-🔹
-پیت هگزث وزیر جنگ آمریکا روز پنجشنبه گفت قصد دارد امکان تماشای عمومی اعدام افسر سابق ارتش این کشور را فراهم کند.
-🔹
-هگزث در گفت‌وگو با رسانه‌های آمریکا گفت: «مطمئن می‌شویم که مردم بتوانند این اعدام را تماشا کنند؛ این مجازات باید علنی باشد.»
-🔹
-یکی از مقام‌های وزارت دفاع آمریکا نیز اعلام کرد: «این اعدام به‌صورت زنده پخش خواهد شد و جزئیات بعداً اعلام می‌شود.»
-@FarsNewsInt</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/467354" target="_blank">📅 20:57 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467353">
-<div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WZxoTBeToWY6VOjJ2Irb_Dci75CLazljvC-cTMnJDeMm3zuDP0SNsadspuPIjNIk2JCdfsCphG1g3IhIR35duIiE9AWKAHrd4gHqm3gPcWgeqiCl4bAOzodAyVzv7pn8PitLswy2dkX47sc04XGjshzRw3J9GZmn_NzaxK5h7ecXA5BFBY81MP53kpbM7lI2tBWfUHMTE-FcTsKxnIAFrn3RihSk56TsAp8KGnpJS6i-GpcJIZIvCH8e3qxTa72sQaABh6p7pCSB6GY4cSZl2syDw561WA5ctdXLQ3oZF0OR2Jeb3p8g-vnd9Hpn_n3hyjbR5xiqZo6dXN6IW0B2YA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">التماس زلنسکی به آمریکا برای کمک در جنگ مقابل روسیه
-🔹
-رئیس‌جمهور اوکراین با لحنی ملتماسانه از آمریکا خواست که به کشورش در جنگ مقابل روسیه کمک کند: کمک به اوکراین برای آمریکا هیچ هزینه‌ای ندارد؛ مطلقاً هیچ هزینه‌ای. من آشکارا گفتم به ما کمک کنید از آسمانمان دفاع کنیم و بر آن مسلط شویم. آن‌وقت پوتین پشت میز مذاکره خواهد نشست.
-🔹
-زلنسکی سال پیش اعتراف کرده بود که جنگ با روسیه را با وعده آمریکا برای پیوستن اوکراین به ناتو آغاز کرده اما اکنون می‌بیند که واشنگتن چنین قصدی نداشته است؛ او گفته بود: آمریکا هرگز، حتی قبل از دونالد ترامپ هم ما را در ناتو نمی‌خواست و فقط در این باره حرف می‌زد.
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farsna/467353" target="_blank">📅 20:55 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467351">
-<div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/56b55f86f9.mp4?token=JF4XCGA_EN9TpG_sCbx4eGSTVeEcbKCwEVRvJ3SjGoAiR7QUQJb31u_P3Has3XGlsrqCdfoDPkUuiyJWTfXpYuiR87hbZtjDC84w6QSiaTbtSaRaT7XpLecRiO9NF0W7er7H-TK0LDlvVeIzt9MwADuJ-ya8oaSA23zQH72PNjlRXUeqJOERv92QKIHH0ml_WleqkZkxesc0I_2aA8IkXeKk137Jk-dYu5bJFkynEYVO7KN8RXX5D-nBvpFnWv_cdfwoZWdFGDbVj5L0c5LELDrJdvjYqFSQ38s-mxKiFjv95ZMnPwOW2vldTJy4YNapbpCjkEnpprwmn1BR4hUlnA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/56b55f86f9.mp4?token=JF4XCGA_EN9TpG_sCbx4eGSTVeEcbKCwEVRvJ3SjGoAiR7QUQJb31u_P3Has3XGlsrqCdfoDPkUuiyJWTfXpYuiR87hbZtjDC84w6QSiaTbtSaRaT7XpLecRiO9NF0W7er7H-TK0LDlvVeIzt9MwADuJ-ya8oaSA23zQH72PNjlRXUeqJOERv92QKIHH0ml_WleqkZkxesc0I_2aA8IkXeKk137Jk-dYu5bJFkynEYVO7KN8RXX5D-nBvpFnWv_cdfwoZWdFGDbVj5L0c5LELDrJdvjYqFSQ38s-mxKiFjv95ZMnPwOW2vldTJy4YNapbpCjkEnpprwmn1BR4hUlnA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-تصاویر جدیدی از عملیات آفندی علیه مواضع ارتش تروریستی آمریکا در عملیات‌های نصر ۱ و۲ و تنبیه متجاوز
-🔹
-این تصاویر که برای اولین‌بار منتشر شده‌، شلیک و هدف قرارگرفتن مواضع آمریکا با پهپادهای شاهد ۱۳۶ و ۲۳۸ را نشان می‌دهد.
-@Farsna</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/467351" target="_blank">📅 20:40 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467350">
-<div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aePzfv7DcuD-e1r_K2APAOJsdXGvQB_JWBi3FBtpB24s82fpuyfjHlgHMJFHMxLiBWjIIa48w9DNDp-kCMUCXjzkhJ3ixbJq6uxp0iHsN1YpDtkkNXcYZRFFQvoVLsOwoJY_MfJDtRLtFYAUIV0dyIRUXYtaCv3gut5_0b7lmpC6DOIu5kMCGLQA-EwF33oVwCz8HtDhCvB9yqbnpK7JIBOl9Pp1QB-ce1LELoTmZOE26cjlkqsNG4HGPxRqCVBi13iEKcFfRwnBgsfZJabsONx3pE0g-1qr6EQV26GWSRWMPPmTTHDyta6GCW-UhdB-4dwJEgLjwAwKoRqs-CL-fg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">📷
-علیرضا دبیر و محمدرضا گلزار به تمرین امروز استقلال رفتند
-🔹
-تمرین امروز تیم استقلال در سالن وزنه فدراسیون کشتی برگزار شد.
-@Farsna</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farsna/467350" target="_blank">📅 20:37 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467349">
-<div class="tg-post-header">📌 پیام #37</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/1af42fe811.mp4?token=KvCf2NdHQ_4-2y81hLWBOSaMoUS5XD55Kmx74dqsY933Z_-RTjptHOD4gEyOHTOvzsNuv7JH6sXVrHSzj9OrxEz4JIceYN9dE3o-3c3JyStZ0RzBDpFvZwsguU12kpXdUx5_UWeRb99OsOC2WFDCIA4IUs22IDEwOpJY601a-ljdSd1DJ7e6iaBLzS7VXwWM2Bla-ujQAJSwWtmR1gHv1wqSmGvYm2eBu7qz13v2slndkOqPhzRIOHjpUFaT3bE-STjCva3fBL8yBM_dVhsdvwFtEw_1ol0Pq1yjsxpjYU7V-AFE26VmiM5xkN197qlRbto0plwih0G5vkmc6xvaEQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/1af42fe811.mp4?token=KvCf2NdHQ_4-2y81hLWBOSaMoUS5XD55Kmx74dqsY933Z_-RTjptHOD4gEyOHTOvzsNuv7JH6sXVrHSzj9OrxEz4JIceYN9dE3o-3c3JyStZ0RzBDpFvZwsguU12kpXdUx5_UWeRb99OsOC2WFDCIA4IUs22IDEwOpJY601a-ljdSd1DJ7e6iaBLzS7VXwWM2Bla-ujQAJSwWtmR1gHv1wqSmGvYm2eBu7qz13v2slndkOqPhzRIOHjpUFaT3bE-STjCva3fBL8yBM_dVhsdvwFtEw_1ol0Pq1yjsxpjYU7V-AFE26VmiM5xkN197qlRbto0plwih0G5vkmc6xvaEQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">اهتزاز پرچم سرخ خونخواهی در آیین جمعه نشلجی‌ها در استان اصفهان
-🔹
-اهالی روستای نشلج کاشان  پرچم‌های سرخ انتقام رهبر شهید انقلاب را با خود به آیین سنتی جمعه نشلجی‌ها آوردند؛ این مراسم همزمان با هفتمین روز شهادت امام‌زاده علی‌ بن ‌باقر(ع) در مشهداردهال برگزار می‌شود.
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/467349" target="_blank">📅 20:33 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467347">
-<div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/itu1vT5DWI6T2yCw67ZoXcCm6dl8l7gDlhq_okRSdRYeVF8PyPk23bBVd-eKZWqMN5bT3YMUqpou6Bzf57snjV4MWCGL7wng-4O2ov2Q6OEYcaWMFWyLd0a3OZfR8m2KEKWQW6kPtHLZvOsyRvH7W2t_UuGgtOuY6uIUTgmrixYXy8UEmoWro3rWZSj3Bhb-SokHLnNuj2kaN509FX6DgpfEKwx0H9K3LNgucSi0sHMTbXsnlUk0YR6t1ABufhQhrIOgcNeBogiR2vOfNazR53QorFbwEbJp6KOm8F1RrnAnWQaOoflwyNvy36T45O1FillXm2RuhB5fvy0VhyT29Q.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🖼
-دبیر شورای‌عالی امنیت ملی به آمریکا: برای تکرار شکست‌های تاریخی از ایران آماده باشید
-🔹
-سرلشکر رضایی: وقتی پس از شکست و تحقیر در برابر ایران، به آتن می‌روند تا روایتی از جنگ تمدنی را شکل دهند، بهتر است بخش مهم دیگری از تاریخ را هم بخوانند: جایی‌که امپراطور روم، در برابر شاپور اول ساسانی زانو زد.
-🔹
-کسی که پای تاریخ را به میان می‌کشد، باید برای تکرارش هم آماده باشد!
-@Farsna</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/467347" target="_blank">📅 20:22 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467346">
-<div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/8a8f3d265c.mp4?token=kDct4VrQETe9RCOC_uyAwYcda7e7bySnie9JFLba9CdnH6PH50peXoHl3S8zpbTw1A_yHJjAWmLP8D3pjcKYW9dy7uDsxy01Hnhus3qrVjy1ii2UYMEdnUu2SyI2SzlXuHw3auAdKRJygB4WAXj7cAwBlfM4pyNMR6blMDZcHJGpyXamP8J0BvkrMu7G2_n0GUFwuqOC8c7KHBitk5I7-vxC4ESI-18fPtw7CfRdN4BRBxGthdZdt3xb43z4YXdGWzD8sA_S96SNmR0FW9QmkxAXLiS5rKskztGq7e_r-qwMW4Gc8faSE4VgTMrA34J6rQGeCN-MNeXowNSufIdrcw" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/8a8f3d265c.mp4?token=kDct4VrQETe9RCOC_uyAwYcda7e7bySnie9JFLba9CdnH6PH50peXoHl3S8zpbTw1A_yHJjAWmLP8D3pjcKYW9dy7uDsxy01Hnhus3qrVjy1ii2UYMEdnUu2SyI2SzlXuHw3auAdKRJygB4WAXj7cAwBlfM4pyNMR6blMDZcHJGpyXamP8J0BvkrMu7G2_n0GUFwuqOC8c7KHBitk5I7-vxC4ESI-18fPtw7CfRdN4BRBxGthdZdt3xb43z4YXdGWzD8sA_S96SNmR0FW9QmkxAXLiS5rKskztGq7e_r-qwMW4Gc8faSE4VgTMrA34J6rQGeCN-MNeXowNSufIdrcw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-هاشمی، معاون وزیر ورزش: ۶ ماههٔ دوم امسال ورزشگاه آزادی به بهره‌برداری می‌رسد.
-🔹
-دولت ۵۰۰ میلیارد تومان دیگر برای بازسازی ورزشگاه آزادی کمک کرده است. @Farsna</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/467346" target="_blank">📅 20:17 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467339">
-<div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/R4JESQwIg_L1c5suL_331-nzRYCvyIpgU4IcgQ5dVQJp0mvVHBt2RZQyfr9JgjKCLMHB6UaNqUf7q7whWWj488p78G0c6EMFi3ogqjBDmNkZB3hVgXVqC1BF6nm7QnrxXIIQfmtkpu-9AthhML0mGLu4RawiEW01IfUix5p35KOOEc6Izj-nlEwzt5K7iN9YHLGBL6H8D6BAGfkLHoDGmClbqUAw7Q0NpYI7A4dYfkvQCh2eooZksyj_p5Nd2Wnl7peEMJlrhWCY6DDUzd9o6DhKqXAAhObSisjfaS03sx11dAQ4CAWRzkeqwU1oUfiaPObsIqnGNUxSIYY1LyE5KA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/rvGDmAMT5Ys-nwsW6-rV2nNvh0fueZfhPrAaRP_vHZE6HYr1HZlcAGbIpUUW5m5r736A55WVKdRY7Z1VD6If2xntl8tOWFc4qEKUncwtNN4LJV2QNCLRgDWPkiZsJueI2UykbBEW58R9nTidEomdUJEywJo1_9xa89Qn869WTxLXvDVgdJZFdM0DblIQ5L4ZZNUDroJRv6PkQbE-KpZztCz0yuNcqRf7ukMUamq2woDP9qEXM7qrpw5DmGvqbnG_Gjt5LfatVg5qpmUJSvqhvzfvkf4xKfT_puonNXrIceNItVKm_pr9-BnndNTSBMJ2PHNuc4fZO6ecm65wg8gLZw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/mnPOyxn7hM4VoVOS_VlKH3gSdSLTQiYmV8NW13dzQcP4YJPC9TVpfck1lI5S0WVtSiMSXLe5G_ZVfO9YduH0Pw5xH87dmg34YEm4wCO2Q4KbTF7qXqB7EMSsoSId6G67f6I1HCumU7qxlY1bqXE1efe9hHc5R45FcgtJ7_001Kf_Da4vwedJ7XHh0VIyycZ5nbPJ_xWcgJKz1zsX9noQ6VZ72Pr7ZC2NgYMA22tXGeW9MiEKWEup6BHsEL5DFYfVvAbkWHlRxhuyXlAukYr164VvAE95VcKhI8SH0Lq4i0F0jJQr7r_h2gRuOK0yu2Bpt762_H84bplUzN6E5ksVvQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/QX5Qamxg5DtJTKtGVfaoddSPd0RgHlEWhWJfc3WLauJCnOGUZCQh_WLXGYOLT4yM0jjT8SQcDuZezMfpkHpWedbyVjeDDI2L8tCmtjPHlTqee_DE3uQiMjY2xneJ8EMabfzZnxNvc4alL-6L1jHXXdQqIZcJoLbUNLFog2VeWCoC-tUzXbNhMgd-EMqo9QPx-LVzV458qcHdBMSsnm2tBkb56UFot__jGgQAiiD1C5lVe0RNEjIuzy5GxI2-Vc4XkSh719gsTevwgakRorVmN2ZeoQwnjMVf3WKQAcAMJyPSLBN1_ZL_e-TaSoBXkXXedBN04CnOycFCdlKxjIcClQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/v5f9BZOZ1f2DTe69vBagzDMJfuJuZbuia2BrCWzx_aqWf7KG-XBBr8ODxiLuf22u7z3xp2njL_EpSxRsW48fcFe7ArOIAujZyi1IG7wAG5BSCNzRM2rSZqo1L_LSjWeUxn8hGKEhlDw__jpdyHigeoPuRvRaohEzMan0sFusQNSfkzdrrSeZ713bza9gDPhdg_ll1E8tkr6JZJ1sEXH9kvUFe-wwWGyR8usUJvcDy1oXuEPHqHpnagyPOssRd1bC4WVk2ZJOvPBOK-kj4I-ubQ2vGfixQCGMX0qEhmYAegKra878aJY7SV4BQIpC9ffa4ND31XefUfmVCONdaCgr1Q.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/sNOqVqI-X8WczRHR_wX9G-fRHMqkLYS5usjE2zzBx40U960lFLT7AWwUDAu4sNTNWQ1vT_-PAtN5iM8t5tEew1kYaHh65gweWm0cGHfruRdGPn4q32PZIvBo-_znlA6N3hKmVT1LOR3yC69ibNA2p1Gg4zY6GhloWr5oFDT442CZoph2GGl5aPiHYc1VBPCW8STnrkxKS0R66S3kxviIi2Yzrzt4zQkEViHgsy7JGEiS__eH5COgaR1b9sKCj9cPpIrkE3YF9pHm8smjYY4aRIOgYRyXVf9F1FmEJrtON6jpZKJH7s70oz6HLbeiUvWuVOXP1lJrAiADDf8ui2gEXw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/HiOupRRcl7J83bBk23hstYg-PfojkXXnHEn2kj7pt9Lwqeirq0VsEZiPZP0KxVhNCNkB40jFhwpNGvRMtlgYBx1dehpLjsYstGFqT1JgMUpUyg167U9p1Rh-cdNFcUCpEQnvFZeK8d7A9IXr8CvzS-PBwetFl_aoSEGeV0kajvk-D3-M7q54iiwhr4yUvHz8snCJv59SPZcbrlrQjswpToTIN_vTUZjeQX7LxWPguGcZcM-LdhA6fFF2MNFt0VO3HqeNRV9xX2j5992ko1njTXy_quns04h-GxdHLJTCblSmvifKbYlZLqk-wT3WX3nVP-43C0HHyiInr3Ouwgl4XQ.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">📷
-روز شاد کرمانی‌ها با پیاده‌روی خانوادگی
-عکس:
-مهدی امین‌زاده
-@Farsna</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farsna/467339" target="_blank">📅 20:06 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467338">
-<div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Mctyu5NUAq1EZFUHasoOViqa3kglEqBVBsk0V0lC9_3_IHhperDAytDUiKzjJoOw6R8Alclfrb4IxoGhVJ4OwUf_37ACXbak7WOOjvZ4xe3zziFesphJtpBLu3ok3M2nH9r85yt6_rEQ7fsiTPonLUJtMIaQpKqPnn3IuFPduAeK9KKML8PxSCF8ldfe6R3PxALOOuABfLrpo83xguYE_FEroy9MloCfxgVbqrr9Pxi9lcGcl1SvyNVdnYXJurUxoT-5SLUI8ylFcsgATJdf2Tsi9EwOdvCT3CYGePTHs9YYYchHCvjP87U5qBmi_ULWqrc8JkuMwYy4eG6kwZiZrw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">‌ آغاز تحقیقات عربستان دربارۀ پرواز فلای‌دبی بدون مشارکت اسرائیل
-🔹
-عربستان سعودی پس از حمله هفته گذشته در کابین خلبان یک هواپیمای فلای‌دبی، تحقیقات مربوط به ایمنی هوایی را آغاز کرده است.
-🔹
-رژیم صهیونیستی پیشنهاد کرده است در تحقیقات ایمنی تحت رهبری عربستان…</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/467338" target="_blank">📅 20:04 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467337">
-<div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RPQBaf9l3tBoWPaLNAUlWLvqJKFGNRtWEkw1pMv-KN4vc72tMYe5rwN9tCw0fCtEQPNs2z4gWJbOs42hgpD8HK4qfCzjVfsTSQfbvMpDfQKsnBtPbc1RUIx-7dJETPM0UUnQ2-L3Uk1rfmCdTuskfDs_qklpEPqapbI-Ed6l5qkbMQ6oAEv6Dl3_p7yCcgZRx_IXKx3sAvUb7jMVoDRZrVT3Pir-Px-pqjdx8TxC-hYsETPaha147NwH27wjtsk4yE3XT0ezjgTyZsNba9nYTMGtgBHA9i9tut0ktvEkVyAHbrjC9YNobBhSs6f_g7zzwalRtAkN00oqX7-RWteLQA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">سه نشانه از شکست راهبرد انزوای ایران در محاسبات غرب
-🔹
-به باور تحلیلگران، سه انگارۀ «عبور تدریجی ایران از محاصرۀ اقتصادی، تداوم ضربات ایران به نفتکش‌ها در تنگۀ هرمز و حفظ آمادگی نظامی و امنیتی ایران برای مقابله با تهدیدات خارجی»، محاسبات آمریکا و غرب را تحت تأثیر قرار داده و فرضیۀ شکست «راهبرد انزوا و حذف ایران» را تقویت کرده است.
-🔸
-تحلیلگران و کارشناسان می‌گویند که بهره‌گیری، بازنمایی و تقویت انگاره‌های فوق در فضای رسانه ای روایت پیروزی ایران را تکمیل خواهد کرد.
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/farsna/467337" target="_blank">📅 19:49 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467336">
-<div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VuGLaLNPB8FtXDGo9gxpfBQrUhqXicd3E1Lxa7vp_0UiFvXx2AWJcUP3JfWqjhx1Ns-O5LQpVY9YFpHjRusLNHw6TCwgr_9Velyvjh-5zJeyLoM31UAyUae0jiUb_sTjMJd4LHKhsBjxyvW8MN8kvVVo2bZT9W68GnkE_RVuz5SsnEuWlpcm33G6YoW6dHk63K_QuJVqeTZ8xMkv8th-AdYoX0ep2W16ZSrtcgTfyXoNFTYlbssv_vPS_-_Yx2e9FelROiOACExeGtMazlzt0lXexHF2ofVMkMsQ4Sitm4UaqfiJkX98KNDSPOJ2aRSlzh1JQ1zv2RNaNXfOr3hHnA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">مدارس هرمزگان فردا غیرحضوری است
-🔹
-معاون استاندار هرمزگان: فعالیت تمامی مدارس استان فردا در همۀ مقاطع تحصیلی به صورت غیرحضوری خواهد بود؛ نحوه فعالیت مدارس از روز یکشنبه مهرماه به شرح زیر است:
-بندرعباس
-فعالیت مدارس در تمامی مقاطع تحصیلی به صورت سه روز آموزش حضوری و دو روز آموزش غیرحضوری و مجازی در هر هفته انجام خواهد شد.
-قشم، سیریک و جاسک
-فعالیت مدارس در تمامی مقاطع تحصیلی به صورت ترکیبی از آموزش حضوری و غیرحضوری خواهد بود.
-سایر شهرستان‌ها
-فعالیت مدارس در تمامی مقاطع تحصیلی به صورت حضوری خواهد بود.
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farsna/467336" target="_blank">📅 19:35 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467335">
-<div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-text">🔴
-شرط یمن برای پروازهای فرودگاه ریاض
-🔹
-یحیی سریع سخنگوی نیروهای مسلح یمن امروز گفت فقط پروازهای بشردوستانه‌ای می‌تواند به فرودگاه ریاض صورت گیرد که مجوز پرواز را از مرکز هماهنگی عملیات بشردوستانه در صنعا دریافت کرده باشند.  @Farsna</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farsna/467335" target="_blank">📅 19:19 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467334">
-<div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/e625a1a11d.mp4?token=fsNe_qvJCj2sO2T5gisKe06fEZRqRT9kvd29xTdwB-GaHEaGKx-ZZSXd8IRStpmDmkDFC4tjfapoxbG2cVhfkpCntfOKP8vY_rSRiCXz3SIXPr21IstYBYzhDXqqOCYqrtdBpNvoeHly8HrkrmqjJsRJLnbE3UDpPjuSVIVzUPU-1ExG6fCbj3RTBt7cbC7n_YywcCmWW2iYLymh3_TPv3Z9xJeE7XC3b0v5xu_qdCq7BlTSLqEPv1ADNtRrKkU4ac1E0M6g8s1aedGdxvMnRJU44BslyDPat-jXRPETSLF2VZvJDVU4gqzjTJQqNJzyXBcGQJGLhHEsshFddrC7gg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/e625a1a11d.mp4?token=fsNe_qvJCj2sO2T5gisKe06fEZRqRT9kvd29xTdwB-GaHEaGKx-ZZSXd8IRStpmDmkDFC4tjfapoxbG2cVhfkpCntfOKP8vY_rSRiCXz3SIXPr21IstYBYzhDXqqOCYqrtdBpNvoeHly8HrkrmqjJsRJLnbE3UDpPjuSVIVzUPU-1ExG6fCbj3RTBt7cbC7n_YywcCmWW2iYLymh3_TPv3Z9xJeE7XC3b0v5xu_qdCq7BlTSLqEPv1ADNtRrKkU4ac1E0M6g8s1aedGdxvMnRJU44BslyDPat-jXRPETSLF2VZvJDVU4gqzjTJQqNJzyXBcGQJGLhHEsshFddrC7gg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-پزشکیان: تحریم علیه ایران، اقتصاد و نظم منطقه‌ای را تهدید می‌کند  @Farsna</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/farsna/467334" target="_blank">📅 19:05 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467333">
-<div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/891ab99c87.mp4?token=ukprgkVeHjrnp5lr8VLlzYO8o5cNbOx2l0oXShQ1CS-gCIyWJ2FBL62ahNbjp57odgBOXmiEkVFKlkU3PzAoF-l63-x0mYi1s8JmhE-7mi3CtTqPjZsuMCrMyM1G8K3N4p7MmhN7TSKSz2dZQuNQVyqv_3JKgwdeLNQ8BcB4kQgAB8LsGUHyQvkNWeWMmQzqajdzFvl-S6pAVaOdn-UXlfwBxwmCGVGKpz0ha0YUaRcS8VCiby2PURoxr8gruDb-WvptBCzw_jXkgyUX6s0zZ6bkzvObsdB-lGuAxu9Y4IPAtti45pLf3-44Xe_WCa9nG6PCjqJWMESjIrQwNmehqg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/891ab99c87.mp4?token=ukprgkVeHjrnp5lr8VLlzYO8o5cNbOx2l0oXShQ1CS-gCIyWJ2FBL62ahNbjp57odgBOXmiEkVFKlkU3PzAoF-l63-x0mYi1s8JmhE-7mi3CtTqPjZsuMCrMyM1G8K3N4p7MmhN7TSKSz2dZQuNQVyqv_3JKgwdeLNQ8BcB4kQgAB8LsGUHyQvkNWeWMmQzqajdzFvl-S6pAVaOdn-UXlfwBxwmCGVGKpz0ha0YUaRcS8VCiby2PURoxr8gruDb-WvptBCzw_jXkgyUX6s0zZ6bkzvObsdB-lGuAxu9Y4IPAtti45pLf3-44Xe_WCa9nG6PCjqJWMESjIrQwNmehqg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-گل اول صنعت‌نفت توسط باصری در دقیقه ۶۶
-⚽️
-پرسپولیس ۲ - ۱ صنعت نفت @Farsna</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/farsna/467333" target="_blank">📅 18:59 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467332">
-<div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/te240zFpeRzGbGUOSqGQx3gjNuymdwGTSJz2hWCDUGgRxZPZ3NjL10xbkTdkP-2oW3eUnUguE-uPuoCJA5JIfpRpdJKHWGd7cVGKNaPquKW8tS4Cayp3M9j-d6jYfwEHDuLFS1mAvxiaWJP7_JtrwlRpQC8B04TxfsobV8eDbTvnOzsyhbu1NXw40Bb1aOnoidZYjWN0d1GF3VsyRFMN4I7l91NqQ7pOOboN3wi53bEsM25uNjQNLp9w2MBSUOOOAucPsq8YzjjnpCUllOjRw90ScWnN-mPkQ8_tT6xMKmCb4Rqd-qvd3iuSNr8AZt-3QXoGhbO-J0f2qKR3QRHfbA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🎥
-وزیر آموزش‌وپرورش: قطعاً مدارس حضوری خواهد بود
-🔹
-ما تمام برنامه‌ریزی‌های لازم را برای حضوری‌شدن کامل مدارس انجام داده‌ایم.
-🔹
-اگر اتفاقی در نقاطی از کشور رخ بدهد، اختیاراتی به استانداران می‌دهیم و استانداران متناسب با آن شرایط، به‌صورت نقطه‌ای تصمیم‌گیری می‌کنند.…</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farsna/467332" target="_blank">📅 18:52 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467331">
-<div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/af2934295f.mp4?token=fJbGajBqbnvTf4Kn5N9PIL50HQl9fWXISjA7PkuVsaX1UmxgGn93hD5pD5klsCcoyqqIuZWK9tK7GGEVokbHIrYcoJZ2w7T8bSb-qGT2CQ94kIGzT6dw9Uk0KrAmbOZV6auCzXLWcivrsOG5HuUpZqWsvULMC3UZLvSwgI7q2aQLgz4Oi-SHL3WvK2zWtJX0KSJbTM1RakmXKB0vpydX5Fkoc9gClLmyUgTKhHWlOnBUx17uv4CN57wcdhVLvkuUzXv34pRKCkhZ_TMr8Sl9jDTUtoMBX5VKotl45pP84qlciKtREyoUrqCsOtHASo2zRVL85amM4JucsQazt0oxDQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/af2934295f.mp4?token=fJbGajBqbnvTf4Kn5N9PIL50HQl9fWXISjA7PkuVsaX1UmxgGn93hD5pD5klsCcoyqqIuZWK9tK7GGEVokbHIrYcoJZ2w7T8bSb-qGT2CQ94kIGzT6dw9Uk0KrAmbOZV6auCzXLWcivrsOG5HuUpZqWsvULMC3UZLvSwgI7q2aQLgz4Oi-SHL3WvK2zWtJX0KSJbTM1RakmXKB0vpydX5Fkoc9gClLmyUgTKhHWlOnBUx17uv4CN57wcdhVLvkuUzXv34pRKCkhZ_TMr8Sl9jDTUtoMBX5VKotl45pP84qlciKtREyoUrqCsOtHASo2zRVL85amM4JucsQazt0oxDQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-سلطان، نام پلنگ جوان شناسایی‌ شده در رودافشان دماوند
-🔹
-مدیرکل محیط‌زیست استان تهران: یک پلنگ نر که پیش‌تر توسط اهالی روستا مشاهده شده بود، با تلاش محیط‌بانان و نصب دوربین تله‌ای شناسایی و نام سلطان برای آن انتخاب شد.
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/farsna/467331" target="_blank">📅 18:44 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467330">
-<div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/577177c5a9.mp4?token=dPye-wFQIvqwguT_hijxjblkBE471MKtgyepwSU-39JK6izGB41lOT8LMiuW3DxexGYDNkI2js_NJiuMlC3YDnq0jOv9DEa1FuL71gbneWUeHdLgKZjpa7dRuP8CrYkOL2dw3w7gtzzztFqVA7v4w3s_4HeK7xAIqupsNtvT6Rm5yFEGj6-EdXvpDtpHQ9Rxy5UTeigvbwy3BR2du8y1DqrMFwYRKT19U-L7RgoPbrmRPtgt7i06uXDV-2ikOS-CTJi9kKEeoDce4iwnSgu5XZg0Fo6yxgReHXSDkrj_fXsor-j6mUReDKxBNxFM0ZfVSGCiVOetPLe-EH80RyiuLQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/577177c5a9.mp4?token=dPye-wFQIvqwguT_hijxjblkBE471MKtgyepwSU-39JK6izGB41lOT8LMiuW3DxexGYDNkI2js_NJiuMlC3YDnq0jOv9DEa1FuL71gbneWUeHdLgKZjpa7dRuP8CrYkOL2dw3w7gtzzztFqVA7v4w3s_4HeK7xAIqupsNtvT6Rm5yFEGj6-EdXvpDtpHQ9Rxy5UTeigvbwy3BR2du8y1DqrMFwYRKT19U-L7RgoPbrmRPtgt7i06uXDV-2ikOS-CTJi9kKEeoDce4iwnSgu5XZg0Fo6yxgReHXSDkrj_fXsor-j6mUReDKxBNxFM0ZfVSGCiVOetPLe-EH80RyiuLQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-گل اول پرسپولیس توسط بیفوما در دقیقه ۴
-⚽️
-پرسپولیس ۱ - ۰ صنعت نفت @Farsna</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/467330" target="_blank">📅 18:37 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467329">
-<div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/v9sGTXnrCdVGp4ytbSlS5pk_G2L69P7RtEKpXGheTaE9PAR1ugcLhrvf5unNe-8R-Z8NoRrnzNxWWcQz5hpQqD0MUZ4tDW37Yjdmf3ANQ_ANFo80qVIZd0fXKNsU05gy6dRBb0sFtUJpScGsle-GYOh9EJYlUB3LGa_MzHpbizjNtW1TYmSGmuUKrfROhSQjpHe8CYMtgr37kBSYAa5eFJThwqdsa_CYqGn_KM2PxJM4SjDkYHfgcsZfzqyvZ0J6pdbi9_58pygEaEeWwfi6wMjAfvjEDIpdcjO8XSoagiRtSIm5SgSyF3juCF_YVpPjurt8oqcw7c8L3oHM2FGDbw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">‌  یمن: مانع حرکت مزدوران سعودی به‌سوی باب‌المندب شدیم
-🔹
-سخنگوی نیروهای مسلح یمن: تحرکات مزدوران سعودی برای پیش‌روی به‌سوی باب‌المندب با مقاومت رزمندگان ناکام ماند و حملات موشکی موجب تخریب تجیهزات و کشته و زخمی شدن ده‌ها نیروی دشمن شد. @Farsna</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/farsna/467329" target="_blank">📅 18:31 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467327">
-<div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/A3cdYsJYbS6YqSfX0NaNXqA5llkvQ1sNX_5EBHourj6tbBF42Vlf6bROGhCBOdcXod5U_-MPuJytHYKqLOL5ioiSw0el-bnrlOpnmrdkP2rfqgICiG_R2WIjgTKBS08f7mGZAUCJMOK9MLWGfHlgqw0Okj_67ntEaDBYlVXkco6sXtH3Sysf4dl-62JAoqWv5Iv2r2ZCo1PChSif_ILkq3WdlsLBR9ldoWM6OUdGb8OKFYzJP5uU0SfsrVPQ2bqqDqNTl-uXUzdbm9VgfD7WIxTOkZIwBD24CFD4NjqJzuJx6kC6pidLjUX-IzspcCxA7Fc22FbUse7P8kRQ8H7tAA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🖼
-یکی از ستون‌های مستحکم امنیّت کشور
-@Farsna</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/467327" target="_blank">📅 18:21 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467326">
-<div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/2bbad3ed44.mp4?token=AkjoVcwfxeqeocoa1d1_neAfCJPbzq_NMF-moiP3PD8hofFFtkqZdIewEUVBYugPKrkO7V8kMN9gpV8qH0u8X0yHB1477fj86DLmhwJzRHg7oZXj4VYwS4s8qADdE2k6iFD2C2QsCCr-l9eLI7F76RKATQgrsAfy8o1E3RxwSbo8McIDlClksnQVoZDGNZCabFk1KT7u2JnMRuelOqQ_sYHlckTq_usvHTo57WkwPAMrL8NsROmNjoKyGo0KKMQA9jyH0CeXRQvGYDw8jYzx3k-ZRQMdaAd62aSG3fBqYbyCtdoswpxp2nYo3f3yh00_kVJZkk7wETgdHH4Dk1DFJWvouFF7EmFEJHABJFnoEfOdF-_PI9y6HH9modsxE9J3oyAu65hbjW6JDPJ8UyQZKDpbqSr5fcL1maXuNrCNlXu7jcOvNiq7c4dLXqYYoGUs70HfQUsmeL0HSvf_AGvrMlWcWFDho9E9oaDIa6Y_rzz8DBB9b0Eg9_S_n2b3FGZCL1Lv5o1xsZDJ9XF-xwQ0NE1dgcmv2kmjl5Vg5xcHtk_AMGDjar0Z36XON8l5HWVQqbUSYSzKxGSaDPmFREaYCwQXhRuzTlqzCeDzeBS9sEerg8MW5Mj2URwF62Y1fEMOhdZrMe97tVP882EvdLI_WxPrkPjCdNw-S1TlVkwV_TA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/2bbad3ed44.mp4?token=AkjoVcwfxeqeocoa1d1_neAfCJPbzq_NMF-moiP3PD8hofFFtkqZdIewEUVBYugPKrkO7V8kMN9gpV8qH0u8X0yHB1477fj86DLmhwJzRHg7oZXj4VYwS4s8qADdE2k6iFD2C2QsCCr-l9eLI7F76RKATQgrsAfy8o1E3RxwSbo8McIDlClksnQVoZDGNZCabFk1KT7u2JnMRuelOqQ_sYHlckTq_usvHTo57WkwPAMrL8NsROmNjoKyGo0KKMQA9jyH0CeXRQvGYDw8jYzx3k-ZRQMdaAd62aSG3fBqYbyCtdoswpxp2nYo3f3yh00_kVJZkk7wETgdHH4Dk1DFJWvouFF7EmFEJHABJFnoEfOdF-_PI9y6HH9modsxE9J3oyAu65hbjW6JDPJ8UyQZKDpbqSr5fcL1maXuNrCNlXu7jcOvNiq7c4dLXqYYoGUs70HfQUsmeL0HSvf_AGvrMlWcWFDho9E9oaDIa6Y_rzz8DBB9b0Eg9_S_n2b3FGZCL1Lv5o1xsZDJ9XF-xwQ0NE1dgcmv2kmjl5Vg5xcHtk_AMGDjar0Z36XON8l5HWVQqbUSYSzKxGSaDPmFREaYCwQXhRuzTlqzCeDzeBS9sEerg8MW5Mj2URwF62Y1fEMOhdZrMe97tVP882EvdLI_WxPrkPjCdNw-S1TlVkwV_TA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-پشت‌صحنهٔ خبر بازگشت گلشیفته فراهانی
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/467326" target="_blank">📅 18:12 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467325">
-<div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-text">🎥
-نمایش دستاورد علمی ایران در درمان فلج مغزی کودکان برای اولین بار؛ سل‌تک فارمد نور امید را روشن کرد
-🔹
-همزمان با روز کودک، حدود ۲۰ خانواده از کودکان فلجِ تحت درمان سلول‌درمانی، در جشن «رویش امید» گرد هم آمدند تا روایتگر تغییرات و امیدهای تازه در مسیر درمان فرزندانشان باشند.
-🔹
-سلول‌درمانی، فناوری نوین پزشکی در لبه دانش جهانی است؛ عرصه‌ای که ایران با تولید ۲۰ محصول از حدود ۱۵۰ محصول سلول‌درمانی جهان، سهمی قابل‌توجه در آن دارد.
-🔹
-سل‌تک فارمد تنها سازنده داروی فلج مغزی کودکان در ایران است و ۳ محصول دیگر در زمینه درمان‌های پوستی و مفاصل دارد.
-@Farsna</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/467325" target="_blank">📅 18:11 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467324">
-<div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NpuzuAyofTSxBEa-wg83-2iLNMCcjmHcfF56VS6wcbmuoQmYwK8DRv8P3keJX59N5-ViuRlnyX-H72ZVK_OZdR5IQi5WCMFTMnJP2aA1pFcYIxJpyeFnwbuXPPRH5us_ZmIY1myc8tfqJsZ-tKN-ODtiALvXycP66A83qcYMXC8l5rP5V-HPhob3tTfYyVg4pLHZwRWMW_3Mji7_xTTTHrJA7QI5dd-duPChWMY5fKfy1qq9pCaKadP68tbBsqZcRBT5hzI0qlalzCXyGkp9uTGLrovpDghD3hZi2V9zeY4ObZi3Qlsjhf-t4iBui6x2MhOaSFhhYUsXbTUCqgDweA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">یار دبستانی اُپارک شروع شد!
-🎒
-💦
-شروع مدرسه رو با یه خاطره هیجان‌انگیز برای کوچولوها همراه کنید!
-🥳
-اُپارک به نوآموزان متولد سال‌های ۱۳۹۸، ۱۳۹۹ و ۱۴۰۰ یک بلیت هدیه می‌ده.
-🎁
-📅
-۴ تا ۳۰ مهر
-🎟️
-کافیه هنگام مراجعه، کارت شناسایی معتبر کودک رو همراه داشته باشید تا بلیت هدیه‌تون رو دریافت کنید.
-👇
-برای مشاهده شرایط کامل و اطلاعات بیشتر، همین حالا وارد لینک زیر شوید:
-🔗
-لینک</div>
-<div class="tg-footer">👁️ 9.59K · <a href="https://t.me/farsna/467324" target="_blank">📅 18:10 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467323">
-<div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-footer">👁️ 9.25K · <a href="https://t.me/farsna/467323" target="_blank">📅 18:09 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467322">
-<div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/opAbzu2Dye8yTUWjNYBMbMWJ2DymGScJTkRjBgvARkyzVk2MWou4r2L0H8-q8e0EFG9T5nwI8bS1pgJsXoW8qwzb2M-drGNHhz0lAFEt_Kq5omPRfmPmlK5k11VyZ0W6PQ7y6z-3_tQNfdfh_QKDCJqkAK1Iy1gtpqMT0AFIyKqk7XCmJDzHIeXr2US_wwXCP9MUSIHdcDLjIGAlBOGiHUU3rWeMK82ehMYpdo4dHYytonDlX0TnCAo5oAUoASepfBbeUH0l6r_DYosrzEj7MWjfuVf7z1cjzmlpI-IIYWWzEcO695E5y9MBK1k3b7p5WrbKRjXQYtdadN_stnhbCQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">هشدار مدیریت بحران به ۶ استان کشور دربارهٔ بارش شدید باران
-🔹
-مرکز مدیریت بحران کشور در پی صدور هشدار نارنجی هواشناسی برای روزهای ۱۸ و ۱۹ مهر، از استان‌های گیلان، مازندران، گلستان، خراسان شمالی، خراسان رضوی و سمنان خواست با تشکیل جلسات ستاد بحران، اقدامات پیشگیرانه را اجرا کنند و دستگاه‌های اجرایی و امدادی را برای مقابله با رگبار باران، رعدوبرق، وزش باد شدید و گردوخاک به آماده‌باش کامل درآورند.
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/467322" target="_blank">📅 17:59 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467321">
-<div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/r7qoKyfDccEwbvNtS5TqtZR_8MIAp8nOSLSrOdgOWfuezsDhITXaZZVP1cvmoJEtIbnVL1O6FAsBwjAIGlSblT00VFrpDyypN7XUtURI07j2twy_L2b8AeJOomjZ2Pr605ov0ZKb-XJuiVX8AVkN5qWvYR-mBmEX6vpiQc_7wZdXHEJShi8wJuG2qIldEZEMZulkTssIrpVIilNQlYpc6Y7NyeJoJHUQOMipYPxFsAyqe8r03eqMOE4hNdcjX-jaq_yJbFE3SXWXbsyWB3Dhq9nyWwg7ipvNB1_GI4a2cpqtKywTFAgSmy7isRX0W1cGNh5AxQiDK2OIJsjWaEYOZg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">واکنش سخنگوی وزارت خارجه به مواضع متناقض فرانسه دربارهٔ موضوع تسلیحات هسته‌ای
-🔹
-امانوئل ماکرون رئیس‌جمهور فرانسه به هنگام آزمایش یک موشک بالستیک دارای قابلیت حمل کلاهک هسته‌ای می‌گوید: «برای آزاد بودن باید ترسناک بود؛ و برای ترسناک بودن، باید قدرتمند بود.»
-🔹
-اما همین امانوئل ماکرون درباره ایران که از اساس دنبال سلاح هسته‌ای نبوده است، گفته: «ایران هرگز نباید صاحب سلاح هسته‌ای شود؛ نه امروز، نه پنج سال دیگر، نه ده سال دیگر؛ هرگز.»
-🔹
-مسئله این نیست که فرانسه چرا بازدارندگی هسته‌ای دارد؛ مسئله این است که چرا منطقی که برای فرانسه ضامن امنیت و آزادی است، درباره ایران، حتی در بحث از برنامه هسته‌ای صلح‌آمیز و تحت نظارت بین‌المللی، ناگهان به «تهدید» تبدیل می‌شود؟
-🔹
-واقعیت تلخ این است: آنها صلح را برای همه نمی‌خواهند؛ انحصارِ ترسناک بودن و مشروعیتِ ترساندن را می‌خواهند. خودشان باید قدرتمند و هسته‌ای و البته ترسناک بمانند و دیگران را حتی کشورهایی را که صرفا به دنبال انرژی صلح آمیز هسته‌ای هستند، با تصویر دروغین «تهدید هسته‌ای» محدود کنند.
-🔹
-صلحی که در آن قدرت‌های هسته‌ای، سلاح خود را ضامن آزادی و امنیت می‌دانند، اما همان منطق را برای دیگران تهدید می‌خوانند، نه صلح، که انحصار قدرت بر مبنای خودبرترپنداری است.
-🔹
-نظمی که برخورداری از امنیت و صلح را حق همگان نمی‌داند، بیش از آنکه حافظ صلح باشد، مشوق سیطره‌طلبی یک جمع خاص است.
-@Farsna</div>
-<div class="tg-footer">👁️ 9.57K · <a href="https://t.me/farsna/467321" target="_blank">📅 17:57 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467320">
-<div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6a3b26fd38.mp4?token=Z5356hTGDEr1o_aOsv0Yev9PFAe0GS6Zlfaf2HLgjtlxMDGQ5wJtn01nUQNVF41QuxsiZnMBcB5ZRc8GZ6t_pgoKIc5sKZTULXWfBGR8wO1WnVxODMEW5chP7bwGA_sDXD4n8cIXA2W517nxq4wtgsa3QaUPAsqOhEJvhOpj8US8D6TL4BBvu4ca0uBi_QpiePEDWKLAwl_vDDLzVR54LIciXhLOLjGinW7aInThoNxdmt_muD7wV6K8BoqAlxUhWMJLe3huuhKjCPWd6YNOKUHOwXzbNtXDeDNcSEgAIjIaRY1RdrYuIPZwhpn7X4a-nb_Xdqaq3j4_t6bGEd-mOA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/6a3b26fd38.mp4?token=Z5356hTGDEr1o_aOsv0Yev9PFAe0GS6Zlfaf2HLgjtlxMDGQ5wJtn01nUQNVF41QuxsiZnMBcB5ZRc8GZ6t_pgoKIc5sKZTULXWfBGR8wO1WnVxODMEW5chP7bwGA_sDXD4n8cIXA2W517nxq4wtgsa3QaUPAsqOhEJvhOpj8US8D6TL4BBvu4ca0uBi_QpiePEDWKLAwl_vDDLzVR54LIciXhLOLjGinW7aInThoNxdmt_muD7wV6K8BoqAlxUhWMJLe3huuhKjCPWd6YNOKUHOwXzbNtXDeDNcSEgAIjIaRY1RdrYuIPZwhpn7X4a-nb_Xdqaq3j4_t6bGEd-mOA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-پزشکیان پس از شرکت و سخنرانی در ۲ اجلاس سران کشورهای مشترک المنافع و اجلاس محیط‌زیستی خزر، ترکمن باشی را به مقصد تهران ترک کرد.
-@Farsna</div>
-<div class="tg-footer">👁️ 9.82K · <a href="https://t.me/farsna/467320" target="_blank">📅 17:51 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467319">
-<div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Af5WWh_l5Q8GitdfzK0EslFOUxJQqZdH43vHbUH_gMm8xDBFkj5pqXPkyKaGAyoe-NYXeVYOjPj46-E0Fb93Nsr7YqxPgmzIRzw4ADtTPBA9Rk8DuFT33_QYYMggSgsQHmYfuEhdvh7MVq71a5O7EDTNtIGW20dBHprWw_SA4U36_33Xi0waxa8uSOKL1_T_r9V-fTBLSrD6G02HaayadlR2nEouyfMpUHsPw7OdshEcZAP--yW0kubI608KrjJIAVzGlB-IekFXEE2v0Xa4HDehnZ4Bjnf-AgRnw1w67gRicnXAbbHNbkVGswW4lh6brZgtUOw-7aIkqKh7ENHupg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🔴
-انفجار در مسیر خودروی پلیس در زاهدان
-🔹
-دقایقی پیش یک بمب کنار جاده‌ای در مسیر حرکت یک دستگاه خودروی پلیس در چشمه زیارت زاهدان منفجر شد.
-🔹
-اخبار اولیه از جراحت چند نیروی پلیس در این حادثه حکایت دارد.
-📝
-اخبار تکمیلی متعاقبا منتشر میشود. @Farsna</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/467319" target="_blank">📅 17:44 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467317">
-<div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس بین‌الملل و سیاست خارجی</strong></div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/080ffd578f.mp4?token=CQOKx6FKELaCxnzM60SCg6myjZ13KqEpzKwOrP7BjeBcM6B1d7IT8BidfU2ORmKcrBHLuGnVZs3O2EWZdQLbYkgDaB47PsIKZUN-T-581xlQKNqo66oZ1IO_mtaGA2lSp6O0po7gISynKR5Tn-uU6ipi563IucR_j8gXM76hrHC2ZrZsdfFRx4ej4OdfYdmHEQRXxgp1b5gMx9uVs0Piljq3fdUIwrnk5DK4o69_-Ugsm-dVOGr6qEIN_CGkAFHIEOIqZlmFhWvnzzHcauFw5Tb7elL7F0aq9ivlM_vr-YjlU0ouKAl7oQ-Iw1GCpazEnhaMwYvmzvsNnTh4VTGtcQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/080ffd578f.mp4?token=CQOKx6FKELaCxnzM60SCg6myjZ13KqEpzKwOrP7BjeBcM6B1d7IT8BidfU2ORmKcrBHLuGnVZs3O2EWZdQLbYkgDaB47PsIKZUN-T-581xlQKNqo66oZ1IO_mtaGA2lSp6O0po7gISynKR5Tn-uU6ipi563IucR_j8gXM76hrHC2ZrZsdfFRx4ej4OdfYdmHEQRXxgp1b5gMx9uVs0Piljq3fdUIwrnk5DK4o69_-Ugsm-dVOGr6qEIN_CGkAFHIEOIqZlmFhWvnzzHcauFw5Tb7elL7F0aq9ivlM_vr-YjlU0ouKAl7oQ-Iw1GCpazEnhaMwYvmzvsNnTh4VTGtcQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-طوفان سهمگین در راه سواحل آمریکا؛ هشدار تخلیه در سه ایالت
-🔹
-مرکز ملی طوفان آمریکا اعلام کرد طوفان «ایسایاس»، قرار است شامگاه جمعه به وقت محلی در نزدیکی مرز ایالت‌های فلوریدا و آلاباما به سواحل آمریکا برسد، به یک طوفان بزرگ رده ۳ تبدیل شده و سرعت بادهای پایدار آن به حدود ۱۹۳ کیلومتر بر ساعت رسیده است.
-🔹
-بر اساس هشدارهای هواشناسی، وقوع قطعی گسترده برق، بالا آمدن سطح آب دریا تا حدود ۲.۷ متر و بارندگی تا ۳۸ سانتی‌متر در مناطق ساحلی محتمل است. همچنین احتمال شکل‌گیری گردبادهای ناگهانی وجود دارد که می‌تواند فرصت کمی برای واکنش و پناه‌گرفتن به ساکنان مناطق آسیب‌پذیر بدهد.
-🔹
-در پی نزدیک‌شدن این طوفان، در بخش‌هایی از ایالت‌های آلاباما، فلوریدا و جورجیا وضعیت اضطراری اعلام شده و دستور تخلیه برخی مناطق ساحلی در آلاباما و فلوریدا صادر شده است. مقام‌های محلی از ساکنان مناطق در معرض خطر خواسته‌اند هشدارها و دستورالعمل‌های ایمنی را جدی بگیرند.
-@FarsNewsInt</div>
-<div class="tg-footer">👁️ 9.51K · <a href="https://t.me/farsna/467317" target="_blank">📅 17:41 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467316">
-<div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qUb1SpiAXAYCrZtebekwzb8Stnrz_aCcSByaEXKG_Crxuy2qU_mv9_q35QG1HiFyLlhpEy3BFN4NUzN0o1yae-ExnhUjux9tLEkMYs9-4I1Xj_GthnXrOUAi4lDuWpbfWaz_Uki3FeiEwJ6E3F7LYNjtYNcKrPGfne92IR9z9049I8Y18Eo2FZvS1CFooHJrNvhLNeP_Gf-bp5LnScS7GpajINLgCxaAgCh1NTgEmNyCTyK6Z-bCsoyBNn7uOyK7QW05WhkAvq34z7gVmY6o5MSsPjl5tzjNM37Xya9Bi2UrbotRj9SWT6s2mwdmRgpzC9SDyt1kXmIZrgXczm0WUA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">بورس آمریکا اسیر هرمز
-🔹
-ریزش ارزش سهام شرکت‌های آمریکایی در سایهٔ تنش با ایران ادامه دارد.
-🔹
-مطابق آخرین داده‌ها، حدود ۷۰ درصد شرکت‌های بزرگ آمریکایی در ماه گذشته میلادی بازدهی منفی داشته‌اند.
-🔹
-افزایش تورم در اثر ادامهٔ تنش‌ها در منطقه و کاهش عرضهٔ نفت، شرکت‌های آمریکایی را با بحران مواجه کرده است و پیش‌بینی می‌شود این بحران به زودی دامن‌گیر شرکت‌های پیشرو بورس نیز بشود.
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/467316" target="_blank">📅 17:26 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467315">
-<div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-text">ترکمنستان چه می‌خواهد و گلستان چه دارد؟
-🔹
-ترکمنستان سالانه میلیاردها دلار کالا وارد می‌کند؛ و سوال اینجاست سهم گلستان به عنوان همسایه اصلی مرزی از این بازار چقدر است؟
-🔹
-ترکمنستان در سال ۲۰۲۵ بیش از ۵.۱ میلیارد دلار واردات داشته، در حالی که گلستان در همین سال ۴۸۱.۷ میلیون دلار کالا به ۲۸ کشور صادر کرده است. لوله و محصولات فولادی، فرآورده‌های پلیمری و محصولات غذایی، بخشی از ظرفیت صادراتی استان برای حضور در بازار همسایه شمالی است.
-🔹
-اما نکته اینجاست که ظرفیت به‌تنهایی کافی نیست؛ رقابت قیمتی، کیفیت، بسته‌بندی و حرکت از خام‌فروشی به سمت محصولات فرآوری‌شده، شرط ماندگاری در این بازار است. کارشناسان نیز بر ضرورت شناخت دقیق کالا، خریدار، قیمت و مسیر صادرات تأکید دارد که اینچه‌برون می‌تواند دروازه ورود کالاهای گلستان به بازار آسیای مرکزی باشد.
-🔸
-اکنون سفر پزشکیان به عشق‌آباد و اکسپو ۲۰۲۶ گرگان فرصتی است تا دیپلماسی اقتصادی از تفاهم‌نامه عبور کند و به قراردادهای واقعی، سرمایه‌گذاری و اشتغال برسد.
-🔸
-مسئله گلستان کمبود ظرفیت نیست؛ مسئله، تبدیل این ظرفیت‌ها به سهمی واقعی از بازار ترکمنستان است.
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/467315" target="_blank">📅 17:15 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467314">
-<div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-text">🔴
-تداوم حملات هوایی عربستان به پایتخت یمن
-🔹
-شبکهٔ خبری المیادین از ۱۰ حملهٔ هوایی عربستان به جنوب صنعا پایخت یمن گزارش داد.
-🔹
-المیادین گفت که در این حملات، شبکهٔ مخابرات هدف قرار گرفته است. @Farsna</div>
-<div class="tg-footer">👁️ 9.65K · <a href="https://t.me/farsna/467314" target="_blank">📅 17:13 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467313">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/1104e3f811.mp4?token=ti8bss-axaTxHSUhClOeQiZGzxrA_XquTBZg9euC_1XLhGJGm7t_5a8EpUCqSX_wunrpUVyAhTk6a6gzt01te2ClBtw9hXhFBCmmmnF3a5FBTwB5PVycVrvKZf-N353hPIUzFweVChefD3TodFbFsalhr7bG42KQrXQ2yO8ijPqyua2E_aj7s0xLckX7q5Zv8g2JFvEpKNCjkVr40JLVEKXe9dUj9ESQEujvWdTjW1GNuhmpU46r4guJCMfdWHWXS5kXlLbaOO02R8TPnEFE3SIkzLKUEQ37CZC0_wqwn41waHyywzyeO_NMRGWGbaZ6umvkXXZiVkENTUndwqvNRA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/1104e3f811.mp4?token=ti8bss-axaTxHSUhClOeQiZGzxrA_XquTBZg9euC_1XLhGJGm7t_5a8EpUCqSX_wunrpUVyAhTk6a6gzt01te2ClBtw9hXhFBCmmmnF3a5FBTwB5PVycVrvKZf-N353hPIUzFweVChefD3TodFbFsalhr7bG42KQrXQ2yO8ijPqyua2E_aj7s0xLckX7q5Zv8g2JFvEpKNCjkVr40JLVEKXe9dUj9ESQEujvWdTjW1GNuhmpU46r4guJCMfdWHWXS5kXlLbaOO02R8TPnEFE3SIkzLKUEQ37CZC0_wqwn41waHyywzyeO_NMRGWGbaZ6umvkXXZiVkENTUndwqvNRA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-گل اول پرسپولیس توسط بیفوما در دقیقه ۴
-⚽️
-پرسپولیس ۱ - ۰ صنعت نفت
-@Farsna</div>
-<div class="tg-footer">👁️ 9.82K · <a href="https://t.me/farsna/467313" target="_blank">📅 17:09 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467312">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YwXopFHhK0t_xhd3Pz2e9vobjU75MCvp9HBxWp_zux3M-egBvtJpDKD_sGER06Wojki9j2wDc6rGTeJmGCUKO9xfksJFLb6n669k_TE0IYhcWp_LhoT7TN0VE4DJ-xNRirOS2R6Oq-MLcgblW1jQK6r5n88FJS_NVBIRwcgEPYX7xPJa6iwJLFNVX0Ccu1KyundnAIhGKRUlIbUM1C8pVN0ED9kaeoxrSUWXCGxYFoTncmPIIDzAFDC7_hsXGI_ieyafVYk0Xz2P_ji3vmxpbgUa3nU3ESDDO2RKhOCkFuYqXvGQWhvhgo2WTDtv0nq1I5plvBohgUdg8tjEou7pbw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">آیا پزشکیان در عشق‌آباد برگ برنده را رو می‌کند؟
-🔹
-سفر رئیس‌جمهور ایران به ترکمنستان، فراتر از دیدارهای دیپلماتیک و گفت‌وگوهای معمول، می‌تواند فرصتی برای بازتعریف روابط دو همسایه باشد؛ فرصتی که اگر با تصمیم‌های عملی همراه شود، معادلات منطقه و به ویژه شمال کشور را تحت تأثیر قرار می‌دهد. اما سؤال اصلی اینجاست: آیا این سفر می‌تواند به نقطه عطفی در همکاری‌های اقتصادی ایران و ترکمنستان تبدیل شود؟
-🔹
-استان گلستان به واسطه موقعیت جغرافیایی، مرز مشترک با ترکمنستان و پیوندهای تاریخی و فرهنگی و قومی ظرفیت‌هایی دارد که هنوز تمام ابعاد آن در مناسبات دوجانبه ایران و ترکمنستان به کار گرفته نشده است. در این میان، نسبت میان ظرفیت‌های موجود و آنچه تاکنون در میدان عمل محقق شده، پرسشی جدی پیش روی سیاست‌گذاران قرار می‌دهد.
-🔹
-تجربه همکاری‌های منطقه‌ای نشان می‌دهد که همسایگی به‌تنهایی مزیت اقتصادی نمی‌سازد؛ آنچه اهمیت دارد، تبدیل ظرفیت‌های جغرافیایی به سازوکارهای پایدار برای همکاری‌های مشترک است. از همین منظر، دیدگاه کارشناسان درباره آینده روابط دو کشور و الزامات عبور از توافق‌های روی کاغذ، اهمیت ویژه‌ای پیدا می‌کند.
-🔹
-ایده منطقهٔ آزاد تجاری اینچه برون _ آلتین‌عصر همان نقطهٔ عطفی است که می‌تواند پایه گذار روابط نوین این ۲ کشور همسایه و تحقق اتصال واقعی ایران به بازار ۲۲۰ میلیونی آسیای میانه باشد.
-🔸
-اکنون نگاه‌ها به نتایج این سفر و تصمیم‌هایی دوخته شده که می‌تواند مسیر آینده همکاری‌های تهران و عشق‌آباد را مشخص کند؛ تصمیم‌هایی که آثار آن، در صورت تحقق، محدود به روابط دیپلماتیک نخواهد ماند.
-🖼
-سوال اصلی همچنان این است: آیا این بار پزشکیان برگ‌برنده را رو می‌کند؟
-اینجا
-بخوانید.
-@Farsna</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/467312" target="_blank">📅 16:56 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467311">
-<div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/4c2f4c6813.mp4?token=HFVWAzVII86HxM7Uqc0Py3Suu2g-HJaPiQy7cWzxzyHutGylEV9IQjIDQM4LsZrHA99qzk-ElE_B4LkEjj9GYtyAZdwy_yZBbFy8ZRA025PVB0k6RbxxVTb-TXj-ztbjBlQdt0MV54fVqPDLM3Nv9o9xmTVjJa2YGZsQLNm-dwhYVtmfNyuG4vJbnsWVYuDAAPlDlHEYP7A4PtMiGiW07DKHujix6SYpWkeh3hcF1QAGeP1zP-OgdBmesEF8Sz7rSdT0hjwxr4dBloO2wCqJeS9NEEEJ496WRQVCoatiRwqEmGSvIaLV0AjV8HLD79Gcf7NRvFNopO_56oLMnlUZTDKvTcWcdsNHBAn6shIa74H_XtE6x46N6Vr0iSBApZgD_rQ7K5Is-tyVAyYy0wjoUx6JmyFcFTAghCzXuddIdODvNiLhe9qGc7CrFcorypNuQ5fnCgYamqaY34dNf4tzeguSNmLoi-nPcy-l7hnQ3mmXrP0hIGc3bf2LTnz9Ez5N3EEJBWs5AB0-s_zAJX3IWsLH-elrtOExEaz3hoBQx60NWYzx6YIRevi0I_ihTeHxm4rimSAnQCMqIPhzfcZ8EpCG15ULCy_9IXmhyRKJqwtEBH0kvAkqyYc3H-zcZvTgpKn6iV1NOuTQlEqhG2UjkQMtezEo8zhaRtsmuEIdL2o" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/4c2f4c6813.mp4?token=HFVWAzVII86HxM7Uqc0Py3Suu2g-HJaPiQy7cWzxzyHutGylEV9IQjIDQM4LsZrHA99qzk-ElE_B4LkEjj9GYtyAZdwy_yZBbFy8ZRA025PVB0k6RbxxVTb-TXj-ztbjBlQdt0MV54fVqPDLM3Nv9o9xmTVjJa2YGZsQLNm-dwhYVtmfNyuG4vJbnsWVYuDAAPlDlHEYP7A4PtMiGiW07DKHujix6SYpWkeh3hcF1QAGeP1zP-OgdBmesEF8Sz7rSdT0hjwxr4dBloO2wCqJeS9NEEEJ496WRQVCoatiRwqEmGSvIaLV0AjV8HLD79Gcf7NRvFNopO_56oLMnlUZTDKvTcWcdsNHBAn6shIa74H_XtE6x46N6Vr0iSBApZgD_rQ7K5Is-tyVAyYy0wjoUx6JmyFcFTAghCzXuddIdODvNiLhe9qGc7CrFcorypNuQ5fnCgYamqaY34dNf4tzeguSNmLoi-nPcy-l7hnQ3mmXrP0hIGc3bf2LTnz9Ez5N3EEJBWs5AB0-s_zAJX3IWsLH-elrtOExEaz3hoBQx60NWYzx6YIRevi0I_ihTeHxm4rimSAnQCMqIPhzfcZ8EpCG15ULCy_9IXmhyRKJqwtEBH0kvAkqyYc3H-zcZvTgpKn6iV1NOuTQlEqhG2UjkQMtezEo8zhaRtsmuEIdL2o" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-پزشکیان: گفتگو زمانی کاربرد دارد که در سایهٔ زور نباشد  @Farsna</div>
-<div class="tg-footer">👁️ 8.73K · <a href="https://t.me/farsna/467311" target="_blank">📅 16:55 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467310">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-text">🔴
-تداوم حملات هوایی عربستان به پایتخت یمن
-🔹
-شبکهٔ خبری المیادین از ۱۰ حملهٔ هوایی عربستان به جنوب صنعا پایخت یمن گزارش داد.
-🔹
-المیادین گفت که در این حملات، شبکهٔ مخابرات هدف قرار گرفته است.
-@Farsna</div>
-<div class="tg-footer">👁️ 9.35K · <a href="https://t.me/farsna/467310" target="_blank">📅 16:44 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467309">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-text">🔴
-انفجار در مسیر خودروی پلیس در زاهدان
-🔹
-دقایقی پیش یک بمب کنار جاده‌ای در مسیر حرکت یک دستگاه خودروی پلیس در چشمه زیارت زاهدان منفجر شد.
-🔹
-اخبار اولیه از جراحت چند نیروی پلیس در این حادثه حکایت دارد.
-📝
-اخبار تکمیلی متعاقبا منتشر میشود.
-@Farsna</div>
-<div class="tg-footer">👁️ 9.57K · <a href="https://t.me/farsna/467309" target="_blank">📅 16:42 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467308">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Gqr448du8Ll0E7aQApBo83cPlBh6bbKg9vCvTXqf7pS0swunF8LAKAt8DWQfUybREOQm5CoUwxG_qjR1PVmcdKVej-F3kitSVMSTrEYX-ECXtHTKeuoK0P22wRz68v22-zWOLp9lzJ3mwDLVmoJcoaKxchv7gtsYrJSrcwHoktkq1Km2RB56e4gztu-UMuUjjlRC842Mx5wtbMe3VahLeqHCBBcgf0UsrW361W22Fzhy2bUDumPHZdVDFmg-K52hthXD9QrD46xWILQze1GTNXdJ-dgo-ZNrtvpQ3_1IAUmmywlUUNzQPxP5GLd-O-GfP_kI1r7U09ze1J9kQ6jR3w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🔴
-گزارش حمله به یک کشتی در خلیج فارس
-🔹
-سازمان عملیات تجارت دریایی انگلیس (UKMTO) از وقوع یک حادثه‌ امنیتی برای یک کشتی در فاصله ۱۳ مایل دریایی غرب منطقه الجزیره امارات خبر داد.
-🔹
-این سازمان اعلام کرد که بر اساس گزارش‌های دریافتی از چند منبع، این شناور در حال عبور از مسیر خروجی، هدف اصابت یک پرتابه ناشناس قرار گرفته که در پی آن آتش‌سوزی رخ داده است.
-🔹
-به ادعای این نهاد، آتش‌سوزی مهار شده اما وضعیت خدمه، میزان خسارات وارده به شناور و پیامدهای احتمالی زیست‌محیطی این حادثه همچنان مشخص نیست.
-@Farsna</div>
-<div class="tg-footer">👁️ 9.32K · <a href="https://t.me/farsna/467308" target="_blank">📅 16:41 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467301">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/NgXFGHW13unDH2Dds_3CCf6kpvIKbwhnL5Q4DVbSQG_X90Ul_lkk6VTGlHFc5qllab42zIufZX2u-oJ4nFssUdf12TnGRJqc-U3dXatKfktbf9znWPlLReC93tUZPmIUDD67eLqBUidCFFDFSDkVCw3TCW5OQr0wBGLGJ4PYrltqFbuudXtLPVxlKywGykaIlJtHowNWh8GGluk2uT2FRGW4mUXqSpK_OXdpDo6w0sf5UXPo_BsE2Y-hYZDudnGib3mxXgxr-4jPC3i9zVl3SN9wiQwwTqM_5FCJapKA3-bIIRs4eq8UF6GEd_fzKoWyBy_h3ixodX_YF70YlEXzZw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/qqTfc8-8w0CVynehHQzxr3yrQDEsYBXgFElD8uW9JDep2NumpQfdoUFcjO-mcrk1vyjx0UhQ22m6uqWksSF14mu4yPmOs_fS44R2cFbow-0aVD7Kzk28zBi6ZzxQ2HSBggOPGI4y7xIoWinm4LuPQg_b0wSPAx0SfSuI84N0JRVmVBTvLJZbnDaJW4ITEI4EwVXMOZMqeneLMr19NY4_ndJtYcBacdBAXoJjhlroVNSClsP9cQQ5vupB5K7jFHgpN9uTGZ1P4FBczrRIQTfpqg3q1DbxbMj9hGJFmcV_uUixgZbE8qdghzGoE8Inm4MYgXFcQaWcX859xv-yoMJo5g.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/PrT4XrVecjBxbe1zu6Yu4RGh_RwpoeKpz6zUUt48ZwZTbLJP4MgzGAhHNtWrODvHPho35pDIYJQa15La1JTVpjg252aEAxfjtDbvX8IpdNgr2Z--j_WDtRnA86Y2XWQCEkfpGRkrYPMfvI9CTOrU6k18YEEOXzh_zx5FUdQyqw70xbVgIrHhgMGnTp7a6EePlZRCn-UrYYdpb92-kG1xnYMEnk5Xf0A3i3ZGzRFM1WVqaMGZjKNY6sTEw5PV5XQ7W7sclpk-hFSc2ggwfTAvOhwUJRTAlTrYgaZof8fBmic8-Gb-KIaUi8sNh0YoRjeIFLe4ZHe3e4F-CkLPEQIkKA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/lUuLR5Wdbdn4lOBAYKIRW_KYPUogB6xwHVnuQb-LakxQdN68yY2eKCkqKongiW91N6Yf8IqrN47Ywbep3ZG0KZdS96XMVyyyhiSTuHYiqLTwNxPBAw4qvm6S3yOcq2D6dwSkPLSn8-UOu5sGeDyAMKRc-FspS_Aw0zOxDADxf2JOPpj5WOGl_EalqMIC3mG6_S5f0yx1-KN4TepXfTLQQT86k0Y3IXArnZVNErHBxb2NqUlLH5vjN5Z0bO6UwpayGn0ypapDMMv8ioEnOXn-TN4AifhwzHtt63pMY14soWhQg5R7A3wM_fDx_c7houbkqADzhoj4ECEO3TX48yHqfg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/FXx-LY-tWppxxzWWCBnl-aRXoHGRl-Bvi5iG-SGLAMVPai_NRgiWbwYLiZdVvfFCvRyA7PgPktTNuJ9k1C_qWbgItxFlpfXm8uui3-GuZmU-M-waE2UtHSxjyN3tjg4vYmwp-4NODGJEOoBPiF7chyRwXavhSPVGdLrlKU3jUllcLtZKxiUQHybFrDTrriGmdSMGGBt_kw1IZ4FsYFRtWlHZyaHXwKO4V5g4wzwAww9nUKSqvgRGw1PExI-tuFztpMOrRhEYPJfTUQWGZJ-_AEgcjm7lPIv3OsHpQuPROy2Ygpa080HXXlBY7PNBOWiF6mH63kDVY-nyGxLAO3CJig.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/oUx30wr8x-UeBBS_SHWHHXIRhRucVjZsb0F7KZuAwz_fWtjKA4hNfRkdgVlvKBvU9X_riZ1nZcpOAC0-_z_3ze-8QgBz3-EcDeGQ-P5u4ACw-soFRETPxd3I8hbSrwlTc9U1vWawNsDbUFoRn898sFOD6VeD5UGgbfn2QfPaY2EmBwWjgkm7NxzFm_LbOGWj_FC2ggIbpU6cOXceoN7BvtqMYRrkSWsrWXQkQbogObStsgBRew7Dv1ZLrwmESz2NUFrjGMtUqj5qdkcdHU2FlN23fSg4GZsRygSJsP7q6RUTfWpOkVsK-HNgi2Ok4f5JHDX2TE-ORKDbmuoNFSoU-Q.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/kyUxNX_nodrV_jNaVWhqbQ56MVFguuJq-YnU--22Z23uU6xFjWUzpr6W9qEYkVHtWx09soNIvlLjBm-lrpWvbDZMppiyZEJhW4hE7-tAgpfVZFw9PFkX-CDVyZ2YdGeXhfk_cih32DSDkBwBVFoE-Fn8F6pQFgLWiEz6hlugcSNZcP26h9ZaoAaLv5M-GQUqLEnLYnindLPxl5r0ww-RKMAyOC5aDoX6PjJM0zRG7CiWAfoGM0N0e9bzOOokOYqGGwCrsLKiZPqagt2tOjdzhtJHcDeQdXPxYeQdBMETSTIqX7KsWH5lapJZLlDR2TW-6yZj4l6cFjVJyEzHUrlZAw.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">‌ خطیب جمعهٔ تهران: تنگهٔ هرمز تا تحقق کامل شروط ایران باز نخواهد شد
-🔹
-حجت‌الاسلام والمسلمین حاج علی‌اکبری: ایران شروط هفت‌گانهٔ خود را اعلام کرده و پس از تحقق آن‌ها درباره اقدامات بعدی تصمیم خواهد گرفت. وی افزود تنگهٔ هرمز تا زمان تحقق شروط ایران باز نخواهد…</div>
-<div class="tg-footer">👁️ 9.89K · <a href="https://t.me/farsna/467301" target="_blank">📅 16:34 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467300">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WmJm3wc9IXVAwYKhSVpea3k_GxrAOoWCfjsxsP3dxWXtpF0V3NNPccQye2PBhAq0Gfy4WxLHOVSkGY1k35HWPXQ8XQYFXgHI21L5SYlzW9oe7mTByKv5n1oLtd37JfgQYo8_HjRJrO1vXTOiS3VilgwYQ6W49Z4Xw7vo8HaNqCcJSjs5ZCmC_yjr5AfbI1Dq8eJd7nC62-coSGjx7wHurDdVVPbb_WeDGotj8p5TBCpu02ahitU-tgNtiQC8-RQdvWq1-DSSGZ19_IOEGUbJVkoWuElWdcKr16MV4c2CGebIVdYSwPL8cSfT6fmntJp1jVwWTqZVhoY4gldRvUS4_g.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🔴
-شرط یمن برای پروازهای فرودگاه ریاض
-🔹
-یحیی سریع سخنگوی نیروهای مسلح یمن امروز گفت فقط پروازهای بشردوستانه‌ای می‌تواند به فرودگاه ریاض صورت گیرد که مجوز پرواز را از مرکز هماهنگی عملیات بشردوستانه در صنعا دریافت کرده باشند.
-@Farsna</div>
-<div class="tg-footer">👁️ 9.04K · <a href="https://t.me/farsna/467300" target="_blank">📅 16:28 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467299">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pjQNRzHNRTTQZJV-yiyJx0wQfYSvuPi79Qv42bu2yPzPhPKbMggbrx8d6gNaidq8wbwl2gk7_zD4aPfIB7Sq1um0xPiKGllV-acIamKgrAqvn8-tueL6tn-wqgZJqhIBvXJvu6aEdWOzEEAV8yPUoXtpsPHbqHffAWk99fNm3UtHiKxSOgE512-3TOTmCraVvYO6PtYejOtb0kuEIv7zGNSxhYHcKzrc3sTzenneZ6bji2a2S37Kzxg2jE1MPCtwe87mQrSf1iV9IAGQ0q3ERJScO9YO7JkILaHALP8nDX0IJvSGh59QB7FaoxYGgAlYIU64BIXOD4P6X9BdHw3McQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🖼
-تصویر حکم تنفیذ دورهٔ اول ریاست‌جمهوری حضرت آیت‌الله شهید خامنه‌ای از سوی حضرت امام خمینی(ره)؛ ۱۷ مهر ۱۳۶۰
-@Farsna</div>
-<div class="tg-footer">👁️ 8.91K · <a href="https://t.me/farsna/467299" target="_blank">📅 16:26 · 17 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-467298">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">🔴
-وقوع چند انفجار در اربیل
-🔹
-منابع خبری امروز از شنیده شدن صدای چندین انفجار در اربیل خبر دادند.
-🔹
-هنوز علت انفجارها مشخص نیست.
-@Farsna</div>
-<div class="tg-footer">👁️ 8.87K · <a href="https://t.me/farsna/467298" target="_blank">📅 16:20 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/farsna/467362" target="_blank">📅 21:39 · 17 Mehr 1405</a></div>
 </div>
 
 <hr>
