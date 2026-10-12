@@ -292,7 +292,7 @@
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-20 01:40:53</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-20 04:57:01</div>
 <hr>
 
 <div class="tg-post" id="msg-108374">
@@ -312,7 +312,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 1.4K · <a href="https://t.me/Futball180TV/108374" target="_blank">📅 01:16 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 2.99K · <a href="https://t.me/Futball180TV/108374" target="_blank">📅 01:16 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108373">
@@ -344,12 +344,12 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 1.43K · <a href="https://t.me/Futball180TV/108373" target="_blank">📅 01:16 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 3.06K · <a href="https://t.me/Futball180TV/108373" target="_blank">📅 01:16 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108372">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-footer">👁️ 1.42K · <a href="https://t.me/Futball180TV/108372" target="_blank">📅 01:16 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 2.97K · <a href="https://t.me/Futball180TV/108372" target="_blank">📅 01:16 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108371">
@@ -362,7 +362,7 @@ T.me/TrexBet_Ir</div>
 استوری یاسر آسانی خطاب به حبیب فرعباسی: داداش رقیبت برات پیدا شد!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 2.66K · <a href="https://t.me/Futball180TV/108371" target="_blank">📅 01:10 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/Futball180TV/108371" target="_blank">📅 01:10 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108370">
@@ -376,7 +376,7 @@ T.me/TrexBet_Ir</div>
 : زنوزی با وقت و پولی که برای بیرانوند گذاشت میتونست ۱۰ تا کارخونه جدید بزنه ولی یه آدم بیشعور فکر میکنه همه‌چیز پوله و اینجوری تیم رو به حاشیه میبره!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/Futball180TV/108370" target="_blank">📅 00:44 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 6.54K · <a href="https://t.me/Futball180TV/108370" target="_blank">📅 00:44 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108369">
@@ -386,7 +386,7 @@ T.me/TrexBet_Ir</div>
 تصویری از یاسر‌آسانی در تمرین امشب استقلال پیش از بازی با الغرافه قطر
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.06K · <a href="https://t.me/Futball180TV/108369" target="_blank">📅 00:23 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.14K · <a href="https://t.me/Futball180TV/108369" target="_blank">📅 00:23 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108368">
@@ -396,7 +396,7 @@ T.me/TrexBet_Ir</div>
 لحظه اصابت موشک حوثی‌های یمن به ترمینال شماره ۳ فرودگاه ملک خالد ریاض که روز گذشته موجب کشته شدن ۱۳ نفر و زخمی شدن بیش از ۳۰۰ نفر شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/Futball180TV/108368" target="_blank">📅 00:01 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/Futball180TV/108368" target="_blank">📅 00:01 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108367">
@@ -408,7 +408,7 @@ T.me/TrexBet_Ir</div>
 محمدرضا زنوزی مالک تراکتور: از طریق فیفا و CAS پیگیری خواهیم کرد که چرا استقلال با پرواز مستقیم راهی قطر شد ولی تیم ما با ۱۸ ساعت سفر به عمان رسید!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/Futball180TV/108367" target="_blank">📅 23:09 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/108367" target="_blank">📅 23:09 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108366">
@@ -420,7 +420,7 @@ T.me/TrexBet_Ir</div>
 محمدرضا زنوزی مالک تراکتور: از طریق فیفا و CAS پیگیری خواهیم کرد که چرا استقلال با پرواز مستقیم راهی قطر شد ولی تیم ما با ۱۸ ساعت سفر به عمان رسید!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/108366" target="_blank">📅 22:57 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/108366" target="_blank">📅 22:57 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108365">
@@ -433,7 +433,7 @@ T.me/TrexBet_Ir</div>
 محمدرضا زنوزی مالک تراکتور: از طریق فیفا و CAS پیگیری خواهیم کرد که چرا استقلال با پرواز مستقیم راهی قطر شد ولی تیم ما با ۱۸ ساعت سفر به عمان رسید!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/108365" target="_blank">📅 22:55 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/108365" target="_blank">📅 22:55 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108364">
@@ -446,7 +446,7 @@ T.me/TrexBet_Ir</div>
 ترکیب بارسا اخرین بار جلو گالاتاسرای
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/108364" target="_blank">📅 22:25 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/108364" target="_blank">📅 22:25 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108363">
@@ -458,7 +458,7 @@ T.me/TrexBet_Ir</div>
 جدول لالیگا بعد برد امشب بتیس و سقوط رئال‌مادرید به جایگاه چهارم جدول
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/108363" target="_blank">📅 22:04 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/108363" target="_blank">📅 22:04 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108362">
@@ -474,7 +474,7 @@ T.me/TrexBet_Ir</div>
 یک پیجی تو اینستا هست کلا یارو با یک بیلبیلک میزنه به مانیتور و نسبت به دروازه‌خالی خراب کردن بازیکنا عکس العمل نشون میده..یک کلامم حرف نمیزنه..انقدرم بامزه انجام میده که میترکی‌ از خنده..خیلی هنرمنده
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/108362" target="_blank">📅 21:54 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/108362" target="_blank">📅 21:54 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108361">
@@ -484,7 +484,7 @@ T.me/TrexBet_Ir</div>
 گل‌سوم منچسترسیتی به لیورپول توسط چرکی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/108361" target="_blank">📅 20:52 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/108361" target="_blank">📅 20:52 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108360">
@@ -500,7 +500,7 @@ T.me/TrexBet_Ir</div>
 گل‌سوم منچسترسیتی به لیورپول توسط چرکی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/108360" target="_blank">📅 20:46 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/108360" target="_blank">📅 20:46 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108359">
@@ -515,7 +515,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">سوپرگل دوم منچسترسیتی به لیورپول توسط دوکو
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/108359" target="_blank">📅 20:30 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/108359" target="_blank">📅 20:30 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108358">
@@ -531,7 +531,7 @@ T.me/TrexBet_Ir</div>
 گل‌اول منچسترسیتی به لیورپول توسط هالند
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/108358" target="_blank">📅 20:30 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/108358" target="_blank">📅 20:30 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108357">
@@ -550,7 +550,7 @@ T.me/TrexBet_Ir</div>
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/108357" target="_blank">📅 20:05 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/108357" target="_blank">📅 20:05 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108356">
@@ -566,7 +566,7 @@ T.me/TrexBet_Ir</div>
 محمد ربیعی: سرمربی تیم ملی امید نمیشم.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/108356" target="_blank">📅 19:52 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/108356" target="_blank">📅 19:52 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108355">
@@ -583,7 +583,7 @@ T.me/TrexBet_Ir</div>
 رختکن شیاطین‌سرخ بعد بازی دیشب:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/108355" target="_blank">📅 19:33 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/108355" target="_blank">📅 19:33 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108354">
@@ -602,7 +602,7 @@ T.me/TrexBet_Ir</div>
 🥶
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/108354" target="_blank">📅 19:03 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/108354" target="_blank">📅 19:03 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108353">
@@ -611,7 +611,7 @@ T.me/TrexBet_Ir</div>
 ترویج گل‌زدن در صداوسیما و مرد سه‌هزارچهره
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/108353" target="_blank">📅 18:33 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/108353" target="_blank">📅 18:33 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108352">
@@ -621,7 +621,7 @@ T.me/TrexBet_Ir</div>
 کلارنس‌سیدورف از شاهکارهای مدیریتی تاجرنیا که به مدت چند ماه بدون هیچ کاری چند میلیون یورو از استقلال دریافت کرد و از ایران رفت، سرمربی کورنتیانس برزیل شد!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/108352" target="_blank">📅 18:09 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/108352" target="_blank">📅 18:09 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108350">
@@ -638,7 +638,7 @@ T.me/TrexBet_Ir</div>
 ساعت ۱۹
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/108350" target="_blank">📅 18:02 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/108350" target="_blank">📅 18:02 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108349">
@@ -648,7 +648,7 @@ T.me/TrexBet_Ir</div>
 مسیر سفر گل‌گهر از سیرجان تا بحرین را مشاهده می‌کنید. پرواز از سیرجان به تهران، از تهران به نجف، از نجف به بغداد با اتوبوس، از بغداد به مسقط عمان، از عمان به منامه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/108349" target="_blank">📅 17:46 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/108349" target="_blank">📅 17:46 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108348">
@@ -665,7 +665,7 @@ T.me/TrexBet_Ir</div>
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/108348" target="_blank">📅 17:43 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/108348" target="_blank">📅 17:43 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108347">
@@ -685,7 +685,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/Futball180TV/108347" target="_blank">📅 17:43 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/Futball180TV/108347" target="_blank">📅 17:43 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108346">
@@ -715,7 +715,7 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/108346" target="_blank">📅 17:43 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/Futball180TV/108346" target="_blank">📅 17:43 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108345">
@@ -732,7 +732,7 @@ T.me/TrexBet_Ir</div>
 🤣
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/108345" target="_blank">📅 17:20 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/108345" target="_blank">📅 17:20 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108344">
@@ -748,7 +748,7 @@ T.me/TrexBet_Ir</div>
 رونالدو این‌روزها کلا اعصاب و حوصله نداره!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/108344" target="_blank">📅 16:55 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/108344" target="_blank">📅 16:55 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108343">
@@ -760,7 +760,7 @@ T.me/TrexBet_Ir</div>
 با اصرار یاسر‌آسانی، پزشکان استقلال تا ساعاتی‌دیگر تست پزشکی از این بازیکن خواهد گرفت و در صورت بهبود نسبی امکان حضور کوتاه مدت مقابل الغرافه وجود دارد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/108343" target="_blank">📅 15:56 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/108343" target="_blank">📅 15:56 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108342">
@@ -772,7 +772,7 @@ T.me/TrexBet_Ir</div>
 وینیسیوس جونیور: من فقط قصد مرتب کردن موهای بازیکن ویارئال را داشتم ولی نمی‌دانم چرا کارت قرمز به من داده شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/108342" target="_blank">📅 15:45 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/108342" target="_blank">📅 15:45 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108341">
@@ -790,7 +790,7 @@ T.me/TrexBet_Ir</div>
 63 برد منچسترسیتی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/108341" target="_blank">📅 15:44 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/108341" target="_blank">📅 15:44 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108340">
@@ -807,7 +807,7 @@ T.me/TrexBet_Ir</div>
 واکنش مهدی توتونچی به مصاحبه علیرضا بیرانوند پس از بازی با استقلال!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/108340" target="_blank">📅 14:25 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/108340" target="_blank">📅 14:25 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108339">
@@ -824,7 +824,7 @@ T.me/TrexBet_Ir</div>
 😆
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/108339" target="_blank">📅 14:01 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/108339" target="_blank">📅 14:01 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108338">
@@ -841,7 +841,7 @@ T.me/TrexBet_Ir</div>
 واکنش گلزار به ساخت کلیپ‌های هوش مصنوعی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/108338" target="_blank">📅 13:35 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/108338" target="_blank">📅 13:35 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108337">
@@ -851,7 +851,7 @@ T.me/TrexBet_Ir</div>
 پوستر باشگاه استقلال ایران برای بازی الغرافه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/108337" target="_blank">📅 13:17 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/Futball180TV/108337" target="_blank">📅 13:17 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108336">
@@ -868,7 +868,7 @@ T.me/TrexBet_Ir</div>
 تذکر تند رضا گلزار به قیاسی درباره ایرج طهماسب؛ گلزار با تاکید بر جایگاه طهماسب به‌عنوان یکی از چهره‌های باسابقه و پیشکسوت سینما، از نحوه صحبت قیاسی درباره او انتقاد کرد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/108336" target="_blank">📅 13:10 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/108336" target="_blank">📅 13:10 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108335">
@@ -884,7 +884,7 @@ T.me/TrexBet_Ir</div>
 🙁
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/108335" target="_blank">📅 12:59 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/108335" target="_blank">📅 12:59 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108334">
@@ -895,7 +895,7 @@ T.me/TrexBet_Ir</div>
 پوستر الغرافه قطر برای بازی با استقلال
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/108334" target="_blank">📅 12:56 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/108334" target="_blank">📅 12:56 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108333">
@@ -907,7 +907,7 @@ T.me/TrexBet_Ir</div>
 پشت پرده دستگیری مهدی طارمی و سروش رفیعی در جاده شمال؛ رویانیان ۱۲ شب به داد فوتبالیست های معروف رسید!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/108333" target="_blank">📅 12:41 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/108333" target="_blank">📅 12:41 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108332">
@@ -925,7 +925,7 @@ T.me/TrexBet_Ir</div>
 وینیسیوس جونیور: من فقط قصد مرتب کردن موهای بازیکن ویارئال را داشتم ولی نمی‌دانم چرا کارت قرمز به من داده شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/108332" target="_blank">📅 12:19 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/Futball180TV/108332" target="_blank">📅 12:19 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108331">
@@ -941,7 +941,7 @@ T.me/TrexBet_Ir</div>
 💔
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/108331" target="_blank">📅 11:55 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/108331" target="_blank">📅 11:55 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108330">
@@ -958,7 +958,7 @@ T.me/TrexBet_Ir</div>
 🙂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/108330" target="_blank">📅 11:34 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/108330" target="_blank">📅 11:34 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108329">
@@ -974,7 +974,7 @@ T.me/TrexBet_Ir</div>
 جادوی دیشب اسطوره لیونل‌مسی در اینترمیامی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/108329" target="_blank">📅 11:07 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/108329" target="_blank">📅 11:07 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108328">
@@ -991,7 +991,7 @@ T.me/TrexBet_Ir</div>
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/108328" target="_blank">📅 10:59 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/108328" target="_blank">📅 10:59 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108327">
@@ -1011,7 +1011,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/108327" target="_blank">📅 10:59 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/108327" target="_blank">📅 10:59 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108326">
@@ -1060,7 +1060,7 @@ TrexBet
 انتخابت رو انجام بده و آماده‌ی هیجان باش!
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/108326" target="_blank">📅 10:59 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/108326" target="_blank">📅 10:59 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108325">
@@ -1071,7 +1071,7 @@ https://TrexBet.com</div>
 پوستر الغرافه قطر برای بازی با استقلال
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/108325" target="_blank">📅 10:35 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/108325" target="_blank">📅 10:35 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108324">
@@ -1089,7 +1089,7 @@ https://TrexBet.com</div>
 نادر قاضی پور، نماینده پیشین مجلس: تراکتور پرطرفدارترین تیم جهان هست. از رئال و بارسا هم پرطرفدار هستیم. کل مردم ترکیه و ترکمنستان و آلمان طرفدار تراکتور هستن
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/108324" target="_blank">📅 10:32 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/108324" target="_blank">📅 10:32 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108323">
@@ -1106,7 +1106,7 @@ https://TrexBet.com</div>
 بیژن بزغاله 2008 روزی 4تا رونالدو و مسی به عنوان صبحانه می‌خورد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/108323" target="_blank">📅 10:15 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/108323" target="_blank">📅 10:15 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108322">
@@ -1118,7 +1118,7 @@ https://TrexBet.com</div>
 با اعلام پزشکان باشگاه استقلال، یاسر‌آسانی به طور قطع بازی روز دوشنبه استقلال مقابل الغرافه را از دست خواهد داد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/108322" target="_blank">📅 10:08 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/108322" target="_blank">📅 10:08 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108321">
@@ -1135,7 +1135,7 @@ https://TrexBet.com</div>
 کارت بازی بازیکنان توسط سازمان لیگ و فدراسیون صادر شده و نبود پروانه کار این نفرات در نهایت نمی‌تواند باعث تغییر نتیجه یک مسابقه یا اعلام غیرقانونی بودن حضور آنها در زمین شود.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/108321" target="_blank">📅 10:00 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/108321" target="_blank">📅 10:00 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108320">
@@ -1153,7 +1153,7 @@ https://TrexBet.com</div>
 پاسخ زیبای سیمئونه به سوال درباره مقایسه مسی و مارادونا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/108320" target="_blank">📅 09:25 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/108320" target="_blank">📅 09:25 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108319">
@@ -1170,7 +1170,7 @@ https://TrexBet.com</div>
 گلشیفته فراهانی توی جدیدترین فیلمش از جان سینا اسطوره کشتی کج و قهرمان دوران بچگی خیلی‌هامون لب‌ گرفته و حسابی خبرساز شده!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/108319" target="_blank">📅 09:00 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/108319" target="_blank">📅 09:00 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108318">
@@ -1199,7 +1199,7 @@ https://TrexBet.com</div>
 وینیسیوس با انتشار این استوری نوشت: همیشه تمامی صحنه‌هایی که کارت زرد و قرمز دارد متعلق به وینیسیوس است‌. چه رسوایی بزرگی!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/Futball180TV/108315" target="_blank">📅 01:55 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/108315" target="_blank">📅 01:55 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108314">
@@ -1226,7 +1226,7 @@ https://TrexBet.com</div>
 وینیسیوس بدلیل حرکت غیر ورزشی حداقل ۲ جلسه از میادین محرومه و الکلاسیکو رو از دست میده
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/108313" target="_blank">📅 01:47 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/108313" target="_blank">📅 01:47 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108310">
@@ -1261,7 +1261,7 @@ https://TrexBet.com</div>
 استوری رودریگو بازیکن رئال‌مادرید
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/108308" target="_blank">📅 01:17 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/Futball180TV/108308" target="_blank">📅 01:17 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108307">
@@ -1312,7 +1312,7 @@ https://TrexBet.com</div>
 گل وینیسیوس جونیور که بخاطر کشیدن موی بازیکن ویارئال مردود شد و بعدش هم از زمین مسابقه اخراج شد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/Futball180TV/108303" target="_blank">📅 00:05 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/Futball180TV/108303" target="_blank">📅 00:05 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108302">
@@ -1367,13 +1367,13 @@ https://TrexBet.com</div>
 <div class="tg-post" id="msg-108298">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">بدل وینیسیوس گل زدددددددددد</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/Futball180TV/108298" target="_blank">📅 00:00 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/108298" target="_blank">📅 00:00 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108297">
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">گلگلگللگلگلگگلگلگل</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/Futball180TV/108297" target="_blank">📅 00:00 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/108297" target="_blank">📅 00:00 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108296">
@@ -1390,7 +1390,7 @@ https://TrexBet.com</div>
 گل‌اول رئال‌مادرید به ویارئال توسط دیامونده
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/Futball180TV/108296" target="_blank">📅 23:58 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/Futball180TV/108296" target="_blank">📅 23:58 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108295">
@@ -1398,7 +1398,7 @@ https://TrexBet.com</div>
 <div class="tg-text">نیمه‌اول بازی رئال‌مادرید بدون گل تموم شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/Futball180TV/108295" target="_blank">📅 23:19 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/Futball180TV/108295" target="_blank">📅 23:19 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108294">
@@ -1431,7 +1431,7 @@ https://TrexBet.com</div>
 🇪🇸
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/Futball180TV/108292" target="_blank">📅 22:01 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/Futball180TV/108292" target="_blank">📅 22:01 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108291">
@@ -1472,7 +1472,7 @@ https://TrexBet.com</div>
 <div class="tg-post" id="msg-108288">
 <div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">گلگلگلگگلگلگلگ سوم بارسلونا</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/108288" target="_blank">📅 21:40 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/108288" target="_blank">📅 21:40 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108287">
@@ -1483,7 +1483,7 @@ https://TrexBet.com</div>
 ترکیب رئال‌مادرید مقابل ویارئال؛ ۲۲:۳۰
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/108287" target="_blank">📅 21:14 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/108287" target="_blank">📅 21:14 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108285">
@@ -1495,7 +1495,7 @@ https://TrexBet.com</div>
 فدراسیون فوتبال پرتغال از بازگشت رونالدو به تیم‌ملی در فیفادی نوامبر خبر داد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/Futball180TV/108285" target="_blank">📅 20:57 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/Futball180TV/108285" target="_blank">📅 20:57 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108284">
@@ -1521,19 +1521,19 @@ https://TrexBet.com</div>
 🔥
 🔥
 گابریل ژسووووووووووووس</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/108283" target="_blank">📅 20:34 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/108283" target="_blank">📅 20:34 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108282">
 <div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">بارساااااا دومیووووو زدددددد</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/108282" target="_blank">📅 20:34 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/108282" target="_blank">📅 20:34 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108281">
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">گلگلگگلگلگلگلگل</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/108281" target="_blank">📅 20:34 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/108281" target="_blank">📅 20:34 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108280">
@@ -1551,7 +1551,7 @@ https://TrexBet.com</div>
 حجت احمدی: سیلی نبود، آقا ساکت بهم خسته نباشید گفت؛ پیشنهاد استقلال؟ خبری ندارم!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/108280" target="_blank">📅 20:28 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/108280" target="_blank">📅 20:28 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108279">
@@ -1645,7 +1645,7 @@ https://TrexBet.com</div>
 گل های دیدار آگزبورگ دو - دو بایرن مونیخ
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/108272" target="_blank">📅 19:02 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/108272" target="_blank">📅 19:02 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108271">
