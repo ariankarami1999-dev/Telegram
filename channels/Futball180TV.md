@@ -292,31 +292,639 @@
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-21 22:53:43</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-22 02:50:38</div>
 <hr>
 
-<div class="tg-post" id="msg-108585">
+<div class="tg-post" id="msg-108650">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-text">فک کنم اگه هرشب با ۱۰۰ هزار تومن میومدین چنل بت ما، شبی بالای ۲ میلیون سود کرده بودین مثل دیشب :)
+😊
+😂
+میگی نه؟ بیا تو چنلمون و ببین!
+🔥
+@FutballFuckBet @FutballFuckBet @FutballFuckBet @FutballFuckBet</div>
+<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/Futball180TV/108650" target="_blank">📅 01:41 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108649">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Q9Xp9ZCFkMMFSyjNT1snvDM76XMThrv0bz9EEOnnq6jRkgL8V_2OhkmKDDdJPZd5mGcSVlrMfkg47TMnY6MUFlMpd48cPuSPFcxZd2P0HkqVUxFvBhELXYgBqiwyyL6P1AMqyqMsMpiufUQfJqhKHH6OoIDzmYR671rV_nLz2mgyPtHKlui3cQyn4_SEO0jbWHBvkApAsNtBLqNkv4NBswO0tkcPhEv2FpnhSK8pGtBVvJ1SeIKd1NlDCc3AGqqf7DEPbXmm2Dx5DIOiJe8NRd-0_Mv9YFHbVK5OyNuq9jLD5tGzXw417OGUFtM0Mzkfam9HBPs7L2LlInKzKKdBYQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">فک کنم اگه هرشب با ۱۰۰ هزار تومن میومدین چنل بت ما، شبی بالای ۲ میلیون سود کرده بودین مثل دیشب :)
+😊
+😂
+میگی نه؟ بیا تو چنلمون و ببین!
+🔥
+@FutballFuckBet
+@FutballFuckBet
+@FutballFuckBet
+@FutballFuckBet</div>
+<div class="tg-footer">👁️ 2K · <a href="https://t.me/Futball180TV/108649" target="_blank">📅 01:41 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108648">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/Futball180TV/108648" target="_blank">📅 01:40 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108647">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/umsottd_yq9PLsI2BmyNIcj_dwqu8GQOL7Sp_Z1uhWRRRJBpaQVlKZ5eVCHI_82ziszezUHot4eENmt6n1IK0U2l3uSSkqSizVKLvq_gyQBcl2ykN0QnlQookB6Msy7jTVWy-pFlDI9qLXFoZniu_i9A1KXOq9RvekzV5ewU291fS-QSSGuIX4W7xGsNGpxgEExvmjD7TUUTe6g8uK_G3hjNiw9M6fDVQLuxaNHk-Zy3ncB8Hts6_yf4uV_ivJqTFINLXMHjDdB49h1B97h7cCn0J0PxZuKh5pyYSF4vKKYoACXhBl6zvzILPZklCBT4-y6fCZNH52GNzHMJxgVwBQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+🇪🇺
+🏆
+هفته‌دوم لیگ‌قهرمانان اروپا؛ دهمین برد در دهمین بازی فصل؛ جهنم استانبول هم مانع پیروزی پرگل شاگردان فلیک نشد
+🇪🇸
+بارسلونا
+😀
+-
+😃
+گالاتاسرای
+🇹🇷
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/Futball180TV/108647" target="_blank">📅 00:37 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108646">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rDhyz7jYl0odsp3u_Bl_U3h4p9AhtOgRSsk25Iw-E4kzh508EB1DPyg0YnvT3q3uIDbMgebbX9-bhKE5rGqOtsxNcIydK9P-o6aW7-bVwRoDfzYfWv-ZzkfZ_Q9xCHB-yPZmMmKLZuE_XKc8bA0d6Tl3hOoRxjF2uEfxMBhdKf9bXhdn8FGlFoHN-5oAp14JpL-FqTRqYFmtD_DHtutNrxy3O7GcsZyBFVS7uwYTz14WDpP-r7CdoA6mOz_CtNgRmADlnRJJPq_64NtjADLqWk8qPcIM9A5wxeJPGNKbYt-7jbQbL2H4AIoiAnHkdLmsMv-CznggoNRI-IkiYG6SMA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">📊
+🏆
+نتایج بازی‌های امشب لیگ‌قهرمانان اروپا
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 5.27K · <a href="https://t.me/Futball180TV/108646" target="_blank">📅 00:30 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108645">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oOEDo-mtGJSux_gGu1mY6UsQsZw6JwAkNQYjtgqss52y1pRKosPWQPZL1Qtg51JsH2LSNSN6FO5-QVcqLBWDEiJphjE_mpH_qYqhYz3knoHCwClrATSmOxHqRabl9qk8a0ELNTFc9LoygwNJw4rNxZEYzv8s2C-gLvWrvCBl1Ip_EegGWrm9C6Yvs7wHUUzClnYaNQ5XT7KRFoC3G827upBCFe3PoXZKh_mC72hrrM5hudC_kaShel2-4Q-pIg7wxTamzAkT9eWkIjozEdkP-sU7DsHXNOJqED8y0qBQ3-4g0QWB8hrbGSi1EcN3-UFsTMR_L0Vafmuk793GYDPFWw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+🇪🇺
+لیگ قهرمانان اروپا | در همان ثانیه‌های ابتدایی غافلگیر شدند؛ وضعیت کریک در منچستریونایتد بحرانی شد
+🇪🇸
+اتلتیکومادرید
+😀
+-
+😏
+منچستریونایتد
+🏴󠁧󠁢󠁥󠁮󠁧󠁿
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 5.65K · <a href="https://t.me/Futball180TV/108645" target="_blank">📅 00:26 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108644">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Nk72JtSFBnmotXM4RxiqNO71kmhhyMiQBM3hsgAEv0syWEvGOSqu_OUtQev7aK_ABmrV0x6G2JOgCSpwkyOlfzWfIA71YPlAJXxgoKhCXnmN6K4idWywRnDnvFTE1vUbz-tnfy9c_9G0rWuZbnbPHhXeEU9MxJ5nkRqwKWhcbZvzeAIVmSlzJH0R_qv2zPpefUJcy7ViOoX41-ceYvXmRUejfd7Ym3pGcaNR7GOmuQGECzXmEy_rzuWABQPkbGtddy59uBXMJnfh-gzemp_h0JU1_YYCXAbTsZ1kaEKuoCe2-uPjjfACaKuH_T2yfYtEE4GOTxxipiTspqObnfEJHQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+🇪🇺
+لیگ قهرمانان اروپا | تساوی دور از انتظار بایرن‌مونیخ مقابل نماینده نروژ؛ توقف شاگردان کمپانی در دیداری جذاب
+🇳🇴
+وایکینگ
+😆
+-
+😆
+بایرن‌مونیخ
+🇩🇪
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 5.8K · <a href="https://t.me/Futball180TV/108644" target="_blank">📅 00:25 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108643">
+<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PKwDeJ77CXYpFwzmH7NCv53ytCmruglOQyQHATOcelMzlElhlBLBfGQczbJ8qAE5fSaI_ivBt5wpG4hpkapKnm4Tw8lqLns6HV6GpJ_sNw4ASAGBJxoQBc80RnUP99GcxKT9EdKsSV-UpkoHPiOIoeLzbMq3cH27VKcFM0uNOM6JrbnflNIPJYn7b92NZ00JB20WtHeFZK-Z12EbvAvxF_hk-HHhvWVLo7R4sReqAOjGvKof3_7wzaTFlZI1IZ0tgSSjAm5PH0awiW4-Edu7Fg4XQM4WXcBxdtywY2veqeL3AA3PC93IJ4I1_rBAjqu0e2AVtIsec-hqyRi_Qbu7Tg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+🇪🇺
+🏆
+هفته‌دوم لیگ‌قهرمانان اروپا؛ دهمین برد در دهمین بازی فصل؛ جهنم استانبول هم مانع پیروزی پرگل شاگردان فلیک نشد
+🇪🇸
+بارسلونا
+😀
+-
+😃
+گالاتاسرای
+🇹🇷
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 5.86K · <a href="https://t.me/Futball180TV/108643" target="_blank">📅 00:23 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108642">
+<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn1.telesco.pe/file/def4417737.mp4?token=oPkUa_DQt-FlPRzp8p9ZioCEgKUez70GReE0XUUTQJgyFJ_xQelSdH_FHeD3-Cr19bouL0A2k-KGoyZEUSeTWR8mrINrkmAlazKH_UwpTfvu4EVNgJUjfv7FDWSmmheimNXffoslhs43nIYIMixBlFyJWN-B0ANk_ogFvbS7-cpbJOFvgKCQJlB77neYIY8boIOEryrze7xJgObNS8qQK-wdzQ_q24v-t-TpheL8QT_chyEQYRQUzOt_44oVxKMT7u_znVjUgxV-u7NHNYJ0Sjmtm0uMH4mLnZZ4KswZ-qt3hCF6kwNA1EooYTi_aCWSlVSpNHrkT9IXg_4BYvE7KLXP1oABE24ImzQedoktiVxIt0ua4TN9TlzyYDijuB_gpTaaceLD4Sf8HRkFFXiOxdIn6WFQfy4Mz1tTvKz4J1yKnFcZShFMeha_BTGGcp4nLoeufUXNSZhV69a7Is-XefBX4Y_rz1XrHXww46lXXsaEcHaONu98y4yK1ehJ_uLmz8SWc58QhvF8TNxAbUuPYeiL1fS9hO8vSeNMBNYctU96OJEj08sLFcez9mMEaAnt9TCAMY9HM3P5UjlVVgGrdJCvSZcXs_ly3AWTv0xXVk-h9qLCuEAWgK2qEsqW1w8chuo8Ogjx1XFd7yROCFftT6K8YwZ6UGNUepdHH8W0Gw4" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn1.telesco.pe/file/def4417737.mp4?token=oPkUa_DQt-FlPRzp8p9ZioCEgKUez70GReE0XUUTQJgyFJ_xQelSdH_FHeD3-Cr19bouL0A2k-KGoyZEUSeTWR8mrINrkmAlazKH_UwpTfvu4EVNgJUjfv7FDWSmmheimNXffoslhs43nIYIMixBlFyJWN-B0ANk_ogFvbS7-cpbJOFvgKCQJlB77neYIY8boIOEryrze7xJgObNS8qQK-wdzQ_q24v-t-TpheL8QT_chyEQYRQUzOt_44oVxKMT7u_znVjUgxV-u7NHNYJ0Sjmtm0uMH4mLnZZ4KswZ-qt3hCF6kwNA1EooYTi_aCWSlVSpNHrkT9IXg_4BYvE7KLXP1oABE24ImzQedoktiVxIt0ua4TN9TlzyYDijuB_gpTaaceLD4Sf8HRkFFXiOxdIn6WFQfy4Mz1tTvKz4J1yKnFcZShFMeha_BTGGcp4nLoeufUXNSZhV69a7Is-XefBX4Y_rz1XrHXww46lXXsaEcHaONu98y4yK1ehJ_uLmz8SWc58QhvF8TNxAbUuPYeiL1fS9hO8vSeNMBNYctU96OJEj08sLFcez9mMEaAnt9TCAMY9HM3P5UjlVVgGrdJCvSZcXs_ly3AWTv0xXVk-h9qLCuEAWgK2qEsqW1w8chuo8Ogjx1XFd7yROCFftT6K8YwZ6UGNUepdHH8W0Gw4" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">گل‌سوم بایرن‌مونیخ به وایکینگ‌ها
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 5.71K · <a href="https://t.me/Futball180TV/108642" target="_blank">📅 00:21 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108641">
+<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-text">گلگلگل سوم وایکینگ‌ها به بایرن‌مونیخ</div>
+<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/Futball180TV/108641" target="_blank">📅 00:21 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108640">
+<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/abdfe06f9c.mp4?token=TXBLzMOoE3jdWlPwbhSJz1ED_FSZ_c3FeOsdItl92gEEvNYXYDHCFNiq_S9_pe7UDRYlOSxAG2qKX4P3zYzmc1mJ7ZImPV29hPb5rjote-TDW2iV2n1xOUo_5f5kCz0pSICkK914l0Fd9mTW6byEr_DmXaeSHcLhIHZFWgdOdn-EzZMOnG_OtfikYHqN3bPuxKbqppa_arCv427Rw6F5U1CSZm2rO_zrH7VRuBBR0oNj09BWGGZGZ5NSBcpe7Vxv0w-EjOl2XKDRKFCMKj-RIdx6DMZ7BCmCJkvYqgVa6sVjngvVL-ht1OBNPHT-Vz1g8H3je2bR0z9IFveHuYqRFQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/abdfe06f9c.mp4?token=TXBLzMOoE3jdWlPwbhSJz1ED_FSZ_c3FeOsdItl92gEEvNYXYDHCFNiq_S9_pe7UDRYlOSxAG2qKX4P3zYzmc1mJ7ZImPV29hPb5rjote-TDW2iV2n1xOUo_5f5kCz0pSICkK914l0Fd9mTW6byEr_DmXaeSHcLhIHZFWgdOdn-EzZMOnG_OtfikYHqN3bPuxKbqppa_arCv427Rw6F5U1CSZm2rO_zrH7VRuBBR0oNj09BWGGZGZ5NSBcpe7Vxv0w-EjOl2XKDRKFCMKj-RIdx6DMZ7BCmCJkvYqgVa6sVjngvVL-ht1OBNPHT-Vz1g8H3je2bR0z9IFveHuYqRFQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">گل دوم اتلتیکو مادرید به منچستر توسط لوکمن
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 6.27K · <a href="https://t.me/Futball180TV/108640" target="_blank">📅 00:11 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108639">
+<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-text">گلگلگگلگلگلگلگ اتلتیکومادرید دومیو زددددد</div>
+<div class="tg-footer">👁️ 6.4K · <a href="https://t.me/Futball180TV/108639" target="_blank">📅 00:09 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108638">
+<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn1.telesco.pe/file/d76e2a5b60.mp4?token=MzHsEGS4MkDqSPF76hr1GMaP-_sFxx0XwVlH9hAYoKSQtlKl13MxruUfihUNM0zApKnxnfWqT-QyTa2cnrs0y6uwKL0GQiZXvc4fxkDypeUAUbWmTdt2IVaV5FxcTFeVF5S61bAe6mnKbtbWjPW7kmWVBZEnkVvdwbaRedRCZP_tujvC8QBZU2ggcoQ9ZIXujUdZ5JS6L0OJrgDMqJKFJB_WMG5r3Xnry0FyfdN-c28rXNGqFZXiyIVzX0s-4pirFc6U-WqiD58-xu2MB7VmL15zmp1Y8kD5R36wFbhUV4_jWepvr7A9_SWBMD172yy1e0pX6AK3MnWqomoZMDOLwIi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn1.telesco.pe/file/d76e2a5b60.mp4?token=MzHsEGS4MkDqSPF76hr1GMaP-_sFxx0XwVlH9hAYoKSQtlKl13MxruUfihUNM0zApKnxnfWqT-QyTa2cnrs0y6uwKL0GQiZXvc4fxkDypeUAUbWmTdt2IVaV5FxcTFeVF5S61bAe6mnKbtbWjPW7kmWVBZEnkVvdwbaRedRCZP_tujvC8QBZU2ggcoQ9ZIXujUdZ5JS6L0OJrgDMqJKFJB_WMG5r3Xnry0FyfdN-c28rXNGqFZXiyIVzX0s-4pirFc6U-WqiD58-xu2MB7VmL15zmp1Y8kD5R36wFbhUV4_jWepvr7A9_SWBMD172yy1e0pX6AK3MnWqomoZMDOLwIi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">گل‌سوم بایرن‌مونیخ توسط لوئیز دیاز
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 6.56K · <a href="https://t.me/Futball180TV/108638" target="_blank">📅 00:06 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108637">
+<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-text">🚨
+🟥
+🏴󠁧󠁢󠁥󠁮󠁧󠁿
+لنی‌یورو جلو اتلتیکومادرید اخراج شد</div>
+<div class="tg-footer">👁️ 6.62K · <a href="https://t.me/Futball180TV/108637" target="_blank">📅 00:04 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108636">
+<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-text">🚨
+🟥
+🇩🇪
+مایکل اولیسه بدلیل دریافت کارت قرمز بازی هفته بعدی مقابل آرسنال رو از دست داد
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 7.12K · <a href="https://t.me/Futball180TV/108636" target="_blank">📅 00:02 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108635">
+<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-text">گلگلگلگلگگلگلگل سوم بایرن مونیخ به وایکینگ‌ها</div>
+<div class="tg-footer">👁️ 7.16K · <a href="https://t.me/Futball180TV/108635" target="_blank">📅 00:00 · 22 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108634">
+<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/99b2a48903.mp4?token=o3HcMvOgCAaxhCuibBPndT4r-nOzVWm7buwshPpUhX96JVv_IFhDjV9BFJsY_536Cc5ERIoIfQOR29wCqcFpTWVZQ6nmm5u1jiUpZ7pk-lE9ZoRu5_0ASZdYI3e_Xksi7kNqLkuj4_K_VGKzL7iJnrZG0iezQYqUsJUf9bPVZNA8vIYh9u8xGVPPzwOy1R6b2auhTV7RZVi58CVnY8SfwxaILJs2QtIC_bajBW4Qe-gk1NpRG0gMLQeMu9CVNKnJp4UH8r6LqWCi6h5_zrYuWh5T_ugORi1pve70lff68xw-OY0tUNvYFDuDlMwnsBnppcysik-YV-wtAbBSBe8s-Q" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/99b2a48903.mp4?token=o3HcMvOgCAaxhCuibBPndT4r-nOzVWm7buwshPpUhX96JVv_IFhDjV9BFJsY_536Cc5ERIoIfQOR29wCqcFpTWVZQ6nmm5u1jiUpZ7pk-lE9ZoRu5_0ASZdYI3e_Xksi7kNqLkuj4_K_VGKzL7iJnrZG0iezQYqUsJUf9bPVZNA8vIYh9u8xGVPPzwOy1R6b2auhTV7RZVi58CVnY8SfwxaILJs2QtIC_bajBW4Qe-gk1NpRG0gMLQeMu9CVNKnJp4UH8r6LqWCi6h5_zrYuWh5T_ugORi1pve70lff68xw-OY0tUNvYFDuDlMwnsBnppcysik-YV-wtAbBSBe8s-Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇪🇸
+گل‌چهارم بارسلونا به گالاتاسرای توسط آدیمی
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/Futball180TV/108634" target="_blank">📅 23:59 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108633">
+<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-text">🏴󠁧󠁢󠁥󠁮󠁧󠁿
+گلگلگلگلگگلگل سوم آرسنال به لیل</div>
+<div class="tg-footer">👁️ 6.75K · <a href="https://t.me/Futball180TV/108633" target="_blank">📅 23:58 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108632">
+<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-text">پاس گل از گابریل ژسوس
+🔥
+🔥
+🔥
+😂</div>
+<div class="tg-footer">👁️ 7.04K · <a href="https://t.me/Futball180TV/108632" target="_blank">📅 23:56 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108631">
+<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-text">گل زیبای کریم آدیمیییییییییییی</div>
+<div class="tg-footer">👁️ 7.03K · <a href="https://t.me/Futball180TV/108631" target="_blank">📅 23:56 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108630">
+<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-text">گلگگلگلگلگلگگلگلگل چهارم بارساااااا</div>
+<div class="tg-footer">👁️ 7.02K · <a href="https://t.me/Futball180TV/108630" target="_blank">📅 23:55 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108629">
+<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-text">🏴󠁧󠁢󠁥󠁮󠁧󠁿
+گلگلگلگگلگلگل دوم آرسنال به لیل</div>
+<div class="tg-footer">👁️ 7.12K · <a href="https://t.me/Futball180TV/108629" target="_blank">📅 23:54 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108628">
+<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YHfDk9wu3NhTwLv4lDwZ7zDMvqqg_kT9KT--nOMBjpFgJ-4ERmyC0FESSFCGcpnpwjHfGu-EOoNHN-SwuoyDQI5gGGkc8tj4Gu-LmY2MiSKDCU5uFR6JuYaKYdmy1kOOjoWBjfI2U_vpV46iZffezYB8d2SKbv-D_3zt5Ixk2gUVGDSvAHDAni_wxRreTReqL1GWORCPdYgQ4cWNX2R10Ytc3G8mK6H65Qhswpeq0nEn_6sJwL8Hd0x_vGE_ISWzbohQDjvakdVxr5YOBPvHUGwLYJiFodPLFvrbASv8XgSGPejVTnLbmk9li8h4RxNwvgjnMERcx06hmhY31Pizhw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+▶️
+🇪🇺
+نتایج بازی‌های تا این لحظه</div>
+<div class="tg-footer">👁️ 7.17K · <a href="https://t.me/Futball180TV/108628" target="_blank">📅 23:53 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108627">
+<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-text">🏴󠁧󠁢󠁥󠁮󠁧󠁿
+گلگلگلگگلگلگل آرسنال یکی به لیل زددددد</div>
+<div class="tg-footer">👁️ 6.8K · <a href="https://t.me/Futball180TV/108627" target="_blank">📅 23:51 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108626">
+<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn1.telesco.pe/file/cf53f669cc.mp4?token=DEpXi532pjSlesqTsmxhyhUlZEQ6655KFqljxNlg4Mj7Xc55fxBgsjIW1ZuDqhGrtAohhqfPHvXhXxvGUgPzim082HKTlcvjccLUDk2zD2mu3h5NtLl5FH4PPsorpb9yVIB91kvDFPn4-zjZIVaRhu1QTuTu6EvW4_SzDqnVnOYnphm0x7g9lbZ90Z2VoD5ZB1_VWPjzO_I14XHXrSKBh_qbwJ3I4hyjcsmmRVDn76t5_w3bIX_ToxKwVU4xKnA2fa37JxvisLLm7JVZd29J3rLBDIe4Z5ZNK4w8p3kNvMrVqUZA05e36RSPKDz81aYuHfS0mDUsRqn-H-R2rUZOg3bJ1DfPnLcYCHwAxdP8CVr7o2Un8B9UGG-AwHCK1Bo8cEzo-nrgDMf7s1PYwX9FfJCXpPZwloe4FctLZXPArF2uQRDvLVuVFXh5jNZ9e5BhtS2I0UCdvdLcqJR5OKhehXPEbdifcBWPUIxTcuWnQg6tUPwuyGJdqXjDI5MSVYjW5YojMdFwwqsdWoMY8UCaMkC6KzmeTYfIk9uztbAtdTA0EwleVy0NVeHdRQ6Xyt4RgxB1p0n3anrRngujsSLwH-gNk4hCgc2I6hK0k1qV2yfkAP84sPoeQdixaZhtRRJQLAWh6QSw6vV3xbEmxMLp0P-ZLB0SiTmY82zTHP7kRJU" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn1.telesco.pe/file/cf53f669cc.mp4?token=DEpXi532pjSlesqTsmxhyhUlZEQ6655KFqljxNlg4Mj7Xc55fxBgsjIW1ZuDqhGrtAohhqfPHvXhXxvGUgPzim082HKTlcvjccLUDk2zD2mu3h5NtLl5FH4PPsorpb9yVIB91kvDFPn4-zjZIVaRhu1QTuTu6EvW4_SzDqnVnOYnphm0x7g9lbZ90Z2VoD5ZB1_VWPjzO_I14XHXrSKBh_qbwJ3I4hyjcsmmRVDn76t5_w3bIX_ToxKwVU4xKnA2fa37JxvisLLm7JVZd29J3rLBDIe4Z5ZNK4w8p3kNvMrVqUZA05e36RSPKDz81aYuHfS0mDUsRqn-H-R2rUZOg3bJ1DfPnLcYCHwAxdP8CVr7o2Un8B9UGG-AwHCK1Bo8cEzo-nrgDMf7s1PYwX9FfJCXpPZwloe4FctLZXPArF2uQRDvLVuVFXh5jNZ9e5BhtS2I0UCdvdLcqJR5OKhehXPEbdifcBWPUIxTcuWnQg6tUPwuyGJdqXjDI5MSVYjW5YojMdFwwqsdWoMY8UCaMkC6KzmeTYfIk9uztbAtdTA0EwleVy0NVeHdRQ6Xyt4RgxB1p0n3anrRngujsSLwH-gNk4hCgc2I6hK0k1qV2yfkAP84sPoeQdixaZhtRRJQLAWh6QSw6vV3xbEmxMLp0P-ZLB0SiTmY82zTHP7kRJU" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">گل‌تساوی بایرن‌مونیخ به وایکینگ‌ها هری کین
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 6.83K · <a href="https://t.me/Futball180TV/108626" target="_blank">📅 23:50 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108625">
+<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-text">لوووووویز دیازززززززز</div>
+<div class="tg-footer">👁️ 6.73K · <a href="https://t.me/Futball180TV/108625" target="_blank">📅 23:49 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108624">
+<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-text">لوووووویز دیازززززززز</div>
+<div class="tg-footer">👁️ 6.72K · <a href="https://t.me/Futball180TV/108624" target="_blank">📅 23:49 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108623">
+<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-text">گلگلگگلگلگلگلگلگ سوم بایرن‌مونیخ</div>
+<div class="tg-footer">👁️ 6.73K · <a href="https://t.me/Futball180TV/108623" target="_blank">📅 23:49 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108622">
+<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-text">هری کین دبل کرددددددد</div>
+<div class="tg-footer">👁️ 6.88K · <a href="https://t.me/Futball180TV/108622" target="_blank">📅 23:48 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108621">
+<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-text">بایرن‌مونیخ مساویووووو زددددددد</div>
+<div class="tg-footer">👁️ 6.94K · <a href="https://t.me/Futball180TV/108621" target="_blank">📅 23:48 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108620">
+<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-text">گلگلگلگگلگلگلگلگگل</div>
+<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/Futball180TV/108620" target="_blank">📅 23:48 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108619">
+<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn1.telesco.pe/file/93ba7eabbb.mp4?token=jzi8ZMA0-cVCVrHswgu35PWwC-B1lM0BgltlL4ulpmepDzOjzJ-TPhw9gsI0ej98CCR1qpML_qXT9BQsh0_RwiJYynnF63k0RZfJkEMzjAev47iyG8eUG62lsCW2s-QqkrmYfLLa3uD1a7qQTTkQIoQB6Uke967DmULCmxaCipbhpp463DJyqSCgZBML-Lw3ri-OGBiiiqmWlxpm_Q8kNHa4eCMcVTV7pQQ8K6KG3ycudOziFZRqHpnEl11k2IAaUEg0bJ0BpebwfFFG4RXmDah4d-jTHv48Wch347MWR-QbnjZQwlfGFlZFsb9GWf2pska9-m-mNjWtiG463k-Uj45Xo0YMGDQZjALIWeJShb3Y3jTxUzRs4PnsF08w9XnuaCf6dzPdnW8IpfI73kJqP92yagarCGTWN_fIlFHevQ8XLGC3SZq7lSLNsffNP3faqItIu59eJixsGL3GHjrDmKh3kCvo9gq8za8Fr1TCM2fAh_h2UeDCpLR09JcBSlqWsHC0gSaPsjpqw8gVclMtkzpebolCADyBGJh8dLSDbLWF1WkyGmBST-65aZiPRhYhqgV8wQt-CYKjPLH1L77c0lGfVZsvuMHKbam3vOoKa-vIgJbUrcML_RssGmLgM4Kr9bhoTVFQvt2KbCIXYzUCDNhOPKP5Atnq6SmEkEDZGnU" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn1.telesco.pe/file/93ba7eabbb.mp4?token=jzi8ZMA0-cVCVrHswgu35PWwC-B1lM0BgltlL4ulpmepDzOjzJ-TPhw9gsI0ej98CCR1qpML_qXT9BQsh0_RwiJYynnF63k0RZfJkEMzjAev47iyG8eUG62lsCW2s-QqkrmYfLLa3uD1a7qQTTkQIoQB6Uke967DmULCmxaCipbhpp463DJyqSCgZBML-Lw3ri-OGBiiiqmWlxpm_Q8kNHa4eCMcVTV7pQQ8K6KG3ycudOziFZRqHpnEl11k2IAaUEg0bJ0BpebwfFFG4RXmDah4d-jTHv48Wch347MWR-QbnjZQwlfGFlZFsb9GWf2pska9-m-mNjWtiG463k-Uj45Xo0YMGDQZjALIWeJShb3Y3jTxUzRs4PnsF08w9XnuaCf6dzPdnW8IpfI73kJqP92yagarCGTWN_fIlFHevQ8XLGC3SZq7lSLNsffNP3faqItIu59eJixsGL3GHjrDmKh3kCvo9gq8za8Fr1TCM2fAh_h2UeDCpLR09JcBSlqWsHC0gSaPsjpqw8gVclMtkzpebolCADyBGJh8dLSDbLWF1WkyGmBST-65aZiPRhYhqgV8wQt-CYKjPLH1L77c0lGfVZsvuMHKbam3vOoKa-vIgJbUrcML_RssGmLgM4Kr9bhoTVFQvt2KbCIXYzUCDNhOPKP5Atnq6SmEkEDZGnU" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">گل‌اول بایرن‌مونیخ به وایکینگ‌ها توسط هری‌کین
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 7.27K · <a href="https://t.me/Futball180TV/108619" target="_blank">📅 23:47 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108618">
+<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn1.telesco.pe/file/c86178bbb0.mp4?token=bs6uJ4WNEGSUI7OPcie2Rqr2vAvDjGb-mHIozxTIErCVwPH3vON5gfSxTzyBgu_IpbnHGe6XxQ7qC-gEcYryYPSpeJZlESo_hrYDMtVeB-wawczW3I1Q52M6vzGqZMnmjuLUEmb-lx_U4dbVQwifksopkzWE_caN0FMDAwzfpuP5bNNKYWdhBJ1bgSn_OZCGnJKo9L6DkqQ0N13qAnQj9oECstKkRDpzWI6I5O4Czy78MKUwdduJracgsN6ZnIE5meMgUDtyR6nAlcSXQSg2gTZTv4TX3JAlJ7Rc0OfHzyUdRoDEMFAG02h-sxG2Gh8SwGpuoj84wt-vLKQEhVfT-Sqvn_SSqzzBZZBxTDi5LreroUiPaeWFIN1ytgzFofwADFiTr-Zmx4KunxZe7pEwrwGHNCZ31Trcw2aduZmWyECLSiuXd7YAsCIMPQiS_D_gLqEPOVadeUO4J9sA9NPMcMlCGCiSc3yNnRFhPD_bJ_zdZKu8cGj7tfIOcej1U-Lg_2rThQOzyzmhkPvBCs3X_lqv8Cqw5Umq7fY6MMlUfL9B8AjVb97f8zY5jNjAdmVTsRACc4fUaZ1M7xU8itl57Ebi80KaAKbW9C9i1ZmHWFz7v4YbUN5AQ3hxN9istD7WoZ7ETCl-FtMqUglV-IWIqf9MkaXqt726LmcEJEujg48" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn1.telesco.pe/file/c86178bbb0.mp4?token=bs6uJ4WNEGSUI7OPcie2Rqr2vAvDjGb-mHIozxTIErCVwPH3vON5gfSxTzyBgu_IpbnHGe6XxQ7qC-gEcYryYPSpeJZlESo_hrYDMtVeB-wawczW3I1Q52M6vzGqZMnmjuLUEmb-lx_U4dbVQwifksopkzWE_caN0FMDAwzfpuP5bNNKYWdhBJ1bgSn_OZCGnJKo9L6DkqQ0N13qAnQj9oECstKkRDpzWI6I5O4Czy78MKUwdduJracgsN6ZnIE5meMgUDtyR6nAlcSXQSg2gTZTv4TX3JAlJ7Rc0OfHzyUdRoDEMFAG02h-sxG2Gh8SwGpuoj84wt-vLKQEhVfT-Sqvn_SSqzzBZZBxTDi5LreroUiPaeWFIN1ytgzFofwADFiTr-Zmx4KunxZe7pEwrwGHNCZ31Trcw2aduZmWyECLSiuXd7YAsCIMPQiS_D_gLqEPOVadeUO4J9sA9NPMcMlCGCiSc3yNnRFhPD_bJ_zdZKu8cGj7tfIOcej1U-Lg_2rThQOzyzmhkPvBCs3X_lqv8Cqw5Umq7fY6MMlUfL9B8AjVb97f8zY5jNjAdmVTsRACc4fUaZ1M7xU8itl57Ebi80KaAKbW9C9i1ZmHWFz7v4YbUN5AQ3hxN9istD7WoZ7ETCl-FtMqUglV-IWIqf9MkaXqt726LmcEJEujg48" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇪🇸
+گل‌سوم بارسلونا به گالاتاسرای توسط گوردون
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/Futball180TV/108618" target="_blank">📅 23:45 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108617">
+<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/14c2159385.mp4?token=kzJDp11S8lTGILVIei4WUaH9fZmZz_Y_KrKAAHSDW1qtx0DzDPGUmUwjXoIKBKBIa154wfnLJfRWuvm6MhvDLJcR8DHJLUkCKLcgHIHAU43Ba7Ni37Lb70yiMtUsKSWf74iqeBQjSygniXl4gPW76TnltpF0QC8UaWjt5O6Aslt-o4yqAiNrB5BRbzKsRhjm8cLouSs1lyfNSQgjC7JpqLallaG2DrS76ngwZLqH0B6mB_zf6_HT4_aswL5zk4P_fNAGyhq_YYhGxFZkr8lM6pXpB40AMSXc7ASqguDb78iutmgXIYmVsiHWAaxQ65Ybll0u-YQ2MP3tPtQ7o4Krzw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/14c2159385.mp4?token=kzJDp11S8lTGILVIei4WUaH9fZmZz_Y_KrKAAHSDW1qtx0DzDPGUmUwjXoIKBKBIa154wfnLJfRWuvm6MhvDLJcR8DHJLUkCKLcgHIHAU43Ba7Ni37Lb70yiMtUsKSWf74iqeBQjSygniXl4gPW76TnltpF0QC8UaWjt5O6Aslt-o4yqAiNrB5BRbzKsRhjm8cLouSs1lyfNSQgjC7JpqLallaG2DrS76ngwZLqH0B6mB_zf6_HT4_aswL5zk4P_fNAGyhq_YYhGxFZkr8lM6pXpB40AMSXc7ASqguDb78iutmgXIYmVsiHWAaxQ65Ybll0u-YQ2MP3tPtQ7o4Krzw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">گل دوم بارسلونا به گالاتاسرای توسط لوپز
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 7.39K · <a href="https://t.me/Futball180TV/108617" target="_blank">📅 23:44 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108616">
+<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-text">سوپر دریبل و حرکت فوق‌العاده یامال فقط
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥</div>
+<div class="tg-footer">👁️ 7.33K · <a href="https://t.me/Futball180TV/108616" target="_blank">📅 23:44 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108615">
+<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-text">آنتونی گوردون</div>
+<div class="tg-footer">👁️ 7.07K · <a href="https://t.me/Futball180TV/108615" target="_blank">📅 23:44 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108614">
+<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-text">بارسلوناااااااا</div>
+<div class="tg-footer">👁️ 7.19K · <a href="https://t.me/Futball180TV/108614" target="_blank">📅 23:44 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108613">
+<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-text">گلگلگلگلگگلگلگلگلگ سوووووووم</div>
+<div class="tg-footer">👁️ 7.31K · <a href="https://t.me/Futball180TV/108613" target="_blank">📅 23:43 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108612">
+<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-text">گلگلگگلگلگگگل بایرن‌مونیخ یکی زد هری کین</div>
+<div class="tg-footer">👁️ 7.35K · <a href="https://t.me/Futball180TV/108612" target="_blank">📅 23:43 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108610">
+<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-text">سوپر پاس گل لامین‌یامال
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥</div>
+<div class="tg-footer">👁️ 7.69K · <a href="https://t.me/Futball180TV/108610" target="_blank">📅 23:41 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108609">
+<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-text">فرمین لوووووپزززززز</div>
+<div class="tg-footer">👁️ 7.69K · <a href="https://t.me/Futball180TV/108609" target="_blank">📅 23:41 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108608">
+<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-text">گلگلگلگلگگلگلگلگل</div>
+<div class="tg-footer">👁️ 7.63K · <a href="https://t.me/Futball180TV/108608" target="_blank">📅 23:41 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108607">
+<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-text">گوردون دروازه خالی زد بیرون
+😂
+😂
+😂
+😂
+😳</div>
+<div class="tg-footer">👁️ 7.9K · <a href="https://t.me/Futball180TV/108607" target="_blank">📅 23:37 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108606">
+<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rSuQO8bpxeoPbyVEY26dy4ec3XjW2duChquyk954lseqRuMWsYTZmLgp3nu2AqVqFBzhAGfGcZTDFSRAX7MDn56UdgxZA90eIBFvdgqjTU4NbGL1oua43WJkUz_QhxeD6Gxlu8MGnVXrp5HVXVaqBRfAme2voJYUx6cDwoITVWhM_BCI9LMrPBlQJy_DQWgnHU6HdpR5h8ZW01VHr7hLzZYs3fApiyaA5ZrOVzs3-8czpsgpDFAxGPcc9HX39pcL6Kz2KETUTriMfk1yMK9m_o_K_X1oT-yLowv7LT2t4SuLpEwuo6eRRdh6V03pDdxk_xwFOYm73h_gD3KOPTs-Iw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🇪🇺
+نتایج کامل نیمه‌اول مسابقات امشب
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 8.76K · <a href="https://t.me/Futball180TV/108606" target="_blank">📅 23:27 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108605">
+<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-text">گلر گالاتاسرای ۵ تا گل خریده برا تیمش</div>
+<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/Futball180TV/108605" target="_blank">📅 23:18 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108604">
+<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/b78ba46272.mp4?token=hpC2RqokiX0kZcFxnDVQ3pzzK2UhXLzCLbzE9FZmEFlLk1P7-1KbvkYzeeqVXGbHw7okimxkmACQ5UNSkLA4FDgdHa8FPmVD3BavSDaGaqoxrRp9d-WmNNKgb2E27Bt1cEmElZ9iLDaSU7S0L1ujB3L8DYG5an0SPwyxHGyTP6RwtKqbWfbwRwy5qERV1eOM69V5YNyrGBiVWiqTbA_EC926L8rfbXftVyb1Q51qt7CAWAAKM7-JjbUf_jBnNt7DggR8o4aPAFiac18bq_dsRFjZtaEFxjdR2fO5XViZ-EqOGE4AiKG_-OsX5RcIJLoCjQ18AECMYpF6Bq6OxGoWSw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/b78ba46272.mp4?token=hpC2RqokiX0kZcFxnDVQ3pzzK2UhXLzCLbzE9FZmEFlLk1P7-1KbvkYzeeqVXGbHw7okimxkmACQ5UNSkLA4FDgdHa8FPmVD3BavSDaGaqoxrRp9d-WmNNKgb2E27Bt1cEmElZ9iLDaSU7S0L1ujB3L8DYG5an0SPwyxHGyTP6RwtKqbWfbwRwy5qERV1eOM69V5YNyrGBiVWiqTbA_EC926L8rfbXftVyb1Q51qt7CAWAAKM7-JjbUf_jBnNt7DggR8o4aPAFiac18bq_dsRFjZtaEFxjdR2fO5XViZ-EqOGE4AiKG_-OsX5RcIJLoCjQ18AECMYpF6Bq6OxGoWSw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇪🇸
+گل اول بارسلونا به گالاتاسرای توسط کانسلو
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 9.26K · <a href="https://t.me/Futball180TV/108604" target="_blank">📅 23:16 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108603">
+<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-text">اتلتیکومادرید دومیوووووو به یونایتد زدددددد که رد شد</div>
+<div class="tg-footer">👁️ 9.03K · <a href="https://t.me/Futball180TV/108603" target="_blank">📅 23:16 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108602">
+<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-text">گلگلگگلگلگلگلگلگگلگلگلگل</div>
+<div class="tg-footer">👁️ 8.86K · <a href="https://t.me/Futball180TV/108602" target="_blank">📅 23:15 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108601">
+<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-text">رفته وار داره بررسی میشه</div>
+<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/Futball180TV/108601" target="_blank">📅 23:15 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108600">
+<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-text">رفته وار داره بررسی میشه</div>
+<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/Futball180TV/108600" target="_blank">📅 23:15 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108599">
+<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-text">اسطوره ژائو کانسلوووووووووو
+🔥
+🔥
+🔥
+🔥
+🔥</div>
+<div class="tg-footer">👁️ 9.24K · <a href="https://t.me/Futball180TV/108599" target="_blank">📅 23:14 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108598">
+<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-text">بارساااااااا</div>
+<div class="tg-footer">👁️ 9.2K · <a href="https://t.me/Futball180TV/108598" target="_blank">📅 23:13 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108597">
+<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-text">گلگلگگلگلگلگل</div>
+<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/Futball180TV/108597" target="_blank">📅 23:13 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108596">
+<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn1.telesco.pe/file/d28a95756e.mp4?token=gKOptxnmLS-iKfFPHdsRTRndo14lVgzXsadrEU9Bgl9Hh4BaddemOpdk4QER0uRu2FEkt-NyNU86uCRJ-JdlnWIw0elIe9W7QQIf8uFb8BvSvc6aWh__GDIVrpQCSWSOn25Bxr6oldquNVGYyyDcI1ItVa9P6eCDJHS1sRB9XCJyaQ6QSIrabuGVDm64iZHCQTKqstYyP5Ek5N_I4lohE7ow33ocWh6sqs769LqNBzkj_3ZKQlE3UumwZVvL1DYk527e60FKkkHQqEtHBopfn5UvoRsf-H8RtjwmmusDx8dglYA8VSSDz9L18HobKochCGKL4QaeZfE4R1sORYnRfx4DdZgALfj_2dPJ2GDMjE5rWxIwG3KY9CF8k0Jnd-yJBp7vIj7qshM5KeWaowaIwqSKJhJS3GICgzY8nRbYSnkEXMWsPdTBOjJvlbFSO_8EoAoK0b0skPdkGta3BEb2WiPXqsxYOL32wJtaZBB1cIuB52HwwQoYKgaAHCvP08zLtdbHyshcMla6MjN_NB5HVeNOFGKZ0f_pCuN6aIExExYvttEdwTjM8wsNw_Qdf3f5TVPcDyly_Kx7kg4zZ5mVcCIWFP0ikyyGJAx87kurjXu0wZqew5Vxswc4PYt3CRcny98IRBQSGHilqHZ7OK0q-SFhBCUgtNt8LnSLx80PDp4" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn1.telesco.pe/file/d28a95756e.mp4?token=gKOptxnmLS-iKfFPHdsRTRndo14lVgzXsadrEU9Bgl9Hh4BaddemOpdk4QER0uRu2FEkt-NyNU86uCRJ-JdlnWIw0elIe9W7QQIf8uFb8BvSvc6aWh__GDIVrpQCSWSOn25Bxr6oldquNVGYyyDcI1ItVa9P6eCDJHS1sRB9XCJyaQ6QSIrabuGVDm64iZHCQTKqstYyP5Ek5N_I4lohE7ow33ocWh6sqs769LqNBzkj_3ZKQlE3UumwZVvL1DYk527e60FKkkHQqEtHBopfn5UvoRsf-H8RtjwmmusDx8dglYA8VSSDz9L18HobKochCGKL4QaeZfE4R1sORYnRfx4DdZgALfj_2dPJ2GDMjE5rWxIwG3KY9CF8k0Jnd-yJBp7vIj7qshM5KeWaowaIwqSKJhJS3GICgzY8nRbYSnkEXMWsPdTBOjJvlbFSO_8EoAoK0b0skPdkGta3BEb2WiPXqsxYOL32wJtaZBB1cIuB52HwwQoYKgaAHCvP08zLtdbHyshcMla6MjN_NB5HVeNOFGKZ0f_pCuN6aIExExYvttEdwTjM8wsNw_Qdf3f5TVPcDyly_Kx7kg4zZ5mVcCIWFP0ikyyGJAx87kurjXu0wZqew5Vxswc4PYt3CRcny98IRBQSGHilqHZ7OK0q-SFhBCUgtNt8LnSLx80PDp4" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">گل‌دوم وایکینگ‌ها به بایرن‌مونیخ
+😐
+🔥
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 9.41K · <a href="https://t.me/Futball180TV/108596" target="_blank">📅 23:12 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108595">
+<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-text">بایرن‌مونیخ دومیوووووو خورد از وایکینگ
+😐
+😳</div>
+<div class="tg-footer">👁️ 9.34K · <a href="https://t.me/Futball180TV/108595" target="_blank">📅 23:08 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108594">
+<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-text">گلگلگلگلگگلگلگلگلگ</div>
+<div class="tg-footer">👁️ 9.36K · <a href="https://t.me/Futball180TV/108594" target="_blank">📅 23:08 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108593">
+<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-text">🚨
+🚨
+گل دوم مردودددددد شدددددددد</div>
+<div class="tg-footer">👁️ 9.53K · <a href="https://t.me/Futball180TV/108593" target="_blank">📅 23:07 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108592">
+<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-text">صحنه رفته وار بررسی بشه</div>
+<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/Futball180TV/108592" target="_blank">📅 23:06 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108591">
+<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-text">کوووووون فلیک داره پاره میشههههههههه</div>
+<div class="tg-footer">👁️ 9.94K · <a href="https://t.me/Futball180TV/108591" target="_blank">📅 23:05 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108590">
+<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-text">گالاتاسرای دومیوووووووو زددددددددد</div>
+<div class="tg-footer">👁️ 9.86K · <a href="https://t.me/Futball180TV/108590" target="_blank">📅 23:05 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108589">
+<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-text">گلگلگلگگلگلگلگل</div>
+<div class="tg-footer">👁️ 9.71K · <a href="https://t.me/Futball180TV/108589" target="_blank">📅 23:05 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108588">
+<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/8a56bd8725.mp4?token=Xz7yZs7s5c9DcfrcrLDqlNn9-0NiyW59SDpyz9y1YTXNWxnGaHnDXlGqSyDykoKhORlY9YiVGiGXLPUn2jcR9rLjMDLtMUp_mjsjd6CxFJ9QEoY8haAvxGzl5-R62Mt4wzfL-k5jmfUO0e8JXVU3O0J0PTVHBkrQo3bTFQNgf4wikx_x0lbXNQANs4UhvjGtOgb-kLwMYZatFqPESPzd3gX4X5QNNC9zSmTyYvnUayjCiicj5xgKDS-dUakqCQeTLVh0Pd_kEry9cZSm8QgbZzqG1bd2XojSiZYnGWLi9aHzQ-zh6yZiIiRdFBHZPjQIL37I7rlkOJboa2uIem9xsA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/8a56bd8725.mp4?token=Xz7yZs7s5c9DcfrcrLDqlNn9-0NiyW59SDpyz9y1YTXNWxnGaHnDXlGqSyDykoKhORlY9YiVGiGXLPUn2jcR9rLjMDLtMUp_mjsjd6CxFJ9QEoY8haAvxGzl5-R62Mt4wzfL-k5jmfUO0e8JXVU3O0J0PTVHBkrQo3bTFQNgf4wikx_x0lbXNQANs4UhvjGtOgb-kLwMYZatFqPESPzd3gX4X5QNNC9zSmTyYvnUayjCiicj5xgKDS-dUakqCQeTLVh0Pd_kEry9cZSm8QgbZzqG1bd2XojSiZYnGWLi9aHzQ-zh6yZiIiRdFBHZPjQIL37I7rlkOJboa2uIem9xsA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🚨
+🇹🇷
+گل اول گالاتاسرای به بارسلونا
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/Futball180TV/108588" target="_blank">📅 23:01 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108587">
+<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-text">گالاتاسرای زددددددددد</div>
+<div class="tg-footer">👁️ 9.73K · <a href="https://t.me/Futball180TV/108587" target="_blank">📅 22:59 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108586">
+<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-text">گلگلگگلگلگلگگلگل</div>
+<div class="tg-footer">👁️ 9.65K · <a href="https://t.me/Futball180TV/108586" target="_blank">📅 22:59 · 21 Mehr 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-108585">
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">لیل یکی به آرسنال زد</div>
-<div class="tg-footer">👁️ 2 · <a href="https://t.me/Futball180TV/108585" target="_blank">📅 22:54 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/Futball180TV/108585" target="_blank">📅 22:54 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108584">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">لیل یکی به آرسنال زد</div>
-<div class="tg-footer">👁️ 618 · <a href="https://t.me/Futball180TV/108584" target="_blank">📅 22:53 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/Futball180TV/108584" target="_blank">📅 22:53 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108583">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">گل‌اول وایکینگ به بایرن‌مونیخ
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/Futball180TV/108583" target="_blank">📅 22:39 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/Futball180TV/108583" target="_blank">📅 22:39 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108582">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/ee25b8b605.mp4?token=V7Pplt24joZwCtUDBtZCh5YnGq4NeY_Fk5aQlWkGZPRed8WFD-d-nXS8o2Dx9EpwCHEhyPnSCEEFlolGzv4Ufr19VNi8sH5uDPE0XLGquKZ5N7JPo6iwsgJDK7OLzTksZVZzP72xKlieDMLtby0ZorAGrguZebP9wKsth4OvjsP12FZM9cQirFX8v74ioDSGAEeJm-6DPWQI6oC87Rqp0_erRixq9oj2s7Gf3Lfpn4ExKKhk16THjaGYBETfH-cRvLL2TOETD2vlLpcDRBCB7qOW8Avmr4IPUGjVO-TlPRpGGj7XkpNz66Q-ZRhsNhn0Dm1_swCrClQxAMhflW1RgA" type="video/mp4">
@@ -328,35 +936,35 @@
 به نام خدا و گل؛ گل اول اتلتیکو مادرید به منچستر یونایتد توسط باریوس
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.05K · <a href="https://t.me/Futball180TV/108582" target="_blank">📅 22:36 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/108582" target="_blank">📅 22:36 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108581">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">گلگلگلگگلگلگل اتلتیکو یکی به یونایتد زدددد</div>
-<div class="tg-footer">👁️ 3.36K · <a href="https://t.me/Futball180TV/108581" target="_blank">📅 22:34 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/Futball180TV/108581" target="_blank">📅 22:34 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108580">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">بایرن‌مونیخ یکی از وایکینگ خورد</div>
-<div class="tg-footer">👁️ 3.36K · <a href="https://t.me/Futball180TV/108580" target="_blank">📅 22:33 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/Futball180TV/108580" target="_blank">📅 22:33 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108579">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">گلگلگگلگلگلگلگ</div>
-<div class="tg-footer">👁️ 3.67K · <a href="https://t.me/Futball180TV/108579" target="_blank">📅 22:32 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/Futball180TV/108579" target="_blank">📅 22:32 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108578">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">برررریم سراغ بازی‌های امشب لیگ‌قهرمانان اروپا</div>
-<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/Futball180TV/108578" target="_blank">📅 22:29 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/Futball180TV/108578" target="_blank">📅 22:29 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108577">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">🚨
 🚨
 🚨
@@ -368,11 +976,11 @@
 امید عالیشاه نیز ۴ بازی محروم شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/Futball180TV/108577" target="_blank">📅 22:23 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/Futball180TV/108577" target="_blank">📅 22:23 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108576">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pnaksNmSrqLUMKVrbinHkRWami6w77umYZ1MGDl7nul5bv0aLpJCq_zb27_1_biwIRd9qEQk6BgzJy73AZ7AN323FbSUbIqTFc6ET5wAIQGCgj1SGN0oVvhnJQcqvc_O0jUO8uz6Xg0rLE694TUxRMiBeAWSTN1dn2yS5HVRstJPFwrFKOKUi17ylTJJxbalPDDoJSvPB2x5axaQqU3PRmPlJqn9hQtyZgC-TPpAnbtEj4UcYUxjhRiAbdPi6AFysrSIguMniHs1UM_PrBKwHEfRgiGdxGDa_fTo8aafVLPBMLII794l2YJJc5rwAvLIjeFl67dM8L5peotSq-lZ4w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🇪🇺
@@ -380,11 +988,11 @@
 ترکیب آرسنال مقابل لیل
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.79K · <a href="https://t.me/Futball180TV/108576" target="_blank">📅 21:23 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/108576" target="_blank">📅 21:23 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108575">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oaJ0DGBh2SvFYNh_gXdzenrzuVXBQM1luQHOoFLv86cfEzmFT_R3gbBDcCwyLMxrzdkxhNTwgiS8Dk87EHlIBP9dF1aTjwXlSxKVVaphUwvaBbGwecXxCQSNl87htBInFTN35YkPN5Wecbfo9UjD4_Jkv8pI0gvPFID8Fl2hw89XFkFSfhkOb4V001GsxgRcpWkvW0weYSPd-Zf-KoWRT-VFAz0nbl-kQhOpmUA4FO-vHJkE5NhcOYpb4l5wV2rx3P0ia7wRuqRfwfas8BXMAFPjmTBDrrtw9iAW0ZTEE2Ck3aovz-Run4AuXNa4Lcy3-8GVkGDb9x00z7t_yEgmDA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🇪🇸
@@ -392,11 +1000,11 @@
 ترکیب بارسلونا مقابل گالاتاسرای
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.97K · <a href="https://t.me/Futball180TV/108575" target="_blank">📅 21:17 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/108575" target="_blank">📅 21:17 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108574">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/c13c928814.mp4?token=FxWwu65w3CqnStdJ_zEaCYTqhSGEcdnTbOMLlan42jb6Iwf39XuB4ayi-YiQVAZ9yKNwQvkbXT1cbrOES-TLzXfH9w3tjhC6IWS1dC_5pAC3cMZX2Q3pfYcEedM4ybimKAqUhqArK2iKTr8V-F7FjaLkbZ2vaC-AqlsvOtC-25bKwLSWzdaxlyruvzMqXrqZk6A-C6mbYXVTqADsXnEgQ_xJ0UagL5Qk391HLMkoUj0-2n23oErufjN_I9vw_T16XQ5g0_InAAQg06ep8gzZRw4hKttPxUnb0mWIssEr1J3BmLuCT7iUVa68iGdZUe2XAjY1SjHNeD5LrfA9Y90clw" type="video/mp4">
@@ -412,22 +1020,22 @@
 ☠️
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.92K · <a href="https://t.me/Futball180TV/108574" target="_blank">📅 20:53 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/108574" target="_blank">📅 20:53 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108573">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kg7t--2paRONAHuAgPMaWN8cIqX3OYT4g_4CduievUEQm6R_yu8xj4d7-Vy-eUKK3eyd28QKj2ZZgI-ODQOAQWrsUslUpGm8eVD63qIFaQrdQD6hiCHmzY8CAjjAsyxJGtRwssQAylQUyAVPtPNiLe0oDCYc77NLz_E5Nrh8q6-rDNDqXgxm5U5vELec2oLQz31Cy9JxZDHXD9l-x6bJ30e0tdmMrqiWOySwyHzt06mjUb2ekoQtKZlchBkiFXUmZgRxGPgUTIQYmyVhRKpeZ6ZrY0zJ45xImwqDxXXg4hLx_jC1REI7auGQ0lbsjFTiwuSpH6Z_Gq2wzCuukzdGsw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🇪🇸
 اسپورت: دنی‌اولمو امشب مهاجم نوک بارساست
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/Futball180TV/108573" target="_blank">📅 20:43 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/Futball180TV/108573" target="_blank">📅 20:43 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108572">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/94fdeb1527.mp4?token=TuDEBfZpyl-iUFZlxoiy4z06WH2JVbJYHXRbUt89s-HFerzDaFWtDx2UiB8J577CZYblRbMHaUwbEu0RGpci8dZJE2iTntKBRojFHHsaNqJLkD723_EjIU7XLDU95f-ldDvU-UZKX-s24H8l5rFjPDyst09AtfQ2D-sdCJ-TZrZ7-qg1ujRBP-CEYVcL5HoM-bj1Xo9Ut4rFiLyy9iEDKbxnSvzep0jzdNqR05f_Pkyel1CEn8yxYe2WFmq05aG5V94XYKeKkrCJMZqMMBLsYjO1Z7wgHW0msEpHnPdpsvkV6LBXGrrfu26d3WcCffPEJwpnPqUVFNwceHHd4YeB0Q" type="video/mp4">
@@ -446,11 +1054,11 @@
 میدان انقلاب تهران
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/Futball180TV/108572" target="_blank">📅 20:18 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/108572" target="_blank">📅 20:18 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108571">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/1b7ec7a32c.mp4?token=R81tn_YQMLDRd_roYppTc20vGpDWcQ-Gr9OfUk1VHBcQIjPZfvoRhN_N2RN4GzdqNMq2h-TBo3hcR0QubTRqd_OzTTqenui94ISg1pQqSqBF_rbQXh06x-y-KFZxGVz4ZCuEkUiR-VrtKvs0OmBBfq8ECDGFEA2NKRVJ8Xr_pj_mVwCTUu5DErfkRWq6CoUbBI1718u2APw0FW1IOLYTQtTNRPqfpnu186cmnf3oBBKHV4jX1lF04-p1JuvRKvSrEotLowHO8I5wxGgJgSSqv2tAioeSwKh8HEc3tN9hjCzhLaqS8gUyL57gjdutxoEix1K2ahe5cQ8a6BfllFYIWQ" type="video/mp4">
@@ -469,11 +1077,11 @@
 میدان انقلاب تهران
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/Futball180TV/108571" target="_blank">📅 19:59 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/108571" target="_blank">📅 19:59 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108570">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/e75009e0b9.mp4?token=I-s4r8MYDXDVCXOdkjcmzD8n-51WKmQuJb2fbeN9xN6ZdmOgKcuzTXO0cnwTCfyn1v74Gzm4ZEj0HuUNrG5InqBxnurd8SL1KgIRiaweHFgm6h7GvdCacvQV4tr0r_PVlwJb0xXQEIYs1BTFl-uiKWKCLJ-9LDh06q0loihIiyUxZ4zNu6BmJD_MB90jzT5TDLW6KyTBylcFYCXv10bxronQT3qq2fZNa7PzmWq0A97uxD5--_rMj79I0f9oSVO7D9lI7OXe4YpzriXAYJ9uuYpiaWjYNllN4ULJ00fMLsMbaqX64_2sTdoMFVWNWBJ1NOhyixJzlKXw_1i_tX3kMQ" type="video/mp4">
@@ -484,11 +1092,11 @@
 <div class="tg-text">باند سفت‌های استقلال از یک فلافل شکل گرفت:)
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/Futball180TV/108570" target="_blank">📅 19:31 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/108570" target="_blank">📅 19:31 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108569">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/ae9aa2627f.mp4?token=v1eUnFfTpEJTIHBMfGTmsjlaLuG20Qwyhwi_BBC-DzjLn9yisYBEVbMMdn3Pm69KfJZbQ8C2Hd4eIkHsZTvKnCoXY9Ywumuy9HuK4D683upePImno8qivmuYUh8WupKQnlP-7erNXwb72fQrp2vAVQ28q1FuWInm6NSauob0ukj73jgMIfmiV53jtqZwhsBhc6M9T0oo_Zp6MIVH8YELZAyBYiVLnXDrkKyQHGhfKdGdUZF013UrnpOne-smhmzrZms7eAmLnwuTp9NJm5_DTHvIYTiR7dZdaO2VLEkzaIEfur76pvzhZGDn41Spu-osPPO2zwYd3MEX9aG7vtoJyg" type="video/mp4">
@@ -500,11 +1108,11 @@
 روایت خوبان‌عالم از بخور بخور در فوتبال ایران
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/Futball180TV/108569" target="_blank">📅 19:02 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/108569" target="_blank">📅 19:02 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108568">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/ce5d2d95eb.mp4?token=KctGP-oH5tySVrysqL9569QYbNZcoHVs5oWo3kzcv0uY1TNIUnk6Bvu0mZxlI-KJGI-kSz-i1Uqqv59KpLVcWAaN2SNmDNFnPX0QIYECxlXKujxq1WGBErXKo4orEHqlk_3ui37k-Sl3t339ahy069yU5NJXyWY8ebvwUhMuQuLSYljQCf7W6o-qutT3ImTZVmsHWlK2W8gTsJMhp5wdQREiao37EtIi21DvUE7c7r34jchfuBR2wSRFU30ZgZQwtqh6j9MU58I3dR4fzIhgMTNM8H35yhoC1nflXsp70lT6a6xCQ_OBhaHgnZt0mvpmyMQJ6uqS6C4HbSYEfi03BQ" type="video/mp4">
@@ -518,11 +1126,11 @@
 شوخی سمی ابو‌طالب با کات‌کردن آسانی و زنش و احتمال کامبک: واسه خودم اومدی یا چون که یاس شدم؟
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/Futball180TV/108568" target="_blank">📅 18:20 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/108568" target="_blank">📅 18:20 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108567">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ds83LbkT-jb-N6U3Ru6dP9Gq1W6TtAkjjIn0i8FHv16vNbuHVfWsC_cFH0tkY46ZQdrW9sFQ7LqY6c7IqEZhD0wWymPaW9qJB2-1dLxQJAciNKz4ZOe4qyPt7ZXNYblctF1A35v14vKPZ4xyBzVEF9SGhgglPUwTgIXQU043x3MwbzpK8bwXapGVgXM3NxjRfjCyqcRGpfNlKC4jdbUg22HhxTHHAIZFXVQxGTk7eqTdIWjJiH_BawGGv6yJ6knzEnQsDlxdcUus8NNt0DknSfl93JjzBUERCGzlku_3Knvz7Ju-CZl5qs81tq75vBWYTOkYrj9Ak--A3j2FYx39Mw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 فابریزیو رومانو:
@@ -532,11 +1140,11 @@
 حضور مسی در مراسم توپ طلا هنوز قطعی نیست.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/Futball180TV/108567" target="_blank">📅 18:15 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/108567" target="_blank">📅 18:15 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108566">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Fa1WngsGmgnCl5xVRCH8yF99Qv9AKRP4TbiQX-x9e9PTqDW5ZMF9cGfHx8NB_34JrRRXWEdYW6O7pxC4KeJtWuxE3Ng-At8yJGxsJxYgWtvfcMcwjWYN5RWu5-T3QCLu4VjLrp6UZV-ORmD5LWz4XhgMGqZQhtpQTrUpkfQxNBZxhGKz59cJe72ogklqKj5ans6FzhsmFlQ9Y2nsBgK6YUu1mDXPVbAxVu3FvFAdj-RGkQznTQ_2YNxXYca--EZn_rivUrdUG-5znx1S7k_xHc05scPMytsyjcTE0dzye0nC1t6t6AVdlky-yvSoTLGib9_YzxPIYBNABo8MA95pQg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚽️
 لیگ برتر ایران|سپاهان فاتح دربی اصفهان شد
@@ -548,11 +1156,11 @@
 گل ذوب‌آهن: امید لطیفی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/Futball180TV/108566" target="_blank">📅 18:10 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/108566" target="_blank">📅 18:10 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108565">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -569,12 +1177,12 @@ t
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/Futball180TV/108565" target="_blank">📅 18:09 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/108565" target="_blank">📅 18:09 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108564">
-<div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/j6fF7vOhnjGBvdE49YjNi5Z5bsPFGoZDqrwul9g_ckRUBZPMHttHPIpeOimonKhEOuflMCBD0SK2EZUJy8x__qL3fvJkP-ZuoVw4yh-yWqgMEBSzJH3iLIHrf90vctY2LiEDtIpBHKex6-p3LtwYBI3sawbaqbqMNykq4i9yiYYSxCBUM9cZ1igo3akplisDZ_V7-9jB5ylJh_siuzURserqnhusAiVsEfvbLS_6R7dO0_1T484RRaU9YpPcT1PXYOTkwZ7LQflY5Xhwf3r2jm2BRGvEJsZnQsZKjXN2urimCIejsNyeXR8pw_RNYjqKYzSIBIOJLk2OKYr3xJQzGw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KiRZGOmv9awIUDk2F5kBNFcxLaNNFMXYFD90XnJckoEYCDFWw6wm9LSdfD1Wi9sHPHX4vpmx_uLm7juN8Dd3UXWpNdvCrp9QS5d-DE7kcKODJdmSMK_NScWuq60jjSB5AGJPXJ381Ezuf7kON7yYgfPn3U8K-3FLxTH-m3JcafbNQ0WVDu3fhw0YJtq93jlFZ01hIJVi4-h5_QQKJaaN11Z4wDRq0lQbm8jmQeCyWqvF-YpCTzWCVDr6_5ScSJz9grQOd5E9doGMzwNA8cBzdNMaPoe25VMUX9yYlPMlm5flLoM9YDPM37xdYBQJRNTLJH654s5iPP29km9MQ5I6oA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">منچستر یونایتد
 🆚
 اتلتیکو مادرید
@@ -600,34 +1208,34 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/Futball180TV/108564" target="_blank">📅 18:09 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/108564" target="_blank">📅 18:09 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108563">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a19588c007.mp4?token=W79oLmOYM5S-ErAcmgm3eL0BS0Nls3kPAYe0IGtAGVBweOY1Xk8KS3xl7h32Mlm6x49Is4mx5XNgb7i3z-LL8awggtFfQ1NwtIv7ZBrBnOoFfFJSM9oY_zV4XAG9pdOUnPNWG5G1XOAZLKK5BDlp8kpRODxrmKM_6Pxvaa_TX6T1b3reKRdN2S419xVxXOsVxWPR7PthlARXw9sBHqVCa_UqkC-MHbsYHvONpGAyheBjfyGXG0_ZFQ1oA87EUv3Sdz6BOtTCtrv6AEw_i25d0sXL-VuPhIUd-K-AEY5Arz0HLiRJc3YN2yTrcTzZLpiqOCFoer33nTVh4Vu56HqwtQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/a19588c007.mp4?token=K-Jf4TAP6eKUVNIEiJMl_096k1MoxlakbpwddShKwsHbPunmIeiKGdwreaWHcsbE5J0NkTSbsT_6V1X3dmRMmvbNa15WAZp2AAAikyoq-DkG3i9KHf16s-rAm8a11Fz2C-pAKvwTxvDReUIqH3RZCQzRbVAgxHp-YvW7BX02mnc5gjA-8mygMh-DJO4qlSqckeCC216GXOVDluiSWKH-A4K6peCYYcg4fhn9hJjOHlwdTA3XH8NX7LPm9ql9XTa5QQygxR1KDc--_O1EuX-hQS89nzVZJw13BqUanVarokIuV0ZU4Rmb7I1JRP0w3ijwbyfYjqKsdVQuj_Z966u51Q" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/a19588c007.mp4?token=W79oLmOYM5S-ErAcmgm3eL0BS0Nls3kPAYe0IGtAGVBweOY1Xk8KS3xl7h32Mlm6x49Is4mx5XNgb7i3z-LL8awggtFfQ1NwtIv7ZBrBnOoFfFJSM9oY_zV4XAG9pdOUnPNWG5G1XOAZLKK5BDlp8kpRODxrmKM_6Pxvaa_TX6T1b3reKRdN2S419xVxXOsVxWPR7PthlARXw9sBHqVCa_UqkC-MHbsYHvONpGAyheBjfyGXG0_ZFQ1oA87EUv3Sdz6BOtTCtrv6AEw_i25d0sXL-VuPhIUd-K-AEY5Arz0HLiRJc3YN2yTrcTzZLpiqOCFoer33nTVh4Vu56HqwtQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/a19588c007.mp4?token=K-Jf4TAP6eKUVNIEiJMl_096k1MoxlakbpwddShKwsHbPunmIeiKGdwreaWHcsbE5J0NkTSbsT_6V1X3dmRMmvbNa15WAZp2AAAikyoq-DkG3i9KHf16s-rAm8a11Fz2C-pAKvwTxvDReUIqH3RZCQzRbVAgxHp-YvW7BX02mnc5gjA-8mygMh-DJO4qlSqckeCC216GXOVDluiSWKH-A4K6peCYYcg4fhn9hJjOHlwdTA3XH8NX7LPm9ql9XTa5QQygxR1KDc--_O1EuX-hQS89nzVZJw13BqUanVarokIuV0ZU4Rmb7I1JRP0w3ijwbyfYjqKsdVQuj_Z966u51Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 ▶️
 هالند و یک آمار عجیب؛ او بر خلاف امباپه، در تله آفساید گیر نمی‌افتد!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/Futball180TV/108563" target="_blank">📅 18:03 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/108563" target="_blank">📅 18:03 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108562">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/1a34457cfa.mp4?token=LIbZURTB0ZmOMcPik7bmZLF1pZI5HgkXaQrHoYphKU8gJd2EYLTRclLb47bWc_9A3c6KGoWS7ERKM5YrdONJ98tE_x0TLGEz2qoAKZbmyY_h2bU3zJLdtlXL7huHnGFkjKgM7NNsM71NU-c7XF8T2g942n0gPSZWDw5blg_7AjQCx1TsKsYlnI4Zs1FwILvEE-hfAg25ZW3cnwORn0zq2OcMmBxNmCzH1iXQyj5IKF2sh26qf0f4MNTisfISjDgNl5Up_W8D4gbn4-6VU00PjmUdhzUD_HjGOEEnY6VSBplQV6KL0mbOk7Ao6WnsoTO-k9OkbeMwraab4Iu1-P1YWg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/1a34457cfa.mp4?token=Po730qki8KyrxjkulZF19U5Q-IfXpQqGCVyvVsZT08ow8uFheO94TGoKd41rETaNWZZEBjNKCmno3sw6-rYAViN_6WhLzfWS18kZRGiih5UqjkYJ3IpvIqHGsc5xy4GoC4c0-HecujtwLeExVoRARlh2LFj0i0N9uIzcQWucyUc-E_VEH_2zcA6fd5H4TbmNGMcb6C9Z9rRhB9xEkL-7sKfQ2SmMaljvfKkcjCVCjm4OrAUrpU9upt2Hk2nknymptfMCzRYEwxq6URrGpykBfHv4IOjE4J5aZF4sWcpU9j6wV6oVcX1RQ8MvwV_un3pBT9jJYJpfCHMEwEW8jJdTzg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/1a34457cfa.mp4?token=LIbZURTB0ZmOMcPik7bmZLF1pZI5HgkXaQrHoYphKU8gJd2EYLTRclLb47bWc_9A3c6KGoWS7ERKM5YrdONJ98tE_x0TLGEz2qoAKZbmyY_h2bU3zJLdtlXL7huHnGFkjKgM7NNsM71NU-c7XF8T2g942n0gPSZWDw5blg_7AjQCx1TsKsYlnI4Zs1FwILvEE-hfAg25ZW3cnwORn0zq2OcMmBxNmCzH1iXQyj5IKF2sh26qf0f4MNTisfISjDgNl5Up_W8D4gbn4-6VU00PjmUdhzUD_HjGOEEnY6VSBplQV6KL0mbOk7Ao6WnsoTO-k9OkbeMwraab4Iu1-P1YWg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/1a34457cfa.mp4?token=Po730qki8KyrxjkulZF19U5Q-IfXpQqGCVyvVsZT08ow8uFheO94TGoKd41rETaNWZZEBjNKCmno3sw6-rYAViN_6WhLzfWS18kZRGiih5UqjkYJ3IpvIqHGsc5xy4GoC4c0-HecujtwLeExVoRARlh2LFj0i0N9uIzcQWucyUc-E_VEH_2zcA6fd5H4TbmNGMcb6C9Z9rRhB9xEkL-7sKfQ2SmMaljvfKkcjCVCjm4OrAUrpU9upt2Hk2nknymptfMCzRYEwxq6URrGpykBfHv4IOjE4J5aZF4sWcpU9j6wV6oVcX1RQ8MvwV_un3pBT9jJYJpfCHMEwEW8jJdTzg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ده نفره گل زدند
 ⚽️
@@ -635,28 +1243,28 @@ T.me/TrexBet_Ir</div>
 ذوب‌آهن ۱ - ۲ سپاهان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/Futball180TV/108562" target="_blank">📅 17:47 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/108562" target="_blank">📅 17:47 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108561">
-<div class="tg-post-header">📌 پیام #76</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mt0H_3KLPouuoXmKT1wk0bhxkw_8DM2vLNdBDjI_cZQJIJdZ6nPdZ-lSlLjkTiazjiGoSql0C37FF6DfSYOlCN4I151VhRsvQYJ3asHeZM-aYbkgxedFyXrbLfJH6tpFOHmEt0wptfWuCHd52Zn9v__EZBXNYNlwOA69Xf-EegrRrc0ZlzS-1NGmfLLpZS8BwJc4M3SVy37WCX1Trgyb8Ph7CFRWSN546g3gJdHD57ImqgoX_IFQ9zIZdLyEY2S2q2OEy_H_zVw291Fzs1WtDdhRiDaORiUxLx9zIx6JsVXZJjliDjVdotoC8d_ZImWBueFSwRtP1hYPj8U838angQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bGL0VqNZgrHHUk8852gmn7LsOUgie41o6rqE3xn2QEYwXJZwo6bcNKf4RZg_jlef4y_QbcBUchXzzw3zRFbr5-0arcSA0V-oloSc22dpY6Vj_uektFN34EphY5iF-6AfZjpc-98if5uV8b5kewW3QHrGLR4HQKVuNNDGVOBHKCgj4TX7e0-vP39erDhlV_-mAN1MdLzZaJcp3TOg4ep-Fq5PqKi2vntF-eNm3nRCdbRvNMuyIWzNIyJmtNKfhFKIWL6DQocI5-UfoiT-pf9cGvKDU3S6cmqCq6rJLIEmYd2HqS0K5IZ5rWBJc-De-yiaaIodDqBctN5_W8BYklnPcA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 نسل جدید خط هافبک منچسترسیتی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/Futball180TV/108561" target="_blank">📅 17:20 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/108561" target="_blank">📅 17:20 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108560">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/f57b850047.mp4?token=E1snnVJIsn7S7Y_Hd2AHLo2wvCpP7Upk_OJBxtgJzgC0SaqCqYF91tFSxmmMykTmMYA1FKpJi-mHclMnAX3WSPx4PIHKxtAyOhDYFJZNA1okp6i3H0cHqHZgKRicAnXmMkjnMb8u3trw4nMAnZ7Iiaoj1lyn8ZOmtk5XwnJPhwq0z44w5v9uoYThvqVZ-juSaB38S4y_KVJQzyfhNX3LQx5zRl6F_91AHS5H3_lGGCna_selh0l45eI7RT8Hkwi_Lq_BwmfV0HqlEyxx5Doj-9jk-We90DAWaKpUI6drsux24IfyEqqCwj2rAE1VxvXqVKMBBYaIZhCcBsKbrUx6IxRiUAP-8DO_NMRwx8tbAuRTqmK7cy2cClIWfCAMvgf8N-59SAX6LL4Lnjs2M4kwNIxNn_8fkCL0yTOo5TMA6dbdegE7JvjvT8-yjML2tv6VjPuOuQl23TqIsB_Y9vvR9cJDAGRIEdl9z81J_Ynjm-TNf2YKTJoW9y3fM7Jgp64U_S0uUSdwBnmEetpb_o1_ybxuFhDiy7vwf6HF4FHY5cbcWnRnBLxUc4phn7KR9JowpOjFBEGfXJBA90SRLQsLV08kxHQWyYLwIuzQsM2dPLmz0C2K81dNJrUaUgpxLUZt5WGTgEbL-YEpujOydN2t45VXujkfkHqfpitY4tbWHeA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/f57b850047.mp4?token=RBhCfFZmo_OoUTeF-4-j7iZ9W3sggslI8Y8Pk0BnjwGp4qqo582XovWrQLdUR9dSFrZkJbiK12FvkasMA9HKrRKUevgycjJjqYdJ5Q4UYcwI8q0iIZIdy5lhy_ZDWlc7_WMBk1goW39boAx2aVQPplhTRo3GfYyyiy1m1lgM3SS2_AKxp2aQbwHyL7RZhbDbMAhA4BHrlZbfkHxpU1J-us7vyAgAFMaNB2c1Vnh7jMdBcwumg-jUOvzxYV_cHxkBtD4tbJ6r3LqDnYPMidTtXSBhxgsEhveMUSItRQCykvN8OofhNMZvejkoXa1NdKJa1ndg0x7UWoOfCd3C_9gF2IWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/f57b850047.mp4?token=E1snnVJIsn7S7Y_Hd2AHLo2wvCpP7Upk_OJBxtgJzgC0SaqCqYF91tFSxmmMykTmMYA1FKpJi-mHclMnAX3WSPx4PIHKxtAyOhDYFJZNA1okp6i3H0cHqHZgKRicAnXmMkjnMb8u3trw4nMAnZ7Iiaoj1lyn8ZOmtk5XwnJPhwq0z44w5v9uoYThvqVZ-juSaB38S4y_KVJQzyfhNX3LQx5zRl6F_91AHS5H3_lGGCna_selh0l45eI7RT8Hkwi_Lq_BwmfV0HqlEyxx5Doj-9jk-We90DAWaKpUI6drsux24IfyEqqCwj2rAE1VxvXqVKMBBYaIZhCcBsKbrUx6IxRiUAP-8DO_NMRwx8tbAuRTqmK7cy2cClIWfCAMvgf8N-59SAX6LL4Lnjs2M4kwNIxNn_8fkCL0yTOo5TMA6dbdegE7JvjvT8-yjML2tv6VjPuOuQl23TqIsB_Y9vvR9cJDAGRIEdl9z81J_Ynjm-TNf2YKTJoW9y3fM7Jgp64U_S0uUSdwBnmEetpb_o1_ybxuFhDiy7vwf6HF4FHY5cbcWnRnBLxUc4phn7KR9JowpOjFBEGfXJBA90SRLQsLV08kxHQWyYLwIuzQsM2dPLmz0C2K81dNJrUaUgpxLUZt5WGTgEbL-YEpujOydN2t45VXujkfkHqfpitY4tbWHeA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/f57b850047.mp4?token=RBhCfFZmo_OoUTeF-4-j7iZ9W3sggslI8Y8Pk0BnjwGp4qqo582XovWrQLdUR9dSFrZkJbiK12FvkasMA9HKrRKUevgycjJjqYdJ5Q4UYcwI8q0iIZIdy5lhy_ZDWlc7_WMBk1goW39boAx2aVQPplhTRo3GfYyyiy1m1lgM3SS2_AKxp2aQbwHyL7RZhbDbMAhA4BHrlZbfkHxpU1J-us7vyAgAFMaNB2c1Vnh7jMdBcwumg-jUOvzxYV_cHxkBtD4tbJ6r3LqDnYPMidTtXSBhxgsEhveMUSItRQCykvN8OofhNMZvejkoXa1NdKJa1ndg0x7UWoOfCd3C_9gF2IWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 ⚠️
@@ -664,33 +1272,33 @@ T.me/TrexBet_Ir</div>
 ماجرای عجیب صعود آرمان آفرینان به لیگ دسته اول نوجوانان با حضور در رده هفتم؛ دلایل فرافوتبالی برای ۱۹تیمی کردن لیگ
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/Futball180TV/108560" target="_blank">📅 16:55 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/108560" target="_blank">📅 16:55 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108559">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/0ca58a516d.mp4?token=vJeOLzk6VFCOBpBJhh8KnoNVuxzbE1fcvPMmjIYFHFWhODOEOKG_s0xgQhR8GlqnKLEXUiyw1idW1d6Gk1in2O23n0iOrpKNPsh27u1cTEl74W1PRgfjnYVui3_ZfMo2nEGnSLtkiimH00o0s-c9hv899oLMZt6nGNLr7OxdtUd3ASqDC_bb998Kcmx2bl1Qr_HpcxGVEBiHSXXngOZp2A9HmFKUzph8rNsfD-O9Ql0fGcpY0BhYS2NFhc_cO480GCNv6mcouDF5ScF-3aX5vy5ywBm1pAD99YRHrSkTgT65zpBrwNGlnh9dSllL0U04dS-FC31EU7wKFdljRo7FOA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/0ca58a516d.mp4?token=D2_SoYZG9Q6WIOWTlcBoadjSVPMgip-MfNjbISbQnvl7tgbzbHfPK1xyXyjyKHCG151ZyjQHZaahaJiIPFzcEjNc71lyRcB0MNBG-HNoeZB9wsSh3fOCq1bH0ZchIQLdb2xtErc2tsrmJUC2Ln-ZWhwzZCiW6lq94QosxPWajoqMLpw80YuZRBSnzlmvcFZKdFtGRLOCjnl-Nk28w3JukbbNms9zi6_Uf9NimZtDJHhxg9HTaNzytHWeB3_IZKQcGQzrMR1fWmsPMJ4dOh1FQy4eD49uXTqgcLKYxSpQaRbG85TG_ASF9iKGu180btchLII3_bpiseOx5ulxZvvHaw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/0ca58a516d.mp4?token=vJeOLzk6VFCOBpBJhh8KnoNVuxzbE1fcvPMmjIYFHFWhODOEOKG_s0xgQhR8GlqnKLEXUiyw1idW1d6Gk1in2O23n0iOrpKNPsh27u1cTEl74W1PRgfjnYVui3_ZfMo2nEGnSLtkiimH00o0s-c9hv899oLMZt6nGNLr7OxdtUd3ASqDC_bb998Kcmx2bl1Qr_HpcxGVEBiHSXXngOZp2A9HmFKUzph8rNsfD-O9Ql0fGcpY0BhYS2NFhc_cO480GCNv6mcouDF5ScF-3aX5vy5ywBm1pAD99YRHrSkTgT65zpBrwNGlnh9dSllL0U04dS-FC31EU7wKFdljRo7FOA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/0ca58a516d.mp4?token=D2_SoYZG9Q6WIOWTlcBoadjSVPMgip-MfNjbISbQnvl7tgbzbHfPK1xyXyjyKHCG151ZyjQHZaahaJiIPFzcEjNc71lyRcB0MNBG-HNoeZB9wsSh3fOCq1bH0ZchIQLdb2xtErc2tsrmJUC2Ln-ZWhwzZCiW6lq94QosxPWajoqMLpw80YuZRBSnzlmvcFZKdFtGRLOCjnl-Nk28w3JukbbNms9zi6_Uf9NimZtDJHhxg9HTaNzytHWeB3_IZKQcGQzrMR1fWmsPMJ4dOh1FQy4eD49uXTqgcLKYxSpQaRbG85TG_ASF9iKGu180btchLII3_bpiseOx5ulxZvvHaw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🟥
 اخراج محمد حسینی و 10 نفره شدن ذوب آهن مقابل سپاهان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/Futball180TV/108559" target="_blank">📅 16:43 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/108559" target="_blank">📅 16:43 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108558">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/54bb3822ea.mp4?token=MBeg2rGxQ6L0b-bGOagMngUV7dDwIWc5q736IZ6ulvznz64wt7WWkouwCM53eLbLm1xH6ie4UbdWRqYQV1eebOOoOyTY9mdcATqdt5Hliepm9twXBmEMbYf0ibzase4l-UdzRtbHBmqs7Dnqd3qzNaccwwRo7JWB6OapgcNEn-CyelrreOC3a-4PDpJq95CQnPeHqK5puATYi9fyH_tiGjGKNS1D_OwJ1Je_5e1JDaOAl-mnoktIkg_T4I3TcIj0c-QePg_qzWnQRdtLtZAAI7AHDpN-8vd0w43eJlLagyTbZr4r6VNxP8qHItejeGkSdsmXz9R9JcyIpNjv0sKVGA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/54bb3822ea.mp4?token=mV6ROKB6EWe-MQTe86fxj6T867rZCRU-ORxTBp9wW7_0O6IKYL0veChcBDM-eRoFBCl1RDu80S4PUSslQ9piAnL0tJxan_T9mg_FxWYlsxZqbWRGtvEsj0lPTN-LqFTU1cgF91JlAjavWDklocM9Ms1nlZJCfaDCJ36n6ST23AQjVobMG0Q0dzC9SgwIsUIc7WqxUirP4CMp9YHkcaDTcq-F99mm4vgFJm8NQTPZcK11Uidt8rlCAgKN2Aj6W6VPxex_cQaKsleEpl6v8cFY4uqi7-2Skr4oaG-0YzbNxU2jncoS59yTGzIu76WKpFre9USubg07FKYr8Lj6K3AmyA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/54bb3822ea.mp4?token=MBeg2rGxQ6L0b-bGOagMngUV7dDwIWc5q736IZ6ulvznz64wt7WWkouwCM53eLbLm1xH6ie4UbdWRqYQV1eebOOoOyTY9mdcATqdt5Hliepm9twXBmEMbYf0ibzase4l-UdzRtbHBmqs7Dnqd3qzNaccwwRo7JWB6OapgcNEn-CyelrreOC3a-4PDpJq95CQnPeHqK5puATYi9fyH_tiGjGKNS1D_OwJ1Je_5e1JDaOAl-mnoktIkg_T4I3TcIj0c-QePg_qzWnQRdtLtZAAI7AHDpN-8vd0w43eJlLagyTbZr4r6VNxP8qHItejeGkSdsmXz9R9JcyIpNjv0sKVGA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/54bb3822ea.mp4?token=mV6ROKB6EWe-MQTe86fxj6T867rZCRU-ORxTBp9wW7_0O6IKYL0veChcBDM-eRoFBCl1RDu80S4PUSslQ9piAnL0tJxan_T9mg_FxWYlsxZqbWRGtvEsj0lPTN-LqFTU1cgF91JlAjavWDklocM9Ms1nlZJCfaDCJ36n6ST23AQjVobMG0Q0dzC9SgwIsUIc7WqxUirP4CMp9YHkcaDTcq-F99mm4vgFJm8NQTPZcK11Uidt8rlCAgKN2Aj6W6VPxex_cQaKsleEpl6v8cFY4uqi7-2Skr4oaG-0YzbNxU2jncoS59yTGzIu76WKpFre9USubg07FKYr8Lj6K3AmyA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">⚽️
 🟡
@@ -698,22 +1306,22 @@ T.me/TrexBet_Ir</div>
 ذوب‌آهن 0 - سپاهان 2
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/Futball180TV/108558" target="_blank">📅 16:34 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/108558" target="_blank">📅 16:34 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108557">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">😶
 🚨
 🚨
 این کانال باعث ورشکستگی خیلی از سایتای بت شده و پلیس FBI برای دستگیری ادمینای این چنل جایزه تعیین کرده
 🔥
 https://t.me/+bDapVmvigDhmYzZk https://t.me/+bDapVmvigDhmYzZk</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/Futball180TV/108557" target="_blank">📅 16:34 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/108557" target="_blank">📅 16:34 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108556">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WxUUGEQTnfE105jB7F7EfcQDNEFPqdjMgPUQq8v0BdJv8ZYMtTNpVX6lNAV1ZJULDQoVOIdHlQz_jpIbAVtrOb00ubb2IFX4Py5bTB0oOvM0EElII1G9L9nS3Dj3jm9VtOeejFb4q9pnYQldeJS9xdnrbx9xg3WqJ14QrxEUl6agh8zAUAHSuTrQ70AUgULZAtB3Nq7Yyym3OyBv8i8xsupwYGrl2uf5bk2m3CgLkF9hi_CpQ9QGpm2Dfp1aDiQZif_lZwViIFTkuUdhH9E4PdQ5a-38HiDaoa2mcl8v5ZGIF0d0RM8xEJHsCZa9EbMP15mWQRqmxalZRpXuUQJ8OA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">😶
 🚨
@@ -722,17 +1330,17 @@ https://t.me/+bDapVmvigDhmYzZk https://t.me/+bDapVmvigDhmYzZk</div>
 🔥
 https://t.me/+bDapVmvigDhmYzZk
 https://t.me/+bDapVmvigDhmYzZk</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/Futball180TV/108556" target="_blank">📅 16:34 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/108556" target="_blank">📅 16:34 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108555">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/5299108b84.mp4?token=jC1ZCPFwS0x5kvmO01vnhrfFoHhl8UVvZZSLCkRcDRAK-TLP0cafK0kd6qcR6y9sG4s7rANCWW57dYObrA_O-jY3q2W2i51SVZY7JXQQGFZgti_ZgXtYWZNvzAyoja5RxZTmASgAkVJvpHfJFFyMoO_mgF8BIQx-ugtoCEFvoPooMgxJmUU84Gji_8MzirzZi5siNrzdRR01EKk3zNkswXAcmbWkqYK3iEx9BjMk_XCFhUTLagWAI8F4z-Zjfy7bRP59KcF3myzyMbFzwPuWGK7OzVveVrAOqfo6LQ3BN-dZTLKkiYENJCBbEiWJT-086vc66jneSNXUD6X_T97UTQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/5299108b84.mp4?token=g85IZXUOP8Xh-nOdTSK4JMSOq6qWjuTN-i-jZMJn1poaKGzpUWdIPFXaiCk2C8YPQXxbDeOfHOuxmlvRavhkmyXZq0k8Qu48pR3WreWgEc6XYHJwfOHIGvPNbTZpBREo15Qjqmnr4_w1ZVXGSpIhG_1LIoxZqkPiBwCxqrAlxuQAUsEefJx3arlaeVxbBP2jixE4LN7j1S_9JhsPArfF18jEu4ThfBXo2sb6TQ979jYcmocSVVKYhYrWlIlvIFTsAC2MQABFU9UoKeLmgDrc16JQ8Cu6MTMuZUexp5InmSIihHNBO9UpBd8QpTvXdJuX35FzxwkWfGsC0HzIYpHsdQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/5299108b84.mp4?token=jC1ZCPFwS0x5kvmO01vnhrfFoHhl8UVvZZSLCkRcDRAK-TLP0cafK0kd6qcR6y9sG4s7rANCWW57dYObrA_O-jY3q2W2i51SVZY7JXQQGFZgti_ZgXtYWZNvzAyoja5RxZTmASgAkVJvpHfJFFyMoO_mgF8BIQx-ugtoCEFvoPooMgxJmUU84Gji_8MzirzZi5siNrzdRR01EKk3zNkswXAcmbWkqYK3iEx9BjMk_XCFhUTLagWAI8F4z-Zjfy7bRP59KcF3myzyMbFzwPuWGK7OzVveVrAOqfo6LQ3BN-dZTLKkiYENJCBbEiWJT-086vc66jneSNXUD6X_T97UTQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/5299108b84.mp4?token=g85IZXUOP8Xh-nOdTSK4JMSOq6qWjuTN-i-jZMJn1poaKGzpUWdIPFXaiCk2C8YPQXxbDeOfHOuxmlvRavhkmyXZq0k8Qu48pR3WreWgEc6XYHJwfOHIGvPNbTZpBREo15Qjqmnr4_w1ZVXGSpIhG_1LIoxZqkPiBwCxqrAlxuQAUsEefJx3arlaeVxbBP2jixE4LN7j1S_9JhsPArfF18jEu4ThfBXo2sb6TQ979jYcmocSVVKYhYrWlIlvIFTsAC2MQABFU9UoKeLmgDrc16JQ8Cu6MTMuZUexp5InmSIihHNBO9UpBd8QpTvXdJuX35FzxwkWfGsC0HzIYpHsdQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🇮🇷
 سپاهان خیلی زود به گل رسید؛ لطفی در دقیقه ۲ گلزنی کرد!
@@ -741,17 +1349,17 @@ https://t.me/+bDapVmvigDhmYzZk</div>
 گل: محمدمهدی لطفی '۲
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/Futball180TV/108555" target="_blank">📅 16:21 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/108555" target="_blank">📅 16:21 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108554">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/263d796f58.mp4?token=Y11-FeahSbfYJfntmgNnIGVEpNv_rnl_9sYahy4c6pFxIMS-txsfNhTIf7i3vfglppBJVw_vrbKfpiRDZsscOC-VsqRque3PoWGp-jjNf_nkUQ9CiE5Cr_Ksg53gc5DVoVkd-_nBNTt82oem2OA5TtgXkQhR5PBVLshwcY2flha10DmhdeV705j8TTAD8jpS2uOQ09TqMip1rPQ-AfUaoCir14FwhU6mtY4EB8K7uG_C3yQ93r34a11UaSW0677wepgh8QkSAxsgBcIYFMJUB1yamNbo4D_fItLNwwdkX-oi4EEYkL9VtWzvQuLLGxcKqsVPk-ieCfYvIposIKZ7gw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/263d796f58.mp4?token=nlGJIPDQYm7Gqb0TI1QxW9CjhXe2x6_UhThmBwgutRHyiyBFQ8JUKJPLZo0iDCIey43Dl9NzoD1C-E4-PH7HmfGSyArG_-a4Z7vqX-Ud7AyYgY_z4xzCb8wDEf4fUZJWBWUZzBzaqH6K1rkEu9GLnQUXY6S-tPqR7Ztc7rsRyMES61b3ObBGmX8w_U_xIMD27qgK4M2rY0TY9gEtQCPc_o2EsoJEAiqC57QFwUuwzEEmR7ZANLbsz1v-GR38c2z3z6JlO_v9MUWJ9HVfncbVAfpgGrFOLo184t0vwUv4X5UF_Npcw8MccrB4HW_S_xiRISedeFhsilzY7MuSZFG4Pw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/263d796f58.mp4?token=Y11-FeahSbfYJfntmgNnIGVEpNv_rnl_9sYahy4c6pFxIMS-txsfNhTIf7i3vfglppBJVw_vrbKfpiRDZsscOC-VsqRque3PoWGp-jjNf_nkUQ9CiE5Cr_Ksg53gc5DVoVkd-_nBNTt82oem2OA5TtgXkQhR5PBVLshwcY2flha10DmhdeV705j8TTAD8jpS2uOQ09TqMip1rPQ-AfUaoCir14FwhU6mtY4EB8K7uG_C3yQ93r34a11UaSW0677wepgh8QkSAxsgBcIYFMJUB1yamNbo4D_fItLNwwdkX-oi4EEYkL9VtWzvQuLLGxcKqsVPk-ieCfYvIposIKZ7gw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/263d796f58.mp4?token=nlGJIPDQYm7Gqb0TI1QxW9CjhXe2x6_UhThmBwgutRHyiyBFQ8JUKJPLZo0iDCIey43Dl9NzoD1C-E4-PH7HmfGSyArG_-a4Z7vqX-Ud7AyYgY_z4xzCb8wDEf4fUZJWBWUZzBzaqH6K1rkEu9GLnQUXY6S-tPqR7Ztc7rsRyMES61b3ObBGmX8w_U_xIMD27qgK4M2rY0TY9gEtQCPc_o2EsoJEAiqC57QFwUuwzEEmR7ZANLbsz1v-GR38c2z3z6JlO_v9MUWJ9HVfncbVAfpgGrFOLo184t0vwUv4X5UF_Npcw8MccrB4HW_S_xiRISedeFhsilzY7MuSZFG4Pw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">👀
 💥
@@ -759,17 +1367,17 @@ https://t.me/+bDapVmvigDhmYzZk</div>
 مقایسه سوپرگل آرین‌روبن و یاسر‌آسانی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/108554" target="_blank">📅 16:05 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/108554" target="_blank">📅 16:05 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108553">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/f8ac4b09ba.mp4?token=iDniCI2O8sGForq3Bin-R-nafcabvTxBy5Y4RSuw64_YtvoSqzt225135ktt1eIvt34_B3G74VRX7SFzL-_GQex7tSvlbRSlFOBbY1o6DmCKNz4NYtOkSczisO16HIEOm_V3uoB_2BPH2AzOgK6ZQOuRHMNk9pXxYdquycn2HJeTDRIec-c_VI9vDqP5B1DDJ1XjpxIwPxPdnDwWOes_npev6pO0xWNqQ6sQuJShr2orfKkLo8t1hNbO6z0WajTPVEPzXrgoJWuz_NXXjF0EV98z0-mob9yo1f3q0nwiKL5HNffGjG9Vsgm9_jsmE7vlSV9iDhHHxjbie9mvHSG4-w" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/f8ac4b09ba.mp4?token=vAotoERhI7dQiF3yUqmZY4VQN_QXiXrHYllnx2uOe6dDimuolK4zzlxeHPqiNzlbkDVezhUfZwML7um4epyrl1kxZkzSRSb-RODvN-duGM9itMnw4D9Yl5qcI_EXdFKhvSWaQNfj8EerHu-w557LWTgd0UVfeVfY7bnZ0oB22xH2JOX1x94ZtM-g3A1jRqCAS12uMDygqfFIVXmLPPEMa4fONENB5s2xMZVrlXnowQjyFJH9ohuGy0qU62EL3bYACNYp6BgBzPACWplbPB7zuO2UacJn5DqCcXd7F8xkE_hxMCfQc3QSNNM_WmVX6xB70xcyWO2Scw-dmVB1LZOXqw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/f8ac4b09ba.mp4?token=iDniCI2O8sGForq3Bin-R-nafcabvTxBy5Y4RSuw64_YtvoSqzt225135ktt1eIvt34_B3G74VRX7SFzL-_GQex7tSvlbRSlFOBbY1o6DmCKNz4NYtOkSczisO16HIEOm_V3uoB_2BPH2AzOgK6ZQOuRHMNk9pXxYdquycn2HJeTDRIec-c_VI9vDqP5B1DDJ1XjpxIwPxPdnDwWOes_npev6pO0xWNqQ6sQuJShr2orfKkLo8t1hNbO6z0WajTPVEPzXrgoJWuz_NXXjF0EV98z0-mob9yo1f3q0nwiKL5HNffGjG9Vsgm9_jsmE7vlSV9iDhHHxjbie9mvHSG4-w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/f8ac4b09ba.mp4?token=vAotoERhI7dQiF3yUqmZY4VQN_QXiXrHYllnx2uOe6dDimuolK4zzlxeHPqiNzlbkDVezhUfZwML7um4epyrl1kxZkzSRSb-RODvN-duGM9itMnw4D9Yl5qcI_EXdFKhvSWaQNfj8EerHu-w557LWTgd0UVfeVfY7bnZ0oB22xH2JOX1x94ZtM-g3A1jRqCAS12uMDygqfFIVXmLPPEMa4fONENB5s2xMZVrlXnowQjyFJH9ohuGy0qU62EL3bYACNYp6BgBzPACWplbPB7zuO2UacJn5DqCcXd7F8xkE_hxMCfQc3QSNNM_WmVX6xB70xcyWO2Scw-dmVB1LZOXqw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🚨
 ‼️
@@ -778,907 +1386,48 @@ https://t.me/+bDapVmvigDhmYzZk</div>
 ‌
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/Futball180TV/108553" target="_blank">📅 15:40 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/108553" target="_blank">📅 15:40 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108552">
-<div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Xdsc5nKQEnzlEKdwfqVOtpURPe7Mq68ihfiyIvW2XLYQ2T6k4P1rFM-zbW1-G4MWgaIs37H8x0rpuUjCdyQmqZPqc9RW4BQeN31uANvuZLf6CyK_yVG5wwjrOYAYw5ZjEgv9TzIGqpF9MY8kx3kFdoqBSui8sxUUa3Zb746niicDWXyZKSOfsXirA4Hp5AY664YuYvpkYUaTi09WTxHlo0MT2gFusIsll94O9BunYykiczmiLtrCMlpwCLUv7z2CPJAp-V-siGZ07MZknAy9g0qfA9sZsDzhHqrNVleaddbXJbrJlGXjoZfCpQgBz4mv5Mg8p0DUa8_vlminZqGhmw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gIVWS6n35Rx7C-je7fWjEmXK0cK45CpKiGZCPgdOqhmYB_9elU5OORdGaDIdoyxbG9hJcRptSQonAjiGsf7khh7WRcBF6f_liGulFk9xZCYJl9C8X3JhvAD2p14YldDK78PPlTAvj2Sh_HK80FiN5JzxCk9-CJdvLDBsmimGbATfBxOGxd0YPycGWzqF4TtnzADzmcwea-H8SU1Wnnr1AyOXbixjAwNU3DSFAECC5gOngrS2nDMst5Cgy4ylLpbKDiKarD80kYe-lkQi7O5dlvgMv3shyWLLrv-TTgdyMmbUsp00a2eLrfCZqmVljfcnRDYbkCTikgaGppXwW00wow.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇮🇷
 دانیال‌ایری مدافع پرسپولیس پس از طی کردن دوران مصدومیت به تمرینات این تیم بازگشت
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/108552" target="_blank">📅 15:32 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/108552" target="_blank">📅 15:32 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108551">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/23eaea7cdd.mp4?token=UzRXy01dv1srVA9Ux2BvjEEZEgiYD3cPE2IdUBZnM_OKh49HI0dQhGEj4P8HN99VdAMgxif5rFbvPBMBDV1HlI5re_6GPEt2bz1LSzrvBJWiOTliwlsvfQVXr290dFNndrzrTTM_eo3awOpSLn6gLoivDO0h7vlqZCSNISyQ908C68greGUyBlXM8-N84sd3sRAFYHsOJrT61xYNjPVPWxwVSNk_fD0x9NET56PJmh5YAV1B4rMeqj9lWnA0oqm0yH8bc8uF9q5QIla_WgT55acHV1HKCKHeetEazywPwFWQaRtpUODKZvOO55XLuKfN-PhxyDV271D5zc_uJiPyfA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/23eaea7cdd.mp4?token=c9kpVxJqL9T-MSECAlpRmEwUTYwaDiB6cnvLNVxd9yrnG8Pnt3wc-XS2-i6-SvMd19WrjS4F1VgHN4Kz8CcsWzBoGqdOZQoii5dNK9XeGqXLO-49XUomR7vdmgdJkDPst45sa8xKUlZwLpKkeW6VpZJEvL4t4Rx5rBXdY2eysAR-yklCuhUPD_V1wk_QE2ODQe_duaZrhRY4GedWwmpOKg0cvGNhc8Ik_fu3CQY2aF2goUvZ8ikBoJ74vCwDUHlfNajgFUOfZBL7ISM-eFffIWTjwT-4OKx-DLGZkyB-7IW_H6BH_HHTGGup_MNW1YtNyrWGPUoAp7n6CHtpYB-xGQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/23eaea7cdd.mp4?token=UzRXy01dv1srVA9Ux2BvjEEZEgiYD3cPE2IdUBZnM_OKh49HI0dQhGEj4P8HN99VdAMgxif5rFbvPBMBDV1HlI5re_6GPEt2bz1LSzrvBJWiOTliwlsvfQVXr290dFNndrzrTTM_eo3awOpSLn6gLoivDO0h7vlqZCSNISyQ908C68greGUyBlXM8-N84sd3sRAFYHsOJrT61xYNjPVPWxwVSNk_fD0x9NET56PJmh5YAV1B4rMeqj9lWnA0oqm0yH8bc8uF9q5QIla_WgT55acHV1HKCKHeetEazywPwFWQaRtpUODKZvOO55XLuKfN-PhxyDV271D5zc_uJiPyfA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/23eaea7cdd.mp4?token=c9kpVxJqL9T-MSECAlpRmEwUTYwaDiB6cnvLNVxd9yrnG8Pnt3wc-XS2-i6-SvMd19WrjS4F1VgHN4Kz8CcsWzBoGqdOZQoii5dNK9XeGqXLO-49XUomR7vdmgdJkDPst45sa8xKUlZwLpKkeW6VpZJEvL4t4Rx5rBXdY2eysAR-yklCuhUPD_V1wk_QE2ODQe_duaZrhRY4GedWwmpOKg0cvGNhc8Ik_fu3CQY2aF2goUvZ8ikBoJ74vCwDUHlfNajgFUOfZBL7ISM-eFffIWTjwT-4OKx-DLGZkyB-7IW_H6BH_HHTGGup_MNW1YtNyrWGPUoAp7n6CHtpYB-xGQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">سمی‌ترین ویدیو از حرکت زشت وینیسیوس
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/108551" target="_blank">📅 15:15 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/108551" target="_blank">📅 15:15 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108550">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/5cea75d776.mp4?token=kNXlf1zxAN-Z3aaE76Xw6qIXnu2HuFPDZCjqCGz1_97345BIot1fCavbBwItZJCkylbMSJNf1oyDc2hurtGNi00ab05PBLoI_Tksq23W-OPNpCma86SUN2zci6K4PTZL9Kg7qNwdWoG2-YA9i-Gafm6Spy_RArRYqOHQCmbPS7e75cJ3Tfggya4a3H2GfdC32DSemdimM6XpMLA-kiw5ergRX4h8FoHEd4uv4LuuDr5yGcNxjn6JPqCoefb_TIgnBtVLjiFDaWdt3uov-awAKqp96lsvNixkkEfWUO8HB7D5967GJLlTDbIaUKq284veO_V205kQDBS19Z8ur7JWpEZMpN1XeZz4PWBelQJTs3X2IQxo4xw9Y8Cd7QA6lDLqkFjoBJJEM1XhcRp6V-x0jsG5TXa9fcMkx0uRNy3KfLrWT6ZvAj29L2cbE1I9OoT4VfsOsxjVbTe5BGz3tXNIyeFlmfMSMSxSpFJDNt6v5zURIS2j9KZSjoypxGhZFyvRX2LTQsMvsAbfhvdf4Hud0Dd-g2uJxIz7hHmgk8xdsRS1I7cPeBRdaDDyKmVgNfeGhUf2uUx0pBJvNI2oHl9HF_DHQ_TIUDzBP1PJ1z44oypxm7e1PGz7KiYm7bte_8wEcfiMmz0p352THO7cY7PUV264kzMu15RSEuQ0oJRB2oo" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/5cea75d776.mp4?token=rIuPd1e-X80Cn8OSmybCk7liFPiS6vBLgR4Y9B_GqcoV-WGQ7WtMdKqAKGqHkvGvGRBY8_DtxLtdEhKS8XmBC1GDmAULytyRg8KoKXi6iXHZpHdIpjA5VGu4eQXXWnXiwpfEVNhn-efxiJU-9FAcc7giRiVVpAjSvvgdutcPegw1d7EDJPPEaKaNcMC27Td0Js6GWY52zEUhBEDzNMr_-f7gkjkGcffjXq6aP4m0AZFRLjGBkw4-Ewr0qE8su8x7V4CQRPUzsGcaKk5NC1ajPliWnVC5xyRHOwyhsYDakXKm_gQtODRC0iS59k4Q90UhnFLiz4mkxbf3BlI2HqdGOQ8ZsJfR3XEBSE4Fji1Fd6UDVooDD87ZQvFFl0ociRirWfpxtddXAv2d-uVV-0i96FXg7UZRjGGuoHEM2rJorj_IlSIxeDb2O8MiVrpGMSpq7Gt7Qv5laH5mkHYWu3fFtkFk5B3QALXwnuswaxHfuyUuKLDVMJztYs8TffvB9cwecQLpaM_elKYBM0TP-x1rJD9VWhtpj8KyWzAVfrKZE8UGebWqs2aIHF7O1o0eo3KrV3XxeTjst9pdX1bFkfrK-Zy7_okZCar-GGOszF4FVnKCArfKSuVIJaJdVWR4NehXwv7KOrLGlA_Y1-Zu9d0teQ9ARgwiT_8jJlYfJoSPXec" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/5cea75d776.mp4?token=kNXlf1zxAN-Z3aaE76Xw6qIXnu2HuFPDZCjqCGz1_97345BIot1fCavbBwItZJCkylbMSJNf1oyDc2hurtGNi00ab05PBLoI_Tksq23W-OPNpCma86SUN2zci6K4PTZL9Kg7qNwdWoG2-YA9i-Gafm6Spy_RArRYqOHQCmbPS7e75cJ3Tfggya4a3H2GfdC32DSemdimM6XpMLA-kiw5ergRX4h8FoHEd4uv4LuuDr5yGcNxjn6JPqCoefb_TIgnBtVLjiFDaWdt3uov-awAKqp96lsvNixkkEfWUO8HB7D5967GJLlTDbIaUKq284veO_V205kQDBS19Z8ur7JWpEZMpN1XeZz4PWBelQJTs3X2IQxo4xw9Y8Cd7QA6lDLqkFjoBJJEM1XhcRp6V-x0jsG5TXa9fcMkx0uRNy3KfLrWT6ZvAj29L2cbE1I9OoT4VfsOsxjVbTe5BGz3tXNIyeFlmfMSMSxSpFJDNt6v5zURIS2j9KZSjoypxGhZFyvRX2LTQsMvsAbfhvdf4Hud0Dd-g2uJxIz7hHmgk8xdsRS1I7cPeBRdaDDyKmVgNfeGhUf2uUx0pBJvNI2oHl9HF_DHQ_TIUDzBP1PJ1z44oypxm7e1PGz7KiYm7bte_8wEcfiMmz0p352THO7cY7PUV264kzMu15RSEuQ0oJRB2oo" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/5cea75d776.mp4?token=rIuPd1e-X80Cn8OSmybCk7liFPiS6vBLgR4Y9B_GqcoV-WGQ7WtMdKqAKGqHkvGvGRBY8_DtxLtdEhKS8XmBC1GDmAULytyRg8KoKXi6iXHZpHdIpjA5VGu4eQXXWnXiwpfEVNhn-efxiJU-9FAcc7giRiVVpAjSvvgdutcPegw1d7EDJPPEaKaNcMC27Td0Js6GWY52zEUhBEDzNMr_-f7gkjkGcffjXq6aP4m0AZFRLjGBkw4-Ewr0qE8su8x7V4CQRPUzsGcaKk5NC1ajPliWnVC5xyRHOwyhsYDakXKm_gQtODRC0iS59k4Q90UhnFLiz4mkxbf3BlI2HqdGOQ8ZsJfR3XEBSE4Fji1Fd6UDVooDD87ZQvFFl0ociRirWfpxtddXAv2d-uVV-0i96FXg7UZRjGGuoHEM2rJorj_IlSIxeDb2O8MiVrpGMSpq7Gt7Qv5laH5mkHYWu3fFtkFk5B3QALXwnuswaxHfuyUuKLDVMJztYs8TffvB9cwecQLpaM_elKYBM0TP-x1rJD9VWhtpj8KyWzAVfrKZE8UGebWqs2aIHF7O1o0eo3KrV3XxeTjst9pdX1bFkfrK-Zy7_okZCar-GGOszF4FVnKCArfKSuVIJaJdVWR4NehXwv7KOrLGlA_Y1-Zu9d0teQ9ARgwiT_8jJlYfJoSPXec" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">وقتی رامین‌رضاییان خودش رو چشم میزنه :)
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/108550" target="_blank">📅 14:50 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108549">
-<div class="tg-post-header">📌 پیام #64</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/N5Gb-X875jYknWo6WIrsCdInBb-IgxZVEtyw7bPeyk98PfmZ6U7K2wagUv7CiAbM00DUqoEene4MbwNOqtjT4P3_Ov06lq16I3ZGvnaxKWeuknvS38ic7avObkxhep--CYhQF6L1yFV6DaKK5GLOVfaSALi3z1DPlpo1cPW1G6BF3lFX0MroXqbSwN7pVRUBbBGkAv1y_OgcDEQiVAzZKVhPdde--nXY0itJ8-KhomfLWQ7G67C413aEsBHFqSCQZsZ7qIhqlt3Sr3U6hbxZvPNC7O5MjB95PEz_iefGRSHmWq_abNb8hlvUU7QYSdK_EnNdK_GxDE7wzSXfMOXwzA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">👀
-📊
-بهترین خطوط حمله این‌فصل فوتبال اروپا
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/108549" target="_blank">📅 14:25 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108548">
-<div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lZu9vW41i-ZhJB5JjI84u1JWXJ18MhgK-cJ9E1L-K1e0KNr-ah6q06RFp3D7xx-YZhHDafgpZym0pfScd0PYSEpBZaJoKyRcLQ-jS2r1nLsJI9cVJ40IOuIfwi9aRHbrotPt3BjUaP3VA03IXEDsi6SdtXZvxtXRS2F0kqG3vdW01z_DYuPSuFlGT-IqkUDX4cgFfohcrZLN_m12ro_JBkvqNdcn_vlKevnLBtG8uqAPoKD0FRVPkCRLpSowbLxgLr1QjitarJzRn4DdPAC2VkDuWO7x2kO9jGgwNp41iQNJ1aLymXO3S2cKJwDFk-M9i5e3D21mxeNLGjFpiSPn2w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">📊
-🏴󠁧󠁢󠁥󠁮󠁧󠁿
-محبوب‌ترین رقبای ارلینگ‌هالند در‌پریمیرلیگ
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/108548" target="_blank">📅 14:00 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108547">
-<div class="tg-post-header">📌 پیام #62</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/7cbaca5bde.mp4?token=HRSSQN2lw_qDato1vACxU9s_ShnDky8y3lajsl7tKnmc0e2GWWNpLXv1CM0oM7MdeSUDDTRRowQ1Sig3Mwv9dUodxo275u1N2LasGo_JQKaE-pj4064x7KX0cgglI5S_fu9C1VOGLyYU_Nqy5rk7k_HjDfwbE_uJNJ10gk4sHfFxx5Izeq6z6tQNV7ZweU3YrVIc89f-xv1rLwuWRXHRCWAa3tq1IU4fjo7jYaj4c1kFMO1wCDW-K62J_M5AjHu0LNNfmJqyChYV59nGg5MSf6fXdKX3Ck0l-Gt_Fdwmz8e7J1vzcAUvYZ_pvfxUzSKgG1kI2M-IUo-krIRbj0GzaHfB6ahdFXMy9aeUlUkzfRKpt3lpaYzmXZqSIljQpCqJNGixXRd3wAwvrv3SaJ28LqM-kOsUbQ5fYhqLWIr89eqBXzfH06d4pv10_ClSwkLaTsP6_6cTGptKIKP0p6Erql3sDmKFeXhrB_NzUhGmgFwFkJFuEE3iU6v5MPtuOacruXbFY007ZF21hpCg6z27B-WU9guWqUV75fxCrzgJkYoHvZyLr63YYTWGlTYm-9WvZd-EoyX59ET59UZ9YFgvPuHkl3OpXLUvvJjYB-z0Frwb1BTT-L3s3wQeqE7n0SF8aXujXEGPcQK2k2RkQIne8L1zsAl7pHg3dCWWpahL6cU" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/7cbaca5bde.mp4?token=HRSSQN2lw_qDato1vACxU9s_ShnDky8y3lajsl7tKnmc0e2GWWNpLXv1CM0oM7MdeSUDDTRRowQ1Sig3Mwv9dUodxo275u1N2LasGo_JQKaE-pj4064x7KX0cgglI5S_fu9C1VOGLyYU_Nqy5rk7k_HjDfwbE_uJNJ10gk4sHfFxx5Izeq6z6tQNV7ZweU3YrVIc89f-xv1rLwuWRXHRCWAa3tq1IU4fjo7jYaj4c1kFMO1wCDW-K62J_M5AjHu0LNNfmJqyChYV59nGg5MSf6fXdKX3Ck0l-Gt_Fdwmz8e7J1vzcAUvYZ_pvfxUzSKgG1kI2M-IUo-krIRbj0GzaHfB6ahdFXMy9aeUlUkzfRKpt3lpaYzmXZqSIljQpCqJNGixXRd3wAwvrv3SaJ28LqM-kOsUbQ5fYhqLWIr89eqBXzfH06d4pv10_ClSwkLaTsP6_6cTGptKIKP0p6Erql3sDmKFeXhrB_NzUhGmgFwFkJFuEE3iU6v5MPtuOacruXbFY007ZF21hpCg6z27B-WU9guWqUV75fxCrzgJkYoHvZyLr63YYTWGlTYm-9WvZd-EoyX59ET59UZ9YFgvPuHkl3OpXLUvvJjYB-z0Frwb1BTT-L3s3wQeqE7n0SF8aXujXEGPcQK2k2RkQIne8L1zsAl7pHg3dCWWpahL6cU" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎙
-🇮🇷
-دلتنگی همسر هادی‌نوروزی پس از فوت کاپیتان سابق و اسطوره‌ای پرسپولیس
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/108547" target="_blank">📅 13:35 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108546">
-<div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/e81a66e7b1.mp4?token=Tl9wTT5DyKW-SkoABM4tX9g_nC3XppdwOenBMi2stD1Qs7xOsmLMbzG-8nTmIm76-jmkREaKw8a6UfpT4stbY-NH5fUg8k_m6GMHznb5Z828vZS6VyFw1lWjRFZjWZ_xZ3mD57aBa94vARKTJqtmVH9oroN7tTVWGOPIzsLTB_kP9wgBS2Fq-iOX1U5K1QbyMJQDYGXy2oW-RU_hVQGrQooEoPGWrOos-5g-uZ9TrYO06OabGqRitxe2wJko8tMqMfmhFxrW5g-bmQfW_207YJ91p8p-ALTWgEOXijrWGjy1XkQDQxoNdSWgNK9yU_40kvrm4oNdF54RvSE5ZWB7ZQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/e81a66e7b1.mp4?token=Tl9wTT5DyKW-SkoABM4tX9g_nC3XppdwOenBMi2stD1Qs7xOsmLMbzG-8nTmIm76-jmkREaKw8a6UfpT4stbY-NH5fUg8k_m6GMHznb5Z828vZS6VyFw1lWjRFZjWZ_xZ3mD57aBa94vARKTJqtmVH9oroN7tTVWGOPIzsLTB_kP9wgBS2Fq-iOX1U5K1QbyMJQDYGXy2oW-RU_hVQGrQooEoPGWrOos-5g-uZ9TrYO06OabGqRitxe2wJko8tMqMfmhFxrW5g-bmQfW_207YJ91p8p-ALTWgEOXijrWGjy1XkQDQxoNdSWgNK9yU_40kvrm4oNdF54RvSE5ZWB7ZQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎙
-🇮🇷
-محتبی‌جباری اسطوره استقلال: «من با کلی مصدومیت بازی کردم، اون با یه مینیسک خداحافظی کرد!»
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/108546" target="_blank">📅 13:10 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108545">
-<div class="tg-post-header">📌 پیام #60</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/0ab7ed9c6a.mp4?token=SR5odQD2AOsDMjaXnbdta3oOUYHqMGPi72CqqpMNIJO2hSb7nvrrxQNPOLLZe8f9-kRAphc4h_P7P_nuhBzGLnmtIbZjqu8OsHUibtd1lFO4Yyg4G6fRaRzQbusFdN1lHkaFrpGlJb8S75dLSkZuBcqRO_gWBZXD0h1s7mThhtTpssK8taAYsIrKpwqfbCLHMYi3rcFoPp6bl0lYgno9EKHcYTzQs9hmnaj1s8WeqULVMX9F04_fMk18TIj93ua8AteCTyzLU89oOmNInwbAmQt0nvn_sJdJ6qMaaLMskEAdRfn7I1rplbKcz9oJZcpQM_8Qc1b50nTaKua1Dna5OA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/0ab7ed9c6a.mp4?token=SR5odQD2AOsDMjaXnbdta3oOUYHqMGPi72CqqpMNIJO2hSb7nvrrxQNPOLLZe8f9-kRAphc4h_P7P_nuhBzGLnmtIbZjqu8OsHUibtd1lFO4Yyg4G6fRaRzQbusFdN1lHkaFrpGlJb8S75dLSkZuBcqRO_gWBZXD0h1s7mThhtTpssK8taAYsIrKpwqfbCLHMYi3rcFoPp6bl0lYgno9EKHcYTzQs9hmnaj1s8WeqULVMX9F04_fMk18TIj93ua8AteCTyzLU89oOmNInwbAmQt0nvn_sJdJ6qMaaLMskEAdRfn7I1rplbKcz9oJZcpQM_8Qc1b50nTaKua1Dna5OA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🚨
-‼️
-🎙
-جلال حسینی در گفت‌وگویی به استوری جنجالی علیرضا بیرانوند علیه علی دایی واکنش نشان داد و گفت: «وقتی استوری بیرانوند علیه علی دایی رو دیدم، خیلی تعجب کردم. به نظرم این‌جور رفتارها اصلاً درست نیست؛ علی دایی اسطوره فوتبال ایرانه و همه دنیا فوتبال ایران رو با اسم و افتخارات اون می‌شناسن.»
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/108545" target="_blank">📅 12:45 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108544">
-<div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d1646f8600.mp4?token=Z0WuEfS4Qa7wNrbrCLsEKaoia5T1qA89h3nPh5Ij-jbLciciAiye899n1-SwsOaeaHhIKK4w6EllBC-2ZQ03ybDSw9i3jVTjEyBUPRw7o08Gkm2fyPt8lB2EAaPDdoLIaQ-68f8y3wCn_TRp2Ui1Pp1A7c3zjPzgeOjAshbCtdXrRofwpMCWLoVOYylL139DaScdp7mfr3_4sXBGqlBaZ4sR5k6NsumhB4VyBlHPHOcLqbG7bghCth2SNddcvGvgohj-dwqf2-_PCPczfScdJC2h5g_tALKqo3XciKg5HTr9-dJWzZTppuNuncW9UjWfCu8SKMOgyuqC_6xSzz0M2w" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/d1646f8600.mp4?token=Z0WuEfS4Qa7wNrbrCLsEKaoia5T1qA89h3nPh5Ij-jbLciciAiye899n1-SwsOaeaHhIKK4w6EllBC-2ZQ03ybDSw9i3jVTjEyBUPRw7o08Gkm2fyPt8lB2EAaPDdoLIaQ-68f8y3wCn_TRp2Ui1Pp1A7c3zjPzgeOjAshbCtdXrRofwpMCWLoVOYylL139DaScdp7mfr3_4sXBGqlBaZ4sR5k6NsumhB4VyBlHPHOcLqbG7bghCth2SNddcvGvgohj-dwqf2-_PCPczfScdJC2h5g_tALKqo3XciKg5HTr9-dJWzZTppuNuncW9UjWfCu8SKMOgyuqC_6xSzz0M2w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🇮🇷
-دلیل جالب تغییر عملکرد سامان‌فلاح در استقلال
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/108544" target="_blank">📅 12:20 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108543">
-<div class="tg-post-header">📌 پیام #58</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/9aa0bb0abc.mp4?token=N-QUfWtnOFeCSZ5mHXuvt0aaXynJDVsyvATgopPTF-rd3rH_NDPd0rNpFCbr1ygyDfnyZnEgKIk2VGFaXsKdckZNqr0KqYIRtacWqVaANJCS8AWp7F73lHnhlJgz3A-NWnxgB9iTvOjwHCP-KE1oz5FslnMTca7OrR5OvVcpKIiOKXy8k5rxGm1qB8b4LhBQXBe68vQkI4ScE0UzZZjZ0_A7h3nX8K11l5hfIFgaC-AelSe30DzdRN15Ko44EgU00NxGj5pQA4m6vBEYAoEKdZ-QLZA_KtYOxDKED7-HeBuwsBzRZD0BjKxNWs-tbXupHBXy3gHGKn7OM0yCe97AOQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/9aa0bb0abc.mp4?token=N-QUfWtnOFeCSZ5mHXuvt0aaXynJDVsyvATgopPTF-rd3rH_NDPd0rNpFCbr1ygyDfnyZnEgKIk2VGFaXsKdckZNqr0KqYIRtacWqVaANJCS8AWp7F73lHnhlJgz3A-NWnxgB9iTvOjwHCP-KE1oz5FslnMTca7OrR5OvVcpKIiOKXy8k5rxGm1qB8b4LhBQXBe68vQkI4ScE0UzZZjZ0_A7h3nX8K11l5hfIFgaC-AelSe30DzdRN15Ko44EgU00NxGj5pQA4m6vBEYAoEKdZ-QLZA_KtYOxDKED7-HeBuwsBzRZD0BjKxNWs-tbXupHBXy3gHGKn7OM0yCe97AOQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">👀
-🇮🇷
-بانوی استقلالی پس از برتری مقابل الغرافه
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/108543" target="_blank">📅 11:55 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108542">
-<div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a065c7f48a.mp4?token=inaV2PqG2DuQI8l9i7JuDcn3q-ujNuaQsCPpypXeMkDDZCCNkUBy14wV63tIgHjiYENnbMqZbYHLtciAy3tboxbi8NQEIguA70Yr_cN5WcwS_IxFRuwQsnN4AMDBCENBqBQXwhZcYf8q9RwNJhCUNuynJQvixM3GaADU4M-BlrzmtRwx0vYrVmM5CCLlKmS43GXxu76niXjAvJ8dQ_B2932n8l7chkkwVC_lZAC-1AHp_nyTxM6kMcscbdAAcrjhy2FLiY_kOnCTpyRoA9ogNOGVSGhuKRG1kxGhwHmRwbGopuNTGVH7EKCRfI6lS4EDSHOEJ8CDuj4-bekT6e52sw" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/a065c7f48a.mp4?token=inaV2PqG2DuQI8l9i7JuDcn3q-ujNuaQsCPpypXeMkDDZCCNkUBy14wV63tIgHjiYENnbMqZbYHLtciAy3tboxbi8NQEIguA70Yr_cN5WcwS_IxFRuwQsnN4AMDBCENBqBQXwhZcYf8q9RwNJhCUNuynJQvixM3GaADU4M-BlrzmtRwx0vYrVmM5CCLlKmS43GXxu76niXjAvJ8dQ_B2932n8l7chkkwVC_lZAC-1AHp_nyTxM6kMcscbdAAcrjhy2FLiY_kOnCTpyRoA9ogNOGVSGhuKRG1kxGhwHmRwbGopuNTGVH7EKCRfI6lS4EDSHOEJ8CDuj4-bekT6e52sw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🚨
-‼️
-🎙
-واکنش‌جلال حسینی به درخواست بیرانوند برای رفتن به استقلال
-: بازیکنانی که از پرسپولیس به استقلال می‌رن یا از استقلال به پرسپولیس میرن ممکنه بعد از پایان دوران فوتبالشون  خودشون یا خانواده شون با آسیب‌های جدی مواجه بشن.
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/108542" target="_blank">📅 11:18 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108541">
-<div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-doc">
-<span class="tg-doc-icon">📎</span>
-<div class="tg-doc-info">
-  <div class="tg-doc-title">trexbet.apk</div>
-  <div class="tg-doc-extra">45.4 MB</div>
-</div>
-<a href="https://t.me/Futball180TV/108541" class="tg-doc-link" target="_blank">دانلود</a>
-</div>
-<div class="tg-text">🦖
-اپلیکیشن رسمی و بدون فیلترینگ
-TrexBe
-t
-📝
-ورود و ثبت‌نام سریع
-⚡
-سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/108541" target="_blank">📅 11:18 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108540">
-<div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tTzwonLnWYFiFdVRZXHlyphSUO43VGQMxBMoVzWU51BIr4SGl3evO0cOkSSO8FxDBK4N1pOCcyFQYV1n3myo0mYBocJvlBH3ciHClElLzHj1OXxA975LNCiQsSzMtlG7pu8efWgKe2_cO9etw2dyfvnX2HCevO7fmp21IPCkRSTrlNFJi8NA4aM0--yGIPouua-Fuy0Jxc2MnDSXahX02X8axsuzbtvlv3UETWx_PYW4ZyDLzknfS7KT-1nMbCWZEUs_ttGVt1dwR8RO19TUrzxh0kjCWromloX-JGn3UycAzTIw185BqLgf6cH0AP-n5QB7XqjZ2Muj5zOIrJ14YA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🦖
-بارسلونا
-🆚
-گالاتاسرای،
-این نبرد حساس چمپیونزلیگ را در سایت بین‌المللی
-TrexBet
-پیش‌بینی کنید!
-🦖
-گزینه پیشنهادی:
-بالای ۲۸.۵ شوت در مجموع بازی (Over 28.5 Total Shots)
-با
-ضریب 1.64
-📉
-با توجه به سبک هجومی دو تیم، تمایل به خلق موقعیت و آمار شوت‌های مسابقات اخیر، انتظار داریم دیدار گالاتاسرای و بارسلونا شاهد موقعیت‌های گل‌زنی متعددی باشد.
-📉
-بررسی ۵ بازی اخیر هر تیم نشان می‌دهد که مجموع شوت‌های مسابقات آن‌ها به‌طور میانگین نزدیک به ۳۰ شوت بوده است. به همین دلیل، خط ۲۸.۵ شوت می‌تواند گزینه‌ای قابل بررسی برای این دیدار باشد.
-🦖
-🦖
-🦖
-🦖
-🦖
-بونوس اولین واریز تا سقف ۱۰۰ یورو
-🦖
-بهترین ضرایب بین تمام سایت‌ها
-🦖
-واریز آسان و امن از طریق کارت به کارت
-TREXBET — PLAY. PREDICT. WIN.
-https://TrexBet.com
-T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/108540" target="_blank">📅 11:18 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108539">
-<div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/bd558a4adb.mp4?token=QziYWThUdvXx_GqcTl12OWVux7xlR_cdRwk9CUX1Za-nM96GN0dHI_0vbgcn2KMVDzq3ljKW7NFHPNOLOr0tLAOmV840O1nHDf3a4QIKUAWwZJK4vkzEf9fOlY3jLKyaGGctAzh7eOhD_qr-hxISOinkDNEsXC1RID4EO_4c-QXWdbAkT-qdAyjFPjTHVZ3u1h8-SQ0aH-QOL53sy40gAyxORN6yK_VSypCKDXbQueSgEVmQ9uDAmd7Y9HMEUad7OnrOt8OBowgR_QvCIIJ3i5Z1h3tapWiYWgcDmWSXb5-P7UBJQBpGonVAEbcyhLa_75Y1Zwz46JTP4grIyE2ctA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/bd558a4adb.mp4?token=QziYWThUdvXx_GqcTl12OWVux7xlR_cdRwk9CUX1Za-nM96GN0dHI_0vbgcn2KMVDzq3ljKW7NFHPNOLOr0tLAOmV840O1nHDf3a4QIKUAWwZJK4vkzEf9fOlY3jLKyaGGctAzh7eOhD_qr-hxISOinkDNEsXC1RID4EO_4c-QXWdbAkT-qdAyjFPjTHVZ3u1h8-SQ0aH-QOL53sy40gAyxORN6yK_VSypCKDXbQueSgEVmQ9uDAmd7Y9HMEUad7OnrOt8OBowgR_QvCIIJ3i5Z1h3tapWiYWgcDmWSXb5-P7UBJQBpGonVAEbcyhLa_75Y1Zwz46JTP4grIyE2ctA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">‼️
-👀
-حضور افشین‌پیروانی سرپرست محبوب سابق پرسپولیس در یکی از کنسرت‌های معین
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/108539" target="_blank">📅 11:05 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108538">
-<div class="tg-post-header">📌 پیام #53</div>
-<div class="tg-text">🚨
-🇮🇷
-کمیته استیناف رای خود درباره یاسر آسانی را صادر کرده و این بازیکن مشکلی از نظر آنها برای همراهی استقلال ندارد اما تا زمان اعلام نظر نهایی AFC قرار شده که رای استیناف به صورت رسمی اعلام نشود
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/108538" target="_blank">📅 10:48 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108537">
-<div class="tg-post-header">📌 پیام #52</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a26563f619.mp4?token=QpdBPxphcU2VdjapxjAg46CGL0bUIDYHjMj69c_ckwuzkdXVAs0guXK3uPxUVgqe8y2DCIwy-j89DwUHEzQHrgDyT7xqjx2iLIGY2xKdSYM_0ggDaxhRogktTLESajT7KhyfnpOMgIWjFyCR3c2bsQ9rcQVcA_KK8zZjEhTgbVYYI7nBMG_Z-OGWk1Hr6Xg-StklmUlwZExIqeCJdWhPUumlmT9Ae8sv-eZmasD6ony6qZYhafD1aNLgA4gN00UFgTmmVxwDrkepvHMtW-H8zwm7Th0ikoEbeR-c7joPZ6vy5gWgASxJZBL5Ymnay8bDR-AfBIf79dBqzdb2hI6zQg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/a26563f619.mp4?token=QpdBPxphcU2VdjapxjAg46CGL0bUIDYHjMj69c_ckwuzkdXVAs0guXK3uPxUVgqe8y2DCIwy-j89DwUHEzQHrgDyT7xqjx2iLIGY2xKdSYM_0ggDaxhRogktTLESajT7KhyfnpOMgIWjFyCR3c2bsQ9rcQVcA_KK8zZjEhTgbVYYI7nBMG_Z-OGWk1Hr6Xg-StklmUlwZExIqeCJdWhPUumlmT9Ae8sv-eZmasD6ony6qZYhafD1aNLgA4gN00UFgTmmVxwDrkepvHMtW-H8zwm7Th0ikoEbeR-c7joPZ6vy5gWgASxJZBL5Ymnay8bDR-AfBIf79dBqzdb2hI6zQg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">‼️
-🙂
-🇮🇷
-نظر عادل فردوسی‌پور درباره سوپرگل دیشب آسانی: واقعا با کجاش گل زد آسانی؟
-‌
-‌
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/108537" target="_blank">📅 10:40 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108536">
-<div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/efd1a54114.mp4?token=eRLEmj0WGyQ1QkusLh2-PHBGE3s2qJPy3q4gORgAIWu54ESziAo8CI_p_EqcvI45hgkaoRWmTsLtO3oHSvNJDHfz0VXJdGxy9L8yVGGRNVu21voNOXA1Mg9HF-FKVuRHeGWggEFI3cl-tVoZvxSOZ7PGxQdeuoE9DTJtH3ubfPdFDBVRAVTg7UWL1W8yIwUSM471XhIrP-_bqICcBWSn7HDGHn30rNVAXOvdUMFkf9cG1-UuucLOktyfrja4E3KzXWBywKwgomwVjE_-OXsA9FptQa9YvwVPqpLRMa_j6jQXP5Fc5uYFkqUKm4KDt9ekj0flhFBQJYGpPCJO36mqKw" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/efd1a54114.mp4?token=eRLEmj0WGyQ1QkusLh2-PHBGE3s2qJPy3q4gORgAIWu54ESziAo8CI_p_EqcvI45hgkaoRWmTsLtO3oHSvNJDHfz0VXJdGxy9L8yVGGRNVu21voNOXA1Mg9HF-FKVuRHeGWggEFI3cl-tVoZvxSOZ7PGxQdeuoE9DTJtH3ubfPdFDBVRAVTg7UWL1W8yIwUSM471XhIrP-_bqICcBWSn7HDGHn30rNVAXOvdUMFkf9cG1-UuucLOktyfrja4E3KzXWBywKwgomwVjE_-OXsA9FptQa9YvwVPqpLRMa_j6jQXP5Fc5uYFkqUKm4KDt9ekj0flhFBQJYGpPCJO36mqKw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🇮🇷
-سوپرگل دیشب آسانی با گزارش نوید استادرحیمی
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/108536" target="_blank">📅 10:15 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108535">
-<div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/23ef2c6d44.mp4?token=TTyzH21Eq2vgZWyFSjvueZHY8kcagfS-MFV7-Of8R2ZxHxm0NZMwW5Mr8b3s_6gt1XHpOOnYD6-epsA__vGpJrwfWpDNXKLYAmJjhJN0G87YhtAu3GzfU4gmuG2ujIfQ2diHP7VS4b6SGlivhG4FQwltHU9uBAjjouMjMzMh2_fpxCN9_0_BvKOykDS0LcH7iDcywatfX68A153D04rVu8tEIjxHdyjUt_USdavwRd9kpV-w3mIaZo1aXoxB7KNculu_HH1DuvGqMOhwsT2JWjtwNE4S_ZPVfBzdyMKcWnmZeJnuM05GBiFWLMiDke2rFjit7VGqV3F3_p-ludDnkQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/23ef2c6d44.mp4?token=TTyzH21Eq2vgZWyFSjvueZHY8kcagfS-MFV7-Of8R2ZxHxm0NZMwW5Mr8b3s_6gt1XHpOOnYD6-epsA__vGpJrwfWpDNXKLYAmJjhJN0G87YhtAu3GzfU4gmuG2ujIfQ2diHP7VS4b6SGlivhG4FQwltHU9uBAjjouMjMzMh2_fpxCN9_0_BvKOykDS0LcH7iDcywatfX68A153D04rVu8tEIjxHdyjUt_USdavwRd9kpV-w3mIaZo1aXoxB7KNculu_HH1DuvGqMOhwsT2JWjtwNE4S_ZPVfBzdyMKcWnmZeJnuM05GBiFWLMiDke2rFjit7VGqV3F3_p-ludDnkQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">‼️
-🎙
-🇪🇸
-فلیک دیشب خطاب به خبرنگار: "امیدوارم بالاخره یه روزی یاد بگیرین که من وقتی مستقیماً با رئال مادرید بازی ندارم، به هیچ سوالی دربارشون جوابی نمیدم!"
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/Futball180TV/108535" target="_blank">📅 09:50 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108534">
-<div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/9ccc8c0b68.mp4?token=pSf4tAHJZao9Hr2w8S3QWziP00zVK_VjNiynFZMjEcB7tskDljHvQpkzCW8XRxRcR8hbFVPNPT15MVbnhzmkdG89NA7WnDDpEeSBXqgrI4ZCYXH_hQS0gDpVpXg3z724aN8zgi0OSMeC15QXQixiq9eNXFKy23WnS_GGu2HFQ8GORy9NE1MC4A0dOOQ1-aiyJeGV0VAtRfxyIIRDMCGEgf-0BNduQLPI24QX8uUt7zmLBRuE4LPTC_l7UseDpWr7ieEyGo0p-AbFp-Z-r4VgJ6M5XfnyjBJewt0LO7QM6eJ9uhDP8sYTAc8zTPvyJYeH5kE0U3qZ7eULzXPlSfwMfA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/9ccc8c0b68.mp4?token=pSf4tAHJZao9Hr2w8S3QWziP00zVK_VjNiynFZMjEcB7tskDljHvQpkzCW8XRxRcR8hbFVPNPT15MVbnhzmkdG89NA7WnDDpEeSBXqgrI4ZCYXH_hQS0gDpVpXg3z724aN8zgi0OSMeC15QXQixiq9eNXFKy23WnS_GGu2HFQ8GORy9NE1MC4A0dOOQ1-aiyJeGV0VAtRfxyIIRDMCGEgf-0BNduQLPI24QX8uUt7zmLBRuE4LPTC_l7UseDpWr7ieEyGo0p-AbFp-Z-r4VgJ6M5XfnyjBJewt0LO7QM6eJ9uhDP8sYTAc8zTPvyJYeH5kE0U3qZ7eULzXPlSfwMfA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">✔️
-🔥
-▶️
-چهار سال پیش در چنین روزی، دیدار مس رفسنجان و پرسپولیس
-- بازوبند مشکیه؟
-+ تخمشو دارم داری؟ تخمشو داری بزار
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/108534" target="_blank">📅 09:34 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108533">
-<div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/dfecaa3ae8.mp4?token=Sje8-KJQhfECHQc4jUI1SbTiyDYuoKH57ATOH8OYjVdMyTUayCBv6oC4QDUHPps50OlQWcRrwg2TPDchrhEYyBncqG5aP-Ck1u_aXENW805MdsgSWkJ1K4ZK6fLCWuoMpJx5ue-MBS7yfF3nhZQ-HehHI7QcbcQ1uBq8aycu2o--kZOcy54vHmLNq37q0PyBvosLWelsGkmngjaW8d3DOqgaZ6zXJQOKyBFKvPmCEBNEnL1I8SlERFMwOvQiuv8Mu8Cg6AoAU-e4rpNMinLiD0kBche_RfAaCpG0GevlHzFl9o4Mf5P5iDZq3-2rQApHiTnFeNPxp0og-FZ_fYH9JQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/dfecaa3ae8.mp4?token=Sje8-KJQhfECHQc4jUI1SbTiyDYuoKH57ATOH8OYjVdMyTUayCBv6oC4QDUHPps50OlQWcRrwg2TPDchrhEYyBncqG5aP-Ck1u_aXENW805MdsgSWkJ1K4ZK6fLCWuoMpJx5ue-MBS7yfF3nhZQ-HehHI7QcbcQ1uBq8aycu2o--kZOcy54vHmLNq37q0PyBvosLWelsGkmngjaW8d3DOqgaZ6zXJQOKyBFKvPmCEBNEnL1I8SlERFMwOvQiuv8Mu8Cg6AoAU-e4rpNMinLiD0kBche_RfAaCpG0GevlHzFl9o4Mf5P5iDZq3-2rQApHiTnFeNPxp0og-FZ_fYH9JQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">‼️
-⚠️
-کنایه داریوش شجاعیان به مصاحبه اخیر میرسلیم: ولی تیبا هم ماشین بدی نیست!
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/108533" target="_blank">📅 09:25 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108532">
-<div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-text">‼️
-🎙
-امیر قلعه نویی، سرمربی تیم ملی فوتبال:
-ماجرای بیرانوند و وساطت برای او در بحث سربازی؟ به هیچ عنوان، وقتی قانونی هست باید یکسان برای همه باشد. بیرانوند باید شرایط قانونی سربازی را انجام دهد. او تمرکز لازم را در این چند وقت نداشته است. حتی بازی با ازبکستان او را کنار کشیدم و آلن مربی گلرها گفت بیرانوند تمرکز ندارد و بازی نکند. من چون می خواستم بیرانوند را برای جام ملت ها حفظ کنم او ار کنار نگذاشتم. خبر ندارم شرایط او برای سربازی چطور است اما اگر برود باید برای او برنامه ویژه بگذاریم. من در مورد پرونده قبلی او هم هیچ توصیه ای به کمیته ها نکردم و هر چیزی که قانون است برای همه باید اجرا شود
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/108532" target="_blank">📅 09:13 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108531">
-<div class="tg-post-header">📌 پیام #46</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/93d0cb95d7.mp4?token=F6yI6hiV5o4fk2WED56_TU9l55hBKKga2etbeJFhlYH8QehZXFe-wkULKtJ-ocgjSA5kLNuZ_ei1KhOkoIKeldM3PattFQmaP7ICZMvqiHGg4aet1T_8WnVQEu1AxEE4wPmCIW95ZH8lwjArZ7y9qf6DnItbJE2JaR1XSohIWM2NE2oP9xJAlHCjH0J8e7-9bUHZUoPNtWKDz4bdBS6AYJ2J7DyP2XFyKfblHmK7ZGenfAJVyytoefqPI5U3nIl6kyVMtjGFBeYqM-HhtyLQ3EcS9AlQnkFg0JbLpF4wdg0kg2PNhTK-QjyVCOj7wureTnIOLjcRoZH7W53UpO_2pQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/93d0cb95d7.mp4?token=F6yI6hiV5o4fk2WED56_TU9l55hBKKga2etbeJFhlYH8QehZXFe-wkULKtJ-ocgjSA5kLNuZ_ei1KhOkoIKeldM3PattFQmaP7ICZMvqiHGg4aet1T_8WnVQEu1AxEE4wPmCIW95ZH8lwjArZ7y9qf6DnItbJE2JaR1XSohIWM2NE2oP9xJAlHCjH0J8e7-9bUHZUoPNtWKDz4bdBS6AYJ2J7DyP2XFyKfblHmK7ZGenfAJVyytoefqPI5U3nIl6kyVMtjGFBeYqM-HhtyLQ3EcS9AlQnkFg0JbLpF4wdg0kg2PNhTK-QjyVCOj7wureTnIOLjcRoZH7W53UpO_2pQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🇪🇸
-گل‌دیدنی فرمین‌لوپز در تمرین دیشب بارسلونا
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/108531" target="_blank">📅 09:03 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108530">
-<div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/65a8965627.mp4?token=vivs1gWnNNw2f2DPw8qVnqngBqa9WUuQj7uKDIvApHQdoSJkt33BRtz27BkNwsMAxzzaJVCw5wBByN-l74DmOdMza710KumS3b8Jv0pReYwf7VZIIQZ6_b8fdsOrhn-79Tpxz1Cu6AXzz919fxpQS34TSxCpUkdCP8GQ16fucDou2HLZkNCgu9kyRUwgxQX8l6v75s9YG9nWihR9RBzQXXfuqqEAULYJ3EF833z3fikLCUQ5WEoEIsYOML6ZWIcQSIk-nVgYteGnQ9d9mpvE9WoFgoRBZBAw91k2xkXXKNKXGYdhnfwhDB64GB95R9W7wtMENRY1kwhmT6Ldlcxx6g" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/65a8965627.mp4?token=vivs1gWnNNw2f2DPw8qVnqngBqa9WUuQj7uKDIvApHQdoSJkt33BRtz27BkNwsMAxzzaJVCw5wBByN-l74DmOdMza710KumS3b8Jv0pReYwf7VZIIQZ6_b8fdsOrhn-79Tpxz1Cu6AXzz919fxpQS34TSxCpUkdCP8GQ16fucDou2HLZkNCgu9kyRUwgxQX8l6v75s9YG9nWihR9RBzQXXfuqqEAULYJ3EF833z3fikLCUQ5WEoEIsYOML6ZWIcQSIk-nVgYteGnQ9d9mpvE9WoFgoRBZBAw91k2xkXXKNKXGYdhnfwhDB64GB95R9W7wtMENRY1kwhmT6Ldlcxx6g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🚨
-‼️
-⚪️
-⚽️
-امیر قلعه نویی و پاسخ در مورد دلیل عدم دعوت از مهدی قائدی:
-🔺
-استقلال که از الاتحاد کلبا وقتی قهرمان شد بالاتر است اما چرا آن موقع آقای کی روش و بعد ویلموتس او را دعوت نمی کردند؟ ما یک اصول و چارچوبی داریم که قطعا در دعوت و عدم دعوت موثر است اما موضوع ما فنی است. ما دقایق همه بازیکنان را با آنالیز در می آوریم. آیا مهدی قائدی الان شرایط خوبی دارد؟ آیا بازیکن فیکس النصر است؟ مهدی قائدی در آمریکا یکی دو بار مصدوم شد
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/108530" target="_blank">📅 08:48 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108529">
-<div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6fdcb8a6f2.mp4?token=FlpNkk6rKkRKd3Po2-oksxZVlbicxfCuJ7VCqM_TaaTJtqoQGF0sOHegCiIpp_GJAgCWtKVgXbeSy7Ms_fDadwfTaRbN1r8t6pWSV4ioOMIIJg0zYZZSCwWg29SNlcw5PTThn9Z8tZgFTeooXl8I_Equ5xdLuiYpkqLrTHXsT43ufs-8op-aiqK2dv51At83ymRCQwaktN4KQYJDRM3X_dIYSNYiEw86biE1myUoUlN0--jKR2RxcGhmRi6zrfSPdYkAvOkCeDW5baUfQcVwvabV5rG5jUXQVRPOpbZCHp8WYOn-L3sibVH3-LgGUDAuOI-bAxB__QhR9gT18_2Y7A" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/6fdcb8a6f2.mp4?token=FlpNkk6rKkRKd3Po2-oksxZVlbicxfCuJ7VCqM_TaaTJtqoQGF0sOHegCiIpp_GJAgCWtKVgXbeSy7Ms_fDadwfTaRbN1r8t6pWSV4ioOMIIJg0zYZZSCwWg29SNlcw5PTThn9Z8tZgFTeooXl8I_Equ5xdLuiYpkqLrTHXsT43ufs-8op-aiqK2dv51At83ymRCQwaktN4KQYJDRM3X_dIYSNYiEw86biE1myUoUlN0--jKR2RxcGhmRi6zrfSPdYkAvOkCeDW5baUfQcVwvabV5rG5jUXQVRPOpbZCHp8WYOn-L3sibVH3-LgGUDAuOI-bAxB__QhR9gT18_2Y7A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">📱
-🇮🇷
-پست جدید AFC برای یاسر‌آسانی
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/108529" target="_blank">📅 08:01 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108525">
-<div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/8c408292b8.mp4?token=fnWCB8wiZDZCqoqEK86Ro3niPluyUstPPY4Iw-ieaxhvq6SllvzL7FkEbCpICaet_sehdl07nT0CCAU9QNyyHYl71EEiZKqsM0jPwLQk47MQeaXkcNjc_Dykolzxlsvw6biJv15F7ttvidM3352LjTNZVMaZhSmMYWuXglmxc-FIxEXHsPgtWsJJcVMZfmt_h16BULfvwGAos_YVanEPvNusG6TAr3S8zIsJ4Mcxfz0EH7IQQ2_jwmAOwG1VRGN3Dmlfbyj7NKorPOHXhjtL4b8K_F2_w70vttVm9NpolrhOnIoV3WLZ_UjR8VPtund0QiuLctQXPwWVY8S1jd-tWg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/8c408292b8.mp4?token=fnWCB8wiZDZCqoqEK86Ro3niPluyUstPPY4Iw-ieaxhvq6SllvzL7FkEbCpICaet_sehdl07nT0CCAU9QNyyHYl71EEiZKqsM0jPwLQk47MQeaXkcNjc_Dykolzxlsvw6biJv15F7ttvidM3352LjTNZVMaZhSmMYWuXglmxc-FIxEXHsPgtWsJJcVMZfmt_h16BULfvwGAos_YVanEPvNusG6TAr3S8zIsJ4Mcxfz0EH7IQQ2_jwmAOwG1VRGN3Dmlfbyj7NKorPOHXhjtL4b8K_F2_w70vttVm9NpolrhOnIoV3WLZ_UjR8VPtund0QiuLctQXPwWVY8S1jd-tWg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🚨
-⭕️
-💙
-میثاقی به نقل از حسن زاده رئیس کمیته انضباطی: فسخی برای یاسر آسانی از نظر ما ثبت نشده است و او هیچ مشکلی ندارد
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/Futball180TV/108525" target="_blank">📅 01:43 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108524">
-<div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/b2fda9a24a.mp4?token=fuGslbH0MFdLTAsqBVJe_K5RrvN4nWOJ6qwNlAM4p0vGF2lyhQ96EMIgqhvsHnVrtSVkYKNi7itBWOGcgk00JX6vmbe7aW6LFyVS_753PALoK5VOCG_hFFzWQ3rwPab5VL7nsyTYLlaIA2xlCnZTz5HSO3vUtX4qDOECc-IoPEKkG09jIqxrqPY7HhbEcyet8rCwb36blR3FxeAUbCXU0VJ53E9ej6NWMV949hE6IOw7X5g1KjAKKkJ_KT5ov_bsv4KCX7ujNz4JUEyci3N7haSUfXm5e9nTUpXHJcxQTOncKZZkcdE96rkDOCy1psa1oTGNsG965J-whJk5wd1f5A" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/b2fda9a24a.mp4?token=fuGslbH0MFdLTAsqBVJe_K5RrvN4nWOJ6qwNlAM4p0vGF2lyhQ96EMIgqhvsHnVrtSVkYKNi7itBWOGcgk00JX6vmbe7aW6LFyVS_753PALoK5VOCG_hFFzWQ3rwPab5VL7nsyTYLlaIA2xlCnZTz5HSO3vUtX4qDOECc-IoPEKkG09jIqxrqPY7HhbEcyet8rCwb36blR3FxeAUbCXU0VJ53E9ej6NWMV949hE6IOw7X5g1KjAKKkJ_KT5ov_bsv4KCX7ujNz4JUEyci3N7haSUfXm5e9nTUpXHJcxQTOncKZZkcdE96rkDOCy1psa1oTGNsG965J-whJk5wd1f5A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">▶️
-🔥
-🇮🇷
-برای درک بهتر سوپرگل امشب آسانی فقط کافیه از این نمای دیدنی تماشاگران ببینید
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/Futball180TV/108524" target="_blank">📅 01:27 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108523">
-<div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/O1Ky9GdLP-Mbt-ue1xgWTEvrHCC-pkwTmOQSpvRhe1ZP9RyOb7UN_ThRmBmgNAgE2zLGNnLmDVcx7hbh8h-BZyeuVfsNRXBJ0FCwQ70m0g6spJT_1zsFZLndgLsuYF5gfW31mEfBof_ogDX4lES_oegAgo7SYbWXDUCSH7rZpUoHqP10krhvzLG_N9qo4TbhXmcEKjmPknaXrYgneZc7chgzoV79HUzSD78FusA-jgIRH3v_TWE2z7uZH4KAd1YtG67KX9-AKOj0z6dTMfJCDlAN1XvoHtQYsKHQXUoHn81e2FMxtQymXfUBwp5B4O1IRJb0pEWX602ILmymFzk3LA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-‼️
-🇮🇷
-🇮🇷
-🇮🇷
-واکنش تند و کنایه آمیز میثاقی به تفاوت میان سفر تراکتور و استقلال و گل‌گهر برای بازی در آسیا
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/108523" target="_blank">📅 01:19 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108522">
-<div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/2f09ab8993.mp4?token=HX5D-_mhPorlf-aJwR9bXe4YMcA8TlD6IUvXDWNaSwzsFQiGFZ5LXPCsfT2jN5kNtlnu1l7zQBew8wq-zIbVaDuQaLLtoK6dHUJZiL_UawHzWg09_cj2gC-nmQKl-F7OJw2ysnz5Sq9dvOz2mdeKU0u2cHKgnG7cuzozEoMwwopzYwvrnu4qhADLVQz3p-39rUTTjUxPMflVsERuOcXFLXvTkVIAZPILr64MBAXNbRFSyq4Qd4nIaDowbtzFndImrthpKy5QAbyOZR6KSS2-2kxddnXIf3_kF3AlJdqSZzyAYni7UyxZwUXUTu5A2JFPSfuerhQJx4EHbsrAZps56xailN0IzqtlTKCjz0w75dk3RcRXWhVGVkQryVx6oyzzo2zEjqn9mjmJoZzhAKfcRwYLXDaylHtxwslHt3KRWs_ZaF2K-07YLRvwRraEd8KFapNqBBsN8ks51hEYU5ZYhy7TMAOBYrUN83MZ6_ngRvhxVYnVx0C2jRl6dFeuMuTKS1sfS9AVRi96m3RTbw_Z4E6cCRZ-nip7f_DmenYIREFtIq8Y98T1m7xakCm06U7ot9w0jaS8pn-4bePr7qrvgx0MBm08eq_O4x91WOlHJukueiJbGXJ3IBdYS3azJOeC5RgHV9kEIyv1PFH58cMlKjAXisfsfGliw5d6wT3TK9M" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/2f09ab8993.mp4?token=HX5D-_mhPorlf-aJwR9bXe4YMcA8TlD6IUvXDWNaSwzsFQiGFZ5LXPCsfT2jN5kNtlnu1l7zQBew8wq-zIbVaDuQaLLtoK6dHUJZiL_UawHzWg09_cj2gC-nmQKl-F7OJw2ysnz5Sq9dvOz2mdeKU0u2cHKgnG7cuzozEoMwwopzYwvrnu4qhADLVQz3p-39rUTTjUxPMflVsERuOcXFLXvTkVIAZPILr64MBAXNbRFSyq4Qd4nIaDowbtzFndImrthpKy5QAbyOZR6KSS2-2kxddnXIf3_kF3AlJdqSZzyAYni7UyxZwUXUTu5A2JFPSfuerhQJx4EHbsrAZps56xailN0IzqtlTKCjz0w75dk3RcRXWhVGVkQryVx6oyzzo2zEjqn9mjmJoZzhAKfcRwYLXDaylHtxwslHt3KRWs_ZaF2K-07YLRvwRraEd8KFapNqBBsN8ks51hEYU5ZYhy7TMAOBYrUN83MZ6_ngRvhxVYnVx0C2jRl6dFeuMuTKS1sfS9AVRi96m3RTbw_Z4E6cCRZ-nip7f_DmenYIREFtIq8Y98T1m7xakCm06U7ot9w0jaS8pn-4bePr7qrvgx0MBm08eq_O4x91WOlHJukueiJbGXJ3IBdYS3azJOeC5RgHV9kEIyv1PFH58cMlKjAXisfsfGliw5d6wT3TK9M" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">‼️
-👤
-آیتم جالب عادل فردوسی‌پور از کلید واژه مصاحبه‌های بیرانوند: درصد، دلار، ماشین، میلیارد!
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/Futball180TV/108522" target="_blank">📅 01:16 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108521">
-<div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/e601362fff.mp4?token=la6vbKwwx-4OywaEvJPWNbFNEcFIElLI1QE55KwBHZFaa6wrXseuS7J6RZIqjrgEX1vu98KGec5X9Fsgi5cdbMyuj-2LbQ6mB9JdxA73TsZ-3WiMZXAWAaKNWUABi7xlNqIQ3-awyCGZGl_bSJGxvlFoHAAT8IgZU6LUrppJwfnGWURhPTC4o5B1Byi7JBPcTMjeWWRoSXvjJnzKe7V9oyPZVDwB6DcyZTKWE8zdrECpKZKq57a7Xuv3QSYZk9NMz-aaLMvo9-8cwNfagLtXqAo1JW36hFPk-OL399zpwPrO57CcUVR-ss6XvSTv2Xh2o85YteZlJTIHZ0k4Mj7R4g" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/e601362fff.mp4?token=la6vbKwwx-4OywaEvJPWNbFNEcFIElLI1QE55KwBHZFaa6wrXseuS7J6RZIqjrgEX1vu98KGec5X9Fsgi5cdbMyuj-2LbQ6mB9JdxA73TsZ-3WiMZXAWAaKNWUABi7xlNqIQ3-awyCGZGl_bSJGxvlFoHAAT8IgZU6LUrppJwfnGWURhPTC4o5B1Byi7JBPcTMjeWWRoSXvjJnzKe7V9oyPZVDwB6DcyZTKWE8zdrECpKZKq57a7Xuv3QSYZk9NMz-aaLMvo9-8cwNfagLtXqAo1JW36hFPk-OL399zpwPrO57CcUVR-ss6XvSTv2Xh2o85YteZlJTIHZ0k4Mj7R4g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🚨
-‼️
-🇮🇷
-انتقاد سخنگوی هیئت‌مدیره تراکتور نسبت به شرایط سفر به عمان؛ مگر کور بودند که نفهمند تراکتور و گل‌گهر هم مثل استقلال بازی دارند؟!
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/Futball180TV/108521" target="_blank">📅 01:13 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108520">
-<div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-text">🚨
-‼️
-🇮🇷
-حمله سخنگوی تراکتور به بیرانوند: برای مسی هم تیم را به هم نمیریزیم. بیرانوند که عددی نیست!
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/Futball180TV/108520" target="_blank">📅 01:04 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108519">
-<div class="tg-post-header">📌 پیام #37</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/3ab8a7b19b.mp4?token=dHHeTxn1RyV3p-vSM52_I_rwUsRIKOZv_RsFz-oEkgA3vOjlq6CFt5KYzFswlPTU7jj_1cYdsPKBT3DozIJ0jW_gGSy_ca-ui0nS7kutHOId4pPiTeHgzX7aA3leH2Ad19rX5Ay-Y0znE3atK9YgxsbfYJspql-93BI4Et24y-E0ZYHdbriqt1WYhhIu4W4gnbbCPvbgaA4mYFRQubxd9AdwZpPXqfO66Bb_s1GHfFIePjoj50Ob3POJwMwbD_gX1Ec25sEkLy3TrkrVI_fCZoCZjodbVUY63YK_410QQGpgqM1zqXJ3JbUs1qiiXT-y0d0Zu7XfkkmmQhw0izte2Q" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/3ab8a7b19b.mp4?token=dHHeTxn1RyV3p-vSM52_I_rwUsRIKOZv_RsFz-oEkgA3vOjlq6CFt5KYzFswlPTU7jj_1cYdsPKBT3DozIJ0jW_gGSy_ca-ui0nS7kutHOId4pPiTeHgzX7aA3leH2Ad19rX5Ay-Y0znE3atK9YgxsbfYJspql-93BI4Et24y-E0ZYHdbriqt1WYhhIu4W4gnbbCPvbgaA4mYFRQubxd9AdwZpPXqfO66Bb_s1GHfFIePjoj50Ob3POJwMwbD_gX1Ec25sEkLy3TrkrVI_fCZoCZjodbVUY63YK_410QQGpgqM1zqXJ3JbUs1qiiXT-y0d0Zu7XfkkmmQhw0izte2Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">‼️
-🇮🇷
-🙂
-شاعری هوادار استقلال برای برد شیرین آبی‌ها در آسیا مقابل الغرافه قطر
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/108519" target="_blank">📅 01:02 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108518">
-<div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6a267abb0d.mp4?token=WWWs0n7gkWaQTishVumYhsDyDz-_rkEt-ZehnuWjIgUpSVhStxsGRPFOekzNDzs7g1CaKO8blOKaPsszzPg0s6KXrsOLEGEuz-9AfZ_nx8SX1rBy_gP4n_GvVoR0iNm5NAAEg3F3f1wOBi-apRIoGSNFOnidDX4rWpHVl0bSpCjiAVHA1DiJy1NYofpSs-T_vb9a_---r8vDJdR_CCR4VnwOhrV8N4K6QDtwVt6CW89eielZBLMyLGRmD7Ulrh86XDftnRGIgjEb6NJlwIWjLCcmIp7eC7aX4ck-KRpw9nJJX_icvbVE2fQuy4AL9rYiKxpt8CPeonyWGEm8hEM77Q" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/6a267abb0d.mp4?token=WWWs0n7gkWaQTishVumYhsDyDz-_rkEt-ZehnuWjIgUpSVhStxsGRPFOekzNDzs7g1CaKO8blOKaPsszzPg0s6KXrsOLEGEuz-9AfZ_nx8SX1rBy_gP4n_GvVoR0iNm5NAAEg3F3f1wOBi-apRIoGSNFOnidDX4rWpHVl0bSpCjiAVHA1DiJy1NYofpSs-T_vb9a_---r8vDJdR_CCR4VnwOhrV8N4K6QDtwVt6CW89eielZBLMyLGRmD7Ulrh86XDftnRGIgjEb6NJlwIWjLCcmIp7eC7aX4ck-KRpw9nJJX_icvbVE2fQuy4AL9rYiKxpt8CPeonyWGEm8hEM77Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🚨
-‼️
-🇮🇷
-کری هواداران استقلال برای پرسپولیسی‌ها: بروند برای خیبر و سایپا کامنت بگذارند، اینجا آسیاست و جای شما نیست!
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/108518" target="_blank">📅 01:01 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108517">
-<div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sBudDHe0ZF8O4lF8QBG3egeyf6NF-PZxUoCOBcx9mv9CaqjPf4Fv_-QwtZxv2PpWX8TlP2cQ91QB-xvjIjZ6RziU9SK1r6CwlNDT6b7YYozs2cjn2UcwJBVVsyuwy4K6641zDBmBlj6b_s81YJihQwn9bqQYz-0_oZpjtyk0SXCEzypqAJPbY0iQFVkNofycfPe1FdZX6xdEjeSyw0QJmqo-OeY9rVCjKxgMKSixwSf0WBTbVqpH1j5nsqtdBHZVKupRSeAp-5a47WbzTupC9wrI7MOWi3EqJUfhozK4v_ckrLtiYvHjwsKwnPGkKh4I8vo18S__SwuFtHLcegoN_w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🔵
-🔵
-🇶🇦
-استقلال تحت هدایت سهراب بختیاری‌زاده، برد مقابل سه تیم مطرح قطری.
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/Futball180TV/108517" target="_blank">📅 00:45 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108516">
-<div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/217c826d5b.mp4?token=C59ohi5edVgdBLKmnkdTodqfYvP9mLZqpYYC8fT5BWfOhTSz981AE4o-xHxYWyBf6AcGobDlOEud08L-R7PhZOdG3t5c4FxKKSGeH25SoNRX4gkzM7ScsGvHZBMJFzKsggmjwWfXcYVGfjU9ehRGgQKl2EOzMbE1WYQ0Pr5o_RMnK4MKgS88biIbBEbHcMjuNJ9gCV6BK0YGg91y8D_puLaX0o1AEGG_kQbMyUysCIVwoFnyyszrSxy2M9GVCEvzjq8zSaxKZbBCuPj35YN-G0FiVJ1csdiYeDYAh_FFCmVqOXk8q_SBDYHIhu16d01gbISHPFmJ951OikBxWyfXgQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/217c826d5b.mp4?token=C59ohi5edVgdBLKmnkdTodqfYvP9mLZqpYYC8fT5BWfOhTSz981AE4o-xHxYWyBf6AcGobDlOEud08L-R7PhZOdG3t5c4FxKKSGeH25SoNRX4gkzM7ScsGvHZBMJFzKsggmjwWfXcYVGfjU9ehRGgQKl2EOzMbE1WYQ0Pr5o_RMnK4MKgS88biIbBEbHcMjuNJ9gCV6BK0YGg91y8D_puLaX0o1AEGG_kQbMyUysCIVwoFnyyszrSxy2M9GVCEvzjq8zSaxKZbBCuPj35YN-G0FiVJ1csdiYeDYAh_FFCmVqOXk8q_SBDYHIhu16d01gbISHPFmJ951OikBxWyfXgQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🚨
-⭕️
-⚽️
-میثاقی: توافق اولیه یحیی گل محمدی و فدراسیون فوتبال برای تیم ملی امید صورت گرفته است
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/Futball180TV/108516" target="_blank">📅 00:39 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108515">
-<div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cMTAkVdc85qnVotZeFx3hd1gTRrk1vtlTcv5v9v7CyGpeRQAVgG0p7gO4UhkSaxAajEq3j74jsEBsc8VgyitUOk3NImAyOM3g1rSWfpwbUfDuTBblE0HO_cSRS0yjMUtgMaHUH_jCTmVr6UMGpJQysNs7F91dxmuKRXjp3EbSB2S15qrmDvsOEmiFd42GJg8yf5UjsYwKC-PZVoOx0vOfCfdouPSjVl-tdgJoczEwpjeGnqgJNcxXicCt5zNqreBdVn7QGbpFZfUYU6w32ZDQ3jiFtZGL-u2KdV6VV5bwg--aUjoIBJwBa92zjmRInIYra71HFcNzXha9HrVooDrKQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">‼️
-📱
-🇮🇷
-🇮🇷
-استوری کنایه‌آمیز سامان‌فلاح مدافع استقلال به مهدی تیکدری مدافع پرسپولیس
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/Futball180TV/108515" target="_blank">📅 00:37 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108514">
-<div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/648dfd6944.mp4?token=eMxA4XNfRTBGptjmi-pFm09IVFybuAlrwkBOXCJL2t2wm_rZ6liUs4N69IZ7KH8aa9Ap39BUCg02PRpokh7pRn50RF7FnNDAlxYf-N7DJ0IU7D8CSJReEA1sD1TkP-hr333j_Nw_21xsTrstbmUcpg4BW3m7zbTY3G5znM7LmnPKgTmpQapampVpPqF_jQ-qddapwIZr_HkduNvnC2yQDuX6Qw3Gikiw_kZQIC8KpaVHvjeNyqEJYCmb_UF7BZMzmdETVIvNwrTZ1LOKGRD2uGlM0kfW5XbyUHC5ZdvwRLHvC1Ae-_-DiQp7YIHqUAjV3cCJ-vjX5yvIh8n4bgR3oQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/648dfd6944.mp4?token=eMxA4XNfRTBGptjmi-pFm09IVFybuAlrwkBOXCJL2t2wm_rZ6liUs4N69IZ7KH8aa9Ap39BUCg02PRpokh7pRn50RF7FnNDAlxYf-N7DJ0IU7D8CSJReEA1sD1TkP-hr333j_Nw_21xsTrstbmUcpg4BW3m7zbTY3G5znM7LmnPKgTmpQapampVpPqF_jQ-qddapwIZr_HkduNvnC2yQDuX6Qw3Gikiw_kZQIC8KpaVHvjeNyqEJYCmb_UF7BZMzmdETVIvNwrTZ1LOKGRD2uGlM0kfW5XbyUHC5ZdvwRLHvC1Ae-_-DiQp7YIHqUAjV3cCJ-vjX5yvIh8n4bgR3oQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🚨
-‼️
-🇮🇷
-🇮🇷
-🇮🇷
-واکنش تند و کنایه آمیز میثاقی به تفاوت میان سفر تراکتور و استقلال و گل‌گهر برای بازی در آسیا
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/Futball180TV/108514" target="_blank">📅 00:32 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108513">
-<div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-text">🚨
-🇮🇷
-پژمان‌ماندگاری مدیر رسانه‌ای استقلال: مصدومیت یاسر‌آسانی جدی نیست
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/Futball180TV/108513" target="_blank">📅 00:18 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108512">
-<div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Cx3cF4LXeWf0ICC27knYeXCljwLazKvbnkX36G7hFh1K4NRkxnNv6GZ98L2d61n4HXzCv6-2Cwr-z7UBZifkNHw-JrzDCTaYyDOcUKEJW924yj3rD7LMNmv3O1U9BLvnOb5AlG7-Nqq1OiSweQ8OVM9c8wFHKmwlp0krEU9XFUs9c_pgJ2gr7lTzLtIxocu-l6OlFgThvrC9fTaetdlKSZc4VjR0U7k1pfI69aM9BAXsncE3fJr0xEfh7bBD1ySR2KdNIJufT9xO81Kv9YWR3Fst6F7HUenp34Qy05RJ1gYC7_xf-gHHmJHrOIWdVpdo1p5AOj5Qlz3FdekyndSRVQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-‼️
-🇮🇷
-🇮🇷
-توییت کنایه‌آمیز استقلال به پرسپولیس پس از بازی: یاسر‌آسانی به شدت قانونی!
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/Futball180TV/108512" target="_blank">📅 00:04 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108511">
-<div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-text">🚨
-❤️
-زنوزی مالک باشگاه تراکتور: همیشه گفته‌ام عدالت اصلا رعایت نمی شود/ یک تیم با پرواز وی آی پی دولت سفر می کند یک تیم مصیبت می کشد
-🔴
-نمی دانیم از چه کسی گلایه کنیم/ آنهایی که می گفتند پزشکیان حامی تراکتور است حالا بیایند جواب بدهند
-🔴
-حداقل اگر می خواستید یک تیم را با پرواز دولتی بفرستید به ما هم خبر می دادید
-🔴
-بیرانوند جوانی کرده است و رفتارش را می گذاریم روی جوانی اش
-🔴
-امروز شنیده ام که تیم های دیگر نمی توانند در عربستان هم بازی کنند این را من شنیده ام
-🔴
-باید برویم به AFC نامه بزنیم  و مشکلات پروازی خودمان را اعلام کنیم
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/Futball180TV/108511" target="_blank">📅 00:01 · 21 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108510">
-<div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-text">🔥
-🇮🇷
-گل‌یاسر‌آسانی با گزارش عربی الکاس قطر
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/Futball180TV/108510" target="_blank">📅 23:54 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108509">
-<div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZYxVdE17fKnT7rEPyof96VhOGAdSdYV3NIOwBq6C0muu2cCRPXSpP_RdGumF2PSY3lzXBrAJJQOxhJKj_Yhnca9SNTkZegwyHlq076nMPhRgT0QIxo4KmzW3rUCUXnVKEACFFB3zIFxu-Xe5QRmDVgLvr1YjaHc3QGzesSBMEFLLAJJ4RurxgwhQm-CtGQlhuQ5UYxfTYjPxnmg2lahQYR_yw5RK-mlGZebGVw__oqzComa3gpQpOvws1XfK9I7nerm5jTx5q1TAlFNpPKAVXP_Dr0uTvTY1X77EiZ2Tb4NvFX9yLmvk1FFuECfmNS12dEqpRGexvDRWuSZsF8fSdA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🏆
-هفته‌دوم لیگ‌نخبگان آسیا؛ دومین تیم قطری هم مقابل استقلال زانو زد؛ یاسر‌آسانی با عمل به وعده خود تیمش را با وجود مصدومیت به برتری رساند؛ فرعباسی بازهم درخشید
-🇮🇷
-استقلال
-😀
--
-😃
-الغرافه
-🇶🇦
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/Futball180TV/108509" target="_blank">📅 23:52 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108508">
-<div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a40f9d30d1.mp4?token=am7xKKChuaBJcbWZB44HUEaiKRaqkNgL-Qsywxia-41uIu5fzl1-YLP4iA3vY7hPvXTUAk-tEpWMX2CqPyP81-f3fWFFyscCVRnd4wRDhkugTFNK1trFg__npmxGsJ6FqjP0RHv9kF1z1anHvO2NLl3mdH7j1rGaaYujF_G2a5rlIJV9Z21Iy1ShrKPYZUNoUY1Lz1k0p5j4Px00GzU8befWHo0aSwwEsU3QW3Xfl4zq6ozQ3gFBa5Fz89QMHx50Hmxihf_DWHucJBE9KuVyWptkcqGXwd8kbFBv_0PGbAthTMJ5HstUmCVb3h7G83-CLO7NJK1VKfYY_Ts0_7sjMg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/a40f9d30d1.mp4?token=am7xKKChuaBJcbWZB44HUEaiKRaqkNgL-Qsywxia-41uIu5fzl1-YLP4iA3vY7hPvXTUAk-tEpWMX2CqPyP81-f3fWFFyscCVRnd4wRDhkugTFNK1trFg__npmxGsJ6FqjP0RHv9kF1z1anHvO2NLl3mdH7j1rGaaYujF_G2a5rlIJV9Z21Iy1ShrKPYZUNoUY1Lz1k0p5j4Px00GzU8befWHo0aSwwEsU3QW3Xfl4zq6ozQ3gFBa5Fz89QMHx50Hmxihf_DWHucJBE9KuVyWptkcqGXwd8kbFBv_0PGbAthTMJ5HstUmCVb3h7G83-CLO7NJK1VKfYY_Ts0_7sjMg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">صالح‌حردانی امشب شانس آورد فوش نخورد
-😂
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/Futball180TV/108508" target="_blank">📅 23:51 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108507">
-<div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-text">خوشحالی اعضای استقلال پس از سوت پایان بازی
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/Futball180TV/108507" target="_blank">📅 23:50 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108506">
-<div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/frutUVdGEFU8ox_UMngj1YOAIErTr05S-0SXeb9Rp9htwZX0pPnoWkwNYXFTKAx9t-C9ZkPXcYVU65qfuswHzJ73kjlx9-xeb0XpxTK7sbEQXMyxGFqyOpC4tnWM9GDv63oPKSQk7CvfPqtx4tnhK1mi0Yl7zqm92V_nSwAcZWenFltW3APpQxOE2TJEiTB9vI_i5-71p7HCYmpBDVIHrzA8fS3dcUGP12TYfSsis66iM8TJ4oLnIhg8XdJpk1ByG_ZHG07AlZq1W4_kmu49FuBXsyQcwbnJWlhx7og0Dkug_R4EUiQkmD0OhbIjDiOuKaX5UK-NW5lVl2XqP9b-Ow.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🏆
-هفته‌دوم لیگ‌نخبگان آسیا؛ دومین تیم قطری هم مقابل استقلال زانو زد؛ یاسر‌آسانی با عمل به وعده خود تیمش را با وجود مصدومیت به برتری رساند؛ فرعباسی بازهم درخشید
-🇮🇷
-استقلال
-😀
--
-😃
-الغرافه
-🇶🇦
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/Futball180TV/108506" target="_blank">📅 23:48 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108505">
-<div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-text">هنوز تموم نشده</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/Futball180TV/108505" target="_blank">📅 23:48 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108504">
-<div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-text">خب دیگه بخیر گذشت</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/108504" target="_blank">📅 23:47 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108503">
-<div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-text">از کون آورد استقلال این دقایق
-😐</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/Futball180TV/108503" target="_blank">📅 23:47 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108502">
-<div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-text">بازممممم شانس آورد استقلال</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/Futball180TV/108502" target="_blank">📅 23:46 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108501">
-<div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-text">حردانی کسمغز
-😐
-😂</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/Futball180TV/108501" target="_blank">📅 23:46 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108500">
-<div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-text">حردانی ریده</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/Futball180TV/108500" target="_blank">📅 23:46 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108499">
-<div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-text">آشورماتوف نجات داد
-😐
-😐</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/Futball180TV/108499" target="_blank">📅 23:45 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108498">
-<div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-text">پشمامممممم</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/Futball180TV/108498" target="_blank">📅 23:45 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108497">
-<div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-text">وااااای</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/Futball180TV/108497" target="_blank">📅 23:45 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108496">
-<div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-text">الغرافه زور گل زدن نداره فقط ریدمان بازیکنان استقلال میتونه این امر رو محقق کنه</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/Futball180TV/108496" target="_blank">📅 23:44 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108495">
-<div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-text">اسلامی هم ریده</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/Futball180TV/108495" target="_blank">📅 23:43 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108494">
-<div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-text">فرعباسی بازمممم گرفتتتتت</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/108494" target="_blank">📅 23:42 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108493">
-<div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-text">۷ دقیقه وقت اضافه
-😐
-😳
-🚨</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/Futball180TV/108493" target="_blank">📅 23:41 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108492">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rEbIczF2rmDQGv5BOoHwt9ZK6leemJ_WRLVjERpzz5cv4pWPImadlU_FDB7z7Xk6SfcY8cvIcHc1DUmcRXGOzfCAGY3-tdQT3LuWasJ7U1zDbU0QkK5SL8T0nKGtwRmr6l8TqB3dldIKFna2uuduOiyj7z306lKUBBhqPBYsO2KWboVYipiuQ45lFBYXdPyjADJhl1qpJIPC1kLucw3uUY5WDJZOeIVIiwaxkVJZNFB4zUu9hSpPLNVqeM5QzNiVw8XenJSq7SXdeCxhEUFtsUNnZZK5d41gRiEgXdLIigCpVmKUYNWm75vUh7E0w2QXc2XcUNMpB4vth2XZfaYFbg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">العین امارات چهار بر یک مقابل نماینده عراق برنده شد
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/Futball180TV/108492" target="_blank">📅 23:40 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108491">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/24051a9445.mp4?token=Mj-SmWvyhd28hliwTsyY2bL0nDMV_pbnOJJrqdKZl05_lp2T11XoHHldVFv8gIG5cJ6lpdN35lA4DHyzuQzZ5mqFM44LawhhDEtAjzL7w30Dia59mPOekVWKw09DdHJXqTtWTqbcqthWQtS5kZfVW-4wnD2CD4nWjPi59939Qh30EOkIB9tIuwIS3dyfEny41XI13bZ6RwrQs8H1KeYZP58wz1qoT37rFdfKqZV_6axzk1WpNZjdTTeBBwj_DJRxPuLy7r-MQlmKUyOcAiO-xXiDTxHTtzRDNPZsbu2CX_sdoMUUDxFS6hJJ-HqIbxB9a2J0rOC6TCi-F4WvCXN9AA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/24051a9445.mp4?token=Mj-SmWvyhd28hliwTsyY2bL0nDMV_pbnOJJrqdKZl05_lp2T11XoHHldVFv8gIG5cJ6lpdN35lA4DHyzuQzZ5mqFM44LawhhDEtAjzL7w30Dia59mPOekVWKw09DdHJXqTtWTqbcqthWQtS5kZfVW-4wnD2CD4nWjPi59939Qh30EOkIB9tIuwIS3dyfEny41XI13bZ6RwrQs8H1KeYZP58wz1qoT37rFdfKqZV_6axzk1WpNZjdTTeBBwj_DJRxPuLy7r-MQlmKUyOcAiO-xXiDTxHTtzRDNPZsbu2CX_sdoMUUDxFS6hJJ-HqIbxB9a2J0rOC6TCi-F4WvCXN9AA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🔥
-سوپر سیو فرعباسی روی موقعیت تک به تک
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/108491" target="_blank">📅 23:36 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108490">
-<div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-text">سوپر سیووووو حبیب فرعباسی</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/108490" target="_blank">📅 23:35 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108489">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/1974c7b3a7.mp4?token=jCq9C0e8HlEqhaWH07qrUBv-qhGNaoWn7tR7Lzy3apOpA_5ky24fzickns8ITLctbkCC1iEWnoK0C4_yL3qgsHUZ7pDsqMHuHE0TOOJ7DkYQzY00ND8NIuXxgoRp6xCVE17i7sCHp5fist6Nxriy5P05VJtJEZ0R9RZJQOTVHcDPgCUhHYEds8dMcDi3L0Tybun_8nbDFMJMVVGC5_PUdyk0qkMyF7mrENBjcVtEvPBNa_hlD5x3rksa7cNbZdwPRLF1DNVsaE9imeSuRGM1HV6aH5PPZGvq9ySKoztIZtOLILJqqFS7mgfrhYJUL0Xq_DczmbokKrjuYkZQ4Hms5g" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/1974c7b3a7.mp4?token=jCq9C0e8HlEqhaWH07qrUBv-qhGNaoWn7tR7Lzy3apOpA_5ky24fzickns8ITLctbkCC1iEWnoK0C4_yL3qgsHUZ7pDsqMHuHE0TOOJ7DkYQzY00ND8NIuXxgoRp6xCVE17i7sCHp5fist6Nxriy5P05VJtJEZ0R9RZJQOTVHcDPgCUhHYEds8dMcDi3L0Tybun_8nbDFMJMVVGC5_PUdyk0qkMyF7mrENBjcVtEvPBNa_hlD5x3rksa7cNbZdwPRLF1DNVsaE9imeSuRGM1HV6aH5PPZGvq9ySKoztIZtOLILJqqFS7mgfrhYJUL0Xq_DczmbokKrjuYkZQ4Hms5g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">سحرخیزان عجیب رید امشب
-😐
-😐</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/108489" target="_blank">📅 23:31 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108488">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-text">سحرخیزان بازمممم ریددددددد</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/Futball180TV/108488" target="_blank">📅 23:29 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108487">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/3890159133.mp4?token=QKI12ARdXy-lyP3qt7Vu_7YlA9SE2prI42LhL7ZutIaTwY7ydbpZRvFJDoDEizXEiI9Z9eFffj4kcdgvWhi1mxf55yK-3MNwqNaDJYPUEErklsBJWokKD7YQPawEfMs2x31m44nr20eK_OfMC3088PYBsay0L5KXB0n6fk1l6_w_EKffTfIdPvNgLsG5tt7QxvfjU0klIoIjqAXFrCNm858Cm1B5qhiy_KtDkPsJLc5-NuBJ1nysbBQ7DTwRM6fFsOBTNP30dCfEV-2IgxQg9npNR35Tkp5pjlBkfjbtiBvyR0pPnSz_DEGKOGdzj4shRa_e8pbAEisk-Jw_tQBanQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/3890159133.mp4?token=QKI12ARdXy-lyP3qt7Vu_7YlA9SE2prI42LhL7ZutIaTwY7ydbpZRvFJDoDEizXEiI9Z9eFffj4kcdgvWhi1mxf55yK-3MNwqNaDJYPUEErklsBJWokKD7YQPawEfMs2x31m44nr20eK_OfMC3088PYBsay0L5KXB0n6fk1l6_w_EKffTfIdPvNgLsG5tt7QxvfjU0klIoIjqAXFrCNm858Cm1B5qhiy_KtDkPsJLc5-NuBJ1nysbBQ7DTwRM6fFsOBTNP30dCfEV-2IgxQg9npNR35Tkp5pjlBkfjbtiBvyR0pPnSz_DEGKOGdzj4shRa_e8pbAEisk-Jw_tQBanQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🔥
-🔥
-🔥
-🔥
-گل شماره ۹۸۱ اسطوره رونالدو
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/108487" target="_blank">📅 23:29 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108486">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-text">استقلال کوووون آورد</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/108486" target="_blank">📅 23:28 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108484">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-text">رونالدووووووو گل شماره ۹۸۱
-🔥
-🔥
-🔥
-🔥
-🔥</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/108484" target="_blank">📅 23:26 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108483">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-text">النصر دومی هم زد</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/108483" target="_blank">📅 23:26 · 20 Mehr 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-108482">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">استقلال سه تایم مختلف تعویض کرده و دیگه حق تعویض نداره</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/Futball180TV/108482" target="_blank">📅 23:25 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/108550" target="_blank">📅 14:50 · 21 Mehr 1405</a></div>
 </div>
 
 <hr>
