@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/PXznIYUHZoaZWtgQuzOdHqslrEOf_xc3VF3Q1IySwxylmHyt8eUkTbO3I-yo0pHlACR5-64Q1IqITS7r78lWniQL7Upiqu6Y9BrOc3BCxT1sZ6lAOzQyguAja5e1dRhg6zAlqOcj0tluKKaZLDzm1xXb5miOj596zuDyOa5IMpsdF1iJFvFOCy6-N4GhOkeeIoH9YWKL-4peh8zxvQUNZwJ3ATgQDeh_FpZXoIof3YMZ68Rt6wYAMvtu101LA6BB6OzUrTAfQ7qRtajf7RFEZq96qk3UkrjY0DdXiylGwWOSy_uNYaCEdHWoRNFd0zgxAoGWAmkecDTrg3N5ug0M5w.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 WarRoom with YASHAR</h1>
-<p>@withyashar • 👥 496K عضو</p>
+<p>@withyashar • 👥 497K عضو</p>
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیل📸instagram.com/yashar🐦x.com/yasharrapfa📺youtube.com/yasharrapfa⛑️paypal.com/paypalme/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-22 02:50:38</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-22 05:31:08</div>
 <hr>
 
 <div class="tg-post" id="msg-25588">
@@ -302,13 +302,13 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 33.9K · <a href="https://t.me/withyashar/25588" target="_blank">📅 01:41 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 48.2K · <a href="https://t.me/withyashar/25588" target="_blank">📅 01:41 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25587">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">⁨ اتاق جنگ با یاشار : بوش بابا بعد از ریکاوری در پاتایا داره بر میگرده و موقعیت ناو روزولت و …. سوال ها رو کامنت کنید، همشو  تلگرام جوایب میدم لینک چنل تلگرام در بابیو⁩  https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==  کارای اداری رو…</div>
-<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/withyashar/25587" target="_blank">📅 01:38 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 48.3K · <a href="https://t.me/withyashar/25587" target="_blank">📅 01:38 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25586">
@@ -322,14 +322,14 @@
 ۱۹ میلیون بشکه نفت خام
 از طریق این تنگه منتقل شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/withyashar/25586" target="_blank">📅 01:25 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 53.3K · <a href="https://t.me/withyashar/25586" target="_blank">📅 01:25 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25585">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">آکسیوس : پیت هگست، وزیر جنگ آمریکا، و فرماندهان ارشد سنتکام از حامیان اصلی ازسرگیری حملات نظامی علیه ایران هستند؛ اما بخش زیادی از مشاوران ترامپ ترجیح می‌دهند فعلاً فشار اقتصادی و تحریم‌ ادامه پیدا کند
 @WarRoom</div>
-<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/withyashar/25585" target="_blank">📅 01:19 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 55.1K · <a href="https://t.me/withyashar/25585" target="_blank">📅 01:19 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25584">
@@ -340,7 +340,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/withyashar/25584" target="_blank">📅 01:06 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 60.6K · <a href="https://t.me/withyashar/25584" target="_blank">📅 01:06 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25583">
@@ -353,12 +353,12 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 59.3K · <a href="https://t.me/withyashar/25583" target="_blank">📅 00:44 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 70.1K · <a href="https://t.me/withyashar/25583" target="_blank">📅 00:44 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25582">
 <div class="tg-post-header">📌 پیام #94</div>
-<div class="tg-footer">👁️ 58.8K · <a href="https://t.me/withyashar/25582" target="_blank">📅 00:42 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 68.8K · <a href="https://t.me/withyashar/25582" target="_blank">📅 00:42 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25581">
@@ -368,19 +368,19 @@
 لینک چنل تلگرام در بابیو⁩
 https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 کارای اداری رو یادت نره</div>
-<div class="tg-footer">👁️ 77.7K · <a href="https://t.me/withyashar/25581" target="_blank">📅 00:03 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 86.8K · <a href="https://t.me/withyashar/25581" target="_blank">📅 00:03 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25580">
 <div class="tg-post-header">📌 پیام #92</div>
-<div class="tg-footer">👁️ 76.3K · <a href="https://t.me/withyashar/25580" target="_blank">📅 23:58 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 83.9K · <a href="https://t.me/withyashar/25580" target="_blank">📅 23:58 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25579">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">خبراییه
 😁</div>
-<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/25579" target="_blank">📅 22:53 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/25579" target="_blank">📅 22:53 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25578">
@@ -388,20 +388,20 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Q2uFHDbczqgT8ECgxvhvwBeJVCgQ2rlqHbv7J4fKEh-_LJ4qQPbyVnD-EDEOJO7e12Z-hjQTndDkDGT4P82_Lo4HSvSZXVq1dNGA8NEDCOmGdRWksXb9YAqT0yZy9XxSfbNXCnpPzpSvCqpWmcBA3rywF7oasDhmuT93GrDrk0civCKXqSYTMfBx6NFQ8v1WUOOFmW4T6GlRcMFrP8SgDAjG9LNSU8mgQvwNwhCFXVF9AJCbJUL1d7we4UvOoL17UNnOk-WZHGvPg6c_0ewezlDX9XRrb9h___T2L8Uwxpby5GwOi_WMKWZ8yL1BnSB3XX2JmfO-oQ7YEKr1-Oxc2g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سازمان عملیات تجارت دریایی بریتانیا (UKMTO) گزارشی مبنی بر وقوع حادثه‌ای در تنگه هرمز دریافت کرده است. یک منبع موثق گزارش داده است که یک کشتی کانتینربر هدف اصابت پرتابه‌ای ناشناس قرار گرفته است. مقامات در حال بررسی موضوع هستند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/25578" target="_blank">📅 22:36 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/25578" target="_blank">📅 22:36 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25577">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">سخنگوی ائتلاف: رهگیری موفق و انهدام دو موشک بالستیک که توسط شبه‌نظامیان حوثی به سمت شهر الجبیره و منطقه حرض شلیک شده بودند انجام شد . قطعاتی از شلیک‌های دفاعی در یک منطقه مسکونی در الجبیره سقوط کردند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/25577" target="_blank">📅 22:29 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/25577" target="_blank">📅 22:29 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25576">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">‏ حملات جنگنده های عربستانی به مخازن نفت صنعا در یمن  @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/25576" target="_blank">📅 22:17 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/25576" target="_blank">📅 22:17 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25575">
@@ -412,7 +412,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/25575" target="_blank">📅 22:04 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/25575" target="_blank">📅 22:04 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25574">
@@ -426,7 +426,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 </div>
 <div class="tg-text">علی ذغال‌فروش ، فرمانده نیروی دریایی سپاه: امروز آمریکا با 7 ناوگان خود به قاچاقچی سوخت تبدیل شده.
 @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/25574" target="_blank">📅 22:02 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/25574" target="_blank">📅 22:02 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25573">
@@ -434,35 +434,35 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-text">دفتر نتانیاهو : نخست‌وزیر، ترامپ را تشویق نمی‌کند که قبل از انتخابات، ایران را مورد حمله قرار دهد، بلکه با او و مقاماتش در حال گفتگو است.
 @WarRoom
 😁</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/25573" target="_blank">📅 21:23 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/25573" target="_blank">📅 21:23 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25572">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">وزارت امور خارجه ایران امروز سفیر بریتانیا را احضار کرد به دلیل اتهامات مربوط به ارتباط تهران با حمله به پایگاه  نیروی هوایی فیرفورد بریتانیا.
 @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/25572" target="_blank">📅 21:21 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/25572" target="_blank">📅 21:21 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25571">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">مقام آمریکایی در گفت‌وگو با شبکه ۱۲ اسرائیل: ما به افزایش فشار ادامه می‌دهیم و معتقدیم که در نهایت، افراد منطقی‌تر در ایران دست بالا را پیدا خواهند کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/25571" target="_blank">📅 21:11 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/25571" target="_blank">📅 21:11 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25570">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">نتانیاهو و ایسرائل کاتس، وزیر دفاع اسرائیل، امشب هشدار دادند که ایران و نیروهای وابسته به آن در تلاش‌اند با انجام عملیات تروریستی علیه اسرائیل، بر نتایج انتخابات تأثیر بگذارند. این اظهارات در پی مجموعه‌ای از هشدارها و تهدیدهای این دو مقام ارشد امنیتی مطرح شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/25570" target="_blank">📅 21:09 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/25570" target="_blank">📅 21:09 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25569">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">یک مقام ارشد آمریکایی مدعی شده است که دونالد ترامپ در تماس تلفنی به بنیامین نتانیاهو گفته برای اقدام علیه ایران در هر لحظه آماده باشد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/25569" target="_blank">📅 21:05 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/25569" target="_blank">📅 21:05 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25568">
@@ -470,7 +470,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-text">باراک راوید ، خبرنگار ‌آکسیوس :
 نخست‌وزیر نتانیاهو هفته گذشته با رئیس‌جمهور ترامپ درباره احتمال از سرگیری جنگ علیه ایران گفتگو کرد. مقامات آمریکایی به من گفتند که تحت تأثیر قرار گرفته‌اند از این که نتانیاهو تمایل داشته است قبل از انتخابات، حملات به ایران را از سر بگیرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/25568" target="_blank">📅 21:00 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/25568" target="_blank">📅 21:00 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25567">
@@ -481,7 +481,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/25567" target="_blank">📅 20:31 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/25567" target="_blank">📅 20:31 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25566">
@@ -495,7 +495,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 پیروز شده‌ام، اما بعد از انتخابات به سراغشان خواهم آمد و
 هرگز فراموش نخواهم کرد!
 @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/25566" target="_blank">📅 20:28 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/25566" target="_blank">📅 20:28 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25565">
@@ -511,7 +511,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 🐷
 💅🏻
 @WarRoom</div>
-<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/25565" target="_blank">📅 20:06 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/25565" target="_blank">📅 20:06 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25564">
@@ -527,7 +527,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 ؛ یکی از دستاوردهای تاریخی متعدد این نیرو.
 تولدت مبارک، نیروی دریایی ایالات متحده!
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/25564" target="_blank">📅 19:46 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/25564" target="_blank">📅 19:46 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25563">
@@ -547,7 +547,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 😂
 ایران کشوری شکست‌خورده است. آنها هیچ اقتصادی ندارند. نرخ تورم آنها ۳۰۰ درصد است. آنها هیچ پولی ندارند. آنها حقوق نیروهای نظامی‌شان را پرداخت نمی‌کنند. حقوق هیچ‌کس را پرداخت نمی‌کنند. ما خیلی زود درباره ایران تصمیم‌گیری خواهیم کرد. ما تنگه هرمز را در اختیار داریم و کنترل می‌کنیم و مقدار زیادی نفت از تنگه هرمز خارج می‌شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/25563" target="_blank">📅 19:30 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/25563" target="_blank">📅 19:30 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25562">
@@ -562,7 +562,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-text">‏
 حملات جنگنده های عربستانی به مخازن نفت صنعا در یمن
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/25562" target="_blank">📅 19:20 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/25562" target="_blank">📅 19:20 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25561">
@@ -572,14 +572,14 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 98.3K · <a href="https://t.me/withyashar/25561" target="_blank">📅 19:08 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 99.5K · <a href="https://t.me/withyashar/25561" target="_blank">📅 19:08 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25560">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">دادستان کرمانشاه: در بازرسی از یک تریلی در مرز پرویزخان، ۹۹ سلاح کمری، ۱۰ کلاشینکف، ۱۷۰۰ فشنگ و ۱۹۸ خشاب کمری کشف شد که در بخش‌های مختلف خودرو جاسازی شده بودند. @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 100K · <a href="https://t.me/withyashar/25560" target="_blank">📅 19:02 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/25560" target="_blank">📅 19:02 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25559">
@@ -594,7 +594,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-text">دادستان کرمانشاه: در بازرسی از یک تریلی در مرز پرویزخان، ۹۹ سلاح کمری، ۱۰ کلاشینکف، ۱۷۰۰ فشنگ و ۱۹۸ خشاب کمری کشف شد که در بخش‌های مختلف خودرو جاسازی شده بودند.
 @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/25559" target="_blank">📅 18:53 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/25559" target="_blank">📅 18:53 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25558">
@@ -602,14 +602,14 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-text">تداوم درگیری‌ها در استان سیستان‌و بلوچستان؛ منابع از «انفجار مهیب» و «تلفات سنگین» خبر می‌دهند
 رسانه های محلی استان سیستان‌و بلوچستان امروز اعلام کردند در ادامه درگیری‌ها میان نیروهای حکومتی و افراد مسلح، مناطق «پیرسوران» در بخش کورین زاهدان و ارتفاعات «چاه‌احمد» شهرستان تفتان صحنه برخوردهایی سنگین بوده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/25558" target="_blank">📅 18:45 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/25558" target="_blank">📅 18:45 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25557">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">فارس گزارش داد بانک مرکزی محدودیت‌های بانکی و برداشت ریالی سه صرافی رمزارزی نوبیتکس، بیت‌پین و ارزینجا را پس از انجام اصلاحات موردنظر و رفع تخلفات اعلام‌شده لغو کرده است. این محدودیت‌ها روز دوشنبه ۲۰ مهر برای پنج پلتفرم رمزارزی اعمال شده بود؛ طبق گزارش‌های منتشرشده، محدودیت دو پلتفرم دیگر همچنان برقرار است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/25557" target="_blank">📅 18:37 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/25557" target="_blank">📅 18:37 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25556">
@@ -619,7 +619,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 دست‌کم هفت کابل مهم داده و اینترنت زیردریایی از تنگه هرمز عبور می‌کنن
 یکی از مهم‌ترین آن‌ها کابل AAE-1 است؛ سامانه‌ای حدود 25 هزار کیلومتری که جنوب‌شرق آسیا را از مسیر خاورمیانه و آفریقا به اروپا متصل میکنه
 @WarRoom</div>
-<div class="tg-footer">👁️ 100K · <a href="https://t.me/withyashar/25556" target="_blank">📅 18:22 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/25556" target="_blank">📅 18:22 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25555">
@@ -634,7 +634,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-text">نیروی دریایی ارتش
 تصاویری از یک تانکر نفتی در حال سوختن در تنگه هرمز شرقی منتشر کرد و اعلام نمود که نیروهای جدیدی را در دریای عرب، خلیج عمان و تنگه هرمز شرقی مستقر کرده است تا از تردد کشتی‌ها نظارت به عمل آورد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 96.8K · <a href="https://t.me/withyashar/25555" target="_blank">📅 18:05 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 97.6K · <a href="https://t.me/withyashar/25555" target="_blank">📅 18:05 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25554">
@@ -650,7 +650,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 دونالد ترامپ در حال عمل به تمام وعده‌های خود است.
 دونالد ترامپ دوستانه‌ترین رئیس‌جمهور برای خانواده‌ها در تاریخ ماست.
 @WarRoom</div>
-<div class="tg-footer">👁️ 97.3K · <a href="https://t.me/withyashar/25554" target="_blank">📅 18:02 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 98.2K · <a href="https://t.me/withyashar/25554" target="_blank">📅 18:02 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25553">
@@ -658,7 +658,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vvwFHk1VrcmDPPtX3AYJdJSzzpgpQ-B7q05fU5Naz6tp1KkP1LfnjJ2aaZj6WIMMMg09wT9uiP5oiEiZVrHsAcBFvJT4EVEI9EhqP_qp0C-OQgHHyJGVXVA_d7rJ7XfsBFcSMknbHkoK8gFmms-Yo8tzB_93dDW3ctGhmv6G3i_LjCjbycDSqmzI9AdQt_B9lWWS5Y_FCMoWXvNpLCpGNzuY3UqvcHbodMurvTpwF90ln6qNtZcR04VPRmMqPPQgTe5UVj8aBjTBmmxwxPcbmgImaThIcMj5PdBqbyBqVVBz7uQiibfqMUmvm1hnTaF6f9_yUEhwoo9OKYmCdL0omg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فاطی سخنگوی دولت: دولت قطر در مورد خلبانان ایرانی قول مساعد داده.
 @WarRoom</div>
-<div class="tg-footer">👁️ 99.5K · <a href="https://t.me/withyashar/25553" target="_blank">📅 17:50 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 100K · <a href="https://t.me/withyashar/25553" target="_blank">📅 17:50 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25552">
@@ -672,7 +672,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">عربستان تأسیسات شرکت نفت در غرب صنعا را بمباران کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/25551" target="_blank">📅 17:29 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/25551" target="_blank">📅 17:29 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25550">
@@ -681,27 +681,27 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 صندوق بین‌المللی پول هشدار داد اقتصاد جهان به محدودیت تاب‌آوری در برابر شوک‌های جدید نزدیک می‌شود.
 جنگ خاورمیانه، کاهش ذخایر انرژی، بدهی دولت‌ها و وابستگی بازارها به رونق هوش مصنوعی از عوامل اصلی نگرانی هستند. طبق سناریوی صندوق، اگر سرمایه‌گذاری هوش مصنوعی سقوط کند و دستاوردهای بهره‌وری محقق نشوند، تولید ناخالص داخلی جهان ممکن است تا سال ۲۰۲۸ حدود ۱٫۱ درصد پایین‌تر از پیش‌بینی پایه قرار گیرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/25550" target="_blank">📅 17:25 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/25550" target="_blank">📅 17:25 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25549">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">حمله افراد مسلح به پاسگاه مورتان در بخش پارود شهرستان راسک و درگیری شدید با نیروهای مستقر در پاسگاه گزارش شده است. بر اساس اطلاعات اولیه، درگیری از دقایقی پیش آغاز شده و دو طرف به تبادل آتش پرداخته‌اند؛ تاکنون جزئیاتی درباره تلفات احتمالی یا وضعیت نیروهای…</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/25549" target="_blank">📅 16:53 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/25549" target="_blank">📅 16:53 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25548">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">رئیس ام‌آی۵ بریتانیا هشدار داد فعالیت‌های ایران و روسیه برای تهدید اهداف حساس در بریتانیا افزایش یافته است. او گفت تلاش‌های منتسب به ایران بیش از گذشته بر اهداف سخت‌تر، از جمله مراکز نظامی، متمرکز شده‌اند. تحقیقات درباره ماجرای پایگاه فرفورد ادامه دارد و رئیس ام‌آی۵ از اظهارنظر درباره جزئیات پرونده خودداری کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/25548" target="_blank">📅 16:48 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/25548" target="_blank">📅 16:48 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25547">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">محمد البخیتی، از اعضای دفتر سیاسی حوثی‌ها، هشدار داد اگر آمریکا مستقیماً وارد عملیات نظامی عربستان علیه این گروه شود، واشنگتن و منافع آمریکا در منطقه با پاسخ سریع و شدید روبه‌رو خواهند شد. او همچنین به کارکنان تأسیسات نفتی و فرودگاه‌های عربستان هشدار داد که از این مراکز فاصله بگیرند
 @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/25547" target="_blank">📅 16:40 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/25547" target="_blank">📅 16:40 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25546">
@@ -715,7 +715,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 </div>
 <div class="tg-text">رئیس هلال احمر : برای هر سناریو از جمله حملات هسته‌ای و شیمیایی آماده‌ایم!
 @WarRoom</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/25546" target="_blank">📅 15:48 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/25546" target="_blank">📅 15:48 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25545">
@@ -725,14 +725,14 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 پس از دریافت نتایج آزمایش آب و غذا، می‌توان اظهار نظر کرد
 شرایط در خوابگاه‌های مختلف یکسان نبوده؛ حتی در برخی خوابگاه‌ها افرادی که غذا مصرف نکرده بودند نیز دچار مسمومیت شده‌اند
 @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/25545" target="_blank">📅 15:42 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/25545" target="_blank">📅 15:42 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25544">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">رضا سپه‌وند، سخنگوی کمیسیون انرژی مجلس:  آمریکا رمزارزهای متعلق به اشخاص، نهادها و دولت ایران را در چند مورد هک یا توقیف کرده و بخشی از آن‌ها را برداشت کرده است. او توقیف این دارایی‌ها را «دزدی» توصیف کرد و گفت نام شبکه‌های واسطه‌ای دور زدن تحریم‌ها نباید افشا شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/25544" target="_blank">📅 15:28 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/25544" target="_blank">📅 15:28 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25543">
@@ -773,7 +773,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 یک میلیون و ۵۵۵ هزار و ۷۰۰
 نیروی نظامی را از دست داده است؛ این رقم برآورد طرف اوکراینی است و مستقلاً تأیید نشده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/25539" target="_blank">📅 13:17 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/25539" target="_blank">📅 13:17 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25537">
@@ -808,7 +808,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-text">تمیم بن حمد آل‌ثانی، امیر قطر، در سخنرانی خود در پارلمان این کشور اعلام کرد جمهوری اسلامی به‌طور آشکار حاکمیت قطر را نقض کرده است. او تأکید کرد که پایبندی دوحه به گفت‌وگو و راه‌حل‌های مسالمت‌آمیز به معنای کوتاه‌آمدن در دفاع از کشور نیست و امنیت و حاکمیت کشورهای عضو شورای همکاری خلیج فارس قابل مذاکره نیست.
 امیر قطر همچنین گفت بسته‌شدن تنگه هرمز و خسارت‌های واردشده به تأسیسات گاز طبیعی مایع (LNG) در راس لفان، صادرات قطر را به‌شدت مختل کرده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/25534" target="_blank">📅 12:03 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/25534" target="_blank">📅 12:03 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25533">
@@ -821,7 +821,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">وال‌استریت ژورنال به نقل از افراد مطلع گزارش داد که ایران به کشورهای عربی منطقه هشدار داده است در صورت آغاز جنگی تازه، احتمال گسترش عملیات نظامی به خاک کشورهای همسایه و حمله به تأسیسات نفتی عربستان سعودی وجود دارد. بر اساس این گزارش، تهران همچنین تهدید کرده است حملات علیه نیروهای آمریکایی را تشدید کند و شناورهای نیروی دریایی آمریکا را هدف قرار دهد؛ از جمله با هدف غرق‌کردن آن‌ها و کشتن ملوانان. این گزارش درباره تهدیدها و سناریوهای احتمالی ایران است و به معنای تأیید اجرای عملیات زمینی نیست.
 @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/25532" target="_blank">📅 11:49 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/25532" target="_blank">📅 11:49 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25531">
@@ -836,7 +836,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vyeJxICS3YkJV4tb00-BLdwhVIV5R7FcuT9gqY7tW8KJuxvc4Krh0bHpTU1mVUJTmGj9MwdL1lstIHmM8ErAWejGD1G1y63scL38PNaocI6kexQOfGAr1X5HWNF6j-mDubn_TksT-NZRIQkdCjErW1SCyFgmKAlylZwhc6VAf_GkQOyd_8kN65gHiGzwKbDgzdxvBXLcsuEqsVw0ZaaqoZpV_aBJNLoilTauPkNyFtgyhc7kBwo7-sxf2iOVIk3uqTy3VKG6Te7xU2sqalvWyrBObrQkuq50xQdmofSxz0AOQzxcAvdio1xL14quN2HX_IA6SSoWLUB6p9hPQjH7rg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ در‌تروث : می‌بینم چپ‌گرایان افراطی ادعا می‌کنند چین و روسیه به جمهوری اسلامی ایران کمک می‌کنند. اگر چنین کمکی وجود داشته باشد، بسیار محدود است؛ اما من اصلاً باور ندارم که آن‌ها به ایران کمک می‌کنند. چین و روسیه چیزهای زیادی برای از دست دادن دارند و اگر چنین کاری انجام دهند، ما خیلی سریع از آن مطلع خواهیم شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/25530" target="_blank">📅 11:30 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/25530" target="_blank">📅 11:30 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25529">
@@ -860,7 +860,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">کانال ۱۲ اسرائیل: پس از دریافت تهدید ناشناس درباره وجود بمب در هواپیمای شرکت دلتا که از نیویورک در فرودگاه بن‌گوریون فرود آمد، مسافران به‌سرعت تخلیه و هواپیما به محل دورافتاده‌ای منتقل شد. نیروهای امنیتی هواپیما را بازرسی کردند؛ اما گزارشی از کشف بمب منتشر نشد و احتمال کاذب‌بودن تهدید مطرح شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/25528" target="_blank">📅 11:19 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/25528" target="_blank">📅 11:19 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25526">
@@ -875,7 +875,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-text">ترامپ: شعار موردعلاقه‌ام«گی‌ها حامی فلسطین هستند!» می‌دانید اگر گی باشید، آنجا چه بلایی سرتان می‌آورند؟ شما را از بالای ساختمان به پایین پرت می‌کنند. شما را به بالای بلندترین ساختمانی که دارند می‌برند ــ البته ساختمان چندان بلندی هم نیست ــ و از آنجا به پایین پرتتان می‌کنند. بااین‌حال، مدام می‌بینم گی‌ها از فلسطین حمایت می‌کنند!»
 او در ادامه با لحنی کنایه‌آمیز پرسید: «زنان حامی فلسطین چه بلایی سرشان می‌آید؟»
 @WarRoom</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/25526" target="_blank">📅 09:35 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/25526" target="_blank">📅 09:35 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25525">
@@ -890,10 +890,10 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/819b1a2d7e.mp4?token=GL1xOkNbqm16mAsjhtvkEylcKubQO4rjmbB4e3GXIX0cYXsE3EngO-_9ZKLqNqHkh2PFjGxEXpI_UnlF-rLL0vqmDFMpp0eaKaXK07ZjnfWVdeg4ph4l-WwYEuek74ezmECmGUNorRmxJLb3-RIOeYVB8yzXFV6zn-3Bm2J0NOVeKvEW4oIcKVUEYAAYXZPg6Z1IICiAa9FHl1wHp8_2Bt5gogFzmv-RFGR88Zu-UTwRnxUGORgsRgjeTndFnsdW8U0-2SIIvQQnXl1-r0UF3KKUt8cIIcE5YPxMEwGukirII3K9YOvNZQ5MqQnQ2GnJaTywZMm6EHsLiIa77YSSx5Y_--kJaNWt5QA0DALrZD_HJ4wHfYOjCryXI9Qs5QPAr4t8PnmVni8u8Y03vkxpZeZ7XAAfqI4E-1GVu9OTq2Fnkz2LaQ3Us-bdsE2aALX5cfFhxVWkks4_0VcbMzKxaStDotXtgs6zwcRuy55KaGex927nlsS42477c9oEzdl0ciJo2h6yJL0dQVuxcJvarWtIkovXy504kHC4-yZbVinkei3vSrlCS9QRkKG9L_Ub0n-9qXxpQE8n_rEATGG5o7d1dkgfNwPX3XEhCJd16utTGJXXKuH2K4oefI6NkrAuIphPVAIbWeqmcdr_FnzdrQ2TpTkkDSiBJacTEAMoJ4I" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/819b1a2d7e.mp4?token=UsvwrLSyszKlU35GHtn_RdeN8jNReuiuLl984c-tIEM7_TjLYNwS-hRMQfhnHkpFN5z6m4BC2YJ6dtme9orfXplowIqzRtyy4BSxgsg-_bPG5RqY59w7BszzfBv_uITewHQxcMP3ZKop_EI2r7SbFDzOJG3BF6rLyZuRwCfQoj9ihtfhJb3Ld2BpoBbyVBlnsGqZi1kIGFW8Y-cK8zTb6mejnr_Ga_qV1rg7N6jcnRxTaOeg_lAMvHIqZrACMqytnWf0-2BshDa-YWLE8oPmCsmA2E1oh6C8_BoU1o0z_prLXAltQuDe2s_NKDdJoea86ql8_e-v75pfI1KK1i8NDoYnkQyo1PmuThJXsfN1BwilMMXkc-cAEMThMslHlssTgH43nibhfXIPdUHFpOisSsz-DOmzUSKx5B1HWEoopeGqNjoR_w2OOe1ai_ynnBc7f_f_uVJbc38V8C97x6R3mreRk8ko76nEgnkURJikQncyy1LQwmoBTRAU1wtThBSzdqT3Uw1humbiDa0XqlP4lhg6Zoxl_hYw9X_AXWAL0uXM3lnCV4IWcN1i7kS-X0_B7Mw_92ohHeNxhxz-5LDYNKf5U2s3Z-jxFKUq6RnTpybeBqfiy_dBLSMXj61A2QeVS9OtVcThrgEHqEcb9IzUz0VHXe_G_uWsPR00NMz9wu4" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/819b1a2d7e.mp4?token=GL1xOkNbqm16mAsjhtvkEylcKubQO4rjmbB4e3GXIX0cYXsE3EngO-_9ZKLqNqHkh2PFjGxEXpI_UnlF-rLL0vqmDFMpp0eaKaXK07ZjnfWVdeg4ph4l-WwYEuek74ezmECmGUNorRmxJLb3-RIOeYVB8yzXFV6zn-3Bm2J0NOVeKvEW4oIcKVUEYAAYXZPg6Z1IICiAa9FHl1wHp8_2Bt5gogFzmv-RFGR88Zu-UTwRnxUGORgsRgjeTndFnsdW8U0-2SIIvQQnXl1-r0UF3KKUt8cIIcE5YPxMEwGukirII3K9YOvNZQ5MqQnQ2GnJaTywZMm6EHsLiIa77YSSx5Y_--kJaNWt5QA0DALrZD_HJ4wHfYOjCryXI9Qs5QPAr4t8PnmVni8u8Y03vkxpZeZ7XAAfqI4E-1GVu9OTq2Fnkz2LaQ3Us-bdsE2aALX5cfFhxVWkks4_0VcbMzKxaStDotXtgs6zwcRuy55KaGex927nlsS42477c9oEzdl0ciJo2h6yJL0dQVuxcJvarWtIkovXy504kHC4-yZbVinkei3vSrlCS9QRkKG9L_Ub0n-9qXxpQE8n_rEATGG5o7d1dkgfNwPX3XEhCJd16utTGJXXKuH2K4oefI6NkrAuIphPVAIbWeqmcdr_FnzdrQ2TpTkkDSiBJacTEAMoJ4I" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/819b1a2d7e.mp4?token=UsvwrLSyszKlU35GHtn_RdeN8jNReuiuLl984c-tIEM7_TjLYNwS-hRMQfhnHkpFN5z6m4BC2YJ6dtme9orfXplowIqzRtyy4BSxgsg-_bPG5RqY59w7BszzfBv_uITewHQxcMP3ZKop_EI2r7SbFDzOJG3BF6rLyZuRwCfQoj9ihtfhJb3Ld2BpoBbyVBlnsGqZi1kIGFW8Y-cK8zTb6mejnr_Ga_qV1rg7N6jcnRxTaOeg_lAMvHIqZrACMqytnWf0-2BshDa-YWLE8oPmCsmA2E1oh6C8_BoU1o0z_prLXAltQuDe2s_NKDdJoea86ql8_e-v75pfI1KK1i8NDoYnkQyo1PmuThJXsfN1BwilMMXkc-cAEMThMslHlssTgH43nibhfXIPdUHFpOisSsz-DOmzUSKx5B1HWEoopeGqNjoR_w2OOe1ai_ynnBc7f_f_uVJbc38V8C97x6R3mreRk8ko76nEgnkURJikQncyy1LQwmoBTRAU1wtThBSzdqT3Uw1humbiDa0XqlP4lhg6Zoxl_hYw9X_AXWAL0uXM3lnCV4IWcN1i7kS-X0_B7Mw_92ohHeNxhxz-5LDYNKf5U2s3Z-jxFKUq6RnTpybeBqfiy_dBLSMXj61A2QeVS9OtVcThrgEHqEcb9IzUz0VHXe_G_uWsPR00NMz9wu4" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ترامپ در‌ تبلیغ سناتور اوهایو ، جان هاستد : «من خیلی به‌ندرت با مردها این کار را می‌کنم؛ شروع کردم به بررسی بدنش! از بالا تا پایین نگاهش کردم، به باسنش نگاه کردم، تمام بدنش را برانداز کردم و به دست‌هایش نگاه کردم؛ درست مثل چنگال! همان‌جا فهمیدم که تو یک ورزشکار فوق‌العاده‌ای! این را نمی‌دانستم؛ تبریک می‌گویم!»
 @WarRoom
@@ -1023,7 +1023,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">سازمان عملیات تجارت دریایی بریتانیا (UKMTO): گزارشی با تأخیر از وقوع حادثه‌ای در داخل تنگه هرمز دریافت شده است. بر اساس گزارش یک منبع تأییدشده، یک نفتکش حامل فرآورده‌های نفتی هنگام عبور از تنگه هرمز به سمت خروجی، با پرتابه‌ای ناشناس هدف قرار گرفته است. مقام‌های مسئول در حال بررسی این حادثه هستند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/25508" target="_blank">📅 21:57 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/25508" target="_blank">📅 21:57 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25507">
@@ -1050,7 +1050,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">صداوسیما لحظاتی از شلیک موشک‌های کروز در تنگه هرمز تا عملیات مین‌ریزی را منتشر کرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/25505" target="_blank">📅 21:07 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/25505" target="_blank">📅 21:07 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25504">
@@ -1142,7 +1142,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-text">تتر و دلار ۲۶۱،۰۰۰ تومان
 🔻
 @WarRoom</div>
-<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/25494" target="_blank">📅 18:04 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/25494" target="_blank">📅 18:04 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25493">
@@ -1163,7 +1163,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">چندین پرتاب موشک بالستیک از شهر های : یزد، اصفهان و کرمانشاه گزارش شده است. به نظر میرسد تمرینی و برای بازدارندکی و رخ نمایی توان باشد
 @WarRoom</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/25492" target="_blank">📅 17:21 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/25492" target="_blank">📅 17:21 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25491">
@@ -1239,7 +1239,7 @@ https://www.instagram.com/reel/Decq0BfRPmP/?exln=MWh5Z2hqOXdjaXR5eA==
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oi9yxpwlYgEzaRAxLZ2MTzqSg9BUJeeVMNxu8zsYkwn3tenPOfRzMWn91YgbSSymYnhR2Z_jkLU1995AkUb5bwLk6eMK3hKi4XZN56PU7ktFcqX6_D2YkYFnKR927ZXcVWsdms1fWXIBMO3Chla2V9YHvBQlB2rgjvT1FzKtOR3WFW7nxX6_b5z4TjRRulPp3Zo6jVkbiTC89Uuu6WSvqRvPjJn-ztRn0kOEmMPQ69deVNDJCB8yoKuP0OHYy6BngV8zlT0IMPfoHtk7XGnr7IrBHAqTCcYKDNEzuPb8jVAinWAdth_KF0ZTuREutH2H4Te4tN_6VkQjf8NqQcfSHA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اولین تصویر از مهرداد اخلاقی کتابچی، وزیر پیشنهادی دفاع و پشتیبانی نیروهای مسلح
 @WarRoom</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/25484" target="_blank">📅 15:40 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/25484" target="_blank">📅 15:40 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-25483">

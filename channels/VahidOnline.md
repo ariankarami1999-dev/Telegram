@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی می‌گن. اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جوری که می‌خواستم به خودم نشون داده بشن می‌گذارم.ممنون از حمایت‌های ماهانهvhdo.nl/patreonیا گاهانهvhdo.nl/paypal</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-22 02:50:38</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-22 05:31:08</div>
 <hr>
 
 <div class="tg-post" id="msg-78715">
@@ -309,7 +309,7 @@
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/VahidOnline/78715" target="_blank">📅 23:38 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/VahidOnline/78715" target="_blank">📅 23:38 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78714">
@@ -325,7 +325,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/VahidOnline/78714" target="_blank">📅 23:35 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/VahidOnline/78714" target="_blank">📅 23:35 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78713">
@@ -337,7 +337,7 @@ VahidHeadline
 UK_MTO
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 150K · <a href="https://t.me/VahidOnline/78713" target="_blank">📅 22:41 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 162K · <a href="https://t.me/VahidOnline/78713" target="_blank">📅 22:41 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78712">
@@ -353,7 +353,7 @@ UK_MTO
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 219K · <a href="https://t.me/VahidOnline/78712" target="_blank">📅 19:49 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 226K · <a href="https://t.me/VahidOnline/78712" target="_blank">📅 19:49 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78711">
@@ -367,7 +367,7 @@ realDonaldTrump
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 250K · <a href="https://t.me/VahidOnline/78711" target="_blank">📅 16:13 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 254K · <a href="https://t.me/VahidOnline/78711" target="_blank">📅 16:13 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78710">
@@ -380,7 +380,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 220K · <a href="https://t.me/VahidOnline/78710" target="_blank">📅 16:13 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 224K · <a href="https://t.me/VahidOnline/78710" target="_blank">📅 16:13 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78709">
@@ -394,7 +394,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 212K · <a href="https://t.me/VahidOnline/78709" target="_blank">📅 16:12 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 215K · <a href="https://t.me/VahidOnline/78709" target="_blank">📅 16:12 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78708">
@@ -407,7 +407,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 198K · <a href="https://t.me/VahidOnline/78708" target="_blank">📅 16:10 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 201K · <a href="https://t.me/VahidOnline/78708" target="_blank">📅 16:10 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78707">
@@ -421,7 +421,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 212K · <a href="https://t.me/VahidOnline/78707" target="_blank">📅 16:09 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 216K · <a href="https://t.me/VahidOnline/78707" target="_blank">📅 16:09 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78706">
@@ -435,7 +435,7 @@ VahidHeadline
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 283K · <a href="https://t.me/VahidOnline/78706" target="_blank">📅 06:44 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 285K · <a href="https://t.me/VahidOnline/78706" target="_blank">📅 06:44 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78705">
@@ -450,7 +450,7 @@ realDonaldTrump
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/78705" target="_blank">📅 06:42 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 290K · <a href="https://t.me/VahidOnline/78705" target="_blank">📅 06:42 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78704">
@@ -462,7 +462,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 303K · <a href="https://t.me/VahidOnline/78704" target="_blank">📅 22:45 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 304K · <a href="https://t.me/VahidOnline/78704" target="_blank">📅 22:45 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78703">
@@ -475,7 +475,7 @@ VahidOOnLine
 UK_MTO
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 286K · <a href="https://t.me/VahidOnline/78703" target="_blank">📅 22:45 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 287K · <a href="https://t.me/VahidOnline/78703" target="_blank">📅 22:45 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78702">
@@ -488,7 +488,7 @@ UK_MTO
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 287K · <a href="https://t.me/VahidOnline/78702" target="_blank">📅 21:13 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/78702" target="_blank">📅 21:13 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78701">
@@ -508,7 +508,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 284K · <a href="https://t.me/VahidOnline/78701" target="_blank">📅 20:44 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 285K · <a href="https://t.me/VahidOnline/78701" target="_blank">📅 20:44 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78700">
@@ -522,7 +522,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/78700" target="_blank">📅 18:54 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 289K · <a href="https://t.me/VahidOnline/78700" target="_blank">📅 18:54 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78699">
@@ -535,7 +535,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 306K · <a href="https://t.me/VahidOnline/78699" target="_blank">📅 17:22 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 307K · <a href="https://t.me/VahidOnline/78699" target="_blank">📅 17:22 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78697">
@@ -556,7 +556,7 @@ VahidOnLive
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 299K · <a href="https://t.me/VahidOnline/78697" target="_blank">📅 17:21 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 300K · <a href="https://t.me/VahidOnline/78697" target="_blank">📅 17:21 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78695">
@@ -594,7 +594,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 363K · <a href="https://t.me/VahidOnline/78694" target="_blank">📅 19:42 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 364K · <a href="https://t.me/VahidOnline/78694" target="_blank">📅 19:42 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78692">
@@ -651,7 +651,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 306K · <a href="https://t.me/VahidOnline/78690" target="_blank">📅 16:11 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 307K · <a href="https://t.me/VahidOnline/78690" target="_blank">📅 16:11 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78689">
@@ -666,7 +666,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 323K · <a href="https://t.me/VahidOnline/78689" target="_blank">📅 16:10 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 324K · <a href="https://t.me/VahidOnline/78689" target="_blank">📅 16:10 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78688">
@@ -707,7 +707,7 @@ UK_MTO
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 346K · <a href="https://t.me/VahidOnline/78686" target="_blank">📅 01:45 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 347K · <a href="https://t.me/VahidOnline/78686" target="_blank">📅 01:45 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78685">
@@ -786,7 +786,7 @@ VahidHeadline
 رسیدند؟
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 330K · <a href="https://t.me/VahidOnline/78682" target="_blank">📅 19:53 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 331K · <a href="https://t.me/VahidOnline/78682" target="_blank">📅 19:53 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78681">
@@ -800,7 +800,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 350K · <a href="https://t.me/VahidOnline/78681" target="_blank">📅 19:50 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 351K · <a href="https://t.me/VahidOnline/78681" target="_blank">📅 19:50 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78680">
@@ -820,7 +820,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 400K · <a href="https://t.me/VahidOnline/78680" target="_blank">📅 07:40 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 401K · <a href="https://t.me/VahidOnline/78680" target="_blank">📅 07:40 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78679">
@@ -834,7 +834,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 423K · <a href="https://t.me/VahidOnline/78679" target="_blank">📅 22:47 · 17 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 424K · <a href="https://t.me/VahidOnline/78679" target="_blank">📅 22:47 · 17 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78677">
@@ -1187,7 +1187,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-78655">
 <div class="tg-post-header">📌 پیام #46</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Z3bSmW4R4b0EGG8Zt3CNOeYJc4shrF4HedRXLyJ4-wt1aLI4tkhr6_Tl_Dc1xXlI0Jr1Yz0ancLDC4LrQ0Vflrjc0cBV8rdUh905fNn9yUUz8VRz48e95CGT1aDdwzdFDICXLp2KXM3yYtUtlM8xJdJdmcZMd-LNyLwVxoGNE8R9SVO_IgeHrWaeezsakXBKBFhkAqUFSrTMoUYcluvsiKxHlTjoEiOpROs2XERJM190PUgX7bt4lmqZd0kZuU3eBGiYuDdacuxwaikQz0ZOSLrONYq4u5rC4tCOqwkxr2icrzDXVo2pYhK9MqBBf1iAukQIqmniVWP2fxQmi7xRYQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DynOBcSKeSBi_Erth7mKJvBvwhKQAFbd-r1fjGspO7PxhA8-GR2d6DKMefBC5O_VyGd7UkFCEcdPvgS7qCvGkMXkfpAQ5MJpaAYbiYya5p3d7tIJ9oaEpDOiBUuXWwh5Tawj4SKuA1W1vwU0703lw-4thItxg0NtphpEnt-iyp339_qPLLjzt4RIVfeLjiDfp4DPdpYO5mp5dSj5rL-adKXPQL_0pgQdmZSRH-W-JojiotjRYDF8jXVieUTFGJJQ2DIBRqUZzd4s15rzzHjusGP7tCvb22tzJXUigfuMVYXi42dd-RBDC5ee15zJEtgr4TIi0EgUi1KcKF73ZgSG9g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دونالد ترامپ، رئیس‌جمهوری ایالات متحده، بامداد پنجشنبه ۱۶ مهر در سخنرانی در ایالت تگزاس درباره جنگ با ایران گفت این جنگ «خیلی زود» پایان خواهد یافت و ایران را «کشوری شکست‌خورده» توصیف کرد.
 ترامپ گفت: «وقتی این جنگ تمام شود که خیلی زود خواهد بود، آن‌ها یک کشور شکست‌خورده‌اند، کمی رمق برایشان مانده، اما نه زیاد.»
 او همچنین با اشاره به نفت عبوری از تنگه هرمز گفت این نفت در سراسر جهان توزیع می‌شود و بار دیگر بر نقش آمریکا در انتقال نفت از این مسیر تاکید کرد.
@@ -1208,7 +1208,7 @@ VahidOnLive
 
 <div class="tg-post" id="msg-78654">
 <div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iBZcsd-hGs5LYT2r3V9ActZIyFqaOt2FBRd8km9jzfP946tIIPfwavr3Ds0FRT4KyQVZkr_i-00aoRvlOWbcUJoRAS2JywFLFfIc3Qj-QWHadT_2fRDJEglojclPlwWYmXDeIikdlTqVZNtCBql7SMTPN2-aUyuSqrhJup0G9_XoaZsNNn2zyvyUI5wgEVK6g7KV1Afl3o3ZE4BlDuYEhaiSqD2QiQYbdkRYQhMeWcStmlQ0pbWjNliLBqPhppGCRYS6KIc-KRWnNdCUqDXYms_mSsEzh0gVWSkAClNCDHJmLg61TzI2oesjVBEWghXx0dCiaeJ-8q14bSR35aqlBg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/egq0lw2PybcuPEZwe600vxCsNMlVuxIfVvsQNeMHLSnc4daYaOaMSksj0Hx7Tyd_x8KLYl_M4402r-Wh4KeluosnM8OWzS9vB1D-CE3Nk6M0UHXb_wi-dfJFmhMD2zi1fzaBZr2T5xltlxmLqxvxX0OLuM753kefSHcUlJrtvrEKaV6fJJk5fNs5Eh-KgMsy27hfvAWSUrgYbmKiPGN2JGuYMTQabCWP0KxP4yJEdL57ehMwnWK4lk57cbX2kyFUWtB-vKB2FfKHgwEUfCbGKTeBaxICkoSTJmgQa5lvlRUvbCrXJB8M5EikksoKti58X9QIjW3l7QxSQSdSQWJKvQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دو رسانه آمریکایی گزارش کرده‌اند که پنتاگون برای حمله احتمالی مجدد به ایران طی روزهای آتی آماده می‌شود.
 سایت خبری اکسیوس به نقل از مقام‌های آمریکایی گزارش کرده طی روزهای اخیر پنتاگون با صدور دستورالعملی از سنتکام (فرماندهی مرکزی آمریکا در منطقه خاورمیانه) خواسته روند آمادگی خود را برای از سرگیری عملیات رزمی عمده علیه ایران تکمیل کند.
 همچنین مجله آتلانتیک هم در گزارشی اختصاصی به نقل از دو مقام آمریکایی نوشته کاخ سفید از پنتاگون خواسته است تا گزینه‌هایی برای حمله به اهداف ایرانی تدوین کند که امکان اجرای آن‌ها پیش از انتخابات میان‌دوره‌ای وجود داشته باشد.
@@ -1326,7 +1326,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 328K · <a href="https://t.me/VahidOnline/78645" target="_blank">📅 16:22 · 15 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 329K · <a href="https://t.me/VahidOnline/78645" target="_blank">📅 16:22 · 15 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78644">

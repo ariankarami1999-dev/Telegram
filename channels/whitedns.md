@@ -292,14 +292,14 @@
 <a href="https://t.me/whitedns" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 گروه :t.me/whitedns_groupادمين :@WhiteDnsChatBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-22 02:50:38</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-22 05:31:08</div>
 <hr>
 
 <div class="tg-post" id="msg-1954">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">سرور whitedns که از طریق بات درخواست میکنید یک روزه هست اگر لازم دارید
 به درد روز مبادا نمیخوره ،درخواست ندید</div>
-<div class="tg-footer">👁️ 8.57K · <a href="https://t.me/whitedns/1954" target="_blank">📅 13:11 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.67K · <a href="https://t.me/whitedns/1954" target="_blank">📅 13:11 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1953">
@@ -362,7 +362,7 @@ whitedns app config bot/ masterdns config   :
 💬
 راهنمای استفاده از ربات WhiteDNS
 @whitedns</div>
-<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/whitedns/1953" target="_blank">📅 13:08 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/whitedns/1953" target="_blank">📅 13:08 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1952">
@@ -400,7 +400,7 @@ whitedns app config bot/ masterdns config   :
 @thefeedconfig
 ضبط و تدوین ویدیو:
 @vahid_4444</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/whitedns/1952" target="_blank">📅 11:06 · 20 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/whitedns/1952" target="_blank">📅 11:06 · 20 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1950">
@@ -499,7 +499,7 @@ https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt#Patte
 توجه:ممکنه بسیاری از روش های دیگه مثل وارپ(AETHER) یا حتی SERVER LESS رو نت شما کار کنه اما این بیشتر بستگی به محدودیت های اینترنت و منطقه شما داره این روش ها رو داخل این پست اشاره نکردم زیرا روی همه نتا متصل نیست و منتظر آپدیت جدید از CluvexStudio و patterniha برای هسته Aether و همچنین sni spoof میمونم و بعد از رفع مشکل معرفی میکنم.
 @xsfilterrnet
 🙂</div>
-<div class="tg-footer">👁️ 9.63K · <a href="https://t.me/whitedns/1947" target="_blank">📅 18:16 · 19 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.64K · <a href="https://t.me/whitedns/1947" target="_blank">📅 18:16 · 19 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1946">
@@ -621,7 +621,7 @@ H3 به عبور UDP نیاز دارد؛ ECH به‌تنهایی مسدودبو�
 </div>
 <div class="tg-text">🚀
 نسخهٔ 1.11.0 Whiteaesther mobileمنتشر شد</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/whitedns/1943" target="_blank">📅 19:22 · 18 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/whitedns/1943" target="_blank">📅 19:22 · 18 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1942">
@@ -740,7 +740,7 @@ TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_E
 
 <div class="tg-post" id="msg-1939">
 <div class="tg-post-header">📌 پیام #89</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WInmtCo3b_ZNCYwxF_NPOfYDMM8rNfmMnkIgd1zrHPcyPadQBTHe2GdMy5PVBk3d50lOa5NExlON_lfJvIJ4jv3zTntZnqq_yzNw3O1A5gjVCQWw-2984tTOxjV3A0FYDP-Nm_oEFs0NTsdv9CQfhYkTZbwy_ATZFbrQ8dEDVQEljD5ZRvwoA3ySH31AAA8Ky7ACWsHM7Dm40JAMl2aV01_WwVj9K7sAwzLwVAUZml2wv5-7aTpJ-GL-pw0CU80Ek8MkOk0ctOWAhKKY-yrk4BKVMRzdbXINvqWg9Kz-4nyGGinv7uIcfkFTP-sRggEVpwEv1Fko8qM5gKHPryKSqg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/n8BZK_dd2CMKXO29wRLCOzR8eLN8svtN4wxNRa-Zf8P9fBLaMAKJZHt5K_BIfuZCyFOkzDQRIOf8XS2BE7yLSx5GWdweSw7z1slJrE_ueXqMHgm7nbTbvubh1TerVUq_yCuVQmc8pzXybWr8H-Nstl8yGa64igbLUb8B-QHg50-wnB_GMJ1xquxBG3lQD9LlOB1HlGKnou_tWeU4wIegpqV0KXp14BGZCjICSHCkzZw_dDY-a8msdJbayr9cYivKkl-ltRcuPqo4E8d91ZU-qEbF4oOSJH4b9Rweh9PEF7So_fGcZb5BbRvsCoNlx66Fw1zsJYuMEOvqwwzV-kKpcg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این دو عدد تصویر هم برای دوستان هستش که ایرانسل دارن که باید طبق آموزش گزینه های موجود رو انتخاب کنند
 @whitedns</div>
 <div class="tg-footer">👁️ 15.4K · <a href="https://t.me/whitedns/1939" target="_blank">📅 05:07 · 18 Mehr 1405</a></div>
@@ -748,7 +748,7 @@ TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_E
 
 <div class="tg-post" id="msg-1938">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lzj54cxRjyznc613REhWb1eBALNsF-n1Csi0w30j4WaAxqOnDmrQGRYVhvSk__ajhkwx_Lyklm38z2gMnXwDFmks5F7wqAb7tQ6hDNerq9Ezg4sGkdiRR2uBBY3kbxbTQN_Sjrrakv3RYhmrtdt5P_LrC8qIH_xqMDDkWWei4OT4HxIilI_3Gcnz2yJSVdj1-5Usnbdz6puPK3vqKa1-SUO-p5uAgjqMBX0_5mDIKV54iwl81EBt5ExenbU-sUhFCmvoisrdWPENm48-SyXecjicoUGmgUrPTXg2uX2svOCAckLga7v9ZKl6fQnusZw7J-4ho0dXMsMQBqf2hUiAjQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/rdTnK1Zx14h3opmEsXKvGSBOR6GqIWB8c406XMYMudMdraOghKXNsvkOIyzciunRdC86NcpCJPgaQjh9m4xrlzwTmhFro0LFqcoOPZDKeQOIHS6UJVlBECCK_RQaE1C1vy3R8fVX9IVcBNcqftvD-ojA4Zd6HXazLmys1oEGL3T5vkYTEYvAJQLUvzlwyKow4IaGMN2Wui1fUrFV39xzllz_epUkd6nXHWwfMAPG7rggx7RIGcJ3RueXC6t4cGhRVoveQK2gL4hKnO3-v9kh4samS4uCvrmrK_YzMkC0c_Cs3xo9Ck2qHN5FZcz2_pd-j-9PggdWk1ncQYa9tC9SOw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ین تصویر هم مربوط به آموزش هستش برای
 دوستانی که اپراتور هاشون رایتل و همراه اول هستش در این بخش باید مقادیر وارد بشود
 cloudflare-ech.com
@@ -1616,7 +1616,7 @@ whitedns app config bot/ masterdns config   :
 💬
 راهنمای استفاده از ربات WhiteDNS
 @whitedns</div>
-<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/whitedns/1895" target="_blank">📅 18:57 · 10 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/whitedns/1895" target="_blank">📅 18:57 · 10 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1894">

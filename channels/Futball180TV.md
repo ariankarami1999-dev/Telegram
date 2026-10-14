@@ -292,7 +292,7 @@
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-22 02:50:38</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-22 05:31:08</div>
 <hr>
 
 <div class="tg-post" id="msg-108650">
@@ -303,7 +303,7 @@
 میگی نه؟ بیا تو چنلمون و ببین!
 🔥
 @FutballFuckBet @FutballFuckBet @FutballFuckBet @FutballFuckBet</div>
-<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/Futball180TV/108650" target="_blank">📅 01:41 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 2.83K · <a href="https://t.me/Futball180TV/108650" target="_blank">📅 01:41 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108649">
@@ -318,12 +318,12 @@
 @FutballFuckBet
 @FutballFuckBet
 @FutballFuckBet</div>
-<div class="tg-footer">👁️ 2K · <a href="https://t.me/Futball180TV/108649" target="_blank">📅 01:41 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 2.88K · <a href="https://t.me/Futball180TV/108649" target="_blank">📅 01:41 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108648">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/Futball180TV/108648" target="_blank">📅 01:40 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 2.83K · <a href="https://t.me/Futball180TV/108648" target="_blank">📅 01:40 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108647">
@@ -342,7 +342,7 @@
 🇹🇷
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/Futball180TV/108647" target="_blank">📅 00:37 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/Futball180TV/108647" target="_blank">📅 00:37 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108646">
@@ -353,7 +353,7 @@
 نتایج بازی‌های امشب لیگ‌قهرمانان اروپا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.27K · <a href="https://t.me/Futball180TV/108646" target="_blank">📅 00:30 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 5.96K · <a href="https://t.me/Futball180TV/108646" target="_blank">📅 00:30 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108645">
@@ -371,7 +371,7 @@
 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.65K · <a href="https://t.me/Futball180TV/108645" target="_blank">📅 00:26 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 6.24K · <a href="https://t.me/Futball180TV/108645" target="_blank">📅 00:26 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108644">
@@ -389,7 +389,7 @@
 🇩🇪
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.8K · <a href="https://t.me/Futball180TV/108644" target="_blank">📅 00:25 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 6.35K · <a href="https://t.me/Futball180TV/108644" target="_blank">📅 00:25 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108643">
@@ -408,7 +408,7 @@
 🇹🇷
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.86K · <a href="https://t.me/Futball180TV/108643" target="_blank">📅 00:23 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 6.41K · <a href="https://t.me/Futball180TV/108643" target="_blank">📅 00:23 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108642">
@@ -423,13 +423,13 @@
 <div class="tg-text">گل‌سوم بایرن‌مونیخ به وایکینگ‌ها
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.71K · <a href="https://t.me/Futball180TV/108642" target="_blank">📅 00:21 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 6.25K · <a href="https://t.me/Futball180TV/108642" target="_blank">📅 00:21 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108641">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">گلگلگل سوم وایکینگ‌ها به بایرن‌مونیخ</div>
-<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/Futball180TV/108641" target="_blank">📅 00:21 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 6.14K · <a href="https://t.me/Futball180TV/108641" target="_blank">📅 00:21 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108640">
@@ -444,13 +444,13 @@
 <div class="tg-text">گل دوم اتلتیکو مادرید به منچستر توسط لوکمن
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.27K · <a href="https://t.me/Futball180TV/108640" target="_blank">📅 00:11 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 6.78K · <a href="https://t.me/Futball180TV/108640" target="_blank">📅 00:11 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108639">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">گلگلگگلگلگلگلگ اتلتیکومادرید دومیو زددددد</div>
-<div class="tg-footer">👁️ 6.4K · <a href="https://t.me/Futball180TV/108639" target="_blank">📅 00:09 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 6.91K · <a href="https://t.me/Futball180TV/108639" target="_blank">📅 00:09 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108638">
@@ -465,7 +465,7 @@
 <div class="tg-text">گل‌سوم بایرن‌مونیخ توسط لوئیز دیاز
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.56K · <a href="https://t.me/Futball180TV/108638" target="_blank">📅 00:06 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.04K · <a href="https://t.me/Futball180TV/108638" target="_blank">📅 00:06 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108637">
@@ -474,7 +474,7 @@
 🟥
 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 لنی‌یورو جلو اتلتیکومادرید اخراج شد</div>
-<div class="tg-footer">👁️ 6.62K · <a href="https://t.me/Futball180TV/108637" target="_blank">📅 00:04 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.06K · <a href="https://t.me/Futball180TV/108637" target="_blank">📅 00:04 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108636">
@@ -485,13 +485,13 @@
 مایکل اولیسه بدلیل دریافت کارت قرمز بازی هفته بعدی مقابل آرسنال رو از دست داد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.12K · <a href="https://t.me/Futball180TV/108636" target="_blank">📅 00:02 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.57K · <a href="https://t.me/Futball180TV/108636" target="_blank">📅 00:02 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108635">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">گلگلگلگلگگلگلگل سوم بایرن مونیخ به وایکینگ‌ها</div>
-<div class="tg-footer">👁️ 7.16K · <a href="https://t.me/Futball180TV/108635" target="_blank">📅 00:00 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.62K · <a href="https://t.me/Futball180TV/108635" target="_blank">📅 00:00 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108634">
@@ -507,14 +507,14 @@
 گل‌چهارم بارسلونا به گالاتاسرای توسط آدیمی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/Futball180TV/108634" target="_blank">📅 23:59 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.66K · <a href="https://t.me/Futball180TV/108634" target="_blank">📅 23:59 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108633">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">🏴󠁧󠁢󠁥󠁮󠁧󠁿
 گلگلگلگلگگلگل سوم آرسنال به لیل</div>
-<div class="tg-footer">👁️ 6.75K · <a href="https://t.me/Futball180TV/108633" target="_blank">📅 23:58 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/Futball180TV/108633" target="_blank">📅 23:58 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108632">
@@ -524,26 +524,26 @@
 🔥
 🔥
 😂</div>
-<div class="tg-footer">👁️ 7.04K · <a href="https://t.me/Futball180TV/108632" target="_blank">📅 23:56 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.43K · <a href="https://t.me/Futball180TV/108632" target="_blank">📅 23:56 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108631">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">گل زیبای کریم آدیمیییییییییییی</div>
-<div class="tg-footer">👁️ 7.03K · <a href="https://t.me/Futball180TV/108631" target="_blank">📅 23:56 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.46K · <a href="https://t.me/Futball180TV/108631" target="_blank">📅 23:56 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108630">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">گلگگلگلگلگلگگلگلگل چهارم بارساااااا</div>
-<div class="tg-footer">👁️ 7.02K · <a href="https://t.me/Futball180TV/108630" target="_blank">📅 23:55 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.45K · <a href="https://t.me/Futball180TV/108630" target="_blank">📅 23:55 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108629">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">🏴󠁧󠁢󠁥󠁮󠁧󠁿
 گلگلگلگگلگلگل دوم آرسنال به لیل</div>
-<div class="tg-footer">👁️ 7.12K · <a href="https://t.me/Futball180TV/108629" target="_blank">📅 23:54 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.55K · <a href="https://t.me/Futball180TV/108629" target="_blank">📅 23:54 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108628">
@@ -553,14 +553,14 @@
 ▶️
 🇪🇺
 نتایج بازی‌های تا این لحظه</div>
-<div class="tg-footer">👁️ 7.17K · <a href="https://t.me/Futball180TV/108628" target="_blank">📅 23:53 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.6K · <a href="https://t.me/Futball180TV/108628" target="_blank">📅 23:53 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108627">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">🏴󠁧󠁢󠁥󠁮󠁧󠁿
 گلگلگلگگلگلگل آرسنال یکی به لیل زددددد</div>
-<div class="tg-footer">👁️ 6.8K · <a href="https://t.me/Futball180TV/108627" target="_blank">📅 23:51 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.2K · <a href="https://t.me/Futball180TV/108627" target="_blank">📅 23:51 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108626">
@@ -575,43 +575,43 @@
 <div class="tg-text">گل‌تساوی بایرن‌مونیخ به وایکینگ‌ها هری کین
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.83K · <a href="https://t.me/Futball180TV/108626" target="_blank">📅 23:50 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.22K · <a href="https://t.me/Futball180TV/108626" target="_blank">📅 23:50 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108625">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">لوووووویز دیازززززززز</div>
-<div class="tg-footer">👁️ 6.73K · <a href="https://t.me/Futball180TV/108625" target="_blank">📅 23:49 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.12K · <a href="https://t.me/Futball180TV/108625" target="_blank">📅 23:49 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108624">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">لوووووویز دیازززززززز</div>
-<div class="tg-footer">👁️ 6.72K · <a href="https://t.me/Futball180TV/108624" target="_blank">📅 23:49 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.11K · <a href="https://t.me/Futball180TV/108624" target="_blank">📅 23:49 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108623">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">گلگلگگلگلگلگلگلگ سوم بایرن‌مونیخ</div>
-<div class="tg-footer">👁️ 6.73K · <a href="https://t.me/Futball180TV/108623" target="_blank">📅 23:49 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/108623" target="_blank">📅 23:49 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108622">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">هری کین دبل کرددددددد</div>
-<div class="tg-footer">👁️ 6.88K · <a href="https://t.me/Futball180TV/108622" target="_blank">📅 23:48 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.27K · <a href="https://t.me/Futball180TV/108622" target="_blank">📅 23:48 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108621">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">بایرن‌مونیخ مساویووووو زددددددد</div>
-<div class="tg-footer">👁️ 6.94K · <a href="https://t.me/Futball180TV/108621" target="_blank">📅 23:48 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.4K · <a href="https://t.me/Futball180TV/108621" target="_blank">📅 23:48 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108620">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">گلگلگلگگلگلگلگلگگل</div>
-<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/Futball180TV/108620" target="_blank">📅 23:48 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.68K · <a href="https://t.me/Futball180TV/108620" target="_blank">📅 23:48 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108619">
@@ -626,7 +626,7 @@
 <div class="tg-text">گل‌اول بایرن‌مونیخ به وایکینگ‌ها توسط هری‌کین
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.27K · <a href="https://t.me/Futball180TV/108619" target="_blank">📅 23:47 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.81K · <a href="https://t.me/Futball180TV/108619" target="_blank">📅 23:47 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108618">
@@ -642,7 +642,7 @@
 گل‌سوم بارسلونا به گالاتاسرای توسط گوردون
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/Futball180TV/108618" target="_blank">📅 23:45 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.58K · <a href="https://t.me/Futball180TV/108618" target="_blank">📅 23:45 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108617">
@@ -657,7 +657,7 @@
 <div class="tg-text">گل دوم بارسلونا به گالاتاسرای توسط لوپز
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.39K · <a href="https://t.me/Futball180TV/108617" target="_blank">📅 23:44 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.75K · <a href="https://t.me/Futball180TV/108617" target="_blank">📅 23:44 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108616">
@@ -670,31 +670,31 @@
 🔥
 🔥
 🔥</div>
-<div class="tg-footer">👁️ 7.33K · <a href="https://t.me/Futball180TV/108616" target="_blank">📅 23:44 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.69K · <a href="https://t.me/Futball180TV/108616" target="_blank">📅 23:44 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108615">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">آنتونی گوردون</div>
-<div class="tg-footer">👁️ 7.07K · <a href="https://t.me/Futball180TV/108615" target="_blank">📅 23:44 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.43K · <a href="https://t.me/Futball180TV/108615" target="_blank">📅 23:44 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108614">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">بارسلوناااااااا</div>
-<div class="tg-footer">👁️ 7.19K · <a href="https://t.me/Futball180TV/108614" target="_blank">📅 23:44 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.55K · <a href="https://t.me/Futball180TV/108614" target="_blank">📅 23:44 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108613">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">گلگلگلگلگگلگلگلگلگ سوووووووم</div>
-<div class="tg-footer">👁️ 7.31K · <a href="https://t.me/Futball180TV/108613" target="_blank">📅 23:43 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.66K · <a href="https://t.me/Futball180TV/108613" target="_blank">📅 23:43 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108612">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">گلگلگگلگلگگگل بایرن‌مونیخ یکی زد هری کین</div>
-<div class="tg-footer">👁️ 7.35K · <a href="https://t.me/Futball180TV/108612" target="_blank">📅 23:43 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.7K · <a href="https://t.me/Futball180TV/108612" target="_blank">📅 23:43 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108610">
@@ -706,19 +706,19 @@
 🔥
 🔥
 🔥</div>
-<div class="tg-footer">👁️ 7.69K · <a href="https://t.me/Futball180TV/108610" target="_blank">📅 23:41 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.01K · <a href="https://t.me/Futball180TV/108610" target="_blank">📅 23:41 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108609">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">فرمین لوووووپزززززز</div>
-<div class="tg-footer">👁️ 7.69K · <a href="https://t.me/Futball180TV/108609" target="_blank">📅 23:41 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.01K · <a href="https://t.me/Futball180TV/108609" target="_blank">📅 23:41 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108608">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">گلگلگلگلگگلگلگلگل</div>
-<div class="tg-footer">👁️ 7.63K · <a href="https://t.me/Futball180TV/108608" target="_blank">📅 23:41 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 7.98K · <a href="https://t.me/Futball180TV/108608" target="_blank">📅 23:41 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108607">
@@ -729,7 +729,7 @@
 😂
 😂
 😳</div>
-<div class="tg-footer">👁️ 7.9K · <a href="https://t.me/Futball180TV/108607" target="_blank">📅 23:37 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.25K · <a href="https://t.me/Futball180TV/108607" target="_blank">📅 23:37 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108606">
@@ -739,13 +739,13 @@
 نتایج کامل نیمه‌اول مسابقات امشب
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.76K · <a href="https://t.me/Futball180TV/108606" target="_blank">📅 23:27 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.11K · <a href="https://t.me/Futball180TV/108606" target="_blank">📅 23:27 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108605">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">گلر گالاتاسرای ۵ تا گل خریده برا تیمش</div>
-<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/Futball180TV/108605" target="_blank">📅 23:18 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.16K · <a href="https://t.me/Futball180TV/108605" target="_blank">📅 23:18 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108604">
@@ -761,31 +761,31 @@
 گل اول بارسلونا به گالاتاسرای توسط کانسلو
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.26K · <a href="https://t.me/Futball180TV/108604" target="_blank">📅 23:16 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.55K · <a href="https://t.me/Futball180TV/108604" target="_blank">📅 23:16 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108603">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">اتلتیکومادرید دومیوووووو به یونایتد زدددددد که رد شد</div>
-<div class="tg-footer">👁️ 9.03K · <a href="https://t.me/Futball180TV/108603" target="_blank">📅 23:16 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.31K · <a href="https://t.me/Futball180TV/108603" target="_blank">📅 23:16 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108602">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">گلگلگگلگلگلگلگلگگلگلگلگل</div>
-<div class="tg-footer">👁️ 8.86K · <a href="https://t.me/Futball180TV/108602" target="_blank">📅 23:15 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.14K · <a href="https://t.me/Futball180TV/108602" target="_blank">📅 23:15 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108601">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">رفته وار داره بررسی میشه</div>
-<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/Futball180TV/108601" target="_blank">📅 23:15 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.41K · <a href="https://t.me/Futball180TV/108601" target="_blank">📅 23:15 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108600">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">رفته وار داره بررسی میشه</div>
-<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/Futball180TV/108600" target="_blank">📅 23:15 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.5K · <a href="https://t.me/Futball180TV/108600" target="_blank">📅 23:15 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108599">
@@ -796,19 +796,19 @@
 🔥
 🔥
 🔥</div>
-<div class="tg-footer">👁️ 9.24K · <a href="https://t.me/Futball180TV/108599" target="_blank">📅 23:14 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/Futball180TV/108599" target="_blank">📅 23:14 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108598">
 <div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">بارساااااااا</div>
-<div class="tg-footer">👁️ 9.2K · <a href="https://t.me/Futball180TV/108598" target="_blank">📅 23:13 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.51K · <a href="https://t.me/Futball180TV/108598" target="_blank">📅 23:13 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108597">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">گلگلگگلگلگلگل</div>
-<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/Futball180TV/108597" target="_blank">📅 23:13 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.39K · <a href="https://t.me/Futball180TV/108597" target="_blank">📅 23:13 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108596">
@@ -825,7 +825,7 @@
 🔥
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.41K · <a href="https://t.me/Futball180TV/108596" target="_blank">📅 23:12 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.7K · <a href="https://t.me/Futball180TV/108596" target="_blank">📅 23:12 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108595">
@@ -833,13 +833,13 @@
 <div class="tg-text">بایرن‌مونیخ دومیوووووو خورد از وایکینگ
 😐
 😳</div>
-<div class="tg-footer">👁️ 9.34K · <a href="https://t.me/Futball180TV/108595" target="_blank">📅 23:08 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.62K · <a href="https://t.me/Futball180TV/108595" target="_blank">📅 23:08 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108594">
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">گلگلگلگلگگلگلگلگلگ</div>
-<div class="tg-footer">👁️ 9.36K · <a href="https://t.me/Futball180TV/108594" target="_blank">📅 23:08 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.63K · <a href="https://t.me/Futball180TV/108594" target="_blank">📅 23:08 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108593">
@@ -847,31 +847,31 @@
 <div class="tg-text">🚨
 🚨
 گل دوم مردودددددد شدددددددد</div>
-<div class="tg-footer">👁️ 9.53K · <a href="https://t.me/Futball180TV/108593" target="_blank">📅 23:07 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/Futball180TV/108593" target="_blank">📅 23:07 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108592">
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">صحنه رفته وار بررسی بشه</div>
-<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/Futball180TV/108592" target="_blank">📅 23:06 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/Futball180TV/108592" target="_blank">📅 23:06 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108591">
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">کوووووون فلیک داره پاره میشههههههههه</div>
-<div class="tg-footer">👁️ 9.94K · <a href="https://t.me/Futball180TV/108591" target="_blank">📅 23:05 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/Futball180TV/108591" target="_blank">📅 23:05 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108590">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">گالاتاسرای دومیوووووووو زددددددددد</div>
-<div class="tg-footer">👁️ 9.86K · <a href="https://t.me/Futball180TV/108590" target="_blank">📅 23:05 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/Futball180TV/108590" target="_blank">📅 23:05 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108589">
 <div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">گلگلگلگگلگلگلگل</div>
-<div class="tg-footer">👁️ 9.71K · <a href="https://t.me/Futball180TV/108589" target="_blank">📅 23:05 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.99K · <a href="https://t.me/Futball180TV/108589" target="_blank">📅 23:05 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108588">
@@ -888,31 +888,31 @@
 گل اول گالاتاسرای به بارسلونا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/Futball180TV/108588" target="_blank">📅 23:01 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/Futball180TV/108588" target="_blank">📅 23:01 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108587">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">گالاتاسرای زددددددددد</div>
-<div class="tg-footer">👁️ 9.73K · <a href="https://t.me/Futball180TV/108587" target="_blank">📅 22:59 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/Futball180TV/108587" target="_blank">📅 22:59 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108586">
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">گلگلگگلگلگلگگلگل</div>
-<div class="tg-footer">👁️ 9.65K · <a href="https://t.me/Futball180TV/108586" target="_blank">📅 22:59 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 9.92K · <a href="https://t.me/Futball180TV/108586" target="_blank">📅 22:59 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108585">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">لیل یکی به آرسنال زد</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/Futball180TV/108585" target="_blank">📅 22:54 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/Futball180TV/108585" target="_blank">📅 22:54 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108584">
 <div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">لیل یکی به آرسنال زد</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/Futball180TV/108584" target="_blank">📅 22:53 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/Futball180TV/108584" target="_blank">📅 22:53 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108583">
@@ -920,7 +920,7 @@
 <div class="tg-text">گل‌اول وایکینگ به بایرن‌مونیخ
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/Futball180TV/108583" target="_blank">📅 22:39 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/Futball180TV/108583" target="_blank">📅 22:39 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108582">
@@ -936,31 +936,31 @@
 به نام خدا و گل؛ گل اول اتلتیکو مادرید به منچستر یونایتد توسط باریوس
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/108582" target="_blank">📅 22:36 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/Futball180TV/108582" target="_blank">📅 22:36 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108581">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">گلگلگلگگلگلگل اتلتیکو یکی به یونایتد زدددد</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/Futball180TV/108581" target="_blank">📅 22:34 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/108581" target="_blank">📅 22:34 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108580">
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">بایرن‌مونیخ یکی از وایکینگ خورد</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/Futball180TV/108580" target="_blank">📅 22:33 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/Futball180TV/108580" target="_blank">📅 22:33 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108579">
 <div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">گلگلگگلگلگلگلگ</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/Futball180TV/108579" target="_blank">📅 22:32 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/Futball180TV/108579" target="_blank">📅 22:32 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108578">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">برررریم سراغ بازی‌های امشب لیگ‌قهرمانان اروپا</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/Futball180TV/108578" target="_blank">📅 22:29 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/Futball180TV/108578" target="_blank">📅 22:29 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108577">
@@ -976,7 +976,7 @@
 امید عالیشاه نیز ۴ بازی محروم شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/Futball180TV/108577" target="_blank">📅 22:23 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/Futball180TV/108577" target="_blank">📅 22:23 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108576">
@@ -988,7 +988,7 @@
 ترکیب آرسنال مقابل لیل
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/108576" target="_blank">📅 21:23 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/108576" target="_blank">📅 21:23 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108575">
@@ -1000,7 +1000,7 @@
 ترکیب بارسلونا مقابل گالاتاسرای
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/108575" target="_blank">📅 21:17 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/108575" target="_blank">📅 21:17 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108574">
@@ -1020,7 +1020,7 @@
 ☠️
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/108574" target="_blank">📅 20:53 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/108574" target="_blank">📅 20:53 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108573">
@@ -1031,7 +1031,7 @@
 اسپورت: دنی‌اولمو امشب مهاجم نوک بارساست
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/Futball180TV/108573" target="_blank">📅 20:43 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/108573" target="_blank">📅 20:43 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108572">
@@ -1054,7 +1054,7 @@
 میدان انقلاب تهران
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/108572" target="_blank">📅 20:18 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/108572" target="_blank">📅 20:18 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108571">
@@ -1077,7 +1077,7 @@
 میدان انقلاب تهران
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/108571" target="_blank">📅 19:59 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/Futball180TV/108571" target="_blank">📅 19:59 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108570">
@@ -1092,7 +1092,7 @@
 <div class="tg-text">باند سفت‌های استقلال از یک فلافل شکل گرفت:)
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/108570" target="_blank">📅 19:31 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/Futball180TV/108570" target="_blank">📅 19:31 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108569">
@@ -1108,7 +1108,7 @@
 روایت خوبان‌عالم از بخور بخور در فوتبال ایران
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/108569" target="_blank">📅 19:02 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/Futball180TV/108569" target="_blank">📅 19:02 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108568">
@@ -1126,7 +1126,7 @@
 شوخی سمی ابو‌طالب با کات‌کردن آسانی و زنش و احتمال کامبک: واسه خودم اومدی یا چون که یاس شدم؟
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/108568" target="_blank">📅 18:20 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/108568" target="_blank">📅 18:20 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108567">
@@ -1140,7 +1140,7 @@
 حضور مسی در مراسم توپ طلا هنوز قطعی نیست.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/108567" target="_blank">📅 18:15 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/Futball180TV/108567" target="_blank">📅 18:15 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108566">
@@ -1156,7 +1156,7 @@
 گل ذوب‌آهن: امید لطیفی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/108566" target="_blank">📅 18:10 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/108566" target="_blank">📅 18:10 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108565">
@@ -1177,7 +1177,7 @@ t
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/108565" target="_blank">📅 18:09 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/108565" target="_blank">📅 18:09 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108564">
@@ -1208,7 +1208,7 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/108564" target="_blank">📅 18:09 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/108564" target="_blank">📅 18:09 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108563">
@@ -1225,7 +1225,7 @@ T.me/TrexBet_Ir</div>
 هالند و یک آمار عجیب؛ او بر خلاف امباپه، در تله آفساید گیر نمی‌افتد!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/108563" target="_blank">📅 18:03 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/108563" target="_blank">📅 18:03 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108562">
@@ -1243,7 +1243,7 @@ T.me/TrexBet_Ir</div>
 ذوب‌آهن ۱ - ۲ سپاهان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/108562" target="_blank">📅 17:47 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/108562" target="_blank">📅 17:47 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108561">
@@ -1254,7 +1254,7 @@ T.me/TrexBet_Ir</div>
 نسل جدید خط هافبک منچسترسیتی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/108561" target="_blank">📅 17:20 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/108561" target="_blank">📅 17:20 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108560">
@@ -1272,7 +1272,7 @@ T.me/TrexBet_Ir</div>
 ماجرای عجیب صعود آرمان آفرینان به لیگ دسته اول نوجوانان با حضور در رده هفتم؛ دلایل فرافوتبالی برای ۱۹تیمی کردن لیگ
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/108560" target="_blank">📅 16:55 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/108560" target="_blank">📅 16:55 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108559">
@@ -1288,7 +1288,7 @@ T.me/TrexBet_Ir</div>
 اخراج محمد حسینی و 10 نفره شدن ذوب آهن مقابل سپاهان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/108559" target="_blank">📅 16:43 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/Futball180TV/108559" target="_blank">📅 16:43 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108558">
@@ -1306,7 +1306,7 @@ T.me/TrexBet_Ir</div>
 ذوب‌آهن 0 - سپاهان 2
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/108558" target="_blank">📅 16:34 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/108558" target="_blank">📅 16:34 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108557">
@@ -1317,7 +1317,7 @@ T.me/TrexBet_Ir</div>
 این کانال باعث ورشکستگی خیلی از سایتای بت شده و پلیس FBI برای دستگیری ادمینای این چنل جایزه تعیین کرده
 🔥
 https://t.me/+bDapVmvigDhmYzZk https://t.me/+bDapVmvigDhmYzZk</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/108557" target="_blank">📅 16:34 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/108557" target="_blank">📅 16:34 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108556">
@@ -1349,7 +1349,7 @@ https://t.me/+bDapVmvigDhmYzZk</div>
 گل: محمدمهدی لطفی '۲
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/108555" target="_blank">📅 16:21 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/108555" target="_blank">📅 16:21 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108554">
@@ -1367,7 +1367,7 @@ https://t.me/+bDapVmvigDhmYzZk</div>
 مقایسه سوپرگل آرین‌روبن و یاسر‌آسانی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/108554" target="_blank">📅 16:05 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/108554" target="_blank">📅 16:05 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108553">
@@ -1396,7 +1396,7 @@ https://t.me/+bDapVmvigDhmYzZk</div>
 دانیال‌ایری مدافع پرسپولیس پس از طی کردن دوران مصدومیت به تمرینات این تیم بازگشت
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/108552" target="_blank">📅 15:32 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/108552" target="_blank">📅 15:32 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-108551">

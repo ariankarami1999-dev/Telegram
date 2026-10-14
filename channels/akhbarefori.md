@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/symKfrijcFxG8zN2dWOabAN-U7IFwZ-4dEsPi2Dr3P3ujuMrLTILq7Ol3Tf1TnGCOfs1izT-iU258h9vkp_UWGWbDiZCsuWHoeo2FlmaYRy5Y5toL8V-68tFLKLrblbrqqfy6wghxAMcs1UcFWGdIOVI1IscUBMtg1vv4S9iTwzKcRUONiLYIOhKlOqz07kNSJd9SPBWhjSib7Ipuxa1AuzD9FZIRhij_ccUwkuow2h-jSU8YVFsudC38guFkyd0ASE2suunN8oKoDQaQRl6YmLHsFc6BrePwhfwvaplZHNAVxcKIJxkNiwOMjwTPD54kmdDym-CKCl8WU43pfZ6Jg.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 خبرفوری</h1>
-<p>@akhbarefori • 👥 4.46M عضو</p>
+<p>@akhbarefori • 👥 4.45M عضو</p>
 <a href="https://t.me/akhbarefori" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽تبلیغ درکانال خبرفوری@ads_foriارتباط مستقیم با ادمین تبلیغ@newsadminجهت رزرو تبلیغ تماس بگیرید. 09018373801؛ارتباط با ما@Ertebat_baforiiتبلیغ در ۳۰۰کانال تلگرام@Maino_marketer</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-22 02:50:38</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-07-22 05:31:08</div>
 <hr>
 
 <div class="tg-post" id="msg-698273">
@@ -303,7 +303,7 @@
 🌐
 https://www.zoomit.ir/pr/467710-novachain-cross-border-value-transfer-infrastructure/
 nowachain.com</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/akhbarefori/698273" target="_blank">📅 00:30 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/akhbarefori/698273" target="_blank">📅 00:30 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698272">
@@ -327,7 +327,7 @@ https://memarket24.ir/product/fast/46467/180124/
 🤍
 👇
 https://memarket24.ir/product/fast/46468/180124/</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/akhbarefori/698272" target="_blank">📅 00:30 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/akhbarefori/698272" target="_blank">📅 00:30 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698270">
@@ -346,7 +346,7 @@ https://memarket24.ir/product/fast/46468/180124/</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/akhbarefori/698270" target="_blank">📅 00:12 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/akhbarefori/698270" target="_blank">📅 00:12 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698269">
@@ -358,7 +358,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/akhbarefori/698269" target="_blank">📅 00:08 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/akhbarefori/698269" target="_blank">📅 00:08 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698268">
@@ -368,7 +368,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/akhbarefori/698268" target="_blank">📅 00:04 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/akhbarefori/698268" target="_blank">📅 00:04 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698266">
@@ -380,7 +380,7 @@ Link</div>
 🔹
 با قرائت دعای فرج به این جمع میلیونی بپیوندیم
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.49K · <a href="https://t.me/akhbarefori/698266" target="_blank">📅 00:00 · 22 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 8.51K · <a href="https://t.me/akhbarefori/698266" target="_blank">📅 00:00 · 22 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698265">
@@ -432,7 +432,7 @@ http://instagram.com/_u/akhbare.fori
 سایت خبرفوری
 👇
 http://khabarfoori.com/</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/akhbarefori/698265" target="_blank">📅 23:58 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/akhbarefori/698265" target="_blank">📅 23:58 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698264">
@@ -446,7 +446,7 @@ http://khabarfoori.com/</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/akhbarefori/698264" target="_blank">📅 23:56 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/akhbarefori/698264" target="_blank">📅 23:56 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698263">
@@ -467,7 +467,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/akhbarefori/698263" target="_blank">📅 23:55 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/akhbarefori/698263" target="_blank">📅 23:55 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698262">
@@ -479,7 +479,7 @@ Link</div>
 در فضای مجازی
 👇
 @Akhbar_sob</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/akhbarefori/698262" target="_blank">📅 23:50 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/akhbarefori/698262" target="_blank">📅 23:50 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698261">
@@ -511,7 +511,7 @@ khabarfoori.com/fa/tiny/news-3252013
 خبرهای جذاب را در خبرفوری کلیک کنید
 🔹
 khabarfoori.com/hottest-news</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/akhbarefori/698261" target="_blank">📅 23:49 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/akhbarefori/698261" target="_blank">📅 23:49 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698260">
@@ -549,7 +549,7 @@ khabarfoori.com/hottest-news</div>
 🤍
 هر خرید از «قرار»، سهمی در مسیر خیر.
 @ghararshop</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/akhbarefori/698260" target="_blank">📅 23:46 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/akhbarefori/698260" target="_blank">📅 23:46 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698259">
@@ -568,7 +568,7 @@ khabarfoori.com/hottest-news</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/akhbarefori/698259" target="_blank">📅 23:42 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/akhbarefori/698259" target="_blank">📅 23:42 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698258">
@@ -578,7 +578,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/akhbarefori/698258" target="_blank">📅 23:39 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/akhbarefori/698258" target="_blank">📅 23:39 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698252">
@@ -591,7 +591,7 @@ Link</div>
 ادعای وال استریت ژورنال چقدر شدنی است؟ بیشتر بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3252180</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/akhbarefori/698252" target="_blank">📅 23:34 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/akhbarefori/698252" target="_blank">📅 23:34 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698251">
@@ -600,7 +600,7 @@ khabarfoori.com/fa/tiny/news-3252180</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/akhbarefori/698251" target="_blank">📅 23:31 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/akhbarefori/698251" target="_blank">📅 23:31 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698241">
@@ -627,7 +627,7 @@ khabarfoori.com/fa/tiny/news-3252180</div>
 👇
 #صف_وام
 @Alo_fori</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/akhbarefori/698241" target="_blank">📅 23:27 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/akhbarefori/698241" target="_blank">📅 23:27 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698240">
@@ -639,7 +639,7 @@ khabarfoori.com/fa/tiny/news-3252180</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/akhbarefori/698240" target="_blank">📅 23:24 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/akhbarefori/698240" target="_blank">📅 23:24 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698239">
@@ -658,7 +658,7 @@ khabarfoori.com/fa/tiny/news-3252180</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/akhbarefori/698239" target="_blank">📅 23:21 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/akhbarefori/698239" target="_blank">📅 23:21 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698233">
@@ -677,7 +677,7 @@ Link</div>
 🔹
 با پول یک تیبا یا سمند در ایران، می‌توان پشت فرمان کدام خودروهای لوکس خارجی نشست؟ مقایسه‌ای عجیب از قیمت خودرو در دو بازار!
 @Tv_Fori</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/akhbarefori/698233" target="_blank">📅 23:17 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/akhbarefori/698233" target="_blank">📅 23:17 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698232">
@@ -720,7 +720,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/akhbarefori/698232" target="_blank">📅 23:15 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/akhbarefori/698232" target="_blank">📅 23:15 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698228">
@@ -739,7 +739,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/akhbarefori/698228" target="_blank">📅 23:13 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/akhbarefori/698228" target="_blank">📅 23:13 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698218">
@@ -756,7 +756,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/akhbarefori/698218" target="_blank">📅 23:06 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/akhbarefori/698218" target="_blank">📅 23:06 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698217">
@@ -766,7 +766,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/akhbarefori/698217" target="_blank">📅 23:05 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/akhbarefori/698217" target="_blank">📅 23:05 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698216">
@@ -788,7 +788,7 @@ Link</div>
 ۰۲۱-۹۱۰۳۰۹۹۴
 🌐
 faranex.com</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/akhbarefori/698216" target="_blank">📅 23:00 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/akhbarefori/698216" target="_blank">📅 23:00 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698215">
@@ -798,7 +798,7 @@ faranex.com</div>
 بنادر راهبردی اسرائیل و ۵ کشور منطقه در بانک اهداف احتمالی ایران  رسانه جریان به نقل از منابع آگاه:
 🔹
 بر اساس اسناد و نقشه‌های منتشرشده از سناریوی پاسخ متقابل که توسط رسانه امنیتی جریان منتشر شده، فهرستی از مهم‌ترین بنادر راهبردی منطقه به‌عنوان اهداف احتمالی…</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/akhbarefori/698215" target="_blank">📅 22:50 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/akhbarefori/698215" target="_blank">📅 22:50 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698214">
@@ -810,7 +810,7 @@ faranex.com</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/akhbarefori/698214" target="_blank">📅 22:46 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 31K · <a href="https://t.me/akhbarefori/698214" target="_blank">📅 22:46 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698213">
@@ -825,7 +825,7 @@ faranex.com</div>
 هشتصدوهشتادوپنجمین شماره جلد یک خبرفوری
 #تیتر_یک
 @rozname_fori</div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/akhbarefori/698213" target="_blank">📅 22:41 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/akhbarefori/698213" target="_blank">📅 22:41 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698212">
@@ -836,7 +836,7 @@ faranex.com</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/akhbarefori/698212" target="_blank">📅 22:40 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/akhbarefori/698212" target="_blank">📅 22:40 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698211">
@@ -849,7 +849,7 @@ faranex.com</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/akhbarefori/698211" target="_blank">📅 22:40 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/akhbarefori/698211" target="_blank">📅 22:40 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698210">
@@ -866,7 +866,7 @@ faranex.com</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/akhbarefori/698210" target="_blank">📅 22:39 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/akhbarefori/698210" target="_blank">📅 22:39 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698209">
@@ -885,7 +885,7 @@ faranex.com</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 27K · <a href="https://t.me/akhbarefori/698209" target="_blank">📅 22:36 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/akhbarefori/698209" target="_blank">📅 22:36 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698208">
@@ -895,7 +895,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/akhbarefori/698208" target="_blank">📅 22:31 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 32K · <a href="https://t.me/akhbarefori/698208" target="_blank">📅 22:31 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698207">
@@ -908,7 +908,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/akhbarefori/698207" target="_blank">📅 22:27 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/akhbarefori/698207" target="_blank">📅 22:27 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698205">
@@ -927,7 +927,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/akhbarefori/698205" target="_blank">📅 22:22 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/akhbarefori/698205" target="_blank">📅 22:22 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698204">
@@ -939,7 +939,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/akhbarefori/698204" target="_blank">📅 22:17 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/akhbarefori/698204" target="_blank">📅 22:17 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698203">
@@ -951,7 +951,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/akhbarefori/698203" target="_blank">📅 22:16 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/akhbarefori/698203" target="_blank">📅 22:16 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698201">
@@ -972,7 +972,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/akhbarefori/698201" target="_blank">📅 22:10 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/akhbarefori/698201" target="_blank">📅 22:10 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698200">
@@ -987,7 +987,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/akhbarefori/698200" target="_blank">📅 22:04 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.2K · <a href="https://t.me/akhbarefori/698200" target="_blank">📅 22:04 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698199">
@@ -1006,7 +1006,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/akhbarefori/698199" target="_blank">📅 21:56 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/akhbarefori/698199" target="_blank">📅 21:56 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698198">
@@ -1025,7 +1025,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/akhbarefori/698198" target="_blank">📅 21:53 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/akhbarefori/698198" target="_blank">📅 21:53 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698197">
@@ -1046,7 +1046,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/akhbarefori/698197" target="_blank">📅 21:50 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/akhbarefori/698197" target="_blank">📅 21:50 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698196">
@@ -1066,7 +1066,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/akhbarefori/698196" target="_blank">📅 21:40 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/akhbarefori/698196" target="_blank">📅 21:40 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698195">
@@ -1079,7 +1079,7 @@ Link</div>
 گزارش تحلیلی خبرفوری را اینجا بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3252213</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/akhbarefori/698195" target="_blank">📅 21:40 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.5K · <a href="https://t.me/akhbarefori/698195" target="_blank">📅 21:40 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698194">
@@ -1091,7 +1091,7 @@ khabarfoori.com/fa/tiny/news-3252213</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/akhbarefori/698194" target="_blank">📅 21:37 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/akhbarefori/698194" target="_blank">📅 21:37 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698193">
@@ -1102,7 +1102,7 @@ khabarfoori.com/fa/tiny/news-3252213</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/akhbarefori/698193" target="_blank">📅 21:35 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/akhbarefori/698193" target="_blank">📅 21:35 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698192">
@@ -1115,7 +1115,7 @@ khabarfoori.com/fa/tiny/news-3252213</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/akhbarefori/698192" target="_blank">📅 21:32 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/akhbarefori/698192" target="_blank">📅 21:32 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698191">
@@ -1134,7 +1134,7 @@ https://enbank.ir/s/mfabbXL
 02162740
 🌐
 www.enbank.ir</div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/akhbarefori/698191" target="_blank">📅 21:30 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/akhbarefori/698191" target="_blank">📅 21:30 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698190">
@@ -1154,7 +1154,7 @@ www.enbank.ir</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/akhbarefori/698190" target="_blank">📅 21:25 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/akhbarefori/698190" target="_blank">📅 21:25 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698188">
@@ -1166,7 +1166,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/akhbarefori/698188" target="_blank">📅 21:21 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/akhbarefori/698188" target="_blank">📅 21:21 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698187">
@@ -1185,7 +1185,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/akhbarefori/698187" target="_blank">📅 21:17 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/akhbarefori/698187" target="_blank">📅 21:17 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698186">
@@ -1204,7 +1204,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/akhbarefori/698186" target="_blank">📅 21:15 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.5K · <a href="https://t.me/akhbarefori/698186" target="_blank">📅 21:15 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698184">
@@ -1214,7 +1214,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/akhbarefori/698184" target="_blank">📅 21:12 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/akhbarefori/698184" target="_blank">📅 21:12 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698183">
@@ -1231,7 +1231,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/akhbarefori/698183" target="_blank">📅 21:10 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/akhbarefori/698183" target="_blank">📅 21:10 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698182">
@@ -1253,7 +1253,7 @@ Link</div>
 ۲۶ ربیع‌الثانی ۱۴۴۸ هجریهٔ قمریه علی هاجرها الاف الثناء
 🔗
 hoseini_tehrani</div>
-<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/akhbarefori/698182" target="_blank">📅 21:09 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/akhbarefori/698182" target="_blank">📅 21:09 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698181">
@@ -1271,7 +1271,7 @@ hoseini_tehrani</div>
 در فضای مجازی
 👇
 @Akhbar_Semnan</div>
-<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/akhbarefori/698181" target="_blank">📅 21:07 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/akhbarefori/698181" target="_blank">📅 21:07 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698176">
@@ -1291,7 +1291,7 @@ hoseini_tehrani</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/akhbarefori/698176" target="_blank">📅 21:05 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.6K · <a href="https://t.me/akhbarefori/698176" target="_blank">📅 21:05 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698175">
@@ -1311,7 +1311,7 @@ Link</div>
 🔹
 دولت وعده داده بود اعتبار کالابرگ را متناسب با نرخ تورم و قیمت کالاهای اساسی به‌روز کند، اما عملی نشدن این وعده می‌تواند اعتماد مردم به طرح‌های اصلاحی آینده را کاهش دهد.
 @Tv_Fori</div>
-<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/akhbarefori/698175" target="_blank">📅 21:00 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/akhbarefori/698175" target="_blank">📅 21:00 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698174">
@@ -1321,7 +1321,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/akhbarefori/698174" target="_blank">📅 20:55 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/akhbarefori/698174" target="_blank">📅 20:55 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698173">
@@ -1340,7 +1340,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/akhbarefori/698173" target="_blank">📅 20:52 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/akhbarefori/698173" target="_blank">📅 20:52 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698172">
@@ -1357,7 +1357,7 @@ Link</div>
 برای ثبت نام همایش بزرگ استاد مطلبی در مشهد از کد تخفیف BMT72 در لینک زیر استفاده کنید
 👇
 https://evand.com</div>
-<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/akhbarefori/698172" target="_blank">📅 20:50 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/akhbarefori/698172" target="_blank">📅 20:50 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698171">
@@ -1376,7 +1376,7 @@ https://evand.com</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/akhbarefori/698171" target="_blank">📅 20:47 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/akhbarefori/698171" target="_blank">📅 20:47 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698169">
@@ -1390,7 +1390,7 @@ https://evand.com</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/akhbarefori/698169" target="_blank">📅 20:42 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 34K · <a href="https://t.me/akhbarefori/698169" target="_blank">📅 20:42 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698167">
@@ -1401,7 +1401,7 @@ https://evand.com</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/akhbarefori/698167" target="_blank">📅 20:39 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/akhbarefori/698167" target="_blank">📅 20:39 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698166">
@@ -1426,7 +1426,7 @@ https://evand.com</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/akhbarefori/698166" target="_blank">📅 20:38 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/akhbarefori/698166" target="_blank">📅 20:38 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698165">
@@ -1445,7 +1445,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/akhbarefori/698165" target="_blank">📅 20:35 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/akhbarefori/698165" target="_blank">📅 20:35 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698164">
@@ -1459,7 +1459,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 32.4K · <a href="https://t.me/akhbarefori/698164" target="_blank">📅 20:33 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/akhbarefori/698164" target="_blank">📅 20:33 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698162">
@@ -1472,7 +1472,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 32.7K · <a href="https://t.me/akhbarefori/698162" target="_blank">📅 20:18 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/akhbarefori/698162" target="_blank">📅 20:18 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698161">
@@ -1505,7 +1505,7 @@ Link</div>
 در جریان جنگ تحمیلی آمریکایی ـ صهیونیستی، شماری از پالایشگاه‌های گازی منطقه پارس جنوبی هدف حملات دشمن قرار گرفتند که این حملات به آسیب‌دیدن تأسیسات و کاهش بخشی از ظرفیت فرآورش و تولید گاز کشور منجر شد. از این رو، ارزیابی روند بازسازی، شناسایی موانع اجرایی و اتخاذ تدابیر لازم برای تسریع در احیای ظرفیت‌های آسیب‌دیده، با هدف تقویت پایداری شبکه گاز و تأمین انرژی مورد نیاز کشور در آستانه فصل سرد سال، اهمیت ویژه‌ای دارد.
 🔴
 بانک شهر طی سال‌های اخیر با توسعه همکاری‌های خود با شرکت‌های بزرگ فعال در حوزه نفت، گاز و پتروشیمی، خدمات تخصصی بانکی و مالی از جمله تأمین مالی، گشایش اعتبارات اسنادی و صدور ضمانت‌نامه‌های بانکی را به این صنایع ارائه کرده است. حمایت از صنایع آسیب‌دیده در جنگ تحمیلی، به‌ویژه در بخش پتروشیمی، نیز در چارچوب رویکرد این بانک برای پشتیبانی از تولید و حفظ ظرفیت‌های راهبردی اقتصاد کشور دنبال می‌شود.</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/akhbarefori/698161" target="_blank">📅 20:18 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/akhbarefori/698161" target="_blank">📅 20:18 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698159">
@@ -1524,7 +1524,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/akhbarefori/698159" target="_blank">📅 20:16 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/akhbarefori/698159" target="_blank">📅 20:16 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698157">
@@ -1545,7 +1545,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/akhbarefori/698157" target="_blank">📅 20:12 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/akhbarefori/698157" target="_blank">📅 20:12 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698156">
@@ -1566,7 +1566,7 @@ Link</div>
 جزئیات را در این ویدیو ببینید.
 #قانون_متروک
 @Tv_Fori</div>
-<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/akhbarefori/698156" target="_blank">📅 20:10 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/akhbarefori/698156" target="_blank">📅 20:10 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698155">
@@ -1603,7 +1603,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/akhbarefori/698155" target="_blank">📅 20:08 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35K · <a href="https://t.me/akhbarefori/698155" target="_blank">📅 20:08 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698154">
@@ -1624,7 +1624,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/akhbarefori/698154" target="_blank">📅 20:06 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/akhbarefori/698154" target="_blank">📅 20:06 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698153">
@@ -1637,7 +1637,7 @@ Link</div>
 🔹
 تجربه مشاور سرمایه‌گذاری ترنج با ۱۱ صندوق سرمایه‌گذاری  و ۱۲۵ همت منابع تحت مدیریت، در کنار بانک سامان به‌عنوان یکی از ۳ بانک برتر خدمات ارزی در کشور، پشتوانه شکل‌گیری این صندوق است.
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/akhbarefori/698153" target="_blank">📅 20:01 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/akhbarefori/698153" target="_blank">📅 20:01 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698152">
@@ -1657,7 +1657,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/akhbarefori/698152" target="_blank">📅 19:59 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/akhbarefori/698152" target="_blank">📅 19:59 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698151">
@@ -1669,7 +1669,7 @@ Link</div>
 در این درگیری یک نیروی حافظ امنیت به شهادت رسید. #اخبار_سیستان_و_بلوچستان در فضای مجازی
 👇
 @Akhbar_sob</div>
-<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/akhbarefori/698151" target="_blank">📅 19:55 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.4K · <a href="https://t.me/akhbarefori/698151" target="_blank">📅 19:55 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698150">
@@ -1682,7 +1682,7 @@ Link</div>
 گزارش خبرفوری را اینجا بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3252082</div>
-<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/akhbarefori/698150" target="_blank">📅 19:52 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/akhbarefori/698150" target="_blank">📅 19:52 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698149">
@@ -1701,7 +1701,7 @@ khabarfoori.com/fa/tiny/news-3252082</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 32.5K · <a href="https://t.me/akhbarefori/698149" target="_blank">📅 19:48 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/akhbarefori/698149" target="_blank">📅 19:48 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698147">
@@ -1719,7 +1719,7 @@ Link</div>
 🔹
 به نظر می‌رسد برخی افراد با طرح چنین موضوعاتی در فضای رسانه‌ای و تبلیغاتی، بیشتر به‌دنبال مطرح‌کردن خودشان هستند.
 @Tv_Fori</div>
-<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/akhbarefori/698147" target="_blank">📅 19:38 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 39K · <a href="https://t.me/akhbarefori/698147" target="_blank">📅 19:38 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698144">
@@ -1739,7 +1739,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36K · <a href="https://t.me/akhbarefori/698144" target="_blank">📅 19:26 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/akhbarefori/698144" target="_blank">📅 19:26 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698143">
@@ -1754,7 +1754,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/akhbarefori/698143" target="_blank">📅 19:16 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 40K · <a href="https://t.me/akhbarefori/698143" target="_blank">📅 19:16 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698142">
@@ -1769,7 +1769,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/akhbarefori/698142" target="_blank">📅 19:15 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41K · <a href="https://t.me/akhbarefori/698142" target="_blank">📅 19:15 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698141">
@@ -1779,7 +1779,7 @@ Link</div>
 سفیر آمریکا در آستانه برکناری؛ اتهام رفتارهای نامناسب و تخلف!
 🔹
 ترامپ و روبیو در پی گزارش‌هایی درباره رفتارهای نامناسب، تهدید یک مقام یونانی و تلاش برای استفاده از نفوذ دولتی جهت پرداخت بدهی ۱۰۰ هزار دلاری سفیر آمریکا در یونان، در حال بررسی برکناری او هستند.…</div>
-<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/akhbarefori/698141" target="_blank">📅 19:13 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/akhbarefori/698141" target="_blank">📅 19:13 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698139">
@@ -1796,7 +1796,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/akhbarefori/698139" target="_blank">📅 19:04 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41K · <a href="https://t.me/akhbarefori/698139" target="_blank">📅 19:04 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698138">
@@ -1813,7 +1813,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/akhbarefori/698138" target="_blank">📅 18:59 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/akhbarefori/698138" target="_blank">📅 18:59 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698137">
@@ -1829,7 +1829,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/akhbarefori/698137" target="_blank">📅 18:53 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41K · <a href="https://t.me/akhbarefori/698137" target="_blank">📅 18:53 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698135">
@@ -1846,7 +1846,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/akhbarefori/698135" target="_blank">📅 18:49 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/akhbarefori/698135" target="_blank">📅 18:49 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698134">
@@ -1864,7 +1864,7 @@ Link</div>
 🔹
 تورم ۴۰ درصد اعلام شده، اما باتوجه به محاسبات، بالای ۴۰ درصد است.
 @Tv_Fori</div>
-<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/akhbarefori/698134" target="_blank">📅 18:42 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/akhbarefori/698134" target="_blank">📅 18:42 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698133">
@@ -1883,7 +1883,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/akhbarefori/698133" target="_blank">📅 18:37 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/akhbarefori/698133" target="_blank">📅 18:37 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698132">
@@ -1895,7 +1895,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/akhbarefori/698132" target="_blank">📅 18:34 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/akhbarefori/698132" target="_blank">📅 18:34 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698131">
@@ -1915,7 +1915,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/akhbarefori/698131" target="_blank">📅 18:28 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/akhbarefori/698131" target="_blank">📅 18:28 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698130">
@@ -1937,7 +1937,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 38.6K · <a href="https://t.me/akhbarefori/698130" target="_blank">📅 18:15 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/akhbarefori/698130" target="_blank">📅 18:15 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698129">
@@ -1953,7 +1953,7 @@ Link</div>
 🔹
 در صورت تداوم روند فعلی، امکان اسقاط بیش از ۲۵۰ هزار دستگاه در سال جاری وجود دارد، با تولید و عرضه سالانه حداقل یک میلیون و ۷۰۰ هزار دستگاه خودرو و موتورسیکلت، می‌توان به تحقق هدف اسقاط ۵۰۰ هزار دستگاه در سال آینده امیدوار بود.
 @Tv_Fori</div>
-<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/akhbarefori/698129" target="_blank">📅 18:07 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 40.7K · <a href="https://t.me/akhbarefori/698129" target="_blank">📅 18:07 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698128">
@@ -1966,7 +1966,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36.4K · <a href="https://t.me/akhbarefori/698128" target="_blank">📅 18:06 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 40.6K · <a href="https://t.me/akhbarefori/698128" target="_blank">📅 18:06 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698127">
@@ -1986,7 +1986,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 37.5K · <a href="https://t.me/akhbarefori/698127" target="_blank">📅 18:05 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/akhbarefori/698127" target="_blank">📅 18:05 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698126">
@@ -2007,7 +2007,7 @@ Link</div>
 🔻
 دریافت مشاوره رایگان و خرید در ۴ قسط:
 https://forms.gle/77f3J2oCbVsDkdqi7</div>
-<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/akhbarefori/698126" target="_blank">📅 18:02 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 39.8K · <a href="https://t.me/akhbarefori/698126" target="_blank">📅 18:02 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698125">
@@ -2035,7 +2035,7 @@ https://forms.gle/77f3J2oCbVsDkdqi7</div>
 👇
 https://www.20landing.com/214/2623
 https://www.20landing.com/214/2623</div>
-<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/akhbarefori/698125" target="_blank">📅 18:00 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 39.4K · <a href="https://t.me/akhbarefori/698125" target="_blank">📅 18:00 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698124">
@@ -2053,7 +2053,7 @@ https://www.20landing.com/214/2623</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/akhbarefori/698124" target="_blank">📅 17:49 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 39.9K · <a href="https://t.me/akhbarefori/698124" target="_blank">📅 17:49 · 21 Mehr 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698123">
@@ -2064,7 +2064,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/akhbarefori/698123" target="_blank">📅 17:44 · 21 Mehr 1405</a></div>
+<div class="tg-footer">👁️ 40K · <a href="https://t.me/akhbarefori/698123" target="_blank">📅 17:44 · 21 Mehr 1405</a></div>
 </div>
 
 <hr>
